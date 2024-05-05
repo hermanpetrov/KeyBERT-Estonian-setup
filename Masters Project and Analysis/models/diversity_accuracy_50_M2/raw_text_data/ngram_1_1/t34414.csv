@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,4,1,1,5,4,1,1,16,eurole; laevaliiklus; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
+4,0,4,1,1,5,4,1,1,16,eurole; laevaliiklus; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
+4,0,4,1,1,5,4,1,1,16,eurole; laevaliiklus; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
+4,0,5,1,1,4,4,1,1,16,eurole; elering; laevaliiklus; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
+4,0,5,1,1,4,3,1,1,16,eurole; elering; ida-virumaa; juurapiid; tartu; üleeuroopaline; euroopa
+4,0,4,1,1,4,3,1,1,16,eurole; euroopa; ida-virumaa; juurapiid; tartu; üleeuroopaline; elering
+5,0,4,1,1,2,3,0,1,16,eurole; osaühing; euroopa; ida-virumaa; juurapiid; tartu; üleeuroopaline; elering
+3,0,5,2,1,1,0,0,1,16,eurole; laevaliiklus; osaühing; ida-virumaa; juurapiid; komisjon; üleeuroopaline; elering
+3,0,4,3,1,1,0,0,1,16,eurole; laevaliiklus; euroopa; osaühing; ida-virumaa; juurapiid; komisjon; üleeuroopaline; elering
+5,1,2,1,1,2,0,1,1,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
+4,1,4,1,0,2,0,0,1,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; komisjon; üleeuroopaline; elering

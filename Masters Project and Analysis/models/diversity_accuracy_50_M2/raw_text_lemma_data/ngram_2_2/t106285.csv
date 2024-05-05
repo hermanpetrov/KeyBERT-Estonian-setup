@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,3,0,1,1,1,3,3,13,heinrich; tõlge; hoffmann; doktor; lugu; pseudonüüm
+3,3,3,0,1,1,1,3,3,13,heinrich; tõlge; hoffmann; doktor; lugu; pseudonüüm
+3,3,3,0,1,1,1,3,3,13,heinrich; tõlge; hoffmann; doktor; lugu; pseudonüüm
+3,2,3,0,1,1,1,3,3,13,heinrich; tõlge; hoffmann; doktor; lugu; pseudonüüm
+3,2,4,0,1,1,1,3,3,13,heinrich; tõlge; hoffmann; doktor; lugu; pseudonüüm
+3,4,4,1,1,2,3,4,3,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; pseudonüüm
+2,5,5,2,1,3,3,3,3,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
+2,2,4,0,1,3,1,2,3,13,heinrich; tõlge; psühholoogiline; hoffmann; lugu; pseudonüüm
+3,4,4,1,1,3,3,2,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; pseudonüüm
+2,4,4,1,1,2,4,3,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; pseudonüüm
+2,4,4,1,1,3,3,2,2,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm

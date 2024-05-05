@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,1,0,3,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+1,1,0,1,0,3,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+1,1,0,1,0,3,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+1,1,0,1,0,3,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+1,1,1,1,0,3,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+1,1,1,1,0,2,0,4,0,14,tulviste; mäng; normet; ingo; peeter
+0,0,3,1,0,4,0,3,0,14,psühhiaater; tulviste; peeter; normet; ingo
+0,0,3,3,0,4,1,2,0,14,fantaasia; tulviste; normet; ingo; peeter
+0,2,0,0,0,4,4,4,0,14,tulviste; peeter; ingo; normet; dramaturg; fantaasia
+0,3,2,0,0,3,3,6,0,14,psühhiaater; vaimuelu; tulviste; marksism; peeter; ingo; normet; dramaturg; fantaasia
+0,0,0,0,0,1,0,6,0,14,tulviste; ingo; normet; reaalsus; fantaasia; peeter

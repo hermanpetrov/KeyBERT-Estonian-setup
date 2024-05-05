@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,1,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,0,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,0,0,0,0,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; rahvatants
+4,3,0,1,0,0,0,0,0,11,kunst; jüri; kirjandus; tallinn; tartu; arrak; rahvatants
+4,3,0,1,1,0,1,0,0,11,kunst; rahvatants; jüri; juur; kirjandus; tallinn; tartu; arrak
+4,3,0,0,2,0,1,0,0,11,kunst; rahvatants; jüri; juur; kirjandus; tallinn; tartu; arrak

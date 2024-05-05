@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,2,4,0,3,5,5,5,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+2,4,2,4,0,3,5,5,5,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+2,4,3,4,0,3,4,5,5,15,lääne-euroopa; institutsioon; tark; tõnis; lukas; ordu; jaroslav; tartu; liivi
+2,4,7,5,1,4,4,6,5,15,lääne-euroopa; institutsioon; tark; tõnis; lukas; ordu; jaroslav; tartu; liivi
+2,4,7,6,2,5,4,6,4,15,lääne-euroopa; institutsioon; tark; tõnis; lukas; ordu; jaroslav; tartu; liivi
+2,7,7,7,3,8,8,6,4,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+5,6,7,6,5,8,4,7,3,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+3,5,8,5,6,7,6,7,3,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+5,5,9,8,6,7,5,8,3,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+7,5,7,8,6,7,6,8,3,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+2,4,6,8,7,7,7,6,4,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,1,2,2,2,3,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,2,1,2,2,2,3,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,2,1,2,2,2,3,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,2,2,2,2,2,3,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,2,2,2,2,2,4,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,2,1,2,2,1,4,2,3,13,poliitiline; vaim; otsus; margit; liivia
+1,1,2,3,2,2,4,2,3,13,margit; poliitiline; vaim; otsus; liivia
+3,2,2,5,2,1,3,2,3,13,poliitiline; vaim; otsus; margit; liivia
+3,4,2,2,5,1,3,2,3,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
+5,2,0,2,3,2,2,3,3,13,margit; puhkus; vaim; poliitiline; otsus; liivia
+2,1,3,3,2,5,2,3,3,13,keskkond; margit; puhkus; vaim; poliitiline; otsus; liivia

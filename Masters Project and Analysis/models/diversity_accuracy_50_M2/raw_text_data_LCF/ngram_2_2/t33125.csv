@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,1,2,0,2,2,2,2,18,erakond; arnold; tarmo; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+4,1,1,2,0,2,2,2,2,18,erakond; arnold; tarmo; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+4,1,2,2,0,2,2,2,2,18,erakond; arnold; tarmo; valimised; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+4,1,2,2,0,2,2,2,2,18,erakond; arnold; tarmo; valimised; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+4,1,1,2,0,2,2,2,2,18,erakond; arnold; tarmo; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+4,1,1,1,0,2,2,1,2,18,erakond; arnold; tarmo; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+3,0,1,3,0,1,2,1,3,18,kuslap; erakond; tarmo; rüütel; voldemar; strandberg; rohelised
+1,1,1,0,0,3,3,2,2,18,kuslap; erakond; tarmo; valimised; voldemar; strandberg; rohelised
+3,1,2,2,1,2,2,2,2,18,erakond; kuslap; kohus; arnold; tarmo; valimised; sotsiaaldemokraatlik; voldemar; strandberg
+1,1,3,4,0,1,2,4,2,18,kuslap; kohus; erakond; arnold; tarmo; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg; rohelised
+1,2,2,6,1,3,1,6,1,18,kuslap; kohus; erakond; arnold; tarmo; valimised; rüütel; sotsiaaldemokraatlik; voldemar; strandberg

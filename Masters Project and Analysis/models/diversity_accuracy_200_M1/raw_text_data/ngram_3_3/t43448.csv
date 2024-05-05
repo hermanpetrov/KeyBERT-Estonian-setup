@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,6,7,7,4,7,6,7,2,13,interaktiivne; epp; suurgild; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
+7,6,6,7,4,7,6,7,2,13,interaktiivne; epp; suurgild; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
+7,6,6,6,5,7,6,7,2,13,kaupmees; interaktiivne; epp; suurgild; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
+8,8,6,5,5,7,6,8,2,13,interaktiivne; epp; suurgild; ajaloomuuseum; keldriruum; näitus; kaupmees; ivar; leimus; alatalu; mündikogu
+8,8,5,5,6,7,5,8,2,13,interaktiivne; epp; suurgild; ajaloomuuseum; keldriruum; näitus; kaupmees; ivar; leimus; alatalu; mündikogu
+6,6,9,6,6,6,6,6,4,13,kaupmees; interaktiivne; epp; suurgild; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
+5,7,7,5,7,4,5,6,5,13,kaupmees; interaktiivne; epp; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
+5,7,8,6,9,4,6,5,5,13,interaktiivne; epp; suurgild; ajaloomuuseum; keldriruum; näitus; kaupmees; ivar; leimus; alatalu; mündikogu
+5,3,7,6,9,3,7,3,5,13,interaktiivne; epp; ajaloomuuseum; keldriruum; näitus; kaupmees; ivar; leimus; alatalu; mündikogu
+4,5,6,5,8,4,5,6,4,13,kaupmees; interaktiivne; epp; suurgild; ivar; ajaloomuuseum; leimus; alatalu; näitus; mündikogu
+5,5,7,5,8,5,4,6,5,13,interaktiivne; epp; suurgild; ajaloomuuseum; keldriruum; näitus; kaupmees; ivar; leimus; alatalu; mündikogu

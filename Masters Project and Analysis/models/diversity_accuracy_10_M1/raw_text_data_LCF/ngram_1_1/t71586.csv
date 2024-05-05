@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,1,0,0,15,rothschild; värvitoon; paruness; loss
+1,1,0,0,1,0,0,0,0,15,rothschild; värvitoon; loss
+0,1,0,0,1,0,0,0,0,15,rothschild; loss
+0,1,0,0,1,0,1,1,0,15,rothschild; helgi; loss
+0,0,0,0,1,0,1,1,0,15,rothschild; helgi; loss
+0,0,0,0,1,0,1,0,0,15,rothschild; loss

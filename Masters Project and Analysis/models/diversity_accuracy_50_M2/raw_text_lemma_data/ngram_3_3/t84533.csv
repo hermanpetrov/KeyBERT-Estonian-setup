@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,4,2,0,4,3,2,2,2,25,renn; roland; esimene; ludwig; remark; uus; torsel; louis; ferdinand; realism; maria; sõda; erich; jünger
+10,4,2,0,4,3,2,2,2,25,renn; roland; esimene; ludwig; remark; uus; torsel; louis; ferdinand; realism; maria; sõda; erich; jünger
+10,4,2,0,4,3,2,2,3,25,renn; roland; esimene; ludwig; remark; uus; torsel; louis; ferdinand; realism; maria; sõda; erich; jünger
+10,4,2,0,4,3,2,2,3,25,renn; roland; esimene; ludwig; remark; uus; torsel; louis; ferdinand; realism; maria; sõda; erich; jünger
+10,4,2,0,4,3,2,3,3,25,renn; roland; esimene; ludwig; remark; uus; torsel; louis; ferdinand; realism; maria; sõda; erich; jünger
+11,4,3,1,4,3,4,7,3,25,roland; remark; uus; torsel; louis; maria; jünger; renn; esimene; ludwig; realism; ferdinand; sõda; erich
+7,4,4,6,5,3,3,9,3,25,roland; remark; uus; torsel; louis; maria; jünger; renn; esimene; ludwig; realism; ferdinand; sõda; erich
+2,2,5,5,5,2,4,5,4,25,renn; esimene; remark; ludwig; uus; louis; realism; ferdinand; sõda; jünger
+2,3,5,8,4,6,4,5,6,25,renn; esimene; remark; uus; ludwig; louis; realism; ferdinand; maria; sõda; erich; jünger
+2,3,5,3,6,6,6,5,6,25,renn; sellinn; esimene; remark; uus; ludwig; realism; ferdinand; maria; sõda; erich; jünger
+1,3,2,4,7,10,3,6,7,25,remark; uus; louis; maria; jünger; renn; sellinn; esimene; ludwig; realism; ferdinand; sõda; erich

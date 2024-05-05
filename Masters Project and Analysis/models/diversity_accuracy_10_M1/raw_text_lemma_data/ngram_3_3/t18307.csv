@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,1,0,0,0,1,0,0,0,19,festival; hõff; mälberg; tamme
+2,0,0,2,0,0,0,0,0,19,festival; hõff; somaalia; rannik
+2,1,2,0,0,0,0,2,0,19,mälberg; tamme; mall
+2,0,0,1,0,0,0,2,0,19,festival; mälberg; mall; abhaasia; gruusia
+3,0,2,1,0,0,0,0,0,19,festival; tamme; mall; abhaasia; gruusia
+1,0,1,0,0,0,0,0,1,19,mälberg; abhaasia; tamme

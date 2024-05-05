@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,0,3,0,1,0,2,1,17,pirgu; saun; ruth-kaja; concordia; mõis; pekk
+4,1,0,3,0,1,0,2,1,17,pirgu; saun; ruth-kaja; concordia; mõis; pekk
+4,1,0,3,0,1,0,2,1,17,pirgu; saun; ruth-kaja; concordia; mõis; pekk
+4,1,0,3,0,1,0,2,1,17,pirgu; saun; ruth-kaja; concordia; mõis; pekk
+4,1,0,3,0,1,0,2,1,17,pirgu; saun; ruth-kaja; concordia; mõis; pekk
+4,1,0,3,0,1,1,2,1,17,norra; pekk; saun; ruth-kaja; concordia; pirgu; mõis
+4,1,0,3,0,1,1,3,1,17,norra; margit; pekk; saun; ruth-kaja; concordia; pirgu; mõis
+1,1,0,2,0,1,1,3,1,17,norra; pirgu; ruth-kaja; concordia; mõis; pekk
+1,0,0,2,0,1,1,3,1,17,norra; ruth-kaja; concordia; pirgu; pekk; mõis
+1,1,1,2,0,0,1,4,1,17,norra; psühholoog; pekk; mart; ruth-kaja; concordia; pirgu; mõis
+1,0,0,0,0,0,0,3,0,17,concordia; norra; ruth-kaja; mõis

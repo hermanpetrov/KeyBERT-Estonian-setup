@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps
+1,1,1,1,0,1,1,0,0,15,kontsertorkester; laps; dirigent
+0,0,1,0,0,1,0,0,0,15,kontsertorkester; dirigent
+0,0,0,0,0,3,1,0,0,15,laps; kontsertorkester; hando; dirigent
+1,1,1,0,0,2,0,0,0,15,laps; kontsertorkester; dirigent
+2,0,1,1,0,1,0,0,0,15,kontsertorkester; eve; laps; dirigent
+1,1,0,2,0,1,0,0,0,15,kontsertorkester; liiv; valdur

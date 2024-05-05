@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,4,9,6,4,7,4,7,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,4,9,6,4,7,5,7,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,4,9,6,4,5,5,7,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,3,9,6,4,5,5,6,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,3,9,6,5,6,5,6,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,3,9,6,5,6,6,7,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+6,2,7,6,5,4,6,6,6,11,inglane; õppus; saar; muhu; lapiline; tehnika; keel; saarlane
+7,3,6,5,5,6,6,6,6,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+7,2,6,6,5,6,6,5,5,11,inglane; õppus; saar; muhu; lapiline; tehnika; keel; saarlane
+6,2,6,6,7,6,7,6,7,11,inglane; õppus; muhu; taanlane; saar; lapiline; tehnika; keel; saarlane
+6,3,6,6,7,6,8,5,7,11,inglane; õppus; muhu; taanlane; saar; lapiline; tehnika; keel; saarlane

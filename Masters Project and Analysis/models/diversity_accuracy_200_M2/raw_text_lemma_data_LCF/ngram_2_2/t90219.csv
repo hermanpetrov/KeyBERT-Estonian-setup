@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,5,4,4,0,2,3,4,3,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,5,4,4,0,2,3,4,3,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,5,3,4,0,3,3,4,3,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+7,5,4,4,1,4,4,5,3,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+7,5,4,4,1,4,5,5,3,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+5,5,5,5,2,5,5,6,4,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,3,5,6,4,5,6,6,4,13,kirik; naine; poliitika; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,4,4,5,5,5,5,6,5,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+7,4,6,5,6,5,5,7,6,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,4,5,6,5,4,4,6,6,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
+6,4,5,4,5,4,3,6,5,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik

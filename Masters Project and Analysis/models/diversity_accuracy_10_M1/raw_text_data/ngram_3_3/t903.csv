@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,3,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus
+4,2,3,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus
+4,2,3,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus
+4,2,3,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus
+4,2,3,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus
+4,2,4,0,0,2,1,1,0,10,ameerika; sport; võit; võistlus; mees
+4,2,4,0,0,2,1,2,0,10,ameerika; sport; võit; võistlus; sõda; mees
+3,2,3,0,0,2,1,2,0,10,ameerika; sport; jalgpall; võistlus; sõda
+3,1,2,1,0,2,2,1,0,10,ameerika; sport; võistlus; sõda; meedia
+2,2,3,1,0,2,2,2,0,10,ameerika; sport; jalgpall; võistlus; sõda; meedia
+2,1,3,0,0,2,2,2,0,10,ameerika; sport; jalgpall; võistlus; sõda

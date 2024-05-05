@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,5,4,6,4,4,4,4,4,13,paul; rahu; kliima; toomas; nälg; kari; kartul; sõda
+5,5,4,6,4,4,4,4,4,13,paul; rahu; toomas; kliima; nälg; kari; kartul; sõda
+5,5,4,6,5,4,3,5,4,13,paul; rahu; toomas; kliima; nälg; kari; kartul; sõda
+4,6,5,6,6,4,4,6,4,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
+5,7,4,6,6,5,5,6,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
+7,5,5,6,5,5,5,6,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
+9,5,7,4,6,6,7,6,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
+8,9,8,5,6,6,6,8,4,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
+7,8,8,6,6,6,6,7,6,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
+7,6,8,4,6,7,7,7,5,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
+6,6,8,4,6,7,6,7,5,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda

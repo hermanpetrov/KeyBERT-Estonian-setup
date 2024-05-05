@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,3,3,2,0,3,3,0,19,disainer; pelisi; moeetendus; anatoomikum; performance; mood; kunstikool; tants; kollektsioon
+4,3,3,1,2,1,2,3,0,19,disainer; pelisi; moeetendus; anatoomikum; performance; mood; kunstikool; tants
+3,2,1,1,2,1,2,2,0,19,disainer; pelisi; moeetendus; anatoomikum; performance; mood; kunstikool; tants
+3,2,1,1,2,1,2,2,0,19,disainer; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kunstikool; tants; lavastaja
+2,2,1,1,2,2,3,2,0,19,disainer; pelisi; anatoomikum; performance; kristina; mood; kunstikool; tants
+1,2,2,1,1,4,4,4,0,19,tants; pelisi; anatoomikum; performance; mood; kunstikool; kollektsioon; lavastaja; kõrgem
+3,1,3,2,2,2,4,6,0,19,disainer; paju; lavastaja; anatoomikum; performance; kristina; mood; kunstikool; tants; kollektsioon; kõrgem; seenemaa
+0,1,2,0,4,4,4,3,0,19,anatoomikum; performance; kristina; mood; tants; lavastaja; kõrgem
+0,0,1,1,4,5,4,5,2,19,disainer; anatoomikum; performance; kristina; mood; kunstikool; tants; kõrgem
+0,1,1,1,2,4,3,4,0,19,disainer; pelisi; anatoomikum; performance; kristina; mood; tants; kõrgem
+1,1,3,1,4,4,2,4,1,19,disainer; pelisi; anatoomikum; performance; kristina; mood; kunstikool; tants; lavastaja; seenemaa

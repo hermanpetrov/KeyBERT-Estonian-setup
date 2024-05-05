@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,4,2,3,4,3,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+3,4,2,3,4,3,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+3,4,2,3,4,3,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+3,4,2,3,4,3,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+3,4,2,3,4,2,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+3,3,2,3,4,2,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+4,2,4,3,4,3,4,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+2,2,3,4,4,2,3,4,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
+1,2,2,5,4,5,5,2,2,15,haldjas; amsterdam; paruness; loss; park; ehitama
+1,2,2,5,4,4,4,2,2,15,luksuslik; amsterdam; paruness; loss; park; ehitama
+2,2,4,5,4,4,2,4,4,15,luksuslik; haldjas; amsterdam; paruness; loss; park; ehitama

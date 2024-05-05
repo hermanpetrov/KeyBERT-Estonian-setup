@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,7,3,3,3,5,4,5,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,7,3,3,3,5,4,4,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,7,4,3,3,5,3,4,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+5,7,4,3,3,5,3,4,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; tamm
+4,7,6,5,5,5,3,5,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+4,6,4,6,5,5,4,3,4,12,rand; liiv; tsükkel; torm; sadam; prognoos; tamm
+5,6,5,7,7,6,5,4,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,5,6,6,7,5,5,5,3,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,5,5,4,7,6,5,5,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,6,4,5,7,3,5,3,4,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
+6,5,6,5,6,5,6,3,5,12,rand; liiv; tsükkel; torm; sadam; prognoos; tamm

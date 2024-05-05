@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,0,0,0,0,0,1,11,moskva
+1,0,0,0,0,0,0,0,1,11,moskva
+1,0,0,0,0,0,0,0,1,11,moskva
+1,0,0,0,0,0,0,0,1,11,moskva
+1,0,0,0,0,0,0,0,1,11,moskva
+2,0,0,0,0,0,0,0,1,11,teater; moskva
+0,1,0,1,0,0,0,0,1,11,moskva; kongress
+1,0,0,0,0,1,0,0,1,11,kunst; moskva
+1,0,0,0,0,1,0,0,1,11,kunst; moskva
+1,0,0,0,0,0,0,0,0,11,moskva
+1,0,1,0,0,0,0,0,0,11,teater; kongress

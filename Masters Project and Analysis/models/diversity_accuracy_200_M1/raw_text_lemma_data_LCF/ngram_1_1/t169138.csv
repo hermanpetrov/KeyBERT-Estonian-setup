@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,6,7,3,4,4,5,2,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+7,6,7,3,5,4,5,2,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+7,6,7,3,6,5,5,2,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+7,6,7,3,6,6,5,3,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+7,7,7,3,6,7,7,4,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+7,6,7,3,6,7,7,6,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
+6,6,7,5,6,7,7,7,6,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
+6,5,7,6,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
+6,5,7,6,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
+6,5,7,7,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
+6,6,7,7,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus

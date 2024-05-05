@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,0,2,1,0,3,1,3,0,13,masing; soldat; metsavend; hanso; viktor; elmar
+2,1,2,1,0,2,1,3,0,13,masing; ülekuulamine; soldat; metsavend; hanso; elmar; isa
+0,0,2,0,0,3,0,3,0,13,hanso; metsavend; elmar; isa
+0,0,2,1,0,2,0,3,0,13,hanso; metsavend; elmar; isa
+0,3,2,2,0,2,0,3,0,13,soldat; metsavend; hanso; auto; elmar
+2,0,2,3,1,3,0,3,0,13,soldat; metsavend; hanso; auto; elmar; isa

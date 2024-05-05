@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,2,3,0,4,5,3,3,16,komöödia; august; olesk; ärkamisaeg; eesti; kitzberg; mart; vilde
+4,3,2,3,0,4,5,3,3,16,komöödia; august; olesk; ärkamisaeg; eesti; kitzberg; mart; vilde
+4,3,2,3,0,4,5,3,3,16,komöödia; august; olesk; ärkamisaeg; eesti; kitzberg; mart; vilde
+4,3,2,3,0,4,5,3,3,16,komöödia; august; olesk; ärkamisaeg; eesti; kitzberg; mart; vilde
+4,3,2,3,0,4,5,5,3,16,komöödia; august; olesk; ärkamisaeg; eesti; kitzberg; mart; peeter; vilde
+4,3,2,4,0,6,7,5,3,16,komöödia; ummelas; august; olesk; ärkamisaeg; eesti; kitzberg; mart; peeter; vilde
+5,2,3,3,0,4,6,8,3,16,komöödia; ummelas; august; olesk; tragöödia; ärkamisaeg; eesti; kitzberg; mart; peeter; vilde
+5,2,4,5,1,4,3,3,2,16,komöödia; august; tragöödia; ärkamisaeg; eesti; kitzberg; mart; peeter; vilde
+3,0,3,2,1,6,4,5,2,16,august; ärkamisaeg; eesti; kitzberg; mart; peeter; kirjandus; vilde
+4,1,4,5,1,5,4,3,3,16,komöödia; august; tragöödia; ärkamisaeg; eesti; kitzberg; mart; peeter; kirjandus; vilde
+3,0,2,5,1,3,4,4,2,16,komöödia; august; tragöödia; ärkamisaeg; eesti; kitzberg; peeter; mart; kirjandus; vilde

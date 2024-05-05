@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,2,2,2,3,3,4,3,12,peeter; sadam; kapten; admiral
+4,4,2,3,2,3,3,4,3,12,peeter; sadam; kapten; admiral
+4,4,3,3,2,3,4,4,2,12,peeter; sadam; kapten; admiral
+4,4,4,3,2,3,4,4,3,12,peeter; sadam; kapten; admiral
+4,4,4,3,2,4,4,4,3,12,peeter; sadam; kapten; admiral
+3,4,4,4,3,4,4,4,3,12,sadam; kapten; admiral; peeter
+4,3,4,4,3,4,3,4,2,12,sadam; kapten; admiral; peeter
+4,4,4,4,3,3,3,4,2,12,peeter; sadam; kapten; admiral
+4,4,4,3,3,3,3,4,3,12,peeter; sadam; kapten; admiral
+4,3,4,3,3,3,3,4,4,12,sadam; kapten; admiral; peeter
+4,3,3,3,2,3,3,4,4,12,sadam; kapten; admiral; peeter

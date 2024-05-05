@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,2,3,4,2,1,3,4,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+3,3,2,3,4,2,1,3,4,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+3,3,2,3,4,2,1,3,5,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+3,3,2,3,4,2,1,3,5,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+3,4,2,3,4,2,1,3,5,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+4,5,1,4,4,1,0,3,5,12,suitsetamine; liit; afganistan; teater; moskva; iraan; mäng; näitus
+6,3,0,3,4,2,2,3,5,12,suitsetamine; afganistan; liit; teater; moskva; iraan; mäng; näitus
+5,4,0,1,4,1,2,3,6,12,suitsetamine; mäng; afganistan; teater; moskva; iraan; liit; näitus
+3,5,4,3,4,2,3,1,7,12,suitsetamine; liit; afganistan; teater; moskva; iraan; mäng; näitus
+2,2,2,3,4,2,3,3,3,12,suitsetamine; afganistan; mäng; teater; süda; moskva; iraan; liit
+2,2,1,2,2,1,0,2,3,12,suitsetamine; mäng; afganistan; teater; süda; moskva; iraan; liit

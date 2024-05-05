@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,4,0,0,0,0,2,0,12,vaimulik; toomhärra; piiskopkond; tartu
+0,2,4,0,0,0,0,2,0,12,vaimulik; toomhärra; piiskopkond; tartu
+0,2,4,0,0,0,0,2,0,12,vaimulik; toomhärra; piiskopkond; tartu
+0,2,4,0,0,0,0,2,0,12,vaimulik; toomhärra; piiskopkond; tartu
+0,2,3,0,0,0,0,3,0,12,toomhärra; vaimulik; piiskopkond; tartu
+0,2,2,0,0,0,0,3,0,12,toomhärra; vaimulik; piiskopkond; tartu
+2,2,2,0,0,0,0,3,0,12,toomhärra; piiskopkond; tartu; euroopa
+1,0,1,0,0,0,0,2,0,12,tartu; euroopa
+0,0,2,0,0,0,0,1,0,12,toomhärra; tartu
+0,1,2,0,0,0,0,0,0,12,tartu; katoliku
+0,1,2,0,0,0,0,1,0,12,toomhärra; tartu; katoliku

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,7,4,5,5,4,3,5,6,13,talv; uno; sümpaatne; eesti; loop; austraalia; enno; pere; habe; mees
+7,7,4,5,5,4,3,5,6,13,talv; uno; sümpaatne; eesti; loop; austraalia; enno; pere; habe; mees
+7,8,4,6,5,4,5,5,6,13,talv; uno; sümpaatne; loop; eesti; austraalia; lava; enno; pere; habe; mees
+8,8,4,6,5,4,5,5,6,13,talv; uno; sümpaatne; loop; eesti; austraalia; lava; pere; habe; mees
+7,8,7,8,6,4,6,7,6,13,talv; uno; sümpaatne; pere; habe; tammer; loop; eesti; austraalia; lava; enno; mees
+6,8,8,8,6,3,7,7,6,13,talv; uno; sümpaatne; pere; habe; tammer; eesti; loop; austraalia; lava; enno; mees
+5,5,5,8,6,7,7,7,6,13,talv; uno; tammer; sümpaatne; eesti; austraalia; loop; enno; pere; habe; mees
+6,7,8,9,6,6,8,7,6,13,talv; uno; sümpaatne; pere; habe; tammer; eesti; austraalia; loop; lava; enno; mees
+6,8,8,8,5,6,8,7,6,13,talv; uno; sümpaatne; pere; habe; tammer; loop; eesti; lava; austraalia; enno; mees
+7,7,10,8,5,7,9,9,6,13,talv; uno; sümpaatne; pere; habe; tammer; eesti; austraalia; loop; enno; mees
+7,9,8,8,7,7,8,9,5,13,talv; uno; sümpaatne; pere; habe; tammer; eesti; austraalia; loop; enno; mees

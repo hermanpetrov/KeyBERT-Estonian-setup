@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+1,0,0,1,0,2,0,0,0,12,seitse; surmapattu; paul
+0,0,0,1,0,2,0,0,0,12,seitse; surmapattu
+0,0,0,1,0,2,2,0,0,12,seitse; surmapattu
+0,0,0,0,0,3,2,0,0,12,surmapattu; paul; seitse
+0,0,0,0,0,3,2,0,0,12,surmapattu; paul; seitse
+0,0,0,0,0,3,2,0,0,12,surmapattu; paul; seitse

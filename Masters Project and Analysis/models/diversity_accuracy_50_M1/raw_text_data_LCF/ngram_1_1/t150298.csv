@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,3,1,1,1,1,2,0,10,režissöör; kirjandus; televisioon; saade; toimetus; raadio
+3,0,3,1,1,1,1,2,0,10,režissöör; kirjandus; televisioon; saade; toimetus; raadio
+3,0,3,1,1,1,1,2,0,10,režissöör; kirjandus; televisioon; saade; toimetus; raadio
+3,0,3,1,1,1,1,2,0,10,režissöör; kirjandus; televisioon; saade; toimetus; raadio
+3,0,2,1,1,1,1,2,0,10,režissöör; kirjandus; televisioon; saade; toimetus; raadio
+3,0,1,1,1,1,1,1,0,10,režissöör; kirjandus; televisioon; toimetus; raadio
+2,1,2,1,1,1,2,1,0,10,režissöör; film; televisioon; saade; toimetus; raadio
+1,0,0,0,0,1,2,1,0,10,režissöör; raadio; loosung; televisioon
+1,0,1,0,0,1,2,2,0,10,režissöör; loosung; televisioon; saade; raadio
+1,0,1,1,0,1,2,0,0,10,režissöör; televisioon; raadio
+0,0,1,1,0,2,2,1,0,10,režissöör; televisioon; raadio

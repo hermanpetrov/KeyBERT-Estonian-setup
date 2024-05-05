@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,0,0,1,3,3,1,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+2,2,2,0,0,1,3,3,0,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+2,2,2,0,0,1,3,3,0,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+2,2,2,0,0,1,3,3,0,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+2,2,2,0,0,1,3,3,0,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+2,3,2,1,0,1,2,3,0,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+4,3,1,0,0,1,2,3,1,15,rütm; muusikaline; popmuusika; sekk; mansour; maa; traditsioon; lääne-aafrika
+1,3,1,2,0,2,2,1,1,15,sekk; rütm; mandingo; maa; traditsioon; paavo; muusikaline; lääne-aafrika
+3,3,1,0,0,1,1,1,1,15,sekk; mandingo; mansour; traditsioon; muusikaline; maa; lääne-aafrika
+0,1,0,0,0,1,1,2,2,15,sekk; maa; traditsioon; muusikaline; lääne-aafrika
+0,1,1,1,0,0,2,3,2,15,sekk; maa; mandingo; traditsioon; muusikaline; popmuusika; lääne-aafrika

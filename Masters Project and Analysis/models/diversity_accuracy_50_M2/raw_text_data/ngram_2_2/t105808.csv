@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,2,0,2,2,0,2,2,10,ants; pavel; signe; tartu
+4,3,2,0,2,2,0,2,2,10,ants; pavel; signe; tartu
+4,3,2,0,2,2,0,2,2,10,ants; pavel; signe; tartu
+4,3,2,0,2,2,0,2,2,10,ants; pavel; signe; tartu
+4,3,2,0,2,2,0,2,2,10,ants; pavel; signe; tartu
+3,2,2,0,2,1,1,2,2,10,ants; pavel; signe; tartu
+3,1,2,1,2,1,2,2,2,10,ants; pavel; signe; tartu
+2,1,2,1,2,2,2,1,2,10,pavel; ants; signe; tartu
+1,0,2,1,3,1,2,1,3,10,ants; pavel; signe; elu
+2,0,2,1,2,1,2,1,2,10,ants; pavel; signe
+1,0,1,1,2,0,2,0,2,10,ants; pavel; signe

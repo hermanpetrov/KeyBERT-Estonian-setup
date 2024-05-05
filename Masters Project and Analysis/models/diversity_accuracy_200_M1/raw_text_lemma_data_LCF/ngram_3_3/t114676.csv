@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,9,7,5,5,9,7,9,6,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+10,9,7,6,5,9,9,10,6,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+10,9,7,6,5,9,8,10,6,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+10,9,9,7,7,9,8,9,6,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+10,9,10,7,8,9,9,10,7,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+10,10,10,8,8,10,10,9,7,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+8,9,10,10,8,10,10,10,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+6,7,11,9,10,9,9,10,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+7,7,10,9,10,8,8,9,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+7,9,10,9,10,9,9,9,9,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+6,9,10,9,10,8,9,9,9,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit

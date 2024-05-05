@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,7,1,5,3,4,6,5,4,15,separaat; psühhiaater; juhan; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+5,7,1,5,3,5,6,5,5,15,separaat; psühhiaater; juhan; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+5,7,1,5,4,5,6,6,4,15,separaat; psühhiaater; juhan; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+6,7,1,6,4,5,6,6,3,15,separaat; psühhiaater; juhan; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+6,6,2,7,4,7,5,6,3,15,separaat; psühhiaater; juhan; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+6,5,4,7,5,8,3,6,4,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
+5,5,7,2,5,7,6,9,4,15,juhan; šbiil; mati; dramaturg; psühhiaater; separaat; vaino; luiga; liit; identiteet; vahing
+5,7,7,5,6,5,3,10,4,15,juhan; šbiil; mati; dramaturg; psühhiaater; separaat; vaino; luiga; liit; identiteet; vahing
+5,5,8,5,7,4,3,9,3,15,juhan; mati; šbiil; dramaturg; psühhiaater; separaat; vaino; luiga; liit; identiteet; vahing
+5,6,9,5,7,2,5,8,4,15,psühhiaater; separaat; juhan; vaino; luiga; mati; šbiil; liit; identiteet; dramaturg; vahing
+4,4,9,5,6,5,5,7,3,15,psühhiaater; separaat; juhan; vaino; luiga; mati; šbiil; liit; identiteet; dramaturg; vahing

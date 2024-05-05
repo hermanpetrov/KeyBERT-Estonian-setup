@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,0,1,1,1,0,12,propaganda; nõukogude
+2,1,1,0,0,1,1,1,0,12,propaganda; nõukogude
+2,1,1,0,0,1,1,1,0,12,propaganda; nõukogude
+2,1,1,0,0,1,1,1,1,12,propaganda; nõukogude
+2,1,1,0,0,1,1,2,1,12,propaganda; nõukogude; aastad
+1,0,1,0,0,1,1,2,1,12,nõukogude; aastad
+2,2,2,1,0,2,1,2,1,12,propaganda; nõukogude; aeg; hügieen; aastad
+0,1,2,1,0,2,1,2,0,12,propaganda; nõukogude; aeg; aastad
+1,1,1,1,1,1,1,2,0,12,propaganda; nõukogude; kahekümnendad; aeg; aastad
+3,2,1,1,1,1,1,2,0,12,propaganda; nõukogude; kahekümnendad; aeg; aastad
+3,1,1,1,1,1,0,2,1,12,propaganda; nõukogude; kahekümnendad; aastad

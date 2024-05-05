@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+1,2,1,1,0,1,2,1,2,13,õpetamine; hiiu; aasta; sõna
+3,2,1,1,0,1,2,1,2,13,lili; õpetamine; hiiu; käär; aasta; sõna
+2,2,1,1,0,1,2,1,2,13,lili; õpetamine; hiiu; käär; aasta; sõna
+2,1,1,1,0,1,2,1,2,13,lili; õpetamine; sõna; hiiu; käär; aasta
+0,1,2,2,0,1,2,1,2,13,õpetamine; sõna; hiiu; aasta
+0,1,2,2,0,1,2,1,2,13,õpetamine; sõna; hiiu; hiidlane; aasta

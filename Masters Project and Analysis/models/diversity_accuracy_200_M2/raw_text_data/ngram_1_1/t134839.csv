@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,4,1,1,4,4,1,2,15,eesti; aktsiisipoliitika; eelarve; ajaloomuuseum; kultuuripoliitika; abikaasade; liit; euroopa
+3,1,3,1,1,4,4,0,2,15,eesti; aktsiisipoliitika; eelarve; ajaloomuuseum; kultuuripoliitika; abikaasade; liit; euroopa
+3,2,0,0,0,4,4,0,2,15,eesti; aktsiisipoliitika; ajaloomuuseum; kultuuripoliitika; liit; euroopa
+3,2,0,0,1,4,5,0,2,15,eesti; aktsiisipoliitika; ajaloomuuseum; kultuuripoliitika; liit; euroopa
+2,2,0,0,1,3,5,0,2,15,eesti; aktsiisipoliitika; ajaloomuuseum; kultuuripoliitika; abikaasade; liit; euroopa
+1,3,1,0,1,2,3,0,2,15,rahapesu; eesti; aktsiisipoliitika; kultuuripoliitika; ajaloomuuseum; abikaasade
+0,3,1,0,1,1,2,1,2,15,ajaloomuuseum; rahapesu; abikaasade; eesti; aktsiisipoliitika
+0,2,1,1,2,1,2,1,2,15,ajaloomuuseum; eesti; aktsiisipoliitika; euroopa
+0,3,1,1,2,1,1,0,1,15,ajaloomuuseum; rahapesu; eesti; aktsiisipoliitika; euroopa
+0,1,1,0,1,1,1,1,1,15,ajaloomuuseum; eesti; aktsiisipoliitika
+0,1,0,1,2,1,1,1,1,15,eesti; aktsiisipoliitika; ajaloomuuseum

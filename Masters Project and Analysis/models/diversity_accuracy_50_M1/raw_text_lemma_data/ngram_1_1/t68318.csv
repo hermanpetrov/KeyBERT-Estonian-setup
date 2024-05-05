@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,3,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,3,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,3,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,3,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,2,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,2,0,0,2,1,1,0,12,kool; eestlane; uuring; euroopa
+0,2,2,0,0,1,0,1,0,12,kool; eestlane; uuring; euroopa
+0,1,2,0,0,1,0,1,0,12,sõstar; kool; eestlane; euroopa
+1,1,2,2,0,1,0,2,0,12,sõstar; innove; kool; eestlane; subtiiter; euroopa
+1,0,2,0,0,1,0,1,0,12,sõstar; kool; eestlane; subtiiter; euroopa
+1,1,2,2,0,1,0,1,0,12,sõstar; kersti; eestlane; subtiiter; euroopa

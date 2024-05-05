@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,2,1,3,3,1,0,11,kaarel; liivarand; orviku; sadam; prognoos; geoloogia; veetõus
+1,1,0,1,1,3,3,1,0,11,kaarel; liivarand; orviku; sadam; geoloogia; veetõus
+1,1,0,1,1,3,3,1,0,11,kaarel; liivarand; orviku; sadam; geoloogia; veetõus
+1,1,0,1,1,3,3,1,0,11,kaarel; liivarand; orviku; sadam; geoloogia; veetõus
+1,0,0,1,1,2,3,1,0,11,sadam; geoloogia; kaarel; liivarand; veetõus; orviku
+0,1,1,2,1,1,2,1,0,11,sadam; prognoos; kaarel; liivarand; veetõus; orviku
+0,0,1,1,1,2,1,1,0,11,geoloogia; sadam; kaarel; veetõus; orviku
+1,0,0,0,1,2,1,0,0,11,liivarand; sadam; kaarel; orviku
+0,0,0,1,1,2,1,1,0,11,sadam; prognoos; kaarel; liivarand; orviku
+0,0,1,3,1,1,2,1,1,11,geoloogia; prognoos; kaarel; sadam; liivarand; veetõus; orviku
+1,0,1,1,0,1,1,2,1,11,geoloogia; prognoos; kaarel; orviku; veetõus; tamm

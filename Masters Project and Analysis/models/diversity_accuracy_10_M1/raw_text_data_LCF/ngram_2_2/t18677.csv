@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,4,0,2,1,2,0,16,henry; šotimaa; esimene; edinburgh; loss; mägismaa; bob; elizabeth; dylan
+2,2,1,4,0,2,1,2,0,16,henry; šotimaa; esimene; edinburgh; loss; mägismaa; bob; elizabeth; dylan
+2,2,1,4,0,2,1,2,0,16,henry; šotimaa; esimene; edinburgh; loss; mägismaa; bob; elizabeth; dylan
+2,2,1,4,0,2,1,2,0,16,henry; šotimaa; esimene; edinburgh; loss; mägismaa; bob; elizabeth; dylan
+2,3,1,4,0,2,1,2,0,16,henry; šotimaa; esimene; edinburgh; loss; mägismaa; bob; elizabeth; dylan
+2,2,1,4,0,1,1,2,0,16,edinburgh; henry; šotimaa; elizabeth; bob; esimene; dylan
+0,1,1,4,0,0,1,1,0,16,henry; šotimaa; elizabeth; bob; dylan
+2,1,1,4,0,0,1,1,0,16,henry; šotimaa; bob; elizabeth; dylan
+0,1,3,4,0,0,0,1,1,16,henry; šotimaa; elizabeth; bob; esimene; dylan
+0,1,2,4,0,2,0,1,1,16,henry; šotimaa; elizabeth; bob; esimene; dylan
+1,1,1,4,0,2,0,1,0,16,henry; šotimaa; bob; esimene; elizabeth; dylan

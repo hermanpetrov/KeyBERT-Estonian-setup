@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
+0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
+0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
+0,0,1,0,0,2,2,1,0,15,sümfooniaorkester; kontsertorkester
+0,0,1,0,0,2,2,0,0,15,sümfooniaorkester; kontsertorkester
+0,0,2,0,0,1,2,0,0,15,sümfooniaorkester; rakvere; kontsertorkester; dirigent
+0,0,1,0,0,0,1,0,0,15,rakvere; dirigent
+0,1,1,0,0,0,1,0,0,15,luha; rakvere; dirigent
+0,0,1,0,0,0,1,1,0,15,sümfooniaorkester; rakvere; dirigent
+0,0,0,1,0,1,1,0,0,15,kontsertorkester; hando; dirigent
+0,0,1,0,0,1,0,1,0,15,hando; põldmäe; rakvere

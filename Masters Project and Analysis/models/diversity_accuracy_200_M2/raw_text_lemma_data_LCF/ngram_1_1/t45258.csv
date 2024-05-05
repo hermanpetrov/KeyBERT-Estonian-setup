@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,4,5,0,1,5,5,3,3,19,festival; abistamine; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
+1,4,5,0,1,7,5,4,3,19,festival; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
+1,4,4,0,0,7,5,4,3,19,festival; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
+1,4,3,0,0,8,6,4,4,19,festival; abistamine; elanikkond; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
+2,2,5,0,1,8,6,4,4,19,festival; abistamine; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
+1,1,4,2,2,7,7,5,4,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
+1,1,6,4,3,6,8,4,4,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
+2,0,5,5,3,6,8,4,4,19,festival; elanikkond; abistamine; kreeka; usa; mesila; bulgaaria; liit; taal; euroopa; rudolf
+1,1,4,4,4,5,6,5,3,19,festival; abistamine; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; rudolf
+1,0,7,5,6,5,7,5,3,19,festival; abistamine; elanikkond; kreeka; usa; mesila; bulgaaria; liit; taal; euroopa; rudolf
+1,1,5,5,6,4,6,7,2,19,festival; abistamine; elanikkond; kreeka; usa; bulgaaria; liit; taal; euroopa; rudolf

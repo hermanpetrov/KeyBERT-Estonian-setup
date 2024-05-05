@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,1,0,3,0,1,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+1,1,2,1,0,3,0,1,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+1,1,2,1,0,3,0,1,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+1,1,2,1,0,3,0,1,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+1,1,2,1,0,3,0,2,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+1,1,2,1,0,3,2,2,0,14,hainsalu; kirjanik; sõna; keel; luuletaja; eesti
+0,1,1,1,0,2,1,3,0,14,hainsalu; kirjanik; sõna; luuletaja; eesti
+1,1,1,0,0,1,1,2,0,14,hainsalu; kirjanik; sõna; luuletaja; eesti
+0,0,1,1,0,1,0,2,0,14,hainsalu; 40; luuletaja; eesti
+0,0,1,1,0,3,0,1,0,14,kiri; hainsalu; kirjanik; keel; eesti; sõna
+0,3,0,1,0,1,1,0,0,14,keel; eesti; luuletaja; kiri

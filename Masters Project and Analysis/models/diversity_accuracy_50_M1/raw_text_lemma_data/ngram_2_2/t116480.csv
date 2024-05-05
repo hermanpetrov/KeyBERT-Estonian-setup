@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,2,2,0,1,1,1,1,16,ungari; tormis; arvo; õhtu; temperamentne
+1,2,2,2,0,1,1,1,1,16,ungari; tormis; arvo; õhtu; temperamentne
+1,2,2,2,0,1,1,1,1,16,ungari; tormis; arvo; õhtu; temperamentne
+1,2,2,2,0,1,1,1,1,16,ungari; tormis; arvo; õhtu; temperamentne
+1,2,1,2,0,1,1,1,1,16,ungari; tormis; õhtu; temperamentne; arvo
+1,2,1,2,0,2,1,1,1,16,ungari; tormis; õhtu; temperamentne; arvo; ellerhein
+3,2,2,3,0,3,2,2,1,16,tormis; veljo; temperamentne; ellerhein; ungari; õhtu; kaljuste; arvo
+2,1,2,3,0,4,3,2,1,16,tormis; veljo; ellerhein; ungari; õhtu; kaljuste; arvo
+4,1,3,1,0,3,3,2,1,16,tormis; veljo; ungari; õhtu; raud; kaljuste; arvo
+1,2,1,1,0,4,3,4,1,16,veljo; temperamentne; ellerhein; ungari; õhtu; kaljuste; tõnu; arvo
+2,1,2,2,0,3,4,1,1,16,veljo; temperamentne; ellerhein; ungari; õhtu; kaljuste; tõnu; arvo

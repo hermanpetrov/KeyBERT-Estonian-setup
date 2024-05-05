@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,1,0,0,1,11,piloot; eesti; volga
+0,0,1,0,0,1,0,0,1,11,piloot; eesti; volga
+1,0,1,0,1,1,0,0,1,11,volga; leningrad; piloot; eesti
+1,0,1,0,1,0,0,0,1,11,piloot; eesti; leningrad
+1,0,0,0,1,0,0,1,1,11,piloot; eesti; leningrad
+1,0,0,0,1,1,0,1,1,11,piloot; eesti; leningrad
+1,1,0,2,1,0,1,1,2,11,leningrad; piloot; eesti
+0,0,1,1,1,0,1,1,2,11,leningrad; piloot; eesti
+1,0,2,2,0,1,1,1,2,11,piloot; eesti; leningrad
+1,0,0,1,1,1,0,2,3,11,leningrad; piloot; eesti
+1,0,1,1,1,1,1,2,2,11,leningrad; piloot; eesti

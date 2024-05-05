@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,5,6,5,3,5,6,9,6,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
+5,4,6,5,3,5,6,9,6,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
+5,4,6,5,3,5,6,9,6,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
+6,4,5,5,3,5,6,9,6,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
+6,4,7,5,4,9,7,8,6,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
+6,5,8,7,4,7,6,9,6,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
+9,5,8,9,4,8,5,9,6,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
+6,7,7,7,4,7,7,8,7,13,kunst; marco; eesti; meedia; elken; jaan; tsensuur; formaat; näitus
+4,6,5,7,5,5,8,7,8,13,kunst; marco; eesti; meedia; elken; jaan; tsensuur; formaat; näitus
+4,5,6,7,6,6,7,8,8,13,kunst; marco; eesti; meedia; elken; jaan; tsensuur; formaat; näitus
+5,6,5,7,6,5,6,9,8,13,kunst; marco; eesti; meedia; elken; jaan; tsensuur; formaat; näitus

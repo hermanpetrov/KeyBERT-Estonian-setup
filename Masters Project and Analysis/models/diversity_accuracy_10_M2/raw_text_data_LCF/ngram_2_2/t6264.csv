@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,3,1,2,0,0,1,1,0,15,wilhelm; berliini; friedrich; saksamaa; berliin
+4,1,1,0,0,0,0,4,0,15,tööstusrevolutsioon; wilhelm; berliini; maailmasõda; friedrich; saksamaa; berliin
+0,0,1,0,0,0,1,0,0,15,saksamaa; berliini
+0,0,1,0,0,0,1,0,0,15,saksamaa; berliin
+0,0,1,0,0,0,0,0,1,15,saksamaa; bismarck
+1,1,1,0,0,0,0,1,0,15,maailmasõda; tööstusrevolutsioon; bismarck; saksamaa

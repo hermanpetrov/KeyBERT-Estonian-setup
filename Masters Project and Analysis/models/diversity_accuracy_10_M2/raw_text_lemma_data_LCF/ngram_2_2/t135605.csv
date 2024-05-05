@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,1,0,2,1,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,2,1,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,2,1,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,2,1,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,2,1,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,2,2,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,1,2,0,11,orkester; ingeli; oboe; repertuaar
+1,0,1,0,1,0,0,2,0,11,orkester; sport; ingeli; repertuaar; oboe
+1,0,0,0,0,1,1,1,0,11,oboe; orkester; ingeli; sport
+1,0,0,1,0,1,2,0,0,11,orkester; sport; oboe; repertuaar
+1,0,0,2,0,1,2,0,0,11,oboe; orkester; repertuaar

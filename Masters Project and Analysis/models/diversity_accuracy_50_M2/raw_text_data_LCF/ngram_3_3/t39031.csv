@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,2,2,2,1,2,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+5,2,2,2,2,1,2,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+5,2,2,2,2,1,2,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+5,2,2,2,2,1,2,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+5,2,3,2,2,1,2,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+5,2,3,2,2,1,1,4,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; abikaasa; playboy
+6,2,3,3,2,1,0,7,1,12,laulasmaa; uno; muusika; tammer; loop; austraalia; enno; abikaasa; playboy
+2,3,2,6,2,1,3,5,1,12,uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy
+1,3,4,4,4,1,1,3,0,12,laulasmaa; uno; muusika; loop; austraalia; habe; abikaasa; playboy
+1,1,3,4,4,3,1,3,2,12,laulasmaa; uno; muusika; loop; austraalia; habe; playboy
+1,3,1,3,4,1,0,2,2,12,uno; muusika; loop; austraalia; habe; playboy

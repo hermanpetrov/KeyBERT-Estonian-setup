@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,2,4,0,1,3,2,1,13,vaimuinimene; muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+4,3,2,4,0,1,3,2,1,13,vaimuinimene; muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+4,3,2,4,0,1,3,2,1,13,vaimuinimene; muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+4,3,2,4,0,1,3,3,1,13,vaimuinimene; muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+4,2,2,4,0,1,3,3,1,13,vaimuinimene; muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+4,3,2,5,0,2,4,3,1,13,vaimuinimene; tindur; muusika; haapsalu; presidendi; liivia; moekunstnik
+1,2,3,3,0,4,4,3,1,13,vaimuinimene; tindur; muusika; haapsalu; presidendi; liivia; moekunstnik
+1,3,4,4,0,3,5,3,1,13,tindur; muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
+2,2,0,4,0,4,4,4,1,13,tindur; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
+1,4,0,2,2,2,2,3,1,13,vaimuinimene; muusika; haapsalu; presidendi; disainima; liivia; tindur; moekunstnik
+0,1,1,2,3,2,2,2,1,13,tindur; haapsalu; presidendi; liivia; disainima; moekunstnik

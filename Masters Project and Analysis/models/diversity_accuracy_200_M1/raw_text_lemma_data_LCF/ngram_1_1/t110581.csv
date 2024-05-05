@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,0,2,3,3,2,3,12,villem; kristus; telling; kubi; proua; mõisnik; eduard
+2,2,3,0,2,4,3,3,3,12,villem; kristus; telling; kubi; proua; mõisnik; eduard
+1,2,2,0,2,4,3,3,3,12,villem; kristus; telling; kubi; proua; mõisnik; eduard
+1,2,2,1,2,4,4,3,3,12,villem; eduard; kristus; telling; kubi; mõisnik; hobune
+1,2,3,2,3,6,5,3,3,12,villem; eduard; kristus; telling; kubi; proua; mõisnik; hobune
+1,2,5,4,4,6,5,3,3,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard; ilus
+1,1,5,2,4,6,4,5,3,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard; ilus
+2,1,4,4,4,4,4,5,3,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
+1,1,4,4,5,5,4,6,5,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard; ilus
+2,0,5,5,4,5,4,5,5,12,villem; eduard; kristus; telling; kubi; proua; mõisnik; hobune; ilus
+2,0,4,4,4,5,3,5,4,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard; ilus

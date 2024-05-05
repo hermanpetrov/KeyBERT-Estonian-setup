@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,6,4,2,2,1,3,2,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; laul; maarja; 2015; raadio; eesti; bänd; ansambel; kaks
+5,5,4,2,2,1,3,2,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; eesti; 2015; raadio; bänd; ansambel; kaks
+5,4,4,2,2,2,4,2,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; eesti; 2015; raadio; bänd; ansambel; kaks
+5,4,3,2,2,3,4,2,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; eesti; 2015; raadio; bänd; ansambel; kaks
+4,4,4,3,3,3,5,4,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; eesti; 2015; raadio; tmw; bänd; ansambel; kaks
+3,4,4,2,4,4,3,5,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; eesti; 2015; raadio; tmw; bänd; ansambel; kaks
+2,3,4,5,4,3,3,6,4,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; 2015; eesti; raadio; tmw; bänd; kaks
+1,3,4,6,5,3,3,7,3,14,merivoo-parro; muusika; draiv; klassikokkutulek; maarja; 2015; eesti; raadio; laul; tmw; bänd; ansambel; kaks
+0,1,4,5,4,4,3,5,5,14,merivoo-parro; muusika; draiv; maarja; eesti; 2015; raadio; tmw; bänd; ansambel; kaks
+0,1,4,4,3,4,5,6,5,14,merivoo-parro; muusika; draiv; klassikokkutulek; 2015; eesti; maarja; raadio; laul; tmw; bänd; ansambel; kaks
+0,1,4,3,2,4,4,4,5,14,merivoo-parro; draiv; klassikokkutulek; maarja; 2015; laul; raadio; eesti; tmw; bänd; ansambel

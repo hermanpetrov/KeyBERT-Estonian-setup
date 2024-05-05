@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,3,0,2,3,2,2,14,maarja; merivoo-parro; muusika; eesti; raadio; laul; kaks
+0,0,3,2,0,3,4,3,2,14,merivoo-parro; muusika; draiv; maarja; eesti; raadio; kaks
+0,0,2,4,0,3,4,3,2,14,merivoo-parro; muusika; draiv; eesti; maarja; raadio; tmw; kaks
+1,1,2,4,0,2,3,3,2,14,merivoo-parro; laul; maarja; 2015; raadio; eesti; tmw; bänd; kaks
+3,2,3,4,0,4,4,4,2,14,merivoo-parro; kontsert; draiv; eesti; laul; maarja; raadio; 2015; tmw; bänd; kaks
+6,0,3,2,0,1,4,2,1,14,merivoo-parro; kontsert; draiv; eesti; laul; 2015; raadio; maarja; tmw; kaks

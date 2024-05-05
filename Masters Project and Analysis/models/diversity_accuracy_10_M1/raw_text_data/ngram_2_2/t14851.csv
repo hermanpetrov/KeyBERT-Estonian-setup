@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,0,0,0,0,0,0,2,1,14,akadeemia; vladivostok; naan
+0,1,1,0,0,0,0,2,1,14,informatiivne; naan; akadeemia; vladivostok
+0,0,1,0,0,0,0,3,1,14,akadeemia; naan; gustav; vladivostok
+1,0,1,0,0,0,1,2,1,14,informatiivne; evolutsioon; gustav; naan; akadeemia
+0,0,1,0,0,1,2,1,1,14,informatiivne; evolutsioon; akadeemia; naan
+0,0,0,0,0,1,2,1,1,14,informatiivne; akadeemia; naan

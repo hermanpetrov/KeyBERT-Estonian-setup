@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,0,2,1,0,12,euroopa; pevkur; haigekassa; eelarve
+0,0,2,0,0,0,2,1,0,12,euroopa; pevkur; haigekassa; eelarve
+0,0,2,0,0,0,2,1,0,12,euroopa; pevkur; haigekassa; eelarve
+0,0,2,0,0,0,2,1,0,12,euroopa; pevkur; haigekassa; eelarve
+0,0,1,0,0,0,1,1,0,12,pevkur; haigekassa
+0,0,1,0,0,0,1,1,0,12,pevkur; haigekassa
+0,0,2,1,0,0,0,1,0,12,pevkur; eelarve; haigekassa; hõff
+0,0,2,1,0,0,0,1,0,12,pevkur; euroopa; haigekassa; hõff
+0,0,1,1,0,0,0,1,0,12,pevkur; haigekassa; euroopa
+0,0,1,0,0,0,0,1,0,12,pevkur; haigekassa
+0,0,1,0,1,0,0,0,0,12,pevkur; isamaa

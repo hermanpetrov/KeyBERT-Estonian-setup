@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,5,1,1,1,1,3,1,12,eesti; šokolaad; raadio; lugu; inglise; queen; ansambel
+3,0,5,1,1,1,1,3,1,12,eesti; šokolaad; raadio; lugu; inglise; queen; ansambel
+3,0,5,1,1,1,1,3,1,12,eesti; šokolaad; raadio; lugu; inglise; queen; ansambel
+3,0,1,1,1,1,1,3,1,12,lugu; inglise; eesti; queen; šokolaad; raadio
+3,0,1,1,1,2,1,3,1,12,lugu; inglise; eesti; queen; šokolaad; raadio
+3,0,1,1,1,2,0,1,1,12,lugu; eesti; queen; šokolaad; raadio
+2,1,1,1,1,3,1,1,1,12,lugu; inglise; eesti; queen; šokolaad; raadio
+1,1,3,0,1,2,1,1,1,12,inglise; eesti; plaat; queen; šokolaad; raadio
+1,2,2,0,1,2,2,1,1,12,album; inglise; eesti; queen; šokolaad; raadio
+2,1,2,1,1,2,2,3,1,12,stuudio; queen; eesti; šokolaad; raadio; inglise; album; ansambel
+1,1,1,1,1,2,2,2,1,12,inglise; album; ansambel; eesti; queen; šokolaad; raadio

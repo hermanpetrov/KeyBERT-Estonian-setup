@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,1,0,1,0,13,tallinna; alatskivi; ukraina; viikingipäevad
+0,0,2,0,0,1,0,1,0,13,tallinna; alatskivi; ukraina; viikingipäevad
+0,0,2,0,0,1,0,1,0,13,tallinna; alatskivi; ukraina; viikingipäevad
+0,0,1,0,0,1,0,1,0,13,tallinna; alatskivi; ukraina
+0,0,0,0,0,1,0,1,0,13,tallinna; alatskivi
+0,0,0,0,0,1,1,1,0,13,tallinna; alatskivi
+0,0,1,0,0,0,1,2,0,13,tallinna; tootmisliin; alatskivi
+0,0,0,0,0,1,0,1,0,13,alatskivi; erna
+1,0,1,0,0,1,0,1,0,13,lossipäevad; alatskivi; erna
+1,0,0,0,0,1,0,1,0,13,lossipäevad; alatskivi; erna
+1,0,0,1,0,1,0,1,0,13,lossipäevad; kuuba; alatskivi; erna

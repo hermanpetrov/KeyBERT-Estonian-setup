@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+3,1,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+3,1,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+3,1,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+3,1,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+3,0,0,0,1,0,0,0,0,11,jõhkard; ants; signe
+2,0,0,0,1,0,0,0,0,11,ants; signe
+1,0,0,0,1,0,0,0,0,11,apaatsus; signe
+0,0,1,0,1,0,1,1,0,11,ants; signe
+0,0,1,0,1,0,0,1,0,11,ants; signe
+0,0,1,0,1,0,0,0,1,11,ants; signe

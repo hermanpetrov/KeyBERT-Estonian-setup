@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,6,3,5,2,5,4,6,5,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+5,6,4,5,2,5,4,6,5,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+6,5,4,5,2,5,4,6,4,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+6,4,4,5,3,5,4,6,4,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+5,5,5,5,3,5,5,6,4,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+5,4,4,6,3,4,4,6,4,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+5,3,5,5,4,4,3,6,4,13,eesti; jansen; vändra; selts; saksa-vastane; kirjutama
+4,5,4,5,4,4,4,6,4,13,eesti; jansen; vändra; selts; saksa-vastane; kirjutama
+4,4,5,6,4,4,5,6,5,13,eesti; jansen; vändra; selts; saksa-vastane; kirjutama
+4,5,4,6,5,3,5,6,5,13,eesti; jansen; vändra; selts; saksa-vastane; kirjutama
+4,5,4,5,5,3,4,5,5,13,eesti; jansen; vändra; selts; saksa-vastane; kirjutama

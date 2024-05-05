@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,4,2,5,0,7,2,7,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+3,4,2,5,0,7,2,7,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+3,4,2,5,0,7,2,7,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+3,4,2,5,0,7,2,7,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+3,4,1,5,0,8,1,7,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+3,3,1,5,0,6,1,8,2,14,kirjanik; 40; hainsalu; keel; riigitegelane; vägi; lehte; luuletaja; üheksavägine; eesti; elulugu; sõna
+1,6,3,2,1,3,2,7,2,14,lehte; kirjanik; luuletaja; üheksavägine; eesti; 40; hainsalu; elulugu; keel; sõna; riigitegelane
+3,4,0,2,1,2,1,6,2,14,lehte; kirjanik; vägi; luuletaja; eesti; 40; hainsalu; elulugu; keel; sõna; riigitegelane
+3,2,1,2,1,0,2,6,2,14,lehte; kirjanik; luuletaja; eesti; hainsalu; riigitegelane; keel; sõna; vägi
+2,2,0,5,1,4,4,5,2,14,lehte; kirjanik; 40; eesti; üheksavägine; hainsalu; riigitegelane; elulugu; keel; sõna; vägi
+2,2,3,5,1,3,3,6,2,14,lehte; kirjanik; luuletaja; eesti; 40; üheksavägine; hainsalu; riigitegelane; elulugu; keel; sõna; vägi

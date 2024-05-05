@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+4,4,1,1,1,1,2,2,0,11,jooksma; raadiomaja; madis; sportlane; aesma; tuletõrje
+3,4,1,1,1,1,1,2,0,11,raadiomaja; madis; sportlane; aesma; tuletõrje; jooksma
+4,3,2,1,1,1,1,1,0,11,raadiomaja; madis; sportlane; aesma; tuletõrje; jooksma
+2,3,2,3,1,1,1,2,0,11,jooksma; raadiomaja; madis; sportlane; korrus; aesma; tuletõrje; plaat
+1,3,2,2,1,1,1,2,0,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje
+0,2,3,3,1,1,2,1,0,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat

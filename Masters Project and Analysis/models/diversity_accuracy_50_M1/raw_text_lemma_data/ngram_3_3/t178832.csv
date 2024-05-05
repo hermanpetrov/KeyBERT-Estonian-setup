@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,5,5,1,1,1,2,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+1,3,5,5,1,1,1,2,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+1,3,5,5,1,1,1,2,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+1,3,5,5,1,1,1,2,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+2,3,6,5,1,1,1,2,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+2,3,7,5,1,1,1,4,4,13,valitsus; töö; leedu; poliitika; kommunist; liit; sõda; partei
+3,5,6,4,1,2,2,5,4,13,töö; valitsus; leedu; läti; poliitika; saarsen; kommunist; liit; sõda; partei
+4,4,6,5,1,1,3,5,4,13,valitsus; töö; leedu; läti; poliitika; saarsen; kommunist; liit; sõda; partei
+5,4,1,3,1,2,4,5,4,13,valitsus; töö; leedu; läti; poliitika; saarsen; kommunist; jaakson; liit; sõda; partei
+4,5,4,3,1,2,5,3,4,13,valitsus; töö; leedu; läti; poliitika; saarsen; kommunist; liit; sõda; partei
+3,4,5,3,1,2,3,3,4,13,valitsus; töö; leedu; läti; saarsen; poliitika; kommunist; liit; sõda; partei

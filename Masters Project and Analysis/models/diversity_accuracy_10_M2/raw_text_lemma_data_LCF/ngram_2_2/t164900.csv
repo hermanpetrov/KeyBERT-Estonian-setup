@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,1,1,2,2,1,3,13,kontsert; muusika; helin-mari; õping; soome; arder; armastus
+2,2,1,1,1,2,2,1,2,13,soome; kontsert; muusika; arder; helin-mari; armastus; õping
+2,2,1,1,1,2,2,1,2,13,kontsert; muusika; arder; helin-mari; armastus; õping
+2,2,2,1,1,2,2,1,2,13,kontsert; muusika; arder; helin-mari; armastus; õping
+2,2,2,1,1,2,2,1,2,13,kontsert; muusika; arder; helin-mari; armastus; õping
+2,1,1,1,1,3,2,1,2,13,kontsert; arder; muusika; helin-mari; õping
+2,1,2,1,1,1,3,1,2,13,kontsert; arder; muusika; helin-mari; armastus; õping
+0,0,1,1,1,2,1,1,2,13,kontsert; muusika; arder; helin-mari
+1,0,0,1,1,2,1,1,3,13,soome; kontsert; arder; muusika; helin-mari
+0,0,0,2,1,0,0,1,3,13,soome; kontsert; arder; helin-mari
+0,0,1,0,0,0,0,1,1,13,helin-mari; arder

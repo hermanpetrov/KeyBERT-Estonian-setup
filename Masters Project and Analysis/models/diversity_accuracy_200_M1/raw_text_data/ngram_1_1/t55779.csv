@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,5,3,0,0,4,6,3,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; sümbol; kõivupuu; marju; rituaalne
+1,5,3,0,0,5,6,2,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; sümbol; kõivupuu; marju; rituaalne
+1,5,4,0,0,5,6,2,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; sümbol; kõivupuu; marju; rituaalne
+1,3,2,0,0,5,7,2,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; kõivupuu; marju; rituaalne
+1,2,0,0,1,6,7,2,1,14,muna; viljakusjumalus; nelipühad; püha; folklorist; kõivupuu; marju; rituaalne
+1,2,2,0,1,3,4,1,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; kõivupuu; marju; rituaalne
+0,2,3,0,1,1,3,1,1,14,muna; sümbol; viljakusjumalus; püha; folklorist; rituaalne; kõivupuu
+0,1,1,0,1,1,2,2,2,14,sümbol; viljakusjumalus; püha; marju; folklorist; kõivupuu
+1,1,0,2,2,2,2,2,1,14,sümbol; viljakusjumalus; püha; folklorist; kõivupuu
+1,1,1,1,2,0,1,1,0,14,sümbol; nelipühad; viljakusjumalus; folklorist; kõivupuu
+2,1,1,1,2,2,1,1,0,14,sümbol; nelipühad; viljakusjumalus; folklorist; kõivupuu

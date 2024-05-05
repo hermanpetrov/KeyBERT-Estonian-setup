@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,5,1,3,3,3,2,3,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; mesilane; kreeka
+2,4,5,1,3,5,3,2,3,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; kreeka
+2,4,5,1,3,5,5,3,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; kreeka
+3,4,6,2,3,5,5,4,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; kreeka
+3,4,4,4,3,6,6,4,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+3,4,5,4,3,6,5,6,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+3,3,4,4,4,6,4,6,2,13,sobak; kristi; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+3,4,3,6,5,4,3,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; hobune; kreeka
+3,4,4,5,6,6,3,5,1,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+3,3,4,5,5,7,4,4,4,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+2,2,2,4,6,6,3,5,4,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka

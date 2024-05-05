@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+6,0,0,2,0,0,1,1,3,16,selts; karl; jannsen; kõrber; eesti; keel; ärkamine; rahvuslik
+5,0,0,1,0,2,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
+1,1,1,0,0,1,2,2,3,16,keel; selts; karl; jannsen; eesti
+2,1,1,0,0,1,1,1,3,16,keel; selts; karl; jannsen; ärkamine; eesti; rahvuslik
+2,0,1,1,0,0,1,1,3,16,selts; jannsen; keel; eesti
+2,0,1,1,0,0,1,1,1,16,selts; karl; jannsen; kõrber; eesti

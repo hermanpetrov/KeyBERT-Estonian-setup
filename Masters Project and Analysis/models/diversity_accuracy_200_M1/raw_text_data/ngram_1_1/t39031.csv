@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,4,1,1,2,3,13,uno; sümpaatne; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,1,1,0,4,1,1,1,3,13,uno; sümpaatne; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,1,0,0,4,1,1,1,3,13,uno; sümpaatne; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,1,0,0,4,1,1,1,3,13,uno; sümpaatne; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,1,0,0,5,0,0,1,3,13,uno; sümpaatne; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,0,0,1,6,2,1,3,3,13,uno; tammer; eesti; austraalia; loop; enno; jalgpall; habe; mees
+1,0,0,2,5,2,1,3,3,13,uno; eesti; loop; austraalia; enno; jalgpall; habe; mees
+0,0,1,2,3,3,2,5,2,13,uno; tammer; eesti; loop; austraalia; enno; jalgpall; habe; mees
+0,0,2,2,2,3,2,3,2,13,tammer; loop; eesti; austraalia; enno; jalgpall; habe; mees
+1,0,0,2,1,3,2,3,1,13,loop; austraalia; eesti; enno; jalgpall; habe; mees
+1,0,0,2,3,3,3,3,2,13,tammer; loop; eesti; enno; jalgpall; pere; habe; mees

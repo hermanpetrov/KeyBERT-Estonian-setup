@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,1,0,0,0,13,lesk; kool
+0,1,0,0,0,1,0,0,0,13,lesk; kool
+0,1,0,0,0,1,0,0,0,13,lesk; kool
+0,1,0,0,0,1,0,0,0,13,lesk; kool
+0,1,0,0,0,1,0,0,0,13,lesk; kool
+0,1,1,0,0,1,0,0,0,13,lesk; kool; alver
+0,1,1,0,0,0,0,0,0,13,kool; alver
+0,1,1,0,0,0,0,0,0,13,kool; alver
+0,1,1,0,0,0,0,0,0,13,kool; alver
+0,1,1,0,0,0,0,0,0,13,kool; alver
+0,0,1,0,0,0,0,0,0,13,alver

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,2,3,1,1,2,2,1,11,stuudio; sportlane; korrus; aesma; jooksma; aeg
+1,2,2,3,1,1,2,2,1,11,stuudio; sportlane; korrus; aesma; jooksma; aeg
+1,2,2,3,1,1,2,2,1,11,stuudio; sportlane; korrus; aesma; jooksma; aeg
+1,2,2,3,1,1,2,2,1,11,stuudio; sportlane; korrus; aesma; jooksma; aeg
+1,2,3,3,1,1,2,2,0,11,stuudio; jooksma; aeg; korrus; sportlane; aesma; plaat
+1,2,1,3,1,1,2,2,1,11,stuudio; sportlane; korrus; aesma; jooksma; aeg
+1,2,2,3,1,1,2,2,0,11,stuudio; jooksma; aeg; korrus; sportlane; aesma; plaat
+2,2,1,2,1,1,1,2,0,11,korrus; sportlane; aesma; jooksma
+1,3,2,4,1,1,1,2,1,11,stuudio; jooksma; aeg; korrus; sportlane; aesma
+1,1,1,4,1,1,1,2,1,11,korrus; sportlane; aesma; jooksma; aeg
+1,0,2,4,2,2,1,2,1,11,korrus; stuudio; sportlane; aesma; jooksma; aeg

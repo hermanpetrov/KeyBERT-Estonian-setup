@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,2,1,0,0,13,euro; euroopa
+0,0,2,0,0,2,1,0,0,13,euro; euroopa
+0,0,2,0,0,2,1,0,0,13,euro; euroopa
+0,0,2,0,0,2,1,0,0,13,euro; euroopa
+0,0,1,0,0,2,1,0,0,13,euro; euroopa
+0,0,1,0,0,2,1,0,0,13,janek; euro; euroopa
+0,0,1,0,0,1,1,0,0,13,janek; euroopa
+0,0,1,0,0,0,0,0,0,13,janek
+0,0,1,0,0,0,0,0,0,13,janek
+1,0,1,0,0,0,0,0,0,13,janek; tartu
+0,0,1,0,0,0,0,0,0,13,janek

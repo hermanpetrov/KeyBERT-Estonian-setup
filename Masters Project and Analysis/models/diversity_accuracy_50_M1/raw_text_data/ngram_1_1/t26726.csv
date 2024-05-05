@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,0,0,2,3,0,0,16,komöödia; kirjandus; olesk; ärkamisaeg; eesti; kitzberg
+1,1,2,0,0,2,3,0,0,16,komöödia; kirjandus; olesk; ärkamisaeg; eesti; kitzberg
+1,1,2,0,0,2,3,0,0,16,komöödia; kirjandus; olesk; ärkamisaeg; eesti; kitzberg
+1,1,1,0,0,2,3,0,0,16,komöödia; kirjandus; olesk; ärkamisaeg; eesti; kitzberg
+1,1,1,0,0,2,3,0,0,16,komöödia; kirjandus; olesk; ärkamisaeg; eesti; kitzberg
+1,1,1,0,0,1,0,0,0,16,komöödia; ärkamisaeg; kitzberg
+0,0,1,0,0,2,0,0,0,16,peeter; kitzberg
+0,0,2,0,0,1,2,0,0,16,ärkamisaeg; eesti; kitzberg
+0,0,2,0,0,2,2,2,1,16,ärkamisaeg; eesti; kitzberg; peeter
+0,0,1,0,0,1,0,2,1,16,ärkamisaeg; eesti; kitzberg
+0,0,2,0,0,1,0,1,2,16,komöödia; eesti; kitzberg; peeter

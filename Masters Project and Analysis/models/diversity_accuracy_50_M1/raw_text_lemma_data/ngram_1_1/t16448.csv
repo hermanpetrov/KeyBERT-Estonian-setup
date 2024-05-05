@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,3,0,0,3,3,0,0,12,film; kino; televisioon
+0,2,3,0,0,3,3,0,0,12,film; kino; televisioon
+0,2,3,0,0,3,3,0,0,12,film; kino; televisioon
+0,2,2,0,0,3,3,0,0,12,film; kino; televisioon
+0,2,1,0,0,3,3,0,0,12,film; kino; televisioon
+0,1,0,0,0,1,3,0,0,12,kino; televisioon; film
+0,0,0,0,0,1,1,0,0,12,televisioon
+0,0,1,0,0,1,1,2,0,12,formaat; televisioon; sõprus; eesti
+0,0,1,1,0,0,0,1,0,12,formaat; sõprus
+0,0,0,1,0,0,0,0,1,12,kino; eesti
+0,0,0,1,0,0,0,0,1,12,kino; eesti

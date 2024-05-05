@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,3,0,2,2,4,4,2,15,töö; tegevus; ants; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+1,2,3,0,2,2,4,4,2,15,töö; tegevus; ants; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+1,2,3,0,2,2,4,4,2,15,töö; tegevus; ants; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+1,2,3,0,2,2,4,4,2,15,töö; tegevus; ants; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+1,2,5,0,2,4,4,6,2,15,töö; ants; tegevus; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+2,2,4,0,2,4,5,4,2,15,töö; raamat; ants; tegevus; naine; ilmar; soome; talve; viires; haige; etnoloog
+1,4,3,2,3,4,5,4,2,15,töö; ants; tegevus; raamat; naine; ilmar; soome; talve; viires; haige; etnoloog
+1,4,4,1,2,6,5,2,2,15,töö; raamat; ants; tegevus; naine; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
+3,2,3,3,2,5,4,4,2,15,töö; raamat; ants; tegevus; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
+0,2,5,4,2,7,4,1,2,15,töö; ants; raamat; tegevus; naine; ilmar; soome; talve; viires; etnoloog
+1,5,4,4,3,5,5,2,2,15,töö; ants; tegevus; raamat; naine; ilmar; mälestuste; soome; talve; viires; etnoloog

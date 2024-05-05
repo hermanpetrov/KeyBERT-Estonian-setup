@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,2,0,1,2,0,2,2,13,esselink; solex; elizabeth
+3,2,2,0,1,2,0,2,2,13,esselink; solex; elizabeth
+3,2,2,0,1,2,0,2,2,13,esselink; solex; elizabeth
+3,2,2,0,1,2,0,2,2,13,esselink; solex; elizabeth
+3,2,2,1,1,2,0,3,2,13,esselink; solex; elizabeth; süntesaator
+2,2,2,1,1,2,2,3,2,13,esselink; solex; elizabeth; süntesaator
+2,2,2,3,1,2,2,3,2,13,esselink; solex; elizabeth; süntesaator
+2,2,2,3,1,2,2,3,2,13,esselink; solex; elizabeth; süntesaator
+2,3,2,3,1,1,2,3,2,13,esselink; solex; elizabeth; süntesaator
+1,1,2,3,1,2,2,3,2,13,esselink; solex; elizabeth; süntesaator
+0,1,2,4,2,3,2,3,2,13,esselink; solex; elizabeth; süntesaator

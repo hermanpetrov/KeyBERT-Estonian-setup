@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,2,0,0,1,2,2,1,13,vändra; põllumeeste; koorilaul; jansen; eesti
+5,2,2,0,0,1,2,2,1,13,vändra; põllumeeste; koorilaul; jansen; eesti
+5,2,2,0,0,1,2,2,1,13,vändra; põllumeeste; koorilaul; jansen; eesti
+5,2,2,0,0,1,2,2,1,13,vändra; põllumeeste; koorilaul; jansen; eesti
+5,2,3,0,0,1,2,3,1,13,postimees; vändra; põllumeeste; koorilaul; jansen; eesti
+3,2,2,0,0,2,2,4,1,13,postimees; vändra; põllumeeste; jansen; eesti; kirjutama
+2,0,2,1,0,2,2,5,1,13,postimees; jansen; vändra; eesti; üldlaulupidu; kirjutama
+2,0,2,3,0,3,2,4,1,13,postimees; vändra; jansen; eesti; üldlaulupidu
+1,1,3,3,0,4,4,3,1,13,põllumeeste; eesti; vändra; jansen; selts
+1,1,4,4,1,4,2,6,1,13,postimees; põllumeeste; eesti; vändra; jansen; selts
+3,0,3,3,2,1,2,5,1,13,postimees; põllumeeste; eesti; jansen; vändra; selts; kirjutama

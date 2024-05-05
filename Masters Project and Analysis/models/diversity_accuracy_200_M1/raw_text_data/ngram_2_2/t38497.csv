@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,5,5,5,3,4,4,5,5,15,keränen; tuletis; johannes; õppimine; eesti; soome; laen; keel; aavik; taristu; võimatu; keele
+7,5,5,5,3,4,4,5,5,15,keränen; tuletis; johannes; õppimine; eesti; soome; laen; keel; aavik; taristu; võimatu; keele
+7,4,7,5,3,4,4,6,5,15,keränen; johannes; laen; keel; õppimine; taristu; keele; tuletis; eesti; soome; mika; aavik; võimatu
+8,3,7,4,3,4,4,5,5,15,keränen; tuletis; johannes; eesti; soome; laen; mika; keel; aavik; taristu; võimatu; keele
+7,3,7,5,3,4,5,7,5,15,keränen; johannes; laen; keel; taristu; keele; tuletis; eesti; soome; mika; aavik; võimatu
+7,2,7,4,3,6,6,8,4,15,keränen; johannes; laen; keel; õppimine; taristu; keele; tuletis; eesti; soome; mika; aavik; võimatu
+5,4,7,6,2,5,7,6,4,15,keränen; tuletis; johannes; õppimine; eesti; aavik; soome; mika; keel; võimatu; taristu; keele
+4,5,5,6,7,6,5,5,5,15,keränen; tuletis; johannes; eesti; aavik; soome; laen; mika; keel; õppimine; taristu; võimatu; keele
+5,6,6,6,7,6,6,5,6,15,keränen; johannes; laen; keel; aavik; õppimine; taristu; keele; tuletis; eesti; soome; mika; võimatu
+4,6,9,4,8,4,7,7,8,15,keränen; johannes; laen; keel; õppimine; taristu; keele; tuletis; eesti; soome; mika; aavik; võimatu
+4,6,7,4,5,4,6,4,9,15,keränen; johannes; laen; keel; õppimine; taristu; keele; tuletis; eesti; soome; mika; aavik; võimatu

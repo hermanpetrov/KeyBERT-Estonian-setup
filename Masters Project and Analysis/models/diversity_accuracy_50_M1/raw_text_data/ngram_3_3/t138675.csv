@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,1,3,2,2,2,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; jaanituli; noorsoofestival
+2,3,1,3,2,2,2,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; jaanituli; noorsoofestival
+2,3,1,3,2,2,2,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; jaanituli; noorsoofestival
+2,3,1,3,2,2,2,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; jaanituli; noorsoofestival
+2,3,1,3,2,2,2,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; jaanituli; noorsoofestival
+4,2,3,3,2,3,3,3,2,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
+0,2,2,3,2,3,3,3,2,11,jaanipäev; õlu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
+2,2,2,0,2,4,1,2,3,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
+3,1,3,1,2,2,0,2,2,11,loodus; jaanipäev; saaremaa; jaanituli; noorsoofestival; õlu; jaanipidu
+3,2,3,0,0,2,1,3,3,11,jaanipäev; saaremaa; jaanituli; noorsoofestival; õlu; jaanipidu
+3,2,2,1,0,1,0,2,2,11,saaremaa; jaanituli; noorsoofestival; õlu; jaanipidu

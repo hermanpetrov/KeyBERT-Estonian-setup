@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,5,6,4,3,2,5,5,2,11,kristi; mulgi; pidu; koolitus; ilves; kodukohvik; turismitalu
+3,4,5,4,4,2,5,4,2,11,kristi; mulgi; koolitus; ilves; pidu; kodukohvik; turismitalu
+4,5,5,4,4,2,5,4,2,11,kristi; mulgi; koolitus; pidu; ilves; kodukohvik; turismitalu
+4,4,4,4,4,4,3,4,2,11,kristi; mulgi; koolitus; pidu; ilves; kodukohvik; turismitalu
+4,4,5,4,4,4,4,4,2,11,kristi; mulgi; koolitus; pidu; ilves; kodukohvik; turismitalu
+4,4,5,4,4,4,3,4,2,11,kristi; mulgi; koolitus; pidu; ilves; kodukohvik; turismitalu
+4,4,5,2,4,4,3,3,2,11,kristi; mulgi; koolitus; pidu; ilves; kodukohvik; turismitalu
+3,4,3,2,4,3,4,2,1,11,kristi; mulgi; pidu; ilves; koolitus; kodukohvik; turismitalu
+4,3,4,4,4,4,4,2,4,11,kristi; mulgi; pidu; koolitus; ilves; kodukohvik; turismitalu
+3,4,3,2,2,4,4,2,4,11,kristi; mulgi; pidu; ilves; koolitus; kodukohvik; turismitalu
+3,3,3,3,2,4,4,2,7,11,kristi; mulgi; pidu; ilves; koolitus; kodukohvik; turismitalu

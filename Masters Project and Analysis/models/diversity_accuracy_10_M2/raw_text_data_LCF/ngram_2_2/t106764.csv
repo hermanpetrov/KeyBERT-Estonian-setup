@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,3,3,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,3,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,3,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,3,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,3,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,4,1,0,1,1,1,1,15,rajasaare; rock; singer; kaks; kristo; café; raadio
+1,3,1,1,0,2,1,2,1,15,rajasaare; rock; singer; kaks; café; raadio
+0,3,2,0,0,1,1,2,1,15,rajasaare; rock; kaks; café; draiv; raadio
+2,2,0,2,0,2,1,2,1,15,rajasaare; rock; singer; kosmos; kaks; café; draiv; raadio
+0,2,1,2,0,2,1,4,1,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; kaks
+0,2,2,2,0,2,1,4,1,15,rock; kosmos; café; raadio; rajasaare; muusikanõunik; kristo; kaks

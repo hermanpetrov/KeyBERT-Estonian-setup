@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,3,0,1,1,2,2,2,12,aabits; mood; släng; keel; esimene; tahv
+3,3,3,0,1,1,2,2,2,12,aabits; mood; släng; keel; esimene; tahv
+3,3,3,0,1,1,2,2,2,12,aabits; mood; släng; keel; esimene; tahv
+3,3,3,0,1,1,2,2,2,12,aabits; mood; släng; keel; esimene; tahv
+3,3,3,0,1,1,2,2,3,12,aabits; släng; esimene; mood; keel; tahv
+3,2,2,0,1,1,1,2,3,12,aabits; mood; släng; keel; esimene
+2,2,2,0,1,1,2,2,3,12,mood; släng; keel; esimene
+3,3,2,1,1,2,2,3,3,12,mood; släng; keel; esimene
+3,2,2,1,1,2,1,3,3,12,aabits; mood; släng; keel; esimene
+3,2,2,2,0,2,2,2,2,12,aabits; mood; släng; keel; esimene
+2,2,2,1,1,1,3,2,3,12,mood; keel; esimene

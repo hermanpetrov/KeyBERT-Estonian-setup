@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,5,2,2,4,4,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; kuusk; kuraator; grigor
+2,2,5,2,2,4,4,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; kuusk; kuraator; grigor
+2,2,6,2,2,4,5,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; kuusk; kuraator; grigor
+2,2,6,2,2,4,4,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; kuusk; kuraator; grigor
+1,1,4,2,2,5,5,1,3,16,kontseptualism; kunst; indrek; margit; meedium; laura; narratiiv; kriitika; kuraator; grigor
+1,1,2,2,2,3,4,2,3,16,kontseptualism; indrek; margit; meedium; laura; narratiiv; kriitika; kuraator; grigor
+0,1,1,2,0,2,1,3,4,16,kontseptualism; kunst; indrek; margit; narratiiv; kriitika; laura; kuraator; grigor
+0,0,2,1,1,0,0,2,3,16,kontseptualism; kuraator; kunst; säde; margit; grigor; laura
+0,0,3,2,1,1,2,6,1,16,kunst; säde; indrek; margit; meedium; laura; kriitika; kuusk; kuraator; grigor
+0,0,0,2,2,1,1,2,1,16,kunst; meedium; margit; grigor; laura
+0,1,1,2,2,1,2,4,1,16,kunst; kontseptualism; säde; meedium; kriitika; laura; kuraator; kuusk; grigor

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,5,1,1,1,4,2,1,12,mereparaad; merekultuur; mereriik; meremees; mereakadeemia; sadam; kapten; admiral
+2,0,5,1,1,1,4,2,1,12,mereparaad; merekultuur; mereriik; meremees; mereakadeemia; sadam; kapten; admiral
+2,0,5,1,1,1,4,2,1,12,mereparaad; merekultuur; mereriik; meremees; mereakadeemia; sadam; kapten; admiral
+2,0,5,1,1,1,4,2,1,12,merekultuur; mereriik; mereakadeemia; meremees; peeter; sadam; kapten; admiral
+2,0,2,1,1,2,4,2,1,12,merekultuur; mereriik; meremees; peeter; mereakadeemia; sadam; järvelaid; kapten; admiral
+2,1,2,1,1,1,3,2,1,12,mereparaad; merekultuur; mereriik; meremees; peeter; mereakadeemia; sadam; järvelaid; admiral
+1,1,1,1,1,0,2,1,1,12,mereparaad; sadam; admiral; mereriik; järvelaid; mereakadeemia
+0,1,2,0,0,1,1,1,1,12,mereparaad; mereakadeemia; järvelaid; admiral; peeter
+0,1,2,0,0,0,0,1,1,12,mereakadeemia; mereparaad; järvelaid; admiral
+0,1,2,0,0,0,1,2,1,12,mereparaad; mereakadeemia; piirivalve; järvelaid; admiral; peeter
+0,0,3,0,0,1,0,1,1,12,mereakadeemia; pitka; järvelaid; kapten; admiral; peeter

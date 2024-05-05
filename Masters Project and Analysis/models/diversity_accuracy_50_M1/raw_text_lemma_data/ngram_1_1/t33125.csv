@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,3,0,0,0,1,0,0,16,kuslap; poliitika; valimine; strandberg; sulev; partei
+0,2,3,0,0,0,1,0,0,16,kuslap; poliitika; valimine; strandberg; sulev; partei
+0,2,2,0,0,0,1,0,0,16,kuslap; strandberg; poliitika; sulev; partei
+0,2,2,0,0,0,1,0,0,16,kuslap; strandberg; poliitika; sulev; partei
+0,2,1,0,0,1,1,0,0,16,kuslap; strandberg; poliitika; voldemar; sulev
+0,2,2,0,0,1,0,0,0,16,strandberg; poliitika; voldemar; sulev; partei
+0,2,1,0,0,1,0,0,0,16,sulev; strandberg; poliitika
+0,2,1,0,0,1,0,0,0,16,sulev; strandberg; poliitika
+0,2,2,0,0,1,0,0,0,16,strandberg; poliitika; valimine; sulev
+0,2,1,0,0,0,1,0,0,16,arnold; strandberg; poliitika
+0,1,1,0,0,1,1,1,0,16,kuslap; arnold; poliitika; strandberg; partei

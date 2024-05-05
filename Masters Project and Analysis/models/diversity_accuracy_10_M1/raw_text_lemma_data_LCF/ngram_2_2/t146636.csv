@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,1,1,0,0,1,1,0,12,seitse; tüdimus; toomas
+0,0,0,1,0,0,1,2,0,12,seitse; toomas
+0,0,1,1,0,0,1,2,0,12,tüdimus; seitse; toomas
+1,0,2,1,0,0,1,2,0,12,seitse; toomas; paul
+1,0,0,1,0,0,1,2,0,12,paul; darwin; seitse; toomas
+2,0,0,0,0,0,1,1,0,12,darwin; toomas; paul

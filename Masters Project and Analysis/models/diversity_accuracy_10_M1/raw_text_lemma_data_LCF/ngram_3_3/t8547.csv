@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,0,0,0,1,1,1,0,1,13,liivia; otsus
+0,1,0,0,1,2,2,0,1,13,otsus; margit; liivia
+0,1,0,1,1,1,2,2,1,13,otsus; margit; liivia
+1,2,2,0,1,2,2,0,1,13,otsus; margit; liivia
+3,0,1,0,1,0,2,1,1,13,poliitiline; otsus; margit; liivia
+0,0,1,0,1,0,2,1,1,13,margit; poliitiline; otsus

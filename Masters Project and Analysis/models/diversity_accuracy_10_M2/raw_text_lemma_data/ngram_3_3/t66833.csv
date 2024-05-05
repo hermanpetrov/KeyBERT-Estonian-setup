@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti
+0,1,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti
+0,1,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti
+0,1,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti
+0,2,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti; steinway
+0,2,2,0,2,2,2,2,1,13,eino; muusika; tamberg; eesti; steinway
+1,1,1,0,2,3,3,2,1,13,eino; muusika; eesti; steinway; publik; tamberg; noor
+3,1,1,1,2,2,2,1,1,13,eino; muusika; institutsioon; tamberg; eesti; steinway; noor
+2,0,1,1,2,2,1,1,1,13,eino; muusika; tamberg; eesti
+3,0,1,1,2,2,1,2,2,13,eino; publik; muusika; tamberg; eesti
+3,1,1,1,2,2,1,1,2,13,eino; traditsioon; muusika; tamberg; eesti

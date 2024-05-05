@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,4,1,5,1,8,8,8,4,14,andres; lavakas; näitleja; tooming; jaak; allik; margus; rapla; jaan; ehin
+8,4,2,5,1,9,7,8,4,14,andres; lavakas; näitleja; tooming; jaak; allik; margus; rapla; jaan; ehin
+8,4,3,5,1,9,7,8,4,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; rapla; jaan
+6,3,6,6,1,9,7,7,4,14,lavakas; margus; allik; ehin; andres; näitleja; tooming; jaak; jaan; rapla
+3,3,6,6,1,7,6,7,4,14,andres; lavakas; näitleja; tooming; jaak; margus; rapla; allik; jaan; ehin
+4,3,7,4,2,7,7,6,4,14,andres; lavakas; näitleja; tooming; jaak; margus; jaan; rapla; allik; ehin
+5,5,8,7,4,6,7,8,5,14,andres; lavakas; tooming; näitleja; jaak; margus; rapla; jaan; allik; ehin
+3,4,8,5,4,6,8,8,5,14,andres; lavakas; näitleja; tooming; jaak; margus; rapla; allik; jaan; ehin
+2,6,7,5,4,7,8,6,5,14,andres; lavakas; tooming; näitleja; jaak; margus; rapla; jaan; allik; ehin
+5,2,7,5,5,7,6,8,4,14,andres; lavakas; tooming; näitleja; jaak; margus; jaan; allik; rapla; ehin
+4,6,8,5,6,6,6,7,6,14,andres; lavakas; näitleja; tooming; jaak; margus; jaan; rapla; allik; ehin

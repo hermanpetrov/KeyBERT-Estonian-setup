@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,2,2,0,2,2,2,2,11,religioon; püha; filosoofia; sekularism
+2,1,2,2,0,2,2,2,2,11,religioon; püha; filosoofia; sekularism
+2,1,2,2,0,2,2,2,2,11,religioon; püha; filosoofia; sekularism
+2,1,2,2,0,2,2,2,2,11,religioon; püha; filosoofia; sekularism
+2,1,2,2,0,2,2,2,2,11,religioon; püha; filosoofia; sekularism
+4,3,4,2,0,2,2,2,2,11,religioon; kunst; tehnoloogiline; püha; filosoofia; teadus; sekularism
+3,2,2,1,0,3,4,4,2,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; sekularism
+2,3,3,0,1,5,3,4,4,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
+2,1,2,2,1,4,2,3,4,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus
+1,2,2,1,2,4,4,3,4,11,religioon; tehnoloogiline; kunst; püha; filosoofia; vaim; teadus
+2,0,2,2,1,2,2,2,4,11,religioon; kunst; tehnoloogiline; filosoofia; vaim; teadus

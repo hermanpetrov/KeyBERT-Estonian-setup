@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,7,7,6,4,7,5,8,4,12,andres; estonia; leib; teater; köster; kostüüm; näitleja; jõgis; teenima; viiul
+6,8,8,7,4,7,5,9,4,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+6,8,8,8,4,7,5,9,4,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+6,8,8,8,4,6,6,10,4,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+6,7,7,8,4,6,5,9,4,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+5,8,6,9,4,5,7,10,4,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+3,8,8,7,4,8,6,9,5,12,leib; kostüüm; jõgis; teenima; andres; estonia; teater; köster; näitleja; viiul
+5,7,7,7,6,8,6,9,6,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
+4,8,7,7,7,8,5,7,7,12,andres; estonia; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
+4,9,8,7,5,8,7,8,7,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
+4,7,7,7,6,8,6,9,7,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul

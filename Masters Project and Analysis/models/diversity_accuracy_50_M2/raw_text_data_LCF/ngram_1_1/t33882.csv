@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,1,0,1,1,2,2,14,vene; kõnekoosolek; estonia; teater; kultuur; eesti; naisliit
+1,2,1,1,0,1,1,2,1,14,kõnekoosolek; estonia; teater; kultuur; eesti; naisliit
+1,2,1,1,0,1,1,2,1,14,kõnekoosolek; estonia; teater; kultuur; eesti; naisliit
+1,2,0,1,0,1,1,2,1,14,kõnekoosolek; teater; kultuur; eesti; naisliit
+1,1,1,1,0,1,1,1,1,14,kõnekoosolek; estonia; teater; naisliit
+1,1,0,1,0,1,0,1,1,14,kultuur; kõnekoosolek; naisliit
+1,0,0,0,0,0,0,2,1,14,kõnekoosolek; vanemuise
+1,0,0,0,0,1,0,1,1,14,kõnekoosolek; rakvere; kultuuriajalugu; estonia
+0,0,0,0,0,0,0,0,1,14,kõnekoosolek
+2,0,0,0,0,0,0,0,1,14,kõnekoosolek; kultuuriajalugu; estonia
+0,0,0,0,0,1,0,0,2,14,kõnekoosolek; eesti; estonia

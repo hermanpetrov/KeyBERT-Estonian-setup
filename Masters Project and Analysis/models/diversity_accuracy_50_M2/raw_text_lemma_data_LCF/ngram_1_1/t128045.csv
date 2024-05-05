@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,1,2,2,2,1,15,muusikaline; vain; birma
+0,0,1,0,1,2,2,2,1,15,muusikaline; vain; birma
+0,0,1,0,1,2,2,2,1,15,muusikaline; vain; birma
+0,0,1,0,1,2,2,2,1,15,muusikaline; vain; birma
+0,0,1,0,1,2,2,2,1,15,muusikaline; vain; birma
+0,0,0,0,1,1,1,1,1,15,vain; birma; muusikaline
+0,0,1,0,1,2,1,2,1,15,draama; rituaal; muusikaline; vain; birma
+0,0,1,0,1,1,1,2,1,15,draama; muusikaline; vain; trumm; birma
+0,0,0,0,1,1,0,2,1,15,draama; vain; birma; muusikaline
+0,0,0,1,1,2,1,1,0,15,rituaal; vain; trumm; birma
+1,0,1,0,1,1,1,2,0,15,rituaal; kultus; muusikaline; vain; tants; birma

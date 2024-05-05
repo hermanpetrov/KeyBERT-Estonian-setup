@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,3,2,0,1,3,4,1,12,aabits; släng; keelevaist; esimene; keele; keeleelu; õigekeelsussõnaraamat
+2,1,3,2,0,1,3,4,1,12,aabits; släng; keelevaist; esimene; keele; keeleelu; õigekeelsussõnaraamat
+2,1,3,2,0,1,3,4,1,12,aabits; släng; keelevaist; esimene; keele; keeleelu; õigekeelsussõnaraamat
+2,1,3,2,0,1,3,4,1,12,aabits; släng; keelevaist; esimene; keele; keeleelu; õigekeelsussõnaraamat
+2,2,3,2,0,1,3,3,1,12,aabits; släng; keelevaist; esimene; keele; keeleelu; õigekeelsussõnaraamat
+3,2,2,2,0,1,2,7,1,12,aabits; släng; esimene; keele; keelevaist; tahvel; keeleelu; õigekeelsussõnaraamat
+2,2,1,1,0,1,2,5,1,12,õigekeelsussõnaraamat; aabits; släng; esimene; tahvel; keeleelu; keele
+1,1,0,3,0,1,1,3,1,12,aabits; õigekeelsussõnaraamat; tahvel; keeleelu; släng; keele
+1,1,1,0,0,0,0,1,1,12,tahvel; keeleelu; släng; keele
+2,1,1,1,1,1,1,2,1,12,tahvel; släng; keelevaist; esimene; keele
+1,1,2,0,1,3,0,3,1,12,aabits; släng; esimene; keele; tahvel; keeleelu; õigekeelsussõnaraamat

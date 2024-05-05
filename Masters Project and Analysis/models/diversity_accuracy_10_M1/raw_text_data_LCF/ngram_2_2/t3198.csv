@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,0,0,1,0,0,0,14,mälberg; hansapanga; koalitsioon; mall
+0,0,3,0,0,1,0,0,0,14,mälberg; hansapanga; koalitsioon; mall
+0,0,3,0,0,1,0,0,0,14,mälberg; hansapanga; koalitsioon; mall
+0,0,4,0,0,1,0,0,0,14,koalitsioon; mälberg; hansapanga; mall; juhan
+0,0,4,0,0,1,0,0,0,14,parts; koalitsioon; mälberg; hansapanga; mall
+0,0,3,0,0,1,0,0,0,14,mälberg; hansapanga; parts; koalitsioon
+0,0,4,1,0,1,1,0,0,14,parts; koalitsioon; mälberg; hansapanga; juhan
+0,0,3,0,0,0,0,0,0,14,mälberg; hansapanga; juhan
+1,0,2,0,0,3,1,0,0,14,tuumarelv; parts; koalitsioon; juhan
+1,0,1,0,0,2,0,0,0,14,parts; liivrand; juhan
+1,0,2,1,0,1,0,0,0,14,mälberg; hansapanga; liivrand; juhan

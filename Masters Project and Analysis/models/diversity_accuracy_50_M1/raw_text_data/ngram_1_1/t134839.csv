@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,0,1,1,1,1,0,18,andrus; ott; päevakaja; euroopa; saar
+0,0,3,0,1,1,1,1,0,18,andrus; ott; päevakaja; euroopa; saar
+0,0,2,0,1,1,1,1,0,18,andrus; ott; päevakaja; euroopa; saar
+0,0,3,0,1,1,1,1,0,18,andrus; ott; päevakaja; ansip; euroopa; saar
+0,0,2,0,1,1,1,1,0,18,andrus; ott; päevakaja; ansip; euroopa
+0,0,2,0,1,0,0,1,0,18,päevakaja; ansip; andrus; ott
+0,0,1,0,1,0,1,1,0,18,päevakaja; andrus; ott; komisjon
+0,0,2,1,1,0,1,1,0,18,ott; päevakaja; ansip; komisjon; euroopa
+0,0,1,1,1,0,1,2,0,18,ott; päevakaja; ansip; tulistamisjuhtum; komisjon; euroopa
+1,0,2,0,1,1,1,2,1,18,kristjan; ott; päevakaja; abikaasa; ansip; tulistamisjuhtum; komisjon
+1,0,2,0,2,1,1,2,2,18,kristjan; tulistamisjuhtum; andrus; ott; päevakaja; ansip; komisjon

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,5,6,2,3,2,4,3,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; album; energia
+4,5,5,2,3,2,4,3,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; album; energia
+4,4,5,2,4,3,5,3,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; album; energia
+4,4,4,2,4,4,3,4,1,12,televiisor; merivoo-parro; klassikokkutulek; maarja; aeg; raadio; ansambel; album; energia
+3,4,3,4,4,2,4,3,1,12,televiisor; merivoo-parro; klassikokkutulek; aeg; maarja; raadio; ansambel; album; energia
+1,2,3,3,4,3,4,5,1,12,televiisor; merivoo-parro; klassikokkutulek; aeg; maarja; raadio; ansambel; album; energia
+2,2,3,3,3,3,2,4,1,12,merivoo-parro; klassikokkutulek; aeg; maarja; raadio; james; album; energia
+1,2,4,5,3,4,3,7,2,12,televiisor; merivoo-parro; klassikokkutulek; maarja; aeg; raadio; james; ansambel; album; energia
+0,1,5,4,3,4,3,6,3,12,televiisor; merivoo-parro; aeg; maarja; raadio; james; ansambel; album; energia
+0,1,4,4,3,4,4,7,3,12,merivoo-parro; ansambel; klassikokkutulek; aeg; maarja; raadio; james; televiisor; album; energia
+0,1,4,4,5,4,3,5,4,12,merivoo-parro; ansambel; klassikokkutulek; aeg; maarja; raadio; james; televiisor; album; energia

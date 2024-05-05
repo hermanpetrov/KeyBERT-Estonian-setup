@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,8,2,1,4,7,6,2,13,reimand; indrek; rahvusvahelisus; eesti; arengukava; keelepoliitika; keel; koolisüsteem; ministeerium; piret
+4,1,9,2,1,4,7,7,2,13,reimand; indrek; kriivan; rahvusvahelisus; eesti; arengukava; keelepoliitika; keel; koolisüsteem; ministeerium; piret
+4,1,9,2,2,4,8,7,2,13,arengukava; rahvusvahelisus; keelepoliitika; keel; palk; piret; reimand; indrek; kriivan; eesti; koolisüsteem; ministeerium
+5,1,8,2,2,5,7,5,2,13,reimand; indrek; kriivan; rahvusvahelisus; eesti; arengukava; keelepoliitika; keel; palk; koolisüsteem; ministeerium; piret
+4,2,6,2,2,6,6,5,2,13,reimand; indrek; kriivan; rahvusvahelisus; eesti; arengukava; keelepoliitika; keel; palk; tasakaal; koolisüsteem; piret
+4,2,6,2,3,5,4,6,2,13,reimand; indrek; kriivan; rahvusvahelisus; eesti; keelepoliitika; keel; palk; tasakaal; koolisüsteem; ministeerium; piret
+4,2,5,0,4,5,2,5,2,13,reimand; indrek; kriivan; eesti; rahvusvahelisus; palk; tasakaal; koolisüsteem; ministeerium; piret
+3,3,6,1,4,4,3,5,2,13,reimand; indrek; kriivan; eesti; keel; palk; tasakaal; koolisüsteem; ministeerium; piret
+3,3,6,3,6,4,3,5,4,13,reimand; indrek; kriivan; eesti; keel; palk; tasakaal; koolisüsteem; ministeerium; piret
+2,2,5,3,6,3,3,5,5,13,reimand; indrek; kriivan; eesti; keel; palk; tasakaal; piret; ministeerium; koolisüsteem
+1,1,4,2,5,4,1,4,5,13,reimand; indrek; kriivan; eesti; palk; tasakaal; piret; ministeerium; koolisüsteem

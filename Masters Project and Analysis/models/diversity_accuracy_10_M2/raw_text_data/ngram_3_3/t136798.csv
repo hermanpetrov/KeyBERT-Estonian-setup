@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,1,2,2,1,2,0,20,obinitsa; tervise; kultuuripealinna; deckarty; kool; balti; ossinovski; donald; president
+2,2,2,1,2,2,1,2,0,20,obinitsa; tervise; kultuuripealinna; deckarty; kool; balti; ossinovski; donald; president
+2,2,2,1,2,2,1,2,0,20,obinitsa; tervise; kultuuripealinna; deckarty; kool; balti; ossinovski; donald; president
+2,2,2,1,2,2,1,2,0,20,obinitsa; tervise; kultuuripealinna; deckarty; kool; balti; ossinovski; donald; president
+2,2,2,1,2,2,1,2,0,20,obinitsa; tervise; kultuuripealinna; deckarty; kool; balti; ossinovski; donald; president
+2,3,1,1,2,2,1,2,0,20,obinitsa; tervise; jevgeni; deckarty; kool; balti; ossinovski; donald; president
+2,2,0,1,2,2,1,2,0,20,tervise; deckarty; kool; balti; ossinovski; donald; president
+1,0,0,2,2,1,1,2,1,20,tervise; kultuuripealinna; balti; deckarty; trump; donald; ossinovski; president
+2,0,2,1,2,1,2,1,1,20,obinitsa; jevgeni; kultuuripealinna; deckarty; kool; balti; ossinovski; trump; donald; president
+2,0,2,0,1,1,0,2,1,20,obinitsa; kultuuripealinna; kool; jevgeni; deckarty; ossinovski; president
+2,0,2,1,2,2,1,0,1,20,obinitsa; jevgeni; kultuuripealinna; deckarty; luik; balti; ametist; donald; president

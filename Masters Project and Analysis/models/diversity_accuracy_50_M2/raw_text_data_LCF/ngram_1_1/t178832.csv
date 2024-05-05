@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,0,1,1,0,0,14,sõda; partei
+0,1,1,0,0,1,1,0,0,14,sõda; partei
+0,1,1,0,0,1,1,0,0,14,sõda; partei
+0,1,1,0,0,1,1,0,0,14,sõda; partei
+0,1,0,0,0,1,1,0,0,14,sõda; partei
+0,1,0,0,0,0,1,2,0,14,valitsus; sõda; partei
+0,2,0,0,0,0,1,1,0,14,koostöö; sõda; partei
+0,2,0,1,0,0,1,1,0,14,koostöö; pätsi; rahulolematus; sõda; partei
+0,0,1,0,0,0,1,2,0,14,valitsus; sõda; rahulolematus
+1,0,1,0,0,0,2,1,0,14,valitsus; välisministrite; koostöö; kommunistlik; sõda
+0,0,1,0,0,0,2,1,0,14,valitsus; sõda; välisministrite; rahulolematus

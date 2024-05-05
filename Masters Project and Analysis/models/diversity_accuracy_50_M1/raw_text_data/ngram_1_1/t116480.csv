@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,0,0,1,1,0,0,0,16,ungari; kammerkoor; ingerimaa; needmine; folkloorifestival
+1,2,0,0,1,1,0,0,0,16,ungari; kammerkoor; ingerimaa; needmine; folkloorifestival
+1,2,0,0,1,1,0,0,0,16,ungari; kammerkoor; ingerimaa; needmine; folkloorifestival
+1,2,0,0,1,1,0,0,0,16,ungari; kammerkoor; ingerimaa; needmine; folkloorifestival
+1,1,1,0,1,1,0,0,0,16,ungari; ingerimaa; needmine; folkloorifestival; ellerhein
+1,1,1,0,1,1,0,0,0,16,ungari; ingerimaa; needmine; folkloorifestival; ellerhein
+2,1,1,1,1,0,0,0,0,16,ingerimaa; needmine; folkloorifestival; ellerhein
+0,0,1,1,1,0,0,0,0,16,needmine; veljo; ellerhein
+1,0,1,0,1,1,0,2,1,16,arvo; ingerimaa; needmine; folkloorifestival; ellerhein
+2,0,1,0,1,1,0,0,2,16,arvo; ingerimaa; needmine; folkloorifestival; ellerhein
+1,0,2,0,1,1,1,0,2,16,ungari; arvo; needmine; folkloorifestival; ellerhein

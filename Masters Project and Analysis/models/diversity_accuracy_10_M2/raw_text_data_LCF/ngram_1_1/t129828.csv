@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,0,1,1,0,13,nõukogude
+0,1,0,0,0,0,1,1,0,13,nõukogude
+0,1,0,0,0,0,1,1,0,13,nõukogude
+0,1,0,0,0,0,1,1,0,13,nõukogude
+0,1,1,0,0,0,1,1,0,13,nõukogude; masnikova
+0,1,1,0,0,0,1,1,0,13,nõukogude; masnikova
+0,1,1,0,0,0,1,1,0,13,nõukogude; masnikova
+0,0,1,0,0,0,0,0,0,13,masnikova
+0,0,0,0,0,0,2,0,0,13,stalin; masnikova
+0,0,1,0,0,1,1,1,0,13,stalin; propagandafilm; masnikova; nõukogude
+1,0,1,0,0,1,1,0,0,13,prototüüp; propagandafilm; stalin

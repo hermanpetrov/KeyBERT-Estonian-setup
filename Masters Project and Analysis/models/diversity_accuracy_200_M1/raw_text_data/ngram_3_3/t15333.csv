@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,8,5,7,2,5,4,4,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa
+8,8,5,7,3,5,4,5,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa
+8,8,4,7,3,5,4,5,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa
+7,8,4,7,3,5,4,5,4,14,hiiu; hiidlane; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa
+9,8,4,7,3,5,5,5,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa
+8,8,4,6,3,7,6,5,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; nõelakoda; kirjandus; palmik; ain; hiiumaa
+8,5,4,8,4,6,5,5,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; nõelakoda; kirjandus; palmik; ain; hiiumaa
+5,4,6,7,4,2,4,5,5,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; nõelakoda; kirjandus; palmik; ain; hiiumaa
+6,4,6,8,6,3,5,4,4,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; ain; hiiumaa; kalmus
+6,4,6,9,5,6,4,4,5,14,hiiu; ain; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; nõelakoda; hiiumaa; kalmus
+6,3,6,9,6,4,4,5,6,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; nõelakoda; hiiumaa; kalmus

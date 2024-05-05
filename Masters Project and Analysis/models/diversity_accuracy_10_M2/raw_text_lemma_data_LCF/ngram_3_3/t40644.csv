@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,1,0,0,0,1,0,19,eesti
+0,0,0,1,0,0,0,1,0,19,eesti
+0,0,0,1,0,0,0,1,0,19,eesti
+0,0,0,1,0,0,0,1,0,19,eesti
+0,0,0,1,0,0,0,1,0,19,eesti
+0,1,0,1,0,0,0,2,0,19,mustonen; eesti
+1,1,0,2,0,1,1,3,0,19,phonyker; mari; kalkun; mustonen; eesti
+0,0,1,2,0,1,2,2,0,19,mari; sing; mustonen; eesti
+3,0,1,1,0,1,1,2,0,19,andres; musicus; mari; bach; sing; mustonen; eesti
+0,0,0,3,0,0,1,3,0,19,andres; frederik; sing; mustonen; eesti
+0,0,0,0,0,0,1,1,0,19,bach; eesti

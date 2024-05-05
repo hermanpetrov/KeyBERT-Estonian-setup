@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,0,0,4,5,4,0,14,keiu; rästas; võõras; lavastaja; peeter; urmas; virro
+1,0,2,0,0,4,5,4,0,14,keiu; rästas; võõras; lavastaja; peeter; urmas; virro
+1,0,2,0,0,4,5,4,0,14,keiu; rästas; võõras; lavastaja; peeter; urmas; virro
+1,0,2,0,0,4,5,4,0,14,keiu; rästas; võõras; lavastaja; peeter; urmas; virro
+1,0,2,0,0,4,5,4,0,14,keiu; rästas; võõras; lavastaja; peeter; urmas; virro
+0,0,1,0,0,5,5,4,0,14,keiu; rästas; lavastaja; peeter; urmas; virro; vadi
+0,0,1,0,0,5,4,4,0,14,keiu; lavastaja; peeter; urmas; virro; vadi
+1,0,1,1,0,5,3,6,0,14,keiu; rästas; lavastaja; peeter; urmas; virro; vadi
+0,0,1,0,0,5,3,5,0,14,keiu; peeter; lavastaja; urmas; virro; vadi
+0,0,1,2,0,4,2,4,0,14,keiu; rästas; lavastaja; urmas; virro; vadi
+0,0,1,0,0,4,3,4,0,14,keiu; peeter; lavastaja; urmas; virro; vadi

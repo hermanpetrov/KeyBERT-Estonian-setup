@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,8,6,9,5,4,4,5,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+10,8,9,9,5,4,7,6,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+8,9,9,9,6,4,7,8,8,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis; jarmuk
+8,9,9,9,7,4,7,7,8,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis; jarmuk
+8,9,9,10,7,6,9,8,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+8,9,9,10,7,6,10,9,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+8,8,10,8,8,5,9,10,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+7,8,10,8,9,9,9,10,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+7,8,10,9,8,10,9,10,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+5,7,10,8,8,8,10,10,8,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis
+7,7,8,7,9,7,10,9,9,18,hindper; laager; restoran; konverents; jarmuk; hans; nädal; kontsert; eesti; isis

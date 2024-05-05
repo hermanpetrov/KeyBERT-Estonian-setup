@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,3,1,2,3,3,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+1,3,3,1,2,3,3,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+1,3,3,1,2,3,3,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+1,3,3,1,2,3,3,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+1,3,4,1,2,3,3,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+2,1,3,1,2,3,2,2,1,18,staadion; maja; pärt; õppus; sadam; kalev; arvo
+2,1,2,4,2,1,3,3,1,18,staadion; maja; pärt; õppus; toomas; sadam; kalev; arvo
+3,2,2,2,2,1,3,3,1,18,staadion; maja; õppus; pärt; toomas; sadam; hendrik; kalev; arvo
+2,3,3,3,2,1,2,3,1,18,staadion; maja; õppus; pärt; toomas; sadam; kalev; arvo
+3,2,4,4,2,3,4,3,1,18,staadion; maja; õppus; pärt; toomas; sadam; hendrik; kalev; arvo
+3,1,4,3,0,4,4,1,1,18,staadion; maja; õppus; pärt; toomas; sadam; hendrik; kalev; arvo

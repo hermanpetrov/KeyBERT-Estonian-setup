@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+1,0,0,0,0,3,0,2,0,12,triatlon; sportlane; juhanson; ain-alar
+2,0,2,0,0,3,2,3,0,12,triatlon; johanson; sportlane; juhanson; ain-alar; ironman
+1,0,0,0,0,3,0,2,0,12,johanson; sportlane; juhanson; ain-alar
+2,0,2,1,0,2,0,2,0,12,triatlon; johanson; sportlane; juhanson; võistlus; ain-alar
+1,0,2,2,0,2,1,2,0,12,triatlon; võistlus; ain-alar; johanson; sportlane; ironman; juhanson
+1,1,2,1,0,2,2,1,0,12,johanson; sportlane; ironman; juhanson; ain-alar

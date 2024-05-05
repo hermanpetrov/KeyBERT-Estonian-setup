@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,0,1,2,0,0,1,0,14,françois; renessanss; monogramm; loss; esimene; pariis
+0,2,0,1,2,0,0,1,0,14,françois; renessanss; monogramm; loss; esimene; pariis
+0,2,0,1,2,0,0,1,0,14,françois; renessanss; monogramm; loss; esimene; pariis
+0,2,0,1,2,0,0,1,0,14,françois; renessanss; monogramm; loss; esimene; pariis
+0,2,0,1,2,0,0,1,0,14,françois; renessanss; monogramm; loss; esimene; pariis
+0,1,0,1,2,0,0,0,0,14,renessanss; monogramm; loss
+3,0,0,1,2,0,0,1,0,14,renessanss; monogramm; loss; favoriit; napoleon; pariis
+0,2,0,1,2,0,0,1,0,14,renessanss; monogramm; kuninglik; loss; esimene; pariis
+1,2,1,2,2,1,0,0,0,14,françois; renessanss; monogramm; kuninglik; loss; esimene; pariis
+1,2,1,2,2,0,0,1,0,14,trepp; esimene; pariis; françois; renessanss; monogramm; kuninglik; loss
+2,2,1,1,2,0,0,0,0,14,françois; monogramm; loss; trepp; esimene; pariis

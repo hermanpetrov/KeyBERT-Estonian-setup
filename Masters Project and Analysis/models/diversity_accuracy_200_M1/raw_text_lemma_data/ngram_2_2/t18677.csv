@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,7,5,5,6,2,0,4,5,16,henry; esimene; robert; loss; bob; kolmas; elizabeth; dylan; sõda; edward
+5,7,5,5,7,2,0,4,5,16,henry; esimene; robert; loss; bob; kolmas; elizabeth; dylan; sõda; edward
+5,7,6,5,7,2,2,4,5,16,henry; esimene; robert; loss; bob; kolmas; elizabeth; dylan; sõda; edward
+6,7,7,6,7,2,2,4,4,16,henry; esimene; robert; loss; elizabeth; bob; kolmas; dylan; sõda; edward
+6,7,8,6,7,4,2,6,5,16,henry; esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda; edward
+6,7,7,6,7,7,6,8,4,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+3,8,10,9,7,7,4,8,6,16,bob; dylan; kolmas; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+4,8,9,8,7,7,6,8,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+5,7,8,8,8,9,6,11,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+4,6,7,8,8,9,6,8,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+5,8,9,8,8,9,6,8,5,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward

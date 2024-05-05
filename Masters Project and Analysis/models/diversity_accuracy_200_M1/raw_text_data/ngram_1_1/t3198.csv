@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,4,0,2,1,2,1,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
+4,0,4,0,2,1,2,1,2,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
+4,0,3,0,2,1,2,1,2,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
+4,0,3,0,2,1,2,2,2,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; mälberg; hansapanga; juhan
+4,0,3,0,2,2,2,1,3,14,tuumarelv; harry; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
+3,0,1,0,2,4,2,1,3,14,tuumarelv; harry; mall; liivrand; aktsia; mälberg; hansapanga; juhan
+2,0,2,1,2,4,3,2,3,14,tuumarelv; harry; mall; aktsia; mälberg; hansapanga; juhan
+1,0,3,2,3,3,4,1,4,14,harry; välisminister; mall; koalitsioon; aktsia; mälberg; hansapanga; juhan
+0,0,2,4,2,3,5,2,5,14,tuumarelv; harry; mall; koalitsioon; aktsia; mälberg; hansapanga; juhan
+1,0,2,3,3,3,4,3,5,14,harry; mall; aktsia; mälberg; hansapanga; juhan
+1,0,3,2,3,3,3,2,4,14,harry; välisminister; mall; aktsia; mälberg; hansapanga; juhan

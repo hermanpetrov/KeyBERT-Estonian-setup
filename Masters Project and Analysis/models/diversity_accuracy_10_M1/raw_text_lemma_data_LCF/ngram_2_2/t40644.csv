@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,0,19,
+0,1,0,0,0,0,0,0,0,19,andres
+1,1,0,1,0,0,0,0,0,19,andres; bach; mari
+0,0,0,0,0,1,1,1,0,19,orpheus; bach; mari
+0,0,1,0,0,0,0,1,0,19,bach; igor
+1,0,2,0,1,1,0,0,0,19,orpheus; staak; viiul; igor; robert
+1,0,2,0,1,0,1,0,0,19,orpheus; bach; mari; igor; robert

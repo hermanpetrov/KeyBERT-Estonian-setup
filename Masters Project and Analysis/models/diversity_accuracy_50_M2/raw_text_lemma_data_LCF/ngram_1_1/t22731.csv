@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,4,0,1,1,2,1,0,14,kunst; maa; näitus; salajane; aed
+0,2,4,0,1,1,2,1,0,14,kunst; maa; näitus; salajane; aed
+0,2,4,0,1,1,2,1,0,14,kunst; maa; näitus; salajane; aed
+0,2,4,0,1,1,2,1,0,14,kunst; maa; näitus; salajane; aed
+0,2,1,0,1,1,2,1,0,14,kunst; maa; näitus; aed
+0,2,0,0,1,0,1,0,0,14,maa; aed; näitus
+0,2,0,1,1,0,0,0,0,14,maa; aed; sotsia
+0,1,0,0,1,0,0,1,0,14,aed; näitus
+0,1,1,1,1,1,0,1,0,14,aed; elken; sotsia; akvarell
+0,1,1,3,0,0,0,1,0,14,jaan; aed; elken; akvarell
+0,1,2,4,1,0,2,0,0,14,jaan; ränder; aed; elken; akvarell

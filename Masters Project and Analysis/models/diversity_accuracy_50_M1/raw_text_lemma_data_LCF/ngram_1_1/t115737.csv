@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,0,0,0,1,14,küsimus; hermann; johannes
+1,1,1,0,0,0,0,0,1,14,küsimus; hermann; johannes
+1,1,1,0,0,0,0,0,1,14,küsimus; hermann; johannes
+1,1,1,0,0,0,0,0,1,14,küsimus; hermann; johannes
+1,1,2,0,0,0,0,0,1,14,küsimus; hermann; johannes
+1,1,3,0,0,0,2,0,1,14,hermann; karl; johannes; küsimus
+1,1,2,0,0,0,3,0,1,14,hermann; johannes; küsimus; hellitus
+1,1,2,0,0,0,2,1,1,14,hermann; johannes; keel; küsimus; hellitus
+1,0,1,1,0,2,2,1,2,14,salonen; hermann; friedebert; johannes; keel; küsimus; hellitus
+1,0,1,2,0,3,2,0,2,14,salonen; hermann; karl; friedebert; johannes; keel; küsimus; hellitus
+0,0,1,2,1,3,2,0,2,14,hermann; karl; friedebert; johannes; küsimus; salonen; armas; keel; hellitus

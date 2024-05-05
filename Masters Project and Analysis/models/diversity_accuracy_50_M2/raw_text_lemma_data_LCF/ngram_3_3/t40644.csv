@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,0,6,0,0,0,3,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; filharmoonia
+4,1,0,6,0,0,0,3,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; filharmoonia
+4,1,0,6,0,0,0,3,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; filharmoonia
+4,1,0,6,0,0,0,3,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; filharmoonia
+4,3,1,6,0,0,0,4,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; filharmoonia; mari
+3,4,2,6,0,4,4,4,1,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; bach; filharmoonia; mari
+6,3,3,4,0,5,4,6,1,19,phonyker; andres; frederik; sing; kalkun; mustonen; eesti; bach; musicus; mari; filharmoonia
+2,2,2,5,1,5,6,4,2,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; musicus; filharmoonia; mari; lauto; bach
+6,1,1,9,1,3,7,7,4,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; musicus; mari; bach; lauto; filharmoonia
+3,2,4,7,2,3,8,7,3,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; andres; sing; eesti; bach; mari; musicus
+4,1,4,6,1,5,4,4,4,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; bach; mari; lauto; hortus

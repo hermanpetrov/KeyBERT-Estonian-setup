@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,0,0,1,0,0,17,adolf; saksamaa; hitler; berliin
+2,1,1,0,0,0,1,0,0,17,adolf; saksamaa; hitler; berliin
+2,1,1,0,0,0,1,0,0,17,adolf; saksamaa; hitler; berliin
+2,1,1,0,0,0,1,0,0,17,adolf; saksamaa; hitler; berliin
+2,1,1,0,0,0,1,0,0,17,adolf; saksamaa; hitler; berliin
+2,0,1,0,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler
+1,1,1,0,0,0,1,0,0,17,saksamaa; valgustusajastu; berliin
+1,1,1,0,0,0,1,0,0,17,areng; saksamaa
+1,0,1,1,0,0,0,0,0,17,saksamaa; sõda; natsionaalsotsialistlik
+1,0,1,1,0,0,0,2,0,17,valgustusajastu; natsionaalsotsialistlik; saksamaa; sõda
+0,0,1,1,0,0,0,0,0,17,saksamaa; sõda

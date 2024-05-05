@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,2,3,1,2,2,3,1,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,1,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,1,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,1,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,0,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,0,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,0,10,hämarik; lill; koit; faehlmann; taevas
+3,2,2,3,1,2,2,3,0,10,hämarik; lill; koit; faehlmann; taevas
+2,2,2,2,1,2,2,3,0,10,hämarik; koit; faehlmann; taevas
+3,2,1,3,1,2,2,3,0,10,hämarik; koit; faehlmann; taevas
+2,2,2,4,2,2,2,3,0,10,koit; hämarik; taevas; faehlmann

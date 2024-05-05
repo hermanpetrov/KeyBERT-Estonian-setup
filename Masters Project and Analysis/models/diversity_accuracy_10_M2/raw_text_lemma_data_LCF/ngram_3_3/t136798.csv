@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,1,1,3,0,0,0,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+4,2,1,1,3,0,0,0,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+4,2,1,1,3,0,0,0,2,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+4,2,1,1,3,0,0,0,2,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+4,2,2,1,3,0,0,0,2,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+4,2,1,1,3,0,0,0,2,19,deckarty; washington; programm; kool; tervis; balti; trump; president
+3,0,1,0,3,1,0,1,2,19,amet; deckarty; washington; programm; kool; tervis; lahkumine; trump; president
+5,0,2,1,3,0,1,1,1,19,amet; kool; balti; tervis; washington; programm; trump; president
+2,1,0,0,3,0,1,0,2,19,kool; tervis; washington; programm; trump; president
+5,4,0,3,3,2,0,1,3,19,amet; washington; luik; programm; edendus; jüri; tervis; kool; lahkumine; trump; president
+1,2,0,3,2,3,4,2,1,19,amet; luik; programm; jüri; tervis; kool; balti; lahkumine; trump; president

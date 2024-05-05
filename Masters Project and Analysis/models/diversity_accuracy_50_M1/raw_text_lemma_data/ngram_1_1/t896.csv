@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,1,1,0,1,12,tund; sport; ain
+0,1,0,0,0,1,1,0,1,12,tund; sport; ain
+0,1,0,0,0,1,1,0,1,12,tund; sport; ain
+0,1,0,0,0,1,1,0,1,12,tund; sport; ain
+0,1,0,0,0,0,1,0,1,12,tund; sport
+0,0,1,0,0,0,0,0,1,12,sport; maraton
+0,1,1,0,0,0,0,1,1,12,sport; üheksa; maraton
+0,1,0,0,0,0,0,1,1,12,ujumine; sport; maraton
+0,0,0,0,0,0,0,0,1,12,sport
+0,1,0,0,0,0,1,0,0,12,triatlon
+1,0,0,0,0,0,1,0,0,12,ujumine; ain

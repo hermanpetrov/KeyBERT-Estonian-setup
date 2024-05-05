@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,4,5,1,5,2,2,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
+5,4,6,1,4,1,3,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
+5,4,8,1,4,0,4,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
+5,4,8,2,5,1,6,3,3,16,aprill; õppimine; armastus; ballaad; sisemine; festival; rituaal; kompromiss; laul; medell; sirje; kaklema; varietee
+5,3,7,2,6,2,5,3,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
+4,3,5,3,6,1,5,5,3,16,sisemine; festival; rituaal; kompromiss; laps; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
+4,3,2,5,6,2,4,9,3,16,laps; aprill; õppimine; armastus; ballaad; sisemine; festival; rituaal; kompromiss; laul; medell; sirje; varietee
+3,4,2,4,3,4,4,7,3,16,festival; sisemine; rituaal; kompromiss; laps; aprill; laul; medell; sirje; õppimine; varietee; armastus; ballaad
+3,2,2,4,6,4,2,6,3,16,festival; sisemine; rituaal; laps; kompromiss; aprill; laul; sirje; õppimine; varietee; armastus; ballaad
+4,2,0,5,4,4,2,5,2,16,festival; rituaal; kompromiss; laps; aprill; laul; sirje; õppimine; varietee; armastus; ballaad
+3,2,2,5,4,4,2,5,2,16,festival; sisemine; rituaal; kompromiss; laps; aprill; laul; sirje; õppimine; varietee; armastus; ballaad

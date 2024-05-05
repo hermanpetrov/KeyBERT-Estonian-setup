@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,3,2,7,4,3,4,4,21,festival; eurosonic; rock; alter; holland; erki; two; the; raadio; dragons; soonik; roll; kaks
+4,4,3,2,8,4,4,4,4,21,festival; eurosonic; rock; alter; holland; erki; two; and; the; raadio; dragons; soonik; roll; kaks
+4,4,3,2,8,4,4,3,4,21,festival; eurosonic; rock; alter; holland; erki; two; and; the; raadio; dragons; soonik; roll; kaks
+4,4,4,2,8,4,4,3,4,21,festival; eurosonic; rock; alter; holland; erki; two; and; the; raadio; dragons; soonik; roll; kaks
+4,3,2,2,9,3,5,4,4,21,alter; erki; two; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+4,2,3,2,9,4,5,5,4,21,alter; erki; two; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+2,3,4,4,9,4,5,4,4,21,festival; eurosonic; rock; alter; holland; two; erki; and; the; raadio; dragons; soonik; roll; kaks
+1,2,6,7,9,5,4,7,6,21,alter; erki; two; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+1,2,3,10,10,6,4,7,8,21,alter; two; erki; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+0,2,4,10,10,6,8,9,6,21,alter; erki; two; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+0,2,4,10,10,7,5,9,5,21,alter; erki; two; and; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik

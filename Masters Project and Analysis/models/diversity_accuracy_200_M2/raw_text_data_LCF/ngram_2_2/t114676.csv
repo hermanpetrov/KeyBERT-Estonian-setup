@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,2,4,2,3,3,4,7,5,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; oit; bob
+8,2,5,2,3,3,4,6,5,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; oit; bob
+8,2,6,2,3,3,5,9,5,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
+8,2,6,3,4,4,5,9,5,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
+8,2,7,4,5,6,6,9,5,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; levimuusika; liit; oit
+6,3,7,6,6,6,6,9,5,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; levimuusika; liit; oit
+3,3,6,6,6,7,6,9,6,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; levimuusika; liit; oit
+2,3,7,5,7,7,5,7,6,16,uno; usa; nsv; aarne; john; naissoo; kennedy; liit; bob
+2,4,6,7,6,6,6,6,6,16,uno; usa; nsv; aarne; john; naissoo; kennedy; liit; oit; bob
+2,3,7,7,9,5,8,5,7,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; liit; oit
+2,4,7,8,9,6,6,5,7,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; liit; oit

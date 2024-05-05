@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
+2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
+2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
+2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
+2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
+2,0,0,0,0,0,0,0,1,15,lübeck; hoone; tõnis
+0,0,1,0,0,0,0,0,1,15,hoone; ekspositsioon
+0,1,1,0,0,0,0,0,1,15,hoone; tõnis; ekspositsioon
+1,1,1,1,0,0,0,0,1,15,hoone; ekspositsioon; tõnis
+0,2,2,0,0,0,0,1,1,15,ekspositsioon; kelder; hoone; tõnis; muusik
+0,1,2,0,0,0,0,0,1,15,kelder; ekspositsioon; hoone; muusik

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,4,3,4,1,3,2,2,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+3,4,3,4,1,3,2,2,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+3,4,3,4,0,3,2,2,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+3,4,3,4,0,3,2,3,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+3,4,3,4,0,3,2,3,2,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+3,4,4,4,1,3,3,4,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+2,3,3,4,2,4,2,4,3,10,klassikatähed; ebapopulaarne; oboemängija; hobi
+2,3,4,2,2,3,4,4,2,10,klassikatähed; ebapopulaarne; hobi; oboemängija
+4,3,4,2,3,2,4,4,2,10,klassikatähed; ebapopulaarne; hobi; oboemängija
+3,3,4,2,3,3,4,4,4,10,klassikatähed; ebapopulaarne; hobi; oboemängija
+3,3,4,2,4,2,4,4,4,10,klassikatähed; ebapopulaarne; hobi; oboemängija

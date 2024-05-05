@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,0,0,0,2,1,2,1,13,arne; rütm; jaan; arvumaagia; luulekogu
+2,2,0,0,0,2,1,2,1,13,arne; rütm; jaan; arvumaagia; luulekogu
+2,2,1,0,0,2,1,1,1,13,arne; rütm; jaan; arvumaagia; merilai; luulekogu
+2,2,1,0,0,1,0,1,1,13,arne; rütm; jaan; arvumaagia; merilai; luulekogu
+1,2,1,0,0,3,1,1,1,13,arne; jaan; oidipus; arvumaagia; merilai; luulekogu
+1,2,3,0,0,3,2,1,1,13,arne; oidipus; krull; arvumaagia; jaan; merilai; luulekogu
+1,1,1,2,1,1,1,4,1,13,arne; rütm; oidipus; krull; hasso; merilai; luulekogu
+0,1,2,1,2,1,1,1,0,13,arne; hasso; jaan; oidipus; pehk; krull; merilai
+0,0,0,1,2,2,1,2,1,13,arne; jaan; oidipus; krull; luulekogu
+0,0,0,1,4,3,1,3,1,13,arne; rütm; oidipus; krull; arvumaagia; pehk; jaan; luulekogu
+1,1,0,0,2,2,1,2,1,13,hasso; arne; pehk; jaan; oidipus; krull; merilai; luulekogu

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,0,1,1,1,0,11,granaat; ülo; õppima
+2,1,1,0,0,1,1,1,1,11,granaat; ülo; õppima
+2,1,1,0,0,1,0,1,1,11,granaat; ülo; õppima
+2,1,1,0,0,1,0,1,1,11,granaat; ülo; õppima
+2,1,2,0,0,2,1,1,1,11,looming; ülo; õppima; granaat
+1,1,1,0,0,2,1,0,1,11,granaat; looming; ülo
+2,1,2,2,0,1,1,2,1,11,laps; ülo; looming; õppima; granaat
+1,1,2,2,1,0,1,3,1,11,laps; ülo; looming; õppima; granaat
+0,1,1,2,2,1,1,2,1,11,laps; ülo; looming; granaat
+1,1,1,2,2,2,1,2,1,11,laps; ülo; looming; õppima; granaat
+1,0,2,2,3,2,2,2,1,11,looming; laps; ülo; õppima; granaat

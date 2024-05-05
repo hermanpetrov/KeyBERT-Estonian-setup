@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,4,3,2,4,3,7,3,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus
+5,2,4,3,2,4,3,7,3,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus
+5,2,4,3,2,4,3,7,3,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus
+5,4,4,3,2,4,3,7,3,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus
+5,4,4,3,2,2,4,7,3,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus
+6,3,4,3,2,2,5,7,2,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
+6,3,4,4,2,4,1,7,2,13,villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
+6,3,5,5,1,4,4,6,3,13,kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
+5,3,4,5,2,5,6,5,2,13,lutsifer; villem; kirik; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
+6,2,4,4,2,3,5,6,7,13,kirik; lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
+5,2,4,2,3,2,4,5,4,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus

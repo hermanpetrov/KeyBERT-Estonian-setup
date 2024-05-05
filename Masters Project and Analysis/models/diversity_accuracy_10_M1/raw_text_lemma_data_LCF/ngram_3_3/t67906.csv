@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,0,0,1,2,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,2,1,0,0,1,2,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,2,1,0,0,1,2,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,2,1,0,0,1,2,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,2,1,0,0,1,2,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,1,1,0,0,2,1,3,1,14,kapitalism; elmo; teater; tsivilisatsioon; nüganen
+1,3,1,0,0,1,1,3,1,14,revolutsionäär; kapitalism; elmo; teater; tsivilisatsioon; nüganen
+0,0,3,2,0,3,2,2,1,14,stoppard; elmo; kontsert; teater; tsivilisatsioon; nüganen
+1,0,3,3,2,4,1,2,1,14,kapitalism; kontsert; teater; stoppard; elmo; klassika; kaja; tsivilisatsioon; nüganen
+0,0,4,3,1,4,0,3,2,14,kapitalism; kontsert; teater; stoppard; elmo; tsivilisatsioon; nüganen
+0,1,3,1,1,5,1,2,2,14,kapitalism; kontsert; kärner; teater; stoppard; elmo; kaja; tsivilisatsioon; nüganen

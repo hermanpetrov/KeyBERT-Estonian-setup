@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,1,2,0,1,2,2,1,2,16,põllumeeste; karl; vanemuise; eesti; koorilaul; keel; ärkamine; rahvuslik
+6,1,2,0,1,2,2,1,2,16,põllumeeste; karl; vanemuise; eesti; koorilaul; keel; ärkamine; rahvuslik
+6,1,2,0,1,2,2,1,2,16,põllumeeste; karl; vanemuise; eesti; koorilaul; keel; ärkamine; rahvuslik
+6,1,2,0,1,2,2,1,2,16,põllumeeste; karl; vanemuise; eesti; koorilaul; keel; ärkamine; rahvuslik
+6,1,2,0,1,2,2,2,2,16,põllumeeste; karl; vanemuise; eesti; koorilaul; keel; ärkamine; rahvuslik
+6,0,2,0,1,2,2,2,2,16,postimees; põllumeeste; karl; vanemuise; eesti; keel; ärkamine; rahvuslik
+5,1,1,2,1,0,2,2,2,16,postimees; põllumeeste; karl; vanemuise; eesti; keel; selts; ärkamine; üldlaulupidu; rahvuslik
+2,0,1,1,1,2,2,2,2,16,põllumeeste; karl; vanemuise; keel; eesti; üldlaulupidu
+1,0,0,3,0,3,2,2,1,16,karl; vanemuise; eesti; üldlaulupidu
+1,0,0,2,1,3,2,2,1,16,karl; vanemuise; selts; eesti
+1,1,2,2,1,3,2,1,1,16,põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine

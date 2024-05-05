@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,4,0,1,3,4,3,2,12,erakond; kirik; poliitika; viilm; probleem; riik; urmas; meelis
+4,2,4,0,1,4,4,4,2,12,erakond; kirik; poliitika; viilm; probleem; riik; urmas; meelis
+4,2,5,1,1,3,4,4,3,12,erakond; kirik; poliitika; viilm; probleem; riik; urmas; meelis
+3,2,5,2,1,2,3,5,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+2,2,5,2,1,3,3,6,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+2,2,4,2,1,2,3,7,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+2,2,3,3,1,2,3,5,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+0,2,4,5,1,2,3,7,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+1,2,2,4,1,1,3,4,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+1,3,3,3,1,1,2,4,3,12,erakond; kirik; poliitika; viilm; probleem; riik; süld; urmas; meelis
+1,3,3,4,2,1,3,4,2,12,erakond; kirik; poliitika; viilm; probleem; süld; urmas; meelis

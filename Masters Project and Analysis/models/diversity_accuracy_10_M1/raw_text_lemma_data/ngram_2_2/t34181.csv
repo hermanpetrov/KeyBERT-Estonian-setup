@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,4,0,1,2,1,0,15,institutsioon; sümboolne; võim; kunstnik; kriitik; kuraator; publik
+1,1,1,3,0,1,2,1,0,15,kriitik; kuraator; publik; institutsioon; sümboolne; võim; kunstnik
+1,1,1,3,0,1,2,1,0,15,kriitik; kuraator; publik; institutsioon; sümboolne; võim; kunstnik
+1,1,1,3,0,1,2,1,0,15,kriitik; kuraator; publik; institutsioon; sümboolne; võim; kunstnik
+1,1,1,3,0,1,2,1,0,15,kriitik; kuraator; publik; institutsioon; sümboolne; võim; kunstnik
+1,0,1,3,0,1,1,2,0,15,kriitik; kuraator; publik; sümboolne; võim; kunstnik
+0,1,1,1,0,4,2,2,0,15,anders; kriitik; kuraator; publik; institutsioon; kunstnik
+1,1,0,1,0,1,3,1,0,15,anders; kriitik; publik; institutsioon; sümboolne; kunstnik
+0,0,1,3,0,2,1,1,0,15,kriitik; kuraator; publik; institutsioon; kunstnik
+1,0,1,1,1,1,2,2,0,15,anders; kriitik; publik; võim; kunstnik
+0,0,2,1,1,1,2,2,1,15,kriitik; anders; kuraator; publik; reaalne; kunstnik

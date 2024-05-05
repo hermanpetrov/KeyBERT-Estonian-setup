@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,3,0,1,1,2,1,12,sotsioloog; muusika; klubikultuur; massikultuur
+2,2,1,3,0,1,1,2,1,12,sotsioloog; muusika; klubikultuur; massikultuur
+2,2,1,3,0,1,1,2,1,12,sotsioloog; muusika; klubikultuur; massikultuur
+3,2,2,3,0,1,1,2,1,12,sotsioloog; muusika; sildvee; klubikultuur; massikultuur
+3,2,3,3,0,1,1,2,1,12,sotsioloog; muusika; sildvee; bakalaureusetöö; klubikultuur; massikultuur
+3,4,3,3,0,3,3,4,1,12,muusika; sildvee; elektrooniline; bakalaureusetöö; reimo; klubikultuur; massikultuur; sotsioloog
+5,2,2,2,0,1,2,4,1,12,reimo; bakalaureusetöö; sildvee; muusika; klubikultuur; kommertslik; sotsioloog
+1,1,2,2,0,3,0,3,1,12,muusika; bakalaureusetöö; reimo; sildvee; klubikultuur; massikultuur; kommertslik; sotsioloog
+1,1,2,3,0,2,2,1,1,12,sotsioloog; muusika; bakalaureusetöö; sildvee; klubikultuur; massikultuur
+1,0,3,3,0,3,2,0,1,12,sotsioloog; muusika; bakalaureusetöö; reimo; sildvee; massikultuur
+0,0,2,3,0,1,2,0,1,12,sotsioloog; muusika; bakalaureusetöö; sildvee; massikultuur

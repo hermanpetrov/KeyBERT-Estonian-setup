@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,1,0,0,0,0,11,teater; usa; kongress
+0,1,1,0,1,0,0,0,0,11,teater; usa; kongress
+0,1,1,0,1,0,0,0,0,11,teater; usa; kongress
+0,1,0,0,1,0,0,0,0,11,teater; usa
+0,1,0,0,1,0,0,0,0,11,teater; usa
+0,1,0,0,1,0,0,0,0,11,teater; usa
+0,0,0,0,1,0,0,0,0,11,usa
+0,0,0,1,1,0,0,0,0,11,usa; kongress
+0,0,0,2,1,0,0,0,0,11,moskva; usa; kongress
+0,0,0,1,1,0,0,0,0,11,moskva; usa
+0,0,0,1,1,0,0,0,0,11,moskva; usa

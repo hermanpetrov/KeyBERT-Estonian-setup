@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,0,0,0,0,0,0,0,15,loomavagun; talveriided
+0,2,0,0,0,0,0,0,0,15,loomavagun; talveriided
+0,2,0,0,0,0,0,0,0,15,loomavagun; talveriided
+0,2,0,0,0,0,0,0,0,15,loomavagun; talveriided
+0,2,0,0,0,0,0,0,0,15,loomavagun; talveriided
+0,2,0,0,0,1,0,0,0,15,laager; loomavagun; talveriided
+3,2,0,1,0,0,0,0,0,15,saksa; talveriided; laager; loomavagun; robert
+1,1,0,3,0,0,0,0,0,15,saksa; tasso; talveriided; robert
+1,1,0,3,0,0,0,0,0,15,laager; loomavagun; tasso; robert
+1,1,1,2,0,0,1,0,1,15,laager; saksa; tasso
+1,0,1,2,0,0,0,0,1,15,laager; saksa; loomavagun

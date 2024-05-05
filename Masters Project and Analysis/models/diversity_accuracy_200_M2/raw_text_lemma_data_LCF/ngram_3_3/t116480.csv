@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,6,5,7,4,6,5,5,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+6,6,5,7,5,6,5,5,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+6,6,4,7,5,7,5,5,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+7,7,5,7,5,7,6,5,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+7,7,6,7,5,7,7,5,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+8,7,7,7,6,7,8,6,5,16,kontsert; dirigent; partok; ungari; serenaa; torm; publik; tõnu
+8,7,7,8,6,7,8,8,5,16,kontsert; dirigent; partok; torm; ungari; serenaa; publik; tõnu
+7,8,6,7,6,7,6,6,6,16,kontsert; dirigent; ungari; torm; serenaa; partok; publik; tõnu
+7,7,8,7,8,6,6,6,6,16,kontsert; dirigent; ungari; torm; serenaa; partok; publik; tõnu
+6,8,6,7,8,7,7,8,7,16,kontsert; dirigent; ungari; torm; partok; serenaa; publik; tõnu
+6,8,8,8,8,5,6,7,7,16,kontsert; dirigent; ungari; torm; partok; serenaa; publik; tõnu

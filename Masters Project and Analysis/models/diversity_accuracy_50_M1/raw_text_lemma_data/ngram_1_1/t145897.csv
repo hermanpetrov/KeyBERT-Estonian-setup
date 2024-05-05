@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,0,0,0,0,0,1,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,0,0,0,0,1,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,0,0,0,0,1,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,0,0,0,0,1,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,0,0,0,0,0,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,0,0,0,0,0,1,12,teater; näitleja; kostüüm; estonia
+1,2,0,1,0,1,0,0,1,12,kostüüm; andres; estonia; teater; viiul; näitleja
+1,2,0,1,0,0,0,0,1,12,kostüüm; andres; estonia; teater; näitleja
+0,1,0,0,0,0,0,0,1,12,näitleja; estonia
+0,1,0,1,0,1,0,0,1,12,viiul; näitleja; estonia
+1,0,1,1,0,1,0,2,2,12,jõgis; estonia; teater; viiul; kostüüm

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,0,0,1,0,2,0,13,mõisaproua; ülikool; concordia; kursus; mõis
+0,2,1,0,0,1,0,2,0,13,mõisaproua; ülikool; concordia; kursus; mõis
+0,2,0,0,0,1,0,2,1,13,mõisaproua; ülikool; concordia; mõis
+0,2,0,0,0,1,0,2,1,13,mõisaproua; ülikool; concordia; mõis
+0,2,0,0,0,1,0,2,1,13,mõisaproua; ülikool; concordia; mõis
+0,2,0,0,0,0,0,1,1,13,concordia; mõisaproua; ülikool
+1,2,0,0,0,0,0,0,1,13,concordia; ülikool
+1,2,0,1,0,0,0,0,1,13,concordia; kursus; ülikool
+2,2,0,1,0,0,0,1,1,13,ülikool; majandusjuhtide; sidejaoskond; concordia; mõis
+2,2,0,1,0,0,1,1,1,13,ülikool; kolu; majandusjuhtide; sidejaoskond; concordia; mõis
+2,2,0,1,0,1,1,0,1,13,ülikool; kolu; sidejaoskond; concordia; mõis

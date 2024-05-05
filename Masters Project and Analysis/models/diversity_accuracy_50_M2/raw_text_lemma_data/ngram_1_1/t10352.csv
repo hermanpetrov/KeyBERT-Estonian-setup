@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
+0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
+0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
+0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
+0,0,1,0,1,1,0,1,1,12,ühiskond; ressurss; ökoloogiline
+0,0,1,0,1,1,1,1,1,12,ühiskond; ressurss; ökoloogiline; sõda
+0,1,1,0,1,0,1,0,1,12,ressurss; ühiskond; ökoloogiline; konkurents; sõda
+0,2,1,1,1,0,1,0,1,12,ressurss; ühiskond; ökoloogiline; konkurents; sõda
+1,2,2,0,1,0,0,0,2,12,ressurss; ühiskond; ökoloogiline; konkurents; sõda; arheoloog
+1,1,2,0,1,0,0,0,0,12,ressurss; arheoloog; ökoloogiline
+1,1,2,1,1,0,0,0,0,12,nappus; ressurss; arheoloog; ökoloogiline

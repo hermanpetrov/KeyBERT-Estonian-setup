@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
+1,1,2,1,0,3,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi; intervjuu
+1,1,2,0,0,3,2,3,0,12,romaan; iroonia; luuletaja; viivi; intervjuu
+1,1,1,1,0,4,2,3,0,12,romaan; iroonia; luuletaja; viivi; intervjuu
+0,1,2,2,0,4,2,3,0,12,tulevik; luuletaja; intervjuu; romaan; viivi; kass
+0,1,2,4,0,4,1,3,1,12,romaan; luuletaja; viivi; kass; intervjuu

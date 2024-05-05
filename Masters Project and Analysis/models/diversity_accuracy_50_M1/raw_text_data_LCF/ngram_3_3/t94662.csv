@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,5,3,0,2,3,4,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; petseri; arvo
+3,3,5,3,0,2,3,4,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; petseri; arvo
+3,3,5,3,0,2,3,4,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; petseri; arvo
+3,3,5,3,0,2,3,5,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; hendrik; petseri; arvo
+3,2,6,3,0,2,3,4,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; petseri; arvo
+3,1,4,3,0,2,5,6,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; mari; petseri; arvo
+0,0,7,4,0,4,3,7,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
+3,5,6,5,0,4,2,5,1,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; petseri; arvo
+3,4,6,3,2,2,5,5,1,18,kalevi; rebane; pärt; kärdla; toomas; ukraina; mari; petseri; arvo
+3,2,6,3,3,2,2,8,1,18,kalevi; rebane; staadion; pärt; toomas; kärdla; ukraina; mari; hendrik; petseri; ilves; arvo
+4,2,8,4,2,2,1,6,1,18,kalevi; rebane; staadion; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; arvo

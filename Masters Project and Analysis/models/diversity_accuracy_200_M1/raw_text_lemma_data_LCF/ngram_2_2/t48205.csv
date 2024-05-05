@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,7,7,3,3,9,7,8,8,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; renessanss; loss; kuningas
+5,7,7,4,3,9,8,8,8,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; renessanss; loss; kuningas
+4,7,8,4,3,8,8,9,8,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; renessanss; loss; kuningas
+4,7,8,4,2,8,7,9,8,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; renessanss; loss; kuningas
+5,8,7,5,2,8,8,8,8,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; mürk; renessanss; loss; kuningas
+5,9,6,7,5,9,8,7,6,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; mürk; renessanss; loss; kuningas
+9,9,9,10,5,10,9,8,6,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; mürk; renessanss; loss; kuningas
+8,10,8,8,6,7,9,7,6,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; mürk; renessanss; loss; kuningas
+7,11,4,6,7,8,8,8,7,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; ehitamine; esimene; mürk; renessanss; loss; kuningas
+7,8,4,7,7,8,8,7,7,13,esimene; mürk; reis; pariis; françois; renessanss; vaheldus; loss; napoleon; kuningas
+7,8,5,7,7,7,7,8,7,13,luksuslik; reis; pariis; françois; vaheldus; napoleon; esimene; mürk; renessanss; loss; kuningas

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,4,6,7,3,5,6,7,7,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+6,4,6,7,3,5,6,7,7,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+6,4,6,7,3,5,6,7,7,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+6,4,6,7,3,5,6,7,6,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+6,4,6,7,3,5,6,7,6,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+5,4,7,7,3,5,6,7,7,11,katus; töö; ema; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+7,4,10,8,3,6,7,7,7,11,katus; ema; töö; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+7,4,10,8,3,6,8,8,7,11,katus; ema; töö; katariina; ronima; lõpp; redel; poiss; kohvik; kool
+7,5,8,7,4,5,9,8,7,11,ema; katariina; redel; kool; katus; töö; ronima; lõpp; poiss; kohvik
+8,4,10,6,5,8,10,8,7,11,ema; katariina; redel; kool; katus; töö; ronima; lõpp; poiss; kohvik
+7,6,8,6,5,7,8,9,8,11,ema; katariina; redel; kool; katus; töö; ronima; lõpp; poiss; kohvik

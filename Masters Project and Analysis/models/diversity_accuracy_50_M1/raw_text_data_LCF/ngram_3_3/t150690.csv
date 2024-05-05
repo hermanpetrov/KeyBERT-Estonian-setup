@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,3,2,2,4,4,3,3,13,eesti; arengukava; keelepoliitika; keel; palk
+4,3,3,2,2,4,4,3,3,13,eesti; arengukava; keelepoliitika; keel; palk
+4,3,3,2,2,4,4,3,3,13,eesti; arengukava; keelepoliitika; keel; palk
+4,4,3,2,2,4,4,3,3,13,reimand; indrek; eesti; arengukava; keelepoliitika; keel; palk
+4,5,4,2,2,4,4,3,3,13,reimand; indrek; eesti; arengukava; keelepoliitika; keel; palk
+5,5,5,3,2,3,4,4,3,13,eesti; arengukava; keelepoliitika; keel; palk; koolisüsteem; piret
+6,7,4,3,2,3,4,4,3,13,reimand; indrek; eesti; arengukava; keelepoliitika; keel; palk; koolisüsteem; piret
+4,4,5,4,2,5,6,6,3,13,reimand; indrek; kriivan; eesti; arengukava; keelepoliitika; keel; palk; piret; koolisüsteem
+5,7,6,5,2,4,7,9,3,13,arengukava; rahvusvahelisus; keelepoliitika; keel; palk; piret; reimand; indrek; kriivan; eesti; koolisüsteem; ministeerium
+2,6,4,4,2,6,7,7,3,13,reimand; indrek; kriivan; eesti; arengukava; keelepoliitika; keel; palk; tasakaal; piret; ministeerium; koolisüsteem
+3,3,7,4,1,8,6,8,2,13,arengukava; keelepoliitika; keel; palk; piret; reimand; indrek; kriivan; eesti; tasakaal; koolisüsteem; ministeerium

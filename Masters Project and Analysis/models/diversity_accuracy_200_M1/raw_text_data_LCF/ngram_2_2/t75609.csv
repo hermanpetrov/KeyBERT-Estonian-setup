@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,9,5,4,3,5,6,6,4,14,religioon; tehnoloogiline; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
+7,9,5,4,3,5,6,6,4,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
+7,9,8,4,4,5,6,6,4,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
+7,9,6,4,4,5,3,5,3,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
+6,10,6,5,3,6,4,6,6,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
+6,9,6,5,3,7,6,8,6,14,tehnoloogiline; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus; arrak
+3,5,5,3,4,6,5,9,7,14,tehnoloogiline; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
+3,4,6,5,5,8,6,5,6,14,tehnoloogiline; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus; arrak
+2,5,7,3,6,6,7,6,7,14,tehnoloogiline; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus; arrak
+3,4,5,3,6,5,3,3,8,14,religioon; püha; usklik; filosoofia; teadvus; kunstnik; jüri; vaim; teadus; usutunne; arrak; üliintellekt
+6,6,6,4,6,3,3,2,8,14,tehnoloogiline; usklik; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak

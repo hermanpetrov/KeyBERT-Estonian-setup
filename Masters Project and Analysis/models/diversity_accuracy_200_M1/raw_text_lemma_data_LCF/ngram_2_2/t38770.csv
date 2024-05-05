@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,6,4,4,1,3,4,5,5,15,majandus; reimo; anti; vaino; eesti; eurotsoon; kroon; föderatsioon; sotsiaalne
+6,6,4,4,1,3,4,5,5,15,majandus; reimo; anti; vaino; eesti; eurotsoon; kroon; föderatsioon; sotsiaalne
+5,4,5,4,1,4,4,5,5,15,majandus; reimo; anti; vaino; eesti; eurotsoon; kroon; föderatsioon; sotsiaalne
+7,5,5,4,1,5,4,6,5,15,majandus; reimo; sildvee; anti; vaino; eesti; eurotsoon; kroon; föderatsioon; sotsiaalne
+7,5,6,6,1,4,5,8,5,15,reimo; sildvee; anti; kroon; urmas; sotsiaalne; majandus; vaino; eesti; eurotsoon; föderatsioon
+5,6,8,5,4,6,5,8,5,15,reimo; sildvee; anti; kroon; urmas; sotsiaalne; majandus; vaino; eesti; eurotsoon; föderatsioon
+7,6,7,8,6,8,7,7,5,15,reimo; sildvee; anti; kroon; urmas; sotsiaalne; majandus; vaino; eesti; eurotsoon; föderatsioon
+5,5,8,6,3,8,5,7,5,15,majandus; reimo; sildvee; vaino; eesti; kroon; eurotsoon; anti; föderatsioon; urmas; sotsiaalne
+4,3,8,6,5,3,6,9,6,15,reimo; sildvee; anti; kroon; urmas; sotsiaalne; majandus; vaino; eesti; eurotsoon; föderatsioon
+4,5,9,6,3,6,7,8,6,15,majandus; reimo; sildvee; anti; vaino; eesti; eurotsoon; kroon; föderatsioon; urmas; sotsiaalne
+3,6,7,6,3,6,5,9,7,15,reimo; sildvee; anti; kroon; urmas; sotsiaalne; majandus; vaino; eesti; eurotsoon; föderatsioon

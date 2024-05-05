@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,4,2,2,4,4,3,3,16,estonia; teater; tomson; eesti; pianiino; klaver
+4,4,4,2,2,4,4,3,3,16,estonia; teater; tomson; eesti; pianiino; klaver
+4,4,4,2,2,4,4,3,3,16,estonia; teater; tomson; eesti; pianiino; klaver
+4,4,5,2,2,4,4,3,3,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+4,4,5,2,2,4,4,3,3,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+4,3,5,2,2,4,4,4,3,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+4,5,4,5,2,7,5,3,3,16,klaver; estonia; teater; alo; tomson; eesti; pianiino
+4,4,5,5,2,7,5,6,3,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+3,3,6,5,2,6,6,6,3,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+3,4,5,5,2,6,5,6,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+3,4,4,4,1,4,6,6,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver

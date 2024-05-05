@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,5,1,1,1,2,3,1,12,kirik; euroopa; vaimulik; tartu; katoliku
+1,3,5,1,1,1,2,3,1,12,kirik; euroopa; vaimulik; tartu; katoliku
+1,3,5,1,1,1,2,3,1,12,kirik; euroopa; vaimulik; tartu; katoliku
+1,3,4,1,1,1,2,3,1,12,vaimulik; kirik; tartu; euroopa
+1,3,4,1,1,2,2,3,1,12,vaimulik; kirik; euroopa; tartu; katoliku
+1,3,2,2,1,1,4,2,1,12,vaimulik; kirik; katoliku; tartu; ordu; euroopa
+1,3,2,1,1,1,3,3,1,12,kirik; ordu; vaimulik; katoliku; tartu; euroopa
+1,3,3,1,1,0,2,1,1,12,vaimulik; kirik; euroopa; tartu; katoliku
+1,3,2,1,0,2,2,1,0,12,vaimulik; kirik; katoliku; tartu; ordu; euroopa
+2,2,2,2,1,1,2,1,0,12,vaimulik; kirik; euroopa; tartu; ordu; katoliku
+1,3,2,2,0,0,2,2,1,12,vaimulik; euroopa; tartu; ordu; katoliku

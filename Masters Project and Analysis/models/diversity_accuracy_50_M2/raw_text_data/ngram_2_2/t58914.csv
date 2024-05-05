@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,0,1,1,0,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus
+2,1,0,0,1,0,0,1,0,12,veetõus; mageveehorisont; sadam
+2,1,0,0,1,0,0,1,0,12,veetõus; mageveehorisont; sadam
+2,1,0,0,1,0,0,1,0,12,veetõus; mageveehorisont; sadam
+2,1,0,0,1,0,0,1,0,12,veetõus; mageveehorisont; sadam
+2,1,0,1,1,0,0,1,0,12,mageveehorisont; sadam; prognoos; veetõus; liiv
+1,1,0,0,1,0,0,1,0,12,veetõus; mageveehorisont; liiv; sadam
+1,0,0,0,1,0,0,0,0,12,sadam
+0,0,0,1,1,0,0,0,0,12,sadam; prognoos
+0,0,0,2,1,0,0,0,1,12,veetõus; sadam; prognoos
+1,0,0,1,0,0,0,1,1,12,veetõus; tamm; prognoos

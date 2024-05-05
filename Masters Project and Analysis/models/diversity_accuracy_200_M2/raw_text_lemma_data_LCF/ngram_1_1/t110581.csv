@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,4,0,2,4,5,3,4,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+3,1,6,1,2,3,5,4,4,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+2,1,7,1,2,3,5,4,4,13,lutsifer; kirik; villem; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+2,1,7,1,2,5,6,4,5,13,lutsifer; kirik; villem; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+2,1,5,2,2,5,7,4,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+2,0,5,4,3,6,6,6,6,13,lutsifer; villem; kirik; stackelberg; kristus; köler; eesti; kaarli; ilus; fresko
+2,1,6,4,3,6,6,8,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus; fresko
+1,0,4,6,3,7,6,6,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; fresko
+1,0,6,6,4,8,4,7,7,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus; fresko
+1,0,6,7,7,8,4,6,7,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus; fresko
+1,0,6,6,6,8,3,7,5,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus; fresko

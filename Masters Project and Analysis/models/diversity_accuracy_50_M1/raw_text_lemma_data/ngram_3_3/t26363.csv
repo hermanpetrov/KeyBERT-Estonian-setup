@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+3,4,2,2,0,1,2,3,3,11,ludwig; maastik; asundus; eesti; austraalia; hoolitsemine
+4,4,2,2,0,1,1,2,3,11,eesti; maastik; austraalia; ludwig; asundus; hoolitsemine
+3,4,2,3,0,2,3,2,3,11,maastik; eesti; austraalia; ludwig; asundus; hoolitsemine
+3,2,2,4,0,3,2,2,3,11,külaline; maastik; eesti; austraalia; ludwig; asundus; hoolitsemine
+3,4,2,5,0,3,1,3,3,11,puhkama; külaline; eesti; austraalia; maastik; ludwig; asundus; hoolitsemine
+3,5,3,6,0,3,3,4,3,11,puhkama; külaline; eesti; austraalia; maastik; ludwig; asundus; hoolitsemine

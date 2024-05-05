@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,1,1,1,0,19,festival; usa; euroopa; rudolf
+1,0,1,0,0,1,1,1,0,19,festival; usa; euroopa; rudolf
+1,0,1,0,0,1,1,1,0,19,festival; usa; euroopa; rudolf
+1,0,1,0,0,1,1,1,0,19,festival; usa; euroopa; rudolf
+1,0,1,0,0,1,1,1,0,19,festival; usa; euroopa; rudolf
+1,0,1,0,0,2,1,1,0,19,festival; usa; liit; euroopa; rudolf
+0,0,0,0,0,1,1,1,0,19,usa; euroopa
+2,0,1,1,0,1,1,0,0,19,elanikkond; bulgaaria; kreeka; euroopa
+2,1,1,2,0,0,2,2,0,19,festival; elanikkond; usa; liit; bulgaaria; euroopa
+0,1,0,0,0,0,1,1,0,19,usa; euroopa
+0,1,1,0,0,0,1,0,0,19,mesila; euroopa

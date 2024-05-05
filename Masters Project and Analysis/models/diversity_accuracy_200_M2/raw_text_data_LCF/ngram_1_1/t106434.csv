@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,5,6,2,2,7,7,5,3,13,otsa; puhkpillikvintett; matti; tants; eesti; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd
+5,5,6,2,2,6,7,6,3,13,otsa; puhkpillikvintett; matti; tants; eesti; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd
+5,4,6,2,2,6,9,6,3,13,otsa; puhkpillikvintett; matti; tants; eesti; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd; fuuga
+5,4,6,3,2,7,7,6,3,13,otsa; puhkpillikvintett; matti; tants; eesti; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd; fuuga
+5,3,5,3,2,7,8,4,4,13,otsa; puhkpillikvintett; matti; tants; eesti; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd; fuuga
+4,3,6,3,2,9,8,5,4,13,otsa; puhkpillikvintett; matti; eesti; tants; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd; fuuga
+2,3,4,3,5,7,9,6,4,13,otsa; puhkpillikvintett; matti; eesti; tants; harri; sümfooniaorkester; klaverikontsert; reimann; prelüüd; fuuga
+1,2,6,1,5,7,7,7,4,13,otsa; puhkpillikvintett; matti; tants; eesti; harri; sümfooniaorkester; klaverikontsert; reimann; prelüüd; fuuga
+1,3,4,4,8,7,7,8,4,13,otsa; puhkpillikvintett; matti; eesti; tants; harri; sümfooniaorkester; klaverikontsert; reimann; prelüüd; fuuga
+2,2,4,6,8,7,6,5,4,13,otsa; puhkpillikvintett; matti; eesti; tants; sümfooniaorkester; harri; klaverikontsert; reimann; prelüüd; fuuga
+1,3,5,5,9,6,6,7,6,13,otsa; puhkpillikvintett; matti; eesti; tants; harri; sümfooniaorkester; klaverikontsert; reimann; prelüüd; fuuga

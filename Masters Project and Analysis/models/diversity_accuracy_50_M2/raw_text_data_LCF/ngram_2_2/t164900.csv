@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,5,4,2,1,5,3,4,2,13,muusikakool; muusika; kontsert; helin-mari; õpingud; soome; helilooja; arder
+3,5,4,2,1,5,3,4,2,13,muusikakool; muusika; kontsert; helin-mari; õpingud; soome; helilooja; arder
+3,5,4,2,1,5,3,4,2,13,muusikakool; muusika; kontsert; helin-mari; õpingud; soome; helilooja; arder
+4,5,4,2,1,5,3,4,2,13,muusikakool; muusika; kontsert; helin-mari; õpingud; soome; helilooja; arder
+4,4,5,2,1,6,3,4,2,13,muusikakool; muusika; kontsert; helin-mari; õpingud; soome; helilooja; arder
+3,4,6,3,1,6,3,4,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; õpingud; soome; helilooja; arder
+4,3,3,4,2,5,3,4,2,13,kontsert; muusika; unistus; muusikakool; helin-mari; õpingud; soome; esinemine; helilooja; arder
+4,3,3,2,2,5,5,6,2,13,kontsert; muusika; unistus; muusikakool; helin-mari; õpingud; soome; esinemine; helilooja; arder
+5,4,4,1,1,4,5,3,2,13,muusikakool; muusika; unistus; helin-mari; õpingud; soome; esinemine; helilooja; arder
+4,3,1,1,0,2,5,3,2,13,muusika; unistus; helin-mari; õpingud; soome; esinemine; helilooja; arder
+5,3,3,0,0,1,4,3,2,13,muusikakool; muusika; unistus; helin-mari; õpingud; soome; esinemine; helilooja; arder

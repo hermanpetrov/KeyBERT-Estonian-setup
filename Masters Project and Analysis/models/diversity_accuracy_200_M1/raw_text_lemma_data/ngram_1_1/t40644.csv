@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,5,2,3,4,6,0,2,19,andres; tšello; lill; folkloor; irene; mirje; orpheus; bach; musicus; mari; staak; viiul; igor
+1,1,3,1,3,4,6,0,2,19,andres; tšello; lill; folkloor; mirje; bach; orpheus; musicus; mari; staak; viiul; igor
+1,1,3,1,3,4,6,0,2,19,andres; tšello; lill; folkloor; mirje; bach; orpheus; musicus; mari; staak; viiul; igor
+1,1,4,1,3,4,5,0,2,19,andres; lill; folkloor; robert; mirje; bach; orpheus; musicus; mari; staak; viiul; igor
+1,1,4,1,3,4,5,0,2,19,andres; lill; folkloor; mustonen; robert; mirje; bach; orpheus; musicus; hortus; staak; viiul; igor
+1,2,1,1,3,4,4,0,2,19,andres; lill; folkloor; mustonen; robert; orpheus; musicus; bach; hortus; staak; igor
+2,3,4,6,2,5,5,6,1,19,lill; folkloor; kalkun; mustonen; orpheus; hortus; staak; andres; tšello; robert; musicus; mari; bach; irene; viiul; igor
+0,1,3,5,3,5,3,4,1,19,lill; kalkun; folkloor; mustonen; robert; irene; mirje; orpheus; musicus; bach; hortus; staak; viiul
+0,2,3,5,5,5,4,2,1,19,lill; kalkun; folkloor; mustonen; robert; irene; mirje; orpheus; mari; musicus; bach; hortus; staak; viiul; igor
+2,4,4,4,4,5,3,5,1,19,lill; folkloor; kalkun; mustonen; mirje; orpheus; hortus; staak; andres; robert; musicus; mari; bach; irene; viiul; igor
+2,3,2,5,5,3,4,7,2,19,lill; kalkun; folkloor; mustonen; mirje; orpheus; hortus; staak; tšello; robert; musicus; mari; irene; viiul; igor

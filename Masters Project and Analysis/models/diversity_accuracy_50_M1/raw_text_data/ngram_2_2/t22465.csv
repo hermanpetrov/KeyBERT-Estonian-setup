@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,1,0,0,1,1,1,0,11,šveits; juust; mägine; genf
+3,2,1,0,0,1,1,0,0,11,šveits; juust; mägine; genf
+3,2,1,0,0,1,1,0,0,11,šveits; juust; mägine; genf
+3,2,1,0,0,1,1,1,0,11,šveits; juust; mägine; maksusüsteem; genf
+3,2,2,0,0,1,1,1,0,11,šveits; juust; mägine; maksusüsteem; genf
+3,2,2,0,0,1,1,1,0,11,šveits; juust; mägine; maksusüsteem
+0,0,1,1,0,1,1,0,0,11,šveits; maksusüsteem
+0,1,1,1,1,1,0,0,0,11,šveits; neutraliteet; maksusüsteem; järv; tunnel
+0,1,0,0,1,0,0,0,0,11,juust; tunnel
+0,1,2,2,1,1,0,1,0,11,šveits; juust; tunnel; rahvahääletus; maksusüsteem; genf
+0,1,1,2,1,0,1,0,1,11,šveits; neutraliteet; maksusüsteem; tunnel

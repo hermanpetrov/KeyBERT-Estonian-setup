@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,1,0,0,1,14,päts; sõda; partei
+1,1,1,0,0,1,0,0,1,14,päts; sõda; partei
+1,1,1,0,0,1,0,0,1,14,päts; sõda; partei
+1,1,1,0,0,1,0,0,1,14,päts; sõda; partei
+1,1,1,0,0,1,0,0,1,14,päts; sõda; partei
+2,1,1,0,0,1,0,0,1,14,konverents; päts; sõda; partei
+1,1,1,1,0,1,1,0,1,14,päts; sõda; partei
+1,1,0,1,0,0,0,0,1,14,konverents; päts; sõda; partei
+1,0,0,0,0,0,1,1,1,14,päts; sõda
+3,0,0,0,0,0,1,1,1,14,konverents; päts; sõda; tööline
+2,2,0,0,0,0,1,0,1,14,konverents; kommunistlik; päts; sõda; tööline

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,2,2,2,1,15,hägusus; keel; eesti
+1,0,1,0,0,2,2,2,1,15,hägusus; keel; eesti
+1,0,1,0,0,2,2,2,1,15,hägusus; keel; eesti
+1,0,1,0,0,2,2,2,1,15,hägusus; keel; eesti
+1,0,1,0,0,2,2,2,1,15,hägusus; keel; eesti
+1,0,3,0,0,3,1,2,1,15,süsteem; hägusus; keel; eesti; kaplinski
+1,0,1,0,0,2,2,1,1,15,jaan; hägusus; keel; eesti; kaplinski
+1,0,0,0,0,2,2,0,1,15,jaan; hägusus; eesti; kaplinski
+1,0,2,0,0,2,2,0,1,15,süsteem; jaan; hägusus; keel; eesti; kaplinski
+0,0,0,0,0,2,2,0,1,15,jaan; eesti; kaplinski
+0,1,1,1,0,1,2,0,1,15,keel; jaan; süsteem; eesti; kaplinski

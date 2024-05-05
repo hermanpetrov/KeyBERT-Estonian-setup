@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
+0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
+0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
+0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
+0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium; piret
+0,0,2,0,0,1,2,1,1,13,keel; eesti; piret
+0,0,1,0,0,2,2,0,1,13,reimand; eesti; piret
+0,0,2,0,0,2,2,1,1,13,reimand; indrek; keel; eesti; piret
+0,1,2,0,0,1,2,0,1,13,reimand; indrek; eesti; ministeerium; piret
+0,1,2,0,0,1,2,0,1,13,reimand; indrek; eesti; ministeerium; piret
+0,2,4,0,0,1,2,0,1,13,reimand; indrek; kriivan; palk; eesti; ministeerium; piret

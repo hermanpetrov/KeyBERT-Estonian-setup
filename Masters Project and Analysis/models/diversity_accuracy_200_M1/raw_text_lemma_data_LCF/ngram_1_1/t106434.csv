@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,5,5,2,5,4,5,5,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
+4,5,5,3,5,4,6,5,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
+4,5,6,3,3,5,7,6,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
+3,5,7,3,3,7,7,7,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
+3,5,5,4,2,10,9,7,5,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+2,5,7,4,5,10,8,8,5,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+2,5,5,3,7,9,7,8,6,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+3,5,5,4,7,8,8,6,7,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+2,5,5,5,8,9,7,5,6,15,kirill; reimann; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+1,5,8,5,8,8,6,6,6,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+2,5,7,5,9,8,6,7,8,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants

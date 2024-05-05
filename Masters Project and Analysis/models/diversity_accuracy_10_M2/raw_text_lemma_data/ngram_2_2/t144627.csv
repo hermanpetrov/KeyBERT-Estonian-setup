@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,0,0,1,1,12,näitleja
+1,1,1,0,0,0,0,1,1,12,näitleja
+1,1,1,0,0,0,0,1,1,12,näitleja
+1,1,1,0,0,0,0,1,1,12,näitleja
+1,1,1,0,0,0,0,1,1,12,näitleja
+1,1,1,0,0,0,0,1,1,12,näitleja
+0,0,1,2,0,1,0,1,1,12,repertuaar; näitleja; esinemine
+0,1,1,0,0,0,0,1,1,12,näitleja
+1,2,1,0,0,0,0,1,1,12,esinemine; näitleja
+0,0,1,0,0,0,2,0,0,12,repertuaar; esinemine; näitleja
+0,0,1,0,0,1,1,1,1,12,esinemine; aav; näitleja

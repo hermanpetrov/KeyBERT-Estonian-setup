@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,1,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,1,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,1,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,1,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,0,1,1,0,1,0,0,17,probleem; üürnik; eentalu
+0,0,0,0,1,0,0,0,0,17,probleem
+1,0,0,1,1,0,0,0,0,17,jäätmed; probleem; laidoner
+2,0,0,0,1,0,0,1,0,17,jäätmed; probleem; õunpuu; eentalu
+0,2,2,1,1,0,1,0,0,17,muuseum; laidoner; gruusia; probleem; eentalu
+0,2,3,2,1,0,1,0,0,17,jäätmed; laidoner; gruusia; sortimine; probleem; sulev; üürnik; eentalu

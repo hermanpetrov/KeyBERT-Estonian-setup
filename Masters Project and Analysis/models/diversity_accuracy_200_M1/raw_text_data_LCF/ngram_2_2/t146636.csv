@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,5,5,6,4,5,5,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+4,5,5,6,3,5,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+3,4,5,6,3,5,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+3,5,5,6,3,4,7,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+4,4,5,6,3,4,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+3,3,6,6,3,5,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+4,3,5,4,3,6,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+5,3,6,6,5,6,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+6,4,5,5,5,6,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+5,4,5,5,5,6,5,5,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+4,4,4,5,5,6,6,5,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus

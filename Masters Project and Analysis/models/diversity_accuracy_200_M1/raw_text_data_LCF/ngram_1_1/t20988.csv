@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,5,2,2,0,1,2,0,19,kettaheide; hele; mälberg; näitleja; mall; peebo; annely; uudiste; laulmine
+1,0,5,1,2,0,1,2,0,19,kettaheide; hele; mälberg; näitleja; mall; peebo; annely; uudiste; laulmine
+1,0,4,1,2,0,1,3,0,19,kettaheide; hele; näitleja; mall; peebo; annely; uudiste; laulmine; mälberg
+1,0,5,1,2,1,2,3,0,19,kettaheide; hele; lamp; näitleja; mall; peebo; annely; uudiste; laulmine; mälberg
+2,0,5,1,2,3,3,3,1,19,kettaheide; hele; kanter; lamp; näitleja; mall; peebo; annely; uibo; uudiste; laulmine; mälberg
+2,0,8,1,3,3,4,3,1,19,hele; kanter; lamp; näitleja; mall; peebo; annely; gerd; uudiste; uibo; laulmine; mälberg; everaus; toimetaja
+1,0,7,1,4,6,3,6,1,19,kanter; annely; uibo; peebo; uudiste; anu; hele; lamp; näitleja; mall; gerd; mälberg; everaus; toimetaja
+1,1,6,2,4,7,2,5,1,19,hele; kanter; lamp; näitleja; orel; mall; annely; uibo; peebo; uudiste; mälberg; everaus; toimetaja
+1,2,7,2,4,5,6,4,1,19,hele; kanter; lamp; näitleja; orel; mall; annely; uibo; gerd; uudiste; mälberg; everaus; toimetaja
+1,1,5,4,4,6,4,6,1,19,hele; kanter; lamp; näitleja; mall; annely; uibo; peebo; uudiste; mälberg; anu; everaus
+0,2,4,2,4,7,6,4,1,19,hele; kanter; lamp; arst; orel; mall; annely; uibo; gerd; peebo; mälberg; everaus; toimetaja

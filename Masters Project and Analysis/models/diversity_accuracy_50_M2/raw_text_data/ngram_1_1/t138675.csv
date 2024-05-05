@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,1,0,2,1,2,0,11,lauluväljak; vanarahvas; jaanituli; õlletegu; jaanipidu
+1,0,1,1,0,2,1,2,0,11,lauluväljak; vanarahvas; jaanituli; õlletegu; jaanipidu
+1,0,0,1,0,2,1,2,0,11,lauluväljak; vanarahvas; jaanituli; õlletegu; jaanipidu
+1,0,0,1,0,2,1,2,0,11,lauluväljak; vanarahvas; jaanituli; õlletegu; jaanipidu
+1,0,0,1,0,2,1,1,0,11,lauluväljak; vanarahvas; jaanituli; õlletegu; jaanipidu
+1,0,0,0,0,1,0,1,0,11,õlletegu; vanarahvas; jaanipidu
+1,0,0,1,0,1,0,0,0,11,õlletegu; looduse
+0,0,1,0,0,0,0,1,0,11,kiik; noorsoofestival
+0,0,1,0,0,0,1,0,0,11,noorsoofestival
+0,0,1,0,0,1,1,0,0,11,noorsoofestival; looduse
+0,0,1,0,0,1,1,0,0,11,noorsoofestival; looduse

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,0,0,1,1,1,0,0,15,rinne; artur; edgar; estraadiorkester; varietee; peeter
+2,3,0,0,1,1,1,0,0,15,rinne; artur; edgar; estraadiorkester; varietee; peeter
+2,3,0,0,1,1,1,0,0,15,rinne; artur; edgar; estraadiorkester; varietee; peeter
+2,3,0,0,1,1,1,0,0,15,rinne; artur; edgar; estraadiorkester; varietee; peeter
+2,3,0,0,1,1,1,1,0,15,rinne; artur; edgar; estraadiorkester; varietee; peeter
+2,3,0,0,1,2,3,2,0,15,rinne; edgar; peeter; jaak; artur; estraadiorkester; varietee
+2,3,0,5,1,1,2,3,0,15,edgar; selberg; peeter; jaak; artur; estraadiorkester; varietee; joala
+3,4,1,2,1,2,3,3,0,15,edgar; selberg; saul; jaak; peeter; artur; estraadiorkester; varietee
+1,0,1,0,1,5,3,4,2,15,edgar; selberg; saul; peeter; jaak; artur; estraadiorkester
+1,1,3,1,0,2,3,5,2,15,rinne; edgar; selberg; saul; jaak; peeter; artur; estraadiorkester; joala
+1,0,1,1,0,4,3,2,5,15,rinne; edgar; selberg; saul; jaak; peeter; artur; estraadiorkester

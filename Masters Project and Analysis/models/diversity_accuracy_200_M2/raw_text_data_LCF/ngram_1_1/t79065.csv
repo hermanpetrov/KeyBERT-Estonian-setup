@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,1,3,0,2,2,1,2,1,12,amazonas; inka; kindlus; surnute; linn; päikese
+5,1,3,0,2,2,1,2,1,12,amazonas; inka; kindlus; surnute; linn; päikese
+5,1,3,0,2,2,1,2,1,12,amazonas; inka; kindlus; surnute; linn; päikese
+5,2,3,0,2,2,1,2,1,12,amazonas; inka; kindlus; surnute; linn; päikese
+5,2,3,0,4,4,1,3,1,12,linn; päikese; amazonas; inka; kindlus; surnute
+5,2,3,1,4,4,3,4,1,12,linn; päikese; amazonas; inka; kindlus; surnute
+3,1,2,2,4,3,4,3,2,12,linn; päikese; amazonas; inka; surnute; kindlus
+3,2,4,3,4,2,4,1,2,12,linn; päikese; amazonas; inka; surnute; kindlus
+2,1,3,3,4,2,4,1,2,12,linn; päikese; amazonas; inka; kindlus; surnute
+2,2,4,3,4,2,5,2,2,12,linn; päikese; amazonas; inka; surnute; kindlus
+1,1,4,4,4,3,4,2,2,12,linn; päikese; amazonas; inka; kindlus; surnute

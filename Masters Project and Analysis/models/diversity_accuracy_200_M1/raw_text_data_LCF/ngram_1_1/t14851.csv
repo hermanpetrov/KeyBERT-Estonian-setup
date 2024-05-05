@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,6,1,0,0,1,1,4,14,evolutsioon; akadeemia; vladivostok; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; lahing
+3,2,5,1,1,0,3,1,4,14,evolutsioon; akadeemia; vladivostok; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; lahing
+3,2,5,1,1,2,3,1,4,14,evolutsioon; akadeemia; vladivostok; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; lahing
+3,2,4,1,1,2,4,2,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; vladivostok
+3,2,5,1,1,2,4,3,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; vladivostok
+4,1,5,2,4,4,4,3,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teaduste; sõda; väljapääsmatu; fašism; vladivostok
+2,1,5,1,3,4,4,3,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; plahvatus; teaduste; sõda; väljapääsmatu; vladivostok
+3,1,3,1,3,4,3,6,5,14,evolutsioon; akadeemia; lahing; informatiivne; gustav; naan; plahvatus; teaduste; sõda; väljapääsmatu; fašism; vladivostok
+1,2,5,2,5,4,4,7,5,14,evolutsioon; akadeemia; lahing; informatiivne; gustav; naan; plahvatus; teaduste; väljapääsmatu; fašism; vladivostok
+1,2,3,2,5,4,3,5,6,14,evolutsioon; akadeemia; lahing; informatiivne; gustav; naan; plahvatus; teaduste; väljapääsmatu; fašism; vladivostok
+1,1,3,3,5,4,2,5,5,14,evolutsioon; akadeemia; lahing; informatiivne; gustav; naan; plahvatus; teaduste; väljapääsmatu; fašism; vladivostok

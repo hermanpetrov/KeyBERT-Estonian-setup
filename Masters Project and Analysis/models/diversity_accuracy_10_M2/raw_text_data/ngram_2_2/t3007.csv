@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+2,0,0,0,0,0,0,1,0,15,linnapea; bush; palts
+0,0,0,0,0,1,0,1,0,15,linnapea; palts
+1,0,0,1,0,0,0,0,0,15,bush; palts
+0,0,0,1,0,0,1,0,0,15,linnapea; venemaa
+0,0,0,0,0,1,0,0,0,15,haigekassa
+0,0,0,0,0,1,1,0,0,15,linnapea; haigekassa

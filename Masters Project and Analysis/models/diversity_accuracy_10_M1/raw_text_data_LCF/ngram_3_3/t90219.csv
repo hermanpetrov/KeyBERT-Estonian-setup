@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,3,0,1,0,0,2,0,12,kirik; urmas; viilma; riik
+1,3,3,0,1,0,0,2,1,12,kirik; urmas; viilma; riik
+1,3,3,0,1,0,0,2,1,12,kirik; urmas; viilma; riik
+1,3,3,0,1,0,0,2,1,12,kirik; urmas; viilma; riik
+1,3,2,0,1,0,0,2,1,12,kirik; urmas; viilma; riik
+0,1,2,0,1,0,0,2,1,12,urmas; viilma; riik
+0,1,2,1,1,1,0,3,1,12,kirik; urmas; viilma; riik
+0,0,3,0,1,1,1,3,1,12,kirik; probleem; urmas; viilma; riik
+0,1,1,0,1,2,1,3,1,12,kirik; süld; urmas; viilma; riik
+2,1,1,0,0,1,0,2,1,12,kirik; süld; viilma; urmas; probleem; riik
+1,0,1,2,0,1,0,3,1,12,süld; riik; urmas; viilma; probleem; meelis

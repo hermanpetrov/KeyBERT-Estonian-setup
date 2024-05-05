@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,1,0,1,1,1,0,0,15,tõnis; hellar; palts; bush; keeld
+4,0,1,0,1,1,1,0,0,15,tõnis; hellar; palts; bush; keeld
+4,0,1,0,1,1,1,0,0,15,tõnis; hellar; palts; bush; keeld
+4,0,0,0,1,1,1,0,0,15,tõnis; hellar; palts; bush; keeld
+4,0,0,0,1,0,1,0,0,15,tõnis; hellar; palts; bush; keeld
+4,0,1,0,1,1,1,0,0,15,tõnis; hellar; palts; bush; keeld
+1,0,2,1,1,0,1,0,0,15,hellar; tõnis; palts
+2,0,1,2,1,0,1,1,0,15,tõnis; hellar; palts; bush
+1,0,3,2,1,1,1,0,0,15,bush; viljastamine; hellar; kunstlik; palts; tõnis
+3,1,3,2,1,1,1,2,0,15,tõnis; viljastamine; palts; hellar; bush; keeld
+2,1,4,1,1,1,1,2,0,15,viljastamine; hellar; tõnis; palts; kunstlik; bush; keeld

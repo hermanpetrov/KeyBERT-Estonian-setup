@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,6,2,3,6,6,5,10,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+6,6,4,3,6,7,6,10,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+6,7,5,4,8,7,7,9,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+8,9,8,5,8,7,8,10,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+8,7,9,5,8,9,8,9,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+7,8,9,6,9,10,9,8,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; biitel; lennon; ed; epstein
+6,7,9,10,9,5,6,8,5,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; lennon; mccartney; ed; epstein
+6,6,10,10,9,3,6,7,5,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; lennon; mccartney; ed; epstein
+7,7,11,10,9,4,6,8,9,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; mccartney; lennon; ed; epstein
+4,8,10,10,6,5,5,6,8,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; mccartney; lennon; ed; epstein
+3,7,11,10,6,4,5,8,9,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; mccartney; lennon; ed; epstein

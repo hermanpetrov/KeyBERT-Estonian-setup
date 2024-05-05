@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,3,2,1,1,0,2,5,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; teenima; leiba
+2,3,2,2,1,1,0,2,5,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; teenima; leiba
+2,3,2,2,1,2,1,2,5,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; teenima; leiba
+2,3,1,2,1,4,1,2,5,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; teenima; leiba
+2,2,2,2,2,4,2,1,5,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; teenima; leiba
+2,2,2,2,1,5,2,2,5,12,andres; estonia; teater; näitleja; jõgis; loorberipärg; teenima; leiba
+3,2,3,5,2,3,2,1,4,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; leiba
+1,2,3,7,1,3,2,2,4,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; leiba
+2,3,4,5,3,3,3,2,3,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; leiba
+3,3,4,6,2,3,1,3,2,12,andres; estonia; teater; köster; näitleja; jõgis; loorberipärg; leiba
+3,3,3,6,3,3,1,3,1,12,andres; estonia; teater; köster; näitleja; jõgis; leiba

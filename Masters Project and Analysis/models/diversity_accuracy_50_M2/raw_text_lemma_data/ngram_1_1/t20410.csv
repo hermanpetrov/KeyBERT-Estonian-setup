@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,3,0,0,2,5,2,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+1,2,3,0,0,2,5,2,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+1,2,3,0,0,2,5,2,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+1,2,3,0,0,2,5,2,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+1,2,3,0,0,2,5,2,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+1,2,3,0,0,1,2,2,1,12,ani; muusika; esinemine; spinning; karu; elmar; endel; vanemuine
+1,1,2,0,0,2,1,2,1,12,ani; muusika; esinemine; spinning; karu; elmar; endel; vanemuine
+2,2,1,1,0,0,2,0,1,12,ani; spinning; muusika; karu; elmar; endel; näitleja
+1,1,0,2,0,0,1,0,1,12,ani; spinning; muusika; endel; näitleja
+0,1,1,1,0,0,1,1,1,12,ani; muusika; elmar; näitleja
+0,0,1,0,0,0,1,1,0,12,elmar; muusika

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,5,4,3,5,5,4,0,14,andres; lavakas; ajakirjanik; tooming; näitleja; jaak; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+1,0,4,4,3,5,6,3,0,14,andres; lavakas; ajakirjanik; tooming; näitleja; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+1,0,6,4,3,5,6,3,0,14,andres; lavakas; ajakirjanik; tooming; näitleja; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+1,0,5,4,3,6,4,3,0,14,andres; lavakas; tooming; näitleja; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+1,0,4,3,3,5,6,3,0,14,andres; tooming; näitleja; jaak; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+1,0,5,3,3,4,5,2,0,14,andres; lavakas; tooming; näitleja; jaak; margus; mikomägi; allik; jaan; kultuuripärl; rapla
+2,0,3,3,4,4,4,3,0,14,ugala; ajakirjanik; näitleja; tooming; jaak; margus; allik; jaan; mikomägi; kultuuripärl; rapla
+0,0,3,3,5,3,3,4,1,14,ugala; ajakirjanik; näitleja; tooming; jaak; margus; allik; rapla; jaan; ehin; mikomägi
+0,1,2,3,5,1,3,0,1,14,andres; ugala; ajakirjanik; näitleja; tooming; jaak; margus; rapla; jaan; allik; ehin; mikomägi
+0,2,3,4,6,1,3,3,1,14,andres; ugala; lavakas; näitleja; tooming; margus; rapla; jaan; allik; ehin; mikomägi; kultuuripärl
+0,0,2,4,4,3,3,3,1,14,andres; ugala; tooming; näitleja; margus; rapla; allik; mikomägi; ehin; jaan; kultuuripärl

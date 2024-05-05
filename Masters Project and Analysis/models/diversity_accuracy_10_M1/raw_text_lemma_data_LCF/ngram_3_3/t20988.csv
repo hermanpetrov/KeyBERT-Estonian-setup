@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,1,0,0,1,2,0,19,peebo; annely; laulmine; näitleja
+0,1,0,1,0,0,1,2,0,19,peebo; annely; laulmine; näitleja
+0,1,0,1,0,0,1,2,0,19,peebo; annely; laulmine; näitleja
+0,1,0,1,0,0,1,2,0,19,peebo; annely; laulmine; näitleja
+0,0,0,1,0,0,1,2,0,19,peebo; laulmine; annely
+0,0,0,1,0,0,1,3,0,19,peebo; annely; laulmine; anu
+0,0,0,1,0,1,1,2,0,19,peebo; laulmine; annely
+0,0,1,1,0,2,1,3,0,19,peebo; annely; laulmine; anu; mall
+0,0,1,1,0,1,0,2,0,19,peebo; annely
+0,0,0,1,0,2,0,2,0,19,peebo; annely
+0,0,1,1,0,1,1,2,0,19,peebo; annely

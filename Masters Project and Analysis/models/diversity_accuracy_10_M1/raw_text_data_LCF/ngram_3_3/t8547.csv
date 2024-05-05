@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,0,0,1,0,1,0,13,haapsalu; liivia; otsus
+1,0,0,0,0,1,0,1,1,13,haapsalu; liivia; otsus
+1,0,0,0,0,1,0,1,1,13,haapsalu; liivia; otsus
+1,0,0,0,0,1,0,1,1,13,haapsalu; liivia; otsus
+1,0,0,0,0,1,0,1,1,13,haapsalu; liivia; otsus
+1,1,0,0,0,1,0,1,1,13,vaimuinimene; otsus; haapsalu; liivia
+0,1,0,1,0,1,3,1,1,13,vaimuinimene; kilumets; otsus; margit; haapsalu; liivia; moekunstnik
+2,1,0,2,0,2,2,1,1,13,vaim; otsus; margit; haapsalu; liivia; moekunstnik
+1,2,0,1,0,1,4,2,1,13,kilumets; margit; haapsalu; vaim; otsus; liivia; moekunstnik
+0,3,4,0,0,1,2,5,1,13,kilumets; margit; haapsalu; otsus; liivia; moekunstnik
+0,1,2,0,0,0,1,5,1,13,kilumets; margit; haapsalu; otsus; liivia; moekunstnik

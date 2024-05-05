@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,4,0,0,2,3,3,1,18,staadion; rebane; pärt; toomas; petser; kalev; ilves; ukraina
+0,0,4,0,0,2,4,3,1,18,staadion; rebane; pärt; toomas; petser; kalev; ilves; ukraina
+0,0,5,0,0,2,4,3,1,18,staadion; rebane; pärt; toomas; hendrik; petser; kalev; ilves; ukraina
+0,0,6,0,0,2,4,3,1,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; hendrik; petser; kalev; ilves; arvo
+0,0,8,0,0,3,5,3,1,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; hendrik; petser; kalev; ilves; arvo
+0,0,7,1,0,3,5,2,2,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; hendrik; petser; kalev; ilves; arvo
+0,0,6,1,0,5,3,1,2,18,parvlaev; staadion; rebane; pärt; ukraina; hendrik; petser; kalev; ilves; arvo
+1,0,5,3,0,5,4,2,2,18,arvo; parvlaev; staadion; rebane; pärt; toomas; hendrik; petser; kalev; ilves; ukraina
+2,0,5,2,1,4,2,2,3,18,staadion; rebane; pärt; toomas; ukraina; hendrik; petser; kalev; ilves; arvo
+0,0,5,1,1,4,3,2,2,18,staadion; rebane; pärt; toomas; ukraina; hendrik; petser; kalev; ilves; arvo
+0,1,4,1,4,5,4,4,3,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; mari; hendrik; petser; kalev; ilves; arvo

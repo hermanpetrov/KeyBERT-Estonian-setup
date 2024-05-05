@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,2,1,1,1,3,1,2,14,revolutsionäär; kapitalism; kontsert; kärner; teater; klassika; kaja; tsivilisatsioon; utoopia; nüganen
+3,1,3,1,1,1,3,1,2,14,revolutsionäär; kapitalism; kontsert; kärner; teater; elmo; klassika; kaja; tsivilisatsioon; utoopia; nüganen
+3,1,2,1,1,1,4,2,2,14,revolutsionäär; kapitalism; kontsert; kärner; teater; elmo; klassika; kaja; tsivilisatsioon; utoopia; nüganen
+3,1,3,1,1,2,6,2,3,14,revolutsionäär; kapitalism; kontsert; kärner; teater; stoppard; elmo; klassika; kaja; tsivilisatsioon; utoopia; nüganen
+4,1,5,1,0,3,5,3,2,14,revolutsionäär; kapitalism; kontsert; kärner; teater; stoppard; elmo; kaja; tsivilisatsioon; utoopia; nüganen
+2,1,4,1,0,4,3,6,2,14,revolutsionäär; kapitalism; kärner; teater; stoppard; elmo; kaja; tsivilisatsioon; utoopia; nüganen
+3,1,5,3,1,4,4,6,2,14,revolutsionäär; kapitalism; kärner; teater; stoppard; elmo; kaja; utoopia; nüganen
+3,1,7,3,1,4,4,5,3,14,revolutsionäär; kapitalism; kärner; teater; stoppard; elmo; klassika; kaja; utoopia; nüganen
+3,0,7,4,1,3,4,7,5,14,revolutsionäär; kapitalism; kontsert; kärner; teater; stoppard; elmo; klassika; kaja; utoopia; nüganen
+2,0,8,4,3,2,4,6,4,14,revolutsionäär; kapitalism; kontsert; kärner; teater; stoppard; elmo; klassika; kaja; utoopia; nüganen
+1,0,8,4,4,3,3,6,4,14,revolutsionäär; kapitalism; kontsert; kärner; teater; stoppard; elmo; klassika; kaja; utoopia; nüganen

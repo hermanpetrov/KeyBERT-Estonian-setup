@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,0,1,0,2,1,3,0,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; jurist
+4,3,0,1,0,2,1,3,1,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; jurist
+4,3,0,1,0,2,1,3,1,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; jurist
+3,3,0,1,0,2,1,4,1,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; jurist
+4,3,1,1,0,2,1,4,1,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; jurist
+3,3,2,1,0,2,1,6,1,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; lukas; jurist
+2,1,1,4,0,1,1,6,1,15,mets; reimo; tõnis; eesti; lukas; ühiskond; jurist; politsei
+1,2,2,2,0,2,1,4,1,15,abielu; mets; kirik; reimo; eesti; ühiskond; ööklubi; jurist
+1,1,3,2,0,2,0,6,1,15,abielu; mets; reimo; tõnis; eesti; lukas; haridus; ühiskond; ööklubi; jurist
+1,0,1,0,0,1,2,5,2,15,abielu; mets; reimo; geiaktivist; eesti; ühiskond; ööklubi; jurist
+2,1,1,1,2,2,3,6,1,15,abielu; mets; kirik; reimo; geiaktivist; eesti; lukas; ööklubi; jurist; politsei

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,3,2,5,1,2,2,2,2,19,edinburghi; šotimaa; stewart; püha; robert; prius; marie; rahvuslik
+5,3,2,5,1,2,2,2,2,19,edinburghi; šotimaa; stewart; püha; robert; prius; marie; rahvuslik
+5,3,2,5,1,2,2,2,2,19,edinburghi; šotimaa; stewart; püha; robert; prius; marie; rahvuslik
+5,4,2,5,1,2,2,2,2,19,edinburghi; šotimaa; stewart; püha; robert; prius; marie; rahvuslik
+3,4,2,5,1,2,2,2,2,19,edinburghi; šotimaa; stewart; püha; robert; prius; marie; rahvuslik
+5,4,1,5,1,2,2,3,2,19,edinburghi; šotimaa; sõjamemoriaal; stewart; püha; robert; prius; marie; rahvuslik
+4,2,1,4,1,4,3,3,2,19,edinburghi; stewart; šotimaa; püha; robert; prius; marie; rahvuslik
+4,3,2,4,2,3,3,4,3,19,edinburghi; stewart; šotimaa; püha; robert; prius; marie; rahvuslik
+4,2,2,4,1,1,2,4,2,19,edinburghi; stewart; šotimaa; robert; palee; prius; marie; rahvuslik
+2,2,1,3,1,0,1,4,2,19,edinburghi; šotimaa; stewart; püha; robert; palee; prius; kindlusloss; kuninglik
+3,2,0,3,2,3,0,3,2,19,edinburghi; stewart; šotimaa; püha; robert; palee; prius; kuninglik

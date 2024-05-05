@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,1,0,1,1,0,16,sisemine; sirje; laps; laul; medell
+2,1,1,0,1,0,1,1,0,16,sisemine; sirje; laps; laul; medell
+2,1,1,0,1,0,1,1,0,16,sisemine; sirje; laps; laul; medell
+2,1,1,0,1,0,1,1,0,16,sisemine; sirje; laps; laul; medell
+2,1,1,0,1,0,1,1,0,16,festival; sirje; sisemine; laps; medell
+2,1,1,0,1,0,0,1,0,16,festival; sirje; sisemine; laps; medell
+0,1,2,0,1,0,0,1,0,16,festival; õppimine; laul; sisemine
+1,0,1,1,1,0,2,0,0,16,festival; sisemine; sirje; laps; medell
+4,0,1,2,1,1,3,2,0,16,festival; sisemine; aprill; laul; medell; sirje; armastus
+2,0,1,1,1,1,4,2,0,16,festival; sisemine; aprill; laul; medell; sirje
+2,0,4,1,1,0,0,1,0,16,festival; sisemine; rituaal; laps; aprill; laul; varietee

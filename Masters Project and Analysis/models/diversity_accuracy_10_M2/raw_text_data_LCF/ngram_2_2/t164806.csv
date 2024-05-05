@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,1,2,0,1,1,1,0,12,tantsupidu; metsamaa; agu; soomaa; vaike; rajaste
+3,1,1,2,0,1,1,1,0,12,tantsupidu; metsamaa; agu; soomaa; vaike; rajaste
+3,1,1,2,0,1,1,1,0,12,tantsupidu; metsamaa; agu; soomaa; vaike; rajaste
+3,1,1,2,0,1,1,1,0,12,tantsupidu; metsamaa; agu; soomaa; vaike; rajaste
+3,1,1,2,0,1,1,1,0,12,tantsupidu; metsamaa; agu; soomaa; vaike; rajaste
+2,1,1,2,0,1,1,1,0,12,tantsupidu; agu; soomaa; vaike; rajaste
+3,1,1,2,0,1,1,1,0,12,tantsupidu; agu; soomaa; tänutunne; vaike; rajaste
+0,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; vaike
+1,2,1,0,0,1,1,0,0,12,tantsupidu; tänutunne; vaike
+1,2,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; vaike
+1,2,0,0,0,1,1,1,0,12,tantsupidu; tänutunne; hing

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,1,1,1,0,15,birgit; õigemeel
+0,0,1,0,0,1,1,1,0,15,birgit; õigemeel
+0,0,1,0,0,1,1,1,0,15,birgit; õigemeel
+0,0,1,0,0,1,1,1,0,15,birgit; õigemeel
+0,0,0,0,0,1,1,1,0,15,birgit; õigemeel
+0,0,1,0,0,1,1,0,0,15,birgit; auhind
+0,0,1,0,0,2,1,0,0,15,birgit; auhind
+0,0,1,0,0,1,1,1,0,15,birgit; auhind; õigemeel
+1,0,1,0,0,2,1,1,0,15,birgit; auhind; eurovisioon; õigemeel
+0,1,1,0,0,1,1,1,0,15,birgit; auhind; eurolaul; õigemeel
+0,1,1,0,0,0,1,1,0,15,birgit; auhind; eurolaul; õigemeel

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,2,2,1,4,2,3,0,15,naiskangelanna; stalin; tuhkatriinu; film; nõukogude; kosmodemjanskaja; zoja; varvara
+4,1,2,2,1,4,2,3,0,15,naiskangelanna; stalin; tuhkatriinu; film; nõukogude; kosmodemjanskaja; zoja; varvara
+4,1,2,2,1,4,2,3,0,15,naiskangelanna; stalin; tuhkatriinu; film; nõukogude; kosmodemjanskaja; zoja; varvara
+4,1,2,2,1,4,2,3,0,15,naiskangelanna; stalin; tuhkatriinu; film; nõukogude; kosmodemjanskaja; zoja; varvara
+4,1,3,2,1,4,2,3,0,15,naiskangelanna; stalin; tuhkatriinu; film; nõukogude; kangelane; kosmodemjanskaja; varvara; zoja
+4,1,2,2,1,4,2,4,0,15,stalin; tuhkatriinu; film; nõukogude; kangelane; kosmodemjanskaja; varvara; zoja
+4,1,2,0,1,5,2,3,0,15,stalin; komandör; kosmodemjanskaja; film; nõukogude; kangelane; zoja; varvara
+2,0,1,1,1,4,1,3,0,15,naiskangelanna; kosmodemjanskaja; film; nõukogude; varvara
+1,0,1,1,0,4,1,3,0,15,kosmodemjanskaja; film; nõukogude; varvara; naiskangelanna
+0,0,0,1,1,2,2,1,0,15,kosmodemjanskaja; film; varvara; stalin; komandör
+0,0,2,0,1,1,3,1,0,15,kosmodemjanskaja; film; zoja; varvara; stalin

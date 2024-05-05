@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,2,0,0,1,0,1,1,14,porto; santana; madeira; õhutramm
+4,1,2,0,0,1,0,1,1,14,porto; santana; madeira; õhutramm
+4,1,2,0,0,1,0,1,1,14,porto; santana; madeira; õhutramm
+4,1,2,0,0,1,0,1,1,14,porto; santana; madeira; õhutramm
+4,1,1,0,0,1,0,1,1,14,porto; santana; madeira; õhutramm
+3,1,2,0,0,1,0,1,1,14,mägi; santana; madeira; õhutramm
+1,1,2,3,0,1,2,1,1,14,porto; vanalinn; madeira; õhutramm; puuvili
+1,1,1,2,0,1,1,1,0,14,porto; madeira
+1,0,1,0,0,2,1,2,1,14,porto; vanalinn; madeira; õhutramm
+0,0,0,0,0,0,2,2,0,14,porto; vanalinn; madeira
+0,0,1,2,0,1,2,1,0,14,loodus; porto; vanalinn; santana

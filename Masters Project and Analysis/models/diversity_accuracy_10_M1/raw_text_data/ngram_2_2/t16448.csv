@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,1,1,1,2,12,dokumentaalfilm; film; kino; eesti
+0,0,2,0,0,1,1,1,1,12,kino; dokumentaalfilm; eesti
+0,0,2,0,0,1,1,1,1,12,kino; dokumentaalfilm; eesti
+0,0,2,0,0,1,1,1,1,12,kino; dokumentaalfilm; eesti
+0,0,1,0,0,1,1,1,1,12,kino; eesti
+0,0,1,0,0,1,1,0,1,12,kino; eesti
+0,2,3,0,0,0,0,0,2,12,dokumentaalfilm; kino; eesti
+0,1,1,0,0,0,0,1,2,12,kino; dokumentaalfilm; eesti
+0,0,1,0,0,0,0,2,2,12,kino; sõprus; eesti
+2,0,1,0,0,0,0,0,1,12,eesti; eelarve
+1,0,1,0,0,0,1,1,1,12,film; eesti; eelarve

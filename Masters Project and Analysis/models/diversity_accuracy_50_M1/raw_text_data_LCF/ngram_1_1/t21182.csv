@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,1,0,2,0,17,jaan; vadi; luulekogu
+0,0,0,0,0,1,0,2,0,17,jaan; vadi; luulekogu
+0,0,0,0,0,1,0,2,0,17,jaan; vadi; luulekogu
+0,0,0,0,0,1,0,2,0,17,jaan; vadi; luulekogu
+0,0,0,0,0,1,0,2,0,17,jaan; vadi; luulekogu
+0,0,0,0,0,2,0,1,0,17,urmas; vadi
+0,0,1,0,0,2,0,2,0,17,kraavi; urmas; vadi
+0,1,0,0,0,1,1,2,0,17,jaan; pehk; kraavi; vadi
+0,1,0,0,0,2,1,1,0,17,urmas; oidipus; vadi
+0,0,1,1,0,4,2,2,0,17,arne; oidipus; krull; jaan; pehk; urmas; vadi
+1,0,2,0,0,3,2,1,0,17,hasso; krull; arne; jaan; janek; urmas; vadi

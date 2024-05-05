@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,1,1,1,0,13,prototüüp; film; liit
+1,1,1,0,0,1,1,1,0,13,prototüüp; film; liit
+1,1,1,0,0,1,1,1,0,13,prototüüp; film; liit
+1,1,1,0,0,1,1,1,0,13,prototüüp; film; liit
+1,1,0,0,0,1,1,1,0,13,prototüüp; film; liit
+1,1,0,0,0,0,1,1,0,13,prototüüp; film; liit
+1,1,0,0,0,1,0,1,0,13,prototüüp; stalin; liit
+1,1,0,0,0,1,1,0,0,13,prototüüp; stalin
+1,1,0,0,0,1,0,3,0,13,stalin; liit; prototüüp
+1,0,0,0,0,1,1,1,0,13,prototüüp; stalin
+0,0,0,0,0,1,1,2,0,13,prototüüp; stalin

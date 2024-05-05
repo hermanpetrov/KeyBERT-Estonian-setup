@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
+1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
+1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
+1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
+1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
+1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
+1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
+0,0,1,1,1,0,1,0,0,15,amsterdam; loss; ehitama
+0,0,0,0,1,0,1,0,0,15,amsterdam; loss
+0,0,0,1,2,0,1,0,0,15,amsterdam; paruness; loss
+0,0,0,1,2,0,1,0,0,15,amsterdam; paruness; loss

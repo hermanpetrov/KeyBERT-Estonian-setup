@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,0,0,1,2,1,1,10,kirjastaja; kirjanik; kriitika; häda
+1,1,2,0,0,1,2,1,1,10,kirjastaja; kirjanik; kriitika; häda
+1,1,2,0,0,1,2,1,1,10,kirjastaja; kirjanik; kriitika; häda
+1,1,2,0,0,1,2,1,1,10,kirjastaja; kirjanik; kriitika; häda
+1,1,2,0,0,1,2,1,2,10,kirjastaja; kirjanik; kriitika; häda
+1,1,1,0,0,1,1,1,1,10,kriitika; kirjastaja; kirjanik; häda
+1,1,1,0,0,1,0,1,2,10,kriitika; kirjastaja; kirjanik; häda
+1,1,1,0,0,2,0,0,2,10,kriitika; kirjastaja; kirjanik; häda
+0,1,1,1,0,2,0,0,2,10,häda; kirjastaja; kirjanik; kriitika; kuulsus
+0,1,1,1,0,2,0,2,3,10,häda; kirjastaja; kirjanik; kriitika; kuulsus
+1,1,1,1,0,1,1,1,4,10,häda; kirjastaja; kirjanik; kriitika; kuulsus; tundmus

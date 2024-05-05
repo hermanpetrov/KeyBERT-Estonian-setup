@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,1,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,1,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,1,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,1,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,0,0,2,0,1,0,1,13,paanikapuhang; tartu; arstiteadus; doktoritöö; pidalitõbi; peeter
+2,1,0,0,2,1,1,0,1,13,paanikapuhang; tartu; arstiteadus; pidalitõbi; peeter
+1,1,0,1,2,1,0,0,1,13,paanikapuhang; tartu; pidalitõbi; peeter
+2,2,0,2,2,0,0,1,1,13,balti; paanikapuhang; tartu; arstiteadus; pidalitõbi; peeter
+1,1,0,1,2,0,1,1,1,13,balti; paanikapuhang; tartu; hellat; peeter
+2,1,0,1,2,0,2,1,1,13,balti; paanikapuhang; tartu; arstiteadus; hellat; peeter

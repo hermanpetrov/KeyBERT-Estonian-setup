@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
+2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
+2,2,1,1,2,3,1,2,4,13,tõlge; kannatus; luuletaja; reisimine; kesk-aasia; sissov; reaalsus; autor
+2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; kesk-aasia; sissov; reaalsus
+2,2,1,1,2,3,1,2,2,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
+2,2,1,1,2,3,1,2,0,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
+2,2,1,1,2,3,1,2,1,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
+3,1,1,1,2,3,2,2,3,13,tõlge; kannatus; reisimine; kesk-aasia; sissov; reaalsus
+2,4,2,2,2,3,2,3,1,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus
+2,3,2,2,2,3,2,3,2,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
+1,3,3,2,2,4,3,3,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor

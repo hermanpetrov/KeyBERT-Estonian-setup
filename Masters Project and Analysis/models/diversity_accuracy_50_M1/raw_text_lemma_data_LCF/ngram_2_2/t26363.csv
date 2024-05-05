@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,2,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+4,3,2,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+4,3,2,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+4,3,2,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+4,3,3,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+5,3,3,2,0,2,2,3,1,11,puhkama; külaline; maastik; eesti; austraalia; asundus
+2,3,4,2,0,2,1,2,1,11,maastik; puhkama; külaline; eesti; austraalia
+3,3,3,2,0,2,1,2,1,11,maastik; külaline; puhkama; eesti; austraalia
+4,3,3,3,0,3,1,4,1,11,puhkama; külaline; eesti; austraalia; ludwig; asundus
+4,4,3,3,0,3,2,4,1,11,puhkama; külaline; eesti; austraalia; ludwig; asundus
+5,4,3,3,0,3,2,5,3,11,puhkama; külaline; eesti; austraalia; ludwig; asundus

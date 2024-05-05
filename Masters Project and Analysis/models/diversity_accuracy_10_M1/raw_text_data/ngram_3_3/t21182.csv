@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,0,3,0,1,0,17,kraavi; janek; luulekogu
+0,1,1,0,0,3,0,1,0,17,kraavi; janek; luulekogu
+0,1,1,0,0,3,0,1,0,17,kraavi; janek; luulekogu
+0,1,1,0,0,3,0,1,0,17,kraavi; janek; luulekogu
+0,0,1,0,0,3,0,1,0,17,janek; kraavi; luulekogu
+0,0,1,0,0,3,2,1,0,17,krull; kraavi; janek; luulekogu
+0,0,2,0,0,2,2,2,0,17,kraavi; krull; janek; merilai; luulekogu
+2,0,3,0,0,2,0,1,0,17,kraavi; janek; urmas; merilai; vadi; luulekogu
+0,0,5,0,0,0,0,1,0,17,pehk; krull; urmas; vadi; luulekogu
+0,1,0,0,0,0,0,0,0,17,jaan
+0,0,0,0,2,0,0,0,0,17,urmas; vadi

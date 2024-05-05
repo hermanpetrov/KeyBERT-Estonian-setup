@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,4,0,4,7,5,4,4,15,raamat; kirjutamine; keränen; johannes; eesti; aavik; soome; keel; õppimine; vend; kullo
+3,2,5,0,3,6,6,5,4,15,kirjutamine; keränen; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+2,3,4,0,3,6,6,5,4,15,kirjutamine; raamat; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+2,3,3,0,3,6,6,5,4,15,kirjutamine; raamat; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+2,3,2,0,3,4,6,5,4,15,kirjutamine; raamat; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+2,3,3,1,3,6,4,3,4,15,kirjutamine; raamat; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+1,2,6,2,4,4,3,3,4,15,kirjutamine; keränen; johannes; aavik; eesti; soome; mika; keel; õppimine; vend; kullo
+1,1,6,4,4,3,2,2,3,15,kirjutamine; keränen; johannes; eesti; soome; mika; keel; aavik; vend; kullo
+0,2,3,4,6,3,2,2,4,15,keränen; raamat; johannes; eesti; soome; mika; aavik; õppimine; vend
+1,1,6,3,5,1,2,2,5,15,raamat; keränen; kirjutamine; johannes; eesti; soome; mika; keel; aavik; vend; kullo
+2,1,4,3,6,1,2,4,4,15,raamat; keränen; kirjutamine; johannes; eesti; soome; mika; keel; aavik; vend; kullo

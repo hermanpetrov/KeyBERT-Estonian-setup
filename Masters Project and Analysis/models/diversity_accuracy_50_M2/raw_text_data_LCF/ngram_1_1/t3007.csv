@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,0,0,1,1,1,15,linnapea; venemaa; bush; hellar
+0,1,1,0,0,0,1,1,1,15,linnapea; venemaa; bush; hellar
+0,1,1,0,0,0,1,1,1,15,linnapea; venemaa; bush; hellar
+0,1,1,0,0,0,1,1,1,15,linnapea; venemaa; bush; hellar
+0,1,3,0,0,0,1,1,1,15,linnapea; hellar; sisseveo; venemaa; bush
+0,1,1,0,0,0,1,0,1,15,linnapea; venemaa; bush; hellar
+0,2,2,0,0,0,1,0,1,15,linnapea; hellar; sisseveo; venemaa; bush; haigekassa
+0,0,2,0,0,1,0,1,1,15,bush; hellar; grabbi; tõnis; haigekassa
+0,0,2,0,0,1,0,0,1,15,grabbi; bush; haigekassa; hellar
+0,0,2,0,0,0,0,0,1,15,venemaa; bush; hellar
+0,0,2,0,0,1,0,0,1,15,grabbi; bush; haigekassa; hellar

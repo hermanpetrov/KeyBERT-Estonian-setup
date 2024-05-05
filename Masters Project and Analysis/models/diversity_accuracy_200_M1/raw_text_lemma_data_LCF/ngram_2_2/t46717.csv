@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,2,3,0,5,5,4,6,17,festival; paavo; riiklik; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+2,3,3,3,0,6,5,5,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+4,3,3,3,0,7,6,5,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+4,4,4,3,1,8,6,6,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+4,4,4,3,1,8,8,7,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+4,5,5,3,1,9,7,7,7,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+4,4,8,7,3,8,5,8,4,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+3,5,8,8,5,6,6,6,3,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+2,3,7,8,7,4,5,7,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+3,6,7,8,6,1,6,5,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+2,6,9,8,6,2,4,6,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi

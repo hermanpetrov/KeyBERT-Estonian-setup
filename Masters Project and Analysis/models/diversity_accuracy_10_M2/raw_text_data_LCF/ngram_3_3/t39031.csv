@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,0,2,2,1,0,2,0,12,laulasmaa; uno; tammer; playboy; loop
+1,2,0,2,2,1,0,2,0,12,laulasmaa; uno; tammer; playboy; loop
+1,2,0,2,2,1,0,2,0,12,laulasmaa; uno; tammer; playboy; loop
+1,2,0,2,2,1,0,2,0,12,laulasmaa; uno; tammer; playboy; loop
+1,2,1,2,2,1,0,2,0,12,laulasmaa; uno; muusika; tammer; playboy; loop
+3,2,1,2,2,1,0,2,0,12,laulasmaa; uno; muusika; tammer; playboy; loop
+4,1,1,0,2,0,0,2,0,12,laulasmaa; uno; muusika; abikaasa; loop; austraalia
+0,2,1,1,2,0,0,1,0,12,uno; playboy; loop; austraalia
+0,0,2,0,2,0,0,1,0,12,uno; muusika; loop; austraalia
+1,0,2,2,2,0,0,2,0,12,uno; muusika; loop
+1,1,0,1,2,1,0,1,0,12,uno; loop; austraalia

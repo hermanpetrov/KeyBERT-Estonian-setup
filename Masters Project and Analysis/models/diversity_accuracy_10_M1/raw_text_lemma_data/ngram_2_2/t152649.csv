@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,5,1,0,3,2,2,2,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,2,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,2,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,2,12,facebook; kristjan; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,1,0,3,2,2,2,12,facebook; kristjan; trahv; port; börs; karistus; miljon; liit; euroopa
+0,1,5,1,0,3,2,2,2,12,facebook; kristjan; trahv; port; börs; karistus; miljon; liit; euroopa
+3,1,6,2,0,4,3,3,1,12,facebook; kristjan; hilinemine; trahv; port; börs; karistus; miljon; liit; euroopa
+0,2,6,3,0,4,4,2,1,12,facebook; kristjan; trahv; port; börs; karistus; miljon; liit; euroopa
+0,2,7,2,0,4,4,4,1,12,facebook; kristjan; hilinemine; trahv; port; börs; karistus; miljon; liit; euroopa

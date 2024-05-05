@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,3,0,0,1,1,3,0,15,baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
+0,1,3,0,0,1,1,3,0,15,baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
+0,1,3,0,0,1,1,3,0,15,baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
+0,1,4,0,0,1,1,3,0,15,klaasikunstnik; baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
+0,1,4,0,0,1,1,3,0,15,klaasikunstnik; baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
+1,1,4,0,0,2,2,3,0,15,baltika; majanduskriis; salme; janek; rõivafirma; klaasikunstnik; rahulolu
+0,1,4,0,0,2,2,1,0,15,klaasikunstnik; baltika; rahulolu; majanduskriis; salme; janek; rõivafirma
+0,0,4,1,0,1,3,2,0,15,klaasikunstnik; baltika; rahulolu; majanduskriis; volkov; janek; rõivafirma
+1,0,3,1,0,1,1,2,0,15,klaasikunstnik; baltika; rahulolu; majanduskriis; kultuurisõber; volkov; rõivafirma
+1,0,4,0,0,1,1,2,0,15,klaasikunstnik; baltika; rahulolu; majanduskriis; kultuurisõber; volkov; rõivafirma
+1,0,6,0,0,1,1,1,0,15,baltika; majanduskriis; janek; rõivafirma; klaasikunstnik; rahulolu; kultuurisõber; volkov

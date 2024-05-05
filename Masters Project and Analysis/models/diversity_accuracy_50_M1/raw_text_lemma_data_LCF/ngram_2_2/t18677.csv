@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
+2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
+2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
+2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
+2,2,1,2,1,0,0,1,1,16,loss; esimene; elizabeth; robert
+2,1,2,2,1,1,2,1,1,16,loss; bob; esimene; elizabeth; dylan; robert
+2,2,3,2,1,3,2,2,2,16,esimene; robert; loss; bob; elizabeth; dylan; edward
+1,2,3,3,1,3,2,3,1,16,henry; esimene; robert; loss; bob; kolmas; dylan
+0,2,4,2,2,3,3,6,2,16,henry; esimene; robert; loss; bob; elizabeth; dylan; edward
+1,1,5,2,3,3,2,5,1,16,henry; esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda; edward
+4,3,3,1,2,3,4,4,1,16,henry; esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda

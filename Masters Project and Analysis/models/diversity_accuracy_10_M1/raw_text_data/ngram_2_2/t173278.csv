@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,1,0,3,2,1,0,11,mereriik; eesti; meremees
+0,0,3,1,0,3,2,1,0,11,mereriik; eesti; meremees
+0,0,3,1,0,3,2,1,0,11,mereriik; eesti; meremees
+0,0,3,1,0,3,2,1,0,11,mereriik; eesti; meremees
+0,0,3,1,0,3,2,1,0,11,mereriik; eesti; meremees
+0,0,4,1,0,2,3,1,0,11,mereriik; meri; eesti; meremees
+0,0,2,0,0,2,3,3,0,11,meri; mereriik; eesti
+1,0,3,0,0,3,4,2,0,11,järvelaid; mereriik; eesti; meremees
+1,0,0,0,0,2,3,2,0,11,järvelaid; mereriik; eesti
+0,1,0,0,0,2,4,2,0,11,meri; järvelaid; mereriik; eesti
+0,0,3,0,0,2,2,2,0,11,eesti; mereriik; järvelaid; meremees; peeter

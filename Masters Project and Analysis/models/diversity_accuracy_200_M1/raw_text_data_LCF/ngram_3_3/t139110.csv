@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,3,4,2,2,3,3,3,11,reena; tehnika; kaitseliit; muhu
+4,3,3,4,2,3,3,3,3,11,reena; tehnika; kaitseliit; muhu
+4,3,3,4,2,3,3,3,3,11,reena; tehnika; kaitseliit; muhu
+4,3,3,4,2,3,3,4,3,11,reena; tehnika; kaitseliit; muhu
+4,3,3,4,2,3,3,4,3,11,reena; tehnika; kaitseliit; muhu
+4,3,4,4,3,3,3,4,4,11,reena; tehnika; kaitseliit; muhu
+4,3,4,4,3,4,3,4,4,11,reena; tehnika; kaitseliit; muhu
+4,4,4,4,4,4,3,4,4,11,kaitseliit; muhu; reena; tehnika
+4,4,4,4,4,4,3,4,4,11,kaitseliit; muhu; reena; tehnika
+4,4,4,4,4,4,4,4,4,11,kaitseliit; muhu; reena; tehnika
+4,4,4,4,4,4,4,4,4,11,kaitseliit; muhu; reena; tehnika

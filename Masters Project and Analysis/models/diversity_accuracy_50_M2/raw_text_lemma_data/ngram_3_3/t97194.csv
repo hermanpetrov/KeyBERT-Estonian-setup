@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,1,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+4,1,1,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+4,1,1,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+4,2,1,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+4,2,2,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+4,2,3,2,3,2,2,1,1,13,christoph; falck; radke; pianiino; eesti; klavessiin
+5,3,3,3,3,3,2,1,1,13,falck; eesti; klavessiin; christoph; pianiino; radke
+6,2,2,3,2,5,4,2,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
+4,3,3,2,4,5,3,3,3,13,falck; eesti; klavessiin; christoph; pianiino; radke
+5,2,2,2,2,4,3,3,3,13,falck; eesti; klavessiin; christoph; pianiino; radke
+4,3,3,3,4,4,4,3,3,13,falck; eesti; klavessiin; christoph; pianiino; radke

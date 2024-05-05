@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,0,19,
+0,0,0,0,0,0,0,0,1,19,eesti
+0,0,0,0,0,0,0,0,1,19,eesti
+0,0,0,0,0,0,0,0,1,19,eesti
+0,0,0,0,0,0,0,0,1,19,eesti
+2,0,0,0,0,1,1,0,1,19,phonyker; bach; mari; eesti
+0,0,0,0,0,2,1,1,1,19,eesti; filharmoonia
+0,0,0,3,0,1,1,1,1,19,phonyker; musicus; mari; sing; eesti
+0,0,0,2,0,1,0,1,1,19,musicus; eesti; sing; kalkun
+0,1,0,0,0,1,0,0,0,19,mustonen; musicus

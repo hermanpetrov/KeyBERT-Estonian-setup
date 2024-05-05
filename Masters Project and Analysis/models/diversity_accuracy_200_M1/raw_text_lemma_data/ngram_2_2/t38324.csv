@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,11,8,7,9,9,10,9,10,15,talv; raamat; ants; mälestus; tegevus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+6,11,9,7,9,10,10,10,10,15,talv; raamat; ants; mälestus; tegevus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+6,10,10,7,9,10,10,10,10,15,talv; raamat; ants; mälestus; tegevus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+7,9,11,8,9,11,10,10,10,15,talv; raamat; ants; mälestus; tegevus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+8,10,12,8,9,13,11,10,10,15,talv; ants; mälestus; raamat; tegevus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+6,11,10,7,9,12,12,11,10,15,talv; tegevus; ants; raamat; mälestus; ilmar; põgenema; töö; naine; teaduslik; soome; haige; etnoloog
+9,10,12,8,9,11,10,12,9,15,talv; raamat; ants; tegevus; mälestus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+9,10,11,11,11,10,10,12,10,15,talv; raamat; mälestus; tegevus; ants; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+9,11,9,11,11,9,12,11,8,15,talv; raamat; tegevus; ants; mälestus; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+10,8,11,9,12,7,12,12,9,15,talv; raamat; tegevus; mälestus; ants; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog
+8,8,8,9,12,9,12,11,11,15,talv; raamat; tegevus; mälestus; ants; ilmar; põgenema; töö; naine; teaduslik; soome; viires; haige; etnoloog

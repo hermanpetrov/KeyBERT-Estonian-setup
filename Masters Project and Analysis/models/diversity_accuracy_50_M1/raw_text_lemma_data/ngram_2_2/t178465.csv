@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,5,4,1,4,3,5,5,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+5,5,4,1,4,3,5,5,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+5,5,4,1,4,3,5,5,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+5,5,4,1,4,3,5,5,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+5,5,4,1,4,3,4,5,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+5,4,4,1,4,5,5,4,2,13,ema; laps; õde; õpetaja; teater; isa; piret
+3,4,4,3,1,4,5,4,4,13,ema; laps; õde; õpetaja; teater; isa; piret
+4,3,2,4,1,5,5,6,3,13,ema; laps; matemaatika; õde; teater; õpetaja; isa; piret
+3,3,3,7,2,5,5,5,3,13,ema; laps; õde; keemia; teater; õpetaja; isa; piret
+2,3,3,4,0,4,4,3,3,13,ema; laps; teater; õde; õpetaja; isa; piret; kalda
+2,3,3,2,0,4,3,2,2,13,ema; laps; õde; isa; piret

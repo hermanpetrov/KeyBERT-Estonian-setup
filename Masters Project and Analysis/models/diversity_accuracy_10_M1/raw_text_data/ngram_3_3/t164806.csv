@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+2,1,1,0,0,1,1,1,0,16,tantsupidu; agu; mait
+1,1,1,0,0,1,1,2,1,16,tantsupidu; agu; vaike; arm
+2,1,1,1,0,1,1,2,1,16,tantsupidu; arm; agu; vaike
+2,0,1,1,0,2,1,2,1,16,tantsupidu; mait; arm; agu; vaike
+2,0,1,1,1,2,1,1,1,16,tantsupidu; mait; arm; agu; vaike; hing

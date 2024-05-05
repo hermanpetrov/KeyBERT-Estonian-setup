@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,5,3,2,5,4,3,2,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+4,4,5,3,2,5,4,3,1,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+4,4,5,3,2,5,4,3,1,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+4,4,6,3,2,5,4,3,1,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+4,5,5,3,2,5,4,4,1,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+2,5,5,3,2,5,4,5,1,15,festival; eino; steinfeld; muusika; interpreet; eesti; steinway; publik; nele-eva; noor
+5,5,4,5,2,6,7,6,2,15,festival; steinfeld; eino; muusika; interpreet; eesti; steinway; publik; tamberg; nele-eva; noor
+6,3,5,7,2,7,8,7,3,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; traditsioon; noor
+4,3,4,6,4,9,5,6,3,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; traditsioon; noor
+5,3,4,5,3,8,6,5,5,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; traditsioon; noor
+1,2,5,4,3,8,6,3,4,15,festival; steinfeld; eino; interpreet; muusika; eesti; steinway; publik; tamberg; nele-eva; noor

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,4,2,0,4,0,5,1,17,hermine; amanda; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+2,2,4,2,0,4,0,5,0,17,hermine; amanda; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+2,2,4,2,0,4,0,5,0,17,hermine; amanda; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+2,2,4,2,0,4,0,5,0,17,hermine; amanda; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+2,2,3,2,0,4,0,5,0,17,hermine; amanda; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+3,1,5,2,0,4,0,6,0,17,hermine; amanda; näitleja; isa; lapsepõlv; pere; hermiine; künnapas; piret; pesamuna; kalda
+0,1,6,1,0,2,0,6,0,17,amanda; näitleja; pere; hermiine; isa; piret; kalda
+0,1,6,1,0,1,0,4,0,17,amanda; näitleja; pere; hermiine; isa; piret; kalda
+0,2,5,1,0,0,2,3,0,17,amanda; näitleja; juuksur; pere; hermiine; isa; piret; kalda
+1,2,3,1,0,1,0,4,0,17,balletikool; amanda; pere; hermiine; isa; piret; kalda
+1,0,2,1,0,2,0,4,0,17,balletikool; amanda; pere; hermiine; piret; kalda

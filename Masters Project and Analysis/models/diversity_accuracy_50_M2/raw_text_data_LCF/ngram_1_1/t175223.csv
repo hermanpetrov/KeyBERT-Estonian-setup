@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,5,2,1,2,4,3,4,13,admiral; kadri-ann; jack; lampjalg; silver; hobune; väli; ükssilm; mereröövel
+2,3,5,2,1,2,4,3,3,13,admiral; kadri-ann; jack; lampjalg; silver; hobune; väli; ükssilm; mereröövel
+2,3,5,2,1,2,4,3,4,13,admiral; kadri-ann; jack; lampjalg; silver; hobune; väli; ükssilm; mereröövel
+2,3,5,2,1,2,4,3,3,13,admiral; kadri-ann; jack; lampjalg; silver; hobune; väli; ükssilm; mereröövel
+2,3,4,2,1,2,4,3,3,13,admiral; kadri-ann; jack; lampjalg; silver; hobune; väli; ükssilm; mereröövel
+2,3,3,2,1,1,4,4,3,13,kadri-ann; jack; lampjalg; mereröövel; silver; hobune; väli; ükssilm; admiral
+2,3,3,1,1,2,4,4,3,13,kadri-ann; jack; lampjalg; mereröövel; silver; hobune; väli; ükssilm; admiral
+1,3,4,1,1,3,4,2,3,13,admiral; kadri-ann; jack; silver; hobune; väli; ükssilm; mereröövel
+1,2,4,1,1,3,4,2,4,13,kadri-ann; jack; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
+2,2,3,2,1,4,3,2,3,13,kadri-ann; jack; lampjalg; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
+1,3,3,1,1,5,3,3,4,13,kadri-ann; jack; mereröövel; silver; heino; väli; ükssilm; admiral

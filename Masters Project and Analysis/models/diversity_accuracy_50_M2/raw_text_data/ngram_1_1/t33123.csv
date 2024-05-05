@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,4,0,0,2,2,2,1,12,krista; lingvistika; meedia; keelekorraldus; keele
+2,1,4,0,0,2,2,2,1,12,krista; lingvistika; meedia; keelekorraldus; keele
+2,1,4,0,0,2,2,2,1,12,krista; lingvistika; meedia; keelekorraldus; keele
+3,0,3,0,0,2,2,2,1,12,krista; lingvistika; keele; keelekorraldus; meedia
+1,1,2,0,0,2,2,2,1,12,krista; lingvistika; keele; keelekorraldus; meedia
+1,0,1,0,0,0,1,1,1,12,keelekorraldus; krista; meedia
+0,0,1,1,0,0,0,0,1,12,krista; meedia; ühisosa
+0,0,1,1,0,0,0,0,1,12,krista; meedia
+0,0,1,0,0,0,0,1,1,12,arengukava; krista; meedia
+0,0,1,0,0,0,0,0,1,12,krista; meedia
+0,0,1,0,0,0,0,0,1,12,krista; meedia

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,0,0,5,1,2,2,1,16,usa; nsv; biitel; john; liit; bob
+1,2,0,0,5,1,2,2,0,16,usa; nsv; biitel; john; liit; bob
+1,2,0,0,5,1,2,2,0,16,usa; nsv; biitel; john; liit; bob
+1,2,0,0,5,1,2,2,0,16,usa; nsv; biitel; john; liit; bob
+1,2,1,0,5,1,2,2,0,16,usa; nsv; biitel; john; liit; bob
+2,0,2,0,5,2,4,3,0,16,usa; nsv; biitel; john; kennedy; liit; bob
+1,1,1,2,5,4,2,2,0,16,usa; nsv; biitel; john; kennedy; liit; bob; dylan
+3,2,0,1,4,3,3,2,0,16,kosmonaut; usa; nsv; aarne; biitel; john; kennedy; bob; dylan
+1,2,1,1,4,1,2,3,0,16,kosmonaut; usa; nsv; aarne; biitel; john; kennedy; liit; bob
+2,2,1,2,5,3,4,0,1,16,kosmonaut; usa; nsv; aarne; biitel; john; kennedy; liit; bob
+3,4,1,3,3,2,4,0,1,16,kosmonaut; usa; nsv; aarne; biitel; kennedy; liit; bob

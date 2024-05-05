@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+9,5,6,6,5,4,4,6,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
+9,6,6,6,5,5,4,7,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
+10,6,6,6,5,4,3,7,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
+9,6,7,6,5,2,3,7,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+8,7,8,7,4,3,3,5,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
+6,7,8,7,4,3,6,5,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+4,5,9,6,4,5,6,6,6,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; gruusia; õunpuu; keedus; laidoner; sulev; sortimine; veiko
+7,5,10,6,3,5,8,7,4,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+6,8,9,7,3,5,9,8,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+6,7,10,7,4,5,7,6,8,17,riina; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+5,7,10,7,3,6,8,6,8,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner

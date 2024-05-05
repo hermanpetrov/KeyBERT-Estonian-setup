@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+0,1,0,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+0,1,0,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+0,0,0,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+0,0,0,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+1,1,0,0,0,1,1,1,0,10,hügieenipropaganda; ivanov
+0,1,1,1,0,1,1,1,0,10,hügieenipropaganda; ivanov
+2,1,1,0,0,1,2,1,0,10,ristimine; ivanov; hambahari
+1,1,2,0,0,1,2,1,0,10,hügieenipropaganda; ristimine; hambahari; ivanov
+1,1,2,0,0,1,1,1,0,10,hügieenipropaganda; ristimine; ivanov
+0,1,1,0,1,1,2,1,0,10,hügieenipropaganda; ristimine; hambahari; ivanov

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,1,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton
+3,2,1,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton
+3,2,1,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton
+3,2,1,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton
+3,2,2,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton; genf
+3,2,2,1,1,1,1,1,0,12,mägi; cern; šveits; juust; kanton; genf
+3,3,2,1,1,1,1,1,0,12,mägi; šveits; juust; kanton; genf
+2,3,2,1,1,2,2,2,0,12,mägi; šveits; juust; kanton; genf
+1,1,2,2,1,1,2,2,0,12,šveits; juust; suusatamine; genf
+1,0,2,2,0,1,1,1,0,12,kanton; šveits; genf
+2,2,2,2,0,2,2,1,0,12,šveits; juust; keel; kanton; genf

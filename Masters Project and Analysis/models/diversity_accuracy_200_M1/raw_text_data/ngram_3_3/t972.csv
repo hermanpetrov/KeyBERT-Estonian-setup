@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+12,5,5,9,3,7,8,11,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; eurovisioon; eesti; kõiv; laul; eurolaul; auhind; otsib; õigemeel
+11,6,6,9,3,7,8,13,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; eurovisioon; eesti; laul; eurolaul; kõiv; auhind; otsib; õigemeel
+11,7,7,9,3,7,8,13,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; eurovisioon; eesti; laul; eurolaul; kõiv; auhind; otsib; õigemeel
+11,9,6,9,3,9,9,13,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; eurovisioon; eesti; laul; eurolaul; kõiv; auhind; otsib; õigemeel
+10,9,7,9,6,8,7,13,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; eurovisioon; eesti; eurolaul; laul; kõiv; auhind; otsib; õigemeel
+7,8,11,8,5,6,6,13,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; kõiv; eurolaul; eurovisioon; eesti; välismaa; laul; auhind; otsib; õigemeel
+7,11,10,12,5,4,6,10,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; kõiv; eurolaul; eesti; eurovisioon; laul; välismaa; auhind; otsib; õigemeel
+5,7,12,12,6,4,4,8,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; kõiv; eurolaul; eesti; eurovisioon; välismaa; laul; auhind; otsib; õigemeel
+5,8,9,11,6,7,8,7,6,15,vaher; margus; kerli; birgit; superstaari; kontsert; kõiv; eurolaul; eesti; eurovisioon; välismaa; laul; auhind; otsib; õigemeel
+4,6,10,11,9,5,3,6,5,15,vaher; margus; kerli; birgit; superstaari; välismaa; eurovisioon; eesti; eurolaul; laul; kõiv; auhind; õigemeel
+6,9,8,11,9,6,6,7,5,15,vaher; margus; kerli; birgit; superstaari; kontsert; välismaa; kõiv; eesti; eurolaul; eurovisioon; laul; auhind; otsib; õigemeel

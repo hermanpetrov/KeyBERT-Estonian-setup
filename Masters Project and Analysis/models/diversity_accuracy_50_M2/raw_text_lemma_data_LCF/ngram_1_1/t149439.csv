@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,4,2,3,1,0,2,1,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,4,2,3,1,0,1,1,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,4,2,3,1,0,1,1,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,4,2,3,1,0,1,0,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,3,2,3,1,1,1,0,11,töö; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,2,2,3,2,1,1,0,11,töö; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,2,1,2,2,2,1,0,11,töö; jooksma; liikuma; pension; doktor; tervis; laur; noor
+1,3,2,0,2,1,2,1,0,11,töö; doktor; tervis; liikuma; jooksma; laur; pension; noor
+1,2,1,1,2,3,2,0,1,11,töö; tervis; tennis; jooksma; liikuma; pension; noor
+3,2,1,1,2,3,2,0,2,11,töö; tennis; liikuma; pension; doktor; tervis; noor
+3,1,1,1,2,2,2,0,1,11,tervis; tennis; liikuma; pension; noor

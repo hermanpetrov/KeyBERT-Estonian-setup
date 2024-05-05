@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,4,2,4,4,8,5,5,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+6,6,2,4,4,8,5,5,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+5,6,1,5,4,8,5,6,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+5,4,2,5,4,8,4,6,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+5,3,3,4,4,8,4,7,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+2,5,6,3,5,4,4,5,5,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+4,4,3,5,6,4,5,5,5,13,rütm; oidipus; krull; hasso; pehk; jaan; bänd; merilai
+5,3,4,6,6,5,3,5,4,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+3,4,6,5,7,5,6,6,5,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+3,4,4,4,6,5,5,5,6,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
+2,2,6,4,6,3,4,5,5,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,4,2,1,1,5,6,1,5,17,külm; bismarck; muusika; von; hitler; otto; areng; adolf; sõda; berliin
+2,4,4,1,1,5,7,2,5,17,külm; bismarck; muusika; von; hitler; otto; areng; adolf; sõda; berliin
+2,4,3,1,2,6,6,2,5,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
+3,3,4,1,3,7,6,2,5,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
+2,3,5,0,3,7,6,3,6,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
+2,2,6,2,4,6,3,3,7,17,külm; bismarck; muusika; von; otto; areng; adolf; reibas; hitler; sõda; berliin
+1,3,3,2,4,5,5,3,7,17,külm; bismarck; muusika; von; hitler; otto; areng; reibas; sõda; berliin
+0,2,5,3,4,4,4,3,7,17,külm; bismarck; muusika; von; otto; areng; adolf; reibas; hitler; sõda; berliin
+0,2,5,2,3,4,3,3,6,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
+1,2,2,3,3,2,2,2,3,17,külm; bismarck; muusika; von; otto; areng; reibas; hitler
+1,1,2,3,3,2,3,2,2,17,külm; bismarck; von; otto; areng; reibas; hitler

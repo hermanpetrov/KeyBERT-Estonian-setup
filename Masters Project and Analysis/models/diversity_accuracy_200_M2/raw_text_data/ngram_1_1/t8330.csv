@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,0,2,2,0,0,1,1,11,vagun; punaarmee; laager; jaam; ohvitser
+0,2,0,2,2,0,0,1,1,11,vagun; punaarmee; laager; jaam; ohvitser
+0,2,0,1,2,0,0,1,1,11,vagun; punaarmee; laager; jaam; ohvitser
+0,2,0,1,2,0,1,1,1,11,vagun; punaarmee; laager; jaam; ohvitser
+0,1,1,1,3,1,2,1,1,11,maha; vagun; punaarmee; laager; jaam
+0,1,1,1,2,1,1,1,1,11,pärnu; maha; vagun; punaarmee; laager
+0,1,1,0,2,0,2,1,0,11,maha; vagun; punaarmee; laager
+0,1,0,0,2,1,1,0,0,11,vagun; laager; maha
+0,1,2,1,0,1,2,0,1,11,punaarmee; maha; vagun; laager; ohvitser
+0,0,0,1,1,1,2,2,0,11,pärnu; maha; punaarmee; laager
+0,0,0,1,1,2,2,1,0,11,pärnu; maha; punaarmee; laager; ohvitser

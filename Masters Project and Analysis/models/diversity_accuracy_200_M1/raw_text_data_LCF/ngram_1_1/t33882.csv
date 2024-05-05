@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,2,0,1,1,4,3,14,haridusprogramm; kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuur; naisliit
+2,2,2,2,0,1,1,4,3,14,haridusprogramm; kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuur; naisliit
+2,2,1,2,0,1,1,4,3,14,haridusprogramm; kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuur; naisliit
+2,2,0,2,1,2,1,4,3,14,haridusprogramm; kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuur; naisliit
+1,1,3,1,1,1,1,2,4,14,haridusprogramm; kõnekoosolek; rakvere; estonia; teater; vanemuise; eesti; vene; naisliit
+1,1,3,1,2,2,0,2,4,14,haridusprogramm; kõnekoosolek; rakvere; estonia; vanemuise; eesti; vene; kultuur; naisliit
+1,0,2,1,2,1,0,2,4,14,haridusprogramm; kõnekoosolek; rakvere; estonia; vanemuise; eesti; vene
+0,0,1,2,2,2,0,1,4,14,haridusprogramm; kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; vene
+2,1,1,2,1,0,0,1,3,14,vene; haridusprogramm; keel; kõnekoosolek; estonia; rakvere; teater; eesti
+3,2,2,1,2,0,0,0,3,14,vene; haridusprogramm; kõnekoosolek; rakvere; estonia; teater; eesti; vanemuise
+1,1,0,2,1,1,0,0,3,14,vene; haridusprogramm; kõnekoosolek; estonia; rakvere; teater; eesti

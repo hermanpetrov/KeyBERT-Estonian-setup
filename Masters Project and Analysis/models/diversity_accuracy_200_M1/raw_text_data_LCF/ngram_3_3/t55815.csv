@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,5,4,4,3,4,4,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+5,4,4,4,3,4,4,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+5,4,5,4,3,4,4,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+5,4,5,4,3,5,4,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+5,4,5,4,3,5,5,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+5,4,5,5,4,4,5,4,3,10,hollandlanna; pala; california; muusikasaade; elizabeth
+4,4,5,4,4,5,5,5,4,10,hollandlanna; pala; california; muusikasaade; elizabeth
+4,4,5,5,4,5,5,5,4,10,hollandlanna; pala; california; muusikasaade; elizabeth
+1,3,5,5,4,5,5,5,4,10,hollandlanna; pala; california; muusikasaade; elizabeth
+2,4,4,5,5,5,5,4,4,10,hollandlanna; pala; california; muusikasaade; elizabeth
+2,2,5,5,5,5,3,4,4,10,hollandlanna; pala; california; muusikasaade; elizabeth

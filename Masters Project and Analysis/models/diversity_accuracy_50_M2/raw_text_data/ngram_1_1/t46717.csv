@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,2,2,1,1,16,sümfooniaorkester; kontsert; eesti; akustika
+0,0,1,0,0,2,2,1,1,16,sümfooniaorkester; kontsert; eesti; akustika
+0,0,1,0,0,2,2,1,1,16,sümfooniaorkester; kontsert; eesti; akustika
+0,0,1,0,0,2,2,1,1,16,sümfooniaorkester; kontsert; eesti; akustika
+0,0,1,0,0,2,2,1,1,16,sümfooniaorkester; kontsert; eesti; akustika
+0,0,1,0,0,1,1,1,1,16,sümfooniaorkester; eesti; akustika; kontsert
+0,0,1,0,0,1,1,0,1,16,sümfooniaorkester; eesti; akustika
+1,0,1,1,0,2,1,0,1,16,sümfooniaorkester; festival; stravinski; eesti; akustika
+0,0,1,1,0,1,1,0,1,16,festival; stravinski; kontserdisaal; eesti; akustika
+0,0,1,0,0,2,1,0,1,16,festival; järvi; stravinski; eesti; akustika
+0,1,1,0,0,3,1,0,1,16,sümfooniaorkester; järvi; festival; stravinski; eesti; akustika; läänemere

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,0,1,1,0,0,5,0,18,kanter; mall; peebo; annely; gerd; mälberg; anu
+4,0,0,1,1,0,0,5,0,18,kanter; mall; peebo; annely; gerd; mälberg; anu
+4,0,0,1,1,0,0,5,0,18,kanter; mall; peebo; annely; gerd; mälberg; anu
+4,0,0,1,1,0,0,5,0,18,kanter; mall; peebo; annely; gerd; mälberg; anu
+5,0,0,1,1,0,0,5,0,18,kanter; mall; peebo; annely; gerd; mälberg; anu; everaus
+3,1,0,1,0,0,0,6,0,18,kanter; gerd; annely; peebo; mall; mälberg; anu
+0,0,0,1,1,2,0,5,0,18,arst; gerd; annely; peebo; mall; mälberg; anu
+0,1,2,2,0,2,1,4,0,18,annely; peebo; mälberg; anu; mall
+0,1,4,4,0,2,2,3,0,18,lamp; orel; mall; annely; peebo; uibo; mälberg; anu
+0,0,2,4,0,1,2,2,0,18,annely; peebo; mälberg; anu; lamp; mall
+0,0,2,2,0,3,1,1,0,18,annely; peebo; andres; mälberg; anu; orel; mall

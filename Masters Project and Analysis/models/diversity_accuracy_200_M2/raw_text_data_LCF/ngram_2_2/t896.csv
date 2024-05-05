@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+9,7,8,4,1,4,4,8,3,12,triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; johanson; juhanson; ironman; sportlane
+8,5,7,5,1,4,4,8,3,12,triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; johanson; sportlane; ironman; juhanson
+8,5,8,5,1,4,4,8,3,12,triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; johanson; sportlane; ironman; juhanson
+8,5,7,5,3,5,5,9,3,12,võistlus; ain-alar; ujumine; johanson; sportlane; juhanson; triatlon; hawaii; ratas; ironman
+7,4,5,5,3,5,6,8,4,12,triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; johanson; sportlane; ironman; juhanson
+4,3,5,4,4,6,6,7,4,12,triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; johanson; sportlane; ironman; juhanson
+4,5,5,3,3,5,5,7,6,12,jooks; triatlon; hawaii; võistlus; ain-alar; ratas; ironman; ujumine; johanson; sportlane; juhanson
+4,3,6,5,5,4,4,8,8,12,jooks; võistlus; ain-alar; ujumine; sportlane; juhanson; johanson; triatlon; hawaii; ratas; ironman
+4,3,6,4,6,6,5,6,7,12,jooks; triatlon; hawaii; võistlus; ain-alar; ratas; ujumine; sportlane; juhanson; ironman; johanson
+4,4,7,5,5,6,5,6,7,12,jooks; hawaii; triatlon; võistlus; ratas; ain-alar; ujumine; johanson; juhanson; ironman; sportlane
+4,4,7,4,7,6,5,6,6,12,jooks; hawaii; triatlon; võistlus; ratas; ain-alar; ujumine; sportlane; juhanson; ironman; johanson

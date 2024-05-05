@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,1,0,0,0,1,0,0,1,20,sostumus; konstantinoopoli; neitsi; johannes; kolmas; patriarh; jumala; efesose
+5,1,0,0,0,1,0,0,2,20,sostumus; kristuse; johannes; jumala; patriarh; neitsi; konstantinoopoli; kolmas; efesose
+5,1,0,0,0,1,0,0,2,20,sostumus; kristuse; johannes; jumala; patriarh; neitsi; konstantinoopoli; kolmas; efesose
+5,1,0,0,0,1,0,0,1,20,sostumus; konstantinoopoli; neitsi; kristuse; johannes; kolmas; patriarh; efesose
+5,1,0,0,0,1,0,0,1,20,sostumus; konstantinoopoli; neitsi; kristuse; johannes; kolmas; patriarh; efesose
+5,1,0,0,0,1,0,0,1,20,sostumus; konstantinoopoli; neitsi; kristuse; johannes; kolmas; patriarh; efesose
+5,1,0,0,0,1,0,0,0,20,sostumus; konstantinoopoli; neitsi; johannes; kolmas; patriarh; efesose
+5,1,0,1,0,1,0,0,0,20,sostumus; konstantinoopoli; neitsi; johannes; kolmas; patriarh; peetruse; efesose
+5,1,0,1,0,1,0,0,0,20,sostumus; konstantinoopoli; neitsi; johannes; kolmas; patriarh; efesose
+3,1,0,4,0,1,0,0,0,20,sostumus; basiilika; johannes; patriarh; peetruse; neitsi; konstantinoopoli; kolmas; efesose
+3,1,0,4,0,2,0,2,0,20,sostumus; basiilika; johannes; jumala; patriarh; peetruse; neitsi; konstantinoopoli; kolmas; efesose

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,0,0,0,1,12,teaduste; gustav
+0,0,1,0,0,0,0,0,1,12,teaduste; gustav
+0,1,1,0,0,0,0,0,1,12,akadeemia; teaduste; gustav
+0,1,1,0,0,0,0,0,1,12,akadeemia; teaduste; naan
+0,1,1,0,0,0,0,0,1,12,akadeemia; teaduste; naan
+1,0,1,0,0,0,0,1,1,12,akadeemia; teaduste; elustrateegia; gustav
+1,0,1,0,0,1,1,1,1,12,elustrateegia; gustav; naan; akadeemia; teaduste
+0,0,0,0,0,2,2,0,1,12,teaduste; gustav; hüpotees; naan
+0,0,1,0,0,2,2,0,1,12,teaduste; gustav; hüpotees; naan
+0,0,1,0,0,2,1,1,1,12,gustav; hüpotees; naan; akadeemia; teaduste
+0,0,1,0,0,2,1,1,1,12,teaduste; gustav; hüpotees; naan

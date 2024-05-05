@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,3,2,1,1,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+1,2,3,2,1,1,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+1,2,3,2,1,1,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+1,2,3,2,1,1,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+1,2,3,2,1,2,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+2,3,3,2,1,3,2,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+2,3,3,2,1,3,1,3,1,13,muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+4,3,3,1,1,2,2,1,1,13,muusikafestival; talve; 4000; brüssel; luksemburg; eelarve
+1,2,3,2,0,3,1,3,1,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; brüssel
+1,2,4,1,0,2,4,0,0,13,erakond; luksemburg; eelarve; talve; 4000; tanel; brüssel
+0,1,1,1,0,1,3,2,0,13,erakond; talve; tanel; brüssel; luksemburg

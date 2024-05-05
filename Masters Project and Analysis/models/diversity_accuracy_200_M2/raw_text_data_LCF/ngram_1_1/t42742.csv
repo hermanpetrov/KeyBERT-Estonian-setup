@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,6,0,0,6,5,5,0,10,muusikaõpetaja; noorteorkester; muusikakool; rakvere; kontsertorkester; virumaa; sümfooniaorkester
+2,0,6,0,0,6,5,5,0,10,muusikaõpetaja; noorteorkester; muusikakool; rakvere; kontsertorkester; virumaa; sümfooniaorkester
+2,0,5,0,0,6,5,5,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; virumaa; sümfooniaorkester
+1,0,3,0,0,5,5,2,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; virumaa; sümfooniaorkester
+0,0,1,0,0,3,5,1,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; sümfooniaorkester
+0,0,1,0,0,1,4,1,0,10,sümfooniaorkester; muusikakool; rakvere; noorteorkester; kontsertorkester
+0,0,1,0,0,0,0,1,0,10,noorteorkester; rakvere
+0,0,1,1,0,0,0,0,0,10,laps; rakvere
+0,0,1,1,0,1,0,1,0,10,sümfooniaorkester; laps; rakvere
+0,0,0,3,2,0,0,0,0,10,laps; muusikakool; rakvere; kontsertorkester; virumaa
+0,0,1,1,1,0,0,1,0,10,virumaa; laps; rakvere

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,5,5,3,8,5,7,5,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+8,5,5,3,8,5,6,4,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+7,5,5,3,8,5,5,5,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+7,6,5,4,8,5,3,5,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+7,5,5,4,8,6,3,5,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+7,6,7,4,8,5,4,5,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+6,5,6,5,8,4,4,7,6,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
+6,5,6,6,8,5,3,9,6,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
+5,6,7,7,8,6,3,8,6,16,mets; proov; arm; agu; laul; vaike; maa; mait; tantsima; hing
+3,3,7,8,10,6,5,6,7,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
+3,3,5,10,10,6,6,8,8,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing

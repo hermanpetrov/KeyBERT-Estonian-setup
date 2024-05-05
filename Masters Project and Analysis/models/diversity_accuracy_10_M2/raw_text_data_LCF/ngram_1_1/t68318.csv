@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,0,0,1,0,0,0,13,keeleõppe; kolmkeelsus; keeleoskus; mitmekeelsus
+2,0,1,0,0,1,0,0,0,13,keeleõppe; kolmkeelsus; keeleoskus; mitmekeelsus
+2,0,1,0,0,1,0,0,0,13,keeleõppe; kolmkeelsus; keeleoskus; mitmekeelsus
+2,0,1,0,0,1,0,0,0,13,keeleõppe; kolmkeelsus; keeleoskus; mitmekeelsus
+2,0,0,0,0,1,0,0,0,13,keeleoskus; kolmkeelsus; mitmekeelsus
+2,0,0,0,0,1,0,0,0,13,keeleoskus; haridussüsteem; kolmkeelsus
+1,0,1,0,0,0,0,0,0,13,keeleõppe; kolmkeelsus
+1,0,0,0,0,2,1,0,0,13,inglise; keeleõppe; kolmkeelsus
+2,0,1,0,0,1,0,0,0,13,inglise; haridussüsteem; keeleõppe; kolmkeelsus
+0,0,0,0,0,1,0,0,0,13,inglise
+1,0,1,0,0,0,0,0,0,13,haridussüsteem; keeleõppe

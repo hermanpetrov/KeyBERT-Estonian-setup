@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,2,0,0,1,1,0,15,terroritõrje; välis-eesti; edgar; palts; tõnis; riina; eentalu
+2,2,2,2,0,0,1,1,0,15,terroritõrje; välis-eesti; edgar; palts; tõnis; riina; eentalu
+2,2,2,2,0,0,1,1,0,15,terroritõrje; välis-eesti; edgar; palts; tõnis; riina; eentalu
+2,2,2,2,0,0,1,1,0,15,terroritõrje; välis-eesti; edgar; palts; tõnis; riina; eentalu
+2,2,1,2,0,0,1,1,0,15,terroritõrje; välis-eesti; edgar; palts; tõnis; riina; eentalu
+2,1,1,2,0,1,1,2,0,15,terroritõrje; välis-eesti; edgar; palts; savisaar; tõnis; riina; eentalu
+0,3,1,0,0,2,0,1,0,15,terroritõrje; välis-eesti; edgar; riina; eentalu
+0,2,1,1,0,2,0,2,0,15,välis-eesti; edgar; riina; savisaar; eentalu
+0,0,1,0,0,3,0,4,0,15,edgar; riina; tõnis; savisaar; eentalu; välis-eesti
+0,4,1,0,0,0,0,3,0,15,edgar; välis-eesti; riina; savisaar; eentalu
+0,6,2,0,0,0,0,2,0,15,ravi; edgar; riina; tõnis; savisaar; eentalu; palts; viljatuse

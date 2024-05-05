@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+1,1,2,1,1,2,2,2,0,15,puhkpillikvintett; tants; eesti
+3,1,2,2,1,2,2,2,0,15,klaverikontsert; puhkpillikvintett; tants; prelüüd; eesti; fuuga
+3,1,2,2,1,2,2,3,0,15,harri; puhkpillikvintett; tants; eesti
+3,0,0,2,1,2,4,3,0,15,harri; sümfooniaorkester; tants; eesti; kirill
+1,0,1,2,1,2,3,4,0,15,sümfooniaorkester; klaverikontsert; matti; reimann; tants; eesti
+3,0,1,1,1,2,4,4,0,15,matti; eesti; harri; sümfooniaorkester; reimann; tants

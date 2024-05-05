@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,2,1,1,1,1,0,0,13,komöödia; kirjandus; realism; ärkamisaeg; kriitiline; kitzberg
+2,1,2,1,1,1,1,0,0,13,komöödia; kirjandus; realism; ärkamisaeg; kriitiline; kitzberg
+2,1,2,1,1,1,1,0,0,13,komöödia; kirjandus; realism; ärkamisaeg; kriitiline; kitzberg
+2,1,1,1,1,1,1,0,0,13,komöödia; kirjandus; realism; ärkamisaeg; kriitiline; kitzberg
+2,1,1,1,1,1,1,0,0,13,komöödia; kirjandus; realism; ärkamisaeg; kriitiline; kitzberg
+2,1,1,0,1,1,0,0,0,13,komöödia; realism; ärkamisaeg; kitzberg
+1,0,1,1,1,1,0,0,0,13,vigased; realism; kitzberg
+0,0,1,0,1,1,2,0,0,13,ärkamisaeg; realism; kitzberg
+0,0,1,1,1,2,2,1,0,13,kosjasõit; realism; ärkamisaeg; kitzberg
+0,0,1,0,1,1,0,1,0,13,ärkamisaeg; realism; kitzberg
+2,0,1,0,1,1,0,0,1,13,komöödia; vigased; realism; laulumäng; kitzberg

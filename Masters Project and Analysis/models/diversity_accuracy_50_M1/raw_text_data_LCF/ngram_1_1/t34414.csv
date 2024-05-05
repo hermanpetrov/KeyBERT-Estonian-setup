@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,4,0,0,2,3,1,0,13,salme; janek; tartu; komisjon; euro; euroopa
+1,2,4,0,0,2,3,1,0,13,salme; janek; tartu; komisjon; euro; euroopa
+1,2,4,0,0,2,3,1,0,13,salme; janek; tartu; komisjon; euro; euroopa
+1,2,3,0,0,2,3,1,0,13,salme; janek; tartu; komisjon; euro; euroopa
+1,2,2,0,0,2,3,1,0,13,salme; janek; tartu; komisjon; euro; euroopa
+1,2,1,0,0,2,2,1,0,13,salme; janek; tartu; euro; euroopa
+1,2,1,0,0,1,1,1,0,13,salme; janek; tartu; komisjon; euroopa
+0,1,2,1,0,1,1,0,0,13,janek; laevaliiklus; komisjon; euroopa
+0,1,1,0,0,1,1,0,0,13,janek; komisjon; euroopa
+1,1,1,0,0,1,1,1,0,13,rahvakultuurifestival; janek; laevaliiklus; komisjon; euroopa
+1,2,2,1,0,2,0,1,0,13,rahvakultuurifestival; komisjon; janek; tartu; laevaliiklus; euroopa

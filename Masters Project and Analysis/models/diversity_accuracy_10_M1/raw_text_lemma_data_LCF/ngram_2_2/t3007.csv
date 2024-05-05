@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+1,0,0,2,0,0,0,1,0,15,riina; välis-eesti; edgar; palts
+0,0,0,1,0,0,0,2,0,15,eentalu; välis-eesti; riina
+0,0,0,1,0,0,0,3,0,15,eentalu; edgar; välis-eesti; riina
+0,0,0,1,0,0,1,3,0,15,riina; edgar; välis-eesti; eentalu
+0,0,0,1,0,1,0,2,0,15,eentalu; tõnis; välis-eesti; edgar
+2,1,0,1,0,4,1,1,0,15,edgar; riina; tõnis; eentalu; välis-eesti; palts

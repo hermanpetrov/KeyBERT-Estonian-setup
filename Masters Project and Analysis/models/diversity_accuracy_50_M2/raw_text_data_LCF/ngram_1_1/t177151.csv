@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,1,4,2,2,2,1,21,eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+2,2,2,1,4,2,2,2,1,21,eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+2,2,2,1,4,2,2,2,1,21,eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+2,2,4,1,4,2,2,2,1,21,eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+2,2,3,1,4,1,2,2,1,21,eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+2,1,3,0,4,3,1,1,1,21,festival; eurosonic; alter; holland; erki; and; the; raadio; dragons; ewert; roll
+0,0,2,1,4,5,2,1,1,21,festival; eurosonic; alter; holland; erki; and; the; raadio; ewert; roll
+0,0,1,0,4,2,2,1,1,21,eurosonic; alter; erki; ewert; roll; and; the; raadio
+0,0,2,2,4,1,2,0,1,21,eurosonic; alter; erki; and; the; raadio; pärnoja; ewert; roll; kaks
+0,0,3,0,4,1,1,0,1,21,eurosonic; alter; pärnoja; ewert; roll; and; the; raadio
+0,0,3,1,4,2,1,0,1,21,festival; eurosonic; alter; and; the; raadio; ewert; roll; kaks

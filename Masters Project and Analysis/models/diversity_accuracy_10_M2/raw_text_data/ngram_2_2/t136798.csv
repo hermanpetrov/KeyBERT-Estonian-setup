@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,1,1,1,1,1,0,20,kultuuripealinna; kool; balti; deckarty; trump; ossinovski; president
+2,0,1,1,1,1,1,1,0,20,kultuuripealinna; kool; balti; deckarty; trump; ossinovski; president
+2,0,1,1,1,1,1,1,0,20,kultuuripealinna; kool; balti; deckarty; trump; ossinovski; president
+2,0,0,1,1,1,1,1,0,20,kool; balti; deckarty; trump; ossinovski; president
+2,0,0,1,1,1,1,1,0,20,kool; balti; deckarty; trump; ossinovski; president
+2,0,0,1,1,1,1,1,0,20,kool; balti; deckarty; trump; ossinovski; president
+1,0,2,0,1,1,2,1,0,20,obinitsa; kultuuripealinna; ametist; deckarty; trump; ossinovski; president
+1,0,2,2,1,1,1,1,0,20,obinitsa; kultuuripealinna; balti; deckarty; trump; ossinovski; president
+3,0,1,0,1,2,2,1,0,20,obinitsa; tervise; jevgeni; deckarty; luik; balti; ossinovski; trump; president
+2,0,0,2,1,2,1,1,0,20,tervise; balti; jevgeni; deckarty; trump; ossinovski; president
+2,0,0,0,1,1,2,1,0,20,tervise; balti; deckarty; trump; ossinovski; president

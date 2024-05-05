@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,1,0,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; retk
+0,0,1,0,0,1,1,0,1,13,liibanon; skulptor; ukraina
+1,0,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
+0,1,0,1,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
+1,1,1,0,0,1,1,0,1,13,liibanon; skulptor; ukraina
+0,1,1,2,0,1,1,1,0,13,liibanon; tootmisliin; skulptor; ukraina

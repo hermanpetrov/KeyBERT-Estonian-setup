@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,2,3,2,0,12,baltika; kreeka; euroopa
+0,0,1,0,0,2,3,3,0,12,baltika; kreeka; euroopa
+0,0,1,0,0,2,3,3,0,12,baltika; kreeka; euroopa
+0,0,0,0,0,2,3,3,0,12,baltika; kreeka; euroopa
+0,0,0,0,0,2,3,3,0,12,baltika; kreeka; euroopa
+0,0,1,0,0,3,2,4,0,12,baltika; liit; kreeka; euroopa
+0,0,1,0,0,3,2,4,0,12,baltika; liit; kreeka; euroopa
+0,0,2,1,0,2,2,3,0,12,baltika; gazprom; kreeka; euroopa
+0,0,1,1,0,1,1,2,0,12,baltika; kreeka
+0,0,2,2,0,1,1,2,0,12,baltika; liit; gazprom; kreeka; euroopa
+0,0,2,1,0,1,1,3,0,12,baltika; enn; gazprom; kreeka; euroopa

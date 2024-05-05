@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,1,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,1,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,1,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,1,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,1,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,3,0,2,0,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,3,0,2,1,1,4,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+2,3,3,0,2,1,1,5,1,13,hiiu; käär; heinsoo; lili; sõna; lasteraamat
+1,3,5,1,1,1,0,5,1,13,heinsoo; hiiu; käär; lili; sõna; lasteraamat
+1,3,5,0,1,1,1,5,1,13,heinsoo; hiiu; käär; lili; sõna; lasteraamat
+1,4,5,1,1,1,1,5,1,13,hiiu; heinsoo; käär; lili; sõna; lasteraamat

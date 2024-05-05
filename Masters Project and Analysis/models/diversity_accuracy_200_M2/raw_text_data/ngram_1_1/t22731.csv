@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,4,2,1,4,4,3,0,14,kunst; aiad; elken; sotsia; salajased; jaan; maal; infotankistid; näitus
+1,0,5,2,1,4,4,3,0,14,kunst; aiad; elken; sotsia; salajased; jaan; maal; infotankistid; näitus
+1,0,4,2,2,4,4,3,0,14,kunst; aiad; elken; sotsia; salajased; jaan; maal; infotankistid; näitus
+1,0,3,1,2,3,4,2,1,14,kunst; aiad; elken; sotsia; salajased; jaan; maal; infotankistid; näitus
+1,0,2,1,2,1,4,2,1,14,kunst; aiad; elken; sotsia; salajased; jaan; maal; infotankistid; näitus
+2,1,1,1,3,2,2,2,1,14,aiad; elken; sotsia; jaan; maal; biotehnoloogia; infotankistid; akvarell
+2,0,2,3,3,1,2,2,1,14,kunst; aiad; elken; jaan; maal; biotehnoloogia; infotankistid; akvarell
+0,0,5,1,2,2,2,5,2,14,kunst; aiad; ränder; elken; sotsia; jaan; maal; biotehnoloogia; infotankistid; akvarell
+1,0,1,3,1,1,2,4,2,14,kunst; aiad; elken; jaan; maal; biotehnoloogia; infotankistid; akvarell
+1,1,2,4,1,1,1,5,1,14,kunst; aiad; ränder; elken; maal; biotehnoloogia; infotankistid; akvarell
+1,0,5,5,2,1,2,4,3,14,kunst; aiad; ränder; elken; sotsia; jaan; maal; biotehnoloogia; infotankistid; akvarell

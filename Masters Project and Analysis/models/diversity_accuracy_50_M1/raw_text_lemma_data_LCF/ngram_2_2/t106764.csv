@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,3,3,1,1,2,3,1,14,festival; singer; maarja; raadio; mart; vinger; kristo
+1,3,3,3,1,1,2,3,1,14,festival; singer; maarja; raadio; mart; vinger; kristo
+1,3,3,3,1,1,2,3,1,14,festival; singer; maarja; raadio; mart; vinger; kristo
+1,3,2,3,1,1,2,3,1,14,festival; mart; singer; vinger; maarja; raadio
+1,3,2,3,1,1,2,2,1,14,festival; mart; singer; vinger; maarja; raadio
+3,3,2,3,1,1,1,3,1,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger
+3,2,2,4,1,1,1,3,1,14,merivoo-parro; singer; maarja; raadio; mart; vinger
+3,2,1,5,1,2,0,3,1,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
+1,2,3,3,1,2,3,5,1,14,singer; maarja; raadio; mart; vinger; kristo; lavastus
+1,1,3,2,0,3,2,4,3,14,merivoo-parro; singer; maarja; mart; raadio; vinger; kristo; lavastus
+4,2,4,2,1,2,3,3,2,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus

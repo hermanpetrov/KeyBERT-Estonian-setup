@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,3,1,0,1,1,5,1,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,3,1,0,1,1,5,1,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,3,1,0,1,1,5,1,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,3,1,0,1,1,5,0,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,3,1,0,1,1,5,0,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,3,1,0,0,1,5,0,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+1,0,4,0,0,2,1,4,0,12,rütmika; muusika; nigeeria; popmuusika; kambja; ansambel; lääne-aafrika
+2,1,3,1,0,1,1,5,0,12,rütmika; muusika; nigeeria; popmuusika; ansambel; lääne-aafrika
+0,1,3,0,0,0,0,5,0,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
+0,1,2,1,0,1,0,5,0,12,muusika; nigeeria; popmuusika; kambja; prantsuse; lääne-aafrika
+0,0,2,0,0,0,0,2,0,12,popmuusika; lääne-aafrika; nigeeria

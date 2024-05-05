@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,2,2,2,0,0,11,torm; sadam; geoloogia; orvik
+0,0,1,0,2,2,2,0,0,11,torm; sadam; geoloogia; orvik
+0,0,1,0,2,2,2,0,0,11,torm; sadam; geoloogia; orvik
+0,0,1,0,2,2,2,1,0,11,torm; sadam; geoloogia; kaarel; orvik
+0,0,2,0,2,2,2,1,0,11,torm; geoloogia; sadam; kaarel; orvik
+0,0,1,0,2,1,1,1,0,11,torm; sadam; orvik; kaarel
+0,0,1,0,1,1,1,1,0,11,torm; orvik
+0,1,2,0,2,1,1,1,0,11,torm; sadam; kaarel; tamm; orvik
+0,0,1,0,1,1,1,0,0,11,torm; orvik
+0,1,0,0,1,1,1,0,0,11,torm; tamm; orvik
+0,0,2,0,1,1,1,2,0,11,torm; kaarel; rand; orvik

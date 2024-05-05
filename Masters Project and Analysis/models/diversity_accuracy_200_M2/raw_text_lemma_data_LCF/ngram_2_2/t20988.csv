@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,2,3,0,3,0,6,1,18,andres; teater; mall; peebo; uibo; annely; gerd; mälberg; anu
+6,0,2,3,1,3,0,5,1,18,andres; teater; arst; mall; annely; uibo; gerd; peebo; mälberg; anu
+6,0,4,3,1,3,1,5,1,18,andres; teater; arst; gerd; annely; uibo; peebo; mall; mälberg; anu
+7,0,4,3,2,3,2,5,1,18,andres; hele; kanter; teater; arst; gerd; annely; uibo; peebo; mall; mälberg; anu
+4,0,5,4,2,2,2,5,1,18,andres; hele; teater; kanter; arst; gerd; annely; peebo; mall; mälberg; anu
+3,0,6,5,2,3,3,7,1,18,andres; hele; teater; arst; gerd; annely; peebo; mall; ori; mälberg; anu
+4,0,7,5,3,6,4,6,2,18,andres; hele; teater; kanter; arst; mall; peebo; annely; gerd; ori; mälberg; anu
+3,0,8,5,4,6,8,10,1,18,kanter; arst; ori; annely; peebo; uibo; anu; andres; hele; teater; lamp; gerd; mall; mälberg
+4,1,5,6,6,8,8,11,1,18,kanter; arst; ori; peebo; uibo; annely; anu; andres; hele; teater; lamp; mall; gerd; mälberg
+2,0,10,7,5,8,9,10,0,18,kanter; arst; ori; annely; uibo; peebo; anu; andres; hele; teater; lamp; mall; gerd; mälberg
+2,0,9,6,6,2,10,10,0,18,kanter; arst; ori; annely; peebo; uibo; anu; andres; hele; teater; lamp; mall; gerd; mälberg

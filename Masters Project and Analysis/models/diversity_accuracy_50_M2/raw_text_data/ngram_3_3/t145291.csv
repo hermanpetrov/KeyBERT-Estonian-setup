@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,3,0,0,1,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,2,2,3,0,0,1,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,2,2,3,0,0,1,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,2,2,3,0,0,1,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,2,2,3,0,0,1,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+3,2,2,3,0,2,2,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,2,2,3,1,2,2,2,1,13,leho; suvi; kont; boriss; sõjalennuk
+2,3,2,1,1,1,2,1,1,13,leho; kont; suvi; boriss; sõjalennuk
+3,1,2,2,2,1,1,1,1,13,leho; kont; suvi; boriss; sõjalennuk
+4,3,2,2,0,1,2,2,2,13,leho; kont; suvi; boriss; kamp; sõjalennuk
+2,2,2,1,3,2,2,1,4,13,suvi; kamp; sõjalennuk; leho; kont; boriss

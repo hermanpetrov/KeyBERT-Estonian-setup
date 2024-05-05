@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,2,1,1,1,0,1,2,11,nõukogude; suitsetamine; kongress; teater; kalev; moskva
+3,2,2,1,1,1,0,1,2,11,nõukogude; suitsetamine; kongress; teater; kalev; moskva
+3,2,2,1,1,1,0,1,2,11,nõukogude; suitsetamine; kongress; teater; kalev; moskva
+3,2,2,1,1,1,0,1,3,11,suitsetamine; teater; moskva; nõukogude; kongress; kalev
+3,1,3,1,1,1,0,3,3,11,suitsetamine; usa; teater; moskva; nõukogude; kongress; kalev
+4,1,2,1,1,1,0,1,3,11,kunst; suitsetamine; teater; moskva; nõukogude; kongress; kalev
+1,3,1,3,1,2,1,1,3,11,suitsetamine; usa; teater; moskva; nõukogude; kongress; kalev
+3,3,1,3,0,0,2,0,2,11,kunst; nõukogude; liit; teater; moskva
+3,3,1,2,0,1,1,0,1,11,kunst; nõukogude; liit; teater; kalev; moskva
+3,2,0,4,0,1,2,1,1,11,kunst; suitsetamine; usa; teater; moskva; nõukogude; kongress
+3,1,0,6,0,0,1,2,1,11,kunst; suitsetamine; usa; teater; moskva; nõukogude; kongress

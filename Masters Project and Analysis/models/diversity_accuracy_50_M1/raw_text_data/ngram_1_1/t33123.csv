@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,5,0,0,3,4,2,0,14,rakenduslingvistika; krista; noortekeel; keel; keelekorraldus; koolikeel
+2,1,5,0,0,3,4,2,0,14,rakenduslingvistika; krista; noortekeel; keel; keelekorraldus; koolikeel
+2,1,5,0,0,3,4,2,0,14,rakenduslingvistika; krista; noortekeel; keel; keelekorraldus; koolikeel
+1,0,5,0,0,3,4,2,0,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
+0,1,5,0,0,3,4,2,0,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
+1,0,4,0,0,4,4,5,0,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
+0,0,4,1,0,3,2,4,0,14,rakenduslingvistika; krista; noortekeel; inglise; keel; fikseerimine; koolikeel
+2,0,4,0,0,1,1,2,0,14,rakenduslingvistika; krista; noortekeel; inglise; keel
+0,1,2,0,0,0,0,1,0,14,rakenduslingvistika; keel; noortekeel; krista
+0,1,1,0,0,0,0,1,0,14,rakenduslingvistika; krista; noortekeel
+0,1,1,0,0,0,0,1,0,14,krista; noortekeel; inglise

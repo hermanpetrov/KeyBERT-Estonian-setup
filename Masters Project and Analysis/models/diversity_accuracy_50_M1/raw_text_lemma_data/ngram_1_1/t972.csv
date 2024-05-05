@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,1,2,1,1,0,1,15,birgit; eesti; eurovisioon; vaher
+1,0,1,1,2,1,1,0,1,15,birgit; eesti; eurovisioon; vaher
+1,0,1,1,2,1,1,0,1,15,birgit; eesti; eurovisioon; vaher
+1,0,2,1,2,1,1,1,1,15,kontsert; birgit; eesti; eurovisioon; vaher
+1,0,1,1,2,1,1,1,1,15,birgit; eesti; eurovisioon; vaher
+1,0,0,1,2,1,1,1,1,15,birgit; eesti; eurovisioon; vaher
+1,0,0,1,2,2,0,2,1,15,laul; birgit; eesti; eurovisioon; vaher; otsima
+0,0,0,3,2,1,0,0,1,15,birgit; kõiv; eurovisioon; vaher; eesti
+1,0,0,1,2,1,1,0,1,15,birgit; kõiv; eesti; vaher
+2,1,0,0,1,2,2,0,1,15,vaher; birgit; kõiv; eurovisioon; laul; eesti
+2,1,0,0,2,1,2,0,1,15,vaher; birgit; kõiv; eurovisioon; laul; eesti

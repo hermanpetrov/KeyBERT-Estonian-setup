@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
+0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
+0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
+0,0,3,0,1,0,0,0,0,17,festival; jürgen; viljandi; vare
+0,0,3,0,1,0,0,0,0,17,viljandi; jürgen; vare; laen
+0,0,4,0,1,0,0,0,0,17,festival; viljandi; laen; jürgen; vare
+0,0,2,0,1,0,0,0,0,17,jürgen; vare; laen
+0,0,2,0,1,0,0,1,0,17,viljandi; jürgen; vare; kreeka
+0,0,3,0,1,0,0,1,0,17,viljandi; laen; jürgen; vare; kreeka
+0,0,3,0,1,0,0,1,0,17,viljandi; laen; jürgen; vare; kreeka
+0,0,1,1,2,0,0,1,0,17,kai; salme; jürgen; vare; kreeka

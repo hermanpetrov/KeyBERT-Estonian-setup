@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,7,7,6,3,6,6,7,7,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+8,8,8,6,3,6,6,7,7,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+8,8,8,6,3,6,6,7,7,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+8,8,8,6,3,7,6,7,7,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+6,8,7,7,3,7,7,8,7,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+6,8,7,7,3,6,7,8,7,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
+7,8,7,9,4,7,8,8,8,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
+8,8,8,9,7,7,7,9,8,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
+6,8,7,8,7,7,7,8,6,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
+5,6,9,7,7,7,8,8,5,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
+6,8,8,7,8,6,8,8,7,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent

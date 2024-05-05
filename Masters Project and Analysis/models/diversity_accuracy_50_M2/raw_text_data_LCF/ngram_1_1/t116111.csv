@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,1,0,0,0,1,10,lend; sõda; mälestus; leningrad
+1,1,0,0,1,0,0,0,1,10,lend; sõda; mälestus; leningrad
+1,1,0,0,1,0,0,0,0,10,lend; mälestus; leningrad
+1,1,0,0,1,0,0,0,1,10,lend; sõda; mälestus; leningrad
+1,1,0,0,1,0,0,0,1,10,lend; sõda; mälestus; leningrad
+1,1,0,0,1,0,0,0,1,10,lend; sõda; mälestus; leningrad
+1,1,0,0,1,0,0,0,0,10,lend; mälestus; leningrad
+0,1,0,0,1,0,0,1,1,10,sõda; lend; leningrad
+1,1,0,0,0,0,0,1,1,10,sõda; leningrad
+1,1,0,0,0,0,0,1,0,10,sõda; leningrad
+1,0,0,0,0,0,0,1,0,10,sõda; leningrad

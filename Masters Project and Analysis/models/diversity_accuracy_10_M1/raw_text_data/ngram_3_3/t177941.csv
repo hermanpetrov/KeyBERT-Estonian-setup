@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,2,0,1,1,1,0,11,mikomägi; rapla; ugala; teater
+1,0,0,2,0,1,1,1,0,11,mikomägi; rapla; ugala; teater
+1,0,0,2,0,1,1,1,0,11,mikomägi; rapla; ugala; teater
+1,0,0,2,0,1,1,1,0,11,mikomägi; rapla; ugala; teater
+1,0,1,2,0,1,1,1,0,11,rapla; mikomägi; ugala; teater
+1,0,1,2,0,1,1,1,0,11,rapla; mikomägi; ugala; teater
+3,1,1,0,0,1,1,1,0,11,rapla; mikomägi; panso; voldemar; näitleja
+1,0,1,0,0,1,1,1,0,11,kriitika; mikomägi
+2,0,1,0,0,1,1,1,0,11,rapla; mikomägi; kriitika; teatrikool
+0,0,0,0,0,1,1,1,0,11,mikomägi; rapla
+1,0,0,0,0,1,1,1,0,11,kriitika; mikomägi; rapla

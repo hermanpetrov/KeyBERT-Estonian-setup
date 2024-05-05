@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,3,0,2,2,2,3,1,13,keskpärane; kesk-aasia; tõlge; jevgeni; reaalsusest
+1,2,3,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest
+1,2,3,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest
+1,2,3,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest
+1,2,3,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest
+1,2,2,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest; autor
+1,2,3,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest
+0,2,4,0,2,2,2,3,0,13,kesk-aasia; tõlge; jevgeni; reaalsusest; autor
+2,4,5,1,2,2,2,3,0,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; kesk-aasia; autor
+1,4,4,2,2,2,2,3,0,13,tõlge; jevgeni; reaalsusest; luuletaja; kesk-aasia; autor
+2,4,5,2,1,2,2,3,1,13,tõlge; jevgeni; reaalsusest; luuletaja; kesk-aasia; autor

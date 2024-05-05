@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
+0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
+0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
+0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
+0,0,2,0,0,0,2,0,0,18,petser; pärt; staadion; ukraina
+0,0,2,0,0,0,2,0,0,18,petser; pärt; rebane; ukraina
+0,0,2,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; petser; pärt; arvo
+0,0,3,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; petser; pärt; arvo
+1,0,2,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; pärt; arvo
+0,0,1,1,0,4,0,1,1,18,ukraina; parvlaev; staadion; ilves; arvo
+0,0,1,2,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; pärt; arvo

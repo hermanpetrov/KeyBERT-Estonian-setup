@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,4,4,3,2,2,3,4,1,11,vee; kvaliteet; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+1,4,4,3,2,2,3,4,1,11,vee; kvaliteet; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+1,4,4,3,2,2,3,4,1,11,vee; kvaliteet; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+1,4,3,3,2,2,3,4,1,11,vee; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+1,4,6,3,2,2,3,4,1,11,vee; kvaliteet; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+1,2,5,3,2,2,3,4,1,11,vee; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
+0,2,4,3,2,3,3,6,1,11,vee; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
+2,3,4,1,2,3,1,4,1,11,kvaliteet; vee; hapnik; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
+2,2,3,1,1,0,2,3,1,11,vee; veetöötlusjaam; veevärk; joogivesi; joogiveemäärus
+3,2,2,0,2,0,1,3,1,11,vee; veetöötlusjaam; veevärk; joogivesi; raud; joogiveemäärus
+2,3,1,1,2,0,0,5,1,11,vee; kvaliteet; hapnik; veevärk; joogivesi; raud; joogiveemäärus

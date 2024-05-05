@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,8,0,3,3,4,7,1,16,sümboolne; soomre; võim; kunstnik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum; kunstnike; maria-kristiina; kriitik; liit
+4,0,8,0,3,4,4,7,1,16,sümboolne; soomre; võim; kunstnik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum; kunstnike; maria-kristiina; kriitik; liit
+3,1,6,0,3,2,5,8,1,16,soomre; võim; kunstnik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum; kunstnike; maria-kristiina; kriitik; liit
+3,1,5,0,3,2,5,8,1,16,sümboolne; kunstnike; soomre; võim; maria-kristiina; kriitik; anders; kuraator; publik; liit; reaalne; kunstimaailm; kunstimuuseum
+2,1,3,0,3,2,5,8,1,16,sümboolne; kunstnike; soomre; võim; maria-kristiina; kriitik; anders; härm; kuraator; publik; liit; reaalne; kunstimaailm
+1,1,3,1,3,2,1,9,1,16,sümboolne; soomre; võim; kuraator; reaalne; kunstimaailm; kunstnike; maria-kristiina; kriitik; liit
+0,3,3,2,2,1,1,5,1,16,institutsioon; sümboolne; kunstnike; soomre; võim; maria-kristiina; kriitik; kuraator; liit; reaalne; kunstimaailm; kunstimuuseum
+1,3,1,3,1,1,1,6,1,16,institutsioon; sümboolne; kunstnike; võim; maria-kristiina; kriitik; publik; liit; kunstimaailm; kunstimuuseum
+1,3,4,0,1,3,2,3,1,16,soomre; võim; maria-kristiina; kriitik; kuraator; publik; kunstimaailm; kunstimuuseum
+0,1,3,2,2,2,1,3,1,16,institutsioon; kunstnike; võim; maria-kristiina; kuraator; härm; publik; kunstimaailm; kunstimuuseum
+0,2,2,2,1,1,1,4,2,16,institutsioon; kunstnike; soomre; võim; maria-kristiina; anders; härm; kuraator; publik; kunstimuuseum

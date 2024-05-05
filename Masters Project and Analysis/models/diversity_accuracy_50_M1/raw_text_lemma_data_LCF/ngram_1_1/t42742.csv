@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,1,1,1,0,15,kontsertorkester
+0,0,0,0,0,1,1,1,0,15,kontsertorkester
+0,0,0,0,0,1,1,1,0,15,kontsertorkester
+0,0,0,0,0,1,1,1,1,15,kontsertorkester; liiv
+0,0,1,0,0,0,1,0,1,15,kontsertorkester; liiv; dirigent
+0,0,0,0,0,0,1,0,1,15,kontsertorkester; liiv
+0,0,0,0,0,0,1,0,1,15,liiv; dirigent
+0,0,0,0,0,0,1,0,1,15,liiv; dirigent
+0,0,1,0,0,1,1,0,1,15,liiv; dirigent
+0,0,0,0,0,0,0,2,1,15,hando; liiv
+0,0,0,0,0,0,1,1,1,15,liiv; dirigent

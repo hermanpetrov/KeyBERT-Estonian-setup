@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,1,0,0,0,0,0,10,kontsertorkester
+1,0,0,1,0,0,0,0,0,10,kontsertorkester
+1,0,0,1,0,0,0,0,0,10,kontsertorkester
+1,0,0,1,0,0,0,0,0,10,kontsertorkester
+1,0,0,1,0,0,0,0,0,10,kontsertorkester
+1,1,1,1,0,0,0,0,0,10,kontsertorkester; laps
+0,1,1,0,0,1,1,1,0,10,kontsertorkester; laps
+0,1,0,0,0,0,1,0,0,10,kontsertorkester; laps
+2,0,0,0,0,0,1,0,0,10,laps; toetama
+2,0,0,0,0,1,1,0,0,10,laps; toetama
+1,0,0,0,0,0,1,0,0,10,kontsertorkester; laps

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,0,1,1,2,1,12,mõisnik; kubjas; mõisavalitseja
+1,1,0,0,0,1,1,2,1,12,mõisnik; kubjas; mõisavalitseja
+1,1,0,0,0,1,1,2,1,12,mõisnik; kubjas; mõisavalitseja
+1,1,0,0,0,1,1,2,1,12,mõisnik; kubjas; mõisavalitseja
+1,1,0,0,0,1,1,2,1,12,mõisnik; kubjas; mõisavalitseja
+1,1,1,0,0,1,1,2,1,12,mõisnik; kristus; kubjas; mõisavalitseja
+0,3,0,0,0,2,0,2,1,12,mimmi; mõisnik; kubjas; eduard; mõisavalitseja; proua
+0,2,0,0,0,1,1,2,1,12,mimmi; mõisnik; eduard; mõisavalitseja; proua
+0,0,0,0,0,1,0,1,1,12,mõisnik; mõisavalitseja
+0,0,0,0,0,1,0,1,1,12,mõisnik; mõisavalitseja
+1,1,1,0,0,2,0,1,1,12,mõisnik; eduard; kristus; hobune; ilus; mõisavalitseja

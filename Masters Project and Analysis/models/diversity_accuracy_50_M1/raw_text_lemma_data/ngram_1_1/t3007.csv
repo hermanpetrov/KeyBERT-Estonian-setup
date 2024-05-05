@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,1,0,0,0,0,1,15,välis-eesti; edgar; eentalu
+0,0,1,0,0,0,0,0,1,15,välis-eesti; edgar
+0,0,1,0,0,1,0,0,1,15,välis-eesti; edgar; riina
+2,0,1,0,0,0,0,0,1,15,välis-eesti; viljatus; narkootikum; edgar
+2,0,2,0,0,0,0,0,1,15,viljatus; välis-eesti; edgar; narkootikum
+2,1,2,0,0,0,0,0,1,15,viljatus; välis-eesti; edgar; narkootikum

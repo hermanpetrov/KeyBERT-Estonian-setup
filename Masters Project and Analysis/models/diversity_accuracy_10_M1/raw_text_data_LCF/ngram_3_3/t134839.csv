@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,1,1,1,1,2,0,18,andrus; indrek; päevakaja; ansip; euroopa; saar
+0,0,3,1,1,1,1,2,0,18,andrus; indrek; päevakaja; ansip; euroopa; saar
+0,0,3,1,1,1,1,2,0,18,andrus; indrek; päevakaja; ansip; euroopa; saar
+0,1,3,1,1,1,1,2,0,18,andrus; indrek; päevakaja; ansip; euroopa; saar
+0,1,3,1,1,1,1,2,0,18,andrus; indrek; päevakaja; ansip; euroopa; saar
+0,1,2,0,1,1,1,2,0,18,indrek; päevakaja; ansip; euroopa; saar
+1,2,2,1,1,0,1,2,0,18,indrek; ilves; saar; andrus; päevakaja; ansip; komisjon; euroopa
+1,0,2,0,1,1,2,3,0,18,indrek; päevakaja; ansip; komisjon; euroopa; saar
+0,0,2,1,2,1,2,1,0,18,andrus; ott; indrek; päevakaja; ansip; komisjon; euroopa; saar
+0,1,4,1,2,1,2,1,2,18,indrek; saar; andrus; ott; päevakaja; ansip; komisjon; euroopa
+0,2,2,0,2,2,1,1,2,18,indrek; eelarve; saar; andrus; päevakaja; ansip; komisjon; euroopa

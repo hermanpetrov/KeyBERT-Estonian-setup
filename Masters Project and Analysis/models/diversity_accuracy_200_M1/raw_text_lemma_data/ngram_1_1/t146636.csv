@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,6,6,6,6,5,6,7,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+4,6,6,6,6,5,6,7,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+4,5,5,6,6,6,6,7,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+4,5,5,6,6,4,7,7,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+4,5,5,6,6,5,7,6,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+4,4,6,6,7,5,6,4,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+5,3,6,6,7,6,3,8,5,12,paul; süü; darwin; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
+4,4,6,6,8,8,4,7,5,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
+3,4,10,5,8,7,4,4,7,12,paul; süü; darwin; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
+4,4,7,7,7,7,4,6,9,12,paul; darwin; rõõm; süü; seitse; toomas; tüdimus; aplus; ahnus; liialdus
+3,5,7,6,7,7,4,4,9,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus

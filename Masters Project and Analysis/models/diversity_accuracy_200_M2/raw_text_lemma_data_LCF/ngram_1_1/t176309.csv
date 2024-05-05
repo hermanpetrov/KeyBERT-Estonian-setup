@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,9,9,7,7,8,8,8,8,14,maja; pood; tuba; isik; ilmar; tomusk; uus; martin; kõrvaline
+5,8,9,7,7,9,7,8,8,14,maja; pood; tuba; isik; ilmar; tomusk; uus; martin; kõrvaline
+5,8,9,7,7,9,7,8,8,14,maja; pood; tuba; isik; ilmar; tomusk; uus; martin; kõrvaline
+5,8,9,7,8,9,7,8,8,14,maja; pood; tuba; isik; ilmar; tomusk; uus; martin; kõrvaline
+6,8,9,7,8,9,8,8,8,14,maja; pood; tuba; isik; ilmar; tomusk; uus; kõrvaline; martin
+7,8,9,7,9,9,9,9,8,14,maja; tomusk; pood; tuba; isik; ilmar; uus; kõrvaline; martin
+7,7,9,7,9,9,9,9,8,14,maja; tomusk; pood; tuba; isik; ilmar; uus; kõrvaline; martin
+8,8,9,6,9,9,9,9,8,14,maja; tomusk; pood; tuba; isik; ilmar; uus; kõrvaline; martin
+8,8,9,7,9,8,9,9,9,14,maja; tomusk; pood; tuba; isik; ilmar; uus; kõrvaline; martin
+8,8,9,7,9,8,9,9,9,14,maja; tomusk; pood; ilmar; tuba; isik; uus; kõrvaline; martin
+9,8,9,7,9,8,9,9,9,14,maja; tomusk; pood; tuba; isik; ilmar; uus; kõrvaline; martin

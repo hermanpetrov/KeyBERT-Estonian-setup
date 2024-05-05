@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,2,0,0,0,1,2,12,ameerika; andres; koht; esimene
+0,1,2,2,0,0,0,1,2,12,ameerika; andres; koht; esimene
+0,1,2,2,0,0,0,1,2,12,ameerika; andres; koht; esimene
+0,1,2,2,0,0,0,1,2,12,ameerika; andres; koht; esimene
+0,1,2,2,0,0,0,1,2,12,ameerika; andres; koht; esimene
+0,1,2,2,0,0,0,0,2,12,ameerika; andres; koht; esimene; euroopa
+0,1,2,2,0,0,1,0,2,12,ameerika; andres; koht; esimene; euroopa
+0,1,2,3,0,0,1,2,2,12,andres; koht; esimene; hitt; lugu; edetab; euroopa
+0,2,2,1,0,1,0,0,1,12,hitt; koht; esimene; edetab; euroopa; räppar
+0,2,0,0,0,1,0,1,0,12,hitt; lugu; koht; edetab
+0,2,0,1,0,1,0,1,0,12,hitt; koht; edetab; euroopa; räppar

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,1,0,1,1,1,1,15,föderatsioon; eesti; eurotsoon
+1,0,1,1,0,1,1,1,1,15,föderatsioon; eesti; eurotsoon
+1,0,2,1,0,1,1,1,1,15,föderatsioon; eesti; eurotsoon
+1,0,1,1,0,1,1,1,1,15,föderatsioon; eesti; eurotsoon
+1,0,1,1,0,1,1,1,1,15,föderatsioon; eesti; eurotsoon
+1,0,0,1,0,1,1,0,1,15,föderatsioon; eesti; eurotsoon
+0,0,1,1,0,1,1,0,1,15,eesti; eurotsoon
+1,1,0,0,0,1,0,0,1,15,sotsiaalne; eesti; eurotsoon
+1,1,1,0,0,2,0,2,1,15,sildvee; kroon; föderatsioon; eurotsoon; sotsiaalne; eesti
+1,0,0,0,0,2,1,2,1,15,eurotsoon; anti; föderatsioon; sildvee; eesti
+1,0,0,0,0,2,0,2,2,15,majandus; eurotsoon; sildvee; föderatsioon; sotsiaalne; eesti

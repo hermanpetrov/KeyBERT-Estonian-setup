@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; bismarck; saksamaa; berliin
+1,1,1,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; bismarck; saksamaa; berliin
+1,1,1,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; bismarck; saksamaa; berliin
+1,1,1,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; bismarck; saksamaa; berliin
+1,0,0,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; berliin
+1,0,0,0,0,0,0,2,0,15,tööstusrevolutsioon; berliini; berliin
+1,0,0,0,0,0,1,0,0,15,tööstusrevolutsioon; berliin
+1,0,0,1,0,0,0,0,0,15,tööstusrevolutsioon; berliini
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,1,0,0,0,0,0,15,maailmasõda

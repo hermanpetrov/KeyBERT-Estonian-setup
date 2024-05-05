@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,0,0,1,1,1,0,13,türgi; preemia; kirjanik; euroopa
+0,2,1,0,0,1,1,1,0,13,türgi; preemia; kirjanik; euroopa
+0,2,1,0,0,1,1,1,0,13,türgi; preemia; kirjanik; euroopa
+0,2,1,0,0,1,1,1,0,13,türgi; preemia; kirjanik; euroopa
+0,2,1,0,0,1,1,1,0,13,türgi; preemia; kirjanik; euroopa
+0,2,0,0,0,1,1,1,0,13,türgi; preemia; kirjanik
+0,2,0,0,0,2,1,0,0,13,türgi; kirjanik; nobel
+0,2,1,0,0,2,1,0,0,13,türgi; kirjanik; nobel
+0,1,1,1,0,2,0,0,0,13,türgi; nobel; preemia
+0,0,2,0,0,2,0,0,0,13,türgi; nobel; euroopa
+0,0,2,0,0,2,0,0,0,13,türgi; nobel; euroopa

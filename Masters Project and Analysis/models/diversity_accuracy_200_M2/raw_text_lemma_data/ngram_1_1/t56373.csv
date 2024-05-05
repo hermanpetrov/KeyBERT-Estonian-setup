@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,2,0,0,2,1,1,3,10,pulm; luksus; aadlik; sõda; pidu
+2,0,2,0,0,1,1,1,3,10,pulm; luksus; sõda; pidu
+1,0,2,0,0,1,1,1,3,10,luksus; sõda; pidu
+1,0,2,0,0,1,1,1,3,10,luksus; sõda; pidu
+1,0,1,0,0,2,1,2,3,10,luksus; sõda; pidu
+0,0,1,1,0,2,0,1,4,10,russow; luksus; sõda; pidu
+0,0,1,2,0,0,1,1,4,10,russow; luksus; sõda; pidu
+0,0,1,2,1,1,2,1,2,10,pulm; russow; luksus; sõda
+0,0,0,2,1,1,2,1,1,10,pulm; kirik; russow; sõda
+0,0,0,2,2,1,2,1,1,10,pulm; kirik; russow; sõda
+0,0,1,2,0,0,2,1,0,10,pulm; kirik; russow; sõda

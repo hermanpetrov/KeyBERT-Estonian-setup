@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,1,6,3,2,4,3,3,4,13,kunstihoone; aleksander; anders; laimre; härm; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,1,6,3,2,4,3,3,4,13,kunstihoone; aleksander; anders; laimre; härm; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,1,5,3,2,4,3,3,4,13,kunstihoone; aleksander; anders; laimre; härm; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,2,6,3,2,4,3,3,4,13,kunstihoone; aleksander; anders; laimre; härm; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,4,6,3,2,4,3,4,4,13,kunstihoone; aleksander; anders; laimre; kuraator; härm; poliitiline; tudengifilm; graafika; tartu
+3,4,5,3,2,4,3,5,4,13,kunstihoone; aleksander; anders; laimre; härm; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,4,4,4,2,1,2,4,4,13,kunstihoone; aleksander; tudengifilm; laimre; anders; poliitiline; härm; kuraator; graafika; tartu
+3,4,5,1,1,3,2,3,4,13,kunstihoone; anders; aleksander; laimre; härm; poliitiline; kuraator; graafika; tartu
+1,2,4,2,0,2,3,6,3,13,kunstihoone; anders; aleksander; laimre; härm; poliitiline; graafika; tartu
+1,1,4,1,2,4,4,5,3,13,kunstihoone; anders; aleksander; härm; kuraator; poliitiline; laimre; tudengifilm; graafika; tartu
+1,2,5,4,1,4,2,5,2,13,kunstihoone; anders; aleksander; härm; tudengifilm; poliitiline; graafika; tartu

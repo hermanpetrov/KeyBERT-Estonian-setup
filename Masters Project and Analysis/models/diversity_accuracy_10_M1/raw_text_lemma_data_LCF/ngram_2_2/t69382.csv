@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,0,0,1,0,16,õppimine; medell
+1,0,1,0,0,0,0,1,0,16,õppimine; medell
+1,0,1,0,0,0,0,1,0,16,õppimine; medell
+1,0,1,0,0,0,0,1,0,16,õppimine; medell
+1,0,1,0,0,0,0,1,0,16,õppimine; medell
+1,0,0,0,0,0,0,1,0,16,õppimine; medell
+1,0,0,0,0,2,2,1,0,16,sirje; medell; ballaad
+1,1,0,0,0,1,0,1,0,16,sirje; laps; medell; ballaad
+0,0,2,0,0,1,0,1,0,16,festival; sirje; õppimine; medell
+1,0,1,1,0,2,0,1,0,16,festival; sirje; aprill; õppimine; medell
+3,0,0,1,0,1,0,3,0,16,sirje; aprill; õppimine; laul; medell

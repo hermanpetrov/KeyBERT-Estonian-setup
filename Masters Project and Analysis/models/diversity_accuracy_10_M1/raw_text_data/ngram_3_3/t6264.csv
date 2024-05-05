@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler; berliin
+2,2,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler; berliin
+2,2,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler; berliin
+2,2,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler; berliin
+2,2,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler; berliin
+2,1,1,0,0,0,1,0,0,17,adolf; bismarck; saksamaa; hitler
+0,1,1,0,0,0,0,0,0,17,saksamaa; bismarck
+2,2,1,0,0,0,1,0,0,17,valgustusajastu; külm; bismarck; saksamaa; sõda
+1,1,1,1,0,2,0,0,0,17,adolf; bismarck; saksamaa; hitler; üliõpilasrahutused
+1,1,1,0,0,3,0,0,0,17,adolf; bismarck; saksamaa; hitler; üliõpilasrahutused; berliin
+0,2,1,0,0,1,0,0,0,17,saksamaa; hitler; bismarck; berliin

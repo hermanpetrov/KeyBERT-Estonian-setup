@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,2,0,0,0,0,16,bob; biitel; usa
+0,0,2,0,2,0,0,0,0,16,bob; biitel; usa
+0,0,2,0,2,0,0,0,0,16,bob; biitel; usa
+0,0,2,0,2,0,0,0,0,16,bob; biitel; usa
+0,0,2,0,2,0,0,0,0,16,bob; biitel; usa
+0,0,2,0,2,0,2,0,0,16,kennedy; usa; bob; biitel; john
+0,0,2,0,2,0,2,0,0,16,kennedy; kosmonaut; usa; bob; biitel
+0,0,1,0,2,1,2,0,0,16,kennedy; kosmonaut; usa; nsv; bob
+0,0,1,0,2,0,2,0,0,16,kosmonaut; usa; nsv; bob
+0,0,3,0,2,0,2,0,0,16,bob; usa; kosmonaut; nsv; aarne
+0,0,3,0,1,0,2,0,0,16,kosmonaut; usa; nsv; bob

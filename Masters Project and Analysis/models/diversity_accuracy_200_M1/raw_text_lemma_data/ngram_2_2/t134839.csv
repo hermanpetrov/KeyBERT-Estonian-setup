@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,6,6,6,4,5,3,5,3,18,kristjan; ansip; indrek; regioon; karulin; saar; andrus; ott; ilves; komisjon; euroopa
+4,5,5,7,4,5,4,6,3,18,kristjan; ansip; regioon; indrek; karulin; saar; andrus; ott; ilves; komisjon; euroopa
+4,5,5,7,5,5,4,5,3,18,kristjan; ansip; regioon; indrek; karulin; saar; andrus; ott; ilves; komisjon; euroopa
+4,7,6,7,8,5,5,5,4,18,kristjan; regioon; indrek; karulin; saar; ilves; andrus; ott; ansip; komisjon; euroopa
+4,6,5,7,8,4,5,5,5,18,kristjan; regioon; indrek; karulin; saar; ilves; andrus; ott; ansip; komisjon; euroopa
+5,5,7,7,7,7,6,5,5,18,kristjan; indrek; regioon; karulin; saar; ilves; andrus; ott; ansip; komisjon; euroopa
+6,7,6,8,7,6,7,6,4,18,kristjan; ansip; indrek; regioon; karulin; saar; andrus; ott; ilves; komisjon; euroopa
+4,5,8,9,8,9,8,7,6,18,kristjan; regioon; saar; andrus; ilves; indrek; karulin; ott; ansip; komisjon; euroopa
+4,6,9,8,8,10,7,7,5,18,kristjan; regioon; saar; andrus; ilves; indrek; karulin; ott; ansip; komisjon; euroopa
+4,6,7,7,9,7,9,9,5,18,kristjan; regioon; saar; andrus; ilves; indrek; karulin; ott; ansip; komisjon; euroopa
+5,6,6,7,9,8,7,8,4,18,kristjan; regioon; saar; andrus; ilves; indrek; karulin; ott; ansip; komisjon; euroopa

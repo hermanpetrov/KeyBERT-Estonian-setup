@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,1,2,2,4,4,4,4,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+3,3,2,2,2,3,4,4,3,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+4,3,2,2,3,3,4,4,3,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+4,2,3,3,3,3,6,4,4,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+4,2,3,3,3,6,6,4,4,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+5,2,6,3,4,6,7,4,4,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; elmar
+3,3,5,7,4,7,6,5,4,13,mors; masing; hoiatus; soldat; hanso; auto; viktor; isa; granaat; elmar
+1,5,7,7,3,4,3,5,5,13,mors; masing; hoiatus; soldat; hanso; auto; viktor; isa; granaat; elmar
+5,1,7,7,3,5,4,5,5,13,mors; masing; hoiatus; soldat; hanso; auto; viktor; isa; granaat; elmar
+3,4,5,6,5,5,3,8,3,13,mors; masing; hoiatus; soldat; hanso; auto; viktor; isa; granaat; elmar
+4,3,8,5,4,6,5,7,3,13,mors; masing; hoiatus; soldat; hanso; auto; viktor; isa; granaat; elmar

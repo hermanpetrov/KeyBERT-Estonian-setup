@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,6,4,5,3,4,3,6,6,16,aleksejev; kirjanik; muutus; hemingway; tiit; peeter; film; sõda
+7,6,4,5,4,4,3,6,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; peeter; film; allik; sõda
+7,6,4,5,3,4,3,6,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; peeter; film; allik; sõda
+6,5,4,5,4,7,4,6,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; peeter; film; allik; sõda
+6,5,7,4,4,6,4,6,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; peeter; film; allik; sõda
+6,5,9,5,4,6,5,7,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
+6,5,7,5,4,6,6,7,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
+6,5,6,3,6,5,5,6,6,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
+3,4,6,4,5,3,4,6,6,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; sõda
+3,3,5,2,5,4,6,5,6,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
+3,4,5,2,5,4,6,5,6,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; allik; sõda

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,0,0,0,1,1,0,1,12,john; tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,1,12,john; tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,1,12,john; tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,1,12,john; tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,0,12,tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,0,12,tarkus; mccain; lamar
+3,0,0,0,0,1,1,0,0,12,tarkus; mccain; lamar
+2,0,0,0,0,1,1,0,0,12,tarkus; mccain; lamar
+1,0,0,0,0,1,1,0,0,12,tarkus; lamar
+1,0,0,3,0,1,1,0,0,12,kristjan; port; tarkus; john; lamar
+1,0,0,3,0,0,1,0,0,12,kristjan; port; tarkus; john; lamar

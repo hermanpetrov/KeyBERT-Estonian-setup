@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,5,0,1,3,1,1,1,3,14,bismarck; müür; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+7,5,0,1,3,1,1,1,3,14,bismarck; müür; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+7,5,0,1,3,1,1,1,3,14,bismarck; müür; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+7,5,0,1,3,1,1,1,3,14,bismarck; müür; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+7,5,0,1,3,1,1,1,3,14,bismarck; müür; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+7,4,1,2,3,1,1,3,3,14,bismarck; müür; von; wilhelm; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+5,3,1,2,3,4,4,3,3,14,bismarck; müür; wilhelm; von; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+5,2,2,5,3,2,5,4,3,14,bismarck; müür; wilhelm; von; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+5,2,1,6,3,2,3,3,3,14,bismarck; müür; wilhelm; von; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+4,2,1,6,3,2,3,4,1,14,bismarck; müür; wilhelm; von; kurferstendam; brandenburg; friedrich; monumentalism; berliin
+3,2,1,5,2,2,2,2,4,14,bismarck; müür; von; wilhelm; brandenburg; friedrich; monumentalism; berliin

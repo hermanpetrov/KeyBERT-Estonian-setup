@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,0,1,1,0,13,anatoomikum; tants; moeetendus
+1,0,1,0,0,0,1,1,0,13,anatoomikum; tants; moeetendus
+1,0,1,0,0,0,1,1,0,13,anatoomikum; tants; moeetendus
+1,0,0,0,0,0,1,1,0,13,anatoomikum; tants; moeetendus
+1,0,1,0,0,0,2,0,0,13,tants; anatoomikum; tartu
+2,0,2,0,0,0,1,1,0,13,anatoomikum; kunstikool; tartu; tants
+1,0,1,0,0,0,2,1,0,13,tartu; anatoomikum; tants
+0,0,1,0,0,0,2,1,0,13,tants; anatoomikum; tartu
+0,0,0,0,0,0,2,2,0,13,kunstikool; tants; anatoomikum
+0,0,1,0,0,0,1,1,0,13,anatoomikum; tants
+0,1,2,0,0,0,0,1,0,13,kunstikool; tartu; tants; kristina

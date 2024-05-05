@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,3,1,0,4,3,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,3,1,0,4,3,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,3,1,0,4,3,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,3,1,0,4,3,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,3,1,0,4,3,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,1,1,0,4,2,3,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,1,1,0,5,2,2,1,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,0,0,0,5,2,2,2,11,austraalia; reis; maa; hoolitsema; rändama; sugulane
+1,2,0,1,0,2,3,1,2,11,maa; hoolitsema; rändama; reis; sugulane; austraalia
+1,2,1,2,0,3,2,1,2,11,maa; hoolitsema; rändama; sugulane; austraalia
+1,2,0,2,0,4,1,2,3,11,austraalia; maa; hoolitsema; rändama; sugulane

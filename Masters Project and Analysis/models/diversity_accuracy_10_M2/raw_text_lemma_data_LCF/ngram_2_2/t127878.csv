@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,0,1,2,2,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+1,1,1,1,1,2,3,2,0,11,üksindus; raamat; kirjanik; lavastus; võõras; urmas; vadi
+0,1,1,2,1,3,3,3,0,11,raamat; kirjanik; üksindus; lavastus; urmas; vadi
+0,1,1,0,1,3,4,2,0,11,raamat; kirjanik; võõras; üksindus; lavastus; urmas; vadi
+1,1,0,0,1,3,2,2,0,11,raamat; kirjanik; furby; üksindus; lavastus; urmas; vadi
+1,1,0,0,1,3,2,3,0,11,raamat; kirjanik; furby; lavastus; urmas; vadi

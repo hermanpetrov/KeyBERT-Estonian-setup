@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,1,1,1,1,1,19,dekoratiivne; aasta; riina
+1,1,1,0,1,1,1,1,1,19,dekoratiivne; aasta; riina
+1,1,1,0,1,1,1,1,1,19,dekoratiivne; aasta; riina
+1,1,1,0,1,1,1,1,1,19,dekoratiivne; aasta; riina
+1,1,1,0,1,1,1,1,1,19,dekoratiivne; aasta; riina
+1,1,1,0,1,2,1,1,1,19,dekoratiivne; riina; heino; aasta
+0,1,1,2,1,3,1,1,1,19,dekoratiivne; heino; aasta; eesti; sulev
+2,3,2,1,1,4,2,2,1,19,dekoratiivne; riina; eesti; aasta; sulev; heino; autoriteet
+3,3,3,3,2,3,3,3,1,19,dekoratiivne; riina; aasta; eesti; sulev; heino; autoriteet
+3,2,1,3,2,2,1,2,1,19,dekoratiivne; riina; autoriteet; eesti; aasta; sulev
+2,3,3,4,1,3,2,2,1,19,dekoratiivne; riina; eesti; aasta; sulev; autoriteet

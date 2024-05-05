@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
+0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
+0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
+0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
+0,1,2,0,0,1,2,0,1,18,hindper; konverents; isis; eesti
+0,1,2,0,0,1,1,0,1,18,hindper; konverents; isis; eesti
+0,1,2,1,0,1,1,2,1,18,hindper; konverents; eesti
+0,0,1,1,0,1,1,2,1,18,hindper; konverents; eesti
+0,1,1,0,0,2,1,2,1,18,hindper; konverents; nädal; kontsert; laager; eesti
+0,0,0,0,0,2,0,1,1,18,konverents; eesti
+0,0,3,1,0,2,0,0,1,18,hindper; konverents; nädal; kontsert; laager; eesti

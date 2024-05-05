@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,0,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+4,3,0,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+4,3,0,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+4,3,0,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+4,3,0,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+3,3,1,0,1,1,2,4,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+2,0,0,0,1,1,0,4,0,17,pirgu; mõisaproua; majapidajanna; concordia; mõis; pekk
+0,1,0,1,1,1,0,6,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
+0,0,1,0,0,0,1,5,0,17,norra; pirgu; mõisaproua; ruth-kaja; mõis; pekk
+0,1,0,0,1,2,0,4,1,17,norra; pekk; pirgu; mõisaproua; concordia; mõis
+0,0,0,1,1,2,0,3,1,17,pirgu; mõisaproua; concordia; mõis; pekk

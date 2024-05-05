@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,0,0,0,2,2,1,14,psühhiaater; marksism; mäng; normet; dramaturg; ingo; peeter
+0,2,1,0,0,0,2,2,2,14,psühhiaater; marksism; mäng; normet; dramaturg; ingo; peeter
+0,2,1,0,0,0,2,2,2,14,psühhiaater; marksism; mäng; normet; dramaturg; ingo; peeter
+0,2,1,0,0,0,2,2,1,14,psühhiaater; marksism; mäng; normet; dramaturg; ingo; peeter
+0,2,0,0,0,0,2,2,2,14,psühhiaater; marksism; mäng; dramaturg; ingo; peeter
+0,2,0,0,0,0,2,2,1,14,psühhiaater; marksism; mäng; dramaturg; ingo; peeter
+0,1,0,0,0,1,4,2,1,14,fantaasia; marksism; mäng; normet; dramaturg; ingo; peeter
+0,0,0,0,0,0,3,3,1,14,mäng; normet; dramaturg; ingo; peeter
+0,0,0,0,0,1,2,3,1,14,mäng; ingo; dramaturg; fantaasia; peeter
+1,0,0,1,0,1,2,3,1,14,mäng; normet; dramaturg; ingo; peeter
+0,0,0,0,0,1,2,3,1,14,mäng; normet; dramaturg; ingo; peeter

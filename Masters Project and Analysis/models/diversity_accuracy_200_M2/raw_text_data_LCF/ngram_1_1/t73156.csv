@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,5,5,2,3,2,0,2,6,15,ameerika; eric; rakset; pik; milli; b; edetabel; power; singel; one; euroopa
+1,5,5,2,3,2,0,2,6,15,ameerika; eric; rakset; pik; milli; b; edetabel; power; singel; one; euroopa
+1,5,3,1,4,1,0,1,6,15,ameerika; eric; rakset; pik; milli; b; power; singel; one; euroopa
+1,5,2,1,4,3,1,2,6,15,ameerika; eric; rakset; pik; milli; b; power; singel; one; euroopa
+1,4,5,1,5,7,3,3,6,15,vanilli; ameerika; eric; rakset; milli; b; edetabel; power; singel; one; euroopa
+2,4,3,1,5,5,5,3,5,15,vanilli; ameerika; eric; rakset; milli; b; power; singel; one; euroopa
+2,3,4,3,7,5,4,5,5,15,vanilli; ameerika; eric; rakset; milli; b; power; singel; one; euroopa
+2,3,3,3,6,5,4,7,4,15,vanilli; ameerika; eric; milli; b; edetabel; power; singel; one; euroopa
+2,3,3,8,6,4,5,5,4,15,vanilli; ameerika; eric; rakset; milli; b; edetabel; power; singel; one; euroopa
+2,2,4,8,5,5,6,5,4,15,vanilli; ameerika; eric; rakset; milli; pik; b; edetabel; power; singel; one; euroopa
+2,3,4,7,6,5,6,5,5,15,vanilli; ameerika; eric; rakset; milli; pik; b; power; singel; one; euroopa

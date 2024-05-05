@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,0,0,0,0,0,1,4,1,13,mõrane; argus; alver; peegel; kurat; bett
+4,0,0,0,0,0,1,4,1,13,mõrane; argus; alver; peegel; kurat; bett
+4,0,0,0,0,0,1,4,1,13,mõrane; argus; alver; peegel; kurat; bett
+4,0,0,0,0,0,1,4,1,13,mõrane; argus; alver; peegel; kurat; bett
+4,0,0,0,0,0,1,4,1,13,mõrane; argus; alver; peegel; kurat; bett
+4,0,2,0,0,0,1,4,1,13,laps; mõrane; argus; alver; arseenik; peegel; kurat; bett
+2,0,2,0,0,0,2,4,1,13,laps; mõrane; argus; alver; arseenik; peegel; kurat; bett
+3,0,2,1,0,0,2,4,1,13,laps; mõrane; argus; alver; arseenik; peegel; kurat; bett
+2,0,2,0,0,4,2,4,1,13,laps; mõrane; kurat; alver; arseenik; peegel; bett; rätsep
+2,0,1,2,0,5,1,3,1,13,laps; mõrane; alver; arseenik; peegel; bett; rätsep
+2,0,4,0,0,3,0,2,1,13,arseenik; laps; mõrane; peegel; bett; alver

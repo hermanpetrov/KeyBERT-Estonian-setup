@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,5,2,2,2,2,1,2,12,ressurss; nappus; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
+1,2,4,2,2,1,2,1,2,12,ressurss; nappus; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
+1,2,4,2,2,1,2,1,2,12,ressurss; nappus; ühiskond; nälg; ökoloogiline; konkurents; sõda
+1,2,3,2,2,1,2,1,2,12,ressurss; nappus; ühiskond; nälg; ökoloogiline; konkurents; sõda
+1,2,2,2,2,1,0,1,2,12,ressurss; nappus; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
+2,2,4,2,3,3,0,1,2,12,ressurss; nappus; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
+1,2,2,1,3,1,2,2,2,12,ressurss; ühiskond; nälg; ökoloogiline; nappus; konkurents; sõda; arheoloog
+2,2,2,3,3,2,2,3,2,12,ressurss; nappus; arheoloog; ühiskond; ökoloogiline; konkurents; sõda
+1,2,1,1,3,3,3,4,1,12,ressurss; nappus; arheoloog; ühiskond; ökoloogiline; konkurents
+1,1,2,2,3,3,4,2,2,12,ressurss; nappus; arheoloog; ökoloogiline; konkurents; sõda
+2,1,2,2,3,3,3,2,1,12,ressurss; ökoloogiline; nappus; konkurents; arheoloog

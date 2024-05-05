@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+9,2,5,0,3,7,4,6,1,14,ani; paat; lava; näitleja; salulaht; elmar; nikerdamine; endel; vanemuine
+9,2,5,2,3,7,4,6,1,14,ani; paat; lava; näitleja; salulaht; elmar; nikerdamine; endel; vanemuine
+9,2,4,2,4,8,4,6,1,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; nikerdamine; endel; vanemuine
+8,2,4,2,4,8,5,6,2,14,ani; paat; lava; näitleja; hirm; salulaht; elmar; nikerdamine; endel; vanemuine
+8,3,4,2,4,7,6,6,2,14,ani; paat; lava; näitleja; hirm; salulaht; elmar; nikerdamine; endel; vanemuine
+3,3,4,2,5,6,6,7,3,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; endel; vanemuine
+2,4,4,5,6,5,6,6,3,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; endel; vanemuine
+3,2,3,6,6,4,4,5,3,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; endel; vanemuine
+2,4,4,5,7,5,6,5,3,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; nikerdamine; endel; vanemuine
+2,6,4,5,7,4,4,5,4,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; nikerdamine; endel; vanemuine
+2,5,3,6,7,4,3,5,4,14,ani; paat; lava; näitleja; salulaht; hirm; elmar; endel; vanemuine

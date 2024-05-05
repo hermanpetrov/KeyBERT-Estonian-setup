@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,1,1,1,0,1,1,12,sõda; ressursside; nälg; rahvaarv
+1,1,0,1,1,1,0,1,1,12,sõda; ressursside; nälg; rahvaarv
+1,1,0,1,1,1,0,1,1,12,sõda; ressursside; nälg; rahvaarv
+1,0,0,1,1,1,0,1,1,12,sõda; ressursside; nälg; rahvaarv
+1,1,0,1,1,1,0,1,1,12,nälg; ökoloogiline; rahvaarv; sõda; ressursside
+0,1,0,1,1,1,0,0,1,12,nälg; ökoloogiline; rahvaarv; sõda; ressursside
+1,0,0,0,1,1,1,0,1,12,sõda; ressursside; rahvaarv
+0,0,0,0,1,1,2,0,1,12,sõda; ressursside; rahvaarv
+1,0,0,1,1,0,1,0,1,12,sõda; ressursside; rahvaarv
+1,1,1,0,0,0,1,0,1,12,sõda; ökoloogiline; rahvaarv
+1,0,0,1,0,0,0,1,1,12,sõda; ressursside; rahvaarv

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,2,1,0,2,1,2,0,15,anders; poeetiline; kuraator; kunstihoone; tartu
+2,0,2,1,0,2,1,2,0,15,anders; poeetiline; kuraator; kunstihoone; tartu
+2,0,2,1,0,2,1,2,0,15,anders; poeetiline; kuraator; kunstihoone; tartu
+2,0,1,1,0,2,1,2,0,15,anders; poeetiline; kuraator; kunstihoone; tartu
+2,0,1,1,0,1,1,2,0,15,anders; poeetiline; kuraator; kunstihoone; tartu
+3,0,0,1,0,0,0,0,0,15,kunstihoone; poeetiline; tartu
+2,0,0,0,1,0,1,1,0,15,poeetiline; kuraator; marco; kunstihoone; tartu
+2,0,0,0,1,0,2,0,0,15,anders; poeetiline; kuraator; marco; kunstihoone
+0,0,1,0,0,0,1,1,0,15,marco; tartu; hanno
+0,0,0,0,0,0,1,1,0,15,anders; tartu
+0,1,1,1,0,0,2,0,0,15,anders; laimre; hanno; marco

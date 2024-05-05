@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,0,1,1,2,3,2,1,14,psühhiaater; vaimuelu; peeter; mäng; ingo; reaalsus; dramaturg; fantaasia
+2,1,0,1,1,2,3,2,1,14,psühhiaater; vaimuelu; peeter; mäng; ingo; reaalsus; dramaturg; fantaasia
+2,1,0,1,1,2,3,2,1,14,psühhiaater; vaimuelu; peeter; mäng; ingo; reaalsus; dramaturg; fantaasia
+2,1,0,1,1,2,3,3,1,14,psühhiaater; vaimuelu; tulviste; peeter; mäng; ingo; reaalsus; dramaturg; fantaasia
+2,2,0,1,1,3,2,2,1,14,psühhiaater; vaimuelu; peeter; mäng; ingo; reaalsus; fantaasia
+3,2,1,1,1,4,2,3,1,14,psühhiaater; vaimuelu; tulviste; pulmad; peeter; mäng; normet; ingo; reaalsus; dramaturg; fantaasia
+0,2,0,0,1,3,3,3,1,14,psühhiaater; tulviste; peeter; mäng; reaalsus; dramaturg; ingo
+0,2,0,1,1,3,3,4,1,14,psühhiaater; fantaasia; tulviste; peeter; mäng; reaalsus; dramaturg; ingo
+0,1,0,1,1,3,4,5,1,14,psühhiaater; tulviste; peeter; mäng; normet; ingo; reaalsus; fantaasia
+0,0,0,1,1,3,2,4,1,14,psühhiaater; tulviste; ingo; reaalsus; fantaasia; peeter
+0,1,2,0,0,4,1,4,1,14,psühhiaater; tulviste; peeter; ingo; normet; reaalsus; fantaasia

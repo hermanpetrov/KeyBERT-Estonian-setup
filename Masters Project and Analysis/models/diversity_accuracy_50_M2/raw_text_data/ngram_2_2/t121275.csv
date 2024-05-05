@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,4,4,0,2,4,2,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
+1,4,4,0,2,4,2,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
+1,4,4,0,2,4,2,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
+1,4,3,0,2,4,2,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
+1,4,4,0,2,4,2,2,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
+1,4,3,0,2,4,1,4,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; saatus
+4,2,3,1,2,3,2,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; saatus
+3,2,3,1,2,3,1,2,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; saatus
+2,1,2,1,2,2,3,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; saatus
+1,0,2,1,2,3,2,2,2,12,vene; looming; helilooja; screabin; sonaat; noorusarmastus
+2,0,0,1,2,3,4,1,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; saatus

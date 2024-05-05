@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,6,6,4,3,7,7,9,8,14,august; johannes; raud; keel; tuglas; hellitus; friedebert; hermann; karl; küsimus; salonen; armas
+5,6,6,4,3,7,10,9,8,14,august; johannes; keel; raud; tuglas; hellitus; friedebert; hermann; karl; küsimus; salonen; armas
+5,7,6,4,4,7,10,10,8,14,august; johannes; keel; raud; tuglas; hellitus; friedebert; hermann; karl; küsimus; salonen; armas
+7,7,6,5,4,9,12,12,8,14,august; johannes; keel; raud; tuglas; hellitus; friedebert; hermann; karl; küsimus; salonen; armas
+8,7,8,8,4,9,12,10,8,14,august; johannes; raud; keel; tuglas; hellitus; friedebert; hermann; karl; küsimus; salonen; armas
+8,7,11,8,6,8,11,10,8,14,august; johannes; raud; keel; tuglas; hellitus; hermann; friedebert; karl; küsimus; salonen; armas
+8,6,12,10,7,9,11,11,8,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; salonen; armas
+7,6,11,11,9,10,9,12,10,14,august; johannes; keel; raud; tuglas; hellitus; hermann; karl; friedebert; küsimus; salonen; armas
+5,8,12,12,10,8,10,12,10,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; salonen; armas
+6,5,11,12,10,8,6,9,10,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; salonen; armas
+4,5,11,12,10,8,6,11,9,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; salonen; armas

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,2,1,0,1,1,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+2,0,1,0,0,2,2,2,1,11,sirje; muusika; õpetaja; medell; kuressaare
+1,0,0,0,0,2,1,2,1,11,sirje; õpetaja; medell; kuressaare
+0,0,0,1,0,2,1,3,1,11,sirje; laulma; õpetaja; medell
+0,0,1,0,0,2,0,2,1,11,sirje; õpetaja; medell; kuressaare
+0,0,1,0,0,2,1,3,1,11,sirje; laulma; õpetaja; medell; kuressaare

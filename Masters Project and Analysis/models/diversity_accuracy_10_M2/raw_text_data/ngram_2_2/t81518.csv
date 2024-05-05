@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,1,0,2,0,0,1,11,kontsert; interpreet; gerretz; mozart
+1,0,1,1,0,2,0,0,1,11,kontsert; interpreet; gerretz; mozart
+1,0,1,1,0,2,0,0,1,11,kontsert; interpreet; gerretz; mozart
+1,0,1,1,0,2,0,0,1,11,kontsert; interpreet; gerretz; mozart
+1,0,1,1,0,2,0,0,1,11,kontsert; interpreet; gerretz; mozart
+1,1,0,1,0,2,0,0,0,11,gerretz; interpreet; solist; mozart
+2,0,0,1,0,4,0,1,1,11,pedagoog; kontsert; interpreet; gerretz; solist
+0,1,0,1,0,2,0,1,1,11,jüri; kontsert; interpreet; gerretz
+0,0,1,1,0,2,0,2,1,11,jüri; kontsert; interpreet; gerretz
+0,0,2,0,0,2,0,1,1,11,solist; interpreet; gerretz
+1,0,2,0,0,4,1,0,1,11,pedagoog; interpreet; gerretz; solist; dirigent

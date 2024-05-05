@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,1,5,0,3,2,2,2,15,hellar; tõnis; narkootikum; palts; bush; keeld
+5,2,2,5,0,3,2,3,2,15,hellar; tõnis; narkootikum; palts; bush; keeld
+5,2,3,5,0,3,2,3,2,15,viljastamine; hellar; tõnis; narkootikum; palts; bush; keeld
+5,2,3,6,0,3,2,4,2,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+4,2,6,5,0,2,3,4,2,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+5,3,5,4,1,2,2,6,2,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush
+5,4,6,6,1,6,4,6,3,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+4,4,6,5,4,4,6,8,2,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+6,5,5,5,4,4,6,5,2,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+7,5,7,5,4,6,6,5,4,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld
+6,6,5,4,5,7,6,4,4,15,viljastamine; hellar; tõnis; narkootikum; palts; kunstlik; bush; keeld

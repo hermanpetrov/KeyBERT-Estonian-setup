@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,0,0,11,buratino; suusad; ferdinand
+1,1,1,0,0,1,0,1,0,11,buratino; hääl; suusad; ferdinand
+1,1,2,0,0,2,0,1,0,11,suusad; ferdinand; buratino; hääl
+0,1,1,1,0,2,0,0,0,11,buratino; aleksei; suusad; ferdinand
+1,1,1,0,0,2,0,0,0,11,buratino; suusad; ferdinand
+0,1,1,0,0,1,1,0,0,11,buratino; hääl; suusad

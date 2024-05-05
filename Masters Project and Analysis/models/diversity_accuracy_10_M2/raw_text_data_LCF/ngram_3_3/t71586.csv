@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,3,1,1,1,1,1,3,0,14,haari; rothschild; torn; stiil; tehaari; paruness
+0,3,1,1,1,1,1,3,0,14,haari; rothschild; torn; stiil; tehaari; paruness
+0,3,1,1,1,1,1,3,0,14,haari; rothschild; torn; stiil; tehaari; paruness
+0,3,1,1,1,1,1,3,1,14,muuseum; haari; rothschild; torn; stiil; tehaari; paruness
+0,3,0,1,1,1,1,3,1,14,paruness; muuseum; haari; rothschild; stiil; tehaari
+0,3,0,1,1,1,1,3,1,14,paruness; haari; rothschild; stiil; torn; tehaari
+1,1,2,1,1,2,1,3,1,14,paruness; muuseum; loss; haari; rothschild; torn; tehaari
+0,3,2,2,1,2,1,3,1,14,muuseum; haari; rothschild; torn; tehaari; paruness; loss
+0,0,2,1,1,1,1,2,1,14,paruness; muuseum; loss; rothschild; tehaari
+0,0,2,1,2,2,1,1,1,14,paruness; muuseum; loss; rothschild; tehaari
+0,1,1,3,2,2,2,2,1,14,paruness; muuseum; loss; rothschild; tehaari

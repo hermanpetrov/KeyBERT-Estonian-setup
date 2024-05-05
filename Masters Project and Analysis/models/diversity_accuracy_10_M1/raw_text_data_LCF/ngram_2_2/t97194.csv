@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,3,0,0,3,2,3,1,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; eesti; pianiino
+2,2,3,0,0,3,2,3,1,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; eesti; pianiino
+2,2,3,0,0,3,2,3,1,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; eesti; pianiino
+2,2,3,0,0,3,2,3,0,16,muusikamuuseum; estonia; klaver; ja; teatri-; eesti; pianiino
+2,3,3,0,0,3,2,3,0,16,muusikamuuseum; estonia; klaver; ja; teatri-; eesti; pianiino
+2,3,2,0,0,3,2,3,1,16,muusikamuuseum; estonia; klaver; ja; tomson; pianiino; eesti
+1,3,1,2,0,4,3,3,0,16,muusikamuuseum; estonia; ja; teatri-; eesti; klaverimeister
+0,3,1,0,0,2,3,2,0,16,muusikamuuseum; estonia; klaverimeister; ja; tomson; eesti
+1,2,1,1,0,3,2,1,1,16,muusikamuuseum; tsentraliseerimine; estonia; ja; tomson; eesti
+1,3,1,1,0,4,2,3,0,16,muusikamuuseum; estonia; ja; maret; eesti; pianiino; tsentraliseerimine; klaverimeister; klaver
+0,2,0,1,0,3,3,4,0,16,muusikamuuseum; estonia; alo; ja; teatri-; eesti; põldmäe; pianiino

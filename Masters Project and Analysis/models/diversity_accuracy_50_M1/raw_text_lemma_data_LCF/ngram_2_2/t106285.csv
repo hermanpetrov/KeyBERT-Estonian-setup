@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,1,3,1,1,2,3,16,heinrich; pille-riin; koer; hoffmann; prints; jaak
+1,1,2,1,3,1,1,2,3,16,heinrich; pille-riin; koer; hoffmann; prints; jaak
+1,1,2,1,3,1,1,2,3,16,heinrich; pille-riin; koer; hoffmann; prints; jaak
+1,1,4,1,3,1,1,2,3,16,heinrich; pille-riin; koer; hoffmann; prints; jaak
+1,1,4,1,3,1,1,2,3,16,heinrich; pille-riin; koer; hoffmann; prints; jaak
+1,1,4,1,3,1,1,3,3,16,heinrich; pille-riin; piits; koer; hoffmann; prints; jaak
+0,1,4,2,3,3,2,2,3,16,heinrich; pille-riin; piits; koer; purje; hoffmann; prints; jaak
+3,1,4,1,3,2,2,4,3,16,heinrich; pille-riin; purje; koer; hoffmann; prints; hirm; jaak
+4,2,3,3,3,1,2,4,3,16,heinrich; pille-riin; piits; purje; koer; hoffmann; prints; hirm; jaak
+2,1,3,3,2,0,3,5,3,16,heinrich; pille-riin; purje; hoffmann; prints; jaak; hirm
+2,3,3,4,2,2,4,5,4,16,heinrich; pille-riin; piits; purje; hoffmann; prints; jaak; hirm

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,2,1,0,13,tants; tartu; moeetendus
+0,0,0,0,0,0,2,1,0,13,tants; tartu; moeetendus
+0,0,0,0,0,0,2,1,0,13,tants; tartu; moeetendus
+0,0,0,0,0,0,2,1,0,13,tants; tartu; moeetendus
+0,0,0,0,0,0,2,0,0,13,tants; tartu
+0,0,0,0,0,0,2,0,0,13,tants; tartu
+1,0,0,0,0,0,2,1,0,13,tartu; anatoomikum; tants
+1,0,0,1,0,1,0,1,0,13,disainer; tartu; lavastaja; anatoomikum
+0,1,0,1,0,0,0,1,0,13,disainer; tartu; anatoomikum
+0,1,0,0,0,0,2,1,0,13,disainer; tartu; lavastaja; tants
+0,1,0,0,0,0,1,2,0,13,tartu; lavastaja

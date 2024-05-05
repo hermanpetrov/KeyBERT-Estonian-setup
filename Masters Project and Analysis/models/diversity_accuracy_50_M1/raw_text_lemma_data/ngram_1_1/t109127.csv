@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
+0,1,2,0,0,2,1,2,3,17,mart; paul-eerik; luuletaja; eesti; antoloogia; alver
+0,1,2,0,0,2,1,2,3,17,mart; paul-eerik; luuletaja; eesti; antoloogia; alver
+0,1,2,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
+0,1,3,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; muru; antoloogia; alver
+0,1,2,0,0,1,1,1,3,17,paul-eerik; mäger; luuletaja; eesti; muru; antoloogia; alver
+0,1,0,0,0,1,1,2,3,17,paul-eerik; mäger; luuletaja; eesti; antoloogia
+0,1,1,1,0,1,2,2,3,17,paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
+1,1,1,2,0,1,0,1,3,17,karl; suits; paul-eerik; mäger; luuletaja; eesti; antoloogia
+2,2,1,2,0,1,0,1,4,17,karl; mäger; luuletaja; eesti; muru; antoloogia; paul-eerik; suits; bett
+3,1,1,1,1,0,0,1,3,17,gustav; paul-eerik; suits; karl; eesti; muru; antoloogia

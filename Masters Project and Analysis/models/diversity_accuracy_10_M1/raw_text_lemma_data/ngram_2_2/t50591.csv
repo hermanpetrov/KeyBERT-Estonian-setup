@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,1,1,3,2,2,2,1,12,soome; takistus; birgit; võistlus; eesti; ulrich
+4,1,3,0,2,2,2,3,1,12,uusorg; takistus; margo; võistlus; eesti; soome; birgit; ulrich
+3,1,3,3,2,2,2,5,1,12,uusorg; takistus; margo; võistlus; eesti; soome; birgit; ulrich
+2,1,3,2,2,2,1,4,1,12,uusorg; takistus; margo; võistlus; eesti; soome; birgit; ulrich
+2,1,1,2,2,2,1,1,1,12,uusorg; soome; takistus; birgit; võistlus; eesti; ulrich
+3,1,1,1,1,2,1,3,1,12,takistus; võistlus; eesti; soome; birgit; ulrich

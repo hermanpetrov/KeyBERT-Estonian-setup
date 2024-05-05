@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,1,0,0,1,2,3,0,11,tervisesport; maaleht; aasta; olümpiakomitee; põllumees; liikumisharrastus
+3,0,1,0,0,1,2,3,0,11,tervisesport; maaleht; aasta; olümpiakomitee; põllumees; liikumisharrastus
+3,0,1,0,0,1,2,3,0,11,tervisesport; maaleht; aasta; olümpiakomitee; põllumees; liikumisharrastus
+3,0,0,0,0,1,2,3,0,11,tervisesport; maaleht; aasta; olümpiakomitee; põllumees; liikumisharrastus
+3,0,0,0,0,2,2,3,0,11,tervisesport; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
+2,0,1,0,0,1,1,1,0,11,maaelu; tervisesport; maaleht; aasta; olümpiakomitee; põllumees
+1,0,1,0,0,0,3,1,0,11,maaelu; aasta; olümpiakomitee; põllumees
+1,0,0,0,0,0,2,1,0,11,maaelu; aasta; põllumees
+1,0,0,2,0,0,1,1,0,11,tervisesport; aasta; olümpiakomitee
+0,1,0,1,0,0,2,0,0,11,aasta; olümpiakomitee
+0,1,1,1,0,0,1,0,0,11,olümpiakomitee; aasta; lill

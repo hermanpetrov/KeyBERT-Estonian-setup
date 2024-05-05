@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,1,0,1,1,1,1,6,0,19,kanter; mälberg; näitleja; mall; peebo; annely; gerd; laulmine; anu; toimetaja
+5,1,0,1,1,1,1,6,0,19,kanter; mälberg; näitleja; mall; peebo; annely; gerd; laulmine; anu; toimetaja
+5,1,0,1,1,1,1,6,0,19,kanter; mälberg; näitleja; mall; peebo; annely; gerd; laulmine; anu; toimetaja
+5,1,0,1,1,1,1,6,0,19,kanter; mälberg; näitleja; mall; peebo; annely; gerd; laulmine; anu; toimetaja
+6,1,0,1,1,1,1,5,0,19,kanter; mälberg; näitleja; mall; peebo; annely; gerd; laulmine; anu; everaus; toimetaja
+4,2,0,2,0,1,1,7,0,19,kanter; mälberg; näitleja; gerd; annely; peebo; mall; laulmine; anu; toimetaja
+0,0,0,1,1,2,1,6,0,19,arst; mälberg; näitleja; gerd; annely; peebo; mall; laulmine; anu
+0,2,3,2,0,2,2,5,0,19,mälberg; näitleja; mall; annely; peebo; laulmine; anu
+0,1,4,4,0,2,2,4,0,19,lamp; näitleja; orel; mall; annely; peebo; uibo; mälberg; anu
+0,1,2,4,0,1,2,4,0,19,lamp; mälberg; näitleja; mall; peebo; annely; laulmine; anu
+0,1,2,2,0,3,1,1,0,19,andres; mälberg; orel; mall; annely; peebo; laulmine; anu

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,3,2,1,2,4,3,1,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
+1,3,3,2,2,2,3,2,1,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa; piret
+1,3,1,2,2,2,3,1,0,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa
+1,2,1,2,2,2,3,1,0,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa
+1,2,1,2,2,4,3,1,0,17,hermine; mälestus; lavakas; näitleja; kasvatama; pere; lahkumine; isa
+1,2,2,1,3,2,3,2,0,17,hermine; mälestus; lavakas; näitleja; juuksur; pere; lahkumine; isa
+0,1,2,3,3,3,2,1,0,17,hermine; mälestus; lavakas; näitleja; juuksur; pere; lahkumine; isa
+0,1,0,2,1,1,2,0,0,17,juuksur; hermine; pere; isa; näitleja
+0,1,0,1,1,2,2,0,0,17,kasvatama; hermine; lahkumine; näitleja
+0,1,0,1,1,2,2,0,0,17,hermine; näitleja; lahkumine
+1,1,0,1,1,2,1,1,0,17,hermine; lahkumine; lavakas; isa; näitleja

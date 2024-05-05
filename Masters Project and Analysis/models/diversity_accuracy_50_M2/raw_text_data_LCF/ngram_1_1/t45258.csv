@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,1,0,0,3,2,3,1,19,usa; salme; pärimusmuusika; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+4,2,1,0,0,3,2,3,1,19,usa; salme; pärimusmuusika; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+4,2,1,0,0,3,2,3,1,19,usa; salme; pärimusmuusika; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+4,2,1,0,0,2,2,3,1,19,usa; salme; pärimusmuusika; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+4,2,1,0,0,3,3,3,1,19,usa; salme; pärimusmuusika; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+4,2,2,0,0,4,3,3,1,19,usa; salme; pärimusmuusika; mesila; bulgaaria; kosmosesüstik; liit; muinaslaev; kreeka; euroopa
+1,2,1,0,0,3,3,3,1,19,usa; salme; liit; bulgaaria; kreeka; euroopa
+0,1,2,0,0,2,3,2,1,19,usa; salme; liit; mesila; bulgaaria; kreeka
+0,0,2,1,0,3,3,3,0,19,usa; mesila; bulgaaria; liit; kreeka; euroopa
+0,0,3,1,0,3,2,2,1,19,usa; muinaslaev; mesila; bulgaaria; kreeka; euroopa
+0,0,3,1,0,2,4,2,0,19,usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf

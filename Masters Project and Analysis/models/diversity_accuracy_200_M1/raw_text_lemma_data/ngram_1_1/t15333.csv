@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,0,0,0,0,1,14,purjetamine; kirjandus; hiidlane; palmik
+2,1,2,0,0,0,0,0,1,14,kirjandus; hiidlane; palmik; purjetamine
+2,1,2,0,0,0,0,0,1,14,kirjandus; hiidlane; palmik; purjetamine
+2,0,1,0,0,0,0,0,1,14,purjetamine; kirjandus; hiidlane; palmik
+1,0,2,0,1,0,1,0,0,14,purjetamine; hiidlane; tants; ain
+0,0,0,0,1,0,0,0,0,14,ain
+1,0,0,1,0,1,1,0,0,14,palmik; tants; purjetamine
+0,1,1,1,0,1,1,0,1,14,purjetamine; kirjandus; palmik
+0,1,1,0,2,0,0,0,2,14,kirjandus; purjetamine; tants
+0,1,1,0,1,0,0,0,2,14,kirjandus; palmik; tants; purjetamine
+0,1,2,0,2,0,0,0,0,14,kirjandus; ain; tants; purjetamine; kalmus

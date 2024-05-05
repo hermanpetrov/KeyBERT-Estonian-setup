@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,4,3,1,1,2,5,3,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+5,4,5,3,1,1,2,5,3,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+4,4,6,4,1,2,3,5,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+4,3,6,4,1,2,3,5,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+5,4,6,3,1,2,5,6,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+6,4,5,3,2,5,6,7,4,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+7,4,7,5,2,5,3,7,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
+6,5,7,5,4,6,6,6,5,14,evolutsioon; akadeemia; fašism; informatiivne; gustav; naan; teadus; plahvatus; sõda; lahing
+6,5,6,6,6,8,6,8,4,14,evolutsioon; akadeemia; fašism; informatiivne; gustav; naan; teadus; plahvatus; sõda; lahing
+3,5,7,6,5,6,5,7,5,14,evolutsioon; akadeemia; fašism; informatiivne; gustav; naan; teadus; plahvatus; sõda; lahing
+4,6,4,7,7,7,7,7,7,14,evolutsioon; akadeemia; fašism; informatiivne; gustav; naan; teadus; plahvatus; sõda; lahing

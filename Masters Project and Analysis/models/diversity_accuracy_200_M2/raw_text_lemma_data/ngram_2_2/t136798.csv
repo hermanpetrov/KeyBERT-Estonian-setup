@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,7,5,8,12,6,6,5,11,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+7,7,5,8,12,6,8,7,11,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+7,6,5,8,12,7,8,7,12,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+7,6,5,8,12,9,9,7,12,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+8,6,7,9,11,10,9,7,12,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+9,7,9,8,9,10,9,7,10,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+9,8,12,9,11,10,12,8,9,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+9,8,11,13,10,12,9,12,9,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+8,7,11,10,9,11,12,10,9,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; lahkumine; balti; trump; president
+8,10,13,10,10,12,12,12,10,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president
+8,9,13,12,10,13,11,12,7,19,washington; programm; luik; jüri; kool; amet; deckarty; edendus; tervis; balti; lahkumine; trump; president

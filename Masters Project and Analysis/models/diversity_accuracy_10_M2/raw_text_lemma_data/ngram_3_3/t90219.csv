@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,2,1,0,2,1,1,1,13,kirik; naine; luterlik
+1,2,2,1,0,2,1,1,1,13,kirik; naine; luterlik
+1,2,2,1,0,2,1,1,1,13,kirik; naine; luterlik
+1,2,2,1,0,2,1,1,1,13,kirik; naine; luterlik
+1,2,2,1,0,2,1,1,1,13,kirik; naine; luterlik
+2,1,2,1,0,2,1,0,1,13,kirik; naine; urmas; luterlik
+0,1,2,2,0,2,1,1,1,13,kirik; urmas; luterlik
+2,1,1,0,0,3,2,2,1,13,kirik; poliitika; naine; viilm; luterlik
+3,1,1,1,0,1,1,2,3,13,konservatiivsus; kirik; naine; urmas; ordineerimine
+1,1,2,0,0,1,2,2,3,13,konservatiivsus; kirik; poliitika; naine; ordineerimine; luterlik
+1,1,1,0,0,1,3,1,3,13,konservatiivsus; kirik; poliitika; naine; ordineerimine; luterlik

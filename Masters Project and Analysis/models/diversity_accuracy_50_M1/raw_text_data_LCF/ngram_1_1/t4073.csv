@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,2,2,1,2,16,inflatsioon; suurbritannia; eesti
+0,0,0,0,0,2,2,1,2,16,inflatsioon; suurbritannia; eesti
+0,0,0,0,0,2,2,1,2,16,inflatsioon; suurbritannia; eesti
+0,0,1,0,0,2,2,1,2,16,itaalia; inflatsioon; suurbritannia; eesti
+0,0,1,0,0,2,1,0,2,16,suurbritannia; inflatsioon; vare; eesti
+0,1,1,0,0,1,0,0,2,16,suurbritannia; venemaa; vare; eesti
+0,2,3,0,0,1,0,0,2,16,suurbritannia; itaalia; venemaa; vare; josing; eesti; inflatsioon
+0,0,1,1,0,1,1,0,2,16,silvio; berlusconi; eesti; suurbritannia; josing
+0,0,2,3,0,1,1,0,2,16,berlusconi; inflatsioon; vare; josing; eesti; silvio; suurbritannia
+0,1,2,2,0,1,3,1,2,16,silvio; berlusconi; suurbritannia; inflatsioon; marje; josing; eesti
+0,0,1,1,1,1,2,0,2,16,silvio; berlusconi; suurbritannia; inflatsioon; marje; eesti

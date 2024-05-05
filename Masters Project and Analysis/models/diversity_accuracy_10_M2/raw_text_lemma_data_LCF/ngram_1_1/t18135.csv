@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,0,1,2,0,0,16,estonia; teater; ooper
+0,1,2,0,0,1,2,0,0,16,estonia; teater; ooper
+0,1,2,0,0,1,2,0,0,16,estonia; teater; ooper
+0,1,2,0,0,1,2,0,0,16,estonia; teater; ooper
+0,1,2,0,0,1,2,0,1,16,estonia; teater; ooper
+0,1,2,0,0,0,1,0,0,16,teater; ooper
+0,1,2,0,0,0,1,0,0,16,teater; ooper; estonia
+0,1,2,0,0,0,1,1,1,16,eino; wagner; estonia; teater; ooper
+0,0,3,0,0,0,1,1,1,16,eino; wagner; estonia; tamberg; teater; ooper
+0,0,4,0,0,0,2,1,0,16,ivo; eino; estonia; tamberg; teater; ooper
+0,0,4,0,0,0,1,0,0,16,ivo; tamberg; teater; ooper

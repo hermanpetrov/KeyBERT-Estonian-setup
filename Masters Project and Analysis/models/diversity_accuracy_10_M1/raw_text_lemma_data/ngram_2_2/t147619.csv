@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,0,0,0,1,0,2,0,12,laps; kreem; bett; alver
+2,1,0,0,0,1,0,2,0,12,laps; kreem; bett; alver
+2,1,0,0,0,1,0,2,0,12,laps; kreem; bett; alver
+2,1,0,0,0,1,0,2,0,12,laps; kreem; bett; alver
+2,1,0,0,0,1,0,2,0,12,laps; kreem; bett; alver
+2,1,2,0,0,1,0,2,0,12,laps; kreem; bett; alver
+0,1,2,0,0,1,2,2,0,12,laps; pärtel; kreem; rätsep; alver
+0,1,1,0,0,1,1,2,0,12,laps; kreem; rätsep; alver
+0,1,1,0,0,1,0,2,0,12,laps; kreem; alver
+0,1,1,0,0,1,0,2,0,12,laps; kreem; alver
+1,0,1,0,0,2,0,2,0,12,arseenik; kreem; sass; alver

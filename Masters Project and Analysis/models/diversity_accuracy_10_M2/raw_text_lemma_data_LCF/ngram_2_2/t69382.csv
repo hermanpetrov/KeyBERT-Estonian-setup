@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,2,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,2,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,2,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,2,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,3,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,0,2,0,0,1,4,1,11,muusika; õpetaja; karjäär; medell; tallinn; esinema; laulma
+1,2,1,1,0,2,2,4,1,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; esinema; laulma
+0,2,0,0,0,1,1,3,1,11,sirje; tallinn; medell; õpetaja; karjäär; laulma
+2,1,0,1,0,1,0,2,1,11,sirje; tallinn; perekond; medell; ansambel; õpetaja; laulma
+1,1,0,0,0,1,0,3,1,11,sirje; tallinn; medell; õpetaja; laulma
+1,2,0,2,0,1,0,3,1,11,sirje; tallinn; medell; muusika; õpetaja; laulma

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,1,1,0,0,0,11,alfa; alam-pedja
+1,1,1,0,1,1,0,0,0,11,alfa; alam-pedja
+1,1,1,0,1,1,0,0,0,11,alfa; alam-pedja
+1,1,1,0,1,1,0,0,0,11,alfa; alam-pedja
+1,0,1,0,1,1,0,0,0,11,alfa; alam-pedja
+1,0,1,0,1,0,0,0,0,11,alfa; alam-pedja
+1,0,1,1,1,0,1,0,0,11,jahimees; alfa; alam-pedja
+1,0,2,0,1,1,1,1,0,11,alfa; kutsikas; hunt; alam-pedja
+1,0,1,0,1,1,1,1,0,11,hunt; alfa; alam-pedja
+0,0,1,0,1,1,0,1,0,11,hunt; alfa; alam-pedja
+0,0,2,0,1,0,1,1,0,11,alfa; kutsikas; hunt; alam-pedja

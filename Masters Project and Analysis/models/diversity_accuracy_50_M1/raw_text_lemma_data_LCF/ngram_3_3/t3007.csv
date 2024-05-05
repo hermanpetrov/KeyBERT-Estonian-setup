@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,2,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,3,2,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,3,2,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,3,1,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,3,2,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,3,2,3,0,3,2,5,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
+2,2,1,3,0,5,3,5,1,15,edgar; riina; tõnis; narkootikum; eentalu; välis-eesti; palts
+1,3,3,2,0,5,3,5,1,15,edgar; riina; narkootikum; tõnis; eentalu; välis-eesti; palts
+0,4,3,2,0,3,6,5,1,15,viljatus; edgar; riina; tõnis; eentalu; välis-eesti; palts
+0,4,2,3,0,4,6,4,1,15,edgar; riina; narkootikum; tõnis; eentalu; välis-eesti; palts
+2,6,4,3,0,3,3,5,1,15,viljatus; ravi; edgar; riina; tõnis; eentalu; välis-eesti; palts

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,1,2,1,1,4,1,12,nato; väin; kaitseliit; muhu; sõda; lahing
+2,2,2,1,2,1,1,4,1,12,nato; väin; kaitseliit; muhu; sõda; lahing
+2,2,2,1,2,1,1,4,1,12,nato; väin; kaitseliit; muhu; sõda; lahing
+2,2,2,1,2,1,1,4,1,12,nato; väin; kaitseliit; muhu; sõda; lahing
+2,2,3,1,2,1,1,4,3,12,nato; väin; kaitseliit; muhu; sõda; lahing
+1,2,2,1,2,1,1,4,3,12,nato; väin; kaitseliit; muhu; sõda; lahing
+1,2,2,1,2,1,2,4,3,12,nato; väin; kaitseliit; muhu; sõda; lahing
+1,2,2,2,1,0,1,4,3,12,kaitseliit; nato; sõda; lahing; muhu
+1,2,2,2,1,0,1,5,3,12,nato; kaitseliit; muhu; sõda; lahing
+2,2,3,2,2,0,1,5,3,12,nato; kaitseliit; muhu; tehnika; sõda; lahing
+1,0,2,2,3,0,1,5,4,12,nato; väin; kaitseliit; muhu; sõda; lahing

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,5,3,5,2,4,4,4,5,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+8,5,4,5,2,5,4,4,5,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+8,5,4,6,2,5,4,7,6,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+8,5,5,6,2,6,4,8,6,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+7,5,6,6,2,7,7,8,6,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+6,4,8,6,2,8,6,8,6,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
+4,8,8,9,5,9,9,9,5,15,liibanon; tootmisliin; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+4,7,7,9,7,8,9,8,5,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+5,6,7,6,6,7,7,7,6,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+4,7,8,6,8,5,8,9,5,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro
+5,7,8,5,7,6,6,9,5,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; kai; viktor; üro

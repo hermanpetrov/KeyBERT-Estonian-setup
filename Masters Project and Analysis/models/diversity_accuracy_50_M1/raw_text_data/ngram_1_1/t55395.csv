@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,1,1,2,1,17,susi; mõisaproua; majapidajanna; ruth-kaja; mõis; pekk
+1,0,1,0,0,1,1,2,1,17,susi; mõisaproua; majapidajanna; ruth-kaja; mõis; pekk
+1,0,1,0,0,1,1,2,2,17,susi; mõisaproua; majapidajanna; ruth-kaja; ülikool; mõis; pekk
+1,0,2,0,0,1,1,2,2,17,norra; susi; mõisaproua; ruth-kaja; majapidajanna; ülikool; mõis; pekk
+1,0,2,0,0,1,1,2,2,17,norra; susi; mõisaproua; ruth-kaja; majapidajanna; ülikool; mõis; pekk
+1,0,1,0,0,0,1,2,2,17,norra; susi; mõisaproua; majapidajanna; ruth-kaja; ülikool
+2,0,0,0,0,0,2,1,2,17,susi; majapidajanna; ruth-kaja; ülikool; concordia
+3,1,0,0,0,0,4,1,2,17,norra; susi; psühholoog; ülikool; ruth-kaja; majapidajanna; concordia; mõis
+2,1,0,1,0,0,3,0,2,17,norra; susi; psühholoog; ülikool; ruth-kaja; majapidajanna; concordia; mõis
+2,1,0,0,0,0,2,0,2,17,norra; susi; psühholoog; ruth-kaja; ülikool; concordia; mõis
+2,0,2,0,0,1,2,0,2,17,norra; susi; mõisaproua; psühholoog; ruth-kaja; ülikool; concordia

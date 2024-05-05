@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,2,0,4,4,1,3,13,kunst; rumessen; kontsert; muusika; jõud; sajand; vene; sonaat
+1,1,2,2,0,4,4,1,3,13,kunst; rumessen; kontsert; muusika; jõud; sajand; vene; sonaat
+1,1,2,2,0,4,4,1,3,13,kunst; rumessen; kontsert; muusika; jõud; sajand; vene; sonaat
+1,1,2,2,0,4,4,1,3,13,kunst; rumessen; kontsert; muusika; jõud; tegutsemine; sajand; vene; sonaat
+1,1,0,2,0,3,3,1,3,13,kunst; rumessen; kontsert; muusika; jõud; sajand; vene; sonaat
+1,1,1,2,0,2,2,1,3,13,kunst; rumessen; kontsert; muusika; jõud; sajand; vene; sonaat
+1,1,1,2,0,0,1,0,3,13,vene; kunst; rumessen; jõud; muusika; sonaat
+0,1,0,2,0,1,1,2,3,13,vene; kunst; rumessen; kontsert; muusika; jõud; sonaat
+0,0,0,2,0,1,1,2,4,13,vene; kunst; rumessen; kontsert; jõud; muusika; sonaat; tunnetamine
+0,0,1,2,0,1,1,2,4,13,kunst; rumessen; kontsert; jõud; muusika; vene; sonaat; tunnetamine
+0,0,1,2,0,1,1,2,3,13,vene; kunst; rumessen; jõud; muusika; sonaat; tunnetamine

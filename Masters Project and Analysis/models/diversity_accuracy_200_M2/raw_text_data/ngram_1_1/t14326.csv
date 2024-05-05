@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,7,0,1,5,6,3,1,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; türgi; orhan; euroopa
+2,3,7,0,2,6,5,4,1,13,islamimaailm; pamuk; kirjanik; preemia; nobeli; istanbul; türgi; orhan; euroopa
+2,3,4,0,2,5,6,4,2,13,islamimaailm; kirjanik; preemia; nobeli; istanbul; türgi; orhan; euroopa
+1,3,3,0,2,5,4,3,2,13,islamimaailm; kirjanik; nobeli; preemia; istanbul; türgi; orhan
+1,1,3,0,2,4,4,2,2,13,islamimaailm; nobeli; preemia; istanbul; türgi; orhan
+1,2,4,0,2,5,4,3,2,13,islamimaailm; pamuk; nobeli; preemia; istanbul; türgi; orhan; lumi; euroopa
+1,0,4,2,2,5,3,3,2,13,islamimaailm; pamuk; nobeli; preemia; istanbul; orhan; türgi; lumi
+1,0,4,4,2,4,2,3,1,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; orhan; türgi; lumi; euroopa
+1,2,3,3,2,4,1,4,1,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; orhan; türgi; lumi; euroopa
+1,2,4,3,3,4,2,5,0,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; orhan; türgi; lumi; euroopa
+1,2,3,2,2,4,1,4,0,13,pamuk; kirjanik; preemia; nobeli; istanbul; orhan; türgi; lumi

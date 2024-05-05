@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,0,1,1,0,12,klubikultuur
+1,0,1,0,0,0,1,1,0,12,klubikultuur
+1,0,1,0,0,0,1,1,0,12,klubikultuur
+1,0,1,0,0,0,1,1,0,12,klubikultuur
+1,0,1,0,0,0,1,1,0,12,elektrooniline; klubikultuur
+1,0,1,0,0,0,1,1,0,12,klubikultuur; sildvee
+1,0,2,0,0,0,0,1,0,12,elektrooniline; sotsioloog; klubikultuur; sildvee
+0,0,1,0,0,0,1,1,0,12,sotsioloog; sildvee
+0,0,1,0,0,1,2,0,0,12,massikultuur; sotsioloog; sildvee
+0,0,2,0,0,1,0,1,0,12,elektrooniline; sotsioloog
+0,0,2,0,0,1,1,1,0,12,elektrooniline; sotsioloog; sildvee

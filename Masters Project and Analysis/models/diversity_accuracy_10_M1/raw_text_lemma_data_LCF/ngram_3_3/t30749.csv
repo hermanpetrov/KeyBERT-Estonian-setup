@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,2,1,2,0,0,0,1,1,12,mägi; madeira; banaan
+1,1,0,1,0,0,0,1,1,12,kalju; madeira
+0,1,1,0,0,0,0,2,1,12,portugal; madeira
+0,1,3,2,0,0,1,1,1,12,mägi; kalju; portugal; madeira; bassein
+1,2,0,1,0,0,0,1,1,12,mägi; portugal; madeira; bassein
+1,1,0,2,0,0,0,1,1,12,bassein; portugal; madeira

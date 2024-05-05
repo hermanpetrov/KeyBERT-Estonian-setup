@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,0,0,0,1,1,0,0,16,rüütel; arnold; poliitika; voldemar
+3,0,0,0,0,1,1,0,0,16,rüütel; arnold; poliitika; voldemar
+3,0,0,0,0,1,1,0,0,16,rüütel; arnold; poliitika; voldemar
+3,0,0,0,0,1,1,0,0,16,rüütel; arnold; poliitika; voldemar
+3,0,0,0,0,1,1,0,0,16,rüütel; arnold; poliitika; voldemar
+3,0,0,0,0,0,0,0,0,16,rüütel; voldemar; arnold
+0,0,0,0,0,0,1,0,0,16,rahvaliit
+0,1,0,0,0,0,1,0,0,16,poliitika; partei
+0,1,1,1,0,1,0,0,0,16,korv; voldemar; strandberg; poliitika
+0,1,0,0,0,1,2,0,0,16,voldemar; neeme; poliitika; partei
+0,0,0,0,0,0,1,0,0,16,partei

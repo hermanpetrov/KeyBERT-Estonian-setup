@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,5,5,4,4,4,2,2,3,16,henry; šotimaa; esimene; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+1,4,2,4,4,4,2,2,3,16,henry; šotimaa; esimene; mereriik; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+1,4,3,4,4,4,3,2,4,16,henry; šotimaa; esimene; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+2,4,3,4,4,6,2,2,4,16,henry; šotimaa; esimene; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+2,3,3,4,4,4,3,2,4,16,henry; šotimaa; esimene; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+1,4,3,4,6,2,3,2,4,16,henry; šotimaa; esimene; mereriik; robert; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+0,4,5,4,6,5,4,2,5,16,henry; šotimaa; esimene; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+0,2,4,4,6,4,3,1,4,16,henry; šotimaa; esimene; mereriik; robert; loss; mägismaa; bob; kolmas; elizabeth; dylan; sõda; edward
+0,3,2,4,7,5,2,2,4,16,henry; šotimaa; mereriik; robert; edinburgh; loss; elizabeth; mägismaa; bob; kolmas; dylan; edward
+1,2,2,4,5,4,2,4,4,16,henry; šotimaa; mereriik; robert; edinburgh; loss; elizabeth; mägismaa; bob; kolmas; dylan; edward
+1,2,3,5,5,5,1,3,3,16,henry; šotimaa; mereriik; robert; edinburgh; loss; mägismaa; bob; kolmas; elizabeth; dylan; edward

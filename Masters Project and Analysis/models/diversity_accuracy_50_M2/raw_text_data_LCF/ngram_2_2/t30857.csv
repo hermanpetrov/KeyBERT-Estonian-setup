@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,0,1,2,0,1,2,0,15,psühhiaater; separaat; unt; vaino; nõukogude; identiteet; dramaturg; vahing
+2,3,0,1,2,0,1,2,0,15,psühhiaater; separaat; unt; vaino; nõukogude; identiteet; dramaturg; vahing
+2,3,0,1,2,0,1,2,0,15,psühhiaater; separaat; unt; vaino; nõukogude; identiteet; dramaturg; vahing
+2,3,1,1,2,0,1,2,0,15,psühhiaater; separaat; unt; vaino; nõukogude; identiteet; dramaturg; vahing
+2,4,1,1,2,0,0,2,0,15,psühhiaater; separaat; unt; vaino; nõukogude; šbiil; identiteet; vahing
+2,2,1,1,2,3,3,2,0,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; identiteet; dramaturg; vahing
+0,2,1,1,2,3,1,1,0,15,psühhiaater; separaat; unt; vaino; luiga; šbiil; mati; identiteet; vahing
+0,3,2,2,3,3,1,1,0,15,psühhiaater; separaat; unt; vaino; luiga; šbiil; mati; identiteet; vahing
+1,2,2,1,2,1,1,1,1,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; mati; identiteet; vahing
+1,4,0,1,2,2,1,2,1,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; mati; vahing; juhan
+0,1,0,1,1,0,1,2,1,15,separaat; psühhiaater; nõukogude; unt; vahing

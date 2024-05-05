@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,4,4,6,2,3,5,5,4,11,rase; rusikas; ants; paavel; signe; apaatsus; daniel
+5,4,4,6,2,3,5,5,4,11,rase; rusikas; ants; paavel; signe; apaatsus; daniel
+5,4,4,7,2,4,6,5,4,11,rase; rusikas; ants; paavel; karjuma; signe; apaatsus; daniel
+5,4,4,7,2,5,6,5,5,11,rase; rusikas; ants; paavel; karjuma; signe; apaatsus; daniel
+5,4,3,7,4,7,7,6,5,11,rase; rusikas; ants; paavel; karjuma; signe; palat; apaatsus; daniel
+7,6,4,4,5,8,7,6,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
+8,7,4,5,4,6,6,6,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
+5,5,6,6,5,6,5,6,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
+6,5,4,5,6,6,6,7,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
+5,6,5,5,5,7,5,6,5,11,rase; rusikas; ants; karjuma; paavel; signe; palat; daniel
+5,6,6,5,6,6,5,6,5,11,rase; rusikas; ants; karjuma; paavel; signe; palat; daniel

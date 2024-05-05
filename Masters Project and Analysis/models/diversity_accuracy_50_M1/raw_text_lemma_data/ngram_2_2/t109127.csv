@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,3,1,0,0,2,2,3,5,17,karl; luuletaja; eesti; antoloogia; alver; paul-eerik; bett; rummo
+7,3,1,0,0,2,2,3,5,17,karl; luuletaja; eesti; antoloogia; alver; paul-eerik; bett; rummo
+7,3,1,0,0,2,2,3,7,17,karl; mäger; luuletaja; eesti; antoloogia; alver; mart; paul-eerik; bett; rummo
+7,3,1,0,0,2,2,3,7,17,karl; mäger; luuletaja; eesti; antoloogia; alver; mart; paul-eerik; bett; rummo
+7,2,1,0,0,2,2,3,7,17,karl; mäger; luuletaja; eesti; antoloogia; alver; mart; paul-eerik; bett; rummo
+7,3,2,0,0,2,2,4,7,17,karl; mäger; luuletaja; eesti; antoloogia; alver; mart; paul-eerik; bett; rummo
+5,2,3,2,0,4,5,6,7,17,karl; mäger; luuletaja; eesti; muru; antoloogia; alver; mart; paul-eerik; bett; rummo
+6,1,2,2,1,3,4,6,7,17,karl; mäger; luuletaja; eesti; antoloogia; alver; sööt; mart; paul-eerik; bett; rummo
+3,2,2,3,1,3,4,3,7,17,karl; mäger; luuletaja; eesti; antoloogia; mart; sööt; paul-eerik; bett; rummo
+3,2,1,5,2,3,2,3,6,17,karl; mäger; luuletaja; eesti; muru; antoloogia; alver; sööt; mart; paul-eerik; bett; rummo
+2,2,1,5,2,3,1,3,5,17,karl; mäger; luuletaja; eesti; muru; antoloogia; alver; sööt; mart; paul-eerik; bett; rummo

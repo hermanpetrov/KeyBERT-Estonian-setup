@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+3,0,0,0,0,0,1,1,0,18,erakond; rüütel; arnold; tarmo; voldemar
+0,0,1,0,0,0,0,1,0,18,tarmo; rohelised
+0,0,1,0,0,0,1,1,0,18,voldemar; tarmo; rohelised
+0,0,0,0,0,0,0,1,1,18,erakond; tarmo
+0,1,0,0,0,1,1,0,1,18,erakond; voldemar; tarmo
+0,1,0,0,0,1,0,1,1,18,erakond; voldemar; tarmo

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,1,2,1,1,1,1,0,19,lill; kalkun; folkloor; robert; orpheus; bach; hortus; barokkmuusikafestival
+5,2,1,2,1,1,1,1,0,19,lill; kalkun; folkloor; robert; orpheus; bach; hortus; barokkmuusikafestival
+5,2,1,2,1,1,1,1,0,19,lill; kalkun; folkloor; robert; orpheus; bach; hortus; barokkmuusikafestival
+5,2,1,2,1,1,1,1,0,19,lill; kalkun; folkloor; robert; orpheus; bach; hortus; barokkmuusikafestival
+5,2,0,2,1,1,1,2,0,19,lill; kalkun; folkloor; robert; mändla; orpheus; bach; hortus; barokkmuusikafestival
+6,1,0,2,1,1,1,1,0,19,lill; kalkun; folkloor; robert; orpheus; bach; hortus; irene; barokkmuusikafestival
+3,1,0,2,1,1,2,1,0,19,andres; folkloor; robert; bach; hortus; irene; barokkmuusikafestival
+0,1,0,1,1,4,5,1,1,19,tšello; folkloor; robert; bach; musicus; orpheus; mari; hortus; igor
+1,2,3,1,3,4,4,2,1,19,tšello; lill; folkloor; mustonen; robert; musicus; mari; orpheus; bach; hortus; irene; igor
+0,0,1,3,3,5,4,2,0,19,andres; tšello; lill; folkloor; mustonen; robert; orpheus; mari; bach; musicus; hortus; igor
+0,0,2,1,2,6,4,1,1,19,andres; tšello; lill; folkloor; robert; orpheus; bach; musicus; hortus; igor

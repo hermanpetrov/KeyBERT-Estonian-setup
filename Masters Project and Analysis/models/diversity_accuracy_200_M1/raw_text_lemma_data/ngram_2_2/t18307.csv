@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,4,4,4,1,1,3,3,6,19,festival; piraat; hõff; abhaasia; tamme; sammas; mall; gruusia; somaalia; mälberg
+5,6,4,4,1,2,2,3,6,19,festival; piraat; hõff; abhaasia; tamme; sammas; gruusia; mall; somaalia; mälberg
+6,6,4,5,2,2,2,3,6,19,festival; piraat; hõff; abhaasia; tamme; sammas; gruusia; mall; somaalia; mälberg
+8,6,5,5,3,3,3,6,6,19,festival; piraat; hõff; abhaasia; tamme; gruusia; mall; sammas; somaalia; mälberg
+9,6,5,5,4,4,6,8,6,19,festival; piraat; hõff; abhaasia; tamme; gruusia; mall; sammas; somaalia; mälberg
+8,5,7,4,4,7,6,8,6,19,festival; piraat; hõff; tamme; abhaasia; gruusia; sammas; mall; somaalia; mälberg
+8,3,9,6,4,7,8,8,6,19,piraat; hõff; sammas; festival; rannik; abhaasia; tamme; gruusia; mall; somaalia; mälberg
+8,6,8,8,4,9,7,8,8,19,piraat; hõff; sammas; festival; abhaasia; tamme; gruusia; mall; somaalia; mälberg
+6,5,8,6,5,7,6,9,7,19,piraat; hõff; sammas; festival; rannik; abhaasia; tamme; gruusia; mall; somaalia; mälberg
+5,6,10,6,6,8,6,9,7,19,piraat; hõff; sammas; festival; rannik; abhaasia; tamme; gruusia; mall; somaalia; mälberg
+4,6,11,6,7,8,6,9,7,19,piraat; hõff; sammas; festival; rannik; abhaasia; tamme; gruusia; mall; somaalia; mälberg

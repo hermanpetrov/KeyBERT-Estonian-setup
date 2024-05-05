@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,4,1,2,3,4,2,3,16,kontseptualism; kunst; margit; narratiiv; laura; meedium; žestipõhine; kunstiajalugu; kuraator; grigor
+4,1,5,1,2,3,4,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; žestipõhine; kunstiajalugu; kuraator; grigor
+4,1,5,1,2,3,4,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; meedium; žestipõhine; kunstiajalugu; kuraator; grigor
+4,1,5,1,1,2,5,1,3,16,kontseptualism; kunst; indrek; margit; narratiiv; laura; kaasaegne; žestipõhine; kunstiajalugu; kuraator; grigor
+3,1,2,1,1,2,4,0,3,16,kontseptualism; indrek; margit; narratiiv; laura; kaasaegne; žestipõhine; kunstiajalugu; kuraator; grigor
+2,1,3,0,2,1,0,0,3,16,kontseptualism; margit; laura; žestipõhine; kunstiajalugu; kuraator; grigor
+2,0,2,1,2,2,0,1,2,16,kontseptualism; indrek; margit; meedium; kriitika; laura; žestipõhine; kuraator; grigor
+0,0,2,2,2,1,0,2,0,16,kunst; kontseptualism; kuraator; meedium; margit; grigor; laura
+0,0,1,2,2,1,0,5,0,16,kunst; kontseptualism; indrek; margit; meedium; laura; kuraator
+0,0,0,2,0,1,0,5,1,16,kunst; kontseptualism; kaasaegne; säde; meedium; laura
+0,0,1,2,1,1,0,4,1,16,kunst; kaasaegne; meedium; säde; grigor; laura

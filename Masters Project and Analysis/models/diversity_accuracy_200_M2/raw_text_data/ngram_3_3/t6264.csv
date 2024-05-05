@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,10,2,5,7,6,5,5,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+10,10,3,5,7,6,5,5,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+10,9,3,5,7,7,5,5,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+10,9,4,6,6,7,6,6,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+9,9,4,6,8,9,6,6,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+8,9,5,8,8,9,9,6,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+6,9,7,7,8,7,8,6,8,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+4,10,9,6,8,6,7,7,8,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+3,5,8,7,9,3,6,6,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+4,4,8,6,9,4,7,7,7,15,tööstusrevolutsioon; bismarck; von; otto; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin
+4,7,10,6,10,3,9,7,7,15,tööstusrevolutsioon; bismarck; von; otto; kurferstendam; berliini; maailmasõda; saksamaa; wilhelm; friedrich; berliin

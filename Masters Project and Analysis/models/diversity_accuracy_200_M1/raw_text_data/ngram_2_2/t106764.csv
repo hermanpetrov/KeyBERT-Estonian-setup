@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,7,4,6,4,5,4,5,5,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+7,7,5,6,4,5,5,5,5,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+7,7,5,7,4,6,4,5,5,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+7,6,6,7,4,6,4,5,6,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+7,6,5,7,4,6,3,5,6,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger; lavastus
+8,6,8,8,4,6,5,7,6,14,merivoo-parro; singer; muusikanõukogu; noorma; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+6,5,5,7,4,4,4,7,6,14,merivoo-parro; singer; muusikanõukogu; noorma; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+5,6,6,8,4,6,5,8,6,14,muusikanõukogu; noorma; mart; vinger; kristo; merivoo-parro; singer; maarja; raadio; rajasaare; lavastus
+4,5,9,9,5,7,6,7,4,14,merivoo-parro; singer; muusikanõukogu; noorma; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus
+4,6,10,8,6,8,5,7,5,14,muusikanõukogu; noorma; mart; vinger; kristo; merivoo-parro; singer; maarja; raadio; rajasaare; lavastus
+3,5,8,8,6,6,6,3,5,14,merivoo-parro; singer; muusikanõukogu; noorma; maarja; raadio; rajasaare; mart; vinger; kristo; lavastus

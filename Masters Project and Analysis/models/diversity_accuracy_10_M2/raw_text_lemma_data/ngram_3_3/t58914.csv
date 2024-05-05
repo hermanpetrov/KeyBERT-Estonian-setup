@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,1,1,1,1,0,12,torm; rand
+0,0,0,0,1,1,1,1,0,12,torm; rand
+0,0,0,0,1,1,1,1,0,12,torm; rand
+0,0,0,0,1,1,1,1,0,12,torm; rand
+0,0,0,0,1,1,1,0,0,12,torm; rand
+1,0,1,0,1,0,1,0,0,12,torm; sadam; rand
+0,1,1,0,1,1,0,1,0,12,torm; sadam; prognoos; tamm
+1,2,0,0,1,1,1,2,0,12,torm; sadam; prognoos; rand; tamm; tsükkel
+2,1,1,0,2,1,0,0,0,12,torm; sadam; prognoos; rand; tamm
+0,2,0,0,2,0,0,0,0,12,torm; tamm; sadam
+0,0,0,0,2,0,0,0,0,12,torm; sadam

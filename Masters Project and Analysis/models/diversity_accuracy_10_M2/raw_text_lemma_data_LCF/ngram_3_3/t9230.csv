@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,1,1,1,1,1,1,11,alfa; kutsikas; hunt
+1,1,2,1,1,1,1,1,1,11,alfa; kutsikas; hunt
+1,1,2,1,1,1,1,1,1,11,alfa; kutsikas; hunt
+1,1,2,1,1,1,1,1,2,11,alfa; kutsikas; hunt
+1,1,2,1,1,1,1,1,1,11,alfa; kutsikas; hunt
+1,1,1,1,1,1,1,1,1,11,alfa; hunt
+0,1,1,1,1,1,1,1,2,11,alfa; hunt
+0,1,1,1,1,1,1,1,2,11,alfa; hunt
+1,1,0,2,2,1,1,1,2,11,alfa; hunt; territoorium
+0,0,0,2,1,0,1,1,2,11,alfa; hunt; territoorium
+1,1,0,1,0,0,1,1,2,11,alfa; hunt

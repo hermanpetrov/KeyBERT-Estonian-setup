@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,3,0,0,0,0,12,kontseptualism; kuraator; redimed
+1,1,0,0,3,0,0,0,0,12,kontseptualism; kuraator; redimed
+1,1,0,0,3,0,0,0,0,12,kontseptualism; kuraator; redimed
+1,1,0,0,3,0,0,0,0,12,kontseptualism; kuraator; redimed
+1,1,1,0,3,0,0,0,0,12,kunst; kuraator; kontseptualism; redimed
+1,1,1,0,3,0,0,1,0,12,kunst; kuraator; kontseptualism; redimed
+2,0,1,0,3,0,0,2,0,12,kunst; kuraator; kontseptualism; meedium; redimed
+1,0,0,0,3,1,0,2,0,12,kontseptualism; kuraator; kunst; redimed
+3,0,1,0,3,0,0,2,0,12,kontseptualism; kunst; kuraator; redimed
+3,0,2,0,3,1,0,2,0,12,kontseptualism; kunst; kuraator; meedium; redimed
+1,0,0,0,3,0,0,3,0,12,kunst; kuraator; kontseptualism; žest; redimed

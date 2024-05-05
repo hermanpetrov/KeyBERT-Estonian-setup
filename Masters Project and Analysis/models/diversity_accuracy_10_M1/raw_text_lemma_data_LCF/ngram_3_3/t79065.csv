@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,1,1,2,1,1,1,0,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,1,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,1,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,1,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,0,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,0,12,ink; amazona; linn; haigus; surnu
+3,1,1,1,2,1,1,1,0,12,ink; amazona; linn; haigus; surnu
+3,1,1,3,2,3,2,1,0,12,amazona; linn; kikkas; kaupo; ink; haigus; surnu
+3,1,1,0,1,2,1,1,0,12,ink; amazona; linn; kikkas; surnu; kaupo
+1,1,1,2,2,2,0,1,0,12,ink; amazona; haigus; kikkas; kaupo
+1,1,1,0,2,2,0,1,0,12,ink; amazona; vihm; kikkas; kaupo

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,4,2,5,1,2,2,5,2,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+4,4,2,5,1,2,2,5,2,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+4,4,2,5,1,2,2,5,2,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+4,4,3,5,1,2,2,5,2,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+4,4,6,5,1,2,2,7,0,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+3,4,3,5,1,5,2,9,0,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+7,4,6,8,1,7,2,9,0,13,erik; intervjuu; morna; kristo; festival; eurosonic; artist; jaan; bänd; meister
+4,4,6,6,1,6,2,8,0,13,festival; eurosonic; artist; erik; intervjuu; jaan; morna; bänd; meister; kristo
+4,3,5,6,3,7,5,9,0,13,erik; intervjuu; morna; kristo; festival; eurosonic; artist; jaan; bänd; meister
+7,4,5,7,4,7,6,10,1,13,erik; intervjuu; morna; kristo; festival; eurosonic; artist; jaan; bänd; meister
+6,4,7,7,4,8,5,9,2,13,erik; intervjuu; morna; kristo; festival; eurosonic; artist; jaan; bänd; meister

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,2,0,0,1,0,2,1,16,kirjanik; muutus; sõda
+0,2,2,0,0,1,0,2,1,16,kirjanik; muutus; sõda
+0,2,2,0,0,1,0,2,1,16,kirjanik; muutus; sõda
+0,2,2,0,0,1,0,2,1,16,kirjanik; muutus; sõda
+0,2,2,0,0,1,0,2,1,16,kirjanik; muutus; sõda
+0,2,4,0,0,1,0,1,1,16,kirjanik; muutus; helme; sõda; peeter
+1,2,4,0,0,0,0,2,1,16,film; kirjanik; hemingway; helme; sõda; peeter
+4,2,3,0,0,1,0,2,1,16,kirjanik; heli; muutus; hemingway; helme; peeter; film; allik; sõda
+1,2,3,0,0,0,0,2,1,16,kirjanik; muutus; hemingway; helme; sõda; peeter
+0,0,1,0,0,0,0,0,1,16,hemingway; sõda
+0,0,1,0,0,1,1,1,1,16,hemingway; sõda; peeter

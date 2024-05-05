@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,1,1,0,1,1,0,13,anders; laimre; poliitiline; graafika; kunstihoone
+2,0,1,1,1,0,1,1,0,13,anders; laimre; poliitiline; graafika; kunstihoone
+2,0,1,1,1,0,1,1,0,13,anders; laimre; poliitiline; graafika; kunstihoone
+2,0,0,1,1,0,1,1,0,13,anders; laimre; poliitiline; graafika; kunstihoone
+2,0,0,1,1,0,1,1,0,13,anders; laimre; poliitiline; graafika; kunstihoone
+2,0,1,1,1,1,0,1,0,13,anders; tudengifilm; laimre; poliitiline; graafika
+1,1,0,1,1,1,1,1,0,13,anders; aleksander; laimre; poliitiline; graafika; tartu
+1,0,1,1,1,0,2,2,0,13,aleksander; anders; härm; poliitiline; kunstihoone; tartu
+0,1,2,0,1,1,0,1,0,13,anders; härm; poliitiline; graafika; kunstihoone
+1,0,1,0,1,0,1,1,0,13,anders; poliitiline; kunstihoone; tartu
+1,0,0,0,0,0,0,2,0,13,aleksander; tartu; kunstihoone

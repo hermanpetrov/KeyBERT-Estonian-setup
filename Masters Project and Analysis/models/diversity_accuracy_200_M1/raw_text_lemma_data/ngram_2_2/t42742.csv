@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,5,3,2,0,1,2,3,3,15,eve; hando; laps; kontsertorkester; dirigent; luha; valdur
+2,5,3,2,0,1,2,3,3,15,eve; hando; laps; kontsertorkester; dirigent; luha; valdur
+3,5,3,2,1,2,2,3,3,15,eve; hando; laps; kontsertorkester; dirigent; luha; valdur
+3,5,3,2,1,3,2,3,3,15,eve; hando; laps; kontsertorkester; dirigent; luha; valdur
+3,5,4,2,1,4,3,3,3,15,eve; hando; laps; kontsertorkester; liiv; dirigent; luha; valdur
+5,5,4,3,1,5,4,3,3,15,eve; hando; laps; kontsertorkester; liiv; dirigent; luha; valdur
+4,5,4,3,2,5,4,2,3,15,eve; laps; hando; kontsertorkester; liiv; dirigent; luha; valdur
+5,5,4,3,3,3,3,2,3,15,eve; laps; hando; kontsertorkester; liiv; dirigent; luha; valdur
+6,5,5,3,2,3,3,3,2,15,eve; hando; laps; kontsertorkester; liiv; dirigent; luha; valdur
+3,3,4,3,2,2,4,3,3,15,eve; laps; hando; kontsertorkester; liiv; dirigent; luha
+3,3,6,3,2,2,4,3,4,15,eve; laps; hando; kontsertorkester; liiv; dirigent; luha; valdur

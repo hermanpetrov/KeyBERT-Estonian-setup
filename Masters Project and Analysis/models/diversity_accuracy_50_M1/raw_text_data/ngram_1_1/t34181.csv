@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,0,0,0,2,3,1,16,kriitik; kuraator; publik; kunstnike; kunstimaailm; maria-kristiina
+1,0,2,0,0,0,2,3,1,16,kriitik; kuraator; publik; kunstnike; kunstimaailm; maria-kristiina
+1,0,2,0,0,0,2,3,1,16,kriitik; kuraator; publik; kunstnike; kunstimaailm; maria-kristiina
+1,0,1,0,0,0,2,3,1,16,kriitik; kuraator; publik; kunstnike; kunstimaailm; maria-kristiina
+1,0,1,0,0,0,2,2,1,16,kriitik; kuraator; publik; kunstimaailm; maria-kristiina
+0,0,1,0,0,1,2,0,1,16,kriitik; publik; maria-kristiina
+0,0,1,0,0,1,1,0,1,16,kriitik; maria-kristiina
+1,1,1,0,0,0,1,1,1,16,kriitik; maria-kristiina
+1,1,2,0,1,1,1,1,1,16,kriitik; anders; kuraator; soomre; maria-kristiina
+0,1,1,2,1,0,1,1,1,16,kriitik; anders; soomre; maria-kristiina
+0,1,1,1,0,0,1,0,1,16,kriitik; anders; maria-kristiina

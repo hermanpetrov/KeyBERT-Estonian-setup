@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,1,1,0,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+4,2,1,1,0,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+4,2,1,1,0,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+4,2,1,1,0,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+4,2,1,1,0,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+4,0,1,1,0,1,1,1,0,11,šveits; kanton; mägine; genf
+2,1,0,1,0,1,1,1,0,11,mägine; šveits
+0,0,1,0,0,1,1,1,0,11,šveits
+1,1,1,2,0,2,1,1,0,11,šveits; kanton; mägine; genf
+1,2,1,2,0,1,1,1,1,11,šveits; kanton; mägine; genf
+0,2,0,0,0,2,1,0,0,11,kanton; šveits; genf

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,8,2,5,1,3,2,5,1,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+3,8,2,5,1,3,2,6,1,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+3,8,2,5,1,3,2,6,1,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+3,8,2,5,1,3,2,6,1,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+3,8,3,5,1,3,2,6,1,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+2,6,2,5,1,4,3,5,0,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+5,5,1,5,1,2,3,5,0,11,male; olümpia; paul; maleklubi; paide; partii; treener; keres; võistkond
+2,7,3,2,1,2,1,6,0,11,male; paul; maleklubi; paide; partii; treener; keres; võistkond
+2,1,4,4,1,4,2,4,0,11,male; olümpia; paul; paide; partii; treener; keres
+5,3,4,3,3,4,2,6,0,11,male; paul; maleklubi; paide; partii; treener; keres; võistkond
+2,2,4,4,3,4,3,4,1,11,male; paul; paide; treener; keres; võistkond

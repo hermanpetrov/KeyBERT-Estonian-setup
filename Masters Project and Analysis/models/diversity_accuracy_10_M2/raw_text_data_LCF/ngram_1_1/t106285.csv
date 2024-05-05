@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,1,0,1,0,13,kaarel; luuleruum
+0,0,0,0,0,1,0,1,0,13,kaarel; luuleruum
+0,0,0,0,0,1,0,1,0,13,kaarel; luuleruum
+0,0,1,0,0,1,0,1,0,13,heinrich; kaarel; luuleruum
+0,0,1,0,0,1,0,1,0,13,heinrich; kaarel; luuleruum
+0,1,1,0,0,0,0,2,0,13,heinrich; kahupea; luuleruum; lugu
+0,1,1,0,0,1,0,2,0,13,heinrich; kahupea; lugu; luuleruum
+0,1,1,0,0,0,0,1,0,13,heinrich; kahupea; luuleruum
+0,0,1,0,0,0,0,1,0,13,heinrich; luuleruum
+0,1,0,0,0,0,0,1,0,13,kahupea; luuleruum
+0,0,0,0,0,0,0,0,0,13,

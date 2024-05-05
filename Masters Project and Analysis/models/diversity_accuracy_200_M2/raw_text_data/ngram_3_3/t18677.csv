@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,6,3,9,8,5,5,6,7,19,margaret; šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+10,6,4,9,8,5,5,7,7,19,margaret; šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+10,5,5,11,7,6,5,8,7,19,margaret; šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+10,5,5,8,6,7,6,9,7,19,šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+11,6,5,8,6,6,7,10,7,19,šotimaa; palee; marie; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+11,7,8,8,6,9,8,10,7,19,šotimaa; palee; marie; kindlusloss; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+9,6,5,8,6,10,7,7,7,19,šotimaa; palee; marie; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik; sõda
+9,6,6,8,7,9,6,7,7,19,šotimaa; palee; marie; kroon; rahvuslik; edinburghi; sõjamemoriaal; stewart; püha; robert; prius; kuninglik; sõda
+6,5,7,9,7,5,6,6,5,19,šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; sõjamemoriaal; püha; robert; prius; kuninglik
+5,7,7,8,8,5,5,6,5,19,šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; püha; robert; prius; kuninglik; sõda
+5,6,9,8,8,7,7,6,5,19,šotimaa; palee; marie; kindlusloss; kroon; rahvuslik; edinburghi; stewart; püha; robert; prius; kuninglik; sõda

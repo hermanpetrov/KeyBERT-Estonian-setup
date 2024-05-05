@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,4,2,1,3,2,2,0,11,kiirkaater; kiirabi; kaart; rannavalve; tuukrikaater; meresaade
+2,1,3,2,1,3,2,2,0,11,kiirkaater; kiirabi; kaart; rannavalve; tuukrikaater; meresaade
+2,1,3,2,1,3,2,3,0,11,kiirkaater; rannavalve; kaart; jüri; tuukrikaater; meresaade
+2,1,1,2,1,3,2,3,0,11,kiirkaater; rannavalve; kaart; jüri; tuukrikaater; meresaade
+2,1,1,2,1,3,2,3,0,11,kiirkaater; rannavalve; kaart; jüri; tuukrikaater; meresaade
+2,1,1,2,1,3,4,3,2,11,kiirkaater; kiirabi; kaart; salmre; rannavalve; jüri; tuukrikaater; meresaade
+2,1,1,1,2,2,3,2,2,11,kiirkaater; kiirabi; kaart; salmre; jüri; tuukrikaater; meresaade
+2,1,2,2,3,2,2,4,3,11,kiirkaater; kiirabi; kaart; salmre; jüri; tuukrikaater; meresaade
+2,1,1,3,2,2,2,4,3,11,kiirkaater; kiirabi; kaart; salmre; jüri; tuukrikaater; meresaade
+1,2,2,2,3,2,2,4,3,11,kiirkaater; kiirabi; kaart; rannavalve; salmre; jüri; tuukrikaater; meresaade
+1,2,1,2,3,2,2,5,3,11,kiirkaater; kiirabi; kaart; rannavalve; salmre; jüri; tuukrikaater; meresaade

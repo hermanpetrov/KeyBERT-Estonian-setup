@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,0,2,0,0,1,16,muusikamuuseum; estonia; tomson; eesti
+0,1,2,0,0,1,0,0,1,16,tomson; muusikamuuseum; eesti
+0,1,2,0,0,1,0,0,1,16,tomson; muusikamuuseum; eesti
+0,1,2,0,0,1,0,0,2,16,muusikamuuseum; teatri-; tomson; eesti
+0,1,1,0,0,1,0,0,2,16,muusikamuuseum; teatri-; tomson; eesti
+0,1,2,0,0,2,0,0,2,16,muusikamuuseum; estonia; teatri-; tomson; eesti
+0,2,1,0,0,0,1,1,2,16,muusikamuuseum; klaverimeister; teatri-; eesti; tiibklaver
+0,1,2,0,0,1,0,0,2,16,teatri-; muusikamuuseum; eesti
+0,1,2,0,0,1,1,0,2,16,muusikamuuseum; estonia; teatri-; tomson; eesti
+0,1,1,1,0,1,1,0,2,16,muusikamuuseum; estonia; teatri-; pianiino; eesti
+1,1,1,1,0,1,0,0,1,16,muusikamuuseum; tsentraliseerimine; teatri-; pianiino; eesti

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,1,1,0,0,13,brüssel; luksemburg
+0,0,1,0,0,1,1,0,0,13,brüssel; luksemburg
+0,0,1,0,0,1,1,0,0,13,brüssel; luksemburg
+0,0,1,0,0,1,1,0,0,13,brüssel; luksemburg
+0,0,1,0,0,1,1,0,0,13,brüssel; luksemburg
+0,0,0,0,0,0,1,0,0,13,brüssel
+0,0,0,0,0,1,0,0,0,13,brüssel
+0,0,0,0,0,1,1,0,0,13,brüssel; erakond
+1,0,0,1,0,1,1,0,0,13,muusikafestival; brüssel; luksemburg; erakond
+0,0,0,1,0,1,1,0,0,13,muusikafestival; brüssel; erakond
+0,0,0,0,0,1,1,0,0,13,brüssel; erakond

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,0,2,0,1,1,0,12,torm; kinni; tema; isa; uukkivi
+0,2,1,0,2,0,1,1,0,12,torm; kinni; tema; isa; uukkivi
+0,2,1,0,2,0,1,1,0,12,torm; kinni; tema; isa; uukkivi
+0,2,1,0,2,0,1,1,0,12,torm; kinni; tema; isa; uukkivi
+0,2,1,0,2,0,1,1,0,12,torm; kinni; tema; isa; uukkivi
+0,2,1,0,2,1,1,2,0,12,torm; kinni; tema; isa; uukkivi
+0,2,2,0,2,2,1,2,0,12,torm; kinni; tema; isa; uukkivi; tuisk
+0,2,3,0,2,2,2,1,0,12,torm; ivo; kinni; tema; isa; uukkivi; tuisk
+0,2,4,1,2,2,2,2,0,12,ivo; kinni; tema; uukkivi; tuisk; torm; isa
+0,2,4,1,2,2,1,2,0,12,torm; ivo; kinni; tema; isa; uukkivi; tuisk
+0,2,3,1,2,2,2,1,0,12,torm; ivo; kinni; tema; isa; uukkivi; tuisk

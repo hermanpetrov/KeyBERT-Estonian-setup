@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,0,0,1,15,brian
+0,0,0,0,0,0,0,0,1,15,brian
+0,0,0,0,0,0,0,0,1,15,brian
+0,0,0,0,0,0,0,0,1,15,brian
+0,0,0,0,0,0,0,0,1,15,brian
+0,0,1,0,0,0,0,0,1,15,brian; kuum
+0,0,1,0,0,2,2,0,1,15,sullivan; brian; maania; kuum
+0,0,0,0,0,1,2,0,0,15,sullivan; kuum; maania
+0,0,0,1,0,3,2,0,1,15,ed; sullivan; maania; mccartney; kuum
+0,1,0,1,0,3,2,0,1,15,ringo; sullivan; maania; mccartney; kuum
+1,0,1,2,0,3,2,0,1,15,ringo; sullivan; maania; mccartney; epstein; kuum

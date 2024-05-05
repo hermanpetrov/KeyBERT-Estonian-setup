@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,7,6,7,5,6,6,6,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; aleksei; buratino; suusad
+6,7,6,7,4,7,6,6,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; aleksei; buratino; suusad
+6,8,6,7,4,7,6,6,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; aleksei; buratino; suusad
+6,8,6,7,4,7,6,6,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; aleksei; buratino; suusad
+7,8,6,7,4,7,7,6,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; aleksei; buratino; suusad
+4,8,7,7,5,7,6,7,7,11,muuseum; hääl; nukuteater; tolstoi; buratino; ferdinand; suusad; aleksei
+5,7,7,6,5,8,6,7,7,11,muuseum; hääl; nukuteater; tolstoi; ferdinand; buratino; suusad; aleksei
+3,8,7,7,7,7,7,7,7,11,muuseum; hääl; nukuteater; tolstoi; suusad; buratino; ferdinand; aleksei
+5,7,7,8,7,7,8,8,7,11,muuseum; hääl; nukuteater; tolstoi; suusad; buratino; ferdinand; aleksei
+5,7,6,7,7,7,8,8,7,11,muuseum; hääl; nukuteater; tolstoi; suusad; buratino; ferdinand; aleksei
+3,7,7,7,7,7,8,8,6,11,muuseum; hääl; nukuteater; tolstoi; suusad; buratino; ferdinand; aleksei

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,1,1,0,1,0,16,karjatse; üro
+0,0,0,0,1,1,0,1,0,16,karjatse; üro
+0,0,0,0,1,1,0,1,0,16,karjatse; üro
+0,0,0,0,1,1,0,1,0,16,karjatse; üro
+0,0,0,0,1,1,0,1,0,16,karjatse; üro
+1,0,0,0,1,1,0,1,0,16,nädal; karjatse; üro
+1,0,0,0,1,0,0,1,0,16,hans; karjatse; üro
+0,1,0,1,1,0,0,1,0,16,karjatse; hindpere; restoranide; üro
+0,0,0,2,1,0,0,2,0,16,karjatse; nädal; julgeolekunõukogu; üro
+0,0,0,0,1,0,1,1,0,16,karjatse; julgeolekunõukogu; üro
+0,0,0,0,1,0,2,1,0,16,karjatse; julgeolekunõukogu; üro

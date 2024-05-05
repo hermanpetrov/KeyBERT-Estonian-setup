@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,3,1,2,2,1,2,0,12,sepling; nukuteater; ferdinand; buratino; hääl; raadio
+3,0,3,1,2,2,1,2,0,12,sepling; nukuteater; ferdinand; buratino; hääl; raadio
+3,0,3,1,2,2,1,2,0,12,sepling; nukuteater; ferdinand; buratino; hääl; raadio
+3,0,4,1,2,2,1,2,0,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino
+3,0,4,1,2,2,1,2,0,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino
+3,0,3,1,2,3,1,2,0,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino
+3,0,3,1,2,3,2,1,0,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino
+2,0,4,0,2,2,2,2,0,12,sepling; nukuteater; eero; ferdinand; buratino; hääl
+0,1,3,2,2,3,2,0,0,12,eero; hääl; sepling; nukuteater; buratino; ferdinand; kultuuriminister
+2,1,3,3,2,2,2,0,0,12,nukuteater; sepling; eero; ferdinand; buratino; kultuuriminister
+1,1,3,3,1,2,3,1,0,12,eero; hääl; nukuteater; sepling; ferdinand; buratino; kultuuriminister

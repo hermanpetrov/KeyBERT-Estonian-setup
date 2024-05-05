@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
+0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
+0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
+0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
+0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
+0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
+1,0,2,1,1,1,0,0,0,17,jäätmed; laidoner; probleem; üürnik; veiko
+1,0,2,0,1,0,1,0,0,17,jäätmed; laidoner; riina; probleem; gruusia
+1,0,4,1,1,0,1,0,0,17,jäätmed; gruusia; laidoner; riina; sortimine; probleem; üürnik; eentalu
+1,0,2,3,1,1,1,0,0,17,jäätmed; gruusia; laidoner; õunpuu; muuseum; probleem; sortimine; eentalu
+2,0,0,3,1,1,1,0,0,17,jäätmed; õunpuu; muuseum; probleem; sortimine; gruusia

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,2,2,1,1,3,4,3,13,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+3,2,2,2,1,1,3,4,3,13,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+2,2,0,2,1,2,3,4,3,13,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+2,1,2,2,1,1,3,4,3,13,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+2,1,2,2,1,1,2,4,3,13,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+2,0,1,0,0,2,2,4,3,13,paju; tants; anatoomikum; kristina; tartu; lavastaja
+2,1,1,0,3,3,2,6,2,13,disainer; paju; tants; lavastaja; anatoomikum; kristina; tartu; kollektsioon
+1,1,1,1,4,3,2,4,2,13,disainer; paju; tants; lavastaja; anatoomikum; kristina; tartu; kollektsioon; kõrgem
+0,1,2,1,5,4,1,1,1,13,disainer; paju; tants; anatoomikum; kristina; kollektsioon; tartu; kõrgem
+1,1,3,1,5,3,1,1,1,13,disainer; paju; tants; anatoomikum; kristina; kollektsioon; lavastaja; tartu; kõrgem
+0,0,1,1,4,4,0,0,0,13,disainer; anatoomikum; paju; kristina; tartu; tants; kõrgem

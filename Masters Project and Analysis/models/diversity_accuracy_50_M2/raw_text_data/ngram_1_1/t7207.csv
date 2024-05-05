@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,3,0,1,2,4,1,0,12,kommunism; iroonia; unt; kunstid; kirjandus; klassik; kirjutama
+4,1,3,0,1,2,4,1,0,12,kommunism; iroonia; unt; kunstid; kirjandus; klassik; kirjutama
+4,1,3,0,1,2,4,1,0,12,kommunism; iroonia; unt; kunstid; kirjandus; klassik; kirjutama
+4,1,3,0,1,2,4,1,0,12,kommunism; iroonia; unt; kunstid; kirjandus; klassik; kirjutama
+4,1,1,0,1,3,4,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; klassik; kirjutama
+4,1,1,0,1,3,4,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; klassik; kirjutama
+4,1,1,0,1,3,4,2,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; klassik; kaunid; kirjutama
+3,1,1,1,1,3,3,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; klassik; kaunid; kirjutama
+2,1,1,1,1,3,3,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; klassik; kaunid; kirjutama
+1,1,1,2,1,3,3,2,0,12,kommunism; iroonia; unt; imelaps; kunstid; klassik; kaunid; kirjutama
+2,0,1,3,2,3,2,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; klassik; kaunid; kirjutama

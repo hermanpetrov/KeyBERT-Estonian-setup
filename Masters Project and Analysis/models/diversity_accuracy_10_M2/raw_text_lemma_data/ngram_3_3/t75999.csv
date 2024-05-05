@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,2,1,0,0,0,3,1,10,tele; armastus; raadio
+2,0,2,1,0,0,0,3,2,10,tele; näitleja; armastus; raadio
+2,0,2,1,0,0,0,3,2,10,tele; näitleja; armastus; raadio
+2,0,2,1,0,0,0,3,2,10,tele; näitleja; armastus; raadio
+2,0,1,1,0,0,0,3,1,10,tele; armastus; raadio
+2,0,2,1,0,0,0,4,1,10,tele; näitleja; armastus; raadio
+2,0,4,1,0,2,1,4,1,10,tele; näitleja; armastus; raadio
+1,1,4,2,0,1,0,4,1,10,raha; tele; näitleja; raadio; armastus
+1,2,3,1,0,1,0,2,1,10,raha; lavakas; tele; näitleja; armastus; raadio
+0,0,3,2,0,1,1,1,1,10,tele; näitleja; raadio
+0,1,2,2,0,1,0,0,2,10,raha; tele; näitleja; armastus; raadio

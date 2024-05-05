@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,1,0,2,1,13,mõrane; betti; peegel
+1,0,0,0,0,2,2,3,1,13,peegel; mõrane; kurat; rätsep; betti
+0,0,0,0,0,2,0,3,1,13,peegel; mõrane; kurat; rätsep; betti
+1,0,0,0,0,2,0,3,1,13,peegel; mõrane; kurat; rätsep; betti
+1,0,0,0,0,2,0,2,1,13,mõrane; peegel; kurat; betti
+2,0,0,0,0,2,0,2,1,13,peegel; mõrane; kurat; betti; tütarlaste

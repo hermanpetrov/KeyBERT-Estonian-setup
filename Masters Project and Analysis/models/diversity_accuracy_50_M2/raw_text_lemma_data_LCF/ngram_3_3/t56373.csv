@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,6,4,1,1,2,0,2,2,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,6,4,1,1,2,0,2,2,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,6,4,1,1,2,0,2,3,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,6,4,1,1,2,0,2,3,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,6,3,1,1,2,0,2,3,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,5,4,1,1,3,1,2,3,10,pulm; kirik; russow; aadlik; pidu; sõda
+3,3,4,3,1,4,3,2,2,10,pulm; kirik; russow; aadlik; pidu; sõda
+2,4,4,3,1,1,1,4,2,10,pulm; kirik; russow; pidu; sõda
+4,4,4,5,1,3,1,3,2,10,pulm; kirik; russow; aadlik; pidu; sõda
+1,4,3,4,1,4,1,2,3,10,pulm; kirik; luksus; sõda; pidu
+3,2,4,3,1,3,1,3,4,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,4,3,0,5,5,3,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik
+3,3,4,3,0,5,5,3,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik
+3,3,4,3,0,5,5,3,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik
+3,3,4,3,0,5,5,3,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik
+3,3,4,3,0,5,5,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
+3,3,3,3,0,6,5,5,3,15,raamat; keränen; johannes; õppimine; eesti; soome; keel; aavik; kullo
+3,4,4,1,0,5,5,4,3,15,raamat; keränen; johannes; eesti; soome; mika; keel; kullo
+5,3,3,4,0,3,4,7,3,15,raamat; kirjutamine; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; kullo
+4,3,2,7,0,5,5,4,3,15,raamat; kirjutamine; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; kullo
+5,3,3,8,0,7,6,5,3,15,raamat; kirjutamine; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
+4,2,2,6,1,7,4,7,3,15,raamat; kirjutamine; keränen; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,0,0,0,0,0,1,1,13,jüri; kreeka; tööjõupuudus
+0,1,1,1,0,0,1,1,1,13,kristi; jüri; tööjõupuudus; kreeka
+0,1,1,0,0,1,1,1,1,13,kristi; jüri; kreeka
+0,0,2,0,0,1,2,1,1,13,kristi; jüri; idamurderaamat; kreeka
+0,0,1,0,0,1,2,2,1,13,jüri; kristi; idamurderaamat; kreeka
+0,0,1,0,0,0,1,1,1,13,jüri; kreeka

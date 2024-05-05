@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,4,0,0,1,1,2,0,15,lübeck; ajaloomuuseum; ekspositsioon; hoone; kelder
+1,1,4,0,0,1,1,2,0,15,lübeck; ajaloomuuseum; ekspositsioon; hoone; kelder
+1,1,4,0,0,1,1,2,0,15,lübeck; ajaloomuuseum; ekspositsioon; hoone; kelder
+1,1,3,0,0,1,1,2,0,15,lübeck; ajaloomuuseum; hoone; kelder
+1,1,3,0,0,1,1,2,0,15,lübeck; ajaloomuuseum; hoone; kelder
+0,1,3,0,0,1,1,1,0,15,lübeck; ajaloomuuseum; kelder
+0,1,4,0,0,0,1,1,0,15,lübeck; ajaloomuuseum; ekspositsioon; kelder
+0,1,2,3,0,0,1,2,0,15,lübeck; ajaloomuuseum; suurgildi; tõnis; kelder
+1,0,1,1,0,0,1,2,0,15,lübeck; leimus; ajaloomuuseum; tõnis; kelder
+1,0,1,1,0,0,1,1,0,15,lübeck; leimus; ajaloomuuseum; tõnis; kelder
+1,0,1,0,0,0,1,2,0,15,lübeck; leimus; tõnis; kelder

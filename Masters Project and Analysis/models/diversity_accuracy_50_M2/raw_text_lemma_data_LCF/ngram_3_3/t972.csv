@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,2,3,3,2,2,3,3,11,superstaar; kontsert; plaat; eurovisioon; laulma
+2,3,2,3,3,2,2,3,3,11,superstaar; kontsert; plaat; eurovisioon; laulma
+2,3,2,3,3,2,2,3,3,11,superstaar; kontsert; plaat; eurovisioon; laulma
+2,3,3,3,3,2,2,3,3,11,superstaar; kontsert; plaat; eurovisioon; laulma
+2,3,3,3,3,2,2,3,3,11,superstaar; kontsert; plaat; eurovisioon; laulma
+2,4,2,4,3,2,3,3,3,11,superstaar; kontsert; lill; eurovisioon; plaat; laulma
+2,5,4,5,4,3,2,5,3,11,superstaar; kontsert; lill; eurovisioon; plaat; laulma
+3,4,0,3,5,3,2,5,3,11,lill; kontsert; superstaar; eurovisioon; plaat; laulma
+5,4,0,4,4,1,2,4,3,11,lill; kontsert; superstaar; eurovisioon; plaat; laulma
+5,3,2,4,2,0,3,3,3,11,lill; kontsert; superstaar; eurovisioon; plaat; laulma
+4,2,0,3,2,1,1,4,3,11,kontsert; lill; superstaar; eurovisioon; plaat; laulma

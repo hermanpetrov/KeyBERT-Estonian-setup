@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad; ukraina
+0,1,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad; ukraina
+0,1,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad; ukraina
+0,1,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad; ukraina
+0,1,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad; ukraina
+1,1,0,1,0,0,0,3,1,13,alatskivi; tootmisliin; lossipäevad; ukraina
+1,2,0,1,0,0,0,4,1,13,tallinna; alatskivi; tootmisliin; lossipäevad
+1,0,0,1,0,2,0,3,1,13,tallinna; alatskivi; tootmisliin
+1,2,1,1,1,1,0,3,1,13,tallinna; alatskivi; erna; tootmisliin; ukraina
+1,0,0,1,0,0,0,2,1,13,tallinna; tootmisliin; alatskivi
+0,0,1,0,0,1,0,1,1,13,tootmisliin; alatskivi; ukraina; erna

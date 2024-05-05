@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,3,1,2,3,1,1,1,1,13,aivar; alternatiiv; muusika; elektrooniline; klubikultuur; reiv
+4,3,1,2,3,1,1,1,1,13,aivar; alternatiiv; muusika; elektrooniline; klubikultuur; reiv
+4,3,1,2,3,1,1,1,1,13,aivar; alternatiiv; muusika; elektrooniline; klubikultuur; reiv
+4,3,2,2,3,1,1,1,1,13,aivar; alternatiiv; muusika; elektrooniline; klubikultuur; reiv
+4,3,2,2,3,1,1,1,1,13,aivar; alternatiiv; muusika; elektrooniline; klubikultuur; reiv
+4,3,2,2,3,3,2,2,1,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; sotsioloog; reiv
+2,3,1,0,3,0,2,1,1,13,aivar; muusika; alternatiiv; elektrooniline; klubikultuur; sotsioloog; reiv
+2,1,1,1,3,0,1,1,1,13,aivar; muusika; alternatiiv; elektrooniline; klubikultuur; tõnson; sotsioloog; reiv
+2,1,0,2,3,0,2,0,1,13,aivar; sotsioloog; muusika; alternatiiv; reiv; tõnson
+2,1,1,1,2,1,1,0,1,13,aivar; sotsioloog; muusika; alternatiiv; reiv; tõnson
+2,0,0,0,2,0,1,0,1,13,aivar; sotsioloog; muusika; reiv

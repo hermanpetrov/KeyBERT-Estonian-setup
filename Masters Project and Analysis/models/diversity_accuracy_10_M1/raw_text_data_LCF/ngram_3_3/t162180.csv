@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; sõna; luule
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; sõna; luule
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; sõna; luule
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; sõna; luule
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; sõna; luule
+3,1,0,0,0,1,1,4,0,13,lehte; aeg; üheksavägine; luule; hainsalu; tartu; sõna
+1,1,0,0,0,1,1,4,0,13,hainsalu; lehte; tartu; luule
+0,2,1,1,0,1,2,4,0,13,lehte; luule; hainsalu; tartu; sõna; kirjutama
+0,3,1,0,0,1,2,2,0,13,hainsalu; lehte; tartu; luule
+1,1,2,0,0,1,2,2,0,13,hainsalu; lehte; tartu; luule
+0,1,2,0,1,1,2,2,0,13,hainsalu; lehte; tartu; sõna; luule

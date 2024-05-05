@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,1,2,0,1,2,2,0,13,liivia; muusika; haapsalu; presidendi; tindur; moekunstnik
+3,2,1,2,0,1,2,2,0,13,liivia; muusika; haapsalu; presidendi; tindur; moekunstnik
+3,2,1,2,0,1,2,2,0,13,liivia; muusika; haapsalu; presidendi; tindur; moekunstnik
+3,2,1,2,0,1,2,2,0,13,liivia; muusika; haapsalu; presidendi; tindur; moekunstnik
+3,2,0,2,0,1,2,2,0,13,liivia; muusika; haapsalu; presidendi; tindur; moekunstnik
+3,1,0,2,0,1,3,3,0,13,muusika; liivia; presidendi; haapsalu; tindur; moekunstnik
+2,1,0,3,0,1,3,4,0,13,muusika; haapsalu; presidendi; liivia; tindur; moekunstnik
+1,1,0,2,0,1,2,4,0,13,haapsalu; presidendi; liivia; moekunstnik
+1,2,0,2,1,1,2,4,0,13,muusika; haapsalu; presidendi; liivia; moekunstnik
+1,0,1,1,1,1,2,1,1,13,muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
+2,0,1,1,2,1,2,1,1,13,liivia; muusika; haapsalu; presidendi; julgus; tindur; moekunstnik

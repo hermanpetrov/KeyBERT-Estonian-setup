@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,2,1,1,0,12,ateljee; berliin; tikand
+1,0,1,0,0,2,1,1,0,12,ateljee; berliin; tikand
+1,0,1,0,0,2,1,1,0,12,ateljee; berliin; tikand
+1,0,1,0,0,2,1,1,0,12,ateljee; berliin; tikand
+1,0,2,0,0,2,1,1,0,12,ateljee; tikand; inspiratsioon; berliin
+1,0,1,0,0,2,1,1,0,12,ateljee; berliin; tikand
+1,0,1,0,0,1,1,2,0,12,ateljee; berliin; tikand
+0,0,2,1,1,1,1,1,0,12,konstruktor; ateljee; berliin
+0,0,1,0,1,1,1,3,0,12,konstruktor; ateljee; kollektsioon; inspiratsioon; berliin
+0,1,0,0,1,1,1,0,0,12,konstruktor; berliin
+0,1,0,0,1,1,1,0,0,12,konstruktor; berliin

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,1,0,0,1,1,2,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+3,1,1,0,0,1,1,2,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+3,1,1,0,0,1,1,2,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+3,1,1,0,0,1,1,2,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+3,1,1,0,0,1,1,2,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+3,1,1,0,0,1,1,3,2,17,antoloogia; luulealbum; luuletaja; rummo; betti
+2,1,1,0,0,1,1,3,2,17,antoloogia; luuletaja; eesti; luulealbum
+3,1,1,2,0,2,1,3,2,17,luuletaja; betti; antoloogia; paul-eerik; rummo; luulealbum
+2,1,0,0,0,3,2,0,2,17,luulealbum; luuletaja; eesti; antoloogia
+2,0,1,0,0,1,1,3,2,17,antoloogia; rummo; luuletaja; eesti; luulealbum; mart
+0,1,0,0,0,2,1,1,1,17,antoloogia; paul-eerik; karl; eesti; luulealbum

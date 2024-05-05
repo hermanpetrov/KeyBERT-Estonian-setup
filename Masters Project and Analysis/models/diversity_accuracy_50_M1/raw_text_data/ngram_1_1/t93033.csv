@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,0,0,0,1,0,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+1,2,1,0,0,0,1,0,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+1,2,1,0,0,0,1,0,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+1,2,1,0,0,0,1,0,0,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+1,2,2,0,0,0,1,0,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina; üro
+1,2,0,0,0,1,1,0,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+1,2,1,0,0,1,2,1,1,16,restoranide; hindpere; julgeolekunõukogu; ukraina; üro
+0,2,0,2,0,1,2,1,0,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+0,1,0,0,0,1,2,1,0,16,hindpere; julgeolekunõukogu; ukraina
+0,1,1,0,0,1,2,1,0,16,restoranide; hindpere; julgeolekunõukogu; ukraina
+0,0,0,0,0,2,2,1,0,16,nädal; julgeolekunõukogu; ukraina

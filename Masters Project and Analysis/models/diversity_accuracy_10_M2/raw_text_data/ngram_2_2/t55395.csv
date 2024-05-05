@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,0,0,0,1,1,2,0,13,mõisaproua; concordia; pirgu; mõis
+3,1,0,0,0,1,1,2,0,13,mõisaproua; concordia; pirgu; mõis
+3,1,0,0,0,1,1,2,0,13,mõisaproua; concordia; pirgu; mõis
+3,1,0,0,0,1,1,2,0,13,mõisaproua; concordia; pirgu; mõis
+3,1,0,0,0,1,1,2,0,13,mõisaproua; concordia; pirgu; mõis
+2,1,0,0,0,1,0,2,0,13,concordia; pirgu; mõis
+2,0,0,0,0,1,0,2,0,13,pirgu; perekond; concordia; mõis
+1,1,0,0,0,0,0,2,0,13,concordia; mõisaproua; pirgu; mõis
+2,0,0,0,0,0,0,3,0,13,mõisaproua; concordia; pirgu; mõis
+1,0,0,1,0,0,0,1,1,13,concordia; arenduskeskus; mõis
+1,1,0,0,0,0,0,1,1,13,concordia; mõis

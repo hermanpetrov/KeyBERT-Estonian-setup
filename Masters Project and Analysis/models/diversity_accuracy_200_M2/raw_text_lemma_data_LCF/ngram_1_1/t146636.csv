@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,3,4,5,1,3,4,3,3,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+5,3,4,4,1,3,4,4,3,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+5,3,4,4,1,3,4,4,3,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+5,3,4,4,1,3,3,4,3,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+5,3,3,4,1,3,2,4,3,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+4,2,3,4,1,2,3,3,3,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik
+4,2,3,4,1,1,4,3,3,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik
+4,1,3,2,1,2,4,4,3,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik
+3,2,2,3,1,2,3,4,3,13,kiusatus; aegunud; tarbijalik; kõrkus
+4,1,2,3,2,2,3,4,2,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik
+3,2,2,3,2,3,3,4,2,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik

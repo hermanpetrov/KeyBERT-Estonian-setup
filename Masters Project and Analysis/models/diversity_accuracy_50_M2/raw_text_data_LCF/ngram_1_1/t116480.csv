@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,0,1,0,1,0,16,ungari; serenaad; peela; kontsert
+1,1,0,0,0,1,0,1,0,16,ungari; serenaad; peela; kontsert
+1,1,0,0,0,1,0,1,0,16,ungari; serenaad; peela; kontsert
+1,1,1,0,0,1,0,1,0,16,ungari; serenaad; kontsert; peela
+1,1,2,0,0,1,0,1,0,16,ungari; serenaad; rahvusvaheline; kontsert; peela
+1,1,2,0,0,1,0,1,0,16,ungari; serenaad; rahvusvaheline; kontsert; tõnu; peela
+0,1,3,0,0,2,0,1,0,16,ungari; rahvusvaheline; kontsert; kaljuste; tõnu; peela; veljo
+0,0,1,0,0,2,2,2,0,16,publik; kaljuste; tõnu; peela; veljo; dirigent
+0,0,2,0,0,1,1,1,0,16,rahvusvaheline; kaljuste; peela; veljo; dirigent
+1,0,2,1,0,0,1,2,1,16,ungari; tormis; rahvusvaheline; kontsert; kaljuste; peela; dirigent
+0,0,2,1,0,1,1,2,1,16,ungari; tormis; kontsert; kaljuste; peela; veljo; dirigent

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,7,7,2,4,4,4,4,5,15,rock; kosmos; kontsert; singer; kaks; café; draiv; raadio; vinger; kristo; onu; veiko
+4,7,6,2,4,4,4,4,5,15,rock; kosmos; singer; kontsert; kaks; café; draiv; raadio; vinger; kristo; onu; veiko
+4,7,5,2,4,4,5,4,5,15,rock; kosmos; singer; kontsert; kaks; café; draiv; raadio; vinger; onu; veiko
+4,7,4,2,4,4,3,4,3,15,rock; kosmos; singer; kontsert; kaks; café; draiv; raadio; vinger; onu; veiko
+2,7,5,2,4,4,3,2,3,15,rock; singer; kontsert; kosmos; kaks; café; draiv; raadio; vinger; onu; veiko
+2,6,1,2,4,3,2,4,2,15,rock; singer; kontsert; kaks; café; draiv; raadio; vinger; onu; veiko
+2,6,2,6,6,5,3,3,2,15,rock; singer; kontsert; kaks; kosmos; café; draiv; raadio; vinger; kristo; onu; veiko
+2,6,4,5,5,1,4,4,2,15,rock; kosmos; kontsert; singer; kaks; café; draiv; vinger; onu; veiko
+0,2,2,4,7,3,4,4,1,15,rock; kosmos; singer; kontsert; café; draiv; raadio; vinger; kristo; onu; kaks
+0,2,1,5,7,0,4,4,1,15,rock; singer; kontsert; kosmos; café; draiv; vinger; kristo; onu; kaks
+0,2,1,5,7,1,3,4,2,15,rock; singer; kosmos; kontsert; café; draiv; raadio; vinger; kristo; onu; kaks

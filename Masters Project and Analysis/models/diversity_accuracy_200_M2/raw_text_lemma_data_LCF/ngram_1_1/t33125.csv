@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,0,1,4,2,2,3,18,erakond; kohus; kuslap; tarmo; rüütel; valimine; voldemar; strandberg
+1,0,2,0,1,4,1,2,3,18,erakond; kohus; kuslap; tarmo; rüütel; valimine; voldemar; strandberg
+1,0,1,0,1,5,2,3,3,18,erakond; kohus; kuslap; tarmo; rüütel; valimine; voldemar; strandberg
+1,0,2,0,0,5,3,3,3,18,erakond; kohus; kuslap; arnold; tarmo; rüütel; voldemar; strandberg
+1,0,4,0,0,2,2,3,2,18,kuslap; erakond; roheline; arnold; tarmo; rüütel; voldemar; strandberg
+1,0,2,0,1,3,3,4,2,18,erakond; kohus; kuslap; arnold; tarmo; rüütel; voldemar; strandberg
+0,0,4,0,2,3,4,3,2,18,kuslap; erakond; roheline; arnold; tarmo; rüütel; voldemar; strandberg
+0,0,6,2,2,4,5,6,1,18,kuslap; erakond; roheline; arnold; tarmo; koalitsioon; rüütel; voldemar; strandberg
+1,0,7,3,2,4,5,6,1,18,kuslap; erakond; roheline; arnold; tarmo; koalitsioon; rüütel; voldemar; strandberg
+0,0,6,3,3,3,5,4,2,18,kuslap; erakond; roheline; arnold; tarmo; rüütel; voldemar; strandberg
+0,2,6,3,3,4,5,4,0,18,kuslap; kohus; erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg

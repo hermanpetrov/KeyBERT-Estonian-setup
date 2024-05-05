@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,1,2,2,3,1,4,0,15,bashar; jevgeni; sildam; toomas; tõnu
+4,1,1,2,2,3,1,4,0,15,bashar; jevgeni; sildam; toomas; tõnu
+4,1,1,2,2,3,1,4,1,15,bashar; jevgeni; sildam; toomas; tõnu
+4,1,1,2,2,3,1,4,1,15,bashar; jevgeni; sildam; toomas; tõnu
+4,1,1,2,2,2,1,4,1,15,bashar; jevgeni; sildam; toomas; tõnu
+5,1,1,2,2,3,2,4,1,15,bashar; liikumine; jevgeni; sildam; toomas; tõnu
+4,0,1,1,2,3,2,4,1,15,liikumine; jevgeni; sildam; toomas; putin; tõnu; vladimir
+2,0,0,3,2,1,1,4,1,15,liikumine; jevgeni; sildam; tõnu; toomas
+2,2,0,5,4,3,3,4,1,15,bashar; liikumine; jevgeni; sildam; toomas; putin; tõnu; vladimir
+3,0,0,2,3,3,2,4,1,15,liikumine; jevgeni; sildam; toomas; putin; tõnu; vladimir
+4,0,3,2,4,3,3,4,1,15,bashar; jevgeni; sildam; toomas; putin; tõnu; vladimir

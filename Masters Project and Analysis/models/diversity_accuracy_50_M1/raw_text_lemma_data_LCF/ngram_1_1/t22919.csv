@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,1,2,2,3,1,13,kuraator; poliitiline; graafika; galerii; tartu
+0,1,1,0,1,2,2,3,1,13,kuraator; poliitiline; graafika; galerii; tartu
+0,1,1,0,1,2,2,3,1,13,kuraator; poliitiline; graafika; galerii; tartu
+0,1,2,0,1,2,2,3,1,13,anders; kuraator; poliitiline; graafika; galerii; tartu
+0,1,2,0,1,2,2,0,1,13,anders; aleksander; kuraator; poliitiline; graafika; galerii
+0,1,2,0,1,1,2,0,1,13,anders; aleksander; kuraator; graafika; galerii
+0,1,2,0,0,1,2,1,1,13,aleksander; anders; kuraator; poliitiline; graafika; galerii
+2,1,2,0,0,2,3,0,1,13,galerii; anders; aleksander; poliitiline; graafika; tartu
+1,0,2,0,0,2,2,0,1,13,anders; aleksander; poliitiline; galerii; tartu
+0,0,2,4,0,2,2,1,1,13,anders; aleksander; kuraator; härm; poliitiline; galerii
+0,0,2,3,0,2,2,1,0,13,anders; aleksander; härm; graafika; galerii

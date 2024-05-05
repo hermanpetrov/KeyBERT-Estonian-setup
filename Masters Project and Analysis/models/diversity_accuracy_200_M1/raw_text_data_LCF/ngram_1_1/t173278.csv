@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,7,2,0,6,6,5,2,11,mereriik; meri; eesti; meremees; mereakadeemia; peeter; hierarhia; merekaru; järvelaid
+3,3,7,2,0,6,6,5,2,11,mereriik; meri; eesti; meremees; mereakadeemia; peeter; hierarhia; merekaru; järvelaid
+3,3,7,3,0,5,5,5,2,11,mereriik; meri; eesti; meremees; mereakadeemia; peeter; hierarhia; merekaru; järvelaid
+2,3,7,3,0,5,5,6,2,11,mereriik; meri; eesti; meremees; mereakadeemia; peeter; hierarhia; merekaru; järvelaid
+2,2,3,3,0,4,4,4,2,11,mereriik; meri; eesti; meremees; peeter; mereakadeemia; hierarhia; merekaru; järvelaid
+1,2,3,3,0,2,4,3,2,11,mereriik; eesti; mereakadeemia; meremees; peeter; hierarhia; järvelaid
+2,2,2,2,1,1,3,2,2,11,mereriik; eesti; meremees; mereakadeemia; peeter; hierarhia; merekaru; järvelaid
+1,1,2,1,0,1,0,2,2,11,hierarhia; eesti; järvelaid; mereakadeemia; peeter
+0,0,2,3,1,2,2,2,2,11,eesti; mereakadeemia; peeter; hierarhia; traditsioon; merekaru; järvelaid
+0,0,3,2,1,1,2,2,3,11,mereriik; eesti; mereakadeemia; peeter; hierarhia; traditsioon; merekaru; järvelaid
+0,0,2,0,0,1,1,1,3,11,hierarhia; eesti; mereriik; järvelaid; mereakadeemia; peeter

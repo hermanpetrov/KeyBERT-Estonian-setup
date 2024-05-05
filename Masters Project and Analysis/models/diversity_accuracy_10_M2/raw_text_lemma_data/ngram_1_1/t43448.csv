@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,1,0,15,hoone
+0,0,1,0,0,0,0,1,0,15,lübeck; hoone
+0,0,1,0,0,0,0,1,0,15,lübeck; hoone
+0,0,2,0,0,0,0,0,0,15,lübeck; kelder
+0,0,1,0,0,0,0,0,0,15,lübeck
+0,0,1,0,0,0,1,0,0,15,lübeck; kelder

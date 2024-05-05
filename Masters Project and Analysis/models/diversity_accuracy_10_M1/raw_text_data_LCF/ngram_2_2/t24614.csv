@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+1,1,1,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+1,1,1,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+1,1,1,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+1,1,2,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+1,1,1,1,0,1,1,3,1,15,tühi-tähi; keel; keelevaist; eesti; alaväärsustunne
+0,0,1,0,1,1,1,3,1,15,keel; keelevaist; eesti
+0,1,1,2,3,2,2,1,1,15,süsteem; keel; isereguleeruv; eesti; kaplinski
+0,2,1,0,1,2,2,1,1,15,kõnekeel; keel; keelevaist; eesti; kaplinski
+0,2,3,0,1,1,2,1,1,15,jaan; keel; eesti; kaplinski
+1,2,1,0,1,1,3,3,0,15,jaan; keel; eesti; kaplinski

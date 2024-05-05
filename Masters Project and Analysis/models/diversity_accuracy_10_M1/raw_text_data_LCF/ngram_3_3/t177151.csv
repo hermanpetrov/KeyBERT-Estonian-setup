@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,2,0,1,2,2,3,0,13,festival; eurosonic; rajasaare; kristo; artist
+0,2,2,0,1,2,2,3,0,13,festival; eurosonic; rajasaare; kristo; artist
+0,2,2,0,1,2,2,3,0,13,festival; eurosonic; rajasaare; kristo; artist
+0,2,2,0,1,2,2,3,0,13,festival; eurosonic; rajasaare; kristo; artist
+0,2,1,0,1,2,2,3,0,13,festival; eurosonic; rajasaare; kristo; artist
+0,3,1,0,1,1,1,3,0,13,festival; eurosonic; rajasaare; jaan; kristo; artist
+1,2,1,3,1,1,1,3,0,13,festival; eurosonic; rajasaare; bänd; kristo; artist; intervjuu
+1,2,3,0,1,1,1,3,0,13,festival; eurosonic; artist; erik; rajasaare; jaan; morna; kristo
+1,4,1,0,1,1,0,2,0,13,festival; rajasaare; eurosonic; jaan; kristo; artist
+0,1,3,1,1,1,0,3,0,13,rajasaare; eurosonic; jaan; morna; artist; erik
+0,1,1,2,1,3,0,3,0,13,rajasaare; eurosonic; morna; meister; artist; erik

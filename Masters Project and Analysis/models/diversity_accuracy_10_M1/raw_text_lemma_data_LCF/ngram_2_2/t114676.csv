@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,2,0,0,2,1,2,1,17,laul; nsv; biitel; aasta
+0,0,2,0,0,2,1,2,1,17,laul; nsv; biitel; aasta
+0,0,2,0,0,2,1,2,1,17,laul; nsv; biitel; aasta
+0,0,2,0,0,2,1,2,1,17,laul; nsv; biitel; aasta
+0,0,2,0,0,2,1,2,1,17,laul; nsv; biitel; aasta
+0,1,1,0,0,2,1,2,1,17,aasta; nsv; biitel; laul
+1,1,1,2,0,4,1,2,1,17,laul; nsv; biitel; aasta; dylan
+1,1,3,2,0,2,1,3,1,17,laul; nsv; bob; biitel; aasta; dylan
+0,1,1,1,0,2,2,3,1,17,laul; nsv; biitel; aasta; dylan
+0,1,3,3,0,4,3,2,0,17,nsv; biitel; laul; aasta; bob; dylan
+0,0,2,1,0,5,1,2,1,17,petrov; nsv; aasta; laul; bob; dylan

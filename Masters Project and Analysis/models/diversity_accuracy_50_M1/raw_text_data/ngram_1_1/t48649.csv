@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,2,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,2,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,3,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,3,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,3,1,1,0,1,1,0,12,jooks; madis; indrek; tuletõrje; trepp; aesma
+1,0,3,1,1,0,1,0,0,12,madis; indrek; tuletõrje; trepp; aesma
+1,0,3,4,1,0,1,0,0,12,seljakott; madis; indrek; aesma; tuletõrje; trepp
+1,0,2,2,1,1,0,0,0,12,madis; indrek; korrus; aesma; tuletõrje; trepp
+2,0,2,2,1,1,0,1,0,12,korrus; madis; indrek; aesma; tuletõrje; trepp
+2,0,2,3,1,1,0,1,0,12,vaheoja; korrus; madis; indrek; aesma; tuletõrje; trepp

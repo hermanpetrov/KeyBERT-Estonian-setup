@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,2,0,1,2,0,0,1,0,25,renn; roland; torseless; esimene; ludwig; uus; louis; realism; ferdinand; erich
+7,2,0,1,2,0,0,1,0,25,renn; roland; torseless; esimene; ludwig; uus; louis; realism; ferdinand; erich
+7,2,0,1,2,0,0,1,0,25,renn; roland; torseless; esimene; ludwig; uus; louis; realism; ferdinand; erich
+7,2,0,1,2,0,0,1,0,25,renn; roland; torseless; esimene; ludwig; uus; louis; realism; ferdinand; erich
+7,2,2,1,2,0,0,1,0,25,renn; roland; torseless; esimene; jünger; ludwig; uus; louis; realism; ferdinand; erich; ernst
+5,1,1,1,2,0,1,1,0,25,renn; roland; esimene; ludwig; uus; sõja; louis; realism; ferdinand; maailmasõda
+1,1,0,3,2,3,1,1,0,25,esimene; jünger; remark; uus; ludwig; sõja; realism; ernst
+3,0,2,0,2,2,3,1,0,25,uus; sõja; realism; jünger; sõjaromaan; ernst
+0,2,0,2,2,1,2,1,0,25,renn; uus; maailmasõda; realism; esimene; jünger; sõjaromaan; ernst
+1,2,1,2,2,1,0,1,2,25,ernst; esimene; uus; maailmasõda; realism; sõjaromaan; jünger
+1,1,1,3,2,0,0,2,2,25,ernst; esimene; uus; sõja; louis; maailmasõda; realism; ferdinand; sõjaromaan; jünger

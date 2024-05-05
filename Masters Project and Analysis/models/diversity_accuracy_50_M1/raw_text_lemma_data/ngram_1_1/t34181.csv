@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,1,0,2,2,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,1,0,1,0,2,2,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,1,0,1,0,2,2,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,0,0,1,0,2,2,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,0,0,1,1,2,2,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,1,0,1,2,2,0,0,15,kriitik; kuraator; publik; institutsioon; reaalne; kunstnik
+0,1,0,0,1,0,1,1,0,15,kriitik; kuraator; reaalne; institutsioon
+0,1,0,1,0,0,1,2,0,15,kriitik; kuraator; institutsioon
+0,1,1,2,0,2,0,0,0,15,kriitik; kuraator; härm; institutsioon
+0,1,0,1,0,2,0,0,0,15,kriitik; anders; institutsioon
+0,0,0,1,0,0,0,0,0,15,anders

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,3,2,0,1,3,1,0,18,disainer; performance; mood; tants; kollektsioon; moeetendus
+0,1,3,2,0,1,3,1,0,18,disainer; performance; mood; tants; kollektsioon; moeetendus
+0,1,3,2,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kollektsioon; moeetendus
+0,1,3,2,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kollektsioon; moeetendus
+0,1,1,2,0,1,3,3,1,18,disainer; performance; paju; mood; tants; kollektsioon; moeetendus
+0,3,3,2,0,2,3,2,0,18,disainer; moeetendus; performance; mood; tants; kollektsioon
+1,1,3,2,0,4,1,4,1,18,disainer; moeetendus; anatoomikum; performance; mood; tants; lavastaja
+3,0,1,1,0,5,3,3,1,18,disainer; moeetendus; anatoomikum; performance; mood; tants; kollektsioon
+2,1,1,3,0,2,1,2,1,18,disainer; performance; mood; tants; lavastaja; moeetendus
+3,2,1,0,0,1,1,3,1,18,disainer; paju; mood; tants; kollektsioon; moeetendus; lavastaja
+0,1,1,0,0,2,4,3,1,18,disainer; paju; tants; moeetendus; performance; mood; kollektsioon; lavastaja

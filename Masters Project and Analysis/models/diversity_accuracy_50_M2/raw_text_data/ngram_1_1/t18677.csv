@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,0,1,1,1,1,1,19,kindlusloss; šotimaa; sõjamemoriaal; edinburghi; rahvuslik
+2,1,1,0,1,1,1,1,1,19,kindlusloss; šotimaa; sõjamemoriaal; edinburghi; rahvuslik
+2,1,1,0,1,1,1,1,1,19,kindlusloss; šotimaa; sõjamemoriaal; edinburghi; rahvuslik
+2,1,1,0,1,1,1,1,1,19,kindlusloss; šotimaa; sõjamemoriaal; edinburghi; rahvuslik
+2,1,1,0,1,0,1,1,1,19,kindlusloss; šotimaa; sõjamemoriaal; edinburghi; rahvuslik
+1,1,1,0,1,1,1,1,1,19,kindlusloss; sõjamemoriaal; šotimaa; edinburghi; rahvuslik
+1,0,1,0,1,0,0,1,1,19,rahvuslik; kindlusloss; sõjamemoriaal; šotimaa
+0,1,1,0,1,0,0,1,3,19,kindlusloss; šotimaa; püha; sõda; rahvuslik
+0,1,1,0,0,1,0,0,2,19,püha; rahvuslik; robert; šotimaa
+0,1,1,0,0,1,0,0,2,19,rahvuslik; edinburghi; robert; šotimaa
+0,1,1,0,0,1,1,0,1,19,rahvuslik; robert; šotimaa

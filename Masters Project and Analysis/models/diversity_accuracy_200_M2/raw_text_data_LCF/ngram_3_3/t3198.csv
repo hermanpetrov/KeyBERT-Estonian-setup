@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,11,5,8,3,4,4,8,9,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+10,11,5,8,3,4,4,9,9,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+10,10,6,8,3,4,4,9,9,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+9,11,6,8,3,4,4,10,7,13,harry; usa; tony; liivrand; põhja-korea; publica; swedbank; koalitsioon; blair; reformierakond; res
+10,9,6,9,4,5,5,11,7,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+10,8,8,11,7,7,7,10,7,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+8,7,7,11,9,10,10,9,9,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+8,9,9,10,8,10,9,9,11,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+7,9,7,9,10,11,9,11,11,13,harry; usa; tony; liivrand; põhja-korea; publica; swedbank; koalitsioon; blair; reformierakond; res
+5,8,9,10,9,11,9,10,11,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
+5,8,7,10,9,11,10,10,11,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea

@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,4,0,0,4,4,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+1,0,4,0,0,4,4,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+1,0,3,0,0,4,4,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+1,0,4,0,1,4,4,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+1,0,4,0,2,4,3,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,1,4,0,3,4,3,0,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,1,3,2,4,4,3,1,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,1,3,3,3,5,3,3,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,1,3,3,3,5,4,3,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,0,3,4,3,4,4,3,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+0,1,2,4,3,5,4,3,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro

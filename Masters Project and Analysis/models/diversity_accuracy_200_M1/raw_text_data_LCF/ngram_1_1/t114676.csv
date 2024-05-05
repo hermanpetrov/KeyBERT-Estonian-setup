@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,5,4,2,0,3,4,6,0,17,petrov; transpordilennuk; nsv; luurelennuk; kikerpuu; aasta; laul; naissoo; levimuusika; liit; bob
+2,5,5,2,0,3,4,7,1,17,petrov; transpordilennuk; nsv; kikerpuu; aasta; laul; naissoo; levimuusika; bob; liit; luurelennuk
+2,5,5,1,0,3,4,7,1,17,petrov; transpordilennuk; nsv; kikerpuu; aasta; laul; naissoo; levimuusika; bob; liit; luurelennuk
+2,5,5,0,1,3,3,6,2,17,petrov; transpordilennuk; nsv; andrei; kikerpuu; aasta; laul; naissoo; levimuusika; bob; liit; luurelennuk
+2,4,5,0,2,4,3,6,1,17,petrov; transpordilennuk; nsv; kikerpuu; aasta; laul; naissoo; levimuusika; bob; luurelennuk
+2,5,6,1,2,3,2,3,2,17,petrov; transpordilennuk; nsv; andrei; kikerpuu; aasta; laul; naissoo; levimuusika; bob; liit; luurelennuk
+0,4,4,1,4,3,3,4,3,17,petrov; transpordilennuk; nsv; luurelennuk; kikerpuu; andrei; aasta; laul; naissoo; bob
+2,4,3,1,4,2,4,2,2,17,petrov; transpordilennuk; nsv; luurelennuk; aasta; laul; naissoo; bob
+2,5,2,2,5,2,3,1,3,17,petrov; transpordilennuk; nsv; luurelennuk; kikerpuu; aasta; laul; naissoo; bob
+2,4,2,2,4,2,3,2,3,17,petrov; uno; nsv; luurelennuk; kikerpuu; aasta; laul; naissoo; bob
+2,2,1,3,4,3,3,1,3,17,petrov; transpordilennuk; nsv; luurelennuk; kikerpuu; aasta; naissoo; liit; bob

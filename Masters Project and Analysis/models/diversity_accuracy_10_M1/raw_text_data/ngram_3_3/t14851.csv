@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+0,1,0,0,0,0,0,3,0,14,naan; gustav; vladivostok
+1,0,0,0,0,2,0,3,0,14,gustav; naan; fašism; vladivostok
+0,0,0,2,0,2,0,3,0,14,gustav; naan; akadeemia; teaduste; vladivostok
+0,0,0,2,0,2,1,2,0,14,informatiivne; gustav; naan; akadeemia; teaduste
+0,0,1,1,0,2,1,2,0,14,informatiivne; evolutsioon; gustav; naan; akadeemia
+0,0,0,1,0,0,1,2,0,14,informatiivne; gustav; naan

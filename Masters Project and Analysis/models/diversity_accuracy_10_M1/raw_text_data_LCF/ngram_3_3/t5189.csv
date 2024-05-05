@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,4,1,0,1,1,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,0,4,1,0,1,1,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,0,4,1,0,1,1,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,0,4,1,0,1,1,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,1,3,1,0,1,1,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,1,4,1,0,1,1,2,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+1,3,5,0,0,1,1,2,0,17,muuseum; riina; gruusia; eentalu; laidoneri; konkurentsivõime; sulev; veiko
+0,2,5,1,0,1,0,3,0,17,muuseum; riina; venemaa; eentalu; laidoneri; konkurentsivõime; veiko
+0,0,3,1,0,2,0,4,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,0,3,1,0,1,0,3,0,17,laidoneri; muuseum; konkurentsivõime; riina; eentalu
+0,0,6,0,1,0,1,4,0,17,muuseum; riina; eentalu; laidoneri; õunpuu; konkurentsivõime; veiko

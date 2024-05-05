@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,4,3,1,2,4,5,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+5,2,4,3,1,2,4,5,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+5,2,4,3,1,2,4,5,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+5,2,2,3,1,2,4,5,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+5,2,4,3,1,4,4,5,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+6,1,4,3,1,4,5,5,1,13,halb; harry; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
+4,0,4,3,1,5,5,3,1,13,halb; harry; hobusepea; laimre; liivrand; nali; marco; solvang
+3,3,6,5,1,5,4,5,1,13,halb; harry; marco; hobusepea; nali; liivrand; tsensuur; laimre; diskussioon; solvang
+3,3,4,2,1,4,4,2,1,13,halb; hobusepea; nali; laimre; tsensuur; marco; solvang
+3,2,3,1,1,5,5,3,0,13,halb; harry; hobusepea; nali; laimre; tsensuur; marco; solvang
+3,1,4,1,2,5,5,3,2,13,halb; harry; diskussioon; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang

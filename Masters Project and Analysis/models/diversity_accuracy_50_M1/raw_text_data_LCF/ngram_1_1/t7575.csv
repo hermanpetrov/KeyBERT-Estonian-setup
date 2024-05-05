@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,3,1,0,0,3,3,0,15,piiskopkond; institutsioon; kloostrielu; tõnis; lukas; toomhärra; tartu
+1,0,3,1,0,0,3,3,0,15,piiskopkond; institutsioon; kloostrielu; tõnis; lukas; toomhärra; tartu
+1,0,3,1,0,0,3,3,0,15,piiskopkond; institutsioon; kloostrielu; tõnis; lukas; toomhärra; tartu
+1,0,3,1,0,0,3,3,1,15,piiskopkond; institutsioon; ülikool; kloostrielu; tõnis; lukas; toomhärra; tartu
+1,0,3,1,0,0,3,3,1,15,piiskopkond; institutsioon; ülikool; tark; kloostrielu; tõnis; lukas; toomhärra; tartu
+1,1,3,1,0,0,2,3,1,15,piiskopkond; institutsioon; ülikool; kloostrielu; tõnis; lukas; toomhärra; tartu
+0,1,3,1,0,1,0,2,1,15,toomhärra; ülikool; tark; tõnis; lukas
+0,1,3,1,0,2,1,2,1,15,ülikool; toomhärra; jaroslav; institutsioon; tark; tõnis; lukas
+0,1,3,1,0,1,1,1,1,15,ülikool; toomhärra; jaroslav; institutsioon; tark; lukas
+0,2,2,1,0,0,2,1,1,15,toomhärra; jaroslav; ülikool; tark; tõnis; lukas
+1,2,2,2,0,0,1,1,1,15,ülikool; toomhärra; jaroslav; institutsioon; tartu; tõnis; lukas

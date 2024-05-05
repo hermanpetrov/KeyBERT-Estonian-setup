@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,2,0,0,2,2,2,1,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+0,2,2,0,0,2,2,2,1,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+0,2,2,0,0,2,2,2,2,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+0,2,2,0,0,2,2,2,2,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+0,2,2,0,0,2,2,2,2,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+0,2,2,0,0,2,2,2,2,16,berlusconi; itaalia; venemaa; eesti; inflatsioon
+2,1,1,0,0,2,2,1,2,16,silvio; venemaa; eesti; inflatsioon
+1,1,1,1,0,2,2,0,2,16,venemaa; berlusconi; josing; inflatsioon; suurbritannia; eesti
+2,1,1,1,0,2,2,1,2,16,venemaa; berlusconi; josing; inflatsioon; eesti
+1,1,1,1,0,2,2,1,2,16,venemaa; berlusconi; inflatsioon; eesti
+1,1,1,0,0,3,2,0,2,16,venemaa; berlusconi; itaalia; inflatsioon; eesti

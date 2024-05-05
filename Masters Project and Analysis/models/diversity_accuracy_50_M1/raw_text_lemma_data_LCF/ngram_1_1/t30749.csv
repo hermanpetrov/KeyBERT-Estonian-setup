@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,1,0,0,0,0,0,0,12,mägi
+0,0,1,0,0,0,0,0,0,12,mägi
+0,0,1,0,0,0,0,0,0,12,mägi
+0,0,2,0,0,0,0,0,0,12,mägi; madeira
+0,0,2,0,0,0,0,0,0,12,mägi; madeira
+0,0,0,0,0,0,0,0,0,12,
+0,0,1,0,0,0,0,0,0,12,madeira
+0,0,1,0,0,1,0,0,0,12,mägi; madeira
+0,0,0,0,0,1,0,0,0,12,madeira
+0,1,1,0,0,1,0,0,0,12,loodus; madeira
+0,0,1,1,0,1,0,0,0,12,madeira

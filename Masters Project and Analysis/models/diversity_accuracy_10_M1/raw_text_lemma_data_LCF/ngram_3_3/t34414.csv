@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,1,0,3,3,5,1,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
+2,2,2,1,0,3,3,5,0,13,ants; salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+2,2,2,1,0,3,3,5,0,13,ants; salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+2,2,2,1,0,3,3,5,0,13,ants; salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+2,2,2,1,0,3,3,5,2,13,ants; salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+2,2,2,1,0,3,3,5,0,13,ants; salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+4,2,2,2,0,3,3,5,0,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
+3,4,2,2,0,3,3,5,2,13,salme; janek; inflatsioon; johanson; komisjon; euro; euroopa
+4,1,2,1,0,3,4,6,2,13,ants; salme; janek; tartu; komisjon; euro; euroopa
+2,0,3,3,0,6,3,6,2,13,ants; salme; janek; johanson; tartu; komisjon; euro; euroopa
+1,0,4,3,0,4,3,6,2,13,ants; salme; janek; tartu; komisjon; euro; euroopa

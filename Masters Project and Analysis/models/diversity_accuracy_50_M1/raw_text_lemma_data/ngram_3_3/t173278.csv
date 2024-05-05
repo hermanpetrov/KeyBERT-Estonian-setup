@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+1,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+1,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+1,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+0,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+1,2,2,0,0,2,2,2,3,11,hierarhia; meri; eesti; peeter
+2,3,3,2,0,2,4,2,3,11,meri; eesti; peeter; hierarhia; traditsioon
+2,3,2,2,2,2,2,3,3,11,hierarhia; traditsioon; meri; eesti; peeter
+3,4,4,4,3,3,2,3,3,11,meri; eesti; peeter; hierarhia; traditsioon
+2,2,3,3,2,2,4,3,3,11,meri; eesti; peeter; hierarhia; traditsioon
+2,2,3,3,1,2,2,3,2,11,traditsioon; meri; eesti; peeter

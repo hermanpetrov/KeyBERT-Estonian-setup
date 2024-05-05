@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,0,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+3,3,0,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+3,3,0,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+3,3,0,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+3,3,1,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+3,3,1,1,1,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
+1,2,2,1,1,2,1,2,0,19,prius; edinburghi; šotimaa
+3,1,1,1,1,2,0,1,0,19,prius; edinburghi; stewart; šotimaa
+2,2,0,1,1,0,0,1,0,19,prius; edinburghi; stewart; šotimaa
+2,2,0,1,1,0,0,1,0,19,prius; edinburghi; šotimaa
+2,2,1,1,0,1,0,1,0,19,prius; edinburghi; šotimaa; rahvuslik

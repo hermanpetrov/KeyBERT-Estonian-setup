@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,1,2,0,0,0,4,15,ühiskond; mets; ööklubi; jurist; eesti; lukas; politsei
+0,1,1,1,2,1,0,2,4,15,mets; ööklubi; ühiskond; reimo; jurist; eesti; lukas; politsei
+0,1,0,1,2,1,0,3,3,15,mets; ööklubi; ühiskond; reimo; jurist; tõnis; eesti; politsei
+0,1,1,1,2,2,0,3,3,15,mets; reimo; tõnis; eesti; ühiskond; ööklubi; jurist; politsei
+0,1,2,1,2,3,1,3,3,15,abielu; mets; ööklubi; reimo; jurist; tõnis; eesti; politsei
+0,1,2,1,2,1,1,1,3,15,abielu; mets; ööklubi; jurist; tõnis; eesti; politsei
+1,1,2,2,2,2,2,4,4,15,abielu; mets; kirik; reimo; geiaktivist; tõnis; eesti; lukas; ööklubi; jurist; politsei
+1,0,1,2,1,2,2,1,3,15,abielu; mets; kirik; geiaktivist; tõnis; eesti; ööklubi; demokraatia; jurist
+3,0,2,3,2,2,3,4,2,15,abielu; kirik; mets; reimo; geiaktivist; eesti; lukas; demokraatia; jurist; politsei
+2,0,2,3,4,0,3,4,3,15,abielu; kirik; mets; reimo; geiaktivist; eesti; lukas; ööklubi; demokraatia; jurist; politsei
+3,0,3,3,3,0,2,2,2,15,kirik; mets; geiaktivist; eesti; lukas; ööklubi; jurist; demokraatia; politsei

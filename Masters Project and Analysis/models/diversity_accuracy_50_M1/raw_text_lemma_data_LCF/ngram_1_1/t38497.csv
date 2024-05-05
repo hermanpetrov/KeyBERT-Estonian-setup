@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,0,0,2,3,0,2,14,soome; johannes; keel; õppimine; eesti
+0,0,3,0,0,2,3,0,2,14,soome; johannes; keel; õppimine; eesti
+0,0,3,0,0,2,3,0,2,14,soome; johannes; keel; õppimine; eesti
+0,0,2,0,0,2,3,0,2,14,soome; johannes; keel; eesti
+0,0,1,0,0,2,3,0,2,14,soome; johannes; keel; eesti
+0,0,1,0,0,4,2,1,2,14,soome; johannes; keel; aavik; eesti
+0,0,1,0,0,3,3,2,2,14,soome; mika; johannes; keel; aavik; eesti
+0,0,1,1,0,2,2,3,2,14,keränen; johannes; eesti; soome; mika; keel; aavik; võimatu
+0,1,1,0,0,2,1,1,2,14,soome; keränen; johannes; õppimine; aavik; eesti
+0,0,2,1,0,0,1,1,2,14,soome; keränen; johannes; keel; eesti
+0,0,0,1,0,0,1,1,2,14,keränen; eesti; johannes

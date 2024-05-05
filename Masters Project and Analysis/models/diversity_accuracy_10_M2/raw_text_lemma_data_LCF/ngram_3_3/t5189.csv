@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
+1,0,1,3,0,1,1,0,1,15,laidoner; keedus; aasta; gruusia
+2,0,0,2,0,0,0,0,1,15,laidoner; keedus; aasta; sulev
+2,0,3,3,0,0,0,0,1,15,laidoner; keedus; muuseum; aasta
+1,0,2,2,0,0,0,0,1,15,aasta; laidoner
+0,1,2,1,0,0,1,1,1,15,aasta; laidoner

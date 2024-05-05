@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,3,3,0,0,13,erakond; kriis; luksemburg
+1,1,1,0,0,3,3,0,0,13,erakond; kriis; luksemburg
+1,1,2,0,0,3,3,0,0,13,erakond; kriis; brüssel; luksemburg
+1,1,2,0,0,3,3,0,0,13,erakond; kriis; brüssel; luksemburg
+1,1,3,0,0,4,3,0,0,13,erakond; talv; kriis; brüssel; luksemburg
+1,1,3,0,0,3,3,1,0,13,erakond; kriis; brüssel; luksemburg
+1,1,3,0,0,2,3,1,0,13,erakond; kriis; brüssel; luksemburg
+1,1,3,1,0,3,4,1,0,13,erakond; kriis; tanel; brüssel; luksemburg
+1,1,6,1,0,3,4,2,0,13,erakond; kriis; valimine; luksemburg; sügav; tanel; kroon; brüssel
+1,0,4,1,0,2,4,1,0,13,erakond; kriis; luksemburg; sügav; tanel; kroon; brüssel
+1,0,4,0,0,2,2,1,0,13,sügav; erakond; tanel; kroon; brüssel; kriis; luksemburg

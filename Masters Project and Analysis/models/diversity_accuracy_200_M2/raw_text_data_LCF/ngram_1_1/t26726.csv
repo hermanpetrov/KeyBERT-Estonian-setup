@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,2,2,3,1,1,2,2,0,13,komöödia; vigased; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; laulumäng; kriitiline
+4,2,2,3,1,1,2,1,0,13,komöödia; vigased; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; laulumäng; kriitiline
+4,1,2,3,1,1,1,1,0,13,komöödia; vigased; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; kriitiline
+4,1,1,3,1,1,1,2,0,13,komöödia; vigased; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; kriitiline
+3,1,2,3,2,2,2,2,0,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; kriitiline
+4,1,3,2,2,3,2,2,0,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism
+3,0,3,1,2,3,2,5,1,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; realism
+2,0,3,1,2,3,1,5,2,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; realism
+2,0,3,2,2,3,2,6,2,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism
+1,1,2,2,3,3,1,6,1,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism
+3,0,3,3,2,2,3,5,2,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; kirjandus; realism; laulumäng; vilde

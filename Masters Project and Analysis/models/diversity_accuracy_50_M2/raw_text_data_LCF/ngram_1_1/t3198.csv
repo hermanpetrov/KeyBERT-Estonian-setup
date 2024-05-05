@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,1,1,0,1,2,2,1,2,13,koalitsioon; liivrand; blair; põhja-korea; reformierakond; res; swedbank
+3,1,1,0,1,2,2,1,2,13,koalitsioon; liivrand; blair; põhja-korea; reformierakond; res; swedbank
+3,1,1,0,1,2,2,1,2,13,koalitsioon; liivrand; blair; põhja-korea; reformierakond; res; swedbank
+3,1,1,0,1,2,2,1,2,13,koalitsioon; liivrand; blair; põhja-korea; reformierakond; res; swedbank
+3,1,1,0,1,2,2,1,2,13,koalitsioon; liivrand; blair; põhja-korea; reformierakond; res; swedbank
+2,0,1,0,1,1,1,1,2,13,liivrand; blair; põhja-korea; reformierakond; res; swedbank
+2,0,0,0,1,2,0,1,2,13,blair; põhja-korea; publica; reformierakond; res; swedbank
+1,0,1,1,1,1,0,1,2,13,blair; res; põhja-korea; reformierakond; publica; swedbank
+0,1,0,0,1,1,0,1,2,13,liivrand; blair; res; põhja-korea; reformierakond; publica
+0,1,0,0,1,1,2,1,2,13,liivrand; blair; res; põhja-korea; reformierakond; publica
+0,1,1,0,1,1,1,0,2,13,liivrand; blair; res; põhja-korea; reformierakond; publica

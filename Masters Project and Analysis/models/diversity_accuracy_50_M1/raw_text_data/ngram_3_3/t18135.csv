@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,7,3,4,1,6,4,6,3,19,ivo; leili; estonia; lendav; verdi; jüri; laulja; lavastaja; ooper
+3,7,4,4,1,6,4,6,3,19,ivo; leili; estonia; lendav; verdi; jüri; laulja; lavastaja; ooper
+3,7,4,4,1,6,4,6,3,19,ivo; leili; estonia; lendav; verdi; jüri; laulja; lavastaja; ooper
+3,8,4,4,1,6,4,6,3,19,ivo; leili; estonia; lendav; verdi; jüri; hollandlane; laulja; lavastaja; ooper
+3,8,2,4,1,6,4,7,3,19,ivo; leili; estonia; lendav; verdi; jüri; hollandlane; laulja; lavastaja; ooper
+5,8,5,4,1,6,4,9,3,19,leili; jüri; kuusk; ooper; ivo; estonia; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
+3,4,3,7,1,6,8,7,3,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
+5,2,3,3,3,5,6,4,3,19,ivo; estonia; koor; itaalia; tammel; verdi; lendav; kuusk; hollandlane; laulja; lavastaja; ooper; armastus
+4,4,6,4,3,6,4,4,4,19,ivo; leili; estonia; koor; itaalia; lendav; tammel; verdi; kuusk; hollandlane; laulja; lavastaja; ooper; armastus
+4,4,4,7,4,4,5,3,2,19,ivo; estonia; koor; itaalia; lendav; verdi; kuusk; hollandlane; laulja; lavastaja; ooper; armastus
+1,2,4,7,3,6,5,4,2,19,ivo; estonia; koor; itaalia; lendav; tammel; verdi; jüri; hollandlane; laulja; lavastaja; ooper

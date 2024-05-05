@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,2,1,1,1,1,1,14,koalitsioon; harry; aktsia; juhan
+2,1,1,2,1,1,1,1,1,14,koalitsioon; harry; aktsia; juhan
+2,1,1,2,1,1,1,1,1,14,koalitsioon; harry; aktsia; juhan
+2,1,1,2,1,1,1,1,1,14,koalitsioon; harry; aktsia; juhan
+2,0,1,2,1,1,1,1,1,14,koalitsioon; harry; aktsia; juhan
+2,0,1,2,1,1,1,2,1,14,koalitsioon; harry; aktsia; juhan
+2,1,1,2,1,1,1,0,1,14,koalitsioon; harry; aktsia
+1,1,1,0,1,1,1,0,1,14,koalitsioon; harry; aktsia
+1,0,1,3,1,1,1,1,1,14,koalitsioon; harry; aktsia; mälberg; juhan; mall
+0,0,3,1,1,1,1,0,1,14,koalitsioon; harry; aktsia; mälberg; mall; juhan
+0,0,1,1,0,2,1,0,1,14,juhan; koalitsioon; aktsia

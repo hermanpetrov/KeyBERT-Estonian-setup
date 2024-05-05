@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,1,0,1,1,1,0,13,maapagu; talve; rahva; ilmar
+0,1,2,1,0,1,1,1,0,13,maapagu; talve; rahva; ilmar
+0,1,2,1,0,1,1,1,0,13,maapagu; talve; rahva; ilmar
+0,1,2,1,0,1,1,1,0,13,maapagu; talve; rahva; ilmar
+0,1,2,1,0,1,1,1,0,13,maapagu; talve; rahva; ilmar
+0,1,1,1,0,2,1,1,0,13,talve; rahva; etnoloog; maapagu; ilmar
+1,1,1,1,0,2,1,1,0,13,soome; talve; rahva; etnoloog; ilmar
+0,2,1,2,0,3,2,2,0,13,talve; rahva; ekspeditsioon; etnoloog; ilmar
+0,1,2,0,0,3,3,2,0,13,talve; rahva; etnoloog; ilmar
+0,1,2,0,0,3,2,0,0,13,soome; talve; rahva; ilmar
+0,1,1,0,0,2,2,2,0,13,talve; rahva; maapagu; ilmar

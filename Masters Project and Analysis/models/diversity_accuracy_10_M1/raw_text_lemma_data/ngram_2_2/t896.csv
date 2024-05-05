@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,1,1,0,1,0,12,ujumine; triatlon; sport; ain; jooksma
+0,1,1,0,1,1,0,1,0,12,ujumine; triatlon; sport; ain; jooksma
+0,1,1,0,1,1,0,1,0,12,ujumine; triatlon; sport; ain; jooksma
+0,1,1,0,1,1,0,1,0,12,ujumine; triatlon; sport; ain; jooksma
+0,1,0,0,1,1,0,1,0,12,ujumine; triatlon; jooksma; ain
+0,1,0,0,1,1,1,1,0,12,ujumine; triatlon; ain; jooksma
+1,0,0,0,1,1,1,1,0,12,triatlon; jooksma; ain
+1,0,0,1,1,0,0,2,0,12,triatlon; sport; kilomeeter; ain; jooksma
+0,0,0,0,0,0,0,1,0,12,triatlon
+0,0,0,0,0,1,0,1,0,12,triatlon; ain
+0,1,0,2,1,0,0,2,0,12,ujumine; triatlon; sport; tund

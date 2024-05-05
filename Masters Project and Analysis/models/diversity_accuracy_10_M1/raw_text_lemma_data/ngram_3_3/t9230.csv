@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,0,1,1,2,2,3,15,marko; alfa; kutsikas; hunt; alam-pedja
+1,1,2,0,1,1,2,2,2,15,alfa; kutsikas; hunt; alam-pedja
+1,1,2,0,1,1,2,2,2,15,alfa; kutsikas; hunt; alam-pedja
+1,1,2,0,1,1,2,2,2,15,alfa; kutsikas; hunt; alam-pedja
+1,1,2,0,1,1,2,2,3,15,marko; alfa; kutsikas; hunt; alam-pedja
+1,1,2,0,1,1,3,2,2,15,alfa; kutsikas; hunt; territoorium; alam-pedja
+0,1,2,2,1,2,3,4,2,15,territoorium; alam-pedja; alfa; rootsi; hunt
+0,2,0,2,1,3,3,3,3,15,kutsikas; territoorium; ilmar; alfa; alam-pedja; rootsi; hunt; kari
+1,1,1,0,2,2,2,3,3,15,alfa; hunt; territoorium; ilmar; alam-pedja
+0,1,1,2,2,1,2,1,4,15,marko; territoorium; alfa; alam-pedja; rootsi; hunt
+1,1,0,1,0,1,2,3,3,15,alfa; hunt; kari; alam-pedja; murdmine

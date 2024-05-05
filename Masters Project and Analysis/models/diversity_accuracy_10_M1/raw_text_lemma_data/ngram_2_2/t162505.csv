@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+2,1,1,2,2,1,2,1,2,11,raamat; sündmus; jakobson; eesti; inimene
+1,1,1,2,2,2,2,0,2,11,raamat; jakobson; eesti; inimene
+0,1,2,1,2,3,2,2,2,11,kreutzwald; jakobson; eesti; inimene
+1,0,2,1,2,2,2,2,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
+1,0,2,1,2,2,1,2,2,11,sündmus; kreutzwald; jakobson; eesti; inimene

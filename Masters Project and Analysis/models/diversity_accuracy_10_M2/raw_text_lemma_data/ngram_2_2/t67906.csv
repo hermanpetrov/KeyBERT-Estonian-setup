@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,1,0,0,1,1,1,1,12,teater; kapitalism
+1,0,0,0,0,2,2,1,1,12,teater; stoppard; kapitalism; klassika
+0,1,1,1,0,0,1,0,1,12,stoppard; kapitalism; teater; tsivilisatsioon; nüganen
+1,0,1,0,0,0,1,1,1,12,stoppard; kapitalism; kontsert; teater
+1,0,2,2,0,1,1,1,1,12,stoppard; elmo; kontsert; kapitalism; teater; tsivilisatsioon
+0,0,1,1,0,1,2,1,1,12,stoppard; kapitalism; kontsert; tsivilisatsioon

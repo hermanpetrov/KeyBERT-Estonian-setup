@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,1,0,0,0,1,1,12,teater; loorberipärg; jõgis; estonia
+0,1,0,1,0,0,0,1,1,12,teater; loorberipärg; jõgis; estonia
+0,1,0,1,0,0,0,1,1,12,teater; loorberipärg; jõgis; estonia
+0,1,1,1,0,0,0,1,1,12,jõgis; andres; loorberipärg; estonia; teater
+0,1,1,1,0,0,0,1,1,12,jõgis; andres; loorberipärg; estonia; teater
+0,1,1,1,0,1,0,1,1,12,jõgis; andres; loorberipärg; teenima; estonia; teater
+0,1,1,1,0,0,0,1,1,12,jõgis; andres; loorberipärg; estonia; teater
+0,1,1,1,0,0,0,1,1,12,jõgis; andres; loorberipärg; estonia; teater
+1,1,1,1,0,0,0,1,1,12,jõgis; andres; loorberipärg; estonia; teater
+1,1,1,2,0,0,0,1,2,12,jõgis; andres; estonia; teater
+1,1,1,2,0,0,0,1,1,12,jõgis; andres; estonia; teater

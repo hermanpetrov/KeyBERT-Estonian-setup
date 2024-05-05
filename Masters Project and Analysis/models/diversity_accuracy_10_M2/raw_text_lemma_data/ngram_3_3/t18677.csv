@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,1,0,0,0,0,0,19,marie; stuart
+1,0,0,1,0,0,0,0,0,19,marie; stuart
+1,0,0,1,0,0,0,0,0,19,marie; stuart
+1,0,0,1,0,0,0,0,0,19,marie; stuart
+1,1,0,1,0,0,0,0,0,19,marie; stuart; rahvuslik
+1,1,0,1,0,0,0,0,0,19,marie; stuart; kuninglik
+1,0,0,2,0,0,0,0,0,19,marie; stuart; robert
+2,0,0,0,0,0,0,0,0,19,sõda; stuart
+1,0,0,2,0,0,0,0,1,19,stewart; margaret; kilt; robert
+2,0,0,3,0,0,0,0,2,19,margaret; marie; kilt; stewart; rahvuslik; robert
+1,1,0,0,0,0,0,1,2,19,margaret; rahvuslik; püha; robert

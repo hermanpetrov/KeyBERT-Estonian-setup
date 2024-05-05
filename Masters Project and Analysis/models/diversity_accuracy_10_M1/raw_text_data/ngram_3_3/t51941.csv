@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,1,0,0,0,15,rahulolu
+0,0,0,0,0,1,0,0,0,15,rahulolu
+0,0,0,0,0,1,0,0,0,15,rahulolu
+0,0,0,0,0,1,0,0,0,15,rahulolu
+0,0,0,0,0,1,0,0,0,15,rahulolu
+0,0,0,0,0,1,0,1,0,15,rahulolu
+0,0,4,0,0,1,1,1,0,15,baltika; rahulolu; majanduskriis; rõivafirma
+0,0,3,1,0,2,0,1,0,15,baltika; rahulolu; janek; rõivafirma
+0,0,1,0,0,1,1,2,0,15,baltika; rahulolu; majanduskriis
+0,1,2,0,0,1,1,1,0,15,rõivafirma; majanduskriis; baltika
+0,1,2,0,0,1,1,0,0,15,rõivafirma; majanduskriis; baltika

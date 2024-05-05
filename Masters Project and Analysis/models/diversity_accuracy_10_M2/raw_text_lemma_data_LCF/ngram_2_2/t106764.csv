@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,2,1,1,1,1,1,1,15,onu; kaks; raadio
+0,2,2,1,1,1,1,1,1,15,onu; kaks; raadio
+0,2,2,1,1,1,1,1,1,15,onu; kaks; raadio
+0,2,2,1,1,1,1,1,1,15,onu; kaks; raadio
+0,3,1,1,1,1,1,1,1,15,vinger; raadio; onu; kaks
+0,3,3,1,1,1,1,1,1,15,singer; vinger; kaks; onu; raadio
+0,3,1,0,1,1,0,2,1,15,vinger; raadio; onu; kaks
+0,2,1,1,1,0,1,1,1,15,kosmos; vinger; raadio; kaks
+0,2,2,2,1,1,0,3,1,15,rock; kosmos; raadio; vinger; kristo; kaks
+1,1,2,2,1,1,0,2,0,15,rock; singer; kosmos; kaks; kristo; raadio
+1,0,3,2,1,1,0,3,2,15,rock; singer; kosmos; kontsert; raadio; kristo; kaks

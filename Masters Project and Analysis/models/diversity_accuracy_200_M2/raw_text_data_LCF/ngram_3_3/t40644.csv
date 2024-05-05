@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+12,12,2,8,4,6,5,8,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+12,12,2,8,4,6,5,8,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+13,13,2,8,4,5,5,10,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+12,12,4,8,3,6,6,11,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+12,12,5,10,5,9,10,13,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+11,12,7,10,9,10,10,11,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+9,7,8,8,11,8,9,11,7,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; musicus; bach; kammerkoor; mari
+4,5,8,11,10,10,10,11,6,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; bach; mari; musicus; kammerkoor
+3,7,7,10,14,9,8,10,9,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; bach; mari; musicus; kammerkoor
+3,8,10,9,13,7,8,11,10,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; bach; mari; musicus; kammerkoor
+4,8,7,9,12,8,7,11,8,19,phonyker; frederik; kalkun; mustonen; filharmoonia; lauto; hortus; barokkmuusikafestival; andres; sing; eesti; bach; mari; kammerkoor; musicus

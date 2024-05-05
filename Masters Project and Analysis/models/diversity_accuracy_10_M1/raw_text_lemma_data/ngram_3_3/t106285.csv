@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+1,2,1,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
+2,2,2,0,0,2,0,2,2,16,heinrich; pille-riin; purje; hoffmann
+2,2,1,2,0,0,0,2,2,16,heinrich; pille-riin; purje; hoffmann
+1,2,1,4,0,2,0,2,2,16,heinrich; pille-riin; purje; hoffmann
+0,2,1,0,0,0,0,0,0,16,heinrich; hoffmann
+0,3,1,0,1,0,0,0,3,16,heinrich; piits; pille-riin; purje; hoffmann

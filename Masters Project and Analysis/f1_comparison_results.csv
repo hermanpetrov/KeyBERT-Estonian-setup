@@ -1,0 +1,17 @@
+Method,Data_Type,Human_Group,F1 Score
+TextRank,lemmas,keywords_lemma_M1,9.721989288465092
+TextRank,lemmas,keywords_lemma_M2,10.340229960977611
+TextRank,lemmas_LCF,keywords_lemma_M1,9.703663516806783
+TextRank,lemmas_LCF,keywords_lemma_M2,10.347791559998633
+TextRank,words,keywords_M1,6.325029763124576
+TextRank,words,keywords_M2,6.800159821513326
+TextRank,words_LCF,keywords_M1,6.339341912404503
+TextRank,words_LCF,keywords_M2,6.771165194117604
+SimpleMaths,lemmas,keywords_lemma_M1,5.6317159336280485
+SimpleMaths,lemmas,keywords_lemma_M2,5.542135888310461
+SimpleMaths,lemmas_LCF,keywords_lemma_M1,5.631535927493362
+SimpleMaths,lemmas_LCF,keywords_lemma_M2,5.541966923796588
+SimpleMaths,words,keywords_M1,3.1049786660513905
+SimpleMaths,words,keywords_M2,3.126177970716399
+SimpleMaths,words_LCF,keywords_M1,3.1030276688420457
+SimpleMaths,words_LCF,keywords_M2,3.12621851032679

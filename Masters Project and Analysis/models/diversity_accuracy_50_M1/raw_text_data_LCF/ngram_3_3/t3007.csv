@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,6,4,5,0,2,2,5,0,15,edgar; riina; tõnis; savisaar; eentalu; terroritõrje; välis-eesti; palts
+2,6,4,5,0,2,2,5,0,15,edgar; riina; tõnis; savisaar; eentalu; terroritõrje; välis-eesti; palts
+2,6,4,5,0,2,2,5,0,15,edgar; riina; tõnis; savisaar; eentalu; terroritõrje; välis-eesti; palts
+2,6,4,5,0,2,2,5,0,15,edgar; riina; tõnis; savisaar; eentalu; terroritõrje; välis-eesti; palts
+4,6,5,5,0,2,2,5,0,15,edgar; riina; tõnis; impordikeeld; savisaar; eentalu; terroritõrje; välis-eesti; palts
+3,4,6,4,0,4,2,6,0,15,ravi; edgar; riina; savisaar; tõnis; nõuandetelefon; terroritõrje; eentalu; välis-eesti; palts; viljatuse
+4,6,7,2,0,6,3,6,0,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; savisaar; tõnis; eentalu; perearsti
+2,6,2,1,0,5,5,7,0,15,edgar; riina; tõnis; savisaar; eentalu; perearsti; nõuandetelefon; välis-eesti; palts
+2,6,5,2,0,7,6,6,1,15,edgar; riina; impordikeeld; tõnis; savisaar; eentalu; perearsti; nõuandetelefon; välis-eesti; palts
+1,7,8,3,0,5,6,6,1,15,ravi; edgar; riina; tõnis; savisaar; eentalu; perearsti; välis-eesti; palts; viljatuse
+1,6,7,3,1,6,6,4,1,15,ravi; edgar; riina; savisaar; tõnis; eentalu; perearsti; nõuandetelefon; välis-eesti; palts; viljatuse

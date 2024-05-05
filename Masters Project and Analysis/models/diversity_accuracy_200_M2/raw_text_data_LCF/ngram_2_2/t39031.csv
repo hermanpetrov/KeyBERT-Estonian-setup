@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,8,2,3,3,2,3,6,3,12,laulasmaa; triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; abikaasa; playboy
+6,9,2,3,3,2,3,7,3,12,laulasmaa; triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; abikaasa; playboy
+7,9,3,3,3,2,3,7,3,12,uno; muusika; habe; abikaasa; playboy; laulasmaa; triatlon; tammer; loop; austraalia; enno
+7,8,4,3,3,2,2,7,3,12,laulasmaa; triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; abikaasa; playboy
+7,7,8,4,3,2,3,7,2,12,laulasmaa; triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; abikaasa; playboy
+6,7,7,5,4,4,4,7,3,12,laulasmaa; triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; abikaasa; playboy
+5,5,7,6,4,7,4,7,3,12,laulasmaa; triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy
+3,4,8,9,4,6,4,6,2,12,triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy
+5,3,9,8,6,7,4,6,3,12,triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy
+2,5,7,9,6,7,6,5,5,12,triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy
+3,3,7,9,7,8,6,6,3,12,triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; abikaasa; playboy

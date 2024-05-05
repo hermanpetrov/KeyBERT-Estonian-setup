@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,3,3,3,4,3,4,2,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+3,3,3,3,3,3,4,2,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+3,3,3,2,3,4,5,3,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+3,3,2,2,3,3,5,3,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+3,3,3,2,3,4,5,3,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+3,3,3,2,3,4,4,5,3,13,tants; eesti; följeton; reimann; prelüüd; fuu
+2,3,4,3,4,3,3,4,3,13,eesti; följeton; tants; reimann; prelüüd; fuu
+3,3,5,3,4,3,4,4,3,13,tants; följeton; eesti; reimann; prelüüd; fuu
+1,3,4,3,4,4,4,4,3,13,följeton; eesti; reimann; fuu; prelüüd; tants
+1,3,6,2,4,3,3,4,4,13,följeton; eesti; reimann; fuu; prelüüd; tants
+2,4,5,2,4,3,4,5,4,13,följeton; tants; eesti; reimann; prelüüd; fuu

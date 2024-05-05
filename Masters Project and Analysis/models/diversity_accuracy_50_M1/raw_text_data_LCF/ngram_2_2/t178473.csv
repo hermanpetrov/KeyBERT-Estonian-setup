@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,3,1,2,1,2,3,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+2,3,3,1,2,1,2,3,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+2,3,3,1,2,1,2,3,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+2,3,3,1,2,1,2,3,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+2,3,3,1,2,2,2,3,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+3,3,4,1,2,2,2,4,1,10,ema; raamat; koguja; raamatukogu; inimene; käekiri
+2,4,3,1,1,2,2,3,1,10,käekiri; raamat; koguja; raamatukogu; inimene
+2,3,4,2,1,2,1,3,1,10,raamat; koguja; raamatukogu; inimene; käekiri; kirjutama
+1,3,4,1,1,1,1,3,2,10,raamat; koguja; raamatukogu; inimene; käekiri; isa; kirjutama
+3,2,3,4,1,0,1,2,2,10,ema; raamat; koguja; raamatukogu; inimene; käekiri; isa; kirjutama
+2,1,3,4,1,1,0,2,1,10,käekiri; raamat; isa; raamatukogu; kirjutama; inimene

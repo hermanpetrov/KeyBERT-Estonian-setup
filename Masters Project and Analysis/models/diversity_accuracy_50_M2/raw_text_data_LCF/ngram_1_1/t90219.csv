@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,5,1,0,3,4,3,1,13,abielu; kirik; peapiiskop; viilma; kirikuelu; konservatiivsus; kirikukogu; urmas
+1,1,5,1,0,3,4,3,2,13,abielu; kirik; peapiiskop; viilma; kirikuelu; konservatiivsus; kirikukogu; urmas
+1,1,5,1,0,3,4,3,2,13,abielu; kirik; peapiiskop; viilma; kirikuelu; konservatiivsus; kirikukogu; urmas
+1,1,5,1,0,3,4,3,2,13,abielu; kirik; peapiiskop; viilma; kirikuelu; konservatiivsus; kirikukogu; urmas
+1,1,4,1,0,3,4,3,1,13,kirik; peapiiskop; viilma; kirikuelu; konservatiivsus; kirikukogu; urmas
+0,1,3,1,0,2,4,2,1,13,kirik; peapiiskop; viilma; kirikuelu; kirikukogu; konservatiivsus; urmas
+0,2,3,1,0,1,1,3,1,13,kirik; viilma; ordineerimine; kirikuelu; konservatiivsus; naiste; urmas
+0,2,3,0,0,0,1,3,1,13,kirikuelu; kirik; konservatiivsus; peapiiskop; urmas; viilma; ordineerimine
+0,2,3,1,0,1,1,3,1,13,kirikuelu; kirik; konservatiivsus; urmas; viilma; ordineerimine
+0,0,3,0,0,0,1,1,2,13,kirikuelu; kirik; abielu; konservatiivsus; urmas; viilma
+0,1,3,1,0,0,1,1,2,13,kirikuelu; kirik; abielu; konservatiivsus; viilma; urmas; ordineerimine

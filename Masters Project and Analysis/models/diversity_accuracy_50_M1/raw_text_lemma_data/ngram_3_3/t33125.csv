@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,4,2,3,1,2,2,2,1,16,roheline; arnold; poliitika; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+5,4,2,3,1,2,2,2,1,16,roheline; arnold; poliitika; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+5,4,3,3,1,2,2,2,1,16,roheline; arnold; poliitika; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+5,5,3,3,1,2,2,2,1,16,roheline; arnold; poliitika; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+5,5,2,3,1,2,2,3,1,16,roheline; arnold; poliitika; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+7,2,3,5,2,2,2,5,1,16,roheline; arnold; strandberg; poliitika; neeme; sulev; rüütel; valimine; voldemar; korv; partei
+4,3,7,4,2,8,5,4,2,16,kuslap; roheline; arnold; poliitika; neeme; korv; sulev; rüütel; valimine; voldemar; strandberg; partei
+4,4,4,1,3,6,4,2,2,16,kuslap; roheline; arnold; neeme; korv; rüütel; valimine; voldemar; strandberg; partei
+7,3,3,4,2,7,4,3,3,16,kuslap; roheline; arnold; neeme; korv; sulev; rüütel; valimine; voldemar; strandberg; partei
+6,2,4,5,1,3,3,5,3,16,kuslap; roheline; arnold; poliitika; neeme; korv; sulev; rüütel; valimine; voldemar; strandberg; partei
+7,3,1,5,2,6,4,4,2,16,kuslap; roheline; arnold; poliitika; neeme; korv; sulev; rüütel; valimine; voldemar; strandberg; partei

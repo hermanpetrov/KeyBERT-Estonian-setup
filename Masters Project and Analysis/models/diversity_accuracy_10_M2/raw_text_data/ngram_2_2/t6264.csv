@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,2,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,2,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,2,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,2,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa; berliin
+2,1,1,1,0,0,1,1,1,15,wilhelm; berliini; friedrich; saksamaa
+2,1,1,1,0,0,1,1,1,15,kurferstendam; berliini; saksamaa; berliin
+0,1,1,0,0,0,2,1,1,15,saksamaa; berliini
+0,1,1,0,0,0,1,1,1,15,saksamaa; berliini
+1,0,1,0,0,0,0,1,1,15,friedrich; saksamaa; berliini
+0,0,1,0,0,0,0,1,1,15,saksamaa; berliini

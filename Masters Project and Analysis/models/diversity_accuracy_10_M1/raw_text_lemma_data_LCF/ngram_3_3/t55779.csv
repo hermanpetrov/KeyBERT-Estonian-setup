@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,0,1,1,2,1,1,14,muna; uskumus; püha
+0,2,1,0,1,1,2,1,1,14,muna; uskumus; püha
+0,2,1,0,1,1,2,1,1,14,muna; uskumus; püha
+0,2,1,0,1,1,2,1,1,14,muna; uskumus; püha
+0,1,1,0,1,1,2,1,1,14,püha; uskumus
+0,1,2,0,1,1,2,1,1,14,uskumus; püha; rituaalne
+1,2,2,0,1,1,1,3,1,14,muna; uskumus; püha; marju; liikuv; rituaalne
+1,2,1,1,1,2,4,3,1,14,muna; püha; sümbol; uskumus; folklor; marju; liikuv; rituaalne
+0,0,1,1,2,2,2,2,1,14,uskumus; püha; marju; rituaalne; sümbol
+0,0,1,0,1,2,0,2,1,14,sümbol; püha; marju; rituaalne
+0,2,0,0,0,1,3,2,1,14,püha; marju; liikuv; sümbol

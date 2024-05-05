@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,0,3,0,2,0,5,12,triatlon; muusika; tammer; loop; unu; austraalia; habe; playboy
+2,2,2,0,3,0,2,0,5,12,triatlon; muusika; tammer; loop; unu; austraalia; habe; playboy
+2,3,2,0,4,0,2,0,5,12,triatlon; muusika; tammer; loop; austraalia; unu; habe; playboy
+2,4,2,0,4,0,2,0,5,12,triatlon; muusika; tammer; loop; unu; austraalia; habe; playboy
+2,4,2,0,4,0,2,0,5,12,triatlon; muusika; tammer; loop; unu; austraalia; habe; playboy
+2,3,3,1,4,2,3,4,5,12,triatlon; muusika; tammer; loop; austraalia; unu; habe; playboy
+1,3,4,4,4,2,2,3,3,12,triatlon; tammer; muusika; loop; austraalia; unu; habe; playboy
+0,2,6,6,4,2,2,5,2,12,triatlon; tammer; muusika; loop; austraalia; unu; habe; playboy
+0,2,6,6,4,2,2,5,2,12,triatlon; tammer; muusika; loop; austraalia; unu; habe; playboy
+1,2,6,6,5,2,3,5,2,12,triatlon; tammer; muusika; loop; austraalia; unu; habe; playboy
+0,1,6,6,6,3,3,5,1,12,triatlon; tammer; muusika; loop; austraalia; unu; habe; playboy

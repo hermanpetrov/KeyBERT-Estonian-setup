@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+8,9,3,4,3,2,4,9,6,19,margaret; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+8,9,2,4,4,2,4,9,6,19,margaret; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+9,7,2,4,4,3,4,8,7,19,margaret; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+8,6,2,4,4,5,6,8,8,19,margaret; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+9,6,4,3,4,7,6,9,9,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+9,5,5,4,5,6,6,9,9,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+8,6,5,7,6,7,6,7,7,19,margaret; palee; marie; kroon; rahvuslik; stuart; kilt; stewart; püha; robert; prius; kuninglik; sõda
+6,6,5,9,7,5,6,7,7,19,margaret; stuart; stewart; kilt; püha; robert; palee; prius; marie; kuninglik; kroon; sõda
+5,6,5,9,8,8,7,8,7,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
+5,6,6,8,7,7,7,9,6,19,margaret; palee; marie; kroon; stuart; stewart; püha; robert; prius; kuninglik; sõda
+6,7,6,8,7,6,6,10,7,19,margaret; palee; marie; kroon; kilt; stewart; stuart; püha; robert; prius; kuninglik; sõda

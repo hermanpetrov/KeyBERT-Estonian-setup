@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,2,4,0,1,2,1,0,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik
+1,1,2,3,0,1,2,1,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; publik
+1,1,2,3,0,1,2,1,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; publik
+1,1,2,3,0,1,2,1,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; publik
+1,1,2,3,0,1,2,1,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; publik
+1,0,1,3,0,1,1,2,1,14,kriitik; kuraator; publik; sümboolne; maria-kristiina; võim; kunstnik
+0,1,1,0,0,3,2,2,1,14,kriitik; kuraator; publik; institutsioon; maria-kristiina; kunstnik
+1,1,1,1,0,2,3,1,1,14,kriitik; kunstnik; publik; institutsioon; sümboolne; maria-kristiina
+0,0,2,4,0,3,2,2,1,14,kriitik; kuraator; publik; institutsioon; maria-kristiina; kunstnik
+1,0,2,1,1,2,3,3,1,14,kriitik; kunstnik; publik; võim; maria-kristiina
+0,0,3,0,1,1,3,2,1,14,kriitik; kuraator; publik; reaalne; maria-kristiina; kunstnik

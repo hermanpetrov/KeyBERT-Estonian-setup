@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,2,0,0,0,0,0,0,16,sõda; kirjanik
+0,1,2,0,0,0,0,0,0,16,sõda; kirjanik
+0,1,2,0,0,0,0,0,0,16,sõda; kirjanik
+0,1,2,0,0,0,0,0,0,16,sõda; kirjanik
+0,1,1,0,0,0,0,0,0,16,kirjanik
+0,1,1,0,0,0,0,0,0,16,hemingway; kirjanik
+0,1,1,0,0,0,0,0,0,16,hemingway; kirjanik
+0,1,0,0,0,0,0,0,0,16,kirjanik
+0,0,0,0,0,0,0,0,0,16,
+0,0,1,0,0,0,0,0,0,16,hemingway
+0,0,1,0,0,1,0,0,0,16,hemingway

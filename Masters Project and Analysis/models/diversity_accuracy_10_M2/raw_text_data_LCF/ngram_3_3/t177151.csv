@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,6,4,1,3,4,4,3,0,21,festival; eurosonic; holland; two; sigrid; and; the; raadio; dragons; ewert; kaks
+6,6,4,1,3,4,4,3,0,21,festival; eurosonic; holland; two; sigrid; and; the; raadio; dragons; ewert; kaks
+6,6,4,1,3,4,4,3,0,21,festival; eurosonic; holland; two; sigrid; and; the; raadio; dragons; ewert; kaks
+6,6,4,1,3,4,4,3,0,21,festival; eurosonic; holland; two; sigrid; and; the; raadio; dragons; ewert; kaks
+6,7,3,1,3,4,4,3,0,21,festival; eurosonic; holland; two; sigrid; and; the; raadio; dragons; ewert; kaks
+6,7,4,1,3,3,3,2,0,21,festival; eurosonic; holland; two; sigrid; and; erki; the; raadio; dragons; ewert; kaks
+7,5,3,3,3,2,3,3,0,21,festival; eurosonic; holland; two; sigrid; and; erki; the; raadio; dragons; pärnoja; ewert; meisterjaan; kaks
+4,6,2,0,3,2,3,3,0,21,festival; eurosonic; holland; two; erki; and; the; raadio; dragons; ewert; kaks
+5,1,2,0,3,2,3,4,0,21,festival; eurosonic; holland; erki; two; and; sigrid; the; raadio; dragons; ewert; kaks
+3,2,1,1,3,3,1,2,0,21,eurosonic; holland; two; erki; and; the; dragons; ewert; kaks
+3,1,2,1,3,3,0,3,0,21,eurosonic; holland; erki; two; and; sigrid; the; raadio; dragons; ewert; kaks

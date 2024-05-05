@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
+0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
+0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
+0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
+0,1,1,0,0,1,2,0,0,14,teater; elmo; kontsert
+0,1,1,0,0,0,1,0,0,14,teater; stoppard; elmo
+1,1,1,0,0,1,0,0,0,14,teater; kapitalism; elmo
+1,0,1,0,0,0,0,0,0,14,kapitalism; elmo
+0,0,1,0,0,2,1,0,0,14,revolutsionäär; stoppard; elmo
+0,0,0,0,0,3,2,1,0,14,revolutsionäär; stoppard; elmo; utoopia
+0,0,0,1,0,2,1,0,0,14,stoppard; elmo; klassika

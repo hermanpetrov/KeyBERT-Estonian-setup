@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,4,1,3,4,5,2,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; sõna
+2,3,6,1,3,3,4,2,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; sõna
+2,3,6,1,3,3,4,2,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; lugu; sõna
+1,3,4,1,3,3,3,6,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; lugu; sõna
+1,2,4,1,3,3,3,6,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; lugu; sõna
+1,2,5,0,3,3,3,6,5,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; lugu; sõna
+1,2,5,1,5,3,3,5,4,12,aabits; raha; kadakas; esimene; tarand; tahvel; mari; lugu; sõna
+0,2,3,2,4,3,4,4,4,12,aabits; raha; kadakas; esimene; tarand; lugu; mari; sõna
+0,1,4,2,4,3,2,4,3,12,aabits; raha; kadakas; esimene; tarand; lugu; mari
+0,2,6,3,2,3,3,5,4,12,aabits; raha; kadakas; tarand; lugu; mari; tahvel; sõna
+0,1,3,3,3,2,2,2,3,12,aabits; raha; kadakas; tarand; tahvel; mari; lugu

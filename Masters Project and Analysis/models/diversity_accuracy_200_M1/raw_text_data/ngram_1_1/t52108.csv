@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,5,1,1,4,3,1,1,14,disainer; lilli; talv; suursponsor; eesti; kollektsioon; moenädal; moekunstnik
+1,3,3,1,1,5,2,2,1,14,disainer; lilli; talv; suursponsor; eesti; moenädal; moekunstnik
+1,4,3,1,1,3,2,2,1,14,disainer; lilli; suursponsor; eesti; kollektsioon; moenädal; moekunstnik
+1,3,3,0,1,1,2,2,1,14,disainer; suursponsor; kollektsioon; eesti; moenädal; moekunstnik
+2,3,1,0,1,4,4,2,1,14,disainer; lilli; privileeg; suursponsor; eesti; kollektsioon; moenädal; moekunstnik
+1,3,2,1,2,2,2,2,1,14,disainer; privileeg; suursponsor; eesti; kollektsioon; moenädal; moekunstnik
+1,2,2,1,0,2,2,2,2,14,disainer; privileeg; lilli; jahilo; suursponsor; kollektsioon; eesti; moekunstnik
+1,2,2,1,0,2,3,2,2,14,disainer; privileeg; lilli; jahilo; suursponsor; kollektsioon; eesti; moekunstnik
+1,1,2,1,1,3,1,1,2,14,privileeg; talv; jahilo; suursponsor; eesti; moekunstnik
+1,0,2,0,1,3,1,2,3,14,lilli; talv; privileeg; jahilo; suursponsor; eesti; moekunstnik
+1,0,2,0,1,2,1,3,3,14,privileeg; talv; jahilo; suursponsor; kollektsioon; eesti; moekunstnik

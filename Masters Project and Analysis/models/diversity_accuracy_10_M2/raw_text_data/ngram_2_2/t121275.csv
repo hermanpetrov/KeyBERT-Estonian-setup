@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+1,0,3,0,0,1,1,1,0,12,looming; screabin; helilooja
+0,1,3,0,0,1,1,1,0,12,looming; helilooja; screabin; sonaat
+0,0,1,0,0,0,1,1,0,12,screabin; helilooja
+0,0,1,0,0,2,0,1,0,12,sonaat; looming; screabin
+1,0,0,0,0,0,0,0,0,12,sonaat

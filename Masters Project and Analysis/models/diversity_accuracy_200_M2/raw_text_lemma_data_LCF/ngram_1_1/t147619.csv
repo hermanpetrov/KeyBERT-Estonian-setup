@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,4,4,3,4,4,3,2,4,13,laps; kurat; mõrane; alver; arseenik; lesk; kool; peegel; bett; rätsep
+2,4,3,3,3,4,4,2,4,13,laps; kurat; mõrane; alver; arseenik; lesk; kool; peegel; bett; rätsep
+2,4,3,3,3,4,4,5,4,13,laps; kurat; mõrane; alver; arseenik; lesk; kool; peegel; bett; rätsep
+2,4,4,3,3,5,2,4,4,13,laps; kurat; mõrane; alver; arseenik; lesk; kool; peegel; bett; rätsep
+1,4,4,3,3,5,4,3,4,13,laps; kurat; mõrane; alver; arseenik; lesk; kool; peegel; bett; rätsep
+0,4,4,3,2,4,4,5,3,13,laps; mõrane; alver; arseenik; lesk; peegel; kool; kurat; bett; rätsep
+0,5,3,5,3,5,3,6,2,13,laps; mõrane; alver; arseenik; lesk; peegel; kool; kurat; bett; rätsep
+1,4,5,3,3,4,3,6,4,13,laps; mõrane; kurat; argus; alver; arseenik; lesk; kool; peegel; bett; rätsep
+0,4,5,5,4,3,4,5,3,13,laps; mõrane; argus; alver; arseenik; lesk; kool; kurat; bett; rätsep
+0,4,5,4,4,3,4,6,2,13,laps; mõrane; argus; alver; arseenik; lesk; kool; bett; rätsep
+0,5,4,4,4,5,4,4,2,13,laps; mõrane; argus; alver; arseenik; lesk; peegel; kool; kurat; bett; rätsep

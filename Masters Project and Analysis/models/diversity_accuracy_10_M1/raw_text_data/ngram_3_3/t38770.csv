@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,3,1,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,3,1,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,3,1,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,3,1,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,3,1,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,3,2,1,0,1,1,1,1,15,majandus; eurotsoon; föderatsioon; heaolu; sotsiaalne; eesti; eelarve
+1,1,2,1,0,0,2,1,1,15,majandus; poolamets; eurotsoon; anti; föderatsioon; eesti; eelarve
+0,2,1,1,0,1,0,1,1,15,eurotsoon; kroon; heaolu; sotsiaalne; eesti; eelarve
+1,1,0,1,0,0,0,0,1,15,poolamets; eelarve; eurotsoon
+0,1,1,1,0,0,0,1,1,15,poolamets; eurotsoon; kroon; eesti; eelarve
+0,1,1,1,0,0,0,0,1,15,eelarve; eesti; eurotsoon

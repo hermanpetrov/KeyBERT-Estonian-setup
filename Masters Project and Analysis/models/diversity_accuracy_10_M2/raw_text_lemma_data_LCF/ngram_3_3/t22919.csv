@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,0,0,1,2,1,0,15,soans; kuraator; poliitiline; hanno
+2,0,1,0,0,1,2,1,0,15,soans; kuraator; poliitiline; hanno
+2,0,1,0,0,1,2,1,0,15,soans; kuraator; poliitiline; hanno
+2,0,1,0,0,1,2,1,0,15,soans; kuraator; poliitiline; hanno
+2,0,2,0,0,1,2,1,0,15,soans; härm; kuraator; poliitiline; hanno
+2,0,1,0,0,1,2,1,0,15,soans; kuraator; poliitiline; hanno
+0,0,2,0,0,1,1,1,0,15,kuraator; härm; poliitiline
+1,0,2,1,0,3,3,2,0,15,härm; kuraator; poliitiline; hanno; marco; tartu
+1,0,0,1,0,2,2,2,0,15,poliitiline; hanno; poeetiline; tartu; kumu
+1,0,0,0,0,0,2,0,0,15,kuraator; poliitiline
+0,0,2,0,0,0,0,2,0,15,marco; kuraator; härm

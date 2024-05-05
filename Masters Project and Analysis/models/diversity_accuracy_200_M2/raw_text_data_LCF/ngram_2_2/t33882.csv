@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,6,4,6,1,4,3,5,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; haridus; laen; kultuuriajalugu; selts; kultuur; naisliit
+7,4,3,6,2,4,3,5,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; laen; kultuuriajalugu; selts; kultuur; naisliit
+7,4,3,6,2,3,3,6,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; vene; laen; kultuuriajalugu; selts; kultuur; naisliit
+8,4,7,6,2,3,3,5,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; vene; laen; kultuuriajalugu; selts; kultuur; naisliit
+8,4,5,6,2,5,3,5,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; vene; laen; kultuuriajalugu; selts; kultuur; naisliit
+8,6,8,5,3,4,5,7,5,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; haridus; vene; selts; kultuur; naisliit
+5,5,6,6,4,5,3,8,5,14,kõnekoosolek; estonia; vanemuise; rakvere; teater; eesti; vene; selts; kultuur; naisliit
+4,4,2,5,4,5,4,4,5,14,estonia; rakvere; vanemuise; teater; eesti; vene; selts; kultuur; naisliit
+4,6,3,6,6,3,3,5,5,14,estonia; rakvere; vanemuise; teater; eesti; haridus; vene; laen; selts; kultuur; naisliit
+5,6,3,6,5,3,4,4,6,14,rakvere; vanemuise; estonia; teater; eesti; vene; laen; kultuuriajalugu; selts; kultuur; naisliit
+5,6,4,5,6,4,4,5,5,14,rakvere; vanemuise; estonia; teater; eesti; haridus; vene; laen; selts; kultuur

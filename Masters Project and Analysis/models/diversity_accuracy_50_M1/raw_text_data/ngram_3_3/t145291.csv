@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,2,2,2,0,1,2,2,0,10,leho; poiss; sülitama; jutt; sõnum
+3,2,2,2,0,1,2,2,0,10,leho; poiss; sülitama; jutt; sõnum
+3,2,2,2,0,1,2,2,0,10,leho; poiss; sülitama; jutt; sõnum
+3,2,2,2,0,1,2,2,0,10,leho; poiss; sülitama; jutt; sõnum
+4,2,2,2,0,1,2,2,0,10,leho; poiss; sülitama; jutt; sõnum
+5,2,2,2,0,2,3,1,0,10,jutt; sülitama; lapsepõlv; leho; poiss; sõnum; rein
+3,2,3,3,0,2,3,1,0,10,leho; poiss; sülitama; sõnum; rein; lapsepõlv
+1,2,2,1,0,2,3,1,0,10,leho; poiss; sülitama; sõnum; rein
+0,3,2,2,0,2,1,1,0,10,leho; poiss; puu; rein
+2,1,2,1,0,3,2,1,0,10,leho; poiss; jutt; sõnum; puu
+1,2,1,2,0,3,2,1,1,10,leho; poiss; jutt; puu; rein

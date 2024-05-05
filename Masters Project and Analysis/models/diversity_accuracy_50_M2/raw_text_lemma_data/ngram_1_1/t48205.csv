@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,1,1,3,1,1,14,loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,1,3,1,1,14,loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,1,3,1,1,14,loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,1,3,1,1,14,loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,2,3,1,1,14,loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,3,3,1,1,14,françois; loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,3,3,1,1,14,françois; loss; favoriit; napoleon; esimene; pariis
+0,0,0,0,1,3,2,2,0,14,françois; loss; favoriit; napoleon; pariis
+0,0,0,0,1,2,2,2,0,14,loss; favoriit; napoleon; pariis
+0,0,0,2,1,1,2,2,0,14,renessanss; loss; favoriit; napoleon; esimene; pariis
+0,0,0,2,1,1,1,1,0,14,renessanss; loss; esimene; pariis

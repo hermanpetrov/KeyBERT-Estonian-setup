@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,1,0,0,0,2,3,12,väin; suur; õppus; sõda; britt; saar
+1,0,2,2,0,0,1,3,3,12,väin; õppus; saar; suur; sõda; lahing; britt
+0,0,2,1,0,0,0,2,3,12,suur; väin; sõda; lahing; britt; saar
+0,0,2,1,0,1,1,2,1,12,väin; sõda; lahing; britt; saar
+0,0,2,1,0,1,1,2,1,12,väin; sõda; lahing; britt; saar

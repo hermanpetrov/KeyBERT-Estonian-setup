@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,0,0,0,0,0,0,0,12,madeira
+1,1,0,0,0,0,0,0,0,12,madeira
+1,1,0,0,0,0,0,0,0,12,madeira
+1,1,0,0,0,0,0,0,0,12,madeira
+1,1,0,0,0,0,0,0,1,12,madeira
+1,1,0,0,0,0,0,0,0,12,madeira
+0,1,0,0,0,0,0,1,0,12,madeira
+0,0,0,0,0,1,0,2,0,12,kalju; madeira
+0,1,0,1,0,0,0,1,0,12,kalju; portugal; madeira
+0,0,0,1,0,0,0,0,0,12,bassein
+1,0,0,1,0,0,0,0,0,12,mägi; madeira

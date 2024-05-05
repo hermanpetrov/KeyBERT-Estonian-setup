@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,2,1,1,0,2,2,2,1,12,kinni; raamat; hoidma; poeg; tuisk; torm; isa
+0,2,1,1,0,2,2,2,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+0,2,1,1,0,2,2,2,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+0,2,1,1,0,2,2,2,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+0,2,1,1,0,2,2,2,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+0,2,1,1,0,2,2,2,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+0,2,1,1,0,1,2,3,2,12,kinni; raamat; hoidma; poeg; tuisk; torm; käsi; isa
+1,2,0,1,0,1,1,2,2,12,torm; raamat; käsi; poeg; isa; tuisk
+1,2,1,1,0,1,2,1,2,12,torm; raamat; käsi; hoidma; poeg; isa
+1,2,0,0,0,1,2,1,2,12,torm; ivo; raamat; käsi; poeg; isa
+1,2,0,0,0,0,2,1,2,12,ivo; raamat; rabandus; poeg; käsi; isa

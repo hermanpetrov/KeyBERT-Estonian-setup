@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,3,0,0,3,5,0,2,19,tenor; estonia; teater; lendav; kuusk; laulja; ooper
+0,1,3,0,0,3,5,0,3,19,tenor; estonia; koor; teater; lendav; kuusk; laulja; ooper
+0,1,2,0,0,3,5,0,3,19,tenor; estonia; koor; teater; lendav; kuusk; ooper
+0,1,2,0,0,3,5,0,3,19,tenor; estonia; koor; teater; lendav; kuusk; ooper
+0,1,3,0,0,4,5,0,3,19,ivo; tenor; estonia; koor; teater; lendav; kuusk; laulja; ooper
+0,1,3,0,0,0,4,0,3,19,ivo; tenor; estonia; koor; teater; kuusk; ooper
+0,1,2,0,0,2,5,1,3,19,tenor; ivo; estonia; koor; teater; jüri; hollandlane; lavastaja; ooper
+0,2,4,0,0,1,4,4,3,19,ivo; tenor; estonia; koor; teater; jüri; kuusk; hollandlane; ooper
+0,1,4,2,0,0,4,2,2,19,ivo; tenor; estonia; koor; itaalia; teater; jüri; hollandlane; ooper
+0,1,3,2,0,0,3,2,1,19,ivo; estonia; koor; itaalia; teater; kuusk; hollandlane; ooper; armastus
+1,1,3,5,0,1,3,0,1,19,ivo; estonia; koor; teater; itaalia; lendav; jüri; laulja; ooper; armastus

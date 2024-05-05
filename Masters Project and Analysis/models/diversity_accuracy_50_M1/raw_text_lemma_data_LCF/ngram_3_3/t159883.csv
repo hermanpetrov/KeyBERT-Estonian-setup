@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,1,2,1,0,0,2,2,14,detail; töö; jääma; ülo; sõda
+2,1,1,2,1,0,0,2,2,14,detail; töö; jääma; ülo; sõda
+2,1,1,2,1,0,0,2,2,14,detail; töö; jääma; ülo; sõda
+2,1,1,2,1,0,0,2,2,14,detail; töö; jääma; ülo; sõda
+2,1,1,2,1,0,1,2,2,14,detail; töö; jääma; ülo; sõda
+2,1,1,2,1,1,3,2,2,14,detail; töö; jääma; ülo; sõda
+3,1,2,0,1,1,3,3,2,14,detail; töö; suitsetamine; ülo; jääma
+3,0,3,2,1,1,2,2,2,14,detail; töö; ülo; suitsetamine; sõda
+3,0,4,2,1,2,2,2,2,14,detail; töö; ülo; sõda
+3,1,3,1,2,2,1,3,2,14,detail; töö; jääma; ülo; usaldus
+1,1,5,1,1,2,3,2,2,14,töö; suitsetamine; detail; jääma; ülo; sõda

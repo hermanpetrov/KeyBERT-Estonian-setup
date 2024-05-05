@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,3,5,3,4,7,8,5,3,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+6,3,5,4,4,6,7,6,3,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+5,3,5,4,4,6,7,6,4,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+5,3,6,4,5,6,7,7,4,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+5,3,6,4,5,6,6,7,4,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+5,2,6,4,5,6,5,7,4,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+3,3,6,4,5,7,6,6,5,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk
+3,2,7,6,6,7,4,7,6,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; aleksei; buratino; suusk
+3,2,7,6,5,7,5,6,7,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; buratino; ferdinand; aleksei; suusk
+4,0,8,8,7,6,5,7,7,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; buratino; ferdinand; aleksei; suusk
+3,1,8,7,6,6,5,6,8,11,muuseum; hääl; artikulatsioon; jaapan; tolstoi; ferdinand; buratino; aleksei; suusk

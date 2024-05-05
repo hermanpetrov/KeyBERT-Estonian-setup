@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,0,0,0,1,1,1,1,15,türgi; islam; kirjanduspreemia; väärtussüsteemid
+1,0,0,0,0,1,1,1,1,15,türgi; islam; kirjanduspreemia; väärtussüsteemid
+1,0,0,0,0,1,1,1,1,15,türgi; islam; kirjanduspreemia; väärtussüsteemid
+1,0,1,0,0,1,1,1,1,15,kirjanduspreemia; türgi; väärtussüsteemid; islam
+1,0,3,0,0,1,1,1,1,15,nobeli; türgi; väärtussüsteemid; kirjanduspreemia; islam; atatürk
+1,0,2,0,0,2,1,1,1,15,nobeli; türgi; väärtussüsteemid; kirjanduspreemia; islam
+1,0,2,0,0,3,1,0,1,15,nobeli; türgi; väärtussüsteemid; kirjanduspreemia; islam
+0,0,2,0,0,3,1,1,1,15,nobeli; türgi; euroopa-mõjuline; kirjanduspreemia; islam
+2,1,2,1,0,3,2,0,1,15,nobeli; türgi; keeleuuendusliikumine; kirjanduspreemia; islam; atatürk
+1,1,2,2,0,3,1,0,0,15,nobeli; türgi; keeleuuendusliikumine; kirjanduspreemia; atatürk
+0,1,0,1,0,3,1,1,0,15,türgi; nobeli; keeleuuendusliikumine; kirjanduspreemia; atatürk

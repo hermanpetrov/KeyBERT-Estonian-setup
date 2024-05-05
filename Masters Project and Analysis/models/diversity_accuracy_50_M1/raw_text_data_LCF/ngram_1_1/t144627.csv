@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,1,0,0,1,1,0,14,lavakunstikateeder; õpilane; näitleja; ebaõnnestumine
+2,0,1,1,0,0,1,1,0,14,lavakunstikateeder; õpilane; näitleja; ebaõnnestumine
+2,0,1,1,0,0,1,1,0,14,lavakunstikateeder; õpilane; näitleja; ebaõnnestumine
+2,0,1,1,0,0,1,1,0,14,lavakunstikateeder; õpilane; näitleja; ebaõnnestumine
+2,0,0,1,0,0,1,1,0,14,lavakunstikateeder; õpilane; näitleja; ebaõnnestumine
+1,0,0,1,0,1,0,0,0,14,lavakunstikateeder; õpilane; ebaõnnestumine
+0,1,0,1,0,1,1,0,0,14,lavakunstikateeder; kriitika; marje
+0,1,0,0,0,1,2,0,0,14,lavakunstikateeder; kriitika; lenk; marje
+0,0,1,0,0,1,2,1,0,14,lenk; kriitika; marje
+0,2,0,0,0,1,1,3,0,14,smuul; lenk; lavakunstikateeder; kriitika; marje; juhan
+0,2,1,0,0,2,1,3,0,14,smuul; lenk; lavakunstikateeder; viktor; kriitika; marje; juhan

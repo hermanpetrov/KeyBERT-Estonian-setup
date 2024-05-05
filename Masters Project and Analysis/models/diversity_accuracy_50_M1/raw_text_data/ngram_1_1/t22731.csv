@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,0,1,1,2,2,2,3,0,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus
+2,0,1,1,2,2,2,3,0,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus
+2,0,1,1,2,2,2,3,0,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus
+2,0,0,1,2,2,2,2,0,14,anders; tallinna; mäng; kunstihoone; infotankistid; probleem; näitus
+2,0,0,1,2,1,2,2,0,14,anders; tallinna; mäng; kunstihoone; infotankistid; probleem; näitus
+2,0,0,1,2,0,1,1,0,14,anders; kunstihoone; infotankistid; probleem
+1,1,1,0,2,0,1,1,0,14,tallinna; anders; infotankistid; probleem
+1,2,1,0,2,0,1,1,0,14,tallinna; anders; infotankistid; probleem; saladus
+0,1,3,1,2,0,1,1,0,14,tallinna; anders; infotankistid; probleem; akvarell
+0,1,2,1,1,0,0,1,0,14,tallinna; infotankistid; probleem; akvarell
+0,0,2,1,1,0,1,2,0,14,tallinna; infotankistid; probleem; akvarell

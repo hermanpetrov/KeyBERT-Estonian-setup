@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,7,4,5,2,12,8,5,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+7,7,6,6,3,12,8,6,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+7,6,7,8,3,12,9,7,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+7,6,8,7,3,11,9,7,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+7,7,10,7,4,11,9,10,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+9,7,8,9,6,10,8,10,9,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
+9,8,9,9,8,9,9,11,9,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; estonia; ballett; itaalia; teater
+9,7,10,8,9,9,9,11,10,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
+8,6,9,9,11,6,10,12,9,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
+5,6,10,9,11,6,8,9,10,16,eino; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
+4,7,9,9,10,7,8,9,9,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater

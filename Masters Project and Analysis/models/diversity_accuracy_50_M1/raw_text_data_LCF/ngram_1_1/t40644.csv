@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,1,1,1,0,19,barokkmuusikafestival; folkloor
+1,1,1,0,0,1,1,1,0,19,barokkmuusikafestival; folkloor
+1,1,1,0,0,1,1,1,0,19,barokkmuusikafestival; folkloor
+1,1,1,0,0,1,1,1,0,19,barokkmuusikafestival; folkloor
+1,0,0,0,0,1,1,1,0,19,barokkmuusikafestival; folkloor
+0,0,1,0,0,0,2,0,0,19,staak; barokkmuusikafestival; musicus
+0,0,1,0,0,1,2,0,0,19,staak; bach; folkloor
+0,0,1,1,0,1,2,0,0,19,bach; folkloor; barokkmuusikafestival; igor
+0,0,2,0,0,1,2,0,0,19,hortus; bach; folkloor; staak; igor
+0,0,0,1,0,2,2,3,0,19,bach; musicus; hortus; folkloor; mustonen; igor
+1,0,1,1,0,1,2,2,0,19,bach; musicus; hortus; barokkmuusikafestival; mustonen

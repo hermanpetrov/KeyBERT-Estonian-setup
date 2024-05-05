@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,4,1,2,3,10,3,4,2,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
+5,4,1,2,3,10,3,4,2,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
+5,2,2,4,3,10,3,5,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; pehk; jaan; bänd; urmas; merilai; vadi
+4,2,2,5,3,10,5,4,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; pehk; jaan; bänd; urmas; merilai; vadi
+3,3,4,5,4,9,5,5,3,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; bänd; merilai; vadi
+3,3,5,5,4,8,6,7,5,17,arne; oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
+2,3,7,7,4,4,3,6,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; bänd; urmas; merilai; vadi
+2,3,6,3,4,4,8,5,2,17,arne; rütm; oidipus; krull; janek; hasso; nali; kraav; jaan; pehk; bänd; urmas; merilai; vadi
+2,3,9,4,4,4,2,5,1,17,rütm; oidipus; krull; janek; hasso; nali; jaan; pehk; bänd; urmas; merilai
+2,2,5,5,4,4,4,4,0,17,rütm; oidipus; janek; krull; hasso; kraav; bänd; urmas; merilai
+1,2,6,5,4,4,5,4,2,17,arne; rütm; oidipus; krull; janek; hasso; nali; bänd; urmas; merilai

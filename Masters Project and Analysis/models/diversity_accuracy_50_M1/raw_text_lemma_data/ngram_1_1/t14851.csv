@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,4,0,0,0,0,0,1,14,informatiivne; gustav; teadus; fašism; lahing
+1,0,4,0,0,0,0,0,1,14,informatiivne; gustav; teadus; fašism; lahing
+1,0,4,0,0,0,0,0,1,14,informatiivne; gustav; teadus; fašism; lahing
+1,0,3,0,0,0,0,0,1,14,informatiivne; gustav; teadus; fašism; lahing
+1,0,2,0,0,0,0,0,1,14,informatiivne; gustav; fašism; teadus
+1,0,2,0,0,0,1,0,1,14,informatiivne; gustav; naan; teadus; fašism
+1,0,1,0,0,1,1,0,1,14,gustav; fašism; naan; teadus
+1,0,3,2,0,1,1,0,1,14,informatiivne; evolutsioon; gustav; naan; teadus; sõda; lahing
+1,0,2,0,0,1,1,1,1,14,informatiivne; evolutsioon; gustav; naan; teadus
+0,0,1,0,0,1,1,1,1,14,evolutsioon; gustav; naan; teadus
+0,0,2,1,0,1,1,1,1,14,informatiivne; evolutsioon; gustav; naan; teadus

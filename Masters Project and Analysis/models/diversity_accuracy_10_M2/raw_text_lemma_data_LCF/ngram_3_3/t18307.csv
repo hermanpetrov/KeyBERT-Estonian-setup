@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,2,1,1,0,0,0,0,0,12,pevkur; hanno; hõff; euroopa
+1,2,1,1,0,0,0,0,0,12,pevkur; hanno; hõff; euroopa
+1,2,1,1,0,0,0,0,0,12,pevkur; hanno; hõff; euroopa
+1,2,0,1,0,0,0,0,0,12,hõff; pevkur; hanno; euroopa
+1,2,1,1,0,0,0,0,0,12,pevkur; hanno; hõff; euroopa
+1,2,0,1,0,0,0,0,0,12,hõff; pevkur; hanno; euroopa
+2,2,1,0,0,0,0,0,0,12,sammas; jaapan; hõff; euroopa; gruusia
+2,2,0,0,0,0,0,0,0,12,gruusia; euroopa; sammas
+1,2,1,1,0,1,1,0,0,12,hanno; pevkur; gruusia; euroopa; sammas
+1,1,0,1,0,1,0,0,0,12,pevkur; euroopa; gruusia
+0,1,0,1,0,0,1,0,0,12,pevkur; euroopa; gruusia

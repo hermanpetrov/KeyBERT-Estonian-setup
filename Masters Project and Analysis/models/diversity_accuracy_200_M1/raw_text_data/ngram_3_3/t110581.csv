@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+6,9,6,6,6,8,7,7,6,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
+6,9,6,6,6,8,7,8,6,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
+7,9,6,6,6,8,7,8,6,12,kubjas; proua; hobune; eduard; ilus; villem; kristus; mõisavalitseja; mimmi; mõisnik
+8,9,7,6,6,8,8,6,6,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
+9,9,5,5,6,7,8,6,6,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
+9,8,8,6,6,7,5,7,6,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
+6,7,8,8,7,8,6,6,6,12,villem; eduard; kristus; kubjas; mõisavalitseja; proua; mimmi; mõisnik; hobune; ilus
+6,6,8,8,8,8,5,7,4,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
+6,8,7,8,8,7,5,7,8,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
+6,6,6,7,8,7,4,8,9,12,kubjas; proua; hobune; eduard; ilus; villem; kristus; mõisavalitseja; mimmi; mõisnik
+5,6,8,7,7,8,4,6,8,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus

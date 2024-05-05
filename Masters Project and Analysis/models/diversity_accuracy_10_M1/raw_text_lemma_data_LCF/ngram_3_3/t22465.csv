@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+4,1,1,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; tunnel
+4,1,1,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; tunnel
+4,1,1,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; tunnel
+4,1,1,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; tunnel
+4,1,2,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; genf; tunnel
+4,1,2,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; genf; tunnel
+4,2,2,1,1,1,1,1,0,11,šveits; juust; kanton; mägine; genf
+1,2,2,1,1,2,2,2,0,11,šveits; juust; kanton; genf
+1,1,2,2,1,1,3,2,0,11,šveits; juust; tunnel; suusatamine; genf
+1,0,2,3,0,1,1,1,0,11,šveits; tunnel; kanton; genf
+2,2,2,2,0,2,1,1,0,11,šveits; juust; kanton; genf

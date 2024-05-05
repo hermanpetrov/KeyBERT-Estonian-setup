@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,1,0,0,0,0,0,0,11,töö; emil; laur; doktor
+3,0,0,1,0,0,0,0,0,11,emil; laur; noor
+1,0,0,0,0,0,0,0,0,11,laur
+0,0,1,0,0,0,0,2,0,11,doktor; emil; laur
+0,2,0,0,0,0,0,2,0,11,emil; laur
+0,2,1,0,0,0,0,2,0,11,doktor; emil; laur

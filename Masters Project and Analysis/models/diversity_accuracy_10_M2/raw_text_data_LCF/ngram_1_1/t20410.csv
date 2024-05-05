@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,0,2,0,0,0,0,1,0,12,elmar; endel; näitleja; salulaht
+1,0,2,0,0,0,0,1,0,12,elmar; endel; näitleja; salulaht
+1,0,2,0,0,0,0,1,0,12,elmar; endel; näitleja; salulaht
+1,0,2,0,0,0,0,1,0,12,elmar; endel; näitleja; salulaht
+1,0,2,0,0,0,0,1,0,12,elmar; endel; näitleja; salulaht
+1,0,2,0,0,0,0,1,0,12,elmar; endel; vanemuine; salulaht
+1,0,2,0,0,1,0,0,0,12,elmar; ani; endel; salulaht
+0,0,2,0,0,1,1,0,0,12,elmar; ani; endel
+0,0,2,0,0,0,1,0,0,12,elmar; endel
+0,0,1,0,0,1,1,0,0,12,endel; näitleja
+0,0,1,0,0,1,1,0,0,12,elmar; endel

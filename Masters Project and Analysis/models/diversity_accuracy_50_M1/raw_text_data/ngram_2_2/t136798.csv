@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+5,2,3,1,0,2,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; kultuuripealinn
+5,2,3,1,0,2,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; kultuuripealinn
+5,2,3,1,0,2,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; kultuuripealinn
+5,2,3,1,0,2,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; kultuuripealinn
+6,2,3,1,0,1,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; vladimir; kultuuripealinn
+4,0,3,1,0,3,1,3,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; vladimir; kultuuripealinn
+6,1,2,3,0,3,1,3,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; vladimir; kultuuripealinn
+1,1,4,3,0,3,2,3,2,15,soome-ugri; jevgeni; ossinovski; vladimir; kultuuripealinn
+2,1,3,5,0,2,2,3,2,15,jevgeni; sildam; soome-ugri; ossinovski; tõnu; vladimir; kultuuripealinn
+3,1,3,4,0,3,3,0,1,15,jevgeni; sildam; toomas; soome-ugri; ossinovski; tõnu; vladimir
+2,2,3,4,2,1,4,2,1,15,jevgeni; sildam; toomas; soome-ugri; ossinovski; tõnu; vladimir; kultuuripealinn

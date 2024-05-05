@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,3,2,2,0,3,2,2,1,13,kreeka; hobuse; tööjõupuudus; eesti; keele
+2,3,2,2,0,3,2,2,1,13,kreeka; hobuse; tööjõupuudus; eesti; keele
+2,3,2,2,0,3,2,2,1,13,kreeka; hobuse; tööjõupuudus; eesti; keele
+2,3,3,2,0,3,2,2,1,13,kreeka; hobuse; tööjõupuudus; eesti; keele
+2,3,3,2,0,3,2,2,1,13,kreeka; hobuse; tööjõupuudus; eesti; keele
+2,3,3,2,0,3,2,2,1,13,hobuse; tööjõupuudus; keele; eesti; kreeka
+2,3,3,2,0,3,2,3,1,13,kreeka; tööjõupuudus; eesti; keele
+2,2,3,3,1,2,3,3,1,13,süüria; keele; eesti; kreeka
+3,3,4,2,1,3,2,2,1,13,süüria; hobuse; keele; eesti; tööjõupuudus; kreeka
+3,3,2,2,1,2,2,3,2,13,süüria; hobuse; keele; eesti; kreeka
+3,2,3,2,1,2,2,3,2,13,kreeka; süüria; eesti; keele

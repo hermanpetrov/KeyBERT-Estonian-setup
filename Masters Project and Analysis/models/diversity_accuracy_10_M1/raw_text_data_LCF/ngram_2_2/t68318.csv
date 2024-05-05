@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,2,2,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+2,2,2,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+2,2,2,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+2,2,2,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+2,2,2,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+2,2,1,2,0,2,2,3,1,12,keeleoskus; innove; kolmkeelsus; keelepoliitika; euroopa
+1,1,1,2,0,1,2,2,1,12,keeleoskus; innove; keelepoliitika; euroopa
+1,1,2,1,0,2,2,3,1,12,keeleoskus; innove; võõrkeel; keelepoliitika; euroopa
+1,1,1,0,0,2,2,1,1,12,innove; keelepoliitika; euroopa
+1,2,1,0,0,2,3,1,1,12,innove; võõrkeel; kolmkeelsus; keelepoliitika; euroopa
+2,2,1,1,0,1,1,1,1,12,kolmkeelsus; euroopa; keelepoliitika

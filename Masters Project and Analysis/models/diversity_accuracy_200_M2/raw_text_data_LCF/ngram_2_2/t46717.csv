@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+9,6,7,7,0,9,10,8,7,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; kontsert; eesti; läänemere; sümfooniaorkester; arvo; helsingi
+9,6,7,7,0,9,10,9,7,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; kontsert; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+9,6,9,7,0,10,10,9,7,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; kontsert; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+9,7,10,5,0,10,10,9,7,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+8,8,12,5,0,9,11,11,6,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+9,7,13,6,0,8,10,11,5,16,paavo; stravinski; riiklik; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+5,7,11,10,5,9,9,10,5,16,paavo; stravinski; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; pärt; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+5,4,12,8,5,7,6,10,7,16,paavo; stravinski; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; pärt; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+3,5,9,8,7,5,3,6,7,16,paavo; stravinski; kontserdisaal; tõnu; akustika; festival; järvi; kontsert; pärt; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi
+3,3,8,8,9,4,4,7,6,16,paavo; stravinski; tõnu; akustika; festival; järvi; kontsert; pärt; eesti; läänemere; sümfooniaorkester; kaljuste; helsingi
+2,4,9,8,10,5,5,7,4,16,paavo; stravinski; tõnu; akustika; festival; järvi; kontsert; pärt; eesti; läänemere; sümfooniaorkester; kaljuste; arvo; helsingi

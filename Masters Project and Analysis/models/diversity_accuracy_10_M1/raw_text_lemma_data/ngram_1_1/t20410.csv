@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
+1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
+1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
+1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
+1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
+1,1,1,0,0,1,0,0,0,14,teater; ani; spinning
+1,1,0,0,0,1,0,1,0,14,teater; ani; spinning; esinemine
+1,0,1,0,0,0,1,0,0,14,elmar; spinning; endel
+1,0,0,1,0,0,1,0,0,14,ani; spinning; endel
+0,0,1,1,0,0,0,0,0,14,elmar; ani
+0,0,1,0,0,0,0,0,0,14,elmar

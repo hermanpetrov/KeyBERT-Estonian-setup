@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+10,10,4,6,6,9,8,7,2,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+10,9,5,6,7,9,9,7,2,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+10,9,8,6,8,9,9,7,2,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+12,9,8,7,8,9,9,7,2,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+12,9,11,7,8,10,8,6,3,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+10,10,12,7,6,10,9,9,5,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+12,10,12,6,7,10,9,9,5,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+8,12,12,8,6,13,8,9,6,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+10,8,12,7,10,11,9,10,10,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+7,9,11,7,10,10,8,10,7,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+7,8,12,5,9,8,10,11,8,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee

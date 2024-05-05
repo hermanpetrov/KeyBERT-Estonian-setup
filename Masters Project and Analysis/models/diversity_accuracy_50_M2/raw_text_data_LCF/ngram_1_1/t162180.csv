@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,3,1,0,0,0,2,1,14,hainsalu; elulugu; eesti; luuletaja; üheksavägine
+0,0,3,1,0,0,0,2,1,14,hainsalu; elulugu; eesti; luuletaja; üheksavägine
+0,0,3,1,0,0,0,2,1,14,hainsalu; elulugu; eesti; luuletaja; üheksavägine
+0,0,3,1,0,0,0,2,1,14,hainsalu; elulugu; eesti; luuletaja; üheksavägine
+0,0,2,1,0,0,0,1,1,14,hainsalu; luuletaja; üheksavägine; eesti
+0,0,1,1,0,3,0,1,1,14,hainsalu; elulugu; eesti; luuletaja; üheksavägine
+0,1,1,1,0,1,0,1,1,14,hainsalu; luuletaja; üheksavägine; eesti
+0,2,2,0,0,1,0,2,1,14,hainsalu; lehte; luuletaja; eesti; riigitegelane
+0,1,1,1,0,1,1,1,1,14,hainsalu; kirjanik; luuletaja; eesti; riigitegelane
+0,1,2,0,0,1,1,2,1,14,hainsalu; lehte; kirjanik; luuletaja; eesti; riigitegelane
+0,0,2,0,0,0,0,0,1,14,hainsalu; eesti; lehte

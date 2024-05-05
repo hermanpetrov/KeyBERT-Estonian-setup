@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,1,1,2,0,11,maaparandaja; veehoidla; emajõgi
+0,0,0,0,0,1,1,2,0,11,maaparandaja; veehoidla; emajõgi
+0,0,0,0,0,1,1,2,0,11,maaparandaja; veehoidla; emajõgi
+0,0,0,0,0,1,1,2,0,11,maaparandaja; veehoidla; emajõgi
+0,0,0,0,0,1,1,2,0,11,maaparandaja; veehoidla; emajõgi
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,1,1,0,11,maaparandaja; ekskavaator
+0,0,0,0,0,0,1,1,0,11,ekskavaator; emajõgi
+0,0,0,0,0,0,0,1,0,11,emajõgi
+0,0,0,0,0,0,1,1,0,11,ekskavaator; emajõgi
+0,0,0,0,0,1,0,2,0,11,maaparandaja; ekskavaator; emajõgi

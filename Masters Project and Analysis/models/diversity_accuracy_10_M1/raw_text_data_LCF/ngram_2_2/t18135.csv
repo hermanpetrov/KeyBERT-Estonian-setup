@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,1,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+0,0,0,0,0,1,2,2,1,19,jüri; laulja; ooper; estonia
+1,1,0,2,0,1,2,3,1,19,jüri; leili; estonia; laulja; lavastaja; verdi; ooper
+0,0,0,1,0,1,3,2,1,19,jüri; ivo; estonia; laulja; tammel; verdi
+0,0,0,0,0,2,4,2,0,19,jüri; ivo; tammel; estonia; lavastaja; ooper
+0,0,1,0,1,2,4,1,0,19,jüri; ivo; kuusk; estonia; verdi; armastus

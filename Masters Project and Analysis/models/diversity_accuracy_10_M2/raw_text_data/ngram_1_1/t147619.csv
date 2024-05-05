@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,1,13,lesk; mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,0,0,0,0,13,mõrane
+0,1,0,0,0,1,0,0,0,13,betti; mõrane
+1,1,0,0,0,1,0,0,1,13,lesk; betti; mõrane; tütarlaste
+1,1,0,1,0,1,0,0,0,13,betti; mõrane; tütarlaste

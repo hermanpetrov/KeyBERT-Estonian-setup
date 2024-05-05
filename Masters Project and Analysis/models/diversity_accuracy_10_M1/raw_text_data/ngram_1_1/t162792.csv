@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+2,1,0,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; tervisehäda; meditsiin
+2,1,0,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; tervisehäda; meditsiin
+2,1,0,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; tervisehäda; meditsiin
+2,1,0,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; tervisehäda; meditsiin
+2,1,1,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+2,1,1,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+2,1,1,0,0,1,0,1,0,12,ehmatamine; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+1,1,1,0,0,0,1,1,0,12,ehmatamine; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+1,1,1,0,0,0,1,1,0,12,ehmatamine; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+1,1,1,0,0,0,1,0,0,12,hiiemäe; ehmatamine; kaitsemaagia; meditsiin
+0,1,1,0,0,0,0,0,0,12,hiiemäe; meditsiin

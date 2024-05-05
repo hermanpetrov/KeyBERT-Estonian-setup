@@ -1,0 +1,12 @@
+EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+7,11,11,9,9,10,10,9,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
+7,10,11,9,10,10,10,9,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
+7,8,11,9,10,10,10,9,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
+7,8,11,10,10,10,10,11,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
+8,8,10,10,10,10,10,10,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+9,9,11,8,11,10,10,10,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+8,9,11,9,11,11,10,11,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+9,10,11,10,11,11,10,11,11,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+9,11,11,10,11,10,11,10,10,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+9,11,11,9,11,10,11,11,10,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
+9,11,11,9,11,10,11,11,10,13,ema; leib; tomusk; ilmar; sool; märt; isik; kõrvaline; martin; isa; pius
