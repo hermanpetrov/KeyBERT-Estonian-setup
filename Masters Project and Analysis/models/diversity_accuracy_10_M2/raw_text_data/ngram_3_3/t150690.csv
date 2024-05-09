@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,5,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,2,5,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,2,5,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,2,5,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,1,5,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,1,4,2,0,3,4,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-3,2,3,2,0,3,4,4,2,16,põhialused; eesti; haridus; arengukava; haridus-; keelepoliitika; keel
-4,3,3,2,0,3,3,5,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-1,2,4,4,0,4,4,4,2,16,põhialused; õpetaja; eesti; haridus; arengukava; haridus-; keelepoliitika
-0,1,4,4,0,5,3,3,2,16,põhialused; ülikool; eesti; haridus; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-0,1,4,1,1,2,3,4,2,16,õpetaja; eesti; haridus; arengukava; haridus-; keelepoliitika
+4,2,5,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keelepoliitika; keel; haridus; arengukava
+4,2,5,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keelepoliitika; keel; haridus; arengukava
+4,2,5,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keelepoliitika; keel; haridus; arengukava
+4,2,5,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keelepoliitika; keel; haridus; arengukava
+4,1,5,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keelepoliitika; keel; haridus; arengukava
+4,1,4,2,0,3,4,3,2,16,haridus-; eesti; põhialused; ülikool; keel; keelepoliitika; haridus; arengukava
+3,2,3,2,0,3,4,4,2,16,haridus-; eesti; põhialused; keelepoliitika; haridus; keel; arengukava
+4,3,3,2,0,3,3,5,2,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; haridus; keelepoliitika; keel; arengukava
+1,2,4,4,0,4,4,4,2,16,haridus-; eesti; põhialused; keelepoliitika; haridus; õpetaja; arengukava
+0,1,4,4,0,5,3,3,2,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; haridus; keel; arengukava
+0,1,4,1,1,2,3,4,2,16,haridus-; eesti; keelepoliitika; õpetaja; haridus; arengukava

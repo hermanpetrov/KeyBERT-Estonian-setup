@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,5,4,5,5,6,4,7,14,religioon; tehnoloogiline; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
-6,7,5,4,5,5,6,4,7,14,religioon; tehnoloogiline; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
-7,7,5,5,5,5,6,5,7,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
-7,7,4,5,5,5,3,6,7,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
-6,5,6,5,4,7,4,7,8,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; filosoofia; teadvus; teadus; arrak
-7,8,4,4,3,6,5,7,8,14,tehnoloogiline; usklik; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus
-3,3,5,5,7,6,4,7,8,14,tehnoloogiline; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus; arrak
-2,6,7,5,6,8,6,5,7,14,tehnoloogiline; kunstnik; jüri; vaim; usutunne; üliintellekt; religioon; püha; teadvus; filosoofia; teadus; arrak
-2,6,4,5,6,7,3,2,6,14,religioon; tehnoloogiline; püha; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
-5,7,4,6,6,6,4,1,7,14,religioon; tehnoloogiline; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
-5,5,5,3,6,7,5,3,7,14,religioon; tehnoloogiline; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus; usutunne; arrak; üliintellekt
+6,6,5,4,5,5,6,4,7,14,üliintellekt; teadus; püha; filosoofia; jüri; tehnoloogiline; vaim; arrak; teadvus; usutunne; usklik; religioon
+6,7,5,4,5,5,6,4,7,14,üliintellekt; teadus; püha; filosoofia; jüri; tehnoloogiline; vaim; arrak; teadvus; usutunne; usklik; religioon
+7,7,5,5,5,5,6,5,7,14,üliintellekt; teadus; filosoofia; jüri; tehnoloogiline; vaim; püha; religioon; teadvus; usutunne; usklik; arrak
+7,7,4,5,5,5,3,6,7,14,üliintellekt; teadus; filosoofia; jüri; tehnoloogiline; vaim; püha; religioon; teadvus; usutunne; usklik; arrak
+6,5,6,5,4,7,4,7,8,14,üliintellekt; teadus; filosoofia; jüri; tehnoloogiline; vaim; püha; religioon; teadvus; usutunne; usklik; arrak
+7,8,4,4,3,6,5,7,8,14,üliintellekt; teadus; filosoofia; jüri; tehnoloogiline; vaim; püha; teadvus; usutunne; usklik; religioon
+3,3,5,5,7,6,4,7,8,14,teadus; üliintellekt; jüri; filosoofia; tehnoloogiline; vaim; püha; religioon; teadvus; usutunne; arrak
+2,6,7,5,6,8,6,5,7,14,teadus; üliintellekt; jüri; filosoofia; tehnoloogiline; vaim; kunstnik; püha; arrak; teadvus; usutunne; religioon
+2,6,4,5,6,7,3,2,6,14,teadus; üliintellekt; püha; filosoofia; jüri; tehnoloogiline; vaim; religioon; teadvus; usutunne; arrak
+5,7,4,6,6,6,4,1,7,14,teadus; üliintellekt; püha; filosoofia; jüri; tehnoloogiline; vaim; religioon; teadvus; usutunne; usklik; arrak
+5,5,5,3,6,7,5,3,7,14,teadus; üliintellekt; püha; filosoofia; jüri; tehnoloogiline; vaim; arrak; teadvus; usutunne; usklik; religioon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,1,0,1,2,1,1,15,lääne-euroopa; institutsioon; tartu
-2,2,1,1,0,1,2,1,1,15,lääne-euroopa; institutsioon; tartu
-2,2,1,1,0,1,2,1,1,15,lääne-euroopa; institutsioon; tartu
-2,2,1,1,0,1,2,1,1,15,lääne-euroopa; institutsioon; tartu
-2,2,0,1,0,2,2,1,1,15,lääne-euroopa; institutsioon; tartu
-2,3,0,1,0,2,5,1,1,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; jaroslav; tartu
-1,3,1,1,0,1,4,2,1,15,lääne-euroopa; institutsioon; tark; ordu; jaroslav; tartu
-1,3,1,1,0,3,3,1,1,15,lääne-euroopa; institutsioon; tark; lukas; jaroslav; tartu; liivi
-1,3,1,0,0,3,4,1,1,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu
-2,2,0,3,0,3,3,1,0,15,lääne-euroopa; institutsioon; tark; ordu; lukas; jaroslav; tartu
-1,3,2,2,0,2,3,3,1,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; jaroslav; tartu
+3,5,4,4,1,4,6,4,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; piiskopkond; ametikoht
+3,5,4,4,1,4,6,4,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; piiskopkond; ametikoht
+3,5,4,4,1,4,6,4,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; piiskopkond; ametikoht
+3,5,4,4,1,4,6,4,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; piiskopkond; ametikoht
+3,5,3,4,1,5,6,4,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; piiskopkond; ametikoht
+3,6,4,4,1,4,9,5,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; kloostrielu; tark; tartu; toomkirik; piiskopkond; jaroslav; ordu; tõnis; ametikoht
+3,7,4,4,1,2,6,7,4,15,institutsioon; ülikool; lääne-euroopa; kloostrielu; tartu; toomkirik; ametikoht; toomhärra; jaroslav; tark; piiskopkond; ordu
+5,6,4,3,1,4,5,6,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; kloostrielu; jaroslav; tartu; piiskopkond; tark; toomkirik; liivi; lukas; ametikoht
+3,5,6,2,1,4,6,6,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; kloostrielu; tark; tartu; toomkirik; piiskopkond; ordu; jaroslav; lukas; tõnis; ametikoht
+4,5,3,5,2,4,5,5,3,15,toomhärra; institutsioon; ülikool; kloostrielu; lääne-euroopa; tark; jaroslav; piiskopkond; tartu; ordu; toomkirik; lukas; ametikoht
+2,5,5,4,2,3,3,6,4,15,toomhärra; institutsioon; ülikool; lääne-euroopa; kloostrielu; tark; tartu; toomkirik; piiskopkond; ordu; jaroslav; tõnis; ametikoht

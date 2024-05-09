@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,3,1,2,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-2,2,4,3,1,2,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-2,2,4,3,1,2,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-2,2,3,3,1,2,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-2,2,2,3,1,2,2,3,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-3,1,2,3,1,3,2,3,0,10,loosung; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-4,1,1,1,1,4,2,2,0,10,toimetus; raadio; režissöör; kirjandus; televisioon
-4,0,2,1,1,2,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; televisioon; saade
-1,1,1,1,1,2,2,3,0,10,loosung; toimetus; raadio; film; televisioon; saade
-1,1,2,2,1,3,2,2,0,10,loosung; toimetus; raadio; film; kirjandus; televisioon; saade
-2,1,1,2,1,1,2,2,1,10,film; loosung; kirjandus; televisioon; toimetus; raadio
+2,2,4,3,1,2,2,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+2,2,4,3,1,2,2,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+2,2,4,3,1,2,2,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+2,2,3,3,1,2,2,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+2,2,2,3,1,2,3,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+3,1,2,3,1,2,3,0,0,10,film; loosung; toimetus; saade; raadio; režissöör; kirjandus; televisioon
+4,1,1,1,1,2,2,0,0,10,raadio; režissöör; toimetus; kirjandus; televisioon
+4,0,2,1,1,2,2,0,0,10,film; loosung; toimetus; saade; raadio; kirjandus; televisioon
+1,1,1,1,1,2,3,0,0,10,film; loosung; raadio; toimetus; televisioon
+1,1,2,2,1,2,2,0,0,10,film; loosung; raadio; toimetus; kirjandus; televisioon
+2,1,1,2,1,2,2,1,0,10,film; loosung; raadio; toimetus; kirjandus; televisioon

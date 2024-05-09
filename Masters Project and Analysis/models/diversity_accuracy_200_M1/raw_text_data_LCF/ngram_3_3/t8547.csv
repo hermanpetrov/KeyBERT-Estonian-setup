@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,9,7,4,4,5,6,5,6,13,keskkond; vaimuinimene; poliitiline; vaim; kilumets; margit; haapsalu; otsus; liivia; moekunstnik
-7,9,7,4,4,5,6,5,6,13,keskkond; vaimuinimene; poliitiline; vaim; kilumets; margit; haapsalu; otsus; liivia; moekunstnik
-7,9,7,4,4,7,6,5,6,13,keskkond; vaimuinimene; poliitiline; vaim; kilumets; margit; haapsalu; otsus; liivia; moekunstnik
-7,8,7,4,4,6,6,5,6,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; poliitiline; vaim; otsus; liivia; moekunstnik
-7,9,7,6,4,5,6,5,6,13,keskkond; vaimuinimene; poliitiline; vaim; kilumets; margit; haapsalu; otsus; liivia; moekunstnik
-6,9,8,5,4,5,5,5,5,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; poliitiline; vaim; otsus; liivia; moekunstnik
-7,9,6,5,6,3,4,5,5,13,keskkond; vaimuinimene; vaim; poliitiline; kilumets; margit; haapsalu; otsus; liivia; moekunstnik
-5,7,5,7,8,6,8,5,5,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; vaim; poliitiline; otsus; liivia; moekunstnik
-7,7,5,6,5,4,6,6,7,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; vaim; poliitiline; otsus; liivia; moekunstnik
-6,7,7,7,6,4,7,7,6,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; vaim; poliitiline; otsus; liivia; moekunstnik
-4,7,6,6,6,4,5,8,6,13,keskkond; vaimuinimene; kilumets; margit; haapsalu; vaim; poliitiline; otsus; liivia; moekunstnik
+7,9,7,4,4,6,5,6,0,13,otsus; liivia; vaim; poliitiline; margit; vaimuinimene; moekunstnik; kilumets; haapsalu; keskkond
+7,9,7,4,4,6,5,6,0,13,otsus; liivia; vaim; poliitiline; margit; vaimuinimene; moekunstnik; kilumets; haapsalu; keskkond
+7,9,7,4,4,6,5,6,0,13,otsus; liivia; vaim; poliitiline; margit; vaimuinimene; moekunstnik; kilumets; haapsalu; keskkond
+7,8,7,4,4,6,5,6,0,13,otsus; moekunstnik; liivia; kilumets; vaim; poliitiline; haapsalu; keskkond; margit; vaimuinimene
+7,9,7,6,4,6,5,6,0,13,otsus; liivia; vaim; poliitiline; margit; vaimuinimene; moekunstnik; kilumets; haapsalu; keskkond
+6,9,8,5,4,5,5,5,0,13,otsus; moekunstnik; liivia; kilumets; vaim; poliitiline; haapsalu; keskkond; margit; vaimuinimene
+7,9,6,5,6,4,5,5,0,13,otsus; liivia; vaim; poliitiline; margit; vaimuinimene; moekunstnik; kilumets; haapsalu; keskkond
+5,7,5,7,8,8,5,5,0,13,otsus; moekunstnik; liivia; vaim; kilumets; poliitiline; haapsalu; keskkond; margit; vaimuinimene
+7,7,5,6,5,6,6,7,0,13,otsus; moekunstnik; liivia; vaim; kilumets; poliitiline; haapsalu; keskkond; margit; vaimuinimene
+6,7,7,7,6,7,7,6,0,13,otsus; moekunstnik; liivia; vaim; kilumets; poliitiline; haapsalu; keskkond; margit; vaimuinimene
+4,7,6,6,6,5,8,6,0,13,otsus; moekunstnik; liivia; vaim; kilumets; poliitiline; haapsalu; keskkond; margit; vaimuinimene

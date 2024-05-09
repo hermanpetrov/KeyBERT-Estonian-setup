@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,1,1,2,1,1,2,10,üksindus; inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,1,1,2,1,1,2,10,üksindus; inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,1,1,2,1,1,2,10,üksindus; inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,1,1,2,1,1,2,10,üksindus; inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,1,1,2,1,1,2,10,üksindus; inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,1,1,1,1,1,2,10,inimkond; volga; kirjanik; lend; sõda; ermitaaž
-3,2,0,2,1,1,1,2,2,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-2,1,1,3,2,2,2,1,2,10,üksindus; inimkond; volga; kirjanik; sõda; lend
-2,0,1,3,0,2,1,3,2,10,kirjanik; ermitaaž; üksindus; inimkond; volga; lend
-2,2,1,3,0,1,2,2,3,10,kirjanik; ermitaaž; üksindus; volga; sõda; lend
-4,3,2,3,1,1,2,1,2,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
+3,2,0,1,1,2,1,1,2,10,üksindus; lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,1,1,2,1,1,2,10,üksindus; lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,1,1,2,1,1,2,10,üksindus; lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,1,1,2,1,1,2,10,üksindus; lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,1,1,2,1,1,2,10,üksindus; lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,1,1,1,1,1,2,10,lend; kirjanik; volga; inimkond; ermitaaž; sõda
+3,2,0,2,1,1,1,2,2,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+2,1,1,3,2,2,2,1,2,10,üksindus; lend; kirjanik; volga; inimkond; sõda
+2,0,1,3,0,2,1,3,2,10,üksindus; lend; kirjanik; inimkond; ermitaaž; volga
+2,2,1,3,0,1,2,2,3,10,üksindus; lend; kirjanik; ermitaaž; sõda; volga
+4,3,2,3,1,1,2,1,2,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga

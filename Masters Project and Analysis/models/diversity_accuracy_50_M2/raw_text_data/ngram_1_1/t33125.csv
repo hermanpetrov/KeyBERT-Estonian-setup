@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,2,2,0,18,erakond; kuslap; rahvaliit; valimised
-0,0,1,0,0,1,2,2,0,18,erakond; kuslap; rahvaliit; valimised
-0,0,1,0,0,1,2,2,0,18,erakond; kuslap; rahvaliit; valimised
+0,0,1,0,0,1,2,2,0,18,kuslap; erakond; rahvaliit; valimised
+0,0,1,0,0,1,2,2,0,18,kuslap; erakond; rahvaliit; valimised
+0,0,1,0,0,1,2,2,0,18,kuslap; erakond; rahvaliit; valimised
 0,0,0,0,0,1,2,1,0,18,erakond; kuslap
 0,0,0,0,0,1,2,1,0,18,erakond; kuslap
-0,1,0,0,0,2,1,1,0,18,erakond; voldemar; strandberg
+0,1,0,0,0,2,1,1,0,18,erakond; strandberg; voldemar
 0,1,0,0,0,0,0,1,0,18,erakond; strandberg
-0,0,0,0,0,1,1,1,0,18,erakond; arnold; rahvaliit
+0,0,0,0,0,1,1,1,0,18,arnold; rahvaliit; erakond
 0,0,1,1,0,0,1,1,0,18,erakond; arnold; strandberg
-1,0,1,1,0,0,1,0,0,18,sotsiaaldemokraatlik; arnold; strandberg
-1,0,2,1,0,0,1,0,0,18,sotsiaaldemokraatlik; arnold; strandberg
+1,0,1,1,0,0,1,0,0,18,arnold; sotsiaaldemokraatlik; strandberg
+1,0,2,1,0,0,1,0,0,18,arnold; sotsiaaldemokraatlik; strandberg

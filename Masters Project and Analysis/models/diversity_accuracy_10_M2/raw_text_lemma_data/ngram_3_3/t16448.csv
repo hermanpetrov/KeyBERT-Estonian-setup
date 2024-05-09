@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,3,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,3,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,3,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,2,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,3,3,2,1,2,3,2,1,15,kino; eesti; film; dokk; formaat; televisioon; produtsent
-0,2,3,1,1,2,3,3,1,15,kino; sõprus; eesti; film; dokk; formaat; televisioon
-1,2,3,3,1,2,2,2,2,15,kino; sõprus; eesti; film; dokk; turg; televisioon; formaat
-0,1,2,1,1,3,3,3,1,15,kino; sõprus; eesti; film; formaat; televisioon
-2,0,4,1,2,1,2,3,1,15,eesti; film; dokk; formaat; televisioon; produtsent
-4,1,3,1,2,2,1,3,1,15,sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+0,5,4,3,1,2,3,3,1,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,5,4,3,1,2,3,3,2,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,5,4,3,1,2,3,3,2,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,5,4,3,1,2,3,3,2,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,4,4,3,1,2,3,3,2,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,5,4,3,1,2,3,3,2,15,produtsent; film; eesti; eelarve; formaat; kino; dokk; televisioon; dokumentaalfilm
+0,3,5,2,1,2,3,4,2,15,film; eesti; rahvusvaheline; formaat; dokk; kino; sõprus; televisioon; dokumentaalfilm
+2,2,5,3,1,2,2,3,3,15,film; eesti; rahvusvaheline; formaat; dokk; kino; turg; sõprus; televisioon; dokumentaalfilm
+0,1,3,2,1,3,3,4,1,15,film; eesti; formaat; kino; sõprus; televisioon; dokumentaalfilm
+4,0,5,2,2,1,2,4,1,15,film; produtsent; eesti; rahvusvaheline; formaat; dokk; televisioon; dokumentaalfilm
+6,2,4,2,2,3,1,5,1,15,produtsent; film; eesti; eelarve; formaat; dokk; turg; sõprus; televisioon; dokumentaalfilm

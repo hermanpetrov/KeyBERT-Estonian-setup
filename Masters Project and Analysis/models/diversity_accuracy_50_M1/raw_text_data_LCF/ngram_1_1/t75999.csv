@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha
-0,1,1,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha
-0,1,1,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha
-0,1,1,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha
-0,1,3,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha; aule; tasuline
-0,1,1,0,1,2,0,1,1,12,kristi; mass; ajakirjandus; raha; aule
-0,1,1,0,1,1,0,1,1,12,kristi; mass; ajakirjandus; raha; aule
-0,1,2,0,1,1,1,0,1,12,kristi; mass; raha; aule; tasuline; julgus
-0,1,4,0,1,1,1,0,1,12,kristi; mass; ajakirjandus; raha; aule; tasuline; julgus
-0,0,4,0,2,1,1,0,1,12,kristi; mass; ajakirjandus; aule; tasuline; hall
-0,0,4,0,2,1,0,1,1,12,kristi; mass; ajakirjandus; aule; tasuline; hall
+0,1,1,0,1,0,1,1,0,12,mass; kristi; raha; ajakirjandus
+0,1,1,0,1,0,1,1,0,12,mass; kristi; raha; ajakirjandus
+0,1,1,0,1,0,1,1,0,12,mass; kristi; raha; ajakirjandus
+0,1,1,0,1,0,1,1,0,12,mass; kristi; raha; ajakirjandus
+0,1,3,0,1,0,1,1,0,12,aule; tasuline; mass; raha; ajakirjandus; kristi
+0,1,1,0,1,0,1,1,0,12,aule; mass; raha; ajakirjandus; kristi
+0,1,1,0,1,0,1,1,0,12,aule; mass; raha; ajakirjandus; kristi
+0,1,2,0,1,1,0,1,0,12,aule; tasuline; mass; julgus; raha; kristi
+0,1,4,0,1,1,0,1,0,12,aule; tasuline; mass; julgus; raha; ajakirjandus; kristi
+0,0,4,0,2,1,0,1,0,12,aule; tasuline; mass; ajakirjandus; hall; kristi
+0,0,4,0,2,0,1,1,0,12,aule; tasuline; mass; ajakirjandus; hall; kristi

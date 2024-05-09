@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,0,0,1,0,13,jaak; filter; korrosioon
-1,0,0,0,1,0,0,1,0,13,jaak; filter; korrosioon
-1,0,0,0,1,0,0,1,0,13,jaak; filter; korrosioon
-1,0,0,0,1,0,0,1,0,13,jaak; filter; korrosioon
-1,0,1,0,1,0,0,1,0,13,jaak; filter; korrosioon
-0,0,1,0,1,0,0,1,0,13,filter; jaak
-1,1,0,0,1,0,0,0,0,13,filter; korrosioon
-1,2,1,0,1,0,0,0,0,13,kvaliteet; filter; korrosioon; jaak
-0,1,1,0,1,0,0,0,0,13,filter; jaak
-0,2,1,0,1,0,0,0,0,13,kvaliteet; filter; jaak
-0,0,2,0,1,0,0,0,0,13,filter; jaak
+4,0,1,0,1,1,3,4,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+4,0,1,0,1,1,3,4,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+4,0,1,0,1,1,3,4,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+4,0,1,0,1,1,3,4,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+4,0,2,0,1,0,3,4,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+3,0,1,0,1,0,1,3,0,13,põhjavesi; jaak; mürkkemikaal; veevarustussüsteem; filter; joogiveemäärus; keskkonnakeemia
+2,1,0,0,1,1,1,1,0,13,põhjavesi; veevarustussüsteem; filter; korrosioon; mürkkemikaal
+2,2,1,0,1,1,0,1,0,13,veevarustussüsteem; jaak; filter; korrosioon; mürkkemikaal; kvaliteet
+1,1,1,1,1,0,0,0,0,13,veevarustussüsteem; jaak; filter
+0,2,1,1,1,0,0,1,0,13,veevarustussüsteem; jaak; filter; joogiveemäärus; kvaliteet
+0,0,2,0,1,0,0,0,0,13,jaak; filter

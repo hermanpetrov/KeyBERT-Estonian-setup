@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,4,3,4,3,1,1,11,rahutu; abitu; vaenlased; käsikiri; kriitika
-3,3,2,4,2,4,3,1,1,11,rahutu; abitu; vaenlased; käsikiri; kriitika
-3,3,0,4,1,4,4,2,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-4,3,1,4,1,4,4,2,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-4,2,2,4,1,4,4,2,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-4,2,3,3,1,3,4,2,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-3,1,2,2,1,3,4,3,1,11,rahutu; vaenlased; abitu; käsikiri; kriitika
-2,1,4,1,1,2,5,5,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-1,2,3,2,1,3,4,4,1,11,rahutu; vaenlased; käsikiri; kriitika; abitu
-1,2,2,2,1,3,3,4,2,11,rahutu; abitu; vaenlased; käsikiri; kriitika
-2,1,4,2,2,4,2,3,2,11,rahutu; abitu; vaenlased; käsikiri; kriitika
+3,3,2,4,3,3,1,1,0,11,käsikiri; vaenlased; kriitika; abitu; rahutu
+3,3,2,4,2,3,1,1,0,11,käsikiri; vaenlased; kriitika; abitu; rahutu
+3,3,0,4,1,4,2,1,0,11,käsikiri; vaenlased; kriitika; abitu; rahutu
+4,3,1,4,1,4,2,1,0,11,käsikiri; vaenlased; abitu; kriitika; rahutu
+4,2,2,4,1,4,2,1,0,11,käsikiri; vaenlased; abitu; kriitika; rahutu
+4,2,3,3,1,4,2,1,0,11,vaenlased; käsikiri; abitu; kriitika; rahutu
+3,1,2,2,1,4,3,1,0,11,vaenlased; käsikiri; kriitika; abitu; rahutu
+2,1,4,1,1,5,5,1,0,11,vaenlased; käsikiri; abitu; kriitika; rahutu
+1,2,3,2,1,4,4,1,0,11,vaenlased; käsikiri; abitu; kriitika; rahutu
+1,2,2,2,1,3,4,2,0,11,vaenlased; käsikiri; abitu; kriitika; rahutu
+2,1,4,2,2,2,3,2,0,11,vaenlased; käsikiri; abitu; kriitika; rahutu

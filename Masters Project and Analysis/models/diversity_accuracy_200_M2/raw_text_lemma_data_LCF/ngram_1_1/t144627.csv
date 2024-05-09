@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,1,0,1,1,4,4,4,12,aav; näitleja; esinemine; repertuaar; tõnu; juhan
-0,3,1,0,1,1,4,3,4,12,esinemine; repertuaar; tõnu; näitleja; juhan
-0,3,1,0,2,1,4,3,4,12,näitleja; esinemine; repertuaar; tõnu; juhan
-0,3,1,0,2,1,3,3,4,12,esinemine; repertuaar; tõnu; näitleja; juhan
-0,3,1,2,1,1,2,3,4,12,näitleja; esinemine; repertuaar; tõnu; juhan
-0,3,1,2,1,0,1,4,4,12,aav; näitleja; esinemine; repertuaar; tõnu; juhan
-0,2,2,3,1,1,1,2,3,12,esinemine; aav; repertuaar; tõnu; näitleja; juhan
-0,2,2,4,1,1,1,1,1,12,aav; näitleja; esinemine; repertuaar; tõnu; juhan
-0,3,2,2,1,1,1,1,1,12,esinemine; aav; repertuaar; näitleja; juhan
-1,2,1,2,1,1,0,1,1,12,esinemine; aav; repertuaar; tõnu; näitleja; juhan
-0,2,1,2,1,1,0,1,0,12,esinemine; aav; repertuaar; tõnu; näitleja
+4,4,1,2,2,3,6,5,5,12,esinemine; näitering; näitleja; tõnu; ebaõnnestumine; repertuaar; juhan; aav; lavakunstikateeder; draamateater
+4,4,1,2,2,2,6,4,5,12,esinemine; näitering; näitleja; tõnu; ebaõnnestumine; repertuaar; juhan; lavakunstikateeder; draamateater
+4,4,1,2,3,2,6,4,5,12,esinemine; näitering; näitleja; tõnu; ebaõnnestumine; repertuaar; juhan; lavakunstikateeder; draamateater
+4,4,1,2,3,1,5,5,6,12,esinemine; näitering; näitleja; tõnu; ebaõnnestumine; repertuaar; juhan; lavakunstikateeder; draamateater
+3,4,1,3,2,1,4,5,6,12,esinemine; näitleja; tõnu; ebaõnnestumine; repertuaar; lavakunstikateeder; juhan; näitering; draamateater
+3,4,4,3,2,1,2,6,6,12,esinemine; näitleja; tõnu; ebaõnnestumine; repertuaar; lavakunstikateeder; aav; juhan; eneseusk; näitering; draamateater
+3,3,5,4,2,3,1,5,5,12,esinemine; eneseusk; näitleja; tõnu; ebaõnnestumine; repertuaar; lavakunstikateeder; juhan; aav; näitering; draamateater
+4,3,5,4,1,3,1,2,3,12,esinemine; draamateater; näitleja; ebaõnnestumine; repertuaar; lavakunstikateeder; aav; juhan; eneseusk; näitering; tõnu
+3,4,5,2,1,3,1,2,2,12,esinemine; eneseusk; näitering; näitleja; ebaõnnestumine; repertuaar; juhan; aav; lavakunstikateeder; draamateater
+3,3,5,2,1,3,1,1,3,12,esinemine; draamateater; näitering; näitleja; ebaõnnestumine; aav; repertuaar; juhan; eneseusk; lavakunstikateeder; tõnu
+2,2,4,2,1,3,0,2,2,12,esinemine; draamateater; näitleja; aav; repertuaar; lavakunstikateeder; ebaõnnestumine; eneseusk; näitering; tõnu

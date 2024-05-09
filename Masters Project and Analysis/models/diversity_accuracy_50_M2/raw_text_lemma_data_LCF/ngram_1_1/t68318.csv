@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,2,0,13,inglise; keel; euroopa
-0,0,2,0,0,2,2,2,0,13,inglise; keel; euroopa
-0,0,2,0,0,2,2,2,0,13,inglise; keel; euroopa
-0,0,3,0,0,2,2,2,0,13,inglise; keel; euroopa
-0,0,3,0,0,2,2,2,0,13,inglise; keel; euroopa
-0,0,0,0,0,1,2,2,0,13,inglise; keel; euroopa
-0,0,0,0,0,1,0,1,0,13,euroopa; inglise
-0,0,0,0,0,1,0,1,0,13,euroopa; inglise
-0,0,0,0,0,1,0,1,0,13,euroopa; inglise
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,1,0,0,0,0,0,13,keel
+5,0,7,2,0,10,10,9,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,7,2,0,10,10,9,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,7,2,0,10,10,9,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,6,2,0,10,10,9,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keel; keelterikas; keeleõpe; keeleoskus
+5,0,6,2,0,10,10,9,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,2,2,0,8,10,7,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+3,0,2,1,0,5,5,4,1,13,haridussüsteem; võõrkeel; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; riigikeel; euroopa; keeleõpe
+3,0,0,0,1,2,3,2,1,13,kolmkeelsus; haridussüsteem; keelepoliitika; inglise; raamdokument; riigikeel; euroopa
+5,0,2,0,0,1,2,1,1,13,haridussüsteem; võõrkeel; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; raamdokument; euroopa
+2,0,1,1,0,0,1,0,1,13,võõrkeel; haridussüsteem; raamdokument; riigikeel; mitmekeelsus
+2,0,2,1,0,0,1,0,1,13,võõrkeel; keel; haridussüsteem; raamdokument; mitmekeelsus

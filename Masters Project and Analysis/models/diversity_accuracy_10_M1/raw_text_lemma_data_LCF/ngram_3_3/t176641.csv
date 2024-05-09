@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,3,0,0,0,1,11,dünaamiline; loeng; kihnu; saar
-1,0,0,0,3,0,0,0,1,11,dünaamiline; loeng; kihnu; saar
-1,0,0,0,3,0,0,0,0,11,dünaamiline; kihnu; loeng; saar
-1,0,0,0,3,0,0,0,0,11,dünaamiline; kihnu; loeng; saar
-1,0,0,0,3,0,0,0,0,11,dünaamiline; kihnu; loeng; saar
-1,0,0,0,3,0,0,0,1,11,dünaamiline; loeng; kihnu; saar
-1,1,0,0,3,0,0,0,1,11,dünaamiline; sport; loeng; kihnu; saar
-2,1,0,0,3,0,0,0,1,11,dünaamiline; sport; loeng; kihnu; saar
-1,0,0,0,3,0,0,0,1,11,sport; loeng; kihnu; saar
-1,0,0,2,3,0,0,0,1,11,dünaamiline; loeng; kihnu; saar
-2,0,0,0,3,0,0,0,1,11,sport; loeng; kihnu; saar
+1,2,0,3,4,2,3,2,2,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,2,0,3,4,2,3,2,2,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,2,0,3,4,2,3,2,1,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,2,0,3,4,2,3,2,1,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,2,0,3,4,2,3,2,1,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,2,0,3,4,2,3,2,2,11,kihnu; kultuuriseminar; dünaamiline; loeng; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; väliseestlane; saar
+1,3,0,3,4,2,3,2,2,11,kihnu; kultuuriseminar; dünaamiline; loeng; väliseestlane; keeleteadlane; kultuurisektor; esivanem; rahvatantsupidu; sport; saar
+2,3,1,1,4,2,4,2,2,11,kultuuriseminar; kihnu; dünaamiline; loeng; väliseestlane; kultuurisektor; keeleteadlane; esivanem; sport; saar
+2,2,1,0,4,2,3,2,2,11,kultuuriseminar; kihnu; loeng; esivanem; väliseestlane; keeleteadlane; kultuurisektor; sport; saar
+2,1,1,2,4,3,3,2,2,11,kultuuriseminar; kihnu; dünaamiline; loeng; esivanem; kultuurisektor; väliseestlane; saar
+3,2,0,2,4,3,3,2,2,11,kultuuriseminar; kihnu; loeng; väliseestlane; esivanem; kultuurisektor; sport; saar

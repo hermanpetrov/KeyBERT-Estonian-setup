@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,1,1,1,11,eesti
-0,0,0,0,0,1,0,1,1,11,eesti
-0,0,0,0,0,1,0,1,1,11,eesti
-0,0,0,0,0,1,0,1,1,11,eesti
-0,0,0,0,0,1,0,0,1,11,eesti
-0,0,0,0,0,1,0,0,1,11,eesti
+0,0,2,0,0,2,3,2,2,11,mereriik; meremees; eesti; mereakadeemia
+0,0,2,0,0,2,3,2,2,11,mereriik; meremees; eesti; mereakadeemia
+0,0,2,0,0,2,3,2,2,11,mereriik; meremees; eesti; mereakadeemia
+0,0,2,0,0,2,3,2,1,11,mereriik; meremees; eesti
+0,0,2,0,0,2,3,2,1,11,mereriik; meremees; eesti
+0,0,2,0,0,1,3,3,1,11,mereriik; meremees; eesti; meremuusika; mereakadeemia
+0,0,1,1,0,1,0,2,1,11,mereriik; meremees; eesti
+0,0,1,1,0,1,1,2,1,11,mereriik; meremees; eesti; meremuusika
+0,0,1,0,0,1,0,2,2,11,mereriik; meremees; eesti; mereakadeemia
+0,0,1,0,0,1,0,1,2,11,mereriik; meremees; eesti; mereakadeemia
+0,0,1,0,0,1,0,1,1,11,mereriik; meremees; eesti

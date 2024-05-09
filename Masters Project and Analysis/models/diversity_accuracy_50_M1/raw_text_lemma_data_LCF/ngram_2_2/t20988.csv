@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,2,0,1,1,4,0,19,peebo; annely; andres; näitleja; laulmine; anu; everaus
-1,0,0,2,0,1,1,4,0,19,peebo; annely; andres; näitleja; laulmine; anu; everaus
-1,0,0,2,0,1,1,4,0,19,peebo; annely; andres; näitleja; laulmine; anu; everaus
-1,0,0,2,0,1,1,4,0,19,peebo; annely; andres; näitleja; laulmine; anu; everaus
-1,0,1,2,0,1,1,4,0,19,andres; näitleja; mall; peebo; annely; laulmine; anu; everaus
-0,0,1,3,0,1,1,5,0,19,andres; mälberg; mall; peebo; annely; gerd; laulmine; anu; everaus
-2,0,0,1,0,3,5,3,0,19,uudis; näitleja; mall; peebo; annely; gerd; mälberg; anu
-0,0,3,0,0,3,2,3,0,19,uudis; näitleja; ori; peebo; annely; mall; mälberg; toimetaja
-2,0,3,0,0,2,1,3,0,19,peebo; annely; gerd; mälberg; näitleja; mall
-0,0,2,3,1,2,0,4,0,19,hele; lamp; ori; peebo; annely; mall; laulmine; mälberg; anu; everaus
-0,1,2,1,2,1,1,3,0,19,hele; ori; peebo; annely; laulmine; everaus
+1,0,0,2,0,1,1,4,0,19,annely; everaus; anu; andres; laulmine; näitleja; peebo
+1,0,0,2,0,1,1,4,0,19,annely; everaus; anu; andres; laulmine; näitleja; peebo
+1,0,0,2,0,1,1,4,0,19,annely; everaus; anu; andres; laulmine; näitleja; peebo
+1,0,0,2,0,1,1,4,0,19,annely; everaus; anu; andres; laulmine; näitleja; peebo
+1,0,1,2,0,1,1,4,0,19,everaus; annely; laulmine; näitleja; peebo; mall; anu; andres
+0,0,1,3,0,1,1,5,0,19,everaus; annely; gerd; mälberg; laulmine; peebo; mall; anu; andres
+2,0,0,1,0,3,5,3,0,19,annely; gerd; mälberg; näitleja; peebo; uudis; mall; anu
+0,0,4,0,0,3,2,3,0,19,kettaheide; annely; mälberg; näitleja; peebo; uudis; toimetaja; mall; ori
+2,0,3,0,0,2,1,3,0,19,mall; annely; gerd; mälberg; näitleja; peebo
+0,0,2,3,1,2,0,4,0,19,hele; everaus; annely; mälberg; laulmine; peebo; mall; anu; ori; lamp
+0,1,2,1,2,1,1,3,0,19,hele; everaus; annely; laulmine; peebo; ori

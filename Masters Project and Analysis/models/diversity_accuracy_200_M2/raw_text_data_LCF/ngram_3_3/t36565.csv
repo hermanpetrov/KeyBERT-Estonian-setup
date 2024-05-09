@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,2,5,0,2,2,7,2,15,abielu; mets; reimo; geiaktivist; tõnis; eesti; lukas; ühiskond; ööklubi; jurist; demokraatia; politsei
-5,7,2,5,0,2,2,8,2,15,abielu; mets; reimo; lukas; demokraatia; politsei; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-5,6,3,6,0,4,2,10,2,15,abielu; mets; reimo; lukas; demokraatia; politsei; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-5,6,4,6,0,4,2,10,2,15,abielu; mets; reimo; lukas; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-4,7,5,6,2,4,3,9,2,15,abielu; mets; reimo; lukas; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-4,6,5,3,2,6,6,10,3,15,abielu; mets; reimo; lukas; haridus; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-5,2,6,5,3,2,4,11,4,15,abielu; mets; reimo; lukas; haridus; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-3,3,6,5,3,5,5,7,4,15,abielu; mets; kirik; reimo; geiaktivist; eesti; lukas; haridus; ühiskond; ööklubi; jurist; demokraatia; politsei
-1,2,8,5,3,5,2,9,4,15,abielu; mets; reimo; lukas; haridus; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
-4,3,5,5,7,3,6,7,4,15,abielu; kirik; mets; reimo; geiaktivist; tõnis; eesti; lukas; haridus; ühiskond; ööklubi; demokraatia; jurist; politsei
-3,4,6,5,7,4,7,7,4,15,abielu; mets; reimo; lukas; haridus; demokraatia; politsei; kirik; geiaktivist; tõnis; eesti; ühiskond; ööklubi; jurist
+5,7,2,5,0,2,7,2,0,15,geiaktivist; politsei; eesti; demokraatia; reimo; jurist; ühiskond; abielu; lukas; tõnis; mets; ööklubi
+5,7,2,5,0,2,8,2,0,15,geiaktivist; politsei; reimo; abielu; mets; eesti; demokraatia; jurist; ühiskond; lukas; tõnis; ööklubi
+5,6,3,6,0,2,10,2,0,15,geiaktivist; politsei; reimo; abielu; mets; eesti; demokraatia; jurist; ühiskond; lukas; tõnis; ööklubi
+5,6,4,6,0,2,10,2,0,15,geiaktivist; politsei; reimo; abielu; mets; eesti; kirik; demokraatia; jurist; ühiskond; lukas; tõnis; ööklubi
+4,7,5,6,2,3,9,2,0,15,geiaktivist; politsei; reimo; abielu; mets; eesti; kirik; demokraatia; jurist; ühiskond; lukas; tõnis; ööklubi
+4,6,5,3,2,6,10,3,0,15,politsei; geiaktivist; reimo; abielu; mets; eesti; kirik; demokraatia; jurist; ühiskond; lukas; haridus; tõnis; ööklubi
+5,2,6,5,3,4,11,4,0,15,politsei; geiaktivist; reimo; abielu; mets; eesti; kirik; demokraatia; jurist; ühiskond; lukas; haridus; tõnis; ööklubi
+3,3,6,5,3,5,7,4,0,15,politsei; geiaktivist; eesti; kirik; demokraatia; reimo; jurist; ühiskond; abielu; haridus; lukas; mets; ööklubi
+1,2,8,5,3,2,9,4,0,15,politsei; geiaktivist; reimo; abielu; mets; eesti; demokraatia; jurist; ühiskond; lukas; haridus; tõnis; ööklubi
+4,3,5,5,7,6,7,4,0,15,geiaktivist; politsei; eesti; kirik; demokraatia; reimo; jurist; ühiskond; abielu; lukas; haridus; tõnis; mets; ööklubi
+3,4,6,5,7,7,7,4,0,15,politsei; geiaktivist; reimo; abielu; mets; eesti; kirik; demokraatia; jurist; ühiskond; lukas; haridus; tõnis; ööklubi

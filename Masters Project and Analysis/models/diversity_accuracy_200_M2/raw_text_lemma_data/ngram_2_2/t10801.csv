@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,4,3,2,2,2,3,3,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-3,4,4,3,2,2,2,3,3,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-3,4,4,3,2,3,4,3,3,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-3,4,4,3,2,3,5,3,4,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-4,4,5,3,2,5,5,3,4,12,kirik; propaganda; aeg; aasta; jessenin; hügieen
-3,5,3,3,3,5,4,3,5,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-5,5,4,2,3,3,4,3,5,12,kirik; propaganda; aeg; aasta; jessenin; hügieen
-4,5,4,4,3,3,4,3,4,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-3,4,4,3,4,3,3,3,4,12,kirik; propaganda; aeg; aasta; jessenin; hügieen
-3,3,4,4,5,3,4,3,4,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
-3,3,3,3,4,3,2,3,5,12,kirik; propaganda; aasta; aeg; jessenin; hügieen
+5,6,6,4,2,4,5,4,6,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+5,7,7,4,2,4,5,5,6,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+5,7,6,4,2,6,7,5,6,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+5,7,7,4,2,6,9,6,7,12,aeg; kahekümnes; homoseksualism; nõukogu; kirik; aasta; jessenin; tervishoid; hügieen; propaganda
+6,7,8,4,2,9,9,6,7,12,aeg; kahekümnes; homoseksualism; nõukogu; kirik; aasta; jessenin; tervishoid; hügieen; propaganda
+6,8,7,4,3,9,6,7,8,12,aeg; kahekümnes; homoseksualism; nõukogu; kirik; aasta; jessenin; tervishoid; hügieen; propaganda
+7,8,6,5,4,6,7,6,8,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+6,8,7,7,4,7,6,7,7,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+6,8,7,6,5,6,6,7,6,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+6,6,6,7,7,5,6,5,7,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+6,4,5,5,6,6,5,5,7,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda

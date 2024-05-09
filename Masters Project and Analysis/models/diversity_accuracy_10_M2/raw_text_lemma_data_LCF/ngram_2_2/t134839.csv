@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,2,2,2,2,15,jagamine; eesti; euroopa
-0,0,1,1,0,2,2,2,2,15,jagamine; eesti; euroopa
-0,0,1,1,0,2,2,2,2,15,jagamine; eesti; euroopa
-0,0,1,1,0,2,2,2,2,15,jagamine; eesti; euroopa
-0,0,1,1,0,2,2,2,2,15,jagamine; eesti; euroopa
-0,0,1,1,0,2,2,1,2,15,jagamine; eesti; euroopa
-1,0,0,1,0,3,2,2,2,15,liit; eesti; euroopa
-1,0,0,0,0,3,3,2,2,15,liit; eesti; euroopa
-0,1,0,1,0,3,3,1,1,15,periood; liit; eesti; euroopa
-0,0,1,0,0,2,3,2,0,15,liit; eesti; euroopa
-0,2,0,0,0,2,1,2,1,15,periood; liit; eesti; euroopa
+0,0,2,3,0,2,2,2,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+0,0,2,2,0,2,2,2,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+0,0,2,2,0,2,2,2,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+0,0,2,2,0,2,2,2,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+0,0,2,2,0,2,2,2,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+0,0,2,2,0,2,2,1,2,15,jagamine; eesti; kultuuripoliitika; euroopa; eelarve
+1,0,0,2,0,3,3,2,2,15,eesti; kultuuripoliitika; euroopa; liit
+1,1,1,0,0,3,3,2,2,15,eesti; kultuuripoliitika; euroopa; eelarve; liit
+0,2,0,1,1,4,3,1,1,15,euroopa; eesti; eelarve; abikaasa; periood; ajaloomuuseum; liit
+1,1,2,0,1,2,3,2,1,15,ajaloomuuseum; abikaasa; eesti; euroopa; eelarve; liit
+1,4,0,0,1,2,1,2,2,15,euroopa; eesti; eelarve; abikaasa; periood; ajaloomuuseum; liit

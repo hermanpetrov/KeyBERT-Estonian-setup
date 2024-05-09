@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,3,1,3,2,4,2,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-3,4,4,1,3,1,4,2,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-3,4,4,1,3,1,4,1,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-3,4,5,1,3,3,4,1,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-3,4,3,1,3,3,4,1,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-3,4,2,1,4,3,4,3,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-1,5,4,1,4,3,3,4,1,12,looming; noorusarmastus; vene; screabin; helilooja; sonaat; protest; saatus
-1,5,2,2,4,2,4,3,1,12,looming; noorusarmastus; vene; helilooja; sonaat; protest; saatus
-0,3,3,4,4,2,4,4,1,12,looming; noorusarmastus; vene; helilooja; sonaat; protest; saatus
-1,4,3,3,3,1,6,4,0,12,looming; noorusarmastus; vene; helilooja; sonaat; protest; saatus
-0,2,4,4,3,1,6,4,0,12,looming; noorusarmastus; vene; helilooja; sonaat; protest; saatus
+3,4,3,1,3,4,2,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+3,4,4,1,3,4,2,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+3,4,4,1,3,4,1,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+3,4,5,1,3,4,1,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+3,4,3,1,3,4,1,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; protest; helilooja
+3,4,2,1,4,4,3,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+1,5,4,1,4,3,4,1,0,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest
+1,5,2,2,4,4,3,1,0,12,sonaat; vene; looming; saatus; noorusarmastus; helilooja; protest
+0,3,3,4,4,4,4,1,0,12,sonaat; vene; looming; saatus; noorusarmastus; helilooja; protest
+1,4,3,3,3,6,4,0,0,12,sonaat; vene; looming; saatus; noorusarmastus; helilooja; protest
+0,2,4,4,3,6,4,0,0,12,sonaat; vene; looming; saatus; noorusarmastus; helilooja; protest

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,1,1,17,tõnu; akustika; riiklik; helsingi
-0,0,1,0,0,1,1,1,1,17,tõnu; akustika; riiklik; helsingi
-0,0,1,0,0,1,1,1,1,17,tõnu; akustika; riiklik; helsingi
-0,0,1,0,0,1,1,1,1,17,tõnu; akustika; riiklik; helsingi
-0,0,2,0,0,1,1,1,1,17,riiklik; annika; tõnu; akustika; helsingi
-0,0,2,0,0,1,1,1,1,17,festival; riiklik; annika; tõnu; akustika
-0,0,2,0,0,2,2,1,1,17,festival; riiklik; annika; tõnu; akustika
-0,0,2,0,0,2,2,0,0,17,festival; annika; akustika
-0,0,2,0,0,1,3,1,1,17,festival; annika; akustika
-0,0,2,0,0,1,2,1,0,17,festival; paavo; annika; akustika
-0,0,1,1,0,1,1,1,0,17,festival; kuu; annika; akustika; helsingi
+0,1,2,0,0,3,4,2,2,17,helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; tõnu
+0,1,2,0,0,3,4,2,2,17,helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; tõnu
+0,1,2,0,0,3,4,2,2,17,helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; tõnu
+0,1,1,0,0,3,4,2,2,17,helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; tõnu
+0,1,2,0,0,2,4,3,2,17,helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; annika; tõnu
+0,1,2,0,0,1,5,3,2,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; annika; festival; tõnu
+0,0,2,0,0,4,4,2,2,17,riiklik; sümfooniaorkester; läänemeri; akustika; linnaorkester; annika; festival; tõnu
+0,1,3,0,0,3,3,0,2,17,sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; annika; festival
+0,1,3,0,0,2,3,1,3,17,läänemeri; linnaorkester; kontserdisaal; akustika; sümfooniaorkester; annika; festival
+1,1,3,0,0,1,2,2,2,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; akustika; linnaorkester; annika; festival
+1,0,1,1,0,2,1,1,0,17,kuu; läänemeri; helsingi; akustika; annika; festival

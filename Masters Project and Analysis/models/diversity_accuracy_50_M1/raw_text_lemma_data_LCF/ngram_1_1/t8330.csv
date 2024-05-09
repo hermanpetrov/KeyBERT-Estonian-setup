@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,0,0,0,0,0,0,1,15,kirjake
-0,1,0,0,0,0,0,0,1,15,laager; kirjake
-0,1,0,0,0,1,0,0,1,15,keel; laager; kirjake
-0,0,1,0,0,0,0,0,1,15,saksa; kirjake
-0,0,1,2,0,0,0,0,1,15,keel; laager; saksa; kirjake
-0,0,0,1,0,0,0,1,1,15,laager; kirjake
+0,0,2,1,0,0,0,0,1,15,saksa; talveriie; kirjake
+0,0,2,1,0,0,0,0,1,15,saksa; talveriie; kirjake
+0,0,2,1,0,0,0,0,1,15,saksa; talveriie; kirjake
+0,0,2,1,0,0,0,0,1,15,saksa; talveriie; kirjake
+0,0,2,1,0,0,0,0,1,15,saksa; talveriie; kirjake
+0,0,1,1,0,0,0,0,1,15,talveriie; kirjake
+0,1,1,1,0,1,0,0,1,15,talveriie; loomavagun; kirjake; laager
+0,1,1,0,0,1,0,1,1,15,talveriie; loomavagun; keel; kirjake; laager
+0,0,1,1,0,0,0,0,1,15,saksa; kirjake; mustlasnaine
+2,0,1,2,0,0,0,1,1,15,saksa; talveriie; loomavagun; keel; kirjake; laager
+2,0,0,2,0,0,0,2,1,15,talveriie; loomavagun; kirjake; mustlasnaine; laager

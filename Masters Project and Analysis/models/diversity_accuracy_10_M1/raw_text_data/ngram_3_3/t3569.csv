@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,1,0,0,0,0,0,13,brüssel; luksemburg; eelarve
-1,1,0,0,0,0,0,0,0,13,brüssel; luksemburg
-0,1,1,0,0,1,1,0,0,13,luksemburg; 4000; eelarve
-0,1,0,0,0,1,1,2,0,13,brüssel; luksemburg; eelarve
-0,1,2,0,0,1,1,2,0,13,4000; brüssel; luksemburg; eelarve
-1,0,1,1,0,1,0,2,1,13,4000; muusikafestival; brüssel; luksemburg; eelarve
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,1,0,0,0,0,0,13,eelarve; luksemburg; brüssel
+1,1,0,0,0,0,0,0,0,13,luksemburg; brüssel
+0,1,1,0,0,1,1,0,0,13,4000; eelarve; luksemburg
+0,1,0,0,0,1,1,2,0,13,eelarve; luksemburg; brüssel
+0,1,2,0,0,1,1,2,0,13,eelarve; brüssel; 4000; luksemburg
+1,0,1,1,0,1,0,2,1,13,brüssel; 4000; eelarve; luksemburg; muusikafestival

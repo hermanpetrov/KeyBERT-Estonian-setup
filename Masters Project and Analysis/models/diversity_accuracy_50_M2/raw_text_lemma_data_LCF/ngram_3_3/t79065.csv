@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; ant; linn; muumia; surnu
-5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; ant; linn; muumia; surnu
-5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; ant; linn; muumia; surnu
-5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; ant; linn; muumia; surnu
-5,0,0,1,1,0,0,1,2,12,ink; chachapoyas; ant; linn; muumia; surnu
-4,3,0,1,1,0,0,1,2,12,chachapoyas; poeg; linn; ink; kindlus; ant; surnu
-5,3,1,2,2,1,0,3,2,12,chachapoyas; poeg; linn; ink; kindlus; päike; ant; surnu
-4,2,1,2,2,3,1,4,2,12,chachapoyas; poeg; linn; muumia; ink; kindlus; ant; surnu
-4,2,2,2,2,3,1,3,2,12,chachapoyas; poeg; linn; muumia; ink; kindlus; ant; surnu
-6,1,3,2,3,4,1,4,2,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-5,2,3,3,2,1,1,3,1,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant
+5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; surnu; ant; muumia; linn
+5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; surnu; ant; muumia; linn
+5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; surnu; ant; muumia; linn
+5,1,0,1,1,0,0,1,2,12,ink; chachapoyas; surnu; ant; muumia; linn
+5,0,0,1,1,0,0,1,2,12,ink; chachapoyas; surnu; ant; muumia; linn
+4,3,0,1,1,0,0,1,2,12,chachapoyas; ink; poeg; surnu; ant; kindlus; linn
+5,3,1,2,2,1,0,3,2,12,chachapoyas; päike; ink; poeg; surnu; ant; kindlus; linn
+4,2,1,2,2,3,1,4,2,12,chachapoyas; muumia; ink; poeg; surnu; ant; kindlus; linn
+4,2,2,2,2,3,1,3,2,12,chachapoyas; muumia; ink; poeg; surnu; ant; kindlus; linn
+6,1,3,2,3,4,1,4,2,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+5,2,3,3,2,1,1,3,1,12,chachapoyas; päike; muumia; ink; poeg; ant; kindlus; linn

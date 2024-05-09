@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,6,5,4,5,7,7,5,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-5,5,6,5,4,5,7,7,5,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-5,5,6,5,5,5,7,8,4,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-5,5,5,5,5,4,6,8,4,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-5,5,5,5,5,3,7,8,4,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-5,4,4,5,5,3,5,8,6,13,esimene; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-4,2,4,6,7,4,6,4,5,13,esimene; mürk; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-2,3,6,6,6,3,4,4,4,13,esimene; mürk; pariis; françois; renessanss; loss; napoleon; kuningas
-4,4,4,6,7,4,6,6,5,13,esimene; luksuslik; mürk; pariis; françois; renessanss; loss; napoleon; kuningas
-4,2,4,6,7,4,2,5,6,13,esimene; mürk; pariis; françois; renessanss; loss; napoleon; kuningas
-4,2,3,6,8,6,4,4,7,13,esimene; mürk; luksuslik; françois; renessanss; loss; napoleon; kuningas
+5,5,6,5,4,7,7,5,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+5,5,6,5,4,7,7,5,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+5,5,6,5,5,7,8,4,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+5,5,5,5,5,6,8,4,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+5,5,5,5,5,7,8,4,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+5,4,4,5,5,5,8,6,0,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene; renessanss
+4,2,4,6,7,6,4,5,0,13,napoleon; kuningas; pariis; mürk; françois; luksuslik; loss; esimene; renessanss
+2,3,6,6,6,4,4,4,0,13,napoleon; kuningas; pariis; mürk; françois; esimene; loss; renessanss
+4,4,4,6,7,6,6,5,0,13,napoleon; kuningas; pariis; mürk; françois; luksuslik; loss; esimene; renessanss
+4,2,4,6,7,2,5,6,0,13,napoleon; kuningas; pariis; mürk; françois; loss; esimene; renessanss
+4,2,3,6,8,4,4,7,0,13,napoleon; kuningas; mürk; françois; luksuslik; loss; esimene; renessanss

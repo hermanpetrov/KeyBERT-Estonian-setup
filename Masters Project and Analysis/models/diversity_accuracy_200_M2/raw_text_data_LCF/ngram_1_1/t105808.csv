@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,1,0,0,1,2,10,heinküla; elu; tartu
-1,0,1,0,1,0,0,2,2,10,heinküla; elu; tartu
-1,0,1,0,1,0,0,2,1,10,heinküla; elu; tartu
-1,0,1,0,2,1,1,2,1,10,heinküla; pavel; signe; elu; tartu
-1,0,2,0,2,0,2,2,1,10,heinküla; ants; signe; elu; tartu
-1,0,2,0,2,1,3,3,1,10,heinküla; ants; signe; elu; tartu
-1,0,3,0,3,1,4,2,0,10,ants; heinküla; pavel; signe; tartu
-0,0,5,1,4,3,5,3,0,10,ants; elu; heinküla; pavel; signe; tartu
-0,0,2,2,4,3,4,4,0,10,ants; elu; heinküla; pavel; signe; tartu
-0,0,2,2,3,3,4,2,0,10,ants; elu; heinküla; pavel; signe; tartu
-1,0,2,2,4,3,4,1,0,10,ants; elu; heinküla; pavel; signe; tartu
+1,0,1,0,1,0,1,2,0,10,heinküla; elu; tartu
+1,0,1,0,1,0,2,2,0,10,heinküla; elu; tartu
+1,0,1,0,1,0,2,1,0,10,heinküla; elu; tartu
+1,0,1,0,2,1,2,1,0,10,signe; heinküla; elu; tartu
+1,0,2,0,2,2,2,1,0,10,signe; ants; heinküla; elu; tartu
+1,0,2,0,2,3,3,1,0,10,signe; ants; heinküla; elu; tartu
+1,0,3,0,3,4,2,0,0,10,tartu; pavel; ants; heinküla; signe
+0,0,5,1,4,5,3,0,0,10,tartu; pavel; signe; ants; heinküla; elu
+0,0,2,2,4,4,4,0,0,10,elu; tartu; pavel; ants; heinküla; signe
+0,0,2,2,3,4,2,0,0,10,elu; tartu; pavel; ants; heinküla; signe
+1,0,2,2,4,4,1,0,0,10,elu; tartu; pavel; ants; heinküla; signe

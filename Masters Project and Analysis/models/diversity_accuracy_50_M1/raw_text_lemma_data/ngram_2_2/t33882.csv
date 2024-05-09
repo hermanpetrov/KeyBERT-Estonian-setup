@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,2,4,1,1,1,3,2,14,selts; estonia; eesti; vene; keel; kultuur; vanemuine
-4,1,2,4,1,1,1,3,2,14,selts; estonia; eesti; vene; keel; kultuur; vanemuine
-4,1,2,4,1,1,1,3,2,14,selts; estonia; eesti; vene; keel; kultuur; vanemuine
-4,2,2,4,1,1,1,4,2,14,estonia; eesti; vene; keel; selts; kultuur; vanemuine
-4,2,3,4,1,1,1,4,2,14,estonia; teater; eesti; vene; keel; selts; kultuur; vanemuine
-4,2,2,3,1,1,0,4,2,14,estonia; teater; eesti; vene; keel; selts; kultuur
-3,3,2,4,2,2,2,3,2,14,estonia; teater; eesti; vene; selts; kultuur
-4,2,4,4,2,0,1,5,2,14,estonia; teater; eesti; vene; keel; selts; vanemuine
-2,0,1,6,2,3,0,4,2,14,estonia; teater; eesti; vene; keel; selts; vanemuine
-3,1,1,6,2,1,0,4,3,14,selts; estonia; teater; eesti; vene; keel; kultuur; vanemuine
-3,1,1,6,5,1,0,1,3,14,estonia; teater; eesti; vene; keel; selts; kultuur
+5,2,2,6,1,2,2,4,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; kultuur; estonia
+5,2,2,6,1,2,2,4,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; kultuur; estonia
+5,2,2,6,1,2,2,4,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; kultuur; estonia
+5,3,2,6,1,2,2,5,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; kultuur; estonia
+5,3,4,6,1,2,2,5,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; kultuur; teater; estonia
+5,2,3,5,1,2,1,5,3,14,selts; haridusprogramm; kultuuripäev; vene; eesti; kõnekoosolek; keel; naisliit; kultuur; teater; estonia
+4,4,3,5,2,3,3,4,3,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; naisliit; kultuur; teater; estonia
+4,3,4,5,2,1,2,5,2,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; keel; vanemuine; naisliit; teater; estonia
+3,4,1,8,2,5,1,4,2,14,selts; kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; rakvere; keel; vanemuine; naisliit; teater; estonia
+3,4,1,8,2,2,1,4,3,14,selts; haridusprogramm; vene; eesti; kõnekoosolek; rakvere; keel; vanemuine; naisliit; kultuur; teater; estonia
+4,3,2,8,5,3,1,1,3,14,selts; haridusprogramm; vene; eesti; kõnekoosolek; rakvere; keel; naisliit; kultuur; teater; estonia

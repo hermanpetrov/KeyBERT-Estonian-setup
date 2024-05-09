@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,1,0,0,0,3,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia; sõda
-2,3,1,1,0,0,0,3,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia; sõda
-2,3,1,1,0,0,0,3,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia; sõda
-2,3,1,1,0,0,0,2,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia; sõda
-2,3,1,1,0,1,0,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-2,3,0,1,0,1,0,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-3,2,1,2,0,2,1,2,1,12,füüsika; gustav; hüpotees; naan; akadeemia
-1,1,1,2,0,1,3,3,1,12,gustav; hüpotees; naan; akadeemia; sõda
-3,1,0,1,0,3,2,2,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia; sõda
-3,1,1,3,0,1,1,2,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia
-2,1,1,1,0,1,1,2,1,12,füüsika; gustav; hüpotees; naan; teadus; akadeemia
+3,4,3,3,0,0,0,3,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+3,4,3,3,0,0,0,3,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+3,4,3,3,0,0,0,3,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+3,4,3,3,0,0,0,2,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+3,4,3,3,0,1,0,3,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+3,4,1,3,0,1,0,4,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav
+4,2,3,3,0,2,1,2,1,12,füüsika; ülikool; naan; akadeemia; hüpotees; lapsepõlv; gustav
+1,1,3,3,0,1,3,4,1,12,ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav; elustrateegia
+4,1,1,1,0,3,3,4,1,12,teadus; füüsika; ülikool; naan; hüpotees; akadeemia; lapsepõlv; sõda; gustav; elustrateegia
+4,1,1,4,0,1,2,3,1,12,teadus; füüsika; ülikool; naan; akadeemia; hüpotees; lapsepõlv; gustav; elustrateegia
+2,1,1,3,0,1,1,4,1,12,teadus; füüsika; ülikool; naan; hüpotees; partisaniliikumine; lapsepõlv; akadeemia; gustav; elustrateegia

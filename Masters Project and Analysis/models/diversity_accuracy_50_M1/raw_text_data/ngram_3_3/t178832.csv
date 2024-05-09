@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,3,1,2,1,3,2,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-3,3,2,3,1,2,1,3,2,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-3,3,2,3,1,2,1,3,2,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-3,3,2,3,1,2,1,3,2,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-3,3,4,3,1,2,1,4,2,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-2,3,5,3,1,2,1,5,2,13,valitsus; leedu; poliitika; kommunist; nõukogude; sõda; partei
-3,2,3,4,1,3,3,3,2,13,valitsus; leedu; läti; poliitika; nõukogude; jaakson; sõda; partei
-3,1,4,5,1,3,2,5,2,13,valitsus; leedu; läti; saarsen; nõukogude; jaakson; sõda; partei
-3,2,2,4,0,2,4,2,2,13,valitsus; leedu; läti; saarsen; nõukogude; sõda; partei
-4,1,2,4,0,2,4,2,2,13,valitsus; leedu; läti; saarsen; nõukogude; sõda; partei
-2,3,1,3,0,2,5,3,2,13,valitsus; leedu; läti; saarsen; kommunist; nõukogude; sõda; partei
+3,3,2,3,1,2,1,3,2,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+3,3,2,3,1,2,1,3,2,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+3,3,2,3,1,2,1,3,2,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+3,3,2,3,1,2,1,3,2,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+3,3,4,3,1,2,1,4,2,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+2,3,5,3,1,2,1,5,2,13,poliitika; kommunist; leedu; sõda; nõukogude; partei; valitsus
+3,2,3,4,1,3,3,3,2,13,poliitika; leedu; läti; jaakson; sõda; nõukogude; partei; valitsus
+3,1,4,5,1,3,2,5,2,13,leedu; saarsen; läti; jaakson; sõda; nõukogude; partei; valitsus
+3,2,2,4,0,2,4,2,2,13,leedu; saarsen; läti; sõda; nõukogude; partei; valitsus
+4,1,2,4,0,2,4,2,2,13,leedu; saarsen; läti; sõda; nõukogude; partei; valitsus
+2,3,1,3,0,2,5,3,2,13,kommunist; leedu; saarsen; läti; sõda; nõukogude; partei; valitsus

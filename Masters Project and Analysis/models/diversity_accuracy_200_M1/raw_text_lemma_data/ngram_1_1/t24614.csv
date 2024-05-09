@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,4,0,3,3,3,2,2,15,süsteem; eesti; laen; jaan; hägusus; keel; kaplinski
-2,3,4,0,3,3,3,2,2,15,süsteem; eesti; laen; jaan; hägusus; keel; kaplinski
-2,2,4,0,3,3,3,2,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
-2,2,3,1,3,3,3,2,2,15,süsteem; eesti; laen; jaan; hägusus; keel; kaplinski
-1,1,2,1,3,3,4,2,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
-1,2,2,1,3,3,3,4,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
-1,1,1,2,3,4,3,3,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
-1,1,1,2,2,3,3,3,2,15,süsteem; eesti; laen; jaan; hägusus; keel; kaplinski
-2,1,2,5,2,3,3,1,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
-2,0,1,3,4,3,3,2,2,15,süsteem; eesti; laen; jaan; hägusus; keel; kaplinski
-1,0,0,2,3,3,3,2,1,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
+6,5,7,3,5,6,7,5,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+6,5,7,3,5,6,7,5,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+6,4,6,3,4,6,7,5,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+7,4,4,4,4,6,6,5,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+7,3,4,4,4,4,6,6,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+7,4,4,5,4,6,4,7,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+6,3,4,6,4,8,4,5,2,15,tõlkimisvahend; tohuvabohu; sõnapaar; süsteem; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+5,3,5,3,3,4,4,5,2,15,tõlkimisvahend; kaplinski; eesti; tohuvabohu; sõnapaar; süsteem; isereguleeruv; jaan; keel; alaväärsustunne; hägusus; laen
+6,3,6,7,3,5,3,3,3,15,tõlkimisvahend; kaplinski; eesti; tohuvabohu; süsteem; sõnapaar; isereguleeruv; jaan; keel; alaväärsustunne; hägusus; laen
+5,2,6,4,4,5,4,4,3,15,tõlkimisvahend; kaplinski; eesti; tohuvabohu; sõnapaar; süsteem; isereguleeruv; jaan; keel; alaväärsustunne; hägusus; laen
+3,2,2,3,3,5,4,4,2,15,tõlkimisvahend; kaplinski; eesti; tohuvabohu; sõnapaar; süsteem; isereguleeruv; jaan; keel; alaväärsustunne; hägusus; laen

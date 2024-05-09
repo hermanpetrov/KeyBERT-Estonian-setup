@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,1,1,2,3,3,3,1,13,interaktiivne; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-3,4,1,1,2,3,3,3,1,13,interaktiivne; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-3,4,1,1,2,3,3,3,1,13,interaktiivne; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-3,4,1,1,2,3,3,3,1,13,interaktiivne; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-3,4,3,1,2,3,3,3,1,13,interaktiivne; epp; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-4,4,2,0,2,4,3,3,1,13,interaktiivne; suurgild; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus
-1,3,5,4,2,1,4,4,1,13,interaktiivne; epp; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
-3,3,4,2,3,4,4,2,1,13,interaktiivne; epp; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; näitus
-4,1,1,2,2,1,4,1,1,13,kaupmees; interaktiivne; epp; ivar; keldriruum; leimus; ajaloomuuseum; näitus
-3,1,0,3,4,2,3,4,1,13,kaupmees; interaktiivne; epp; ivar; ajaloomuuseum; leimus; alatalu; näitus
-3,2,0,3,4,3,3,2,1,13,ajaloomuuseum; leimus; interaktiivne; epp; näitus; ivar
+3,4,1,1,2,3,3,3,1,13,suurgild; ivar; leimus; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,4,1,1,2,3,3,3,1,13,suurgild; ivar; leimus; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,4,1,1,2,3,3,3,1,13,suurgild; ivar; leimus; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,4,1,1,2,3,3,3,1,13,suurgild; ivar; leimus; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,4,3,1,2,3,3,3,1,13,suurgild; ivar; leimus; epp; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+4,4,2,0,2,4,3,3,1,13,suurgild; ivar; leimus; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+1,3,5,4,2,1,4,4,1,13,ivar; leimus; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,3,4,2,3,4,4,2,1,13,ivar; leimus; epp; keldriruum; alatalu; ajaloomuuseum; näitus; interaktiivne
+4,1,1,2,2,1,4,1,1,13,ivar; kaupmees; leimus; epp; keldriruum; ajaloomuuseum; näitus; interaktiivne
+3,1,0,3,4,2,3,4,1,13,ivar; kaupmees; leimus; epp; alatalu; ajaloomuuseum; näitus; interaktiivne
+3,2,0,3,4,3,3,2,1,13,epp; ajaloomuuseum; näitus; ivar; interaktiivne; leimus

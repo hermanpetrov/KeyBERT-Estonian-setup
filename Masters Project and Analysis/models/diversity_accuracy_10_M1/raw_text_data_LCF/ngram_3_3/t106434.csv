@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,1,3,2,3,0,15,harri; puhkpillikvintett; tants; eesti
-1,2,2,0,1,3,2,3,1,15,harri; puhkpillikvintett; tants; eesti
-1,2,2,0,1,3,2,3,1,15,harri; puhkpillikvintett; tants; eesti
-1,2,2,0,1,3,2,3,1,15,harri; puhkpillikvintett; tants; eesti
-1,2,2,0,1,3,2,3,1,15,harri; puhkpillikvintett; tants; eesti
-1,2,2,0,1,3,2,3,1,15,harri; puhkpillikvintett; tants; eesti
-1,1,2,2,1,5,3,3,1,15,puhkpillikvintett; eesti; kirill; harri; sümfooniaorkester; tants
-2,1,2,3,1,5,3,3,0,15,matti; eesti; kirill; harri; sümfooniaorkester; reimann; tants
-0,1,1,4,1,5,3,3,0,15,matti; eesti; kirill; harri; sümfooniaorkester; klaverikontsert; reimann; tants
-4,1,0,0,1,3,5,3,0,15,matti; eesti; kirill; sümfooniaorkester; harri; klaverikontsert; reimann; tants
-2,1,1,2,1,4,4,3,1,15,puhkpillikvintett; matti; eesti; harri; sümfooniaorkester; klaverikontsert; reimann; tants
+1,2,2,0,1,2,3,0,0,15,eesti; harri; puhkpillikvintett; tants
+1,2,2,0,1,2,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+1,2,2,0,1,2,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+1,2,2,0,1,2,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+1,2,2,0,1,2,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+1,2,2,0,1,2,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+1,1,2,2,1,3,3,1,0,15,eesti; harri; puhkpillikvintett; tants
+2,1,2,3,1,3,3,0,0,15,reimann; eesti; harri; matti; tants
+0,1,1,4,1,3,3,0,0,15,eesti; harri; klaverikontsert; reimann; matti; tants
+4,1,0,0,1,5,3,0,0,15,kirill; eesti; harri; sümfooniaorkester; klaverikontsert; reimann; matti; tants
+2,1,1,2,1,4,3,1,0,15,eesti; harri; sümfooniaorkester; klaverikontsert; reimann; matti; tants

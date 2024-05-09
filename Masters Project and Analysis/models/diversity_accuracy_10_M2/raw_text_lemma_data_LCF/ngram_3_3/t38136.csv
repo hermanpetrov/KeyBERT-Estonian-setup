@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,2,1,0,13,sotsioloog; popkultuur
-0,1,1,0,0,1,2,1,0,13,sotsioloog; popkultuur
-0,1,1,0,0,1,2,1,0,13,sotsioloog; popkultuur
-0,1,1,0,0,1,2,1,0,13,sotsioloog; popkultuur
-0,1,1,0,0,1,2,1,0,13,sotsioloog; popkultuur
-0,1,0,0,0,1,2,1,0,13,sotsioloog; popkultuur
-1,1,2,1,0,2,2,1,0,13,sotsioloog; popkultuur; muusika
-2,0,2,0,0,2,2,2,0,13,sotsioloog; popkultuur; muusika; elektrooniline; alternatiiv
-0,0,1,2,1,2,2,2,0,13,alternatiiv; sotsioloog; popkultuur; muusika; elektrooniline; narkootikum
-1,1,2,0,1,1,2,1,0,13,sotsioloog; alternatiiv; popkultuur; muusika; elektrooniline; narkootikum
-1,2,2,0,1,1,1,3,0,13,aivar; sotsioloog; popkultuur; alternatiiv; muusika; elektrooniline; tõnson
+1,2,2,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+1,2,2,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+1,2,2,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+1,2,2,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+1,2,2,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+1,2,1,1,0,2,3,2,0,13,popkultuur; sotsioloog; klubikultuur
+2,2,3,1,0,3,3,2,0,13,muusika; popkultuur; sotsioloog; klubikultuur
+3,1,3,0,0,3,3,3,0,13,sotsioloog; alternatiiv; klubikultuur; muusika; popkultuur; elektrooniline
+0,1,2,3,1,3,3,3,0,13,sotsioloog; alternatiiv; narkootikum; klubikultuur; muusika; popkultuur; elektrooniline
+2,2,3,0,1,2,3,3,0,13,sotsioloog; alternatiiv; narkootikum; kommertsialiseerumine; klubikultuur; muusika; popkultuur; elektrooniline
+2,3,3,0,1,2,2,4,0,13,aivar; alternatiiv; sotsioloog; klubikultuur; muusika; popkultuur; tõnson; elektrooniline

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,11,kutsikas; hunt
-0,1,1,0,0,1,1,1,0,11,kutsikas; hunt
-0,1,1,0,0,1,1,1,0,11,kutsikas; hunt
-0,1,1,0,0,1,1,1,0,11,kutsikas; hunt
-0,1,0,0,0,1,1,1,0,11,hunt
-0,1,0,0,0,1,1,1,0,11,hunt
+0,1,1,0,0,2,1,1,0,11,jahimees; hunt; kutsikas
+0,1,1,0,0,2,1,1,0,11,jahimees; hunt; kutsikas
+0,1,1,0,0,2,1,1,0,11,jahimees; hunt; kutsikas
+0,1,1,0,0,2,1,1,0,11,jahimees; hunt; kutsikas
+0,1,0,0,0,2,1,1,0,11,jahimees; hunt
+0,1,0,0,0,2,1,1,0,11,jahimees; hunt
 0,1,0,0,0,1,1,1,0,11,hunt
 0,0,0,0,0,1,0,1,0,11,hunt
-1,0,0,0,0,0,1,0,0,11,alfa; kari
-0,0,0,0,0,1,1,1,0,11,hunt
-1,0,0,1,0,0,0,1,0,11,murdma; kutsikas; hunt
+1,0,1,0,0,0,1,1,0,11,jahimees; kari; alfa
+0,0,1,0,0,1,1,2,0,11,jahimees; hunt
+1,1,0,1,0,0,0,1,0,11,jahimees; murdma; hunt; kutsikas

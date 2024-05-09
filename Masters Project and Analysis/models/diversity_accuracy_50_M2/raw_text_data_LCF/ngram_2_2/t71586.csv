@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,2,2,2,4,3,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-3,6,2,2,2,4,3,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-3,6,2,2,2,4,3,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-3,6,2,2,2,4,3,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-3,6,3,2,2,3,3,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-3,6,3,2,2,4,2,2,0,14,haari; rothschild; torn; stiil; tehaari; paruness; loss
-4,3,3,2,2,4,3,1,0,14,haari; rothschild; torn; tehaari; paruness; loss; uusgooti
-3,3,4,2,2,2,1,1,0,14,rothschild; torn; tehaari; paruness; loss; uusgooti
-2,3,2,2,2,2,2,3,0,14,muuseum; haari; rothschild; stiil; tehaari; paruness; loss; uusgooti
-0,2,1,1,2,2,4,2,0,14,muuseum; haari; rothschild; torn; stiil; tehaari; paruness; loss; uusgooti
-0,1,1,2,2,3,2,3,0,14,muuseum; haari; rothschild; torn; stiil; tehaari; paruness; loss
+3,6,2,2,2,3,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+3,6,2,2,2,3,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+3,6,2,2,2,3,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+3,6,2,2,2,3,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+3,6,3,2,2,3,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+3,6,3,2,2,2,2,0,0,14,torn; tehaari; rothschild; haari; stiil; paruness; loss
+4,3,3,2,2,3,1,0,0,14,torn; tehaari; rothschild; paruness; loss; uusgooti
+3,3,4,2,2,1,1,0,0,14,torn; tehaari; rothschild; paruness; loss; uusgooti
+2,3,2,2,2,2,3,0,0,14,tehaari; rothschild; haari; paruness; loss; uusgooti; muuseum
+0,2,1,1,2,4,2,0,0,14,torn; tehaari; rothschild; haari; paruness; loss; uusgooti; muuseum
+0,1,1,2,2,2,3,0,0,14,paruness; torn; loss; tehaari; rothschild; haari; muuseum

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,1,0,1,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,3,1,0,1,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,3,1,0,1,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,3,1,0,1,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,3,1,0,1,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,3,1,0,2,1,6,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu; kultuuripealinn
-0,2,2,0,0,2,1,5,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; karjatse; tõnu
-0,2,2,0,0,2,2,5,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; karjatse; tõnu
-0,2,2,1,0,2,1,5,2,15,bashar; jevgeni; toomas; soome-ugri; ossinovski; karjatse; tõnu
-0,2,3,2,0,3,2,4,2,15,bashar; jevgeni; sildam; toomas; soome-ugri; ossinovski; karjatse; tõnu
-1,2,2,1,0,1,1,5,1,15,jevgeni; toomas; soome-ugri; ossinovski; karjatse; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,1,0,1,6,2,0,15,kultuuripealinn; soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,2,0,0,1,5,2,0,15,soome-ugri; bashar; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,2,0,0,2,5,2,0,15,soome-ugri; bashar; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,2,1,0,1,5,2,0,15,soome-ugri; bashar; toomas; jevgeni; karjatse; ossinovski; tõnu
+0,2,3,2,0,2,4,2,0,15,soome-ugri; bashar; sildam; toomas; jevgeni; karjatse; ossinovski; tõnu
+1,2,2,1,0,1,5,1,0,15,soome-ugri; toomas; jevgeni; karjatse; ossinovski; tõnu

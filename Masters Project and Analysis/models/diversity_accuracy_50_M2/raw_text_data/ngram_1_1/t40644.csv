@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,2,19,barokkmuusikafestival; eesti; sing
-0,1,1,0,0,1,1,1,2,19,barokkmuusikafestival; eesti; sing
-0,1,1,0,0,1,1,1,2,19,barokkmuusikafestival; eesti; sing
-0,1,1,0,0,1,1,1,2,19,barokkmuusikafestival; eesti; sing
-0,0,0,0,0,1,1,1,2,19,barokkmuusikafestival; eesti; sing
-0,0,2,0,0,0,2,1,2,19,bach; frederik; musicus; sing; barokkmuusikafestival; eesti
-0,0,0,0,0,1,0,0,2,19,bach; eesti; sing
-0,0,0,1,0,1,0,0,2,19,barokkmuusikafestival; bach; eesti; sing
-0,0,0,1,0,1,0,0,2,19,eesti; mustonen; bach; sing
-0,0,0,1,0,1,0,0,1,19,eesti; mustonen; bach
-1,0,0,1,1,2,0,1,1,19,musicus; bach; sing; barokkmuusikafestival; mustonen; eesti
+0,1,1,0,0,1,1,1,2,19,sing; eesti; barokkmuusikafestival
+0,1,1,0,0,1,1,1,2,19,sing; eesti; barokkmuusikafestival
+0,1,1,0,0,1,1,1,2,19,sing; eesti; barokkmuusikafestival
+0,1,1,0,0,1,1,1,2,19,sing; eesti; barokkmuusikafestival
+0,0,0,0,0,1,1,1,2,19,sing; eesti; barokkmuusikafestival
+0,0,2,0,0,0,2,1,2,19,frederik; eesti; musicus; bach; barokkmuusikafestival; sing
+0,0,0,0,0,1,0,0,2,19,sing; bach; eesti
+0,0,0,1,0,1,0,0,2,19,sing; bach; eesti; barokkmuusikafestival
+0,0,0,1,0,1,0,0,2,19,sing; bach; eesti; mustonen
+0,0,0,1,0,1,0,0,1,19,bach; eesti; mustonen
+1,0,0,1,1,2,0,1,1,19,eesti; mustonen; musicus; bach; barokkmuusikafestival; sing

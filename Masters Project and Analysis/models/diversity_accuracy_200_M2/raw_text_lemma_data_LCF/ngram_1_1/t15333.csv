@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,0,0,0,0,1,13,kirjandus; hiidlane; purjetamine; meri
-2,2,2,0,0,0,0,0,0,13,kirjandus; hiidlane; purjetamine; meri
-2,2,2,0,0,0,0,0,0,13,kirjandus; hiidlane; purjetamine; meri
-2,1,2,0,1,0,0,0,0,13,kirjandus; hiidlane; ain; purjetamine; meri
-1,1,1,0,1,0,1,0,0,13,purjetamine; meri; tants; ain
-0,0,0,0,1,0,0,0,0,13,ain
-1,0,0,1,1,0,0,0,0,13,tants; purjetamine; ain
-0,0,0,1,0,0,1,0,0,13,purjetamine; ain
-0,1,1,0,0,0,1,1,2,13,kirjandus; ain; hiidlane; purjetamine; kalmus
-0,1,0,0,2,0,1,1,1,13,kirjandus; hiidlane; ain; tants; purjetamine
-0,1,0,1,2,0,1,1,1,13,kirjandus; ain; tants; meri; purjetamine
+3,2,3,2,0,1,1,3,2,13,nõelakoda; hiiumaa; meri; purjetamine; rahvariie; keskväljak; kirjandus; hiidlane
+3,2,4,2,0,1,1,3,1,13,nõelakoda; hiiumaa; meri; purjetamine; rahvariie; keskväljak; kirjandus; hiidlane
+3,2,4,2,0,2,1,3,1,13,nõelakoda; hiiumaa; meri; purjetamine; rahvariie; keskväljak; kirjandus; hiidlane
+3,1,3,2,1,2,1,2,1,13,nõelakoda; hiiumaa; meri; ain; purjetamine; rahvariie; keskväljak; kirjandus; hiidlane
+2,1,2,2,1,2,2,2,1,13,nõelakoda; hiiumaa; meri; ain; purjetamine; rahvariie; keskväljak; tants
+1,0,2,2,1,1,1,2,1,13,nõelakoda; hiiumaa; ain; rahvariie; keskväljak
+2,1,1,2,1,0,1,0,1,13,nõelakoda; ain; hiiumaa; purjetamine; keskväljak; tants
+1,1,1,1,0,0,1,0,0,13,nõelakoda; ain; purjetamine; keskväljak
+1,2,1,0,0,0,1,1,3,13,nõelakoda; kalmus; ain; purjetamine; keskväljak; kirjandus; hiidlane
+0,2,1,0,2,0,2,1,2,13,hiiumaa; ain; purjetamine; keskväljak; kirjandus; hiidlane; tants
+0,1,2,1,2,0,1,1,2,13,hiiumaa; meri; ain; purjetamine; keskväljak; kirjandus; tants

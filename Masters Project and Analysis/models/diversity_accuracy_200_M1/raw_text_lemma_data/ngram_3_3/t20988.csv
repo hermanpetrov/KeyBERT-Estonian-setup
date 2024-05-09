@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,2,9,6,5,4,7,0,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; näitleja; gerd; mall; mälberg; everaus; toimetaja
-8,4,2,9,6,5,3,7,0,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; näitleja; gerd; mall; mälberg; everaus; toimetaja
-7,4,4,10,6,6,3,6,0,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; näitleja; gerd; mall; mälberg; everaus; toimetaja
-7,3,4,10,7,6,2,9,0,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; näitleja; gerd; mall; mälberg; everaus; toimetaja
-6,2,7,8,9,5,2,9,0,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; lamp; näitleja; uudis; gerd; mall; mälberg; everaus; toimetaja
-8,4,6,9,9,6,3,8,1,19,kanter; mälberg; arst; ori; peebo; annely; uibo; anu; andres; hele; lamp; näitleja; uudis; mall; gerd; laulmine; everaus; toimetaja
-5,3,10,11,9,6,5,8,1,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; lamp; näitleja; mall; gerd; mälberg; everaus; toimetaja
-2,3,9,11,8,6,4,5,1,19,kanter; arst; ori; peebo; annely; uibo; laulmine; anu; andres; hele; uudis; lamp; näitleja; mall; gerd; mälberg; everaus; toimetaja
-2,4,12,12,8,7,2,8,2,19,kanter; arst; ori; annely; peebo; uibo; laulmine; anu; andres; hele; uudis; lamp; näitleja; mall; gerd; mälberg; everaus; toimetaja
-0,4,10,10,9,6,7,11,2,19,kanter; arst; ori; annely; uibo; peebo; laulmine; anu; andres; hele; uudis; lamp; näitleja; mall; gerd; mälberg; everaus; toimetaja
-1,5,11,10,9,7,6,8,2,19,kanter; arst; ori; annely; uibo; peebo; laulmine; anu; andres; hele; uudis; lamp; näitleja; mall; gerd; mälberg; toimetaja
+8,5,2,9,6,5,4,7,0,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; uibo; everaus; hele; annely; gerd; peebo; uudis; anu; kanter
+8,4,2,9,6,5,3,7,0,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; uibo; everaus; hele; annely; gerd; peebo; uudis; anu; kanter
+7,4,4,10,6,6,3,6,0,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; uibo; everaus; hele; annely; gerd; peebo; uudis; anu; kanter
+7,3,4,10,7,6,2,9,0,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; uibo; everaus; hele; annely; gerd; peebo; uudis; anu; kanter
+6,2,7,8,9,5,2,9,0,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; everaus; hele; annely; gerd; peebo; uudis; anu; kanter
+9,4,6,9,9,6,3,8,1,19,kettaheide; arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; uudis; anu; kanter
+6,3,10,11,9,6,5,8,1,19,kettaheide; arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; uudis; anu; kanter
+3,3,10,11,8,6,4,5,1,19,kettaheide; arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; uudis; anu; kanter
+3,4,13,12,8,7,2,8,2,19,kettaheide; arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; uudis; anu; kanter
+0,4,11,10,9,6,7,11,2,19,kettaheide; arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; uudis; anu; kanter
+1,5,11,10,9,7,6,8,2,19,arst; mälberg; laulmine; näitleja; toimetaja; mall; ori; andres; lamp; uibo; hele; annely; gerd; peebo; uudis; anu; kanter

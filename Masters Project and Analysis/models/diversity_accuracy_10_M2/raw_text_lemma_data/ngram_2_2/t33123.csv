@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,1,1,12,keel; lingvistika
-1,1,1,0,0,1,1,2,1,12,keel; meedia; lingvistika
-1,1,2,0,0,1,2,2,1,12,krista; lingvistika; keel; meedia
-1,2,3,0,0,1,1,2,1,12,haridus; krista; lingvistika; keel; meedia
-0,1,3,1,0,0,1,0,0,12,krista; lingvistika; keel; kerge
-1,1,4,0,0,0,1,0,1,12,krista; lingvistika; keel; hajumine; kerge; meedia
+1,1,1,0,0,1,1,2,1,12,keelekorraldus; keel; lingvistika
+1,1,1,0,0,1,1,2,1,12,keelekorraldus; keel; lingvistika
+1,1,1,0,0,1,1,2,2,12,keel; keelekorraldus; lingvistika; arengukava
+1,1,1,0,0,1,1,2,2,12,keel; keelekorraldus; lingvistika; arengukava
+1,1,1,0,0,1,1,2,2,12,keel; keelekorraldus; lingvistika; arengukava
+1,1,2,0,0,1,1,2,2,12,õiguskeel; keel; keelekorraldus; lingvistika; arengukava
+1,1,1,0,0,2,1,2,2,12,keel; arengukava; keelekorraldus; lingvistika; meedia
+1,1,2,0,0,1,2,2,2,12,keel; arengukava; krista; lingvistika; meedia
+1,2,3,0,0,1,2,2,2,12,haridus; keel; õiguskeel; arengukava; krista; lingvistika; meedia
+0,2,3,1,0,0,2,0,1,12,keel; kerge; keelekorraldus; krista; lingvistika; arengukava
+1,1,4,0,0,0,1,0,2,12,keel; kerge; arengukava; krista; hajumine; lingvistika; meedia

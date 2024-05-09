@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,1,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,1,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,1,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,1,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,0,1,0,1,10,kogudus; rituaal
-0,0,1,0,0,0,1,0,1,10,kogudus; rituaal
-0,0,2,0,0,0,1,0,1,10,kogudus; rituaal
-0,0,1,0,0,0,1,0,1,10,kogudus; rituaal
-0,0,1,0,0,0,1,0,0,10,rituaal
-0,0,2,0,0,0,1,0,0,10,peko; rituaal
+0,1,4,0,0,2,3,3,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,1,4,0,0,2,3,3,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,1,4,0,0,2,3,3,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,1,3,0,0,2,3,3,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,1,2,0,0,2,3,3,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,1,2,0,0,1,2,2,1,10,suvistepüha; rituaal; rahvakalender; kogudus; nelipüha
+0,0,1,0,0,1,1,2,1,10,rituaal; rahvakalender; nelipüha; kogudus
+0,0,2,0,0,1,2,2,1,10,rituaal; rahvakalender; misjonitöö; kogudus
+0,0,2,0,0,0,2,2,1,10,misjonitöö; rituaal; rahvakalender; kogudus
+0,0,1,0,0,0,1,2,0,10,rahvakalender; rituaal; misjonitöö
+0,0,2,0,0,1,1,2,0,10,rituaal; misjonitöö; rahvakalender; peko

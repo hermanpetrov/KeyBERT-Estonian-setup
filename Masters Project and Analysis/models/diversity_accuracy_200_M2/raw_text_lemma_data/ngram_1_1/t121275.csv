@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,5,5,4,3,5,2,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-4,2,5,5,5,5,5,2,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-4,2,5,5,6,6,5,2,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-4,3,3,5,6,5,5,2,3,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-5,3,3,4,6,5,5,2,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-4,3,3,6,7,4,3,4,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-2,3,4,7,8,3,3,6,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-1,2,3,7,8,3,5,5,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-1,2,4,6,8,4,4,7,2,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; saatus; protest
-3,2,4,6,7,4,4,5,3,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; protest
-2,3,4,6,7,4,4,3,3,12,kunst; looming; jumal; vene; screabin; sonaat; konservatoorium; protest
+5,4,6,6,4,3,7,4,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; kunst; helilooja; protest; jumal; konservatoorium
+5,4,6,6,5,5,7,4,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; kunst; helilooja; protest; jumal; konservatoorium
+5,4,6,6,6,6,7,4,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; kunst; helilooja; protest; jumal; konservatoorium
+5,5,4,6,6,6,7,3,3,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; kunst; helilooja; protest; jumal; konservatoorium
+6,5,4,5,6,6,7,3,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; kunst; helilooja; protest; jumal; konservatoorium
+5,5,5,7,7,6,4,6,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest; kunst; jumal; konservatoorium
+3,5,5,8,8,3,4,8,2,12,screabin; saatus; kunst; jumal; sonaat; vene; looming; noorusarmastus; helilooja; protest; konservatoorium
+2,4,3,8,8,4,6,7,2,12,sonaat; vene; screabin; looming; saatus; noorusarmastus; helilooja; protest; kunst; jumal; konservatoorium
+2,4,5,7,8,4,5,8,2,12,screabin; saatus; kunst; jumal; sonaat; vene; looming; noorusarmastus; helilooja; protest; konservatoorium
+3,3,5,7,7,5,5,6,4,12,sonaat; vene; screabin; looming; protest; noorusarmastus; kunst; helilooja; jumal; konservatoorium
+2,4,5,7,7,5,5,4,4,12,sonaat; vene; screabin; looming; noorusarmastus; protest; kunst; helilooja; jumal; konservatoorium

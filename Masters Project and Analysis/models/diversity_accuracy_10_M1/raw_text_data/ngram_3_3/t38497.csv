@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,2,0,0,2,2,2,2,15,soome; eesti; keele
 0,0,3,0,0,2,2,2,2,15,soome; eesti; keele
 0,0,2,0,0,2,2,3,3,15,soome; eesti; keele
-1,0,2,0,0,3,2,3,2,15,soome; johannes; eesti; keele
+1,0,2,0,0,3,2,3,2,15,soome; eesti; keele; johannes
 0,0,2,0,0,2,2,2,2,15,soome; eesti; keele
-0,0,1,0,0,3,2,2,3,15,soome; keel; eesti; keele
-3,0,1,0,0,2,2,1,2,15,soome; johannes; keel; eesti; keele
-3,1,2,0,0,0,2,2,1,15,soome; keränen; mika; johannes; eesti; keele
+0,0,1,0,0,3,2,2,3,15,keel; soome; eesti; keele
+3,0,1,0,0,2,2,1,2,15,keel; soome; eesti; keele; johannes
+3,1,2,0,0,0,2,2,1,15,keränen; soome; eesti; keele; johannes; mika

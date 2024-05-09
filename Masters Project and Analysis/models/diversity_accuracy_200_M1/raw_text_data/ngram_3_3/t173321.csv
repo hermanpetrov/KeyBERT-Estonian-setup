@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,9,7,8,8,7,9,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-9,6,10,7,8,8,7,10,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-8,6,10,7,8,8,7,11,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-10,8,11,8,8,8,8,10,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-10,9,10,8,8,9,9,10,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-9,9,11,9,8,10,10,11,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-10,9,10,9,8,10,8,11,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-10,9,11,11,10,10,9,10,9,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; buldooser; vesi; saepuru; toru; ekskavaator
-8,10,11,11,10,11,8,10,11,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; vesi; buldooser; saepuru; toru; ekskavaator
-6,10,9,11,9,11,8,10,10,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; vesi; buldooser; saepuru; toru; ekskavaator
-6,10,10,11,10,11,8,10,10,13,uno; sügavus; veehoidla; põllumajanduse; pauts; eesti; vesi; buldooser; saepuru; toru; ekskavaator
+7,6,9,7,8,8,7,9,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+9,6,10,7,8,8,7,10,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+8,6,10,7,8,8,7,11,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+10,8,11,8,8,8,8,10,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+10,9,10,8,8,9,9,10,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+9,9,11,9,8,10,10,11,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+10,9,10,9,8,10,8,11,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+10,9,11,11,10,10,9,10,9,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+8,10,11,11,10,11,8,10,11,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+6,10,9,11,9,11,8,10,10,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator
+6,10,10,11,10,11,8,10,10,13,saepuru; toru; veehoidla; põllumajanduse; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator

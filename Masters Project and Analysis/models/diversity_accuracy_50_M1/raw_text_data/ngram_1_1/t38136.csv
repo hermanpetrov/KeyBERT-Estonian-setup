@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,0,0,1,2,3,0,12,muusika; sildvee; elektrooniline; klubikultuur; massikultuur; sotsioloog
-2,1,3,0,0,1,2,3,0,12,muusika; sildvee; elektrooniline; klubikultuur; massikultuur; sotsioloog
-2,1,3,0,0,1,2,3,0,12,muusika; sildvee; elektrooniline; klubikultuur; massikultuur; sotsioloog
-2,1,4,0,0,1,2,3,0,12,muusika; bakalaureusetöö; elektrooniline; sildvee; klubikultuur; massikultuur; sotsioloog
-2,1,3,0,0,1,2,2,0,12,muusika; bakalaureusetöö; elektrooniline; sildvee; klubikultuur; massikultuur; sotsioloog
-1,1,2,0,0,0,2,2,0,12,sotsioloog; muusika; sildvee; bakalaureusetöö; klubikultuur; massikultuur
-1,0,3,0,0,0,0,1,0,12,sotsioloog; bakalaureusetöö; sildvee; elektrooniline; klubikultuur
-1,0,2,0,0,0,1,2,0,12,sotsioloog; sildvee; bakalaureusetöö
-1,0,2,0,0,1,2,1,0,12,massikultuur; sotsioloog; muusika; sildvee
-0,0,2,1,1,1,0,1,0,12,sotsioloog; reimo; bakalaureusetöö; elektrooniline
-0,0,3,1,0,1,1,2,0,12,sotsioloog; sildvee; bakalaureusetöö; elektrooniline; muusika
+2,1,3,0,0,1,2,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; elektrooniline; massikultuur
+2,1,3,0,0,1,2,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; elektrooniline; massikultuur
+2,1,3,0,0,1,2,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; elektrooniline; massikultuur
+2,1,4,0,0,1,2,3,0,12,bakalaureusetöö; sotsioloog; klubikultuur; muusika; sildvee; elektrooniline; massikultuur
+2,1,3,0,0,1,2,2,0,12,bakalaureusetöö; sotsioloog; klubikultuur; muusika; sildvee; elektrooniline; massikultuur
+1,1,2,0,0,0,2,2,0,12,bakalaureusetöö; muusika; sildvee; sotsioloog; klubikultuur; massikultuur
+1,0,3,0,0,0,0,1,0,12,bakalaureusetöö; sildvee; sotsioloog; elektrooniline; klubikultuur
+1,0,2,0,0,0,1,2,0,12,bakalaureusetöö; sildvee; sotsioloog
+1,0,2,0,0,1,2,1,0,12,sotsioloog; muusika; sildvee; massikultuur
+0,0,2,1,1,1,0,1,0,12,bakalaureusetöö; sotsioloog; reimo; elektrooniline
+0,0,3,1,0,1,1,2,0,12,bakalaureusetöö; muusika; sildvee; sotsioloog; elektrooniline

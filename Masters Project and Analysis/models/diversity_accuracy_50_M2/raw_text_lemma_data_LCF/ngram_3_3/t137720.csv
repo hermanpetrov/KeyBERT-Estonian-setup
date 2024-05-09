@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-3,3,3,3,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-5,2,3,4,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-5,2,3,4,2,4,3,5,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-5,2,3,5,2,4,4,6,4,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,3,3,5,1,4,4,6,5,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
-4,4,4,4,2,4,3,6,5,12,regulatsioon; andmed; kuhjumine; internet; liit; euroopa
+7,4,6,5,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,5,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,5,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,5,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,5,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,5,3,9,8,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+9,3,6,6,3,9,7,10,6,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+7,4,6,7,3,9,7,10,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+6,5,7,7,3,9,9,11,5,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+6,7,7,8,2,9,8,12,7,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine
+5,6,7,9,3,10,9,12,6,12,andmed; isikuandmed; andmevargus; internet; euroopa; regulatsioon; nõusolek; liit; infoajastu; tavakodanik; andmesubjekt; kuhjumine

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,1,2,2,1,1,2,13,kadri-ann; silver; admiral
-1,2,2,2,2,2,2,1,2,13,kadri-ann; silver; admiral
-1,2,2,2,2,2,3,1,2,13,kadri-ann; silver; väli; admiral
-2,3,2,4,2,2,3,3,2,13,kadri-ann; karl; sagrits; silver; hobune; admiral
-1,3,2,4,3,4,3,4,2,13,kadri-ann; karl; sagrits; heino; silver; hobune; väli; admiral
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+3,3,3,2,2,3,2,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+2,3,3,3,2,4,3,3,3,13,admiral; ükssilm; silver; kuuldemäng; kadri-ann
+2,3,3,3,2,4,5,3,3,13,admiral; ükssilm; silver; kuuldemäng; väli; kadri-ann
+2,4,3,5,2,4,5,4,3,13,admiral; ükssilm; silver; sagrits; kuuldemäng; hobune; karl; kadri-ann
+1,4,4,5,3,6,4,5,3,13,admiral; ükssilm; väli; silver; sagrits; heino; kuuldemäng; hobune; karl; kadri-ann

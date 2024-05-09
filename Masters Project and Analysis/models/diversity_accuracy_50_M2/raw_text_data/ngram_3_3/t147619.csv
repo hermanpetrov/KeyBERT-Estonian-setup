@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,1,2,1,4,1,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep
-2,4,1,2,1,4,1,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep
-2,4,1,2,1,4,1,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep
-2,4,2,2,1,4,1,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep
-2,4,2,2,1,4,2,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep
-2,4,1,2,1,5,1,4,2,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep; tütarlaste
-1,3,2,2,1,6,3,4,2,13,rätsep; laps; mõrane; betti; lesk; peegel; kurat; tütarlaste
-2,1,2,0,1,4,2,4,2,13,laps; mõrane; betti; lesk; peegel; kurat; rätsep; tütarlaste
-3,4,2,1,1,3,3,4,1,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep; tütarlaste
-5,4,5,2,0,3,2,5,3,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep; tütarlaste
-7,2,4,2,0,2,3,5,4,13,laps; mõrane; kurat; betti; lesk; peegel; rätsep; tütarlaste
+2,4,1,2,1,4,1,4,2,13,laps; peegel; betti; lesk; mõrane; rätsep; kurat
+2,4,1,2,1,4,1,4,2,13,laps; peegel; betti; lesk; mõrane; rätsep; kurat
+2,4,1,2,1,4,1,4,2,13,laps; peegel; betti; lesk; mõrane; rätsep; kurat
+2,4,2,2,1,4,1,4,2,13,laps; peegel; betti; lesk; mõrane; rätsep; kurat
+2,4,2,2,1,4,2,4,2,13,laps; peegel; betti; lesk; mõrane; rätsep; kurat
+2,4,1,2,1,5,1,4,2,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat
+1,3,2,2,1,6,3,4,2,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat
+2,1,2,0,1,4,2,4,2,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat
+3,4,2,1,1,3,3,4,1,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat
+5,4,5,2,0,3,2,5,3,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat
+7,2,4,2,0,2,3,5,4,13,laps; peegel; betti; tütarlaste; lesk; mõrane; rätsep; kurat

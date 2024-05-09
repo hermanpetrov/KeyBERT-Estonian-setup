@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,3,2,3,2,2,2,2,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,2,3,3,4,2,2,2,2,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,2,3,3,4,2,2,4,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,2,4,3,4,3,2,5,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,3,4,3,4,3,3,5,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,3,4,3,4,2,3,4,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-4,4,4,3,5,4,4,5,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-3,4,4,4,5,3,3,5,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-3,4,3,5,4,4,5,5,3,13,kvaliteet; hapnik; filter; korrosioon; jaak
-3,5,5,5,4,5,4,5,4,13,kvaliteet; hapnik; filter; korrosioon; jaak
-3,4,5,5,4,5,4,5,4,13,kvaliteet; hapnik; filter; korrosioon; jaak
+9,3,4,5,4,3,3,6,3,13,põhjavesi; jaak; mürkkemikaal; kvaliteet; hapnik; veevarustussüsteem; filter; joogiveemäärus; keskkonnakeemia; korrosioon; reoaine
+9,4,4,6,5,3,4,7,3,13,põhjavesi; jaak; mürkkemikaal; kvaliteet; hapnik; veevarustussüsteem; filter; joogiveemäärus; keskkonnakeemia; korrosioon; reoaine
+9,4,5,6,5,3,4,9,4,13,hapnik; veevarustussüsteem; filter; keskkonnakeemia; põhjavesi; reoaine; jaak; mürkkemikaal; joogiveemäärus; korrosioon; kvaliteet
+9,4,7,5,5,4,4,10,4,13,hapnik; veevarustussüsteem; filter; keskkonnakeemia; põhjavesi; reoaine; jaak; mürkkemikaal; joogiveemäärus; korrosioon; kvaliteet
+9,5,7,5,5,5,6,10,4,13,hapnik; veevarustussüsteem; filter; keskkonnakeemia; põhjavesi; reoaine; jaak; mürkkemikaal; joogiveemäärus; korrosioon; kvaliteet
+6,4,6,5,5,4,6,9,4,13,põhjavesi; jaak; reoaine; mürkkemikaal; kvaliteet; hapnik; veevarustussüsteem; filter; joogiveemäärus; korrosioon; keskkonnakeemia
+4,6,6,5,6,6,7,9,4,13,põhjavesi; jaak; mürkkemikaal; hapnik; veevarustussüsteem; filter; joogiveemäärus; keskkonnakeemia; korrosioon; kvaliteet
+3,6,7,6,5,4,4,10,4,13,põhjavesi; jaak; reoaine; mürkkemikaal; hapnik; filter; joogiveemäärus; keskkonnakeemia; korrosioon; kvaliteet
+3,7,6,7,4,5,7,6,4,13,põhjavesi; jaak; mürkkemikaal; hapnik; filter; joogiveemäärus; keskkonnakeemia; korrosioon; kvaliteet
+4,9,10,8,5,7,6,10,5,13,hapnik; veevarustussüsteem; filter; reoaine; põhjavesi; keskkonnakeemia; jaak; mürkkemikaal; joogiveemäärus; korrosioon; kvaliteet
+4,7,7,8,5,7,6,7,5,13,põhjavesi; jaak; mürkkemikaal; hapnik; veevarustussüsteem; filter; joogiveemäärus; keskkonnakeemia; korrosioon; kvaliteet

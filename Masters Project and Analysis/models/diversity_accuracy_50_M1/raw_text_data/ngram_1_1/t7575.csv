@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,1,0,0,3,2,0,15,toomhärra; piiskopkond; institutsioon; kloostrielu
-1,0,2,1,0,0,3,2,1,15,ülikool; toomhärra; piiskopkond; institutsioon; kloostrielu
-1,0,2,1,0,0,3,2,1,15,ülikool; toomhärra; piiskopkond; institutsioon; kloostrielu
-1,0,2,1,0,0,3,1,1,15,ülikool; toomhärra; piiskopkond; institutsioon; kloostrielu
-1,0,1,1,0,0,3,0,1,15,ülikool; toomhärra; piiskopkond; institutsioon; kloostrielu
-0,0,1,1,0,0,2,1,1,15,ülikool; toomhärra; piiskopkond; institutsioon; kloostrielu
-0,0,1,1,0,1,1,1,1,15,ülikool; toomhärra; jaroslav; institutsioon; tark; kloostrielu
-0,0,1,2,0,2,1,1,1,15,ülikool; toomhärra; jaroslav; institutsioon; tark; ordu
-0,0,1,2,0,1,0,1,1,15,ülikool; institutsioon; tark; kloostrielu; ordu
-0,0,1,2,0,0,0,1,1,15,ülikool; toomhärra; institutsioon; kloostrielu; ordu
-1,1,1,2,0,0,0,0,1,15,ülikool; toomhärra; institutsioon; tartu; ordu
+1,0,2,1,0,0,3,2,0,15,toomhärra; institutsioon; kloostrielu; piiskopkond
+1,0,2,1,0,0,3,2,1,15,toomhärra; institutsioon; ülikool; kloostrielu; piiskopkond
+1,0,2,1,0,0,3,2,1,15,toomhärra; institutsioon; ülikool; kloostrielu; piiskopkond
+1,0,2,1,0,0,3,1,1,15,toomhärra; institutsioon; ülikool; kloostrielu; piiskopkond
+1,0,1,1,0,0,3,0,1,15,toomhärra; institutsioon; ülikool; kloostrielu; piiskopkond
+0,0,1,1,0,0,2,1,1,15,toomhärra; institutsioon; ülikool; kloostrielu; piiskopkond
+0,0,1,1,0,1,1,1,1,15,toomhärra; institutsioon; ülikool; kloostrielu; jaroslav; tark
+0,0,1,2,0,2,1,1,1,15,toomhärra; ordu; institutsioon; ülikool; jaroslav; tark
+0,0,1,2,0,1,0,1,1,15,ordu; institutsioon; ülikool; kloostrielu; tark
+0,0,1,2,0,0,0,1,1,15,toomhärra; ordu; institutsioon; ülikool; kloostrielu
+1,1,1,2,0,0,0,0,1,15,toomhärra; ordu; institutsioon; ülikool; tartu

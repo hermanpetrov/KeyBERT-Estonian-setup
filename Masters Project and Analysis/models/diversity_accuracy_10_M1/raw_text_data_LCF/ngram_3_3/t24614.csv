@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,2,2,1,2,2,2,1,15,jaan; isereguleeruv; keel; keelevaist; eesti; kaplinski
-0,3,2,2,1,2,2,2,1,15,jaan; isereguleeruv; keel; keelevaist; eesti; kaplinski
-0,3,2,2,1,2,2,2,1,15,jaan; isereguleeruv; keel; keelevaist; eesti; kaplinski
-0,3,2,2,1,2,2,2,1,15,jaan; isereguleeruv; keel; keelevaist; eesti; kaplinski
-0,3,2,2,1,2,2,2,1,15,jaan; isereguleeruv; keel; keelevaist; eesti; kaplinski
-0,3,1,2,1,2,2,3,1,15,isereguleeruv; keelevaist; eesti; jaan; keel; kaplinski
-0,2,1,0,1,2,2,3,1,15,jaan; keel; keelevaist; eesti; kaplinski
-0,0,2,1,1,2,1,2,1,15,keel; eesti; kaplinski
-1,2,2,2,1,2,2,3,1,15,kõnekeel; isereguleeruv; eesti; jaan; keel; süsteem; kaplinski
-1,3,1,0,2,3,2,2,1,15,isereguleeruv; keelevaist; eesti; jaan; keel; süsteem; kaplinski
-1,1,2,0,0,3,3,1,1,15,jaan; kõnekeel; keel; keelevaist; eesti
+0,3,2,2,1,2,2,1,0,15,jaan; keel; isereguleeruv; kaplinski; eesti; keelevaist
+0,3,2,2,1,2,2,1,0,15,jaan; keel; isereguleeruv; kaplinski; eesti; keelevaist
+0,3,2,2,1,2,2,1,0,15,jaan; keel; isereguleeruv; kaplinski; eesti; keelevaist
+0,3,2,2,1,2,2,1,0,15,jaan; keel; isereguleeruv; kaplinski; eesti; keelevaist
+0,3,2,2,1,2,2,1,0,15,jaan; keel; isereguleeruv; kaplinski; eesti; keelevaist
+0,3,1,2,1,2,3,1,0,15,kaplinski; eesti; jaan; isereguleeruv; keel; keelevaist
+0,2,1,0,1,2,3,1,0,15,jaan; keel; kaplinski; eesti; keelevaist
+0,0,2,1,1,1,2,1,0,15,keel; kaplinski; eesti
+1,2,2,2,1,2,3,1,0,15,kaplinski; eesti; süsteem; kõnekeel; jaan; keel; isereguleeruv
+1,3,1,0,2,2,2,1,0,15,kaplinski; eesti; süsteem; jaan; keel; isereguleeruv; keelevaist
+1,1,2,0,0,3,1,1,0,15,keel; eesti; kõnekeel; keelevaist

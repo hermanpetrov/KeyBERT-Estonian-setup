@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,3,3,0,1,2,2,1,13,provints; balti; tartu; haridus; peeter
-2,2,3,3,0,1,2,2,1,13,provints; balti; tartu; haridus; peeter
-2,2,3,3,0,1,2,2,1,13,provints; balti; tartu; haridus; peeter
-2,2,3,3,0,1,2,2,1,13,provints; balti; tartu; haridus; peeter
-2,2,3,3,0,1,2,2,1,13,provints; balti; tartu; haridus; peeter
-2,2,2,3,0,2,2,2,1,13,provints; balti; tartu; haridus; peeter
-4,2,4,3,0,2,2,2,1,13,provints; balti; tartu; haridus; peeter
-4,2,4,4,0,3,2,2,1,13,haridus; peeter; provints; balti; tartu
-4,2,4,4,0,3,2,2,1,13,haridus; peeter; provints; balti; tartu
-3,2,3,4,1,2,2,3,1,13,provints; balti; tartu; haridus; peeter
-3,1,3,4,1,2,2,3,2,13,provints; balti; tartu; haridus; peeter
+6,6,5,6,1,5,5,6,6,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+6,6,5,6,1,5,5,6,6,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+6,6,5,6,1,5,5,6,6,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+6,6,5,6,1,5,5,6,6,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+6,6,5,6,1,5,5,6,6,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+6,7,4,6,1,6,5,6,5,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+7,7,6,6,1,6,6,6,5,13,peeter; provints; nakkushaigus; ülikool; arstiteadus; tartu; paanikapuhang; haridus; doktoritöö; balti; pidalitõbi
+9,7,6,8,2,7,7,6,6,13,provints; nakkushaigus; ülikool; arstiteadus; tartu; pidalitõbi; peeter; paanikapuhang; haridus; doktoritöö; balti
+10,6,7,8,2,7,6,6,6,13,provints; nakkushaigus; ülikool; arstiteadus; tartu; pidalitõbi; peeter; paanikapuhang; haridus; doktoritöö; balti
+6,6,7,9,2,6,6,7,6,13,provints; nakkushaigus; ülikool; arstiteadus; tartu; pidalitõbi; peeter; paanikapuhang; haridus; doktoritöö; balti
+7,6,8,9,2,6,6,7,7,13,provints; nakkushaigus; ülikool; arstiteadus; tartu; pidalitõbi; peeter; paanikapuhang; haridus; doktoritöö; balti

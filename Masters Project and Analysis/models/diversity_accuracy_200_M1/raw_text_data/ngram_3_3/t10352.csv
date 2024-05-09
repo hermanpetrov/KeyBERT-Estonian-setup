@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,5,2,4,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-5,3,5,2,5,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-6,2,5,2,5,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-6,2,5,2,5,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-6,2,5,3,4,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-6,2,4,2,5,4,3,4,3,13,paul; rahu; kliima; toomas; nälg; sõda
-4,2,5,2,5,4,4,3,4,13,paul; rahu; toomas; kliima; nälg; sõda
-2,4,6,3,6,4,5,3,3,13,paul; rahu; toomas; kliima; nälg; sõda
-2,3,3,3,4,4,5,3,4,13,paul; rahu; kliima; toomas; sõda
-2,3,4,3,4,5,5,2,3,13,paul; rahu; kliima; toomas; nälg; sõda
-2,2,5,1,4,6,6,1,4,13,paul; rahu; kliima; toomas; nälg; sõda
+4,3,5,2,4,4,3,4,3,13,kliima; sõda; nälg; toomas; rahu; paul
+5,3,5,2,5,4,3,4,3,13,kliima; nälg; sõda; toomas; rahu; paul
+6,2,5,2,5,4,3,4,3,13,kliima; nälg; sõda; toomas; rahu; paul
+6,2,5,2,5,4,3,4,3,13,kliima; nälg; sõda; toomas; rahu; paul
+6,2,5,3,4,4,3,4,3,13,kliima; nälg; sõda; toomas; rahu; paul
+6,2,4,2,5,4,3,4,3,13,kliima; nälg; sõda; toomas; rahu; paul
+4,2,5,2,5,4,4,3,4,13,kliima; sõda; toomas; nälg; rahu; paul
+2,4,6,3,6,4,5,3,3,13,kliima; sõda; toomas; nälg; rahu; paul
+2,3,3,3,4,4,5,3,4,13,kliima; sõda; toomas; rahu; paul
+2,3,4,3,4,5,5,2,3,13,kliima; nälg; sõda; toomas; rahu; paul
+2,2,5,1,4,6,6,1,4,13,kliima; sõda; toomas; nälg; rahu; paul

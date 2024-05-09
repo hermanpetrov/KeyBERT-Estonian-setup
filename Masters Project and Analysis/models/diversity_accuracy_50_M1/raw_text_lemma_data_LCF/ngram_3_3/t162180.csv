@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,2,5,1,2,5,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,2,5,1,2,5,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,2,5,1,2,5,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,3,5,1,2,5,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-5,5,4,5,1,3,6,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,4,5,1,3,5,6,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-6,4,5,4,1,6,5,5,5,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,7,4,1,4,5,7,5,13,lehte; raha; aeg; luule; vene; hainsalu; tartu; sõna; kirjutama; vägi
-5,6,4,5,2,5,4,4,5,13,raha; aeg; luule; vene; hainsalu; tartu; sõna; kirjutama; vägi
-4,5,3,6,2,6,5,6,5,13,mets; lehte; raha; aeg; luule; vene; hainsalu; tartu; sõna; kirjutama; vägi
-3,5,3,5,2,6,5,5,6,13,mets; raha; aeg; luule; vene; hainsalu; tartu; sõna; kirjutama; vägi
+4,6,2,6,1,2,5,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+4,6,2,6,1,2,5,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+4,6,2,6,1,2,5,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+4,6,3,6,1,2,5,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+5,6,4,6,1,3,6,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+4,6,4,6,1,3,5,6,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+6,5,5,4,1,6,5,5,5,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+5,6,7,4,1,4,5,7,5,13,aeg; vene; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; sõna; luule; vägi
+5,7,4,5,2,5,4,4,5,13,aeg; vene; kirjutama; hainsalu; tartu; raha; üheksavägine; sõna; luule; vägi
+4,5,3,6,2,6,5,7,5,13,aeg; vene; kirjutama; hainsalu; tartu; üheksavägine; lehte; raha; mets; sõna; luule; vägi
+3,5,3,5,2,6,5,5,6,13,aeg; vene; kirjutama; hainsalu; tartu; raha; mets; sõna; luule; vägi

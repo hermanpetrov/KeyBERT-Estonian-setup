@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,6,3,2,4,3,5,5,14,august; friedebert; hermann; karl; johannes; küsimus; raud; armas; keel; tuglas; hellitus
-6,6,7,3,2,4,6,5,5,14,august; friedebert; hermann; karl; johannes; küsimus; raud; armas; keel; tuglas; hellitus
-6,6,7,3,2,4,6,5,6,14,august; friedebert; hermann; karl; johannes; küsimus; raud; armas; keel; tuglas; hellitus
-6,5,7,3,5,6,6,5,7,14,august; friedebert; hermann; karl; johannes; küsimus; raud; armas; keel; tuglas; hellitus
-7,5,9,3,5,8,6,9,7,14,august; johannes; raud; keel; tuglas; hellitus; friedebert; hermann; karl; küsimus; armas
-6,5,9,3,5,9,4,8,8,14,august; johannes; raud; keel; tuglas; hellitus; friedebert; hermann; karl; küsimus; armas
-5,4,8,8,7,9,4,9,7,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; armas
-2,2,10,8,5,8,5,8,7,14,august; johannes; raud; keel; tuglas; hellitus; hermann; karl; friedebert; küsimus; armas
-2,4,9,7,8,6,4,9,8,14,august; johannes; raud; keel; tuglas; hellitus; hermann; friedebert; karl; küsimus; armas
-3,2,6,7,8,7,5,9,9,14,august; johannes; raud; keel; tuglas; hellitus; hermann; friedebert; karl; küsimus; armas
-3,2,7,7,8,6,5,9,6,14,august; johannes; raud; keel; tuglas; hellitus; hermann; friedebert; karl; küsimus; armas
+6,6,6,3,2,3,5,5,0,14,küsimus; hellitus; hermann; friedebert; johannes; armas; august; keel; karl; raud; tuglas
+6,6,7,3,2,6,5,5,0,14,küsimus; hellitus; hermann; friedebert; johannes; armas; august; keel; karl; raud; tuglas
+6,6,7,3,2,6,5,6,0,14,küsimus; hellitus; hermann; friedebert; johannes; armas; august; keel; karl; raud; tuglas
+6,5,7,3,5,6,5,7,0,14,küsimus; hermann; hellitus; friedebert; johannes; armas; august; keel; karl; raud; tuglas
+7,5,9,3,5,6,9,7,0,14,friedebert; johannes; raud; tuglas; karl; küsimus; armas; august; keel; hermann
+6,5,9,3,5,4,8,8,0,14,friedebert; johannes; raud; tuglas; karl; küsimus; hellitus; armas; august; keel; hermann
+5,4,8,8,7,4,9,7,0,14,friedebert; johannes; raud; tuglas; karl; küsimus; hellitus; armas; august; keel; hermann
+2,2,10,8,5,5,8,7,0,14,friedebert; johannes; raud; karl; tuglas; küsimus; hellitus; armas; august; keel; hermann
+2,4,9,7,8,4,9,8,0,14,friedebert; johannes; raud; tuglas; karl; küsimus; hellitus; armas; august; keel; hermann
+3,2,6,7,8,5,9,9,0,14,friedebert; johannes; raud; karl; tuglas; küsimus; hellitus; armas; august; keel; hermann
+3,2,7,7,8,5,9,6,0,14,friedebert; johannes; raud; tuglas; karl; küsimus; hellitus; armas; august; keel; hermann

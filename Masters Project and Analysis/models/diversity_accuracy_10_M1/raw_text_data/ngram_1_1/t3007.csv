@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,1,0,0,1,15,perearsti; välis-eesti
 0,0,0,0,0,1,0,0,1,15,perearsti; välis-eesti
 0,0,0,0,0,1,0,0,1,15,perearsti; välis-eesti
-0,1,1,0,0,2,0,0,1,15,perearsti; edgar; välis-eesti; savisaar; nõuandetelefon
-0,2,1,0,0,1,0,0,1,15,terroritõrje; edgar; välis-eesti; savisaar; nõuandetelefon
-0,1,0,0,0,2,0,0,1,15,nõuandetelefon; impordikeeld; välis-eesti; savisaar
+0,1,1,0,0,2,0,0,1,15,edgar; perearsti; nõuandetelefon; välis-eesti; savisaar
+0,2,1,0,0,1,0,0,1,15,edgar; terroritõrje; nõuandetelefon; välis-eesti; savisaar
+0,1,0,0,0,2,0,0,1,15,impordikeeld; nõuandetelefon; välis-eesti; savisaar

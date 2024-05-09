@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,1,0,0,0,0,0,1,12,viilm; kirik; riik; poliitika
-1,1,0,0,0,0,0,0,1,12,viilm; riik; poliitika
-0,1,0,0,0,0,0,0,1,12,riik; poliitika
-0,1,1,0,0,0,0,0,1,12,viilm; riik; poliitika
-0,1,1,0,0,0,0,0,1,12,viilm; riik; poliitika
-0,1,1,1,0,0,0,1,0,12,viilm; erakond; poliitika
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik; kirik
+1,1,0,0,0,0,0,0,1,12,viilm; poliitika; riik
+0,1,0,0,0,0,0,0,1,12,poliitika; riik
+0,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik
+0,1,1,0,0,0,0,0,1,12,viilm; poliitika; riik
+0,1,1,1,0,0,0,1,0,12,viilm; poliitika; erakond

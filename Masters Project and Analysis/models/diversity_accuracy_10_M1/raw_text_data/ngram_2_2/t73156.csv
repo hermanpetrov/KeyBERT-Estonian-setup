@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,1,0,0,0,1,0,12,ameerika; esimene
 0,0,1,1,0,0,0,1,0,12,ameerika; esimene
 0,0,1,1,0,0,0,1,0,12,ameerika; esimene
-0,0,1,1,0,0,0,1,0,12,ameerika; esimene; one
-0,0,2,1,0,0,0,1,0,12,lugu; ameerika; esimene; one
-0,0,1,0,0,0,0,2,0,12,esimene; lugu; one
-0,0,1,1,0,0,0,1,0,12,andres; esimene; lugu
-1,0,1,2,0,0,1,0,0,12,andres; lugu; esimene; one
-0,1,1,2,1,0,0,1,0,12,andres; lugu; esimene; euroopa
+0,0,1,1,0,0,0,1,0,12,one; ameerika; esimene
+0,0,2,1,0,0,0,1,0,12,lugu; one; ameerika; esimene
+0,0,1,0,0,0,0,2,0,12,lugu; one; esimene
+0,0,1,1,0,0,0,1,0,12,lugu; esimene; andres
+1,0,1,2,0,0,1,0,0,12,one; esimene; andres; lugu
+0,1,1,2,1,0,0,1,0,12,esimene; euroopa; andres; lugu

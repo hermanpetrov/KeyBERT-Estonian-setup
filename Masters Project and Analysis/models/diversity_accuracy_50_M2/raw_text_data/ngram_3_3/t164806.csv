@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; metsamaa; mait; tänutunne; hing
-7,7,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; metsamaa; mait; tänutunne; hing
-7,7,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; metsamaa; mait; tänutunne; hing
-7,7,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; metsamaa; mait; tänutunne; hing
-7,7,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne; hing
-7,6,2,3,4,3,3,2,3,12,heinamaa; soomaa; isetegemine; agu; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne; hing
-8,6,2,4,4,3,4,3,3,12,heinamaa; isetegemine; agu; rajaste; vaike; tantsupidu; mait; tänutunne; hing
-6,7,2,4,4,4,3,3,3,12,heinamaa; soomaa; isetegemine; agu; vaike; rajaste; tantsupidu; mait; tänutunne; hing
-7,5,2,3,5,3,2,3,3,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; mait; tänutunne; hing
-7,5,2,4,4,4,2,4,3,12,heinamaa; soomaa; isetegemine; agu; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne; hing
-7,6,2,4,4,4,2,3,4,12,heinamaa; soomaa; isetegemine; agu; rajaste; vaike; tantsupidu; metsamaa; mait; tänutunne; hing
+7,7,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; heinamaa; agu; isetegemine; metsamaa; rajaste; mait
+7,7,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; heinamaa; agu; isetegemine; metsamaa; rajaste; mait
+7,7,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; heinamaa; agu; isetegemine; metsamaa; rajaste; mait
+7,7,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; heinamaa; agu; isetegemine; metsamaa; rajaste; mait
+7,7,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; isetegemine; mait; metsamaa; heinamaa; rajaste; agu
+7,6,2,3,4,3,3,2,3,12,tantsupidu; soomaa; tänutunne; hing; vaike; isetegemine; mait; metsamaa; heinamaa; rajaste; agu
+8,6,2,4,4,3,4,3,3,12,tantsupidu; tänutunne; hing; vaike; heinamaa; isetegemine; rajaste; agu; mait
+6,7,2,4,4,4,3,3,3,12,tantsupidu; tänutunne; soomaa; hing; vaike; isetegemine; mait; rajaste; heinamaa; agu
+7,5,2,3,5,3,2,3,3,12,tantsupidu; tänutunne; soomaa; hing; vaike; heinamaa; isetegemine; rajaste; agu; mait
+7,5,2,4,4,4,2,4,3,12,tantsupidu; tänutunne; soomaa; hing; vaike; heinamaa; isetegemine; metsamaa; agu; rajaste; mait
+7,6,2,4,4,4,2,3,4,12,tantsupidu; tänutunne; hing; soomaa; vaike; heinamaa; isetegemine; metsamaa; agu; rajaste; mait

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,5,5,5,6,3,8,5,16,heinrich; jahimees; hirm; mooramees; piits; pille-riin; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-7,6,6,5,5,6,3,8,6,16,heinrich; jahimees; hirm; mooramees; piits; pille-riin; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-7,6,6,5,6,6,3,9,6,16,heinrich; jahimees; hirm; mooramees; piits; pille-riin; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-6,6,8,5,6,6,3,9,6,16,heinrich; jahimees; hirm; mooramees; piits; pille-riin; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-7,5,8,6,6,8,7,7,6,16,heinrich; jahimees; hirm; mooramees; piits; pille-riin; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-9,7,6,6,7,8,7,7,6,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; luuleruum; purje; koer; pöial; hoffmann; prints; jaak; kahupea
-9,8,6,5,8,5,9,8,7,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; luuleruum; koer; purje; pöial; hoffmann; prints; jaak; kahupea
-6,4,8,6,9,7,7,9,7,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; luuleruum; purje; koer; pöial; hoffmann; prints; jaak; kahupea
-4,3,9,5,8,6,8,6,7,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; luuleruum; purje; koer; pöial; hoffmann; prints; jaak; kahupea
-5,3,7,5,9,6,9,7,6,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; purje; koer; pöial; hoffmann; prints; jaak; kahupea
-5,3,8,5,10,6,7,7,8,16,heinrich; jahimees; hirm; mooramees; pille-riin; piits; koer; purje; pöial; hoffmann; prints; jaak; kahupea
+7,7,5,5,5,6,3,8,5,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+7,6,6,5,5,6,3,8,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+7,6,6,5,6,6,3,9,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+6,6,8,5,6,6,3,9,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+7,5,8,6,6,8,7,7,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+9,7,6,6,7,8,7,7,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+9,8,6,5,8,5,9,8,7,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+6,4,8,6,9,7,7,9,7,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+4,3,9,5,8,6,8,6,7,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; luuleruum; piits; pille-riin
+5,3,7,5,9,6,9,7,6,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; piits; pille-riin
+5,3,8,5,10,6,7,7,8,16,jahimees; heinrich; mooramees; hoffmann; pöial; koer; prints; jaak; kahupea; purje; hirm; piits; pille-riin

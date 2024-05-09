@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-1,2,3,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-1,2,3,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-1,2,3,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-1,2,2,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-2,2,3,3,0,3,2,2,0,15,turniir; paul; klubi; eesti; kilingi-nõmme; hendrik; võistkond; olde
-2,1,3,2,0,5,2,2,0,15,paul; klubi; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-1,1,3,1,0,2,3,4,0,15,paul; eesti; kilingi-nõmme; hendrik; võistkond; olde
-1,1,2,0,0,4,3,5,0,15,paul; eesti; hendrik; maletaja; võistkond; olde
-0,1,3,1,2,4,2,4,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; malering; olde
-1,0,3,0,2,3,2,6,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; olde
+1,2,3,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+1,2,3,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+1,2,3,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+1,2,3,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+1,2,2,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+2,2,3,3,0,3,2,2,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul; turniir
+2,1,3,2,0,5,2,2,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; klubi; paul
+1,1,3,1,0,2,3,4,0,15,olde; eesti; kilingi-nõmme; hendrik; võistkond; paul
+1,1,2,0,0,4,3,5,0,15,olde; eesti; hendrik; võistkond; paul; maletaja
+0,1,3,1,2,4,2,4,0,15,olde; keres; eesti; malering; kilingi-nõmme; hendrik; maletaja; paul
+1,0,3,0,2,3,2,6,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; maletaja; paul

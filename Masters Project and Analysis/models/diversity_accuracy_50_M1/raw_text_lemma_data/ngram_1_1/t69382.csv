@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,0,0,0,0,16,sirje; õppimine; varietee
-1,0,2,0,0,0,0,0,0,16,sirje; õppimine; varietee
-1,0,2,0,0,0,0,0,0,16,sirje; õppimine; varietee
-1,0,2,0,0,0,0,0,0,16,sirje; õppimine; varietee
-1,0,3,0,0,0,0,0,0,16,sirje; õppimine; varietee; medell
-1,0,3,0,0,0,0,1,0,16,sirje; medell; õppimine; laul; varietee
-1,0,0,0,0,0,1,1,0,16,medell; laul; varietee
-2,0,1,0,0,0,1,2,0,16,festival; medell; õppimine; laul; varietee; ballaad
-2,0,2,0,0,0,1,2,0,16,festival; sisemine; rituaal; õppimine; varietee; ballaad
-3,0,0,0,0,0,1,1,0,16,rituaal; õppimine; laul; varietee; ballaad
-3,0,2,0,0,1,1,1,0,16,sisemine; rituaal; õppimine; laul; varietee; ballaad
+1,0,4,0,0,0,1,2,0,16,õppimine; varietee; muusikakool; sirje; saaremaa
+1,0,4,0,0,0,1,2,0,16,õppimine; varietee; muusikakool; sirje; saaremaa
+1,0,4,0,0,0,1,2,0,16,õppimine; varietee; muusikakool; sirje; saaremaa
+1,0,4,0,0,0,1,2,0,16,õppimine; varietee; muusikakool; sirje; saaremaa
+1,0,5,0,0,0,1,2,0,16,õppimine; medell; varietee; muusikakool; sirje; saaremaa
+1,0,4,0,0,0,1,2,0,16,õppimine; medell; varietee; laul; sirje; saaremaa
+1,0,0,0,0,0,2,1,0,16,medell; saaremaa; laul; varietee
+2,0,1,0,0,0,2,3,0,16,õppimine; medell; ballaad; varietee; muusikakool; laul; festival; saaremaa
+2,0,2,0,0,0,2,2,0,16,õppimine; rituaal; ballaad; varietee; sisemine; festival; saaremaa
+3,0,0,0,0,0,2,1,0,16,õppimine; rituaal; ballaad; varietee; laul; saaremaa
+3,0,2,0,0,1,2,1,0,16,õppimine; rituaal; ballaad; varietee; sisemine; laul; saaremaa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,1,0,0,1,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; võistlussport; põllumees
-3,4,1,0,0,1,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; võistlussport; põllumees
-3,4,1,0,0,1,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; võistlussport; põllumees
-3,4,1,0,0,1,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; võistlussport; põllumees
-2,4,1,0,0,1,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; põllumees
-3,4,2,0,0,1,1,1,1,19,riina; aasta; võistlussport; tammsaar; heino; laiapea; sulev; põllumees
-0,5,2,0,0,2,1,1,1,19,aasta; tammsaar; riina; heino; laiapea; sulev; põllumees
-3,4,2,2,0,1,2,2,1,19,riina; eesti; olümpiakomitee; aasta; lättemäe; tammsaar; heino; laiapea; sulev; põllumees
-2,4,2,1,0,1,1,3,1,19,dekoratiivne; riina; aasta; köögiviljad; lättemäe; tammsaar; sulev; põllumees
-3,1,3,1,0,2,1,4,1,19,aasta; köögiviljad; lättemäe; tammsaar; heino; sulev; põllumees
-2,1,3,1,0,2,1,6,1,19,silja; eesti; aasta; lättemäe; tammsaar; heino; sulev; põllumees
+3,4,1,0,0,1,1,1,0,19,tammsaar; põllumees; laiapea; võistlussport; heino; aasta; riina
+3,4,1,0,0,1,1,1,0,19,tammsaar; põllumees; laiapea; võistlussport; heino; aasta; riina
+3,4,1,0,0,1,1,1,0,19,tammsaar; põllumees; laiapea; võistlussport; heino; aasta; riina
+3,4,1,0,0,1,1,1,0,19,tammsaar; põllumees; laiapea; võistlussport; heino; aasta; riina
+2,4,1,0,0,1,1,1,0,19,tammsaar; põllumees; laiapea; heino; aasta; riina
+3,4,2,0,0,1,1,1,0,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; laiapea; heino
+0,5,2,0,0,1,1,1,0,19,tammsaar; sulev; laiapea; heino; aasta; riina
+3,4,2,2,0,2,2,1,0,19,tammsaar; lättemäe; eesti; sulev; aasta; riina; põllumees; laiapea; heino; olümpiakomitee
+2,4,2,1,0,1,3,1,0,19,tammsaar; lättemäe; sulev; aasta; riina; põllumees; köögiviljad; dekoratiivne
+3,1,3,1,0,1,4,1,0,19,tammsaar; lättemäe; sulev; aasta; põllumees; köögiviljad; heino
+2,1,3,1,0,1,6,1,0,19,tammsaar; lättemäe; silja; eesti; sulev; aasta; põllumees; heino

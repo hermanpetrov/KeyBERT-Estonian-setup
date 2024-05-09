@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,3,3,2,1,13,esinemine; kontsert; arder; muusika; helin-mari
-1,2,1,0,0,3,3,2,1,13,esinemine; kontsert; arder; muusika; helin-mari
-1,2,1,0,0,3,3,2,1,13,esinemine; kontsert; arder; muusika; helin-mari
-1,2,2,0,0,3,3,2,1,13,esinemine; kontsert; arder; muusika; helin-mari
-1,2,1,0,0,3,3,2,1,13,esinemine; kontsert; arder; muusika; helin-mari
-1,2,1,0,0,3,4,2,1,13,kontsert; muusika; unistus; helin-mari; esinemine; arder; armastus
-0,1,1,0,0,2,3,2,1,13,esinemine; arder; unistus; muusika; helin-mari; armastus
-1,1,3,0,0,2,2,1,1,13,esinemine; arder; unistus; muusika; helin-mari; armastus; õping
-1,1,3,1,0,2,2,0,1,13,esinemine; arder; unistus; muusika; helin-mari; armastus; õping
-2,1,2,1,0,2,2,0,1,13,esinemine; arder; unistus; muusika; helin-mari; armastus; õping
-2,0,2,1,0,2,2,1,1,13,esinemine; arder; unistus; muusika; helin-mari; armastus; õping
+1,2,3,0,0,3,3,2,1,13,esinemine; arder; muusikakool; muusika; helilooja; helin-mari; kontsert
+1,2,3,0,0,3,3,2,1,13,esinemine; arder; muusikakool; muusika; helilooja; helin-mari; kontsert
+1,2,3,0,0,3,3,2,1,13,esinemine; arder; muusikakool; muusika; helilooja; helin-mari; kontsert
+1,2,4,0,0,3,3,2,1,13,esinemine; arder; muusikakool; muusika; helilooja; helin-mari; kontsert
+1,2,3,0,0,3,3,2,1,13,esinemine; arder; muusikakool; muusika; helilooja; helin-mari; kontsert
+1,2,2,0,0,3,5,2,1,13,esinemine; arder; armastus; muusikakool; muusika; helilooja; helin-mari; unistus; kontsert
+0,1,1,0,0,3,3,2,1,13,esinemine; helin-mari; helilooja; muusika; unistus; arder; armastus
+1,1,3,1,0,3,2,2,1,13,esinemine; arder; õping; muusikakool; armastus; helin-mari; helilooja; muusika; unistus
+1,1,3,2,0,2,2,0,1,13,esinemine; helin-mari; muusika; armastus; unistus; arder; õping; muusikakool
+3,1,2,1,0,2,3,0,1,13,esinemine; arder; õping; armastus; muusikakool; helin-mari; helilooja; muusika; unistus
+3,0,2,1,0,2,3,1,1,13,esinemine; arder; õping; armastus; muusikakool; helin-mari; helilooja; muusika; unistus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,8,8,8,7,6,6,8,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,9,8,7,7,7,8,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,9,9,7,7,7,8,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,8,8,7,7,7,8,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,8,8,7,9,7,9,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,8,8,8,8,8,9,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-9,8,8,8,9,9,9,9,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-7,8,8,8,8,9,9,9,8,10,ameerika; sport; gladiaator; naine; võit; võistlus; meedia; sõda; mees
-7,8,8,7,8,9,9,9,7,10,ameerika; gladiaator; sport; naine; võit; võistlus; meedia; sõda; mees
-7,8,8,7,7,9,9,8,8,10,ameerika; gladiaator; sport; naine; võit; võistlus; meedia; sõda; mees
-8,8,8,8,8,7,8,9,7,10,ameerika; gladiaator; sport; naine; võit; võistlus; meedia; sõda; mees
+10,9,9,9,7,7,7,9,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,10,9,7,8,8,9,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,10,10,7,8,8,9,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,9,9,8,8,8,9,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,9,9,8,10,8,10,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,9,9,9,9,9,10,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+10,9,9,9,10,10,10,10,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+8,9,9,9,9,10,10,10,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+8,9,9,8,9,10,10,10,8,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+8,9,9,8,8,10,10,9,9,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus
+9,9,9,9,9,8,9,10,8,10,gladiaator; ameerika; sõda; võit; mees; sport; naine; meedia; jalgpall; võistlus

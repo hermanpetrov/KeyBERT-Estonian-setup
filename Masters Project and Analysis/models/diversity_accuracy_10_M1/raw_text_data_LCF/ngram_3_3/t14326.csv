@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-1,4,3,1,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-0,2,3,2,0,3,3,3,0,15,türgi; kirjanduspreemia; nobeli; atatürk
-0,2,6,2,0,3,2,2,0,15,andres; nobeli; türgi; ehin; kirjanduspreemia; seppel
-0,2,5,1,0,3,2,2,0,15,liis; nobeli; türgi; kirjanduspreemia; seppel; atatürk
-0,2,3,1,0,3,3,2,1,15,türgi; liis; kirjanduspreemia; nobeli; atatürk
-0,2,3,1,0,3,3,3,0,15,türgi; liis; kirjanduspreemia; pamuk; keeleuuendusliikumine; nobeli
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+1,4,3,1,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+0,2,3,2,0,3,3,0,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+0,2,6,2,0,2,2,0,0,15,seppel; nobeli; ehin; andres; kirjanduspreemia; türgi
+0,2,5,1,0,2,2,0,0,15,kirjanduspreemia; seppel; atatürk; liis; nobeli; türgi
+0,2,3,1,0,3,2,1,0,15,atatürk; kirjanduspreemia; nobeli; türgi
+0,2,3,1,0,3,3,0,0,15,keeleuuendusliikumine; pamuk; kirjanduspreemia; nobeli; türgi

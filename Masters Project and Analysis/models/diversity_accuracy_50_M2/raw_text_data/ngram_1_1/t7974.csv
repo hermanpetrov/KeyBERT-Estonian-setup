@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,0,0,0,4,2,0,12,esimene; keelevaist; keele; tahvel; keeleelu; õigekeelsussõnaraamat
-3,1,1,0,0,0,4,2,0,12,esimene; keelevaist; keele; tahvel; keeleelu; õigekeelsussõnaraamat
-3,1,1,0,0,0,4,2,0,12,esimene; keelevaist; keele; tahvel; keeleelu; õigekeelsussõnaraamat
-3,0,0,0,0,0,4,2,0,12,tahvel; keeleelu; keelevaist; keele; õigekeelsussõnaraamat
-3,0,0,0,0,0,1,1,0,12,tahvel; keeleelu; õigekeelsussõnaraamat
-3,1,0,0,0,1,0,0,0,12,tahvel; keeleelu; õigekeelsussõnaraamat
-3,1,0,0,0,0,0,1,0,12,esimene; tahvel; keeleelu; õigekeelsussõnaraamat
-2,1,0,2,0,0,0,1,0,12,aabits; tahvel; keelevaist; keele; õigekeelsussõnaraamat
-2,1,0,0,1,1,0,1,0,12,släng; keelevaist; õigekeelsussõnaraamat; esimene
-2,1,0,0,1,1,0,2,0,12,aabits; keeleelu; keelevaist; õigekeelsussõnaraamat; esimene
-1,1,0,0,0,1,0,0,0,12,keelevaist; õigekeelsussõnaraamat
+3,1,1,0,0,0,4,2,0,12,tahvel; keele; keeleelu; õigekeelsussõnaraamat; esimene; keelevaist
+3,1,1,0,0,0,4,2,0,12,tahvel; keele; keeleelu; õigekeelsussõnaraamat; esimene; keelevaist
+3,1,1,0,0,0,4,2,0,12,tahvel; keele; keeleelu; õigekeelsussõnaraamat; esimene; keelevaist
+3,0,0,0,0,0,4,2,0,12,tahvel; keele; õigekeelsussõnaraamat; keeleelu; keelevaist
+3,0,0,0,0,0,1,1,0,12,keeleelu; õigekeelsussõnaraamat; tahvel
+3,1,0,0,0,1,0,0,0,12,keeleelu; õigekeelsussõnaraamat; tahvel
+3,1,0,0,0,0,0,1,0,12,keeleelu; õigekeelsussõnaraamat; tahvel; esimene
+2,1,0,2,0,0,0,1,0,12,aabits; tahvel; keele; õigekeelsussõnaraamat; keelevaist
+2,1,0,0,1,1,0,1,0,12,släng; esimene; õigekeelsussõnaraamat; keelevaist
+2,1,0,0,1,1,0,2,0,12,keeleelu; aabits; esimene; õigekeelsussõnaraamat; keelevaist
+1,1,0,0,0,1,0,0,0,12,õigekeelsussõnaraamat; keelevaist

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,6,5,6,4,5,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,5,6,5,5,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,5,6,6,5,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,5,6,6,5,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,6,6,6,5,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,6,6,6,6,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,6,6,6,6,6,5,11,raamat; sündmus; jakobson; kreutzwald; eesti; inimene
-6,6,6,6,6,6,6,6,6,11,raamat; kreutzwald; sündmus; jakobson; eesti; inimene
-5,6,6,6,6,6,6,6,6,11,raamat; sündmus; kreutzwald; jakobson; eesti; inimene
-5,6,6,6,6,6,6,6,6,11,raamat; sündmus; kreutzwald; jakobson; eesti; inimene
-5,6,6,6,6,6,6,6,6,11,raamat; sündmus; kreutzwald; jakobson; eesti; inimene
+8,8,8,7,7,6,7,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,7,7,7,7,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,7,7,8,7,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,7,7,8,7,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,8,7,8,7,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,8,7,8,8,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,8,7,8,8,8,7,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+8,8,8,8,7,8,8,8,8,11,jakobson; kreutzwald; eesti; rahvakultuur; raamat; inimene; sündmus; rahvajutt
+7,8,8,8,7,8,8,8,8,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+7,8,8,8,7,8,8,8,8,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus
+7,8,8,8,8,8,8,8,8,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; raamat; inimene; sündmus

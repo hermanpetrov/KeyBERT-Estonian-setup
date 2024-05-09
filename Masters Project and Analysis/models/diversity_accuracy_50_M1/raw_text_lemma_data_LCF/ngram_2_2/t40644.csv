@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,0,1,1,0,0,0,0,19,andres; orpheus; bach; folkloor; robert
-3,1,0,1,1,0,0,0,0,19,andres; orpheus; bach; folkloor; robert
-3,1,0,1,1,0,0,0,1,19,andres; orpheus; bach; folkloor; robert
-3,1,0,1,1,0,0,0,1,19,andres; orpheus; bach; folkloor; robert
-3,2,0,1,1,0,0,0,1,19,andres; orpheus; bach; folkloor; robert
-2,2,1,1,1,3,0,3,1,19,andres; mustonen; robert; orpheus; bach; mari; igor
-2,3,2,2,1,2,3,5,1,19,andres; folkloor; mustonen; robert; bach; mari; musicus; orpheus; irene; viiul; igor
-2,1,1,1,1,4,6,4,2,19,tšello; folkloor; mustonen; robert; orpheus; mari; bach; musicus; viiul; igor
-4,0,5,1,1,6,3,3,1,19,andres; tšello; lill; folkloor; mustonen; robert; orpheus; mari; bach; hortus; irene; viiul; igor
-2,0,5,0,2,4,4,3,1,19,andres; tšello; lill; kalkun; folkloor; mustonen; irene; robert; orpheus; bach; mari; hortus; staak; viiul; igor
-1,0,4,0,2,3,2,4,1,19,lill; kalkun; folkloor; robert; orpheus; bach; mari; hortus; irene; staak; igor
+3,1,0,1,1,0,0,0,0,19,folkloor; robert; andres; bach; orpheus
+3,1,0,1,1,0,0,0,0,19,folkloor; robert; andres; bach; orpheus
+3,1,0,1,1,0,0,0,1,19,folkloor; robert; andres; bach; orpheus
+3,1,0,1,1,0,0,0,1,19,folkloor; robert; andres; bach; orpheus
+3,2,0,1,1,0,0,0,1,19,folkloor; robert; andres; bach; orpheus
+2,2,1,1,1,3,0,3,1,19,mari; robert; bach; igor; mustonen; andres; orpheus
+2,3,2,2,1,2,3,5,1,19,mari; robert; irene; musicus; bach; igor; viiul; folkloor; mustonen; andres; orpheus
+2,1,1,1,1,4,6,4,2,19,mari; robert; musicus; bach; igor; viiul; folkloor; mustonen; tšello; orpheus
+4,0,5,1,1,6,3,3,1,19,lill; mari; robert; irene; hortus; bach; igor; viiul; folkloor; mustonen; andres; tšello; orpheus
+2,0,5,0,2,4,4,3,1,19,lill; mari; irene; robert; hortus; bach; igor; staak; viiul; folkloor; mustonen; andres; tšello; kalkun; orpheus
+1,0,4,0,2,3,2,4,1,19,lill; mari; irene; robert; hortus; bach; igor; staak; folkloor; kalkun; orpheus

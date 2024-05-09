@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,1,1,1,12,lavakunstikateeder; näitleja
-1,1,1,1,0,1,1,1,1,12,lavakunstikateeder; näitleja
-1,1,1,1,0,1,1,1,1,12,lavakunstikateeder; näitleja
-1,1,1,1,0,1,1,1,1,12,lavakunstikateeder; näitleja
-1,2,1,1,0,1,1,1,1,12,lavakunstikateeder; näitleja
-1,1,0,2,0,2,0,1,1,12,smuul; lavakunstikateeder; tõnu; näitleja; ebaõnnestumine; juhan
-1,0,0,0,0,1,0,2,1,12,eneseusk; tõnu; näitleja; juhan
-1,0,0,2,0,0,0,1,1,12,draamateater; tõnu; näitleja; juhan
-0,0,0,1,0,0,0,0,1,12,näitleja; juhan
-0,0,2,0,0,0,0,2,1,12,smuul; aav; draamateater; näitleja; ebaõnnestumine
-0,0,1,0,0,0,0,0,1,12,aav; näitleja
+1,1,1,1,0,1,1,1,0,12,lavakunstikateeder; näitleja
+1,1,1,1,0,1,1,1,0,12,lavakunstikateeder; näitleja
+1,1,1,1,0,1,1,1,0,12,lavakunstikateeder; näitleja
+1,1,1,1,0,1,1,1,0,12,lavakunstikateeder; näitleja
+1,2,1,1,0,1,1,1,0,12,lavakunstikateeder; näitleja
+1,1,0,2,0,0,1,1,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; smuul
+1,0,0,0,0,0,2,1,0,12,eneseusk; näitleja; tõnu
+1,0,0,2,0,0,1,1,0,12,juhan; näitleja; tõnu; draamateater
+0,0,0,1,0,0,0,1,0,12,näitleja; juhan
+0,0,2,0,0,0,2,1,0,12,ebaõnnestumine; näitleja; aav; smuul; draamateater
+0,0,1,0,0,0,0,1,0,12,aav; näitleja

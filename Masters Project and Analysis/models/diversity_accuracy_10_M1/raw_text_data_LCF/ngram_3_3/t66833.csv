@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,1,1,3,2,1,0,15,festival; muusika; eesti; steinway
-0,1,3,1,1,3,2,1,0,15,festival; muusika; eesti; steinway
-0,1,3,1,1,3,2,1,0,15,festival; muusika; eesti; steinway
-0,1,3,1,1,3,2,1,0,15,festival; muusika; eesti; steinway
-0,1,5,1,1,3,2,1,0,15,festival; steinfeld; muusika; eesti; steinway; nele-eva
-0,1,5,1,1,3,2,2,0,15,festival; steinfeld; muusika; eesti; steinway; nele-eva
-3,2,4,2,1,1,2,4,0,15,festival; steinfeld; muusika; eesti; steinway; nele-eva
-1,1,5,2,1,1,1,3,0,15,festival; steinfeld; muusika; eesti; steinway; nele-eva
-1,1,5,1,2,4,2,4,2,15,festival; steinfeld; eino; muusika; eesti; steinway; tamberg; nele-eva
-1,3,4,1,2,3,4,3,2,15,festival; eino; steinfeld; interpreet; muusika; eesti; steinway; tamberg; nele-eva
-2,2,3,2,3,4,4,2,3,15,festival; eino; steinfeld; muusika; eesti; steinway; tamberg; nele-eva
+0,1,3,1,1,2,1,0,0,15,muusika; eesti; steinway; festival
+0,1,3,1,1,2,1,0,0,15,muusika; eesti; steinway; festival
+0,1,3,1,1,2,1,0,0,15,muusika; eesti; steinway; festival
+0,1,3,1,1,2,1,0,0,15,muusika; eesti; steinway; festival
+0,1,5,1,1,2,1,0,0,15,muusika; steinfeld; eesti; nele-eva; steinway; festival
+0,1,5,1,1,2,2,0,0,15,muusika; steinfeld; eesti; nele-eva; steinway; festival
+3,2,4,2,1,2,4,0,0,15,steinfeld; eesti; nele-eva; steinway; muusika; festival
+1,1,5,2,1,1,3,0,0,15,steinfeld; eesti; nele-eva; steinway; muusika; festival
+1,1,5,1,2,2,4,2,0,15,steinfeld; eesti; nele-eva; tamberg; steinway; eino; muusika; festival
+1,3,4,1,2,4,3,2,0,15,steinfeld; eesti; tamberg; interpreet; nele-eva; steinway; eino; muusika; festival
+2,2,3,2,3,4,2,3,0,15,steinfeld; eesti; tamberg; nele-eva; steinway; eino; muusika; festival

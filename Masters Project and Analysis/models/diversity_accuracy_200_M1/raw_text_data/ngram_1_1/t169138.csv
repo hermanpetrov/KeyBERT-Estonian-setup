@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,7,8,6,6,3,6,4,8,12,kristjan; lasteporno; john; port; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-9,7,8,6,7,3,6,4,8,12,kristjan; lasteporno; john; port; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-9,7,9,6,7,4,6,4,8,12,kristjan; lasteporno; john; port; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-9,6,8,6,7,4,7,4,8,12,kristjan; lasteporno; john; port; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-8,7,9,6,8,6,9,5,8,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-8,8,9,6,8,8,8,5,8,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-8,9,7,6,8,8,8,6,7,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-8,8,7,6,8,8,8,8,7,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-7,8,7,8,8,8,9,9,7,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-7,9,8,7,8,8,8,8,7,12,kristjan; port; tarkus; mccain; lasteporno; john; lamar; arhiveerima; jälitamiskohustus
-6,8,8,8,8,8,8,8,7,12,kristjan; lasteporno; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
+9,7,8,6,6,3,6,4,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+9,7,8,6,7,3,6,4,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+9,7,9,6,7,4,6,4,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+9,6,8,6,7,4,7,4,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+8,7,9,6,8,6,9,5,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+8,8,9,6,8,8,8,5,8,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+8,9,7,6,8,8,8,6,7,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+8,8,7,6,8,8,8,8,7,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+7,8,7,8,8,8,9,9,7,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+7,9,8,7,8,8,8,8,7,12,port; mccain; jälitamiskohustus; lasteporno; tarkus; arhiveerima; john; kristjan; lamar
+6,8,8,8,8,8,8,8,7,12,lasteporno; tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus

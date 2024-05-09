@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,8,7,6,7,5,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,6,8,7,6,7,5,7,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,6,8,8,6,7,6,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,4,7,8,6,6,5,5,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,4,5,8,6,6,6,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,5,6,8,7,8,7,5,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-6,4,6,8,7,9,7,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-6,4,6,8,8,9,6,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-7,3,5,7,7,8,5,6,9,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-5,2,3,7,6,7,5,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
-4,1,4,6,6,7,5,6,7,13,tõlge; jevgeni; reaalsusest; luuletaja; keskpärane; reisimine; kesk-aasia; diktatuur; autor
+7,6,8,7,6,5,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,6,8,7,6,5,7,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,6,8,8,6,6,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,4,7,8,6,5,5,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,4,5,8,6,6,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,5,6,8,7,7,5,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+6,4,6,8,7,7,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+6,4,6,8,8,6,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+7,3,5,7,7,5,6,9,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+5,2,3,7,6,5,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur
+4,1,4,6,6,5,6,7,0,13,luuletaja; autor; reisimine; reaalsusest; keskpärane; kesk-aasia; jevgeni; tõlge; diktatuur

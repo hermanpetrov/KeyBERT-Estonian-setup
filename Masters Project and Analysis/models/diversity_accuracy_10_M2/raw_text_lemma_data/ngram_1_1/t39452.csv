@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,2,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,2,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,2,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,2,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,2,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,1,0,13,erakond; rahastamine
-0,0,0,0,0,1,1,1,0,13,erakond
-0,0,0,0,0,0,0,1,0,13,erakond
-0,0,0,1,0,0,1,1,0,13,erakond; režiim; rahastamine
-0,0,0,1,0,0,1,0,0,13,erakond; režiim
-0,0,0,0,0,0,2,0,0,13,erakond; rahastamine
+0,0,1,0,0,1,2,2,0,13,sõidusoodustus; rahastamine; erakond; tagatisraha
+0,0,1,0,0,1,2,2,0,13,sõidusoodustus; rahastamine; erakond; tagatisraha
+0,0,1,0,0,1,2,2,0,13,sõidusoodustus; rahastamine; erakond; tagatisraha
+0,0,0,0,0,1,2,2,0,13,rahastamine; erakond; tagatisraha
+0,0,0,0,0,1,2,2,0,13,rahastamine; erakond; tagatisraha
+0,0,0,0,0,1,2,1,0,13,erakond; tagatisraha; rahastamine
+0,0,0,0,0,1,2,1,0,13,erakond; tagatisraha
+0,0,0,0,0,0,1,1,0,13,erakond; tagatisraha
+1,0,0,1,0,0,2,1,0,13,teehooldetöö; režiim; rahastamine; erakond; tagatisraha
+1,0,0,1,0,0,2,0,0,13,teehooldetöö; erakond; režiim; tagatisraha
+0,0,0,1,0,0,2,0,0,13,sõidusoodustus; erakond; rahastamine

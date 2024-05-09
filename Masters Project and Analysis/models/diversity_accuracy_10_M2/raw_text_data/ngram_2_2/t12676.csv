@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-2,0,2,2,0,3,1,2,0,13,stefan; kuuba; gloria
-3,0,2,1,0,3,1,2,0,13,crossover; stefan; kuuba; gloria
-2,0,2,1,0,3,3,1,0,13,grammy; stefan; kuuba; gloria
-2,0,2,1,0,3,2,2,0,13,stefan; kuuba; gloria
-3,0,3,2,0,3,1,2,0,13,stefan; lauljatar; miami; kuuba; gloria
-3,0,3,2,0,3,1,1,1,13,stefan; grammy; miami; kuuba; gloria
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+2,0,2,2,0,3,1,2,0,13,kuuba; gloria; stefan
+3,0,2,1,0,3,1,2,0,13,kuuba; gloria; stefan; crossover
+2,0,2,1,0,3,3,1,0,13,kuuba; grammy; gloria; stefan
+2,0,2,1,0,3,2,2,0,13,kuuba; gloria; stefan
+3,0,3,2,0,3,1,2,0,13,lauljatar; miami; kuuba; gloria; stefan
+3,0,3,2,0,3,1,1,1,13,kuuba; miami; grammy; gloria; stefan

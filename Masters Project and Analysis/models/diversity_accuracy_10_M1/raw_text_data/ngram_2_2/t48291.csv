@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,1,2,0,11,rannavalve; tuukrikaater; meresaade
-0,1,0,0,0,1,1,2,0,11,rannavalve; tuukrikaater; meresaade
-0,1,0,0,0,1,1,2,0,11,rannavalve; tuukrikaater; meresaade
-0,1,0,0,0,1,1,2,0,11,rannavalve; tuukrikaater; meresaade
-0,1,0,0,0,1,1,2,1,11,rannavalve; tuukrikaater; kiirabi; meresaade
-0,1,0,0,0,1,1,2,1,11,rannavalve; tuukrikaater; kiirabi; meresaade
-0,0,0,0,0,0,2,2,1,11,rannavalve; tuukrikaater; kiirabi; meresaade
-0,0,0,0,0,0,1,1,1,11,tuukrikaater; kiirabi; meresaade
-1,0,0,0,0,0,0,1,0,11,rannavalve; meresaade
+0,1,0,0,0,1,1,2,0,11,meresaade; tuukrikaater; rannavalve
+0,1,0,0,0,1,1,2,0,11,meresaade; tuukrikaater; rannavalve
+0,1,0,0,0,1,1,2,0,11,meresaade; tuukrikaater; rannavalve
+0,1,0,0,0,1,1,2,0,11,meresaade; tuukrikaater; rannavalve
+0,1,0,0,0,1,1,2,1,11,kiirabi; meresaade; tuukrikaater; rannavalve
+0,1,0,0,0,1,1,2,1,11,kiirabi; meresaade; tuukrikaater; rannavalve
+0,0,0,0,0,0,2,2,1,11,kiirabi; rannavalve; tuukrikaater; meresaade
+0,0,0,0,0,0,1,1,1,11,kiirabi; tuukrikaater; meresaade
+1,0,0,0,0,0,0,1,0,11,meresaade; rannavalve
 0,0,1,0,0,0,0,1,0,11,meresaade
 0,0,0,1,0,0,0,1,0,11,kaart; meresaade

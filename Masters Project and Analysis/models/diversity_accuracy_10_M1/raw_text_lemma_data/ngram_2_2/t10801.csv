@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,1,0,0,0,0,1,1,0,10,ristimine; ivanov
-0,1,0,0,0,0,0,0,0,10,ristimine
-0,0,0,0,0,0,1,0,0,10,ivanov
+1,0,0,0,0,1,1,0,0,10,nõukogu; homoseksualism
+1,0,0,0,0,1,1,0,0,10,nõukogu; homoseksualism
+1,0,0,0,0,1,1,0,0,10,nõukogu; homoseksualism
+1,0,0,0,0,1,1,0,1,10,nõukogu; homoseksualism
+1,0,0,0,0,1,1,1,1,10,nõukogu; homoseksualism
+1,0,0,0,0,1,1,1,0,10,nõukogu; homoseksualism
+1,1,0,0,0,1,1,1,1,10,tervishoid; nõukogu; homoseksualism
+0,1,0,0,0,2,1,1,1,10,tervishoid; nõukogu
+1,2,0,0,0,0,2,2,1,10,tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+0,2,0,0,0,1,1,0,0,10,nõukogu; ristimine
+0,1,0,0,0,1,3,0,0,10,tervishoid; nõukogu; ivanov

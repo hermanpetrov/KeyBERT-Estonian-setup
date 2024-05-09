@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,1,1,0,0,12,lill; berliin; tikand
-1,0,1,1,0,1,1,0,0,12,lill; berliin; tikand
-1,0,1,1,0,1,1,0,0,12,lill; berliin; tikand
-1,0,1,1,0,1,1,0,0,12,lill; berliin; tikand
-1,0,1,1,0,1,1,0,0,12,lill; berliin; tikand
-1,0,1,1,0,1,1,1,0,12,lill; berliin
-1,0,1,1,0,1,1,1,0,12,lill; berliin
-0,0,0,0,0,2,1,1,0,12,ateljee; berliin
-0,0,1,0,0,2,1,1,0,12,ateljee; inspiratsioon; berliin
-0,0,2,0,0,2,1,3,0,12,ateljee; lill; kollektsioon; inspiratsioon; berliin
-0,0,1,1,0,2,1,2,0,12,ateljee; kollektsioon; inspiratsioon; berliin
+1,1,2,2,0,1,1,3,0,12,lill; berliin; tikand; moekunstnik; moemaja; moemaailm
+1,1,2,2,0,1,1,3,0,12,lill; berliin; tikand; moekunstnik; moemaja; moemaailm
+1,1,2,2,0,1,1,3,0,12,lill; berliin; tikand; moekunstnik; moemaja; moemaailm
+1,1,2,2,0,1,1,3,0,12,lill; berliin; tikand; moekunstnik; moemaja; moemaailm
+1,1,2,2,0,1,1,3,0,12,lill; berliin; tikand; moekunstnik; moemaja; moemaailm
+1,1,2,1,0,1,1,4,0,12,lill; berliin; moekunstnik; moemaja; moemaailm
+1,1,2,1,0,1,2,4,0,12,lill; berliin; moekunstnik; moemaja; moemaailm
+0,1,0,0,0,2,1,4,0,12,berliin; ateljee; moekunstnik; moemaja; moemaailm
+1,1,1,0,0,2,1,2,0,12,berliin; ateljee; moemaailm; moekunstnik; inspiratsioon
+0,1,2,0,0,2,1,4,0,12,lill; berliin; ateljee; moekunstnik; inspiratsioon; moemaailm; kollektsioon
+0,1,1,1,0,2,2,3,0,12,berliin; ateljee; moemaailm; moekunstnik; moemaja; inspiratsioon; kollektsioon

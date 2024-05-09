@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,0,3,2,1,12,gustav; hüpotees; naan; akadeemia; sõda
-1,1,0,0,0,0,3,2,0,12,gustav; hüpotees; naan; sõda
-1,1,0,0,0,0,3,2,0,12,gustav; hüpotees; naan; sõda
-1,1,0,0,0,0,3,2,0,12,gustav; hüpotees; naan; sõda
-1,1,0,0,0,0,3,2,0,12,gustav; hüpotees; naan; sõda
-1,1,0,0,0,0,3,2,1,12,gustav; hüpotees; naan; teadus; sõda
-1,1,0,1,0,0,2,2,1,12,gustav; hüpotees; naan; teadus; sõda
-3,0,0,1,0,1,1,2,1,12,gustav; naan; teadus; akadeemia; sõda
-4,0,0,2,0,2,0,2,1,12,gustav; hüpotees; naan; teadus; akadeemia; sõda
-4,0,0,1,0,2,0,2,1,12,gustav; hüpotees; naan; teadus; akadeemia
-2,0,0,2,0,2,0,2,1,12,gustav; hüpotees; naan; teadus; akadeemia
+2,1,1,1,0,0,3,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,1,0,0,3,2,0,12,gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,1,0,0,3,2,0,12,gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,1,0,0,3,2,0,12,gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,1,0,0,3,2,0,12,gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,1,0,0,3,2,1,12,teadus; gustav; ülikool; naan; hüpotees; lapsepõlv; sõda
+2,1,1,3,0,0,2,3,1,12,teadus; ülikool; naan; hüpotees; lapsepõlv; sõda; gustav; elustrateegia
+3,0,0,2,0,1,1,3,1,12,teadus; gustav; ülikool; naan; akadeemia; lapsepõlv; sõda
+4,0,1,3,0,2,0,2,1,12,teadus; ülikool; akadeemia; naan; hüpotees; lapsepõlv; sõda; gustav
+4,0,0,2,0,2,0,2,1,12,naan; teadus; gustav; ülikool; akadeemia; hüpotees
+3,0,0,3,0,2,0,2,1,12,naan; teadus; gustav; ülikool; akadeemia; hüpotees; elustrateegia

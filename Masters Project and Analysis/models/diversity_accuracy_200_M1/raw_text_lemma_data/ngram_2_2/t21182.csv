@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,1,2,3,10,3,4,2,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
-5,4,1,2,3,10,3,4,2,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
-5,2,2,4,3,10,3,5,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; pehk; jaan; bänd; urmas; merilai; vadi
-4,2,2,5,3,10,5,4,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; pehk; jaan; bänd; urmas; merilai; vadi
-3,3,4,5,4,9,5,5,3,17,oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; bänd; merilai; vadi
-3,3,5,5,4,8,6,7,5,17,arne; oidipus; janek; hasso; kraav; urmas; rütm; krull; nali; jaan; pehk; bänd; merilai; vadi
-2,3,7,7,4,4,3,6,3,17,rütm; oidipus; krull; janek; hasso; nali; kraav; bänd; urmas; merilai; vadi
-2,3,6,3,4,4,8,5,2,17,arne; rütm; oidipus; krull; janek; hasso; nali; kraav; jaan; pehk; bänd; urmas; merilai; vadi
-2,3,9,4,4,4,2,5,1,17,rütm; oidipus; krull; janek; hasso; nali; jaan; pehk; bänd; urmas; merilai
-2,2,5,5,4,4,4,4,0,17,rütm; oidipus; janek; krull; hasso; kraav; bänd; urmas; merilai
-1,2,6,5,4,4,5,4,2,17,arne; rütm; oidipus; krull; janek; hasso; nali; bänd; urmas; merilai
+6,6,2,3,3,11,4,5,4,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; krull
+6,6,2,3,3,11,4,5,4,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; krull
+6,4,3,5,3,11,4,6,5,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; krull
+5,4,3,6,3,11,6,5,5,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; krull
+4,5,4,6,4,10,7,6,5,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; janek; jaan; nali; krull
+4,5,7,6,4,10,7,8,7,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; arne; krull
+3,3,8,7,4,5,3,6,5,17,kraav; merilai; bänd; luulekogu; hasso; urmas; janek; vadi; oidipus; nali; polüfoonilisus; rütm; krull
+3,3,8,3,4,5,9,5,4,17,bänd; urmas; hasso; vadi; oidipus; luulekogu; polüfoonilisus; rütm; kraav; merilai; pehk; janek; jaan; nali; arne; krull
+3,3,10,4,5,4,2,6,3,17,bänd; urmas; hasso; oidipus; luulekogu; polüfoonilisus; rütm; merilai; pehk; janek; jaan; nali; krull
+3,2,6,5,5,4,4,4,2,17,kraav; merilai; bänd; urmas; hasso; janek; polüfoonilisus; oidipus; luulekogu; rütm; krull
+2,3,7,5,4,4,6,5,4,17,merilai; bänd; urmas; hasso; janek; polüfoonilisus; oidipus; nali; arne; luulekogu; rütm; krull

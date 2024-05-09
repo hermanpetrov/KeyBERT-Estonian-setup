@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-6,4,2,1,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; tänutunne
-5,4,2,0,2,1,1,1,2,12,heinamaa; soomaa; isetegemine; vaike; tantsupidu; tänutunne
-4,4,3,2,2,1,1,4,2,12,heinamaa; isetegemine; vaike; rajaste; tantsupidu; mait; tänutunne; hing
-4,1,3,2,2,4,1,2,2,12,heinamaa; isetegemine; vaike; rajaste; tantsupidu; mait; tänutunne; hing
-5,2,3,3,1,4,2,2,3,12,heinamaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne; hing
-4,3,3,1,2,4,3,2,4,12,heinamaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne; hing
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+6,4,2,1,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; heinamaa; isetegemine; metsamaa; rajaste
+5,4,2,0,2,1,1,1,2,12,tantsupidu; tänutunne; soomaa; vaike; isetegemine; heinamaa
+4,4,3,2,2,1,1,4,2,12,tantsupidu; tänutunne; hing; vaike; isetegemine; rajaste; heinamaa; mait
+4,1,3,2,2,4,1,2,2,12,tantsupidu; tänutunne; hing; vaike; isetegemine; rajaste; heinamaa; mait
+5,2,3,3,1,4,2,2,3,12,tantsupidu; tänutunne; hing; vaike; heinamaa; isetegemine; metsamaa; rajaste; mait
+4,3,3,1,2,4,3,2,4,12,tantsupidu; tänutunne; hing; vaike; isetegemine; metsamaa; heinamaa; rajaste; mait

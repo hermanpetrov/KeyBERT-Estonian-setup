@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,3,6,2,2,2,2,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; energia
-3,3,3,6,2,2,2,2,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; energia
-3,3,3,6,2,2,2,2,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; energia
-3,3,3,6,2,2,2,2,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; energia
-3,2,3,6,2,2,2,2,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; james; televiisor; energia
-2,2,4,5,3,1,2,4,1,12,merivoo-parro; ansambel; klassikokkutulek; maarja; aeg; raadio; televiisor; energia
-2,4,6,4,3,3,3,4,1,12,televiisor; merivoo-parro; maarja; aeg; raadio; ansambel; album; energia
-3,4,5,3,3,4,2,5,1,12,televiisor; merivoo-parro; aeg; maarja; raadio; james; ansambel; album; energia
-1,3,5,1,3,3,3,4,1,12,televiisor; merivoo-parro; maarja; aeg; raadio; ansambel; album; energia
-3,2,3,2,2,2,3,2,4,12,merivoo-parro; aeg; maarja; raadio; energia; televiisor; album; ansambel
-3,2,2,1,3,4,4,3,3,12,merivoo-parro; aeg; maarja; raadio; energia; james; televiisor; ansambel
+3,3,3,6,2,2,2,2,1,12,televiisor; aeg; energia; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+3,3,3,6,2,2,2,2,1,12,televiisor; aeg; energia; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+3,3,3,6,2,2,2,2,1,12,televiisor; aeg; energia; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+3,3,3,6,2,2,2,2,1,12,televiisor; aeg; energia; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+3,2,3,6,2,2,2,2,1,12,televiisor; aeg; energia; james; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+2,2,4,5,3,1,2,4,1,12,televiisor; energia; aeg; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja
+2,4,6,4,3,3,3,4,1,12,televiisor; energia; aeg; raadio; ansambel; merivoo-parro; maarja; album
+3,4,5,3,3,4,2,5,1,12,televiisor; aeg; energia; james; raadio; ansambel; merivoo-parro; album; maarja
+1,3,5,1,3,3,3,4,1,12,televiisor; energia; aeg; raadio; ansambel; merivoo-parro; maarja; album
+3,2,3,2,2,2,3,2,4,12,televiisor; energia; aeg; raadio; ansambel; merivoo-parro; album; maarja
+3,2,2,1,3,4,4,3,3,12,televiisor; aeg; energia; james; raadio; ansambel; merivoo-parro; maarja

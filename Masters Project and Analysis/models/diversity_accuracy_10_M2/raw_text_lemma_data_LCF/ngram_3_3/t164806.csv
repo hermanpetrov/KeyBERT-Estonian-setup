@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,1,0,1,0,0,0,0,0,12,vaike; agu
-0,2,0,0,0,0,0,0,0,12,vaike; hing
-0,1,0,0,0,0,0,0,0,12,hing
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,1,0,0,0,12,hing
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,1,2,1,1,1,1,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,3,2,2,1,1,1,2,0,12,tantsupidu; tänutunne; isetegemine; vaike; agu
+1,4,2,0,1,1,1,2,0,12,tantsupidu; hing; isetegemine; tänutunne; vaike
+2,2,1,0,1,1,1,2,0,12,tantsupidu; tänutunne; isetegemine; hing
+2,2,1,1,0,2,1,1,0,12,tantsupidu; tänutunne; soomaa; isetegemine
+3,2,1,1,0,3,1,1,0,12,tantsupidu; tänutunne; soomaa; isetegemine; hing

@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,2,0,0,0,1,0,0,18,andrus; euroopa; saar
 0,0,2,0,0,0,1,0,0,18,andrus; euroopa; saar
 0,0,2,0,0,0,1,0,0,18,andrus; euroopa; saar
-0,0,3,0,0,0,1,0,0,18,andrus; euroopa; saar
-0,0,2,1,0,0,0,0,0,18,regioon; euroopa; saar
-0,0,1,1,0,0,0,0,0,18,regioon; saar
+1,0,3,0,0,0,1,0,0,18,andrus; euroopa; spordisõnum; saar
+0,0,2,1,0,0,0,1,0,18,spordisõnum; regioon; euroopa; saar
+0,0,1,1,0,0,0,1,0,18,spordisõnum; regioon; saar
 0,0,1,0,0,0,0,0,0,18,saar
 0,0,2,0,0,0,0,0,0,18,andrus; saar

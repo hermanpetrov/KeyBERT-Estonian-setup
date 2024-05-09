@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,6,3,3,7,5,8,7,13,heinrich; kaarel; luuleruum; tõlge; hoffmann; doktor; kahupea; pildiraamat; lugu; pseudonüüm
-6,6,5,3,3,8,5,9,7,13,heinrich; doktor; lugu; pseudonüüm; kaarel; luuleruum; tõlge; hoffmann; kahupea; pildiraamat
-5,5,5,3,3,8,5,9,7,13,heinrich; doktor; lugu; pseudonüüm; kaarel; luuleruum; tõlge; hoffmann; kahupea; pildiraamat
-7,5,4,1,3,7,5,9,7,13,heinrich; doktor; lugu; pseudonüüm; kaarel; luuleruum; tõlge; hoffmann; kahupea; pildiraamat
-6,6,4,2,3,7,5,8,7,13,heinrich; kaarel; luuleruum; tõlge; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-6,5,5,3,3,6,4,6,6,13,heinrich; kaarel; luuleruum; tõlge; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-2,5,6,3,5,5,4,5,6,13,heinrich; kaarel; luuleruum; tõlge; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-3,5,4,4,4,2,3,4,7,13,heinrich; tõlge; kaarel; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-3,3,5,3,5,2,3,4,6,13,heinrich; kaarel; luuleruum; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-4,3,3,3,5,2,3,3,5,13,heinrich; luuleruum; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
-4,3,5,3,5,1,2,3,5,13,heinrich; kaarel; hoffmann; doktor; kahupea; lugu; pildiraamat; pseudonüüm
+6,6,6,3,3,7,5,8,7,13,heinrich; kahupea; pildiraamat; hoffmann; doktor; luuleruum; kaarel; tõlge; lugu; pseudonüüm
+6,6,5,3,3,8,5,9,7,13,heinrich; hoffmann; doktor; kaarel; tõlge; pseudonüüm; kahupea; pildiraamat; luuleruum; lugu
+5,5,5,3,3,8,5,9,7,13,heinrich; hoffmann; doktor; kaarel; tõlge; pseudonüüm; kahupea; pildiraamat; luuleruum; lugu
+7,5,4,1,3,7,5,9,7,13,heinrich; hoffmann; doktor; kaarel; tõlge; pseudonüüm; kahupea; pildiraamat; luuleruum; lugu
+6,6,4,2,3,7,5,8,7,13,heinrich; kahupea; pildiraamat; hoffmann; luuleruum; doktor; kaarel; tõlge; lugu; pseudonüüm
+6,5,5,3,3,6,4,6,6,13,heinrich; kahupea; pildiraamat; hoffmann; luuleruum; doktor; kaarel; tõlge; lugu; pseudonüüm
+2,5,6,3,5,5,4,5,6,13,kahupea; heinrich; pildiraamat; hoffmann; doktor; luuleruum; kaarel; tõlge; lugu; pseudonüüm
+3,5,4,4,4,2,3,4,7,13,heinrich; kahupea; pildiraamat; hoffmann; doktor; kaarel; tõlge; lugu; pseudonüüm
+3,3,5,3,5,2,3,4,6,13,heinrich; kahupea; pildiraamat; hoffmann; doktor; luuleruum; kaarel; lugu; pseudonüüm
+4,3,3,3,5,2,3,3,5,13,heinrich; kahupea; pildiraamat; hoffmann; doktor; luuleruum; lugu; pseudonüüm
+4,3,5,3,5,1,2,3,5,13,heinrich; kahupea; pildiraamat; hoffmann; doktor; kaarel; lugu; pseudonüüm

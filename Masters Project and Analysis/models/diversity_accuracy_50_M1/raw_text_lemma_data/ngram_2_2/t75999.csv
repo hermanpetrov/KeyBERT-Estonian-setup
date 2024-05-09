@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,0,0,3,0,0,1,1,12,eriline; mass; raha; lavakas; näitleja; hall
-3,3,0,0,3,0,0,1,1,12,eriline; mass; raha; lavakas; näitleja; hall
-3,3,0,0,3,0,0,1,1,12,eriline; mass; raha; lavakas; näitleja; hall
-3,3,0,0,3,0,0,1,1,12,eriline; mass; raha; lavakas; näitleja; hall
-3,3,1,0,3,0,0,2,1,12,raha; lavakas; näitleja; hall; eriline; mass; tasuline
-0,3,0,0,3,1,0,4,1,12,kristi; raha; näitleja; hall; eriline; mass; aule
-3,3,2,0,3,2,3,4,1,12,kristi; raha; lavakas; julgus; näitleja; hall; eriline; mass; aule; tasuline
-4,4,4,4,2,3,2,3,1,12,kristi; raha; lavakas; julgus; näitleja; eriline; mass; aule; tasuline
-3,2,2,2,3,3,0,3,1,12,kristi; raha; lavakas; julgus; hall; näitleja; eriline; mass; aule
-4,2,5,0,3,2,0,3,2,12,kristi; raha; lavakas; näitleja; hall; eriline; mass; aule; tasuline
-3,1,5,4,3,2,0,2,2,12,kristi; raha; lavakas; näitleja; hall; eriline; mass; aule; tasuline
+3,3,1,2,3,1,1,2,1,12,ülikool; hall; eriline; näitleja; mass; raha; ajakirjandus; lavakas
+3,3,1,2,3,1,1,2,1,12,ülikool; hall; eriline; näitleja; mass; raha; ajakirjandus; lavakas
+3,3,1,2,3,1,1,2,1,12,ülikool; hall; eriline; näitleja; mass; raha; ajakirjandus; lavakas
+3,3,2,2,3,1,1,2,1,12,ülikool; hall; eriline; näitleja; mass; raha; ajakirjandus; lavakas
+3,3,3,2,3,1,1,3,1,12,ülikool; hall; eriline; näitleja; tasuline; mass; raha; ajakirjandus; lavakas
+0,3,2,2,3,2,1,5,1,12,ülikool; hall; eriline; näitleja; aule; mass; raha; ajakirjandus; kristi
+3,3,3,1,3,3,4,5,1,12,julgus; ülikool; hall; eriline; näitleja; aule; mass; tasuline; raha; ajakirjandus; kristi; lavakas
+4,4,5,5,2,3,3,4,1,12,julgus; ülikool; eriline; näitleja; aule; mass; tasuline; raha; ajakirjandus; kristi; lavakas
+4,2,3,3,3,3,1,4,1,12,julgus; ülikool; hall; eriline; näitleja; aule; lavakas; mass; raha; ajakirjandus; kristi
+4,2,6,2,3,2,1,4,2,12,ülikool; hall; eriline; näitleja; aule; tasuline; mass; raha; ajakirjandus; kristi; lavakas
+3,1,6,5,3,2,0,3,2,12,ülikool; hall; näitleja; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi; lavakas

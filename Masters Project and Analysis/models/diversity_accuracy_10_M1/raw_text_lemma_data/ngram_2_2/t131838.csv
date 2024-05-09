@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,2,1,0,0,0,0,17,ameerika; biitel; bbc
-1,0,1,2,1,0,0,0,0,17,ameerika; biitel; bbc
-1,0,1,2,1,0,0,0,0,17,ameerika; biitel; bbc
-1,0,1,2,1,0,0,0,0,17,ameerika; biitel; bbc
-1,0,1,2,1,0,0,0,0,17,ameerika; biitel; bbc
-1,0,1,2,1,0,0,1,0,17,ameerika; biitel; bbc; epstein
-1,0,1,2,1,1,0,1,0,17,ameerika; biitel; bbc; epstein
-0,0,0,1,1,0,0,1,0,17,biitel; bbc; epstein
-0,2,1,1,1,1,1,1,0,17,ameerika; fänn; maania; epstein; mccartney; bbc; lennon; biitel
-0,0,1,2,1,2,1,1,0,17,ameerika; fänn; ivo; biitel; bbc; epstein
-1,0,0,1,1,1,0,1,0,17,fänn; ameerika; biitel; bbc; epstein
+1,0,1,2,1,0,0,0,0,17,bbc; ameerika; biitel
+1,0,1,2,1,0,0,0,0,17,bbc; ameerika; biitel
+1,0,1,2,1,0,0,0,0,17,bbc; ameerika; biitel
+1,0,1,2,1,0,0,0,0,17,bbc; ameerika; biitel
+1,0,1,2,1,0,0,0,0,17,bbc; ameerika; biitel
+1,0,1,2,1,0,0,1,0,17,bbc; ameerika; epstein; biitel
+1,0,1,2,1,1,0,1,0,17,biitel; bbc; ameerika; epstein
+0,0,0,1,1,0,0,1,0,17,bbc; epstein; biitel
+0,2,1,1,1,1,1,1,0,17,maania; mccartney; lennon; fänn; epstein; biitel; bbc; ameerika
+0,0,1,2,1,2,1,1,0,17,fänn; epstein; biitel; bbc; ameerika; ivo
+1,0,0,1,1,1,0,1,0,17,epstein; fänn; bbc; ameerika; biitel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,2,2,0,0,2,2,2,1,10,äri; ameerika; tähendus; sport
-3,3,3,1,0,2,2,2,1,10,äri; ameerika; tähendus; sport; show; euroopa
-2,4,3,3,0,3,3,2,1,10,äri; ameerika; show; sport; tähendus; võitlus
-2,3,2,2,0,3,2,3,1,10,ameerika; show; sport; tähendus; meedia; võitlus; euroopa
-2,3,2,0,0,3,2,4,1,10,ameerika; show; sport; tähendus; võitlus; euroopa
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,2,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,3,3,1,0,2,2,2,1,10,tähendus; jalgpall; sport; äri; ameerika
+3,4,4,2,0,2,2,2,1,10,tähendus; jalgpall; euroopa; äri; ameerika; sport; show
+2,5,4,3,0,3,3,2,1,10,tähendus; jalgpall; äri; ameerika; sport; võitlus; show
+2,4,2,2,0,3,3,3,1,10,tähendus; jalgpall; euroopa; ameerika; sport; võitlus; show; meedia
+2,4,3,0,0,3,3,5,1,10,tähendus; jalgpall; euroopa; ameerika; sport; võitlus; show

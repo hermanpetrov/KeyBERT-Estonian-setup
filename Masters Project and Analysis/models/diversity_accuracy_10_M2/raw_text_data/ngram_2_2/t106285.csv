@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,2,2,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; hoffmann; pseudonüüm
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,2,1,0,1,0,0,1,0,13,doktor; pildiraamat; heinrich; lugu; pseudonüüm
-0,1,0,0,1,0,1,1,0,13,pildiraamat; lugu; pseudonüüm
-1,0,0,0,1,1,0,2,0,13,lugu; luuleruum; pseudonüüm
-0,0,1,0,1,0,0,1,0,13,heinrich; luuleruum; pseudonüüm
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,2,2,0,1,0,0,1,0,13,heinrich; pildiraamat; hoffmann; lugu; pseudonüüm; doktor
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,2,1,0,1,0,0,1,0,13,heinrich; pildiraamat; lugu; pseudonüüm; doktor
+0,1,0,0,1,0,1,1,0,13,lugu; pseudonüüm; pildiraamat
+1,0,0,0,1,1,0,2,0,13,lugu; pseudonüüm; luuleruum
+0,0,1,0,1,0,0,1,0,13,pseudonüüm; luuleruum; heinrich
 0,0,0,0,1,0,0,0,0,13,pseudonüüm

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,1,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,1,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,1,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,1,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,0,0,0,2,0,0,0,0,10,ants; pavel; signe
-2,0,0,0,2,0,0,0,0,10,ants; pavel; signe
-0,1,0,0,2,0,0,0,0,10,tartu; pavel; signe
-0,0,1,0,2,0,1,1,0,10,pavel; ants; signe
-0,0,1,0,2,0,0,1,0,10,ants; pavel; signe
-0,0,1,0,2,0,0,0,1,10,ants; pavel; signe
+2,1,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,1,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,1,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,1,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,1,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,0,0,0,2,0,0,0,0,10,signe; pavel; ants
+2,0,0,0,2,0,0,0,0,10,signe; pavel; ants
+0,1,0,0,2,0,0,0,0,10,signe; tartu; pavel
+0,0,1,0,2,0,1,1,0,10,signe; pavel; ants
+0,0,1,0,2,0,0,1,0,10,signe; pavel; ants
+0,0,1,0,2,0,0,0,1,10,signe; pavel; ants

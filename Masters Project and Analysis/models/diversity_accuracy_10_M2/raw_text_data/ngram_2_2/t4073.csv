@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,2,2,1,0,12,inflatsioon; eesti
 0,0,1,0,0,2,2,0,0,12,inflatsioon; eesti
 1,0,1,0,0,2,2,0,0,12,inflatsioon; eesti
-0,1,0,0,0,3,2,0,0,12,eurole; inflatsioon; eesti
-1,1,1,1,0,3,2,0,0,12,eurole; inflatsioon; eesti
-1,0,0,1,0,3,3,0,0,12,eurole; inflatsioon; eesti
-1,0,0,1,0,3,3,1,0,12,eurole; inflatsioon; eesti
+0,1,0,0,0,3,2,0,0,12,eesti; eurole; inflatsioon
+1,1,1,1,0,3,2,0,0,12,eesti; eurole; inflatsioon
+1,0,0,1,0,3,3,0,0,12,eesti; eurole; inflatsioon
+1,0,0,1,0,3,3,1,0,12,eesti; eurole; inflatsioon

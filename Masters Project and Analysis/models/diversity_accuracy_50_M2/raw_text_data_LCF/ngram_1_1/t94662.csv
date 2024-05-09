@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,4,0,1,2,3,2,0,18,tallinna; kalevi; koostöökeskus; staadion; äkkrünnaku; pärt; sadam
-1,1,4,0,1,2,3,2,0,18,tallinna; kalevi; koostöökeskus; staadion; äkkrünnaku; pärt; sadam
-1,1,4,0,1,2,3,2,0,18,tallinna; kalevi; koostöökeskus; staadion; äkkrünnaku; pärt; sadam
-1,1,3,0,1,2,3,1,0,18,tallinna; koostöökeskus; kalevi; staadion; äkkrünnaku; pärt; sadam
-1,1,1,0,1,1,2,0,0,18,tallinna; koostöökeskus; sadam; kalevi; äkkrünnaku
-0,1,1,0,1,0,2,0,0,18,tallinna; koostöökeskus; sadam; kalevi
-0,1,2,0,1,1,1,2,0,18,tallinna; koostöökeskus; sadam; kalevi; staadion; pärt; toomas
-1,1,1,0,1,2,1,1,0,18,tallinna; kalevi; sadam; staadion; pärt; toomas
-0,1,2,0,1,1,1,1,0,18,tallinna; kalevi; sadam; staadion; pärt
-0,1,0,0,0,1,0,0,0,18,tallinna; staadion
-0,0,3,1,0,1,1,0,0,18,kalevi; ilves; staadion; arvo
+1,1,4,0,1,3,2,0,0,18,staadion; äkkrünnaku; pärt; kalevi; sadam; koostöökeskus; tallinna
+1,1,4,0,1,3,2,0,0,18,staadion; äkkrünnaku; pärt; kalevi; sadam; koostöökeskus; tallinna
+1,1,4,0,1,3,2,0,0,18,staadion; äkkrünnaku; pärt; kalevi; sadam; koostöökeskus; tallinna
+1,1,3,0,1,3,1,0,0,18,staadion; äkkrünnaku; pärt; kalevi; sadam; koostöökeskus; tallinna
+1,1,1,0,1,2,0,0,0,18,kalevi; äkkrünnaku; sadam; koostöökeskus; tallinna
+0,1,1,0,1,2,0,0,0,18,kalevi; sadam; koostöökeskus; tallinna
+0,1,2,0,1,1,2,0,0,18,tallinna; kalevi; pärt; koostöökeskus; sadam; toomas
+1,1,1,0,1,1,1,0,0,18,pärt; kalevi; sadam; tallinna; toomas
+0,1,2,0,1,1,1,0,0,18,staadion; kalevi; pärt; tallinna; sadam
+0,1,0,0,0,0,0,0,0,18,tallinna
+0,0,3,1,0,1,0,0,0,18,staadion; arvo; kalevi; ilves

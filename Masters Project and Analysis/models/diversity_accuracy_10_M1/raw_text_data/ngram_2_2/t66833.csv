@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,2,1,1,1,0,15,eesti; steinway; tamberg
-0,0,1,0,2,1,1,1,0,15,eesti; steinway; tamberg
-0,0,1,0,2,1,1,1,0,15,eesti; steinway; tamberg
-0,0,1,0,2,1,1,1,0,15,eesti; steinway; tamberg
-0,0,4,0,2,1,1,1,0,15,steinfeld; muusika; tamberg; steinway; eesti; nele-eva
-0,0,4,0,2,1,1,1,0,15,festival; steinfeld; tamberg; steinway; eesti; nele-eva
-2,0,3,0,2,1,2,1,0,15,steinfeld; nüüdismuusika; tamberg; steinway; eesti; nele-eva
-2,0,3,0,2,1,2,0,0,15,steinfeld; nüüdismuusika; muusika; tamberg; steinway; eesti; nele-eva
-0,2,2,0,2,1,2,0,0,15,steinfeld; nüüdismuusika; tamberg; steinway; eesti; nele-eva
-0,0,3,0,2,1,2,0,1,15,steinfeld; tamberg; steinway; eesti; nele-eva
-0,0,2,0,2,0,2,0,1,15,steinfeld; tamberg; eesti; steinway; nele-eva
+0,0,1,0,2,1,1,1,0,15,tamberg; steinway; eesti
+0,0,1,0,2,1,1,1,0,15,tamberg; steinway; eesti
+0,0,1,0,2,1,1,1,0,15,tamberg; steinway; eesti
+0,0,1,0,2,1,1,1,0,15,tamberg; steinway; eesti
+0,0,4,0,2,1,1,1,0,15,muusika; steinfeld; eesti; nele-eva; tamberg; steinway
+0,0,4,0,2,1,1,1,0,15,steinfeld; eesti; nele-eva; tamberg; steinway; festival
+2,0,3,0,2,1,2,1,0,15,steinfeld; eesti; nele-eva; tamberg; steinway; nüüdismuusika
+2,0,3,0,2,1,2,0,0,15,muusika; steinfeld; eesti; nele-eva; tamberg; steinway; nüüdismuusika
+0,2,2,0,2,1,2,0,0,15,steinfeld; eesti; nele-eva; tamberg; steinway; nüüdismuusika
+0,0,3,0,2,1,2,0,1,15,steinfeld; eesti; nele-eva; tamberg; steinway
+0,0,2,0,2,0,2,0,1,15,steinfeld; tamberg; nele-eva; eesti; steinway

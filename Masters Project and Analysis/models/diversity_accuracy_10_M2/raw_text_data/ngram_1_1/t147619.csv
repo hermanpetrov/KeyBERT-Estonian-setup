@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,1,13,lesk; mõrane
 0,1,0,0,0,0,0,0,0,13,mõrane
 0,1,0,0,0,0,0,0,0,13,mõrane
-0,1,0,0,0,1,0,0,0,13,betti; mõrane
-1,1,0,0,0,1,0,0,1,13,lesk; betti; mõrane; tütarlaste
-1,1,0,1,0,1,0,0,0,13,betti; mõrane; tütarlaste
+0,1,0,0,0,1,0,0,0,13,mõrane; betti
+1,1,0,0,0,1,0,0,1,13,lesk; mõrane; betti; tütarlaste
+1,1,0,1,0,1,0,0,0,13,mõrane; betti; tütarlaste

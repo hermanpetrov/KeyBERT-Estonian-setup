@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,5,7,3,5,6,6,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-5,7,6,7,3,5,6,6,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-5,7,6,7,2,6,6,6,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-5,7,6,7,3,7,7,6,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-7,8,6,7,3,7,7,7,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-7,8,7,8,5,7,7,8,8,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-7,8,9,9,8,7,8,8,8,13,mets; raha; aeg; vene; hainsalu; süvenema; vägi; lehte; luule; tartu; sõna; kirjutama
-7,9,9,9,8,8,9,8,8,13,mets; raha; aeg; vene; hainsalu; süvenema; vägi; lehte; luule; tartu; sõna; kirjutama
-7,9,8,10,9,8,6,7,7,13,mets; raha; aeg; vene; hainsalu; vägi; lehte; luule; tartu; sõna; kirjutama
-6,8,7,10,9,6,8,9,7,13,mets; raha; aeg; vene; hainsalu; süvenema; vägi; lehte; luule; tartu; sõna; kirjutama
-8,9,10,10,9,8,7,7,8,13,mets; raha; aeg; vene; hainsalu; süvenema; vägi; lehte; luule; tartu; sõna; kirjutama
+6,8,5,8,3,5,6,6,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+6,8,6,8,3,5,6,6,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+6,8,6,8,2,6,6,6,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+6,8,6,8,3,7,7,6,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+8,9,6,8,3,7,7,7,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+7,8,7,9,5,7,7,9,8,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+8,8,9,9,8,8,8,9,8,13,aeg; süvenema; hainsalu; tartu; raha; mets; üheksavägine; luule; lehte; vägi; vene; kirjutama; sõna
+8,9,10,9,8,9,9,9,8,13,aeg; süvenema; hainsalu; tartu; raha; mets; üheksavägine; luule; lehte; vägi; vene; kirjutama; sõna
+7,9,9,10,9,9,6,7,7,13,aeg; hainsalu; tartu; raha; mets; üheksavägine; lehte; luule; vägi; vene; kirjutama; sõna
+6,8,8,10,9,7,8,9,7,13,aeg; süvenema; hainsalu; tartu; raha; mets; üheksavägine; luule; lehte; vägi; vene; kirjutama; sõna
+8,9,11,10,9,9,7,8,8,13,aeg; süvenema; hainsalu; tartu; raha; mets; üheksavägine; luule; lehte; vägi; vene; kirjutama; sõna

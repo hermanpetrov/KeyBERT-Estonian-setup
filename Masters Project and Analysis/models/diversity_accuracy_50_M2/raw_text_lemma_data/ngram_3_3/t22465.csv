@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; cern; šveits; keel; kanton
-7,4,2,5,3,3,2,2,2,12,juust; genf; mägi; šveits; keel; kanton; järv
-5,6,2,6,2,3,2,2,1,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-2,3,2,7,2,4,2,3,1,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-2,2,3,5,3,3,1,3,2,12,juust; genf; mägi; šveits; cern; kanton; järv
-2,4,4,5,5,3,2,3,2,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
+5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; keel; kanton; šveits; cern
+5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; keel; kanton; šveits; cern
+5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; keel; kanton; šveits; cern
+5,3,2,2,2,2,2,2,2,12,juust; genf; mägi; keel; kanton; šveits; cern
+5,4,2,2,2,2,2,2,2,12,juust; genf; mägi; keel; maksusüsteem; kanton; šveits; cern
+5,4,2,2,2,2,2,3,2,12,juust; genf; mägi; keel; maksusüsteem; neutraliteet; kanton; šveits; cern
+7,5,3,6,3,3,2,3,2,12,juust; genf; mägi; keel; maksusüsteem; kanton; järv; šveits
+5,7,2,7,2,4,2,2,1,12,juust; genf; mägi; rahvahääletus; maksusüsteem; suusatamine; neutraliteet; kanton; keel; järv; šveits; cern
+2,4,3,8,2,4,2,4,1,12,juust; genf; mägi; rahvahääletus; maksusüsteem; suusatamine; keel; kanton; järv; šveits; cern
+2,2,4,6,3,3,1,3,2,12,juust; genf; mägi; maksusüsteem; kanton; järv; šveits; cern
+2,4,5,5,6,3,2,3,3,12,juust; genf; mägi; rahvahääletus; maksusüsteem; keel; kanton; järv; šveits; cern

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,2,1,0,2,2,2,0,11,religioon; püha; sekularism; üliintellekt
-3,0,2,1,0,2,2,2,0,11,religioon; püha; sekularism; üliintellekt
-3,0,2,1,0,2,2,2,0,11,religioon; püha; sekularism; üliintellekt
-3,0,0,1,0,2,2,2,0,11,religioon; püha; sekularism; üliintellekt
-3,0,0,1,0,2,2,1,0,11,religioon; püha; sekularism; üliintellekt
-2,0,1,0,0,1,0,0,0,11,püha; sekularism; üliintellekt
-3,1,1,0,0,1,1,1,0,11,religioon; usutunne; püha; sekularism; üliintellekt
+3,0,2,1,0,2,2,2,0,11,üliintellekt; püha; religioon; sekularism
+3,0,2,1,0,2,2,2,0,11,üliintellekt; püha; religioon; sekularism
+3,0,2,1,0,2,2,2,0,11,üliintellekt; püha; religioon; sekularism
+3,0,0,1,0,2,2,2,0,11,üliintellekt; püha; religioon; sekularism
+3,0,0,1,0,2,2,1,0,11,üliintellekt; püha; religioon; sekularism
+2,0,1,0,0,1,0,0,0,11,üliintellekt; püha; sekularism
+3,1,1,0,0,1,1,1,0,11,üliintellekt; püha; usutunne; religioon; sekularism
 1,0,1,0,0,1,1,1,0,11,usutunne; püha; sekularism
-1,0,1,0,0,2,0,0,2,11,püha; sekularism; teadus
-0,0,0,0,0,1,0,0,1,11,püha; teadus
-0,0,2,0,0,2,0,0,1,11,tehnoloogiline; sekularism; püha; teadus
+1,0,1,0,0,2,0,0,2,11,teadus; püha; sekularism
+0,0,0,0,0,1,0,0,1,11,teadus; püha
+0,0,2,0,0,2,0,0,1,11,teadus; püha; tehnoloogiline; sekularism

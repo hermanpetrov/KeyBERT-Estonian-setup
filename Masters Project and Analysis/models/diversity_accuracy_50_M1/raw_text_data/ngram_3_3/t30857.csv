@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,2,1,1,3,5,1,14,psühhiaater; vaimuelu; fantaasia; tulviste; peeter; mäng; normet; reaalsus; dramaturg; ingo
-3,1,1,2,1,1,3,5,1,14,psühhiaater; vaimuelu; fantaasia; tulviste; peeter; mäng; normet; reaalsus; dramaturg; ingo
-3,1,1,2,1,1,3,5,1,14,psühhiaater; vaimuelu; fantaasia; tulviste; peeter; mäng; normet; reaalsus; dramaturg; ingo
-3,0,0,2,1,1,3,7,1,14,psühhiaater; vaimuelu; fantaasia; tulviste; peeter; mäng; normet; reaalsus; dramaturg; ingo
-3,0,1,2,1,2,3,6,1,14,psühhiaater; vaimuelu; fantaasia; tulviste; peeter; mäng; normet; reaalsus; dramaturg; ingo
-5,0,2,2,1,4,2,7,1,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; reaalsus; ingo
-3,2,3,4,3,6,6,6,1,14,psühhiaater; vaimuelu; tulviste; pulmad; peeter; ingo; normet; reaalsus; fantaasia
-1,2,2,0,4,2,4,5,1,14,psühhiaater; vaimuelu; fantaasia; marksism; pulmad; peeter; mäng; normet; reaalsus; ingo
-0,2,2,0,3,3,4,5,1,14,vaimuelu; fantaasia; psühhiaater; marksism; peeter; mäng; normet; ingo
-2,2,2,1,3,0,3,6,3,14,fantaasia; psühhiaater; tulviste; marksism; pulmad; peeter; normet; reaalsus; ingo
-2,0,0,1,1,3,2,4,3,14,psühhiaater; marksism; pulmad; peeter; ingo; normet; reaalsus; fantaasia
+3,1,1,2,1,1,3,5,1,14,peeter; dramaturg; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+3,1,1,2,1,1,3,5,1,14,peeter; dramaturg; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+3,1,1,2,1,1,3,5,1,14,peeter; dramaturg; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+3,0,0,2,1,1,3,7,1,14,peeter; dramaturg; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+3,0,1,2,1,2,3,6,1,14,peeter; dramaturg; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+5,0,2,2,1,4,2,7,1,14,peeter; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+3,2,3,4,3,6,6,6,1,14,peeter; reaalsus; fantaasia; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste
+1,2,2,0,4,2,4,5,1,14,peeter; marksism; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; pulmad; ingo; normet
+0,2,2,0,3,3,4,5,1,14,peeter; marksism; fantaasia; vaimuelu; psühhiaater; mäng; ingo; normet
+2,2,2,1,3,0,3,6,3,14,peeter; marksism; reaalsus; fantaasia; psühhiaater; pulmad; ingo; normet; tulviste
+2,0,0,1,1,3,2,4,3,14,peeter; marksism; reaalsus; fantaasia; psühhiaater; pulmad; ingo; normet

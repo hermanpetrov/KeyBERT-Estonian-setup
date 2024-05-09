@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,0,0,1,1,0,0,14,koalitsioon; harry; liivrand; välisminister; hansapanga
-2,1,2,0,0,1,1,0,0,14,koalitsioon; harry; liivrand; välisminister; hansapanga
-2,1,2,0,0,1,1,0,0,14,koalitsioon; harry; liivrand; välisminister; hansapanga
-2,1,2,0,0,1,1,0,0,14,koalitsioon; harry; liivrand; välisminister; hansapanga
-2,1,2,0,0,1,1,0,0,14,koalitsioon; harry; liivrand; välisminister; hansapanga
-2,1,1,1,0,1,1,1,0,14,tuumarelv; koalitsioon; harry; liivrand; välisminister; hansapanga
-1,1,1,0,0,0,1,0,0,14,koalitsioon; harry; hansapanga
-0,1,1,4,0,1,1,1,0,14,koalitsioon; välisminister; mälberg; hansapanga; mall
-1,1,1,3,0,1,1,1,0,14,tuumarelv; koalitsioon; harry; välisminister; mälberg; hansapanga; mall
-1,3,0,2,0,1,1,0,0,14,tuumarelv; koalitsioon; välisminister; mälberg; mall
-0,1,0,2,0,1,1,0,0,14,tuumarelv; koalitsioon; mälberg; mall
+2,1,2,0,0,1,1,0,0,14,hansapanga; liivrand; välisminister; harry; koalitsioon
+2,1,2,0,0,1,1,0,0,14,hansapanga; liivrand; välisminister; harry; koalitsioon
+2,1,2,0,0,1,1,0,0,14,hansapanga; liivrand; välisminister; harry; koalitsioon
+2,1,2,0,0,1,1,0,0,14,hansapanga; liivrand; välisminister; harry; koalitsioon
+2,1,2,0,0,1,1,0,0,14,hansapanga; liivrand; välisminister; harry; koalitsioon
+2,1,1,1,0,1,1,1,0,14,hansapanga; liivrand; välisminister; harry; tuumarelv; koalitsioon
+1,1,1,0,0,0,1,0,0,14,hansapanga; koalitsioon; harry
+0,1,1,4,0,1,1,1,0,14,hansapanga; välisminister; mall; mälberg; koalitsioon
+1,1,1,3,0,1,1,1,0,14,hansapanga; mall; välisminister; harry; koalitsioon; mälberg; tuumarelv
+1,3,0,2,0,1,1,0,0,14,välisminister; mall; koalitsioon; mälberg; tuumarelv
+0,1,0,2,0,1,1,0,0,14,mall; tuumarelv; mälberg; koalitsioon

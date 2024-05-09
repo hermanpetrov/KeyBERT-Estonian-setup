@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,1,0,0,1,1,1,1,12,teater; kapitalism
 1,0,1,0,0,1,1,1,1,12,teater; kapitalism
 1,0,1,0,0,1,1,1,1,12,teater; kapitalism
-1,0,0,0,0,2,2,1,1,12,teater; stoppard; kapitalism; klassika
-0,1,1,1,0,0,1,0,1,12,stoppard; kapitalism; teater; tsivilisatsioon; nüganen
-1,0,1,0,0,0,1,1,1,12,stoppard; kapitalism; kontsert; teater
-1,0,2,2,0,1,1,1,1,12,stoppard; elmo; kontsert; kapitalism; teater; tsivilisatsioon
-0,0,1,1,0,1,2,1,1,12,stoppard; kapitalism; kontsert; tsivilisatsioon
+1,0,0,0,0,2,2,1,1,12,kapitalism; stoppard; teater; klassika
+0,1,1,1,0,0,1,0,1,12,tsivilisatsioon; stoppard; nüganen; teater; kapitalism
+1,0,1,0,0,0,1,2,1,12,stoppard; iseseisvuspäev; kontsert; teater; kapitalism
+1,0,2,2,0,1,1,2,1,12,tsivilisatsioon; stoppard; kapitalism; elmo; iseseisvuspäev; teater; kontsert
+0,0,1,1,0,1,3,2,1,12,tsivilisatsioon; stoppard; kapitalism; iseseisvuspäev; kontsert

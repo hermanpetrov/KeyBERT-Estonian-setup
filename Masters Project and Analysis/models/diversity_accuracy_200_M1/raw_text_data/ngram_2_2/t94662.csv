@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,7,3,3,4,4,6,1,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; hendrik; petseri; arvo
-5,2,7,3,3,4,4,5,1,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; hendrik; petseri; arvo
-4,2,6,3,3,4,4,5,1,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; hendrik; petseri; arvo
-4,2,7,3,3,3,4,4,3,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
-5,2,6,3,3,2,4,3,3,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
-5,2,8,5,4,5,3,4,3,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
-5,4,8,7,5,4,3,7,3,18,kalevi; rebane; ukraina; hendrik; ilves; staadion; pärt; kärdla; toomas; mari; petseri; arvo
-6,4,8,5,5,5,2,4,3,18,arvo; kalevi; staadion; pärt; kärdla; toomas; mari; hendrik; petseri; ilves; ukraina
-4,4,8,4,4,5,3,3,2,18,kalevi; staadion; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
-4,3,5,4,7,5,2,7,5,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
-3,2,6,4,6,5,3,8,5,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; mari; hendrik; petseri; ilves; arvo
+5,2,7,3,3,4,4,6,1,18,staadion; ukraina; petseri; pärt; toomas; rebane; kalevi; hendrik; arvo; kärdla
+5,2,7,3,3,4,4,5,1,18,staadion; ukraina; petseri; pärt; toomas; rebane; kalevi; hendrik; arvo; kärdla
+4,2,6,3,3,4,4,5,1,18,staadion; ukraina; petseri; pärt; toomas; rebane; kalevi; hendrik; arvo; kärdla
+4,2,7,3,3,3,4,4,3,18,staadion; ukraina; petseri; mari; pärt; toomas; ilves; rebane; kalevi; hendrik; arvo; kärdla
+5,2,6,3,3,2,4,3,3,18,staadion; petseri; ukraina; mari; pärt; toomas; ilves; rebane; kalevi; hendrik; arvo; kärdla
+5,2,8,5,4,5,3,4,3,18,staadion; ukraina; mari; petseri; pärt; toomas; ilves; rebane; kalevi; hendrik; arvo; kärdla
+5,4,8,7,5,4,3,7,3,18,ukraina; kalevi; kärdla; staadion; petseri; mari; pärt; toomas; ilves; rebane; hendrik; arvo
+6,4,8,5,5,5,2,4,3,18,mari; petseri; ukraina; staadion; pärt; toomas; ilves; hendrik; kalevi; arvo; kärdla
+4,4,8,4,4,5,3,3,2,18,mari; ukraina; staadion; petseri; toomas; ilves; kalevi; hendrik; arvo; kärdla
+4,3,5,4,7,5,2,7,5,18,staadion; ukraina; petseri; mari; pärt; toomas; ilves; rebane; kalevi; hendrik; arvo; kärdla
+3,2,6,4,6,5,3,8,5,18,staadion; mari; petseri; ukraina; pärt; toomas; ilves; rebane; kalevi; hendrik; arvo; kärdla

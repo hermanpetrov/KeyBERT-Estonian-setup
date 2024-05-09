@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,turismitalu; kodukohvik; koolitus
-0,1,0,1,1,1,0,1,1,11,kristi; turismitalu; kodukohvik; koolitus
-0,1,0,0,1,0,0,1,1,11,turismitalu; kodukohvik
-1,1,1,0,1,1,0,2,0,11,turismitalu; mulgi; kodukohvik
-2,2,1,0,0,0,1,2,0,11,mulgi; kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; koolitus
+0,1,0,1,1,0,1,1,0,11,kodukohvik; turismitalu; kristi; koolitus
+0,1,0,0,1,0,1,1,0,11,kodukohvik; turismitalu
+1,1,1,0,1,0,2,0,0,11,kodukohvik; mulgi; turismitalu
+2,2,1,0,0,1,2,0,0,11,kodukohvik; koolitus; mulgi; turismitalu

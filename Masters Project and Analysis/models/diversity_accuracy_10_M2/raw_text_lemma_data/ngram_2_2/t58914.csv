@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,1,0,0,0,12,sadam; rand
 0,0,1,0,0,1,0,0,0,12,sadam; rand
 0,0,1,0,0,0,0,1,0,12,sadam; rand
-0,1,1,0,0,0,0,0,0,12,tamm; sadam
-1,3,0,1,0,1,1,1,0,12,sadam; prognoos; mageveehorisont; rand; tamm; tsükkel
-0,0,0,1,0,1,0,1,0,12,sadam; rand
-0,1,0,0,0,1,0,1,0,12,prognoos; tsükkel; rand
-0,0,0,0,0,0,0,1,0,12,rand
-0,0,0,0,0,0,0,0,0,12,
+0,1,1,0,0,0,0,0,0,12,sadam; tamm
+1,3,0,1,0,1,1,1,0,12,rand; tamm; prognoos; mageveehorisont; sadam; tsükkel
+0,0,0,2,0,1,0,1,0,12,sadam; kasvuhooneefekt; rand
+0,1,0,0,0,1,0,1,0,12,rand; prognoos; tsükkel
+0,0,0,1,0,0,0,1,0,12,rand; elukvaliteet
+0,0,0,1,0,0,0,0,0,12,elukvaliteet

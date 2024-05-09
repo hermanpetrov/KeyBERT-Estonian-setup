@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,3,3,0,5,5,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-4,5,5,4,0,5,5,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-4,5,6,4,1,5,5,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-4,4,6,4,1,5,5,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-5,4,6,4,1,5,5,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-5,4,6,4,2,5,4,4,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-3,5,6,3,1,3,5,5,2,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-3,5,6,3,3,1,4,4,2,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-3,5,5,2,4,2,2,5,3,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-2,6,5,1,4,2,2,5,1,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
-2,6,6,1,4,3,0,5,2,11,haapsalu; raadio; viktoriin; estraadiorkester; varietee; muusikasaadete
+4,5,3,3,0,5,5,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+4,5,5,4,0,5,5,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+4,5,6,4,1,5,5,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+4,4,6,4,1,5,5,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+5,4,6,4,1,5,5,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+5,4,6,4,2,5,4,4,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+3,5,6,3,1,3,5,5,2,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+3,5,6,3,3,1,4,4,2,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+3,5,5,2,4,2,2,5,3,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+2,6,5,1,4,2,2,5,1,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester
+2,6,6,1,4,3,0,5,2,11,viktoriin; varietee; raadio; haapsalu; muusikasaadete; estraadiorkester

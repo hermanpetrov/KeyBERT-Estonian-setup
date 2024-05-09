@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,6,5,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-4,6,5,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-4,6,5,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-4,6,5,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-4,7,6,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-6,7,6,3,5,4,3,8,1,11,m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-6,6,7,4,5,5,4,8,1,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-3,5,6,4,5,5,3,6,1,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-5,5,2,6,5,5,5,7,1,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-5,4,5,4,6,5,3,4,1,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; queen
-6,5,4,3,6,5,5,6,3,11,stuudio; m; queen; šokolaad; raadio; lugu; ansambel; agent; plaat; album
+4,6,5,3,5,3,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+4,6,5,3,5,3,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+4,6,5,3,5,3,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+4,6,5,3,5,3,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+4,7,6,3,5,3,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+6,7,6,3,5,3,8,1,0,11,plaat; agent; raadio; ansambel; album; šokolaad; m; lugu; queen
+6,6,7,4,5,4,8,1,0,11,agent; raadio; ansambel; album; šokolaad; m; stuudio; lugu; queen
+3,5,6,4,5,3,6,1,0,11,agent; raadio; ansambel; šokolaad; stuudio; m; lugu; queen
+5,5,2,6,5,5,7,1,0,11,agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+5,4,5,4,6,3,4,1,0,11,agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+6,5,4,3,6,5,6,3,0,11,agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen

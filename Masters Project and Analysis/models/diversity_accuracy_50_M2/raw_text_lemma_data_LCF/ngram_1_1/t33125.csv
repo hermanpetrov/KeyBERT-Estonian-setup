@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,0,1,1,18,erakond; strandberg; valimine
-0,0,1,0,0,1,0,1,1,18,erakond; strandberg; valimine
-0,0,0,0,0,1,0,1,1,18,erakond; strandberg
-0,0,0,0,0,1,0,1,1,18,erakond; strandberg
-0,0,0,0,0,1,0,1,1,18,erakond; strandberg
-0,0,0,0,0,1,1,1,1,18,erakond; voldemar; strandberg
-0,0,0,0,0,0,1,1,1,18,erakond; voldemar; strandberg
-0,0,1,0,0,1,1,2,1,18,erakond; koalitsioon; rüütel; voldemar; strandberg
-0,0,1,0,0,1,0,3,1,18,erakond; koalitsioon; rüütel; tarmo; voldemar; strandberg
-0,0,1,0,0,0,2,1,1,18,rüütel; tarmo; voldemar; strandberg
-0,0,1,0,0,0,2,1,0,18,erakond; voldemar; strandberg; tarmo
+0,0,1,0,0,1,0,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; strandberg; valimine; erakond; rahvaliit
+0,0,1,0,0,1,0,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; strandberg; valimine; erakond; rahvaliit
+0,0,0,0,0,1,0,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; strandberg; erakond; rahvaliit
+0,0,0,0,0,1,0,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; strandberg; erakond; rahvaliit
+0,0,0,0,0,1,0,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; strandberg; erakond; rahvaliit
+0,0,0,0,0,1,1,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; voldemar; strandberg; erakond; rahvaliit
+1,0,0,0,0,1,1,3,3,18,sotsiaaldemokraatlik; rahvusringhääling; voldemar; strandberg; erakond; rahvaliit
+1,0,1,0,0,2,2,4,3,18,sotsiaaldemokraatlik; strandberg; erakond; rüütel; rahvusringhääling; voldemar; rahvaliit; koalitsioon
+1,1,1,1,0,1,1,4,3,18,sotsiaaldemokraatlik; strandberg; erakond; rüütel; rahvusringhääling; voldemar; tarmo; rahvaliit; koalitsioon
+1,1,1,1,0,1,3,1,3,18,sotsiaaldemokraatlik; strandberg; rüütel; rahvusringhääling; tarmo; voldemar; rahvaliit
+2,1,1,1,0,0,3,1,1,18,sotsiaaldemokraatlik; strandberg; rahvusringhääling; tarmo; voldemar; erakond; rahvaliit

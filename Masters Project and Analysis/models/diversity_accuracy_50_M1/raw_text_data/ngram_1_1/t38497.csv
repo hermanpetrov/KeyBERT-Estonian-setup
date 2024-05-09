@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,0,1,3,1,1,15,keel; õppimine; eesti; keele
-0,0,3,0,0,1,3,1,1,15,keel; õppimine; eesti; keele
-0,0,3,0,0,1,3,1,1,15,keel; õppimine; eesti; keele
+0,0,3,0,0,1,3,1,1,15,õppimine; keel; eesti; keele
+0,0,3,0,0,1,3,1,1,15,õppimine; keel; eesti; keele
+0,0,3,0,0,1,3,1,1,15,õppimine; keel; eesti; keele
 0,0,3,0,0,1,3,1,1,15,keel; eesti; keele
 0,0,2,0,0,1,3,1,1,15,keel; eesti; keele
-0,0,2,0,0,1,2,0,1,15,keel; õppimine; eesti
-0,1,1,0,0,1,0,1,1,15,keel; soome; õppimine; eesti
-0,1,0,0,0,0,1,1,1,15,keel; laen; eesti; johannes
-0,0,0,0,0,0,1,1,1,15,keel; eesti; johannes
-0,0,0,0,0,0,1,2,1,15,keel; võimatu; eesti; johannes
-0,0,0,0,0,0,1,0,1,15,eesti; johannes
+0,0,2,0,0,1,2,0,1,15,õppimine; keel; eesti
+0,1,1,0,0,1,0,1,1,15,õppimine; keel; soome; eesti
+0,1,0,0,0,0,1,1,1,15,eesti; keel; johannes; laen
+0,0,0,0,0,0,1,1,1,15,keel; johannes; eesti
+0,0,0,0,0,0,1,2,1,15,keel; johannes; võimatu; eesti
+0,0,0,0,0,0,1,0,1,15,johannes; eesti

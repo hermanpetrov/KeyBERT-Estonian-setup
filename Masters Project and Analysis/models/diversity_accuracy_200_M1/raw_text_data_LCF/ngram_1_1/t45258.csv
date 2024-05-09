@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,9,3,0,3,4,4,4,17,festival; salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; vare; kliimamuudatused; steiner; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-6,4,8,3,0,4,6,4,4,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-6,4,9,3,1,3,4,4,4,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-6,4,8,3,1,3,4,4,4,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-5,4,7,4,2,6,6,4,5,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; festival; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-4,4,6,3,2,4,4,5,5,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; festival; pärimusmuusika; põllumajandusprojekt; kliimamuudatused; viljandi
-3,4,4,5,4,8,6,4,5,17,ligi; salme; venemaa; steiner; presidendivalimised; kai; jürgen; kreeka; festival; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-2,3,5,6,5,8,9,9,4,17,ligi; salme; venemaa; steiner; presidendivalimised; kai; jürgen; kreeka; festival; põllumajandusprojekt; vare; kliimamuudatused; viljandi
-1,4,3,7,5,9,7,6,4,17,ligi; salme; venemaa; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; festival; pärimusmuusika; põllumajandusprojekt; vare; kliimamuudatused; viljandi
-1,2,5,7,6,9,8,8,5,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; festival; pärimusmuusika; põllumajandusprojekt; vare; kliimamuudatused; viljandi
-1,2,6,7,7,10,6,5,1,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka; festival; pärimusmuusika; põllumajandusprojekt; vare; kliimamuudatused; viljandi
+6,4,9,3,0,4,4,4,0,17,vare; steiner; kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+6,4,8,3,0,6,4,4,0,17,vare; steiner; kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; kai; viljandi; jürgen
+6,4,9,3,1,4,4,4,0,17,vare; steiner; kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; kai; viljandi; jürgen
+6,4,8,3,1,4,4,4,0,17,vare; steiner; kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; kai; viljandi; jürgen
+5,4,7,4,2,6,4,5,0,17,steiner; presidendivalimised; salme; kosmosesüstik; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; pärimusmuusika; muinaslaev; kai
+4,4,6,3,2,4,5,5,0,17,steiner; presidendivalimised; salme; kosmosesüstik; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; kliimamuudatused; venemaa; ligi; pärimusmuusika; muinaslaev; kai
+3,4,4,5,4,6,4,5,0,17,steiner; presidendivalimised; salme; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; pärimusmuusika
+2,3,5,6,5,9,9,4,0,17,steiner; presidendivalimised; salme; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; kai
+1,4,3,7,5,7,6,4,0,17,steiner; presidendivalimised; salme; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; pärimusmuusika; kai
+1,2,5,7,6,8,8,5,0,17,steiner; presidendivalimised; salme; kosmosesüstik; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; pärimusmuusika; muinaslaev; kai
+1,2,6,7,7,6,5,1,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; kreeka; kai; viljandi; jürgen; festival

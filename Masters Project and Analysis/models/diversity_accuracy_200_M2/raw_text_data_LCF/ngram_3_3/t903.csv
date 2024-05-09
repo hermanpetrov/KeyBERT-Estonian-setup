@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,4,8,9,8,9,9,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,4,8,9,8,9,9,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,4,8,9,8,9,9,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-9,4,9,9,8,9,9,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-9,5,9,8,8,9,9,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-9,5,9,8,8,9,8,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,7,8,8,8,9,8,9,7,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,6,9,9,9,9,9,8,8,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,7,8,8,9,9,9,8,8,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,8,8,9,9,9,9,8,8,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-8,8,8,9,9,9,9,8,6,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
+9,4,8,9,8,9,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+8,4,8,9,8,9,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+8,4,8,9,8,9,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+9,4,9,9,8,9,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+9,5,9,8,8,9,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+9,5,9,8,8,8,9,7,0,10,tähendus; sport; jalgpall; elukutse; äri; ameerika; euroopa; võitlus; meedia
+8,7,8,8,8,8,9,7,0,10,tähendus; elukutse; jalgpall; sport; äri; ameerika; euroopa; võitlus; meedia
+8,6,9,9,9,9,8,8,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+8,7,8,8,9,9,8,8,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+8,8,8,9,9,9,8,8,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+8,8,8,9,9,9,8,6,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia

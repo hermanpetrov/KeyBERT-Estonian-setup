@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,4,2,0,3,4,2,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-0,0,4,2,0,3,4,2,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-0,0,4,2,0,3,4,2,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-0,0,3,2,0,3,4,2,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-0,0,3,2,0,3,4,2,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; olde
-0,0,3,2,0,4,3,1,0,15,paul; eesti; kilingi-nõmme; hendrik; võistkond; olde
-0,0,3,1,0,5,4,1,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; olde
-0,0,3,1,0,4,3,3,0,15,paul; eesti; kilingi-nõmme; hendrik; olde
-1,0,3,1,0,4,2,1,0,15,paul; eesti; kilingi-nõmme; hendrik; keres; olde
-0,0,3,1,0,3,2,3,0,15,kilingi-nõmme; paul; hendrik; keres; eesti; olde
-0,0,2,2,0,3,1,4,0,15,paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; olde
+0,0,4,2,0,4,2,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul
+0,0,4,2,0,4,2,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul
+0,0,4,2,0,4,2,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul
+0,0,3,2,0,4,2,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul
+0,0,3,2,0,4,2,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul
+0,0,3,2,0,3,1,0,0,15,olde; kilingi-nõmme; hendrik; eesti; võistkond; paul
+0,0,3,1,0,4,1,0,0,15,olde; eesti; kilingi-nõmme; hendrik; paul
+0,0,3,1,0,3,3,0,0,15,olde; kilingi-nõmme; hendrik; eesti; paul
+1,0,3,1,0,2,1,0,0,15,olde; kilingi-nõmme; hendrik; eesti; paul
+0,0,3,1,0,2,3,0,0,15,olde; kilingi-nõmme; keres; hendrik; eesti; paul
+0,0,2,2,0,1,4,0,0,15,partii; olde; keres; eesti; kilingi-nõmme; hendrik; maletaja; paul

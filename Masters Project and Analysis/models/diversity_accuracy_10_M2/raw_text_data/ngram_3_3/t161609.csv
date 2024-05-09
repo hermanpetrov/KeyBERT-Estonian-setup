@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
-1,0,1,1,0,0,1,1,1,10,ahnus; fbi; strateegia
-1,1,1,1,0,0,1,1,1,10,sihtrühm; fbi; ahnus; strateegia
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,2,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
+1,0,1,1,0,0,1,1,1,10,fbi; strateegia; ahnus
+1,1,1,1,0,0,1,1,1,10,sihtrühm; fbi; strateegia; ahnus
 1,0,1,1,0,1,0,1,1,10,fbi; strateegia
 1,0,1,1,0,0,0,2,1,10,fbi; strateegia
 0,0,1,0,0,1,0,2,1,10,fbi; strateegia

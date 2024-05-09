@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,6,3,4,3,5,1,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-2,4,3,6,3,4,3,5,1,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-2,4,3,6,3,4,3,5,1,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-2,5,3,6,3,4,3,5,1,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-2,5,3,5,3,4,3,4,1,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-2,3,5,6,3,6,4,5,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; härm; publik; liit; reaalne
-2,3,5,6,3,4,5,4,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; härm; publik; reaalne
-2,3,3,6,3,4,7,5,1,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; härm; publik; liit; reaalne
-3,4,6,4,4,4,6,6,3,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; härm; publik; liit; reaalne
-2,2,3,7,4,4,6,3,5,14,institutsioon; sümboolne; võim; kunstnik; maria-kristiina; kriitik; kuraator; publik; liit; reaalne
-4,3,3,6,4,5,4,6,4,14,institutsioon; sümboolne; võim; maria-kristiina; kunstnik; kriitik; kuraator; härm; publik; liit; reaalne
+4,6,3,6,3,4,4,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; liit; kunstimuuseum; kriitik; publik; võim; kuraator
+4,6,3,6,3,4,4,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; liit; kunstimuuseum; kriitik; publik; võim; kuraator
+4,6,4,6,3,4,4,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; liit; kunstimuuseum; kriitik; publik; võim; kuraator
+4,7,4,6,3,4,4,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; liit; kunstimuuseum; kriitik; publik; võim; kuraator
+4,7,4,5,3,4,4,6,2,14,kriitik; kuraator; institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; publik; liit; kunstnik; võim; kunstimuuseum
+4,5,6,6,3,6,5,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; kunstimuuseum; liit; kriitik; härm; publik; võim; kuraator
+3,5,6,8,3,4,6,6,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; kunstimuuseum; kriitik; härm; publik; võim; kuraator
+3,5,3,7,3,4,7,7,2,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; kunstimuuseum; liit; kriitik; härm; publik; võim; kuraator
+4,6,6,5,4,4,6,7,4,14,institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; kunstnik; kunstimuuseum; liit; kriitik; härm; publik; võim; kuraator
+3,3,4,8,4,4,6,4,6,14,kriitik; kuraator; kunstimuuseum; institutsioon; maria-kristiina; sümboolne; kunstimaailm; reaalne; publik; kunstnik; võim; liit
+4,4,4,7,4,5,4,7,4,14,institutsioon; maria-kristiina; sümboolne; reaalne; kunstnik; kunstimuuseum; liit; kriitik; härm; publik; võim; kuraator

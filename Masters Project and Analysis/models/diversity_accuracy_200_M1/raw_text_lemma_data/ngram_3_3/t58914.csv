@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,5,4,2,7,4,6,4,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-7,7,6,4,2,7,4,6,4,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-7,7,7,4,2,7,4,6,5,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-7,7,7,3,2,7,4,6,5,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-6,6,7,4,4,7,5,6,5,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-6,6,6,6,5,6,5,6,3,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-7,4,7,7,7,5,6,5,4,11,kaarel; rand; orvik; torm; sadam; prognoos; geoloogia; tamm
-6,4,5,6,7,4,3,8,2,11,kaarel; rand; orvik; torm; geoloogia; sadam; prognoos; tamm
-5,5,6,7,7,5,6,6,4,11,kaarel; rand; orvik; torm; sadam; prognoos; geoloogia; tamm
-6,5,6,6,7,5,4,5,4,11,kaarel; rand; orvik; torm; sadam; prognoos; geoloogia; tamm
-5,5,7,6,7,5,3,4,5,11,kaarel; rand; orvik; torm; sadam; prognoos; geoloogia; tamm
+7,8,5,5,3,7,5,7,4,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+7,8,6,5,3,7,5,7,4,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+7,9,7,5,4,8,5,8,5,11,geoloogia; torm; kaarel; orvik; tamm; liivarand; rand; prognoos; sadam; kasvuhooneefekt
+7,9,7,4,4,8,5,8,5,11,geoloogia; torm; kaarel; orvik; tamm; liivarand; rand; prognoos; sadam; kasvuhooneefekt
+6,8,8,4,5,8,5,8,5,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+6,8,7,7,6,8,6,8,3,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+7,4,8,7,8,7,6,7,4,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+6,4,7,7,7,6,3,10,3,11,geoloogia; torm; kaarel; orvik; tamm; liivarand; rand; prognoos; sadam; kasvuhooneefekt
+5,6,8,8,7,6,7,8,5,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+6,5,8,7,7,7,6,7,5,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+5,5,9,7,7,7,3,6,6,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt

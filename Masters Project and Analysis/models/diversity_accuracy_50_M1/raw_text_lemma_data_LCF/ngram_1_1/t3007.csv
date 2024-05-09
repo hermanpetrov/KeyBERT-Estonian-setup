@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,2,0,1,1,2,0,15,tõnis; välis-eesti; eentalu
-0,0,0,2,0,1,1,2,0,15,tõnis; välis-eesti; eentalu
-0,0,0,2,0,1,1,2,1,15,tõnis; riina; välis-eesti; eentalu
-0,0,0,2,0,1,1,2,1,15,tõnis; riina; välis-eesti; eentalu
-0,0,0,2,0,1,1,2,1,15,tõnis; riina; välis-eesti; eentalu
-0,0,0,2,0,0,1,3,1,15,välis-eesti; riina; tõnis; eentalu
-0,0,0,1,0,0,1,4,1,15,välis-eesti; riina; tõnis; eentalu
-0,0,1,1,0,0,1,4,1,15,välis-eesti; riina; tõnis; eentalu
-2,0,1,0,0,0,0,4,1,15,viljatus; tõnis; välis-eesti; riina; narkootikum; eentalu
-2,0,2,0,0,0,0,2,2,15,viljatus; välis-eesti; edgar; riina; narkootikum; eentalu
-2,1,2,0,0,0,0,0,2,15,viljatus; välis-eesti; edgar; riina; narkootikum; eentalu
+0,2,0,2,0,1,1,3,0,15,savisaar; tõnis; eentalu; välis-eesti; perearst
+0,2,0,2,0,1,1,3,0,15,savisaar; tõnis; eentalu; välis-eesti; perearst
+0,2,0,2,0,1,1,3,1,15,savisaar; tõnis; riina; eentalu; välis-eesti; perearst
+0,2,0,2,0,1,1,3,1,15,savisaar; tõnis; riina; eentalu; välis-eesti; perearst
+0,2,0,2,0,1,1,3,1,15,savisaar; tõnis; riina; eentalu; välis-eesti; perearst
+0,2,0,2,0,0,1,4,1,15,savisaar; riina; tõnis; eentalu; välis-eesti; perearst
+0,2,0,1,0,2,2,6,1,15,eentalu; umbusaldamine; välis-eesti; riina; savisaar; tõnis; nõuandetelefon; perearst
+0,2,1,2,0,3,2,4,1,15,eentalu; umbusaldamine; välis-eesti; riina; savisaar; tõnis; nõuandetelefon; perearst
+3,2,1,1,0,2,1,5,1,15,viljatus; eentalu; umbusaldamine; narkootikum; välis-eesti; riina; savisaar; tõnis; nõuandetelefon; perearst
+3,1,2,0,0,1,1,2,2,15,edgar; viljatus; eentalu; narkootikum; välis-eesti; riina; savisaar; nõuandetelefon; perearst
+3,2,2,0,0,1,1,0,2,15,edgar; viljatus; eentalu; narkootikum; välis-eesti; riina; savisaar; nõuandetelefon; perearst

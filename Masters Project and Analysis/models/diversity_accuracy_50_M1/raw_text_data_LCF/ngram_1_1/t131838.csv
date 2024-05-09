@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,2,1,17,ameerika; maania
-0,0,0,0,0,0,0,2,1,17,ameerika; maania
-0,0,0,0,0,0,0,2,1,17,ameerika; maania
-0,0,0,0,0,0,0,2,1,17,ameerika; maania
-0,1,0,0,0,0,0,1,1,17,ameerika; mccartney; maania
-0,1,0,0,0,0,0,1,1,17,ameerika; mccartney; maania
-1,1,0,1,0,1,1,1,0,17,ameerika; ivo; maania; biitlid; mccartney
-0,2,1,0,0,1,1,1,2,17,ameerika; ivo; salumets; maania; mccartney
-1,1,0,0,0,1,1,1,1,17,ivo; salumets; maania; mccartney
-0,2,0,1,0,1,1,1,0,17,ivo; maania; brian; mccartney
-0,1,2,2,0,0,1,1,0,17,ivo; linna; maania; mccartney; bbc; epstein
+0,0,0,0,0,0,2,1,0,17,maania; ameerika
+0,0,0,0,0,0,2,1,0,17,maania; ameerika
+0,0,0,0,0,0,2,1,0,17,maania; ameerika
+0,0,0,0,0,0,2,1,0,17,maania; ameerika
+0,1,0,0,0,0,1,1,0,17,ameerika; maania; mccartney
+0,1,0,0,0,0,1,1,0,17,ameerika; maania; mccartney
+1,1,0,1,0,1,1,0,0,17,biitlid; maania; mccartney; ameerika; ivo
+0,2,1,0,0,1,1,2,0,17,maania; mccartney; salumets; ameerika; ivo
+1,1,0,0,0,1,1,1,0,17,maania; mccartney; salumets; ivo
+0,2,0,1,0,1,1,0,0,17,maania; mccartney; brian; ivo
+0,1,2,2,0,1,1,0,0,17,maania; mccartney; epstein; linna; bbc; ivo

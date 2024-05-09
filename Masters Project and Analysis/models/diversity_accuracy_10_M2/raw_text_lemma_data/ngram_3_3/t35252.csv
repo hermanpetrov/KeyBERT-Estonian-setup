@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-5,0,0,2,0,0,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,0,0,2,0,0,1,1,3,16,selts; karl; jannsen; kõrber; eesti; keel; ärkamine; rahvuslik
-5,0,0,1,0,2,1,1,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-1,1,1,0,0,1,2,2,3,16,keel; selts; karl; jannsen; eesti
-2,1,1,0,0,1,1,1,3,16,keel; selts; karl; jannsen; ärkamine; eesti; rahvuslik
-2,0,1,1,0,0,1,1,3,16,selts; jannsen; keel; eesti
-2,0,1,1,0,0,1,1,1,16,selts; karl; jannsen; kõrber; eesti
+5,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+5,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+5,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+5,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+5,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+6,0,0,2,0,0,1,1,4,16,selts; eesti; rahvuslik; põllumees; kõrber; keel; jannsen; ärkamine; karl
+5,0,0,3,0,2,1,2,4,16,selts; eesti; põllumees; rahvuslik; koorilaul; kõrber; postimees; keel; jannsen; ärkamine; karl
+1,1,1,0,0,1,3,5,4,16,selts; eesti; põllumees; koorilaul; postimees; keel; jannsen; karl
+2,1,1,0,0,1,1,2,4,16,selts; eesti; rahvuslik; põllumees; postimees; keel; jannsen; ärkamine; karl
+2,0,1,1,0,0,1,2,4,16,selts; keel; jannsen; eesti; põllumees; koorilaul
+2,0,1,1,0,0,1,2,2,16,kõrber; selts; postimees; põllumees; jannsen; eesti; karl

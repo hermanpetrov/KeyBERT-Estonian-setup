@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,3,0,4,3,3,2,15,turniir; paul; klubi; eesti; hendrik; keres; võistkond
-2,0,2,3,0,4,3,3,2,15,turniir; paul; klubi; eesti; hendrik; keres; võistkond
-2,0,2,3,0,4,3,3,2,15,turniir; paul; klubi; eesti; hendrik; keres; võistkond
-2,0,2,3,0,4,3,3,2,15,turniir; paul; klubi; eesti; hendrik; keres; võistkond
-2,0,3,3,0,4,3,3,2,15,turniir; paul; klubi; eesti; partii; hendrik; keres; võistkond
-2,1,3,3,0,4,3,4,2,15,turniir; paul; klubi; eesti; partii; hendrik; keres; võistkond
-0,1,1,3,0,6,3,5,2,15,turniir; paul; klubi; eesti; partii; hendrik; maletaja; keres; võistkond
-2,1,1,2,0,3,3,5,2,15,turniir; paul; klubi; eesti; partii; hendrik; maletaja; keres; võistkond
-4,1,1,0,0,5,5,4,2,15,turniir; paul; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; keres; võistkond
-2,1,2,3,0,3,5,4,3,15,paul; keres; eesti; partii; naiskond; hendrik; maletaja; meister; malering; võistkond
-1,1,3,1,0,4,5,4,3,15,paul; klubi; eesti; partii; hendrik; maletaja; meister; keres; võistkond
+2,0,2,3,0,4,3,3,2,15,keres; eesti; hendrik; võistkond; klubi; paul; turniir
+2,0,2,3,0,4,3,3,2,15,keres; eesti; hendrik; võistkond; klubi; paul; turniir
+2,0,2,3,0,4,3,3,2,15,keres; eesti; hendrik; võistkond; klubi; paul; turniir
+2,0,2,3,0,4,3,3,2,15,keres; eesti; hendrik; võistkond; klubi; paul; turniir
+2,0,3,3,0,4,3,3,2,15,partii; keres; eesti; hendrik; võistkond; klubi; paul; turniir
+2,1,3,3,0,4,3,4,2,15,partii; keres; eesti; hendrik; võistkond; klubi; paul; turniir
+0,1,1,3,0,6,3,5,2,15,partii; keres; eesti; hendrik; võistkond; klubi; paul; turniir; maletaja
+2,2,1,2,0,3,3,5,2,15,partii; keres; eesti; hendrik; võistkond; maletaja; klubi; lisalaeng; paul; turniir
+4,1,1,0,0,5,5,4,2,15,meister; naiskond; partii; keres; eesti; hendrik; võistkond; maletaja; klubi; paul; turniir
+2,1,2,3,0,3,5,4,3,15,partii; naiskond; meister; keres; eesti; malering; hendrik; võistkond; maletaja; paul
+1,1,3,1,0,4,5,4,3,15,partii; meister; keres; eesti; hendrik; võistkond; maletaja; klubi; paul

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,1,0,0,0,16,biitel; usa; liit
-0,1,0,0,1,1,0,0,0,16,biitel; usa; liit
-0,1,0,0,1,1,0,0,0,16,biitel; usa; liit
-0,1,0,0,1,1,0,0,0,16,biitel; usa; liit
-0,1,0,0,1,1,0,0,0,16,biitel; usa; liit
-0,0,0,0,1,1,0,0,0,16,biitel; usa
-0,0,0,0,1,0,0,1,0,16,usa; nsv
-1,0,0,0,1,0,0,1,0,16,biitel; usa; nsv
-0,0,1,0,1,0,0,1,0,16,biitel; usa; nsv
-0,1,0,1,0,2,0,0,0,16,bob; kennedy; usa; nsv
-0,1,0,1,0,1,0,0,0,16,bob; kennedy; usa
+0,1,1,0,1,2,1,1,0,16,levimuusika; biitel; liit; usa
+0,1,1,0,1,2,1,1,0,16,levimuusika; biitel; liit; usa
+0,1,1,0,1,2,1,1,0,16,levimuusika; biitel; liit; usa
+0,1,1,0,1,2,1,1,0,16,levimuusika; biitel; liit; usa
+0,1,1,0,1,2,1,1,0,16,levimuusika; biitel; liit; usa
+0,0,1,0,1,2,1,1,0,16,biitel; levimuusika; usa
+0,0,1,0,1,1,1,2,0,16,nsv; levimuusika; usa
+2,0,0,0,1,1,1,2,0,16,nsv; levimuusika; biitel; olümpiamängud; usa
+0,0,2,0,1,1,1,2,0,16,nsv; levimuusika; biitel; usa
+0,1,1,1,0,3,1,1,0,16,nsv; levimuusika; kennedy; bob; usa
+0,1,1,1,0,2,1,0,0,16,levimuusika; kennedy; bob; usa

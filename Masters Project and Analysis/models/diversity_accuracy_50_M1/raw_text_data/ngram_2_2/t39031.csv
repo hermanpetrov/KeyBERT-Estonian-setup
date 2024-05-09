@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,2,2,2,0,3,1,13,uno; tammer; loop; eesti; austraalia; enno; mees
-2,1,2,2,2,2,0,3,1,13,uno; tammer; loop; eesti; austraalia; enno; mees
-2,1,2,2,2,2,0,3,1,13,uno; tammer; loop; eesti; austraalia; enno; mees
-2,1,2,2,2,2,0,3,1,13,uno; tammer; loop; eesti; austraalia; enno; mees
-2,1,2,2,2,2,0,3,1,13,uno; tammer; loop; eesti; austraalia; enno; mees
-1,1,2,3,3,2,0,4,1,13,uno; loop; eesti; austraalia; enno; mees
-2,1,2,1,3,2,0,4,1,13,uno; loop; eesti; enno; jalgpall; mees
-3,1,1,1,2,1,0,4,1,13,uno; jalgpall; loop; eesti; mees
-2,3,1,3,2,2,1,2,3,13,uno; tammer; loop; eesti; austraalia; jalgpall; mees
-2,3,1,2,6,3,0,2,3,13,uno; tammer; loop; eesti; austraalia; enno; jalgpall; habe; mees
-2,3,3,2,4,1,0,4,2,13,uno; loop; eesti; austraalia; jalgpall; habe; mees
+2,1,2,2,2,2,0,3,1,13,uno; tammer; eesti; loop; enno; austraalia; mees
+2,1,2,2,2,2,0,3,1,13,uno; tammer; eesti; loop; enno; austraalia; mees
+2,1,2,2,2,2,0,3,1,13,uno; tammer; eesti; loop; enno; austraalia; mees
+2,1,2,2,2,2,0,3,1,13,uno; tammer; eesti; loop; enno; austraalia; mees
+2,1,2,2,2,2,0,3,1,13,uno; tammer; eesti; loop; enno; austraalia; mees
+1,1,2,3,3,2,0,4,1,13,uno; eesti; loop; enno; austraalia; mees
+2,1,2,1,3,2,0,4,1,13,uno; jalgpall; eesti; loop; enno; mees
+3,1,1,1,2,1,0,4,1,13,uno; jalgpall; mees; eesti; loop
+2,3,1,3,2,2,1,2,3,13,uno; tammer; jalgpall; eesti; loop; austraalia; mees
+2,3,1,2,6,3,0,2,3,13,uno; tammer; jalgpall; eesti; loop; enno; austraalia; mees; habe
+2,3,3,2,4,1,0,4,2,13,uno; jalgpall; eesti; loop; austraalia; mees; habe

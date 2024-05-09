@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,2,2,2,3,2,2,14,disainer; talv; lill; tikand; inspiratsioon; eesti; kollektsioon; berliin
-2,2,4,2,2,2,3,2,2,14,disainer; talv; lill; tikand; inspiratsioon; eesti; kollektsioon; berliin
-2,2,4,2,2,3,3,2,2,14,disainer; talv; lill; tikand; inspiratsioon; eesti; kollektsioon; berliin
-2,2,2,2,2,4,3,1,2,14,disainer; privileeg; talv; lill; tikand; inspiratsioon; eesti; kollektsioon; berliin
-1,1,2,2,2,4,2,1,2,14,disainer; privileeg; lill; tikand; inspiratsioon; eesti; kollektsioon; berliin
-1,1,2,2,3,5,2,3,3,14,disainer; talv; privileeg; lill; tikand; inspiratsioon; eesti; berliin
-2,1,1,2,1,5,1,3,3,14,disainer; talv; privileeg; lill; tikand; eesti; inspiratsioon; berliin
-1,0,2,0,1,3,1,2,2,14,privileeg; talv; inspiratsioon; lill; eesti; berliin
-1,0,1,2,0,2,0,2,1,14,privileeg; talv; lill; eesti; berliin
-1,0,1,2,2,2,0,3,2,14,privileeg; talv; disainer; lill; inspiratsioon; eesti; berliin
-1,1,2,2,1,1,0,2,3,14,privileeg; talv; lill; tikand; eesti; inspiratsioon; berliin
+3,5,6,3,2,4,5,5,2,14,suursponsor; lill; berliin; eesti; moekunstnik; moenäda; inspiratsioon; disainer; kollektsioon; tikand; talv; auhind
+3,5,6,3,2,5,5,5,2,14,suursponsor; lill; berliin; eesti; moekunstnik; moenäda; inspiratsioon; disainer; kollektsioon; tikand; talv; auhind
+3,5,6,3,2,4,6,5,2,14,suursponsor; lill; berliin; eesti; moekunstnik; moenäda; inspiratsioon; disainer; kollektsioon; tikand; talv; auhind
+3,5,4,3,2,5,5,4,2,14,suursponsor; lill; berliin; eesti; moekunstnik; privileeg; moenäda; inspiratsioon; disainer; kollektsioon; tikand; talv; auhind
+3,4,5,3,2,6,2,3,2,14,suursponsor; lill; berliin; eesti; moekunstnik; privileeg; moenäda; inspiratsioon; kollektsioon; disainer; tikand; auhind
+2,3,5,3,3,7,3,5,3,14,suursponsor; lill; berliin; eesti; moekunstnik; privileeg; moenäda; inspiratsioon; disainer; tikand; talv; auhind
+4,3,3,3,1,7,2,5,4,14,suursponsor; lill; berliin; eesti; moekunstnik; privileeg; moenäda; inspiratsioon; disainer; jahilo; tikand; talv; auhind
+3,2,4,0,1,5,2,3,3,14,suursponsor; berliin; lill; eesti; moekunstnik; privileeg; moenäda; inspiratsioon; jahilo; talv; auhind
+2,2,3,2,0,4,1,4,2,14,suursponsor; berliin; lill; eesti; moekunstnik; privileeg; jahilo; talv; auhind
+4,0,3,2,2,4,1,5,3,14,suursponsor; berliin; lill; eesti; moekunstnik; privileeg; inspiratsioon; disainer; jahilo; talv; auhind
+4,1,4,2,2,3,1,4,4,14,suursponsor; berliin; lill; eesti; moekunstnik; privileeg; inspiratsioon; jahilo; tikand; talv; auhind

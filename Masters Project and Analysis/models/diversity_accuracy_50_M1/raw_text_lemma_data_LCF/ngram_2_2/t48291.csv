@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,1,1,1,3,11,jüri; smuugeldaja; kaart; meri
-1,1,1,0,0,1,1,1,3,11,jüri; smuugeldaja; kaart; meri
-1,1,1,0,0,1,1,1,3,11,jüri; smuugeldaja; kaart; meri
-1,1,1,0,0,1,1,1,3,11,jüri; smuugeldaja; kaart; meri
-1,1,1,0,0,1,1,1,3,11,jüri; smuugeldaja; kaart; meri
-1,1,1,0,0,1,1,1,3,11,jüri; kaart; meri
-1,1,3,0,0,2,1,1,2,11,jüri; smuugeldaja; kaart; meri
-1,2,2,1,2,2,2,1,1,11,jüri; smuugeldaja; kaart; meri
-1,1,3,2,2,2,2,3,1,11,jüri; smuugeldaja; kaart; meri
-2,1,4,2,2,4,3,2,3,11,jüri; smuugeldaja; kaart; meri
-3,1,3,2,2,2,3,2,1,11,jüri; smuugeldaja; kaart; meri
+2,2,3,2,1,2,3,2,3,11,meri; kiirabi; jüri; meresaade; rannavalve; smuugeldaja; kaart; kiirkaater
+2,2,3,2,1,2,3,2,3,11,meri; kiirabi; jüri; meresaade; rannavalve; smuugeldaja; kaart; kiirkaater
+2,2,3,2,1,2,3,2,3,11,meri; kiirabi; jüri; meresaade; rannavalve; smuugeldaja; kaart; kiirkaater
+2,2,3,2,1,2,3,2,3,11,meri; kiirabi; jüri; meresaade; rannavalve; smuugeldaja; kaart; kiirkaater
+2,2,3,2,1,2,3,2,3,11,meri; kiirabi; jüri; meresaade; territoriaalvesi; rannavalve; smuugeldaja; kaart; kiirkaater
+2,2,5,1,1,2,3,3,3,11,meri; kiirabi; jüri; rannavalve; meresaade; territoriaalvesi; kaart; kiirkaater
+2,2,6,0,1,4,4,3,2,11,meri; jüri; rannavalve; meresaade; territoriaalvesi; smuugeldaja; kaart; kiirkaater
+2,2,6,1,3,3,5,2,1,11,meri; jüri; meresaade; territoriaalvesi; rannavalve; smuugeldaja; kaart; kiirkaater
+3,1,7,3,2,3,3,3,1,11,meri; jüri; rannavalve; meresaade; territoriaalvesi; smuugeldaja; kaart; kiirkaater
+4,2,8,4,2,5,5,3,3,11,meri; jüri; territoriaalvesi; rannavalve; meresaade; smuugeldaja; kaart; kiirkaater
+4,1,6,5,2,2,5,2,1,11,meri; kiirabi; jüri; rannavalve; meresaade; territoriaalvesi; smuugeldaja; kaart; kiirkaater

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee; ballaad
-2,0,2,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee; ballaad
-2,0,2,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee; ballaad
-2,0,2,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee; ballaad
-2,0,2,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee; ballaad
-3,0,2,0,0,0,0,1,0,16,sirje; saaremaa; varietee; medell; ballaad
-1,0,2,0,0,0,0,0,0,16,varietee; medell; ballaad
-0,0,2,1,0,1,0,1,0,16,sisemine; sirje; rituaal; medell
-0,0,1,2,0,0,0,4,0,16,sisemine; sirje; saaremaa; medell; ballaad
-0,0,2,2,0,1,0,2,0,16,sisemine; sirje; rituaal; varietee; saaremaa; medell; ballaad
-0,0,3,0,1,1,1,3,0,16,sisemine; sirje; rituaal; varietee; saaremaa; medell; ballaad
+2,0,2,0,0,1,1,1,0,16,medell; ballaad; varietee; sirje; saaremaa
+2,0,2,0,0,1,1,1,0,16,medell; ballaad; varietee; sirje; saaremaa
+2,0,2,0,0,1,1,1,0,16,medell; ballaad; varietee; sirje; saaremaa
+2,0,2,0,0,1,1,1,0,16,medell; ballaad; varietee; sirje; saaremaa
+2,0,2,0,0,1,1,1,0,16,medell; ballaad; varietee; sirje; saaremaa
+3,0,2,0,0,0,0,1,0,16,medell; ballaad; sirje; varietee; saaremaa
+1,0,2,0,0,0,0,0,0,16,medell; ballaad; varietee
+0,0,2,1,0,1,0,1,0,16,rituaal; medell; sirje; sisemine
+0,0,1,2,0,0,0,4,0,16,medell; ballaad; sirje; sisemine; saaremaa
+0,0,2,2,0,1,0,2,0,16,rituaal; medell; ballaad; sirje; sisemine; varietee; saaremaa
+0,0,3,0,1,1,1,3,0,16,medell; rituaal; ballaad; sirje; sisemine; varietee; saaremaa

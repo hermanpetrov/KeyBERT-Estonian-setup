@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,kirjandus; tallinn; rahvatants
-1,2,0,0,0,0,0,0,0,11,tartu; kirjandus; tallinn
-2,2,0,1,0,0,0,0,0,11,juur; kirjandus; tallinn; tartu
-2,1,0,1,0,0,0,0,0,11,tartu; juur; tallinn
-1,3,0,1,0,0,0,0,0,11,kunst; kirjandus; tallinn; rahvatants
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+1,2,1,1,0,2,3,2,0,11,rahvatants; kultuuriseminar; väliseestlane; kirjandus; tallinn; kultuurisektor
+2,2,0,0,0,3,3,2,0,11,kultuuriseminar; tallinn; tartu; kultuurisektor; väliseestlane; kirjandus
+3,2,1,1,0,1,3,2,0,11,kultuuriseminar; juur; tallinn; tartu; kultuurisektor; väliseestlane; kirjandus
+4,1,1,1,0,2,3,2,0,11,kultuuriseminar; juur; tallinn; tartu; kultuurisektor; väliseestlane
+3,3,1,1,0,1,3,2,0,11,kultuuriseminar; rahvatants; tallinn; kultuurisektor; kunst; väliseestlane; kirjandus

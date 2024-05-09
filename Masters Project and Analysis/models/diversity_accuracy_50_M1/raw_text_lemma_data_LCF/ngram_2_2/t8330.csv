@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,1,0,0,0,0,4,15,saksa; laager; robert; jätma; siber; keel
-1,2,3,1,0,0,0,0,4,15,saksa; laager; robert; jätma; siber; keel
-1,2,3,1,0,0,0,0,4,15,saksa; laager; robert; jätma; siber; keel
-1,2,2,1,0,0,0,0,4,15,saksa; laager; robert; jätma; siber; keel
-0,2,2,1,0,0,1,0,4,15,jätma; saksa; siber; keel; laager; robert
-0,2,2,1,0,1,1,0,4,15,saksa; laager; robert; jätma; siber; keel
-2,2,0,2,0,0,1,1,4,15,saksa; laager; robert; jätma; siber; keel; tasso
-2,1,1,2,0,0,1,2,4,15,jätma; saksa; keel; laager; robert
-4,1,1,2,0,1,2,3,4,15,saksa; laager; robert; jätma; keel
-2,0,1,2,0,0,2,5,4,15,saksa; laager; robert; jätma; siber; keel
-2,0,1,2,0,0,2,1,4,15,saksa; laager; robert; jätma; keel
+2,2,3,1,0,0,0,0,4,15,robert; saksa; keel; loomavagun; jätma; siber; laager
+2,2,3,1,0,0,0,0,4,15,robert; saksa; keel; loomavagun; jätma; siber; laager
+2,2,3,1,0,0,0,0,4,15,robert; saksa; keel; loomavagun; jätma; siber; laager
+2,2,2,1,0,0,0,0,4,15,robert; saksa; jätma; loomavagun; keel; siber; laager
+1,2,2,1,0,0,1,0,4,15,robert; saksa; keel; loomavagun; siber; laager; jätma
+0,2,2,2,0,1,1,0,4,15,talveriie; robert; saksa; keel; jätma; siber; laager
+2,3,0,2,0,0,1,2,4,15,talveriie; robert; tasso; saksa; jätma; keel; mustlasnaine; siber; laager
+2,1,1,2,0,0,1,3,4,15,robert; saksa; keel; mustlasnaine; laager; jätma
+4,2,1,2,0,1,2,4,4,15,robert; saksa; keel; loomavagun; mustlasnaine; laager; jätma
+3,1,1,2,0,1,2,6,4,15,robert; saksa; keel; loomavagun; mustlasnaine; siber; laager; jätma
+3,1,1,2,0,1,2,2,4,15,robert; saksa; keel; loomavagun; mustlasnaine; laager; jätma

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,9,5,7,6,4,6,6,12,nato; klubi; väin; õppus; saar; suur; tehnika; sõda; lahing; britt
-7,5,8,5,6,6,5,6,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,5,8,5,6,6,5,6,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,5,9,5,6,7,5,6,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,5,9,5,7,7,6,7,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,6,7,6,7,6,5,8,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,5,6,7,7,6,5,7,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,5,5,7,8,6,4,8,6,12,nato; klubi; õppus; väin; saar; suur; tehnika; sõda; lahing; britt
-7,4,5,8,6,5,5,9,6,12,õppus; väin; saar; suur; tehnika; lahing; nato; klubi; sõda; britt
-5,5,6,8,8,4,7,9,7,12,õppus; väin; saar; suur; tehnika; lahing; nato; klubi; sõda; britt
-6,6,6,9,7,5,8,9,7,12,õppus; väin; saar; suur; tehnika; lahing; nato; klubi; sõda; britt
+7,6,10,6,7,6,4,7,6,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,6,9,6,6,6,5,7,6,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,6,9,6,6,6,5,7,6,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,6,10,6,6,7,5,7,6,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,6,9,6,7,7,6,7,6,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,7,7,7,7,7,5,8,7,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,6,6,7,7,7,5,7,7,12,lahing; britt; nato; sõda; tehnika; õppus; kaitseliit; väin; suur; klubi; saar
+8,6,5,8,8,7,5,8,7,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+8,5,5,9,6,6,6,9,7,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+6,6,6,9,8,5,8,9,8,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar
+7,7,7,10,8,6,9,9,8,12,lahing; sõda; õppus; kaitseliit; suur; britt; nato; tehnika; väin; klubi; saar

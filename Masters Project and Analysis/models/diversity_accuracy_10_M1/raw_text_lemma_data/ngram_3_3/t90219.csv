@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,1,2,1,1,2,12,erakond; kirik; probleem
-0,2,1,1,1,2,1,1,2,12,erakond; kirik; probleem
-0,2,1,1,1,2,1,1,2,12,erakond; kirik; probleem
-0,2,1,1,1,2,1,1,2,12,erakond; kirik; probleem
-0,2,1,1,1,2,1,1,2,12,erakond; kirik; probleem
-1,3,1,1,1,2,1,0,2,12,erakond; kirik; urmas; probleem; riik
-1,2,1,2,1,2,2,2,2,12,erakond; kirik; urmas; probleem
-2,2,1,0,1,3,1,2,2,12,erakond; kirik; poliitika; viilm; probleem
-1,2,1,2,1,2,2,3,2,12,erakond; kirik; urmas; probleem; riik
-2,2,2,0,1,2,1,3,2,12,erakond; kirik; poliitika; probleem; riik
-2,2,1,0,1,2,3,1,2,12,erakond; kirik; poliitika; probleem; riik
+0,2,1,1,1,2,1,1,2,12,kirik; erakond; probleem
+0,2,1,1,1,2,1,1,2,12,kirik; erakond; probleem
+0,2,1,1,1,2,1,1,2,12,kirik; erakond; probleem
+0,2,1,1,1,2,1,1,2,12,kirik; erakond; probleem
+0,2,1,1,1,2,1,1,2,12,kirik; erakond; probleem
+1,3,1,1,1,2,1,0,2,12,erakond; kirik; urmas; riik; probleem
+1,2,1,3,1,2,2,2,2,12,homoseksuaalne; kirik; urmas; erakond; probleem
+2,2,1,0,1,3,1,2,2,12,poliitika; kirik; viilm; erakond; probleem
+1,2,1,2,1,2,2,3,2,12,riik; kirik; urmas; erakond; probleem
+2,2,2,0,1,2,1,3,2,12,poliitika; erakond; kirik; riik; probleem
+2,2,1,0,1,2,3,1,2,12,poliitika; erakond; kirik; riik; probleem

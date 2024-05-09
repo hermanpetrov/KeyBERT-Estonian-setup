@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,9,3,8,7,5,2,9,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-7,10,3,8,7,5,2,9,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-7,10,3,8,7,5,2,9,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-7,9,3,8,7,5,2,9,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-7,10,3,8,7,5,2,9,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-7,10,3,8,7,5,2,10,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-9,10,3,8,7,5,2,11,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-11,9,3,8,7,4,3,11,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-11,10,4,10,7,6,3,11,4,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-10,10,4,11,7,7,6,11,6,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
-10,11,6,11,7,7,6,11,6,13,ema; leib; tomusk; ilmar; sool; märt; isik; martin; kõrvaline; isa; pius
+7,9,3,9,7,5,3,9,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+7,10,3,9,7,5,3,9,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+7,10,3,9,7,5,3,9,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+7,9,3,9,7,5,3,9,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+7,10,3,9,7,5,3,9,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+7,10,3,9,7,5,3,10,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+9,10,4,9,7,5,3,11,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; pius; tomusk; isik; leib; pannkook
+11,9,4,9,7,4,4,11,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; tomusk; pius; isik; leib; pannkook
+11,10,5,11,7,6,3,11,5,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; tomusk; pius; isik; leib; pannkook
+10,10,5,11,7,7,6,11,7,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; tomusk; pius; isik; leib; pannkook
+10,11,7,12,7,7,6,11,7,13,martin; ilmar; märt; isa; sool; ema; kõrvaline; tomusk; pius; isik; leib; pannkook

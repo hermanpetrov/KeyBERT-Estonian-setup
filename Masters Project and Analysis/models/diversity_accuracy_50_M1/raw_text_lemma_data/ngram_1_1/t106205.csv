@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,1,1,2,0,1,1,12,aeg; merivoo-parro; bond; televiisor; maarja; energia; raadio
-1,0,3,1,1,2,0,1,1,12,aeg; merivoo-parro; bond; televiisor; maarja; energia; raadio
-1,0,3,1,1,2,0,1,1,12,aeg; merivoo-parro; bond; televiisor; maarja; energia; raadio
-1,0,3,1,1,2,0,1,1,12,aeg; merivoo-parro; bond; televiisor; maarja; energia; raadio
-1,0,2,1,1,2,0,1,1,12,aeg; merivoo-parro; bond; televiisor; maarja; raadio
-1,0,3,1,1,0,0,1,1,12,merivoo-parro; bond; televiisor; aeg; raadio
-1,0,3,1,1,1,0,1,1,12,merivoo-parro; bond; televiisor; aeg; energia; raadio
-1,0,2,0,1,1,1,2,1,12,merivoo-parro; bond; televiisor; aeg; raadio
-1,0,2,1,1,1,1,1,1,12,televiisor; merivoo-parro; bond; ansambel; aeg; raadio
-0,0,2,0,1,0,1,1,0,12,merivoo-parro; bond; raadio
-0,1,2,0,2,0,0,1,1,12,merivoo-parro; bond; maarja; energia; raadio
+2,0,3,2,1,2,0,2,1,12,televiisor; energia; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,3,2,1,2,0,2,1,12,televiisor; energia; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,3,2,1,2,0,2,1,12,televiisor; energia; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,3,2,1,2,0,2,1,12,televiisor; energia; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,2,2,1,3,0,2,1,12,televiisor; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,3,2,1,1,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; aeg; klassikokkutulek; bond
+2,0,3,2,1,1,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek; bond
+2,0,2,0,1,1,3,3,1,12,televiisor; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro
+2,0,3,1,1,1,2,1,1,12,televiisor; aeg; klassikokkutulek; bond; raadio; hommikuprogramm; merivoo-parro; ansambel
+1,0,2,0,1,0,2,1,0,12,raadio; hommikuprogramm; merivoo-parro; klassikokkutulek; bond
+0,2,2,0,2,0,1,2,1,12,hommikuprogramm; raadio; merivoo-parro; maarja; energia; bond

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,5,1,1,3,2,3,1,15,lübeck; ekspositsioon; kaupmees; rõdu; ivar; kelder; ajaloomuuseum; suurgildi; hoone
-2,2,6,0,1,3,2,3,1,15,lübeck; ekspositsioon; rõdu; ivar; kelder; ajaloomuuseum; suurgildi; hoone
-2,2,5,1,1,3,3,3,1,15,lübeck; ekspositsioon; rõdu; ivar; kelder; ajaloomuuseum; suurgildi; hoone
-2,2,4,1,1,3,3,3,1,15,lübeck; ekspositsioon; rõdu; ivar; kelder; ajaloomuuseum; suurgildi; hoone
-2,1,4,1,2,3,2,2,1,15,lübeck; ajaloomuuseum; ekspositsioon; hoone; ivar; kelder
-2,1,5,0,2,2,2,1,1,15,lübeck; ekspositsioon; ivar; kelder; leimus; ajaloomuuseum; hoone
-2,2,2,1,2,0,1,0,1,15,lübeck; leimus; ekspositsioon; ajaloomuuseum; rõdu; ivar; kelder
-1,1,2,2,3,1,1,0,1,15,lübeck; leimus; suurgildi; ajaloomuuseum; ivar; kelder
-1,1,2,0,3,2,2,0,1,15,lübeck; leimus; muusikute; ajaloomuuseum; ivar; kelder
-1,1,2,0,3,1,2,1,3,15,lübeck; leimus; ekspositsioon; ajaloomuuseum; rõdu; kelder
-1,1,1,0,2,2,2,1,1,15,lübeck; leimus; muusikute; suurgildi; kelder
+2,2,5,1,1,3,2,3,1,15,lübeck; kelder; rõdu; kaupmees; ivar; suurgildi; ekspositsioon; hoone; ajaloomuuseum
+2,2,6,0,1,3,2,3,1,15,lübeck; kelder; rõdu; ivar; suurgildi; ekspositsioon; hoone; ajaloomuuseum
+2,2,5,1,1,3,3,3,1,15,lübeck; kelder; rõdu; ivar; suurgildi; ekspositsioon; hoone; ajaloomuuseum
+2,2,4,1,1,3,3,3,1,15,lübeck; kelder; ivar; rõdu; suurgildi; ekspositsioon; hoone; ajaloomuuseum
+2,1,4,1,2,3,2,2,1,15,lübeck; ekspositsioon; hoone; ajaloomuuseum; kelder; ivar
+2,1,5,0,2,2,2,1,1,15,lübeck; kelder; ivar; leimus; ekspositsioon; hoone; ajaloomuuseum
+2,2,2,1,2,0,1,0,1,15,lübeck; ivar; ekspositsioon; ajaloomuuseum; kelder; rõdu; leimus
+1,1,2,2,3,1,1,0,1,15,lübeck; suurgildi; ajaloomuuseum; kelder; ivar; leimus
+1,1,2,0,3,2,2,0,1,15,lübeck; ajaloomuuseum; kelder; ivar; muusikute; leimus
+1,1,2,0,3,1,2,1,3,15,lübeck; ekspositsioon; ajaloomuuseum; kelder; rõdu; leimus
+1,1,1,0,2,2,2,1,1,15,lübeck; suurgildi; kelder; muusikute; leimus

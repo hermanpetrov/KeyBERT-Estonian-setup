@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,8,5,2,4,4,8,5,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,5,8,5,3,6,4,8,5,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,5,8,5,4,6,4,8,5,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,5,7,5,5,7,6,8,5,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,7,7,5,5,7,7,7,5,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-8,8,8,6,5,6,8,7,4,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,8,7,7,7,8,8,7,3,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-7,8,7,7,7,6,8,7,6,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-7,8,8,7,7,6,6,8,6,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-6,6,8,6,6,6,7,8,6,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
-7,7,8,6,6,6,6,7,6,12,laps; kreem; nennike; betti; pärtel; anni; rätsep; sass
+6,5,8,5,2,4,8,5,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,5,8,5,3,4,8,5,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,5,8,5,4,4,8,5,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,5,7,5,5,6,8,5,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,7,7,5,5,7,7,5,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+8,8,8,6,5,8,7,4,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,8,7,7,7,8,7,3,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+7,8,7,7,7,8,7,6,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+7,8,8,7,7,6,8,6,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+6,6,8,6,6,7,8,6,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass
+7,7,8,6,6,6,7,6,0,12,laps; nennike; anni; betti; pärtel; kreem; rätsep; sass

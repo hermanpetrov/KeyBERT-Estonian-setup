@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,2,4,4,2,2,5,3,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,6,2,4,4,2,2,5,3,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,6,2,4,4,2,2,5,3,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,6,2,4,4,2,2,5,4,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,6,2,4,4,2,2,5,4,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,5,2,4,4,3,2,5,4,16,mets; arm; agu; laul; vaike; maa; mait; tantsima; hing
-3,4,2,5,4,4,3,5,4,16,arm; agu; laul; vaike; maa; mait; tantsima; hing
-3,5,2,7,4,4,2,5,4,16,mets; arm; agu; laul; vaike; maa; mait; tantsima; hing
-8,5,3,3,4,5,3,5,4,16,mets; proov; arm; agu; laul; vaike; maa; mait; tantsima; hing
-7,7,3,4,4,7,3,3,4,16,proov; mets; arm; agu; laul; vaike; maa; mait; tantsima; hing
-5,7,3,5,6,7,2,2,4,16,proov; mets; arm; vaike; laul; agu; maa; mait; tantsima; hing
+6,7,3,5,5,3,3,6,4,16,tantsupidu; hing; arm; vaike; agu; tantsima; mait; laul; maa
+6,7,3,5,5,3,3,6,4,16,tantsupidu; hing; arm; vaike; agu; tantsima; mait; laul; maa
+6,7,3,5,5,3,3,6,4,16,tantsupidu; hing; arm; vaike; agu; tantsima; mait; laul; maa
+6,7,3,5,5,3,3,6,5,16,tantsupidu; hing; arm; vaike; agu; tantsima; mait; laul; maa
+6,7,3,5,5,3,3,6,5,16,tantsupidu; hing; arm; vaike; agu; tantsima; mait; laul; maa
+6,7,4,5,5,4,3,6,5,16,tantsupidu; hing; arm; vaike; rõõmupisar; tantsima; agu; mets; mait; tantsurühm; laul; maa
+4,6,4,6,5,6,4,6,5,16,tantsupidu; hing; arm; vaike; rõõmupisar; agu; tantsima; mait; tantsurühm; laul; maa
+5,7,3,9,5,5,3,6,5,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; agu; tantsima; tantsurühm; maa
+11,7,4,5,5,7,5,7,5,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+7,9,5,6,5,8,5,5,5,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+6,9,5,7,7,8,3,3,4,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa

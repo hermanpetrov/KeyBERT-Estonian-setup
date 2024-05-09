@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,1,1,1,2,12,haridus; arengukava; keele
 0,0,1,0,0,1,1,1,2,12,haridus; arengukava; keele
 0,0,1,0,0,1,1,1,2,12,haridus; arengukava; keele
-0,1,1,0,0,1,2,1,2,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,0,0,1,0,1,2,12,haridus; arengukava; krista; keele
-0,1,1,0,0,1,0,0,2,12,haridus; arengukava; krista; keele
-0,0,1,0,0,0,1,0,2,12,haridus; arengukava; krista; keele
-1,1,2,0,0,0,1,0,3,12,haridus; arengukava; krista; ühisosa; kerge; lingvistika; meedia
+0,1,1,0,0,1,2,1,2,12,haridus; keele; keelekorraldus; arengukava
+0,0,1,0,0,1,0,1,2,12,haridus; krista; arengukava; keele
+0,1,1,0,0,1,0,0,2,12,haridus; keele; krista; arengukava
+0,0,1,0,0,0,1,0,2,12,haridus; krista; arengukava; keele
+1,1,2,0,0,0,1,0,3,12,haridus; kerge; meedia; krista; ühisosa; lingvistika; arengukava

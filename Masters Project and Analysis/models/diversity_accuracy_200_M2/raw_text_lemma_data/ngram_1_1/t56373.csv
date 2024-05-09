@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,2,1,1,3,10,pulm; luksus; aadlik; sõda; pidu
-2,0,2,0,0,1,1,1,3,10,pulm; luksus; sõda; pidu
-1,0,2,0,0,1,1,1,3,10,luksus; sõda; pidu
-1,0,2,0,0,1,1,1,3,10,luksus; sõda; pidu
-1,0,1,0,0,2,1,2,3,10,luksus; sõda; pidu
-0,0,1,1,0,2,0,1,4,10,russow; luksus; sõda; pidu
-0,0,1,2,0,0,1,1,4,10,russow; luksus; sõda; pidu
-0,0,1,2,1,1,2,1,2,10,pulm; russow; luksus; sõda
-0,0,0,2,1,1,2,1,1,10,pulm; kirik; russow; sõda
-0,0,0,2,2,1,2,1,1,10,pulm; kirik; russow; sõda
-0,0,1,2,0,0,2,1,0,10,pulm; kirik; russow; sõda
+3,0,3,1,0,2,2,2,3,10,liivimaa; pulm; sõda; aadlik; talupoeg; luksus; pidu
+3,0,3,1,0,1,2,2,3,10,liivimaa; pulm; sõda; talupoeg; luksus; pidu
+2,0,3,1,0,1,2,2,3,10,pidu; talupoeg; luksus; liivimaa; sõda
+2,0,3,1,0,1,2,2,3,10,pidu; talupoeg; luksus; liivimaa; sõda
+2,0,2,1,0,3,1,3,3,10,pidu; talupoeg; luksus; liivimaa; sõda
+1,0,2,3,0,3,0,2,4,10,pidu; talupoeg; luksus; liivimaa; russow; sõda
+0,0,1,2,0,0,1,1,4,10,russow; luksus; pidu; sõda
+0,0,1,2,1,3,3,2,2,10,liivimaa; pulm; russow; sõda; talupoeg; luksus
+0,0,0,2,1,3,2,1,2,10,talupoeg; kirik; russow; liivimaa; pulm; sõda
+0,0,1,2,2,3,2,2,1,10,talupoeg; kirik; russow; liivimaa; pulm; sõda
+0,0,2,2,0,1,2,1,0,10,talupoeg; kirik; russow; liivimaa; pulm; sõda

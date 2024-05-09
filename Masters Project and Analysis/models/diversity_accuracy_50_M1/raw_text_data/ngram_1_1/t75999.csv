@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,1,1,0,1,0,12,mass; ajakirjandus
 0,0,1,0,1,1,0,1,0,12,mass; ajakirjandus
 0,0,1,0,1,1,0,1,0,12,mass; ajakirjandus
-0,0,3,0,1,1,0,1,0,12,mass; ajakirjandus; aule; tasuline
-0,0,4,0,1,1,0,1,0,12,kristi; mass; ajakirjandus; aule; tasuline
-0,0,2,0,1,0,0,1,0,12,kristi; mass; ajakirjandus; aule
-0,0,3,0,1,0,2,1,0,12,kristi; mass; ajakirjandus; tasuline; julgus
-0,0,2,1,1,0,1,0,0,12,kristi; mass; julgus; tasuline
-0,0,3,1,2,0,1,1,0,12,kristi; mass; ajakirjandus; tasuline; julgus; hall
-0,0,3,1,2,0,0,1,0,12,kristi; mass; ajakirjandus; aule; hall
+0,0,3,0,1,1,0,1,0,12,aule; tasuline; mass; ajakirjandus
+0,0,4,0,1,1,0,1,0,12,aule; tasuline; mass; ajakirjandus; kristi
+0,0,2,0,1,0,0,1,0,12,aule; mass; kristi; ajakirjandus
+0,0,3,0,1,0,2,1,0,12,tasuline; mass; julgus; ajakirjandus; kristi
+0,0,2,1,1,0,1,0,0,12,tasuline; mass; julgus; kristi
+0,0,3,1,2,0,1,1,0,12,tasuline; mass; julgus; ajakirjandus; hall; kristi
+0,0,3,1,2,0,0,1,0,12,aule; mass; ajakirjandus; hall; kristi

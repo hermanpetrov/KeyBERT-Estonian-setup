@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; surmapatt; käegalöömine
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; surmapatt; käegalöömine
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; surmapatt; käegalöömine
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; surmapatt; käegalöömine
-2,1,0,0,0,0,0,0,0,13,hüpertroofia; käegalöömine
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; kõrkus; käegalöömine
-2,1,1,0,0,0,0,0,0,13,hüpertroofia; kõrkus; käegalöömine
-1,1,0,0,0,0,0,0,0,13,hüpertroofia; käegalöömine
-1,1,1,0,0,0,1,0,0,13,hüpertroofia; evangelist; surmapatt; käegalöömine
-1,1,1,0,0,0,1,0,0,13,hüpertroofia; evangelist; surmapatt; käegalöömine
-1,1,0,0,0,0,1,0,0,13,evangelist; käegalöömine
+2,1,1,0,0,0,0,0,0,13,käegalöömine; surmapatt; hüpertroofia
+2,1,1,0,0,0,0,0,0,13,käegalöömine; surmapatt; hüpertroofia
+2,1,1,0,0,0,0,0,0,13,käegalöömine; surmapatt; hüpertroofia
+2,1,1,0,0,0,0,0,0,13,käegalöömine; surmapatt; hüpertroofia
+2,1,0,0,0,0,0,0,0,13,käegalöömine; hüpertroofia
+2,1,1,0,0,0,0,0,0,13,käegalöömine; kõrkus; hüpertroofia
+2,1,1,0,0,0,0,0,0,13,käegalöömine; kõrkus; hüpertroofia
+1,1,0,0,0,0,0,0,0,13,käegalöömine; hüpertroofia
+1,1,1,0,0,0,1,0,0,13,käegalöömine; surmapatt; hüpertroofia; evangelist
+1,1,1,0,0,0,1,0,0,13,käegalöömine; surmapatt; hüpertroofia; evangelist
+1,1,0,0,0,0,1,0,0,13,käegalöömine; evangelist

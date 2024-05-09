@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; jurist; õigus
-0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; jurist; õigus
-0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; jurist; õigus
-0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; jurist; õigus
-0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; jurist; õigus
-0,2,1,0,0,0,0,2,2,14,ühiskond; kirik; reimo; jurist; õigus; geiaktivine
-0,1,1,0,0,1,0,1,2,14,kirik; ühiskond; jurist; urmas; geiaktivine
-0,1,0,0,0,2,0,2,0,14,reimo; jurist; urmas; õigus
-0,0,0,1,0,2,1,3,1,14,mets; kirik; reimo; jurist; vaino; urmas
-0,0,0,0,0,0,1,2,0,14,jurist; mets; reimo
-0,0,0,0,0,1,0,2,0,14,jurist; urmas; reimo
+0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; õigus; jurist
+0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; õigus; jurist
+0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; õigus; jurist
+0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; õigus; jurist
+0,2,0,0,0,0,0,3,2,14,ühiskond; kirik; reimo; õigus; jurist
+0,2,1,0,0,0,0,2,2,14,õigus; kirik; reimo; geiaktivine; jurist; ühiskond
+0,1,1,0,0,1,0,1,2,14,kirik; urmas; geiaktivine; jurist; ühiskond
+0,1,0,0,0,2,0,2,0,14,urmas; reimo; õigus; jurist
+0,0,1,1,0,2,1,3,1,14,mets; vaino; urmas; perekonnaprobleem; kirik; reimo; jurist
+0,0,1,0,0,0,1,2,0,14,perekonnaprobleem; mets; reimo; jurist
+0,0,0,0,0,1,0,2,0,14,reimo; jurist; urmas

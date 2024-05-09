@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,2,2,0,13,adams; rahastamine; president
-0,1,0,0,0,1,2,2,0,13,adams; rahastamine; president
-0,1,0,0,0,1,2,2,0,13,adams; rahastamine; president
-0,1,0,0,0,1,2,2,0,13,adams; rahastamine; president
-0,1,1,0,0,1,2,2,0,13,adams; graafika; rahastamine; president
-0,1,0,0,0,1,2,2,0,13,adams; rahastamine; president
-1,2,1,1,0,1,2,5,0,13,rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-1,1,1,0,0,2,1,4,0,13,kontroll; andrus; ansip; adams; graafika; rahastamine
-1,1,1,0,0,2,3,4,0,13,kontroll; andrus; ansip; adams; graafika; rahastamine
-0,0,0,2,0,2,3,4,0,13,kontroll; andrus; ansip; adams; graafika; rahastamine
-2,1,0,0,0,1,3,4,1,13,poola; rahastamine; jüri; kontroll; andrus; adams; president
+0,1,0,0,0,1,3,2,0,13,parteiraha; adams; rahastamine; president
+0,1,0,0,0,1,3,2,0,13,parteiraha; adams; rahastamine; president
+0,1,0,0,0,1,3,2,0,13,parteiraha; adams; rahastamine; president
+0,1,0,0,0,1,3,2,0,13,parteiraha; adams; rahastamine; president
+0,1,1,0,0,1,3,2,0,13,parteiraha; adams; graafika; rahastamine; president
+0,1,0,0,0,1,3,2,0,13,parteiraha; adams; rahastamine; president
+1,2,1,1,0,1,3,5,0,13,parteiraha; andrus; graafika; jüri; president; ansip; adams; rahastamine; kontroll
+1,1,1,0,0,3,2,4,0,13,parteiraha; andrus; graafika; ansip; adams; rahastamine; kontroll
+1,1,1,0,0,3,4,4,0,13,parteiraha; andrus; graafika; ansip; adams; rahastamine; kontroll
+0,0,1,2,0,3,4,4,0,13,parteiraha; andrus; lumekoristustöö; graafika; ansip; adams; rahastamine; kontroll
+2,1,0,0,0,2,4,4,1,13,parteiraha; andrus; poola; jüri; president; adams; rahastamine; kontroll

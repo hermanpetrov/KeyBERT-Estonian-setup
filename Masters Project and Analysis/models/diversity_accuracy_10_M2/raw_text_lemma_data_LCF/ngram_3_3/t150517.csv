@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,2,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-0,1,2,2,1,1,1,1,1,11,simman; lõuna-eesti; tants; tantsima
-3,1,1,2,1,1,2,1,1,11,polk; simman; lõuna-eesti; tants; tantsima
-3,0,1,1,1,1,2,1,1,11,polk; lõuna-eesti; tants; simman
-2,0,2,1,1,1,2,2,1,11,polk; simman; lõuna-eesti; tants; tantsima
-1,0,2,1,1,1,2,2,1,11,polk; simman; lõuna-eesti; tants; tantsima
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,3,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+0,2,3,3,1,2,1,3,1,11,laulusõna; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+3,2,2,3,1,2,2,3,1,11,laulusõna; polk; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+3,1,2,2,1,2,2,3,1,11,laulusõna; polk; lõuna-eesti; lõõtspill; pillimäng; simman; tants
+2,1,3,2,1,2,3,4,1,11,laulusõna; polk; lõuna-eesti; lõõtspill; pillimäng; tantsima; simman; tants
+2,1,3,2,1,2,3,4,1,11,laulusõna; polk; lõuna-eesti; meelelahutus; lõõtspill; pillimäng; tantsima; simman; tants

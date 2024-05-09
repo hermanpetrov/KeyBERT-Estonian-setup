@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,0,0,0,3,12,kirik; praalimine; sõda; hein
-1,1,1,1,0,0,0,0,2,12,kirik; praalimine; sõda; hein
-1,1,1,1,0,0,0,0,1,12,kirik; sõda; praalimine
-1,1,1,1,0,0,0,0,1,12,kirik; sõda; praalimine
-1,1,3,1,0,0,0,0,1,12,kirik; praalimine; sõda; hein
-0,1,3,1,0,1,0,3,1,12,kirik; ants; kriivan; sõda; hein
-0,2,4,2,0,1,1,3,1,12,kirik; suu; ants; praalimine; kriivan; hein; sõda; piret
-1,1,3,2,0,1,2,1,2,12,kirik; praalimine; kriivan; sõda; piret
-1,1,3,2,1,1,1,2,2,12,kirik; suu; ants; kriivan; hein; sõda; piret
-2,1,3,3,1,2,1,3,1,12,kirik; suu; ants; kriivan; hein; sõda; piret
-2,2,3,3,2,1,2,2,1,12,kirik; suu; ants; kriivan; hein; sõda; piret
+1,2,2,2,0,1,0,1,4,12,kirik; pulmapidu; praalimine; sõda; talupoeg; hein
+1,2,2,2,0,1,0,1,3,12,pulmapidu; hein; kirik; talupoeg; praalimine; sõda
+1,2,2,2,0,1,0,1,2,12,pulmapidu; kirik; talupoeg; praalimine; sõda
+1,2,2,2,0,1,0,1,2,12,pulmapidu; kirik; talupoeg; praalimine; sõda
+1,2,4,2,0,1,0,1,2,12,pulmapidu; kirik; talupoeg; praalimine; sõda; hein
+0,2,4,2,0,3,1,3,2,12,kirik; kriivan; pulmapidu; sõda; talupoeg; ants; hein
+0,3,4,3,0,3,2,3,2,12,piret; kirik; kriivan; praalimine; suu; pulmapidu; sõda; talupoeg; ants; hein
+1,2,3,4,0,3,2,1,3,12,piret; kirik; kriivan; praalimine; pulmapidu; sõda; talupoeg
+1,3,3,3,1,2,2,2,2,12,piret; kirik; kriivan; pulmapidu; suu; sõda; talupoeg; ants; hein
+3,3,3,4,1,4,2,4,1,12,piret; kirik; kriivan; pulmapidu; suu; sõda; talupoeg; ants; hein
+2,4,3,4,3,3,3,3,1,12,piret; kirik; kriivan; pulmapidu; suu; sõda; talupoeg; ants; hein

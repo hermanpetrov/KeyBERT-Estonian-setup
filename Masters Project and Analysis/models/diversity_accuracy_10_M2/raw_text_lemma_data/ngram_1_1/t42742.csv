@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,1,0,0,10,kontsertorkester
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,1,0,0,0,10,toetama
-0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,0,0,10,
+0,0,2,0,0,0,2,1,0,10,noorteorkester; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,0,2,1,0,10,noorteorkester; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,0,2,1,0,10,noorteorkester; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,0,2,1,0,10,noorteorkester; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,0,2,1,0,10,noorteorkester; muusikaõpetaja; kontsertorkester; sümfooniaorkester
+0,0,0,0,0,0,2,0,0,10,kontsertorkester; sümfooniaorkester
+0,0,0,0,0,1,1,0,0,10,sümfooniaorkester
+0,1,0,0,0,1,0,0,0,10,noorteorkester; sümfooniaorkester
+0,1,0,0,0,2,0,0,0,10,noorteorkester; sümfooniaorkester; toetama
+0,0,0,0,0,1,0,0,0,10,sümfooniaorkester
+0,0,0,0,0,1,0,0,0,10,sümfooniaorkester

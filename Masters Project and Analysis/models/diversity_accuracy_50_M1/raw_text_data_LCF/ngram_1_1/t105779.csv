@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,0,1,15,estraadiorkester; varietee; artur
-1,0,0,0,0,1,1,0,0,15,estraadiorkester; varietee
-1,0,0,0,0,1,1,0,0,15,estraadiorkester; varietee
-1,0,0,0,0,1,1,0,0,15,estraadiorkester; varietee
-1,0,0,0,0,1,1,0,1,15,estraadiorkester; varietee; joala
-1,0,0,0,0,1,1,0,1,15,estraadiorkester; varietee; joala
-1,0,1,1,0,1,1,0,1,15,estraadiorkester; varietee; joala
-1,0,1,1,0,2,2,1,1,15,estraadiorkester; saul; varietee; joala; jaak
-1,0,1,1,0,2,3,0,2,15,rinne; selberg; estraadiorkester; saul; varietee; joala
-0,0,1,1,0,2,4,1,3,15,rinne; edgar; selberg; saul; jaak; estraadiorkester; varietee; joala
-0,0,1,1,0,1,3,0,3,15,rinne; edgar; selberg; estraadiorkester; saul; varietee; joala
+1,0,0,0,0,1,0,1,0,15,artur; estraadiorkester; varietee
+1,0,0,0,0,1,0,0,0,15,estraadiorkester; varietee
+1,0,0,0,0,1,0,0,0,15,estraadiorkester; varietee
+1,0,0,0,0,1,0,0,0,15,estraadiorkester; varietee
+1,0,0,0,0,1,0,1,0,15,joala; estraadiorkester; varietee
+1,0,0,0,0,1,0,1,0,15,joala; estraadiorkester; varietee
+1,0,1,1,0,1,0,1,0,15,joala; estraadiorkester; varietee
+1,0,1,1,0,2,1,1,0,15,jaak; varietee; joala; saul; estraadiorkester
+1,0,1,1,0,3,0,2,0,15,selberg; rinne; varietee; joala; saul; estraadiorkester
+0,0,1,1,0,4,1,3,0,15,edgar; jaak; rinne; varietee; joala; selberg; saul; estraadiorkester
+0,0,1,1,0,3,0,3,0,15,selberg; edgar; rinne; varietee; joala; saul; estraadiorkester

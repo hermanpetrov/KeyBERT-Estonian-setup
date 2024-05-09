@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,4,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,4,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,4,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,4,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,4,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,3,4,0,5,4,4,3,15,raamat; johannes; õppimine; eesti; soome; keel; aavik; kullo
-3,3,3,1,0,4,4,5,3,15,raamat; johannes; eesti; soome; keel; kullo
-4,3,2,2,1,3,2,3,3,15,raamat; kirjutamine; johannes; eesti; soome; keel; õppimine; kullo
-4,3,3,3,2,3,3,4,3,15,raamat; kirjutamine; johannes; eesti; soome; mika; keel; õppimine; kullo
-5,3,4,6,2,5,3,1,3,15,raamat; kirjutamine; johannes; eesti; soome; mika; keel; vend; kullo
-4,2,4,6,0,5,2,2,4,15,raamat; kirjutamine; johannes; eesti; soome; mika; keel; kullo
+6,4,4,4,0,6,6,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+6,4,4,4,0,6,6,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+6,4,4,4,0,6,6,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+6,4,4,4,0,6,6,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+6,4,4,4,0,6,6,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+6,4,4,4,0,6,6,6,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; aavik; kullo
+5,5,4,1,0,6,6,6,3,15,sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; kullo
+5,4,2,2,1,4,3,5,3,15,õppimine; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; raamat; kirjutamine; kullo
+5,3,4,3,2,4,4,5,3,15,õppimine; soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; raamat; kirjutamine; kullo
+5,3,5,6,2,6,4,2,3,15,vend; soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; raamat; kirjutamine; kullo
+4,2,5,6,0,6,3,3,4,15,soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; raamat; kirjutamine; kullo

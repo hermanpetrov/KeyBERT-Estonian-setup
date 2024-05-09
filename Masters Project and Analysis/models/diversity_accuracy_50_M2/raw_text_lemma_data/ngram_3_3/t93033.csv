@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,2,6,1,3,2,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-5,3,2,6,1,3,2,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-5,3,2,6,1,3,2,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-5,3,2,6,1,3,2,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-6,3,3,6,1,3,3,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-7,3,2,6,1,3,3,2,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis
-6,3,3,6,2,3,3,4,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; jarmuk
-4,1,2,6,1,2,5,4,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; jarmuk
-3,3,1,4,3,2,5,2,5,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis; jarmuk
-4,1,3,5,5,2,5,4,4,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis; jarmuk
-7,4,3,6,5,2,4,2,5,18,hans; hindper; nädal; kontsert; laager; restoran; eesti; konverents; isis; jarmuk
+7,3,4,8,1,6,4,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+7,3,4,8,1,6,4,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+7,3,4,8,1,6,4,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+7,3,4,8,1,6,4,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+8,3,4,8,1,6,5,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+9,4,3,8,1,6,6,3,5,18,hans; eesti; isis; ülikool; konverents; koolitulistamine; nädal; laager; usuäärmuslus; hindper; restoran; kontsert
+8,3,5,7,2,6,5,5,5,18,hans; eesti; koolitulistamine; konverents; ülikool; nädal; kontsert; jarmuk; usuäärmuslus; hindper; restoran; laager
+6,4,3,8,2,4,7,5,5,18,eesti; hans; koolitulistamine; konverents; ülikool; nädal; kontsert; jarmuk; usuäärmuslus; hindper; restoran; laager
+4,5,2,5,3,4,6,3,6,18,eesti; hans; isis; ülikool; konverents; koolitulistamine; nädal; laager; jarmuk; usuäärmuslus; hindper; restoran; kontsert
+5,3,5,5,5,3,6,5,4,18,eesti; hans; isis; ülikool; konverents; koolitulistamine; nädal; laager; jarmuk; usuäärmuslus; hindper; restoran; kontsert
+8,5,3,6,5,4,6,3,5,18,hans; eesti; isis; koolitulistamine; konverents; ülikool; nädal; laager; jarmuk; usuäärmuslus; hindper; restoran; kontsert

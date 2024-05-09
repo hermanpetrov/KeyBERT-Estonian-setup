@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,2,3,2,2,3,4,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; ant; päike; surnu
-6,5,3,2,2,4,3,5,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; ant; päike; surnu
-7,5,3,2,2,4,4,6,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-8,5,4,2,3,4,3,7,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-8,6,4,3,3,4,4,7,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-8,6,5,3,4,6,5,7,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-7,4,4,6,4,6,7,8,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-7,6,5,9,5,7,7,7,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-6,6,6,9,6,7,6,6,7,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-7,6,6,8,7,7,7,6,7,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
-5,7,8,8,7,7,7,7,6,12,chachapoyas; poeg; linn; muumia; ink; kindlus; päike; ant; surnu
+6,5,2,3,2,2,3,4,6,12,chachapoyas; muumia; päike; ink; poeg; surnu; ant; kindlus; linn
+6,5,3,2,2,4,3,5,6,12,chachapoyas; muumia; päike; ink; poeg; surnu; ant; kindlus; linn
+7,5,3,2,2,4,4,6,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+8,5,4,2,3,4,3,7,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+8,6,4,3,3,4,4,7,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+8,6,5,3,4,6,5,7,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+7,4,4,6,4,6,7,8,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn
+7,6,5,9,5,7,7,7,6,12,chachapoyas; muumia; päike; ink; poeg; surnu; ant; kindlus; linn
+6,6,6,9,6,7,6,6,7,12,chachapoyas; muumia; päike; ink; poeg; surnu; ant; kindlus; linn
+7,6,6,8,7,7,7,6,7,12,chachapoyas; muumia; päike; ink; poeg; surnu; ant; kindlus; linn
+5,7,8,8,7,7,7,7,6,12,chachapoyas; päike; muumia; ink; poeg; surnu; ant; kindlus; linn

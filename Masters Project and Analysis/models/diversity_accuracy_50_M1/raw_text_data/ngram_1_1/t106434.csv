@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,2,1,0,3,3,1,3,15,töö; puhkpillikvintett; loominguline; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-4,2,2,1,0,3,3,1,3,15,töö; puhkpillikvintett; loominguline; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-4,2,2,1,0,3,3,1,3,15,töö; puhkpillikvintett; loominguline; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-4,2,2,1,0,3,3,0,3,15,töö; puhkpillikvintett; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-4,2,1,1,0,3,3,0,3,15,töö; puhkpillikvintett; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-4,2,1,1,0,3,3,0,3,15,töö; puhkpillikvintett; eesti; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-2,2,2,1,0,2,3,1,3,15,töö; puhkpillikvintett; eesti; tants; kirill; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-1,2,3,1,0,1,4,1,3,15,töö; puhkpillikvintett; matti; eesti; tants; kirill; sümfooniaorkester; reimann; prelüüd
-1,1,3,2,0,4,2,2,3,15,töö; puhkpillikvintett; matti; loominguline; eesti; tants; kirill; sümfooniaorkester; reimann; prelüüd
-2,0,3,1,0,1,3,2,3,15,puhkpillikvintett; eesti; tants; kirill; sümfooniaorkester; reimann; prelüüd
-1,0,2,1,0,3,2,2,3,15,puhkpillikvintett; loominguline; eesti; kirill; sümfooniaorkester; reimann; prelüüd; tants
+4,2,2,1,0,3,3,1,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd; loominguline
+4,2,2,1,0,3,3,1,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd; loominguline
+4,2,2,1,0,3,3,1,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd; loominguline
+4,2,2,1,0,3,3,0,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd
+4,2,1,1,0,3,3,0,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd
+4,2,1,1,0,3,3,0,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd
+2,2,2,1,0,2,3,1,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd; tants
+1,2,3,1,0,1,4,1,3,15,kirill; eesti; töö; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; matti; tants
+1,1,3,2,0,4,2,2,3,15,kirill; eesti; loominguline; töö; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; matti; tants
+2,0,3,1,0,1,3,2,3,15,kirill; eesti; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; tants
+1,0,2,1,0,3,2,2,3,15,kirill; eesti; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; loominguline; tants

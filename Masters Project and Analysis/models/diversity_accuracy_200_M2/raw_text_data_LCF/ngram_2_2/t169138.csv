@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,8,9,8,6,6,7,8,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,8,9,8,6,6,8,8,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,8,9,9,6,6,9,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,8,9,9,7,7,9,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,8,9,9,7,8,9,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,9,9,9,9,8,8,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-8,9,9,8,9,8,8,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,9,9,9,9,8,8,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-8,9,9,9,9,8,9,9,7,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,9,8,8,8,8,8,9,6,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
-9,9,9,8,8,8,9,9,8,14,kodaniku; tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
+9,8,9,8,6,7,8,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,8,9,8,6,8,8,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,8,9,9,6,9,9,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,8,9,9,7,9,9,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,8,9,9,7,9,9,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,9,9,9,9,8,9,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+8,9,9,8,9,8,9,6,0,14,lasteporno; vanglakaristus; pedofiilia; kodaniku; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,9,9,9,9,8,9,6,0,14,lasteporno; vanglakaristus; kodaniku; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+8,9,9,9,9,9,9,7,0,14,lasteporno; vanglakaristus; pedofiilia; kodaniku; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,9,8,8,8,8,9,6,0,14,lasteporno; vanglakaristus; pedofiilia; kodaniku; port; pakkuja; kristjan; internetiteenuse; tehnoloogia
+9,9,9,8,8,9,9,8,0,14,lasteporno; vanglakaristus; pedofiilia; kodaniku; port; pakkuja; kristjan; internetiteenuse; tehnoloogia

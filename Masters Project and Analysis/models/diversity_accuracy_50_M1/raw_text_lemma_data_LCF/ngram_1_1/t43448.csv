@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,0,1,1,1,0,13,kollektsioon; näitus; interaktiivne
-0,0,3,0,0,1,1,1,0,13,kollektsioon; näitus; interaktiivne
-0,0,3,0,0,1,1,1,0,13,kollektsioon; näitus; interaktiivne
-0,0,3,0,0,1,1,1,0,13,kollektsioon; näitus; interaktiivne
-0,0,3,0,0,1,1,0,0,13,kollektsioon; näitus; interaktiivne
-0,0,1,0,0,0,1,0,0,13,näitus; interaktiivne
-0,0,1,1,0,0,2,1,0,13,kollektsioon; näitus; interaktiivne
-0,0,1,1,0,1,1,1,0,13,kollektsioon; ivar; interaktiivne
-0,0,1,1,0,1,1,0,0,13,ivar; interaktiivne
-0,0,1,0,0,1,0,0,0,13,ivar; interaktiivne
-0,0,1,1,0,2,0,0,0,13,ivar; interaktiivne
+2,1,4,1,0,2,2,4,1,13,põhjarahvas; suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+2,1,4,1,0,2,2,4,1,13,põhjarahvas; suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+2,1,4,1,0,2,2,4,1,13,põhjarahvas; suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+2,1,4,1,0,2,2,4,1,13,põhjarahvas; suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+2,0,4,1,0,2,2,3,1,13,põhjarahvas; suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+1,0,2,0,0,1,2,3,1,13,keldriruum; suurgild; mündikogu; ajaloomuuseum; näitus; interaktiivne
+2,1,2,1,0,0,2,4,1,13,suurgild; kollektsioon; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+1,1,2,1,0,1,1,4,0,13,keldriruum; kollektsioon; mündikogu; ajaloomuuseum; suurgild; ivar; interaktiivne
+1,0,2,1,0,1,1,1,1,13,ajaloomuuseum; suurgild; ivar; interaktiivne
+0,0,2,0,0,1,1,1,1,13,keldriruum; ajaloomuuseum; suurgild; ivar; interaktiivne
+0,0,2,2,0,2,1,1,0,13,keldriruum; ajaloomuuseum; suurgild; ivar; interaktiivne

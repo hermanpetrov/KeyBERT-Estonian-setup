@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,1,2,2,2,2,4,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,2,2,2,2,2,5,2,13,ema; ilmar; martin; sool; kõrvaline; isa; pius
-3,3,2,3,2,2,2,6,1,13,ema; tomusk; ilmar; sool; martin; kõrvaline; isa; pius
-3,3,2,3,2,2,2,7,2,13,ema; märt; tomusk; ilmar; martin; kõrvaline; sool; isa; pius
-3,1,1,2,2,2,3,7,2,13,ema; märt; isik; tomusk; ilmar; martin; sool; kõrvaline; isa; pius
+3,3,1,3,2,2,2,4,2,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,1,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,1,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,1,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,1,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,2,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,2,3,2,2,2,4,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,3,3,2,2,2,5,3,13,martin; pius; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,3,4,2,2,2,6,2,13,martin; pius; tomusk; ilmar; isa; sool; ema; kõrvaline; pannkook
+3,3,2,3,2,2,2,7,2,13,martin; pius; tomusk; ilmar; märt; isa; sool; ema; kõrvaline
+3,1,2,2,2,2,3,7,3,13,martin; pius; tomusk; ilmar; isik; märt; isa; sool; ema; kõrvaline; pannkook

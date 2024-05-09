@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,5,2,2,2,5,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-3,3,2,5,2,2,2,5,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-3,3,2,5,2,2,2,5,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-3,3,3,5,2,2,2,5,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-3,3,4,5,2,2,2,5,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-4,2,2,6,2,2,3,4,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-2,3,3,5,2,3,3,6,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; liivrand; aktsia; mälberg; hansapanga; juhan
-4,3,3,4,3,3,1,3,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; aktsia; mälberg; hansapanga; juhan
-3,1,1,3,2,4,2,2,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; mälberg; hansapanga; juhan
-3,3,3,5,2,4,3,4,1,14,tuumarelv; harry; välisminister; mall; koalitsioon; aktsia; mälberg; hansapanga; juhan
-1,1,6,6,2,4,3,3,2,14,tuumarelv; harry; välisminister; mall; koalitsioon; aktsia; mälberg; hansapanga; juhan
+3,3,2,5,2,2,2,5,1,14,liivrand; tuumarelv; mälberg; hansapanga; välisminister; juhan; mall; harry; aktsia; koalitsioon
+3,3,2,5,2,2,2,5,1,14,liivrand; tuumarelv; mälberg; hansapanga; välisminister; juhan; mall; harry; aktsia; koalitsioon
+3,3,2,5,2,2,2,5,1,14,liivrand; tuumarelv; mälberg; hansapanga; välisminister; juhan; mall; harry; aktsia; koalitsioon
+3,3,3,5,2,2,2,5,1,14,liivrand; tuumarelv; mälberg; hansapanga; välisminister; juhan; mall; harry; aktsia; koalitsioon
+3,3,4,5,2,2,2,5,1,14,liivrand; tuumarelv; mälberg; harry; hansapanga; välisminister; mall; juhan; aktsia; koalitsioon
+4,2,2,6,2,2,3,4,1,14,liivrand; tuumarelv; mälberg; harry; hansapanga; välisminister; mall; juhan; aktsia; koalitsioon
+2,3,3,5,2,3,3,6,1,14,liivrand; tuumarelv; mälberg; hansapanga; välisminister; mall; juhan; harry; aktsia; koalitsioon
+4,3,3,4,3,3,1,3,1,14,tuumarelv; mälberg; hansapanga; mall; välisminister; juhan; harry; aktsia; koalitsioon
+3,1,1,3,2,4,2,2,1,14,koalitsioon; mälberg; harry; hansapanga; mall; välisminister; juhan; tuumarelv
+3,3,3,5,2,4,3,4,1,14,tuumarelv; mälberg; harry; hansapanga; välisminister; mall; juhan; aktsia; koalitsioon
+1,1,6,6,2,4,3,3,2,14,koalitsioon; mälberg; harry; hansapanga; mall; välisminister; juhan; aktsia; tuumarelv

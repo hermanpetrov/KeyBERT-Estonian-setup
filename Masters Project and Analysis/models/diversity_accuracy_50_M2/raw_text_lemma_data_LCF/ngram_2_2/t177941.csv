@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,1,3,3,2,1,14,lavakas; tooming; näitleja; jaak; margus; rapla; ehin
-2,1,1,0,1,3,3,2,1,14,lavakas; tooming; näitleja; jaak; margus; rapla; ehin
-2,1,1,0,1,3,3,2,1,14,lavakas; tooming; näitleja; jaak; margus; rapla; ehin
-2,1,1,0,1,3,3,2,1,14,lavakas; tooming; näitleja; jaak; margus; rapla; ehin
-2,2,1,0,1,3,3,5,1,14,andres; lavakas; tooming; näitleja; jaak; margus; rapla; ehin
-2,2,1,0,1,3,3,5,1,14,andres; lavakas; tooming; näitleja; jaak; margus; rapla; jaan; ehin
-3,2,2,3,1,4,4,5,1,14,andres; lavakas; näitleja; tooming; jaak; margus; rapla; jaan; allik; ehin
-2,1,4,0,1,3,4,5,1,14,andres; lavakas; tooming; näitleja; jaak; margus; rapla; allik; jaan; ehin
-1,3,3,3,1,3,5,3,1,14,andres; tooming; näitleja; jaak; margus; allik; jaan; rapla; ehin
-3,0,1,3,1,4,3,3,1,14,andres; tooming; näitleja; margus; jaan; rapla; ehin
-3,4,1,3,1,4,4,4,1,14,andres; tooming; näitleja; margus; jaan; rapla; ehin
+2,1,2,2,1,4,4,4,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; margus; tooming; lavakas
+2,1,2,2,1,4,4,4,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; margus; tooming; lavakas
+2,1,2,2,1,4,4,4,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; margus; tooming; lavakas
+2,1,2,2,1,4,4,4,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; margus; tooming; lavakas
+2,2,2,2,1,4,5,7,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; margus; andres; tooming; lavakas
+2,2,2,2,1,4,4,7,1,14,mikomägi; ajakirjanik; jaak; rapla; kultuuripärl; näitleja; ehin; jaan; margus; andres; tooming; lavakas
+3,2,4,4,1,5,5,7,1,14,mikomägi; ajakirjanik; jaak; rapla; allik; kultuuripärl; näitleja; ehin; jaan; margus; andres; tooming; lavakas
+2,2,5,1,1,4,5,7,1,14,mikomägi; ajakirjanik; jaak; rapla; allik; näitleja; ehin; jaan; margus; andres; tooming; lavakas
+1,3,4,3,1,3,5,5,1,14,mikomägi; ajakirjanik; jaak; rapla; allik; kultuuripärl; näitleja; ehin; jaan; margus; andres; tooming
+3,0,2,3,1,4,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; ehin; jaan; margus; andres; tooming
+3,4,2,4,1,4,4,5,1,14,mikomägi; ajakirjanik; rapla; näitleja; ehin; jaan; margus; andres; tooming

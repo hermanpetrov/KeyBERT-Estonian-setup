@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,16,
-0,0,0,0,0,0,0,0,0,16,
-0,0,0,0,0,0,0,0,0,16,
-0,0,0,0,0,0,0,0,0,16,
-0,0,0,0,0,0,0,0,0,16,
-0,0,0,0,0,0,0,0,0,16,
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
+0,0,1,0,0,0,0,0,0,16,kunstiajalugu
 0,0,0,0,0,0,0,1,0,16,kuraator
-0,0,1,0,0,0,0,1,0,16,kuraator; grigor
-0,0,1,0,0,0,0,1,0,16,margit; kuraator
+1,0,1,0,0,0,0,1,0,16,kuraator; žestipõhine; grigor
+0,0,1,0,0,0,0,1,0,16,kuraator; margit
 0,0,0,0,0,0,0,0,0,16,
 0,0,0,0,0,0,0,0,0,16,

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,4,1,0,1,2,1,2,14,merivoo-parro; muusika; klassikokkutulek; eesti; maarja; raadio
-2,1,4,1,0,1,2,1,2,14,merivoo-parro; muusika; klassikokkutulek; eesti; maarja; raadio
-2,1,4,1,0,1,2,1,2,14,merivoo-parro; muusika; klassikokkutulek; eesti; maarja; raadio
-2,2,3,1,0,1,2,1,2,14,merivoo-parro; bänd; muusika; klassikokkutulek; eesti; maarja; raadio
-2,2,3,1,0,1,2,1,2,14,merivoo-parro; bänd; muusika; klassikokkutulek; eesti; maarja; raadio
-1,2,3,0,0,1,1,1,2,14,merivoo-parro; bänd; muusika; eesti; maarja; raadio
-2,1,3,1,0,1,2,1,2,14,merivoo-parro; muusika; klassikokkutulek; eesti; maarja; raadio
-1,1,3,2,0,1,2,2,2,14,merivoo-parro; muusika; ansambel; eesti; maarja; raadio
-0,0,3,2,0,3,1,2,2,14,merivoo-parro; kaks; ansambel; muusika; eesti; maarja; raadio
-0,0,2,1,1,2,2,2,2,14,maarja; merivoo-parro; laul; muusika; raadio; eesti; kaks
-0,0,3,1,0,2,2,2,1,14,merivoo-parro; laul; tmw; eesti; maarja; raadio
+2,1,4,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; klassikokkutulek
+2,1,4,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; klassikokkutulek
+2,1,4,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; klassikokkutulek
+2,2,3,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; bänd; klassikokkutulek
+2,2,3,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; bänd; klassikokkutulek
+1,2,3,0,0,1,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; bänd
+2,1,3,1,0,2,1,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; klassikokkutulek
+1,1,3,2,0,2,2,2,0,14,raadio; ansambel; merivoo-parro; maarja; muusika; eesti
+0,0,3,2,0,1,2,2,0,14,raadio; ansambel; merivoo-parro; maarja; muusika; eesti
+0,0,2,1,1,2,2,2,0,14,raadio; merivoo-parro; maarja; muusika; eesti; kaks; laul
+0,0,3,1,0,2,2,1,0,14,raadio; merivoo-parro; maarja; eesti; tmw; laul

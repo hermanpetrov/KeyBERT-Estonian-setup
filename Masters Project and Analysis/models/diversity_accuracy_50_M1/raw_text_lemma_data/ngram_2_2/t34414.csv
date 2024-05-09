@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,4,2,1,4,4,3,2,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-7,4,4,2,1,4,4,3,2,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-7,4,4,2,1,4,4,3,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-7,4,4,2,1,4,4,3,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-7,4,4,2,1,4,4,3,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-7,3,3,2,1,5,5,3,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-5,4,4,2,1,5,5,4,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-6,2,3,4,1,5,4,4,4,13,ants; salme; janek; johanson; tartu; komisjon; euro; euroopa
-4,2,2,4,1,3,3,3,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-1,5,5,3,3,3,3,4,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
-3,4,5,3,2,5,4,4,4,13,ants; salme; janek; inflatsioon; johanson; tartu; komisjon; euro; euroopa
+9,7,5,4,1,5,5,4,2,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+9,7,5,4,1,5,5,4,2,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+9,7,5,4,1,5,5,4,4,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+9,7,5,4,1,5,5,4,4,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+9,7,5,4,1,5,5,4,4,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+9,6,5,4,1,6,6,4,4,13,johanson; salme; komisjon; üleminek; janek; tartu; inflatsioon; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+6,6,6,4,1,7,7,5,4,13,johanson; salme; komisjon; üleminek; inflatsioon; tartu; janek; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+6,5,5,5,1,7,6,5,4,13,komisjon; johanson; salme; üleminek; janek; tartu; euro; laevaliiklus; euroopa; rahvakultuurifestiva; ants
+4,4,4,4,1,5,4,4,4,13,komisjon; salme; johanson; janek; üleminek; tartu; euro; laevaliiklus; euroopa; inflatsioon; ants
+1,7,6,3,3,6,4,6,4,13,johanson; komisjon; salme; üleminek; janek; tartu; euro; laevaliiklus; euroopa; rahvakultuurifestiva; inflatsioon; ants
+3,6,6,4,2,7,4,6,4,13,euroopa; komisjon; johanson; salme; üleminek; janek; tartu; euro; laevaliiklus; ants; rahvakultuurifestiva; inflatsioon

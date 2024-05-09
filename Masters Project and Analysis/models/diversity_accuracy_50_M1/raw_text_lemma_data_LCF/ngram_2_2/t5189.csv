@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,6,3,1,0,1,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; õunpuu
-3,2,6,3,1,0,1,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; õunpuu
-3,2,6,3,1,0,1,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; õunpuu
-3,2,6,3,1,0,1,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; õunpuu; sortimine
-3,2,5,3,1,0,1,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; õunpuu
-2,2,6,3,1,0,0,3,0,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; laidoner; sortimine
-2,1,3,3,2,0,1,4,0,17,riina; probleem; üürnik; eentalu; jäätmed; gruusia; õunpuu; laidoner; sulev; sortimine; veiko
-2,2,4,2,1,2,1,4,0,17,muuseum; riina; probleem; eentalu; jäätmed; gruusia; laidoner; õunpuu; sulev; sortimine; veiko
-2,3,5,2,1,2,1,2,2,17,muuseum; riina; probleem; eentalu; jäätmed; gruusia; õunpuu; laidoner; sortimine; veiko
-1,3,5,3,1,2,0,2,3,17,muuseum; riina; probleem; üürnik; eentalu; jäätmed; gruusia; laidoner; sortimine; veiko
-1,0,5,2,0,2,1,3,2,17,muuseum; riina; probleem; üürnik; gruusia; eentalu; laidoner; veiko
+4,3,6,4,1,1,1,4,0,17,laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; muuseum; üürnik; probleem
+4,3,6,4,1,1,1,4,0,17,laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; muuseum; üürnik; probleem
+4,3,6,4,1,1,1,4,0,17,laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; muuseum; üürnik; probleem
+4,3,6,4,1,1,1,4,0,17,laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; probleem; muuseum; üürnik; sortimine
+4,3,7,4,1,1,1,4,0,17,venemaa; laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; muuseum; üürnik; probleem
+3,3,6,4,1,1,1,5,0,17,venemaa; laidoner; eentalu; riina; konkurentsivõime; sõjakuritegu; jäätmed; probleem; muuseum; üürnik; sortimine
+2,2,3,4,2,1,2,6,0,17,venemaa; gruusia; laidoner; eentalu; sulev; riina; veiko; konkurentsivõime; jäätmed; õunpuu; probleem; üürnik; sortimine
+4,3,4,3,1,3,1,6,0,17,venemaa; gruusia; laidoner; eentalu; sulev; riina; veiko; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; probleem; muuseum; sortimine
+2,5,6,4,1,3,1,4,2,17,venemaa; gruusia; laidoner; eentalu; sortimine; riina; veiko; konkurentsivõime; sõjakuritegu; jäätmed; õunpuu; muuseum; probleem
+2,6,6,5,1,3,0,3,3,17,venemaa; gruusia; laidoner; eentalu; riina; veiko; sõjakuritegu; konkurentsivõime; jäätmed; probleem; muuseum; üürnik; sortimine
+1,2,7,3,0,4,2,6,2,17,venemaa; gruusia; laidoner; eentalu; rahukõnelus; riina; veiko; konkurentsivõime; sõjakuritegu; muuseum; üürnik; probleem

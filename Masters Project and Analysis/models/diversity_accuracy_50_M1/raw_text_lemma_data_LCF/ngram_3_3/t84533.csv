@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,2,2,2,3,2,3,1,16,aleksejev; kirjanik; muutus; hemingway; film; allik; sõda
-4,2,2,2,2,3,2,3,1,16,aleksejev; kirjanik; muutus; hemingway; film; allik; sõda
-4,2,2,2,2,3,2,3,1,16,aleksejev; kirjanik; muutus; hemingway; film; allik; sõda
-4,2,2,2,2,3,2,3,1,16,aleksejev; kirjanik; muutus; hemingway; film; allik; sõda
-4,2,3,2,2,3,3,4,1,16,aleksejev; kirjanik; muutus; hemingway; film; allik; sõda
-5,3,7,2,2,3,4,3,1,16,aleksejev; kirjanik; muutus; hemingway; helme; peeter; film; allik; sõda
-4,3,6,4,2,5,2,5,1,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; sõda
-5,5,4,1,2,4,4,8,2,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
-6,6,5,2,1,5,4,5,3,16,aleksejev; kirjanik; heli; muutus; hemingway; tiit; helme; peeter; film; allik; sõda
-3,4,4,3,0,6,3,5,3,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; sõda
-3,6,2,3,2,6,3,4,2,16,aleksejev; kirjanik; muutus; hemingway; tiit; helme; peeter; film; sõda
+5,3,3,3,2,5,3,4,1,16,film; läänerinne; kirjanik; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+5,3,3,3,2,5,3,4,1,16,film; läänerinne; kirjanik; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+5,3,3,3,2,5,3,4,1,16,film; läänerinne; kirjanik; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+5,3,3,3,2,5,3,4,1,16,film; läänerinne; kirjanik; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+5,3,4,3,2,5,5,5,1,16,film; läänerinne; kirjanik; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+6,4,8,3,2,5,6,5,1,16,film; läänerinne; peeter; kirjanik; helme; allik; sõjaromaan; ajalugu; sõda; muutus; aleksejev; hemingway
+6,4,8,6,2,7,4,6,1,16,film; läänerinne; peeter; kirjanik; helme; sõjaromaan; ajalugu; tiit; sõda; muutus; aleksejev; hemingway
+6,5,5,2,3,7,5,10,2,16,film; läänerinne; allik; helme; sõjaromaan; ajalugu; tiit; sõda; muutus; aleksejev; peeter; kirjanik; hemingway
+7,7,5,3,1,6,6,8,3,16,film; läänerinne; allik; helme; sõjaromaan; ajalugu; tiit; sõda; muutus; aleksejev; minavorm; peeter; kirjanik; heli; hemingway
+4,5,4,5,0,7,6,7,4,16,film; läänerinne; helme; sõjaromaan; ajalugu; tiit; sõda; muutus; aleksejev; minavorm; peeter; kirjanik; hemingway
+3,7,2,4,3,6,6,6,2,16,film; läänerinne; peeter; minavorm; helme; kirjanik; sõjaromaan; ajalugu; tiit; sõda; muutus; aleksejev; hemingway

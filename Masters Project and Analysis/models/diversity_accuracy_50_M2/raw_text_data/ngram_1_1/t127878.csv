@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,1,2,2,1,0,11,olme; kirjanik; lavastus; vadi
-0,1,1,1,1,2,2,1,0,11,olme; kirjanik; lavastus; vadi
-0,1,1,1,1,2,2,1,0,11,olme; kirjanik; lavastus; vadi
-0,1,1,1,1,2,2,1,0,11,olme; kirjanik; lavastus; vadi
-0,1,1,1,1,2,1,0,0,11,olme; kirjanik; lavastus; vadi
-0,1,3,1,1,1,3,0,0,11,olme; kirjanik; furby; urmas; vadi; võõras
-0,1,3,1,1,0,1,0,0,11,olme; raamat; kirjanik; sotsiaalmeedia; urmas; vadi
-0,0,4,1,1,0,1,1,0,11,olme; furby; urmas; sotsiaalmeedia; vadi; võõras
-0,1,1,0,1,1,0,0,0,11,olme; furby; kirjanik; vadi
+0,1,1,1,1,2,2,1,0,11,kirjanik; lavastus; olme; vadi
+0,1,1,1,1,2,2,1,0,11,kirjanik; lavastus; olme; vadi
+0,1,1,1,1,2,2,1,0,11,kirjanik; lavastus; olme; vadi
+0,1,1,1,1,2,2,1,0,11,kirjanik; lavastus; olme; vadi
+0,1,1,1,1,2,1,0,0,11,kirjanik; lavastus; olme; vadi
+0,1,3,1,1,1,3,0,0,11,võõras; furby; kirjanik; urmas; olme; vadi
+0,1,3,1,1,0,1,0,0,11,raamat; kirjanik; urmas; olme; vadi; sotsiaalmeedia
+0,0,4,1,1,0,1,1,0,11,võõras; furby; urmas; olme; vadi; sotsiaalmeedia
+0,1,1,0,1,1,0,0,0,11,olme; furby; vadi; kirjanik
 0,0,2,1,1,0,0,1,0,11,olme; furby; sotsiaalmeedia
 0,1,1,1,1,0,0,1,0,11,olme; furby; sotsiaalmeedia

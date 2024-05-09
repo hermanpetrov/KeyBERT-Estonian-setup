@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,0,11,pärnu
 0,1,0,0,0,0,0,0,0,11,pärnu
 0,1,0,0,0,0,0,0,0,11,pärnu
-0,1,0,0,0,0,0,1,0,11,punaarmee; pärnu
-0,0,0,0,0,0,0,1,0,11,punaarmee
+0,1,0,0,0,0,1,0,0,11,pärnu; punaarmee
+0,0,0,0,0,0,1,0,0,11,punaarmee
 0,0,0,0,0,0,0,0,0,11,
 0,0,1,0,0,0,0,0,0,11,pärnu
-0,0,1,0,0,0,1,0,0,11,pärnu; laager
-0,0,0,0,0,0,1,0,0,11,laager
+0,0,1,0,0,1,0,0,0,11,pärnu; laager
+0,0,0,0,0,1,0,0,0,11,laager

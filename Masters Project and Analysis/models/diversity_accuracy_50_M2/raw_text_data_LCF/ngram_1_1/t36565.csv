@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,1,15,eesti
-0,0,0,0,0,0,0,0,1,15,eesti
-0,0,0,0,0,0,0,0,1,15,eesti
-0,0,0,0,0,0,0,0,1,15,eesti
-0,0,1,0,0,0,0,0,1,15,ööklubi; eesti
-0,0,1,0,0,0,0,0,1,15,ööklubi; eesti
-0,1,1,0,0,1,0,2,1,15,mets; ööklubi; eesti; reimo
-0,0,0,1,0,1,0,0,1,15,mets; tõnis; eesti
-0,0,0,1,0,2,1,0,1,15,mets; eesti; reimo
-0,0,1,0,1,0,3,0,2,15,abielu; mets; ööklubi; reimo; jurist; eesti; geiaktivist
-1,0,1,0,0,0,2,0,1,15,kirik; ööklubi; mets; geiaktivist; eesti
+0,0,0,0,0,0,0,1,0,15,eesti
+0,0,0,0,0,0,0,1,0,15,eesti
+0,0,0,0,0,0,0,1,0,15,eesti
+0,0,0,0,0,0,0,1,0,15,eesti
+0,0,1,0,0,0,0,1,0,15,eesti; ööklubi
+0,0,1,0,0,0,0,1,0,15,eesti; ööklubi
+0,1,1,0,0,0,2,1,0,15,mets; eesti; reimo; ööklubi
+0,0,0,1,0,0,0,1,0,15,eesti; tõnis
+0,0,0,1,0,1,0,1,0,15,reimo; eesti
+0,0,1,0,1,3,0,2,0,15,abielu; geiaktivist; eesti; mets; reimo; ööklubi; jurist
+1,0,1,0,0,2,0,1,0,15,geiaktivist; eesti; kirik; mets; ööklubi

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,1,0,2,2,1,0,12,film; dokumentaalfilm; filmitegija; kino
-0,0,2,1,0,2,2,1,0,12,film; dokumentaalfilm; filmitegija; kino
-0,0,2,1,0,2,2,1,0,12,film; dokumentaalfilm; filmitegija; kino
-0,0,2,1,0,2,2,1,0,12,film; dokumentaalfilm; filmitegija; kino
-0,0,1,1,0,2,2,1,0,12,film; dokumentaalfilm; filmitegija; kino
-0,0,0,1,0,1,1,0,0,12,kino; film
-0,0,0,1,0,0,1,0,0,12,kino; film
+0,0,2,1,0,2,2,1,0,12,film; kino; filmitegija; dokumentaalfilm
+0,0,2,1,0,2,2,1,0,12,film; kino; filmitegija; dokumentaalfilm
+0,0,2,1,0,2,2,1,0,12,film; kino; filmitegija; dokumentaalfilm
+0,0,2,1,0,2,2,1,0,12,film; kino; filmitegija; dokumentaalfilm
+0,0,1,1,0,2,2,1,0,12,film; kino; filmitegija; dokumentaalfilm
+0,0,0,1,0,1,1,0,0,12,film; kino
+0,0,0,1,0,0,1,0,0,12,film; kino
 0,0,0,1,0,0,0,0,0,12,film
 0,0,0,1,0,0,0,1,1,12,film; eesti; dokumentaalfilm
 0,0,0,1,0,0,0,1,1,12,film; eesti; dokumentaalfilm
-0,0,1,1,0,0,0,1,1,12,formaat; film; eesti; dokumentaalfilm
+0,0,1,1,0,0,0,1,1,12,film; formaat; eesti; dokumentaalfilm

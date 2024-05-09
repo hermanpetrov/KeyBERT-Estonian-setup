@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,1,12,teater; moskva
-0,1,0,0,0,0,0,0,1,12,teater; moskva
-0,1,0,0,0,0,0,0,1,12,teater; moskva
-0,1,0,0,0,0,0,0,1,12,teater; moskva
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,1,0,0,0,0,0,1,12,teater; süda; moskva
-0,1,1,0,0,0,0,0,0,12,süda; mäng
-0,0,0,2,0,1,0,0,1,12,moskva; afganistan; mäng
-0,0,0,1,0,0,1,0,1,12,suitsetamine; moskva; afganistan
-0,0,0,0,0,1,0,1,1,12,iraan; afganistan; mäng
-0,0,0,1,0,0,1,1,0,12,iraan; moskva; afganistan
+0,2,0,0,0,0,0,1,1,12,moskva; nõukogu; teater
+0,2,0,0,0,0,0,1,1,12,moskva; nõukogu; teater
+0,2,0,0,0,0,0,1,1,12,moskva; nõukogu; teater
+0,2,1,0,0,0,0,1,1,12,moskva; nõukogu; teater
+0,2,1,0,0,0,0,1,0,12,nõukogu; teater
+0,2,2,0,0,0,0,0,1,12,moskva; nõukogu; süda; teater
+0,2,1,0,0,0,0,0,0,12,nõukogu; mäng; süda
+0,1,1,2,0,1,0,0,1,12,afganistan; moskva; mäng; nõukogu
+0,1,1,1,0,0,1,1,1,12,moskva; liibüa; afganistan; nõukogu; suitsetamine
+0,1,1,0,0,1,0,1,1,12,afganistan; nõukogu; iraan; mäng
+0,0,1,1,0,0,1,1,0,12,afganistan; nõukogu; moskva; iraan

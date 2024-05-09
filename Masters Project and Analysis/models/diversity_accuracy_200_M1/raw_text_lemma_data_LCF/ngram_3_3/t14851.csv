@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,7,7,1,2,4,6,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-7,7,8,7,1,2,4,6,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-7,7,7,7,1,2,4,6,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-10,5,7,6,1,3,3,6,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-10,5,7,8,2,2,4,6,5,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-8,5,8,7,3,5,5,5,6,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teadus; plahvatus; sõda; fašism; lahing
-8,6,8,7,5,8,7,6,6,14,evolutsioon; akadeemia; fašism; informatiivne; gustav; naan; teadus; plahvatus; sõda; lahing
-7,10,7,7,5,10,6,7,6,14,akadeemia; lahing; fašism; evolutsioon; informatiivne; gustav; naan; teadus; plahvatus; sõda
-6,10,8,7,9,8,6,9,7,14,akadeemia; lahing; fašism; evolutsioon; informatiivne; gustav; naan; teadus; plahvatus; sõda
-5,9,9,8,9,9,8,9,7,14,akadeemia; fašism; lahing; evolutsioon; informatiivne; gustav; naan; teadus; plahvatus; sõda
-4,8,5,9,9,9,9,10,8,14,akadeemia; fašism; lahing; evolutsioon; informatiivne; gustav; naan; teadus; plahvatus; sõda
+9,9,9,11,1,3,4,8,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+10,9,10,11,1,3,4,8,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+10,9,9,11,1,3,4,8,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+13,7,9,10,2,4,4,8,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+12,8,9,11,3,3,5,9,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; evolutsioon; gustav; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+10,8,10,10,5,7,6,7,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; evolutsioon; gustav; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+10,9,10,10,7,9,8,9,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; evolutsioon; gustav; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+9,13,9,10,7,12,8,10,7,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; evolutsioon; gustav; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+8,13,10,10,12,10,9,13,9,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+6,12,11,11,12,11,10,12,8,14,teadus; lahing; plahvatus; ülikool; naan; akadeemia; sõda; gustav; evolutsioon; väljapääsmatu; fašism; vladivostok; partisanipataljon; informatiivne
+5,10,7,12,12,11,10,13,11,14,teadus; lahing; plahvatus; ülikool; akadeemia; naan; sõda; gustav; evolutsioon; fašism; vladivostok; partisanipataljon; informatiivne

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,1,0,0,0,2,1,11,jaanipäev; jaanituli; jaanipidu
-1,2,0,1,0,0,0,2,1,11,jaanipäev; jaanituli; jaanipidu
-1,2,0,1,0,0,0,2,1,11,jaanipäev; jaanituli; jaanipidu
-1,2,0,1,0,0,0,2,1,11,jaanipäev; jaanituli; jaanipidu
-1,2,0,1,0,0,0,2,1,11,jaanipäev; jaanituli; jaanipidu
-1,2,0,1,0,0,1,2,1,11,jaanipäev; jaanituli; jaanipidu
-0,1,0,1,0,0,1,2,1,11,jaanipäev; jaanituli; noorsoofestival
-1,0,0,0,0,0,0,2,1,11,jaanipäev; jaanipidu; jaanituli
-0,0,1,1,0,0,1,2,1,11,jaanipäev; saaremaa; noorsoofestival; jaanituli; jaanipidu
-0,1,0,0,0,0,0,2,1,11,jaanipäev; jaanipidu; saaremaa; jaanituli
-0,0,0,0,0,0,0,0,1,11,jaanipäev
+1,2,0,1,0,0,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+1,2,0,1,0,0,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+1,2,0,1,0,0,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+1,2,0,1,0,0,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+1,2,0,1,0,0,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+1,2,0,1,0,1,2,1,0,11,jaanipidu; jaanipäev; jaanituli
+0,1,0,1,0,1,2,1,0,11,jaanipäev; jaanituli; noorsoofestival
+1,0,0,0,0,0,2,1,0,11,jaanipäev; jaanituli; jaanipidu
+0,0,1,1,0,1,2,1,0,11,saaremaa; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+0,1,0,0,0,0,2,1,0,11,jaanipäev; jaanituli; saaremaa; jaanipidu
+0,0,0,0,0,0,0,1,0,11,jaanipäev

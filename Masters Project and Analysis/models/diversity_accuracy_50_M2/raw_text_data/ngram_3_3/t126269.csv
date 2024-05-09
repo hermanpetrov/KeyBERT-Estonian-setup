@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,4,0,1,0,2,1,10,kirjastaja; käsikiri; kriitika; häda
-2,2,2,4,0,1,0,2,2,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-2,2,2,4,0,1,0,2,2,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-2,2,2,4,0,1,0,2,2,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-2,2,1,4,0,1,0,2,2,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-2,1,1,4,0,1,0,2,2,10,kirjastaja; käsikiri; kriitika; kuulsus; häda
-3,2,1,3,0,0,0,2,2,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-0,1,2,1,0,0,0,2,2,10,kirjastaja; kuulsus; käsikiri; häda
+2,2,2,4,0,1,0,2,1,10,häda; käsikiri; kriitika; kirjastaja
+2,2,2,4,0,1,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+2,2,2,4,0,1,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+2,2,2,4,0,1,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+2,2,1,4,0,1,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+2,1,1,4,0,1,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+3,2,1,3,0,0,0,2,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+0,1,2,1,0,0,0,2,2,10,häda; käsikiri; kuulsus; kirjastaja
 0,1,1,0,0,1,0,1,2,10,kirjastaja; kuulsus
-1,1,1,1,0,2,0,1,1,10,kirjastaja; kuulsus; käsikiri; kriitika; häda
-1,2,2,1,0,2,1,0,2,10,häda; kirjastaja; käsikiri; kriitika; kuulsus
+1,1,1,1,0,2,0,1,1,10,häda; käsikiri; kriitika; kuulsus; kirjastaja
+1,2,2,1,0,2,1,0,2,10,häda; käsikiri; kriitika; kuulsus; kirjastaja

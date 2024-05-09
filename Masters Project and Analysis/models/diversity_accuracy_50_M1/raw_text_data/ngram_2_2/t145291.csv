@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein; lapsepõlv
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein; lapsepõlv
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein; lapsepõlv
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein; lapsepõlv
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein; lapsepõlv
-3,1,1,0,1,2,1,1,0,10,leho; poiss; jutt; sõnum; rein
-1,1,2,1,1,2,1,1,0,10,leho; poiss; sõnum; rein
-0,1,1,3,1,2,2,1,0,10,leho; poiss; sülitama; puu; rein
-0,0,1,3,1,1,2,0,0,10,leho; poiss; sülitama; sõnum; puu; rein
-0,0,2,3,1,3,1,1,0,10,jutt; sülitama; puu; lapsepõlv; leho; poiss; sõnum; rein
-1,0,3,2,1,1,1,0,1,10,leho; poiss; jutt; sõnum; puu; rein
+3,1,1,0,1,2,1,1,0,10,rein; lapsepõlv; poiss; leho; sõnum; jutt
+3,1,1,0,1,2,1,1,0,10,rein; lapsepõlv; poiss; leho; sõnum; jutt
+3,1,1,0,1,2,1,1,0,10,rein; lapsepõlv; poiss; leho; sõnum; jutt
+3,1,1,0,1,2,1,1,0,10,rein; lapsepõlv; poiss; leho; sõnum; jutt
+3,1,1,0,1,2,1,1,0,10,rein; lapsepõlv; poiss; leho; sõnum; jutt
+3,1,1,0,1,2,1,1,0,10,rein; poiss; leho; sõnum; jutt
+1,1,2,1,1,2,1,1,0,10,rein; poiss; leho; sõnum
+0,1,1,3,1,2,2,1,0,10,rein; poiss; puu; leho; sülitama
+0,0,1,3,1,1,2,0,0,10,rein; poiss; puu; leho; sõnum; sülitama
+0,0,2,3,1,3,1,1,0,10,leho; sõnum; jutt; lapsepõlv; rein; puu; poiss; sülitama
+1,0,3,2,1,1,1,0,1,10,rein; poiss; puu; leho; sõnum; jutt

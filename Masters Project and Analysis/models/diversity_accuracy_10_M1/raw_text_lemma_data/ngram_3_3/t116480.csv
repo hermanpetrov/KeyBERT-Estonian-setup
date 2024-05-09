@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,2,1,1,1,16,ungari; õhtu; veljo
-0,0,1,0,0,2,1,1,1,16,ungari; õhtu; veljo
-0,0,1,0,0,2,1,1,1,16,ungari; õhtu; veljo
-0,0,1,0,0,2,1,1,1,16,ungari; õhtu; veljo
-0,0,1,0,0,2,1,1,1,16,ungari; õhtu; veljo
-0,0,1,0,0,2,1,1,2,16,ungari; õhtu; veljo
-0,0,0,0,0,2,1,1,2,16,ungari; õhtu; veljo
-0,0,0,0,0,1,1,1,1,16,ungari; õhtu
-0,0,1,0,0,1,1,1,1,16,ungari; õhtu
-0,1,0,0,0,2,2,3,1,16,ungari; tõnu; veljo; arvo; ellerhein
-0,0,0,2,0,1,2,1,1,16,ungari; tõnu; arvo; ellerhein
+0,1,2,0,0,3,2,3,2,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,1,2,0,0,3,2,3,2,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,1,2,0,0,3,2,3,2,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,1,2,0,0,3,2,3,2,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,1,2,0,0,3,2,3,2,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,1,2,0,0,3,2,3,3,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,2,1,1,0,3,2,2,3,16,kammerkoor; ungari; õhtu; laulukonkurss; veljo; ingerimaa
+0,2,1,0,0,2,2,2,2,16,kammerkoor; ungari; õhtu; laulukonkurss; ingerimaa
+1,0,2,0,0,2,2,2,2,16,kammerkoor; ungari; õhtu; laulukonkurss; ingerimaa
+0,1,1,0,0,3,3,4,2,16,ungari; laulukonkurss; ellerhein; veljo; arvo; ingerimaa; tõnu
+0,0,0,2,0,2,3,3,2,16,kammerkoor; ungari; laulukonkurss; ellerhein; arvo; ingerimaa; tõnu

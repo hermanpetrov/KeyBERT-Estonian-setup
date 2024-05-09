@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,2,0,1,1,0,1,2,12,nõukogude; suitsetamine; liibüa; teater; moskva
-4,0,2,0,1,1,0,1,2,12,nõukogude; suitsetamine; liibüa; teater; moskva
-4,0,2,0,1,1,0,1,2,12,nõukogude; suitsetamine; liibüa; teater; moskva
-4,0,2,0,1,1,0,1,2,12,nõukogude; suitsetamine; liibüa; teater; moskva
-4,0,2,0,1,1,0,3,2,12,nõukogude; iraan; suitsetamine; liibüa; teater; moskva
-3,0,1,0,1,1,0,1,2,12,nõukogude; suitsetamine; teater; moskva
-2,2,0,2,1,2,1,1,2,12,nõukogude; iraan; suitsetamine; liibüa; teater; moskva
-2,3,1,3,0,0,2,0,2,12,nõukogude; liit; teater; moskva
-2,3,1,1,0,2,1,0,1,12,nõukogude; näitus; liit; teater; süda; moskva
-3,2,0,3,0,1,2,0,2,12,nõukogude; suitsetamine; näitus; liibüa; teater; moskva
-3,0,1,4,0,0,1,1,2,12,suitsetamine; teater; moskva; nõukogude; liibüa
+4,0,2,0,1,0,1,2,0,12,moskva; nõukogude; liibüa; suitsetamine; teater
+4,0,2,0,1,0,1,2,0,12,moskva; nõukogude; liibüa; suitsetamine; teater
+4,0,2,0,1,0,1,2,0,12,moskva; nõukogude; liibüa; suitsetamine; teater
+4,0,2,0,1,0,1,2,0,12,moskva; nõukogude; liibüa; suitsetamine; teater
+4,0,2,0,1,0,3,2,0,12,moskva; nõukogude; liibüa; iraan; suitsetamine; teater
+3,0,1,0,1,0,1,2,0,12,moskva; nõukogude; suitsetamine; teater
+2,2,0,2,1,1,1,2,0,12,liibüa; nõukogude; moskva; iraan; suitsetamine; teater
+2,3,1,3,0,2,0,2,0,12,moskva; nõukogude; liit; teater
+2,3,1,1,0,1,0,1,0,12,moskva; nõukogude; süda; liit; teater
+3,2,0,3,0,2,0,2,0,12,moskva; nõukogude; liibüa; näitus; suitsetamine; teater
+3,0,1,4,0,1,1,2,0,12,moskva; liibüa; nõukogude; suitsetamine; teater

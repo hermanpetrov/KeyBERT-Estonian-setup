@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-0,1,2,0,0,0,0,0,1,11,sport; saar; kihnu
-1,1,2,0,0,0,0,0,1,11,sport; kihnu; saar
-2,1,3,0,0,0,0,0,1,11,dünaamiline; sport; loeng; kihnu; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,4,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,4,1,4,5,3,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,4,3,1,4,5,3,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+3,4,5,3,0,4,5,3,1,11,kultuuriseminar; kihnu; keeleteadlane; esivanem; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar
+4,4,3,3,1,4,4,3,1,11,kultuuriseminar; kihnu; esivanem; kultuurisektor; keeleteadlane; väliseestlane; rahvatantsupidu; sport; saar
+4,4,4,2,1,4,3,2,1,11,kultuuriseminar; kihnu; dünaamiline; loeng; esivanem; keeleteadlane; kultuurisektor; väliseestlane; rahvatantsupidu; sport; saar

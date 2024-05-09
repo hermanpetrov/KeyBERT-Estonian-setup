@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,2,0,0,2,0,0,0,13,laimre; liivrand; marco
 1,0,2,0,0,2,0,0,0,13,laimre; liivrand; marco
 1,0,2,0,0,2,0,0,0,13,laimre; liivrand; marco
-1,0,2,0,0,2,1,1,0,13,laimre; liivrand; diskussioon; marco; hobusepea
-0,0,2,0,0,3,1,1,0,13,halb; laimre; liivrand; diskussioon; marco; hobusepea
-1,0,2,0,0,2,1,1,0,13,halb; laimre; liivrand; marco; hobusepea
-1,0,1,0,0,2,0,1,0,13,marco; hobusepea; laimre; liivrand
-0,1,1,0,0,3,0,2,0,13,laimre; nali; liivrand; marco; hobusepea
-0,1,1,0,0,3,0,0,0,13,nali; harry; marco; hobusepea
+1,0,2,0,0,2,1,1,0,13,laimre; hobusepea; liivrand; marco; diskussioon
+0,0,2,0,0,3,1,1,0,13,laimre; hobusepea; halb; liivrand; marco; diskussioon
+1,0,2,0,0,2,1,1,0,13,laimre; hobusepea; halb; liivrand; marco
+1,0,1,0,0,2,0,1,0,13,marco; hobusepea; liivrand; laimre
+0,1,1,0,0,3,0,2,0,13,hobusepea; laimre; nali; liivrand; marco
+0,1,1,0,0,3,0,0,0,13,hobusepea; nali; harry; marco

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,1,0,0,0,17,mõis; ruth-kaja; ülikool
-1,1,0,0,0,1,0,0,0,17,mõis; ruth-kaja; ülikool
-1,1,0,0,0,1,0,0,0,17,mõis; ruth-kaja; ülikool
-1,1,0,0,0,1,0,0,0,17,mõis; ruth-kaja; ülikool
-1,1,0,0,0,1,0,0,0,17,mõis; ruth-kaja; ülikool
-1,1,0,0,0,0,0,1,0,17,mõisaproua; ruth-kaja; ülikool
-1,2,0,0,0,0,0,0,0,17,concordia; ruth-kaja; ülikool
-1,2,0,1,0,0,0,0,0,17,concordia; ruth-kaja; ülikool
-1,1,1,0,0,0,0,1,0,17,concordia; ruth-kaja; pekk
-1,1,1,0,0,0,0,1,0,17,concordia; ruth-kaja; pekk
-1,1,1,0,0,0,0,1,0,17,concordia; ruth-kaja; pekk
+1,1,0,0,0,0,0,0,0,17,ülikool; ruth-kaja
+1,1,0,0,0,0,0,0,0,17,ülikool; ruth-kaja
+1,1,0,0,0,0,0,0,0,17,ülikool; ruth-kaja
+1,1,0,0,0,0,0,0,0,17,ülikool; ruth-kaja
+1,1,0,0,0,0,0,0,0,17,ülikool; ruth-kaja
+1,1,0,0,0,0,1,0,0,17,ülikool; mõisaproua; ruth-kaja
+1,2,0,0,0,0,0,0,0,17,concordia; ülikool; ruth-kaja
+1,2,0,1,0,0,0,0,0,17,concordia; ülikool; ruth-kaja
+1,1,1,0,0,0,1,0,0,17,concordia; pekk; ruth-kaja
+1,1,1,0,0,0,1,0,0,17,concordia; pekk; ruth-kaja
+1,1,1,0,0,0,1,0,0,17,concordia; pekk; ruth-kaja

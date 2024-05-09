@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,0,0,2,1,2,3,12,nõukogude; propaganda; kahekümnendad; hügieen; aastad
-2,3,1,0,0,2,1,2,3,12,nõukogude; propaganda; kahekümnendad; hügieen; aastad
-2,3,1,0,0,2,1,2,3,12,nõukogude; propaganda; kahekümnendad; hügieen; aastad
-2,2,1,0,0,2,1,2,3,12,propaganda; nõukogude; kahekümnendad; hügieen; aastad
-2,2,1,0,0,1,1,3,3,12,propaganda; nõukogude; kahekümnendad; aeg; hügieen; aastad
-3,2,1,0,0,3,1,3,3,12,nõukogude; propaganda; kahekümnendad; aeg; hügieen; aastad
-2,2,1,1,0,2,1,1,3,12,propaganda; nõukogude; kahekümnendad; aeg; aastad
-1,2,1,1,1,1,1,3,3,12,propaganda; nõukogude; kahekümnendad; aeg; aastad
-0,2,1,2,1,1,1,1,3,12,propaganda; nõukogude; kahekümnendad; hügieen; aastad
-0,3,1,2,0,2,1,2,3,12,nõukogude; propaganda; kahekümnendad; aeg; hügieen; aastad
-0,1,1,2,1,2,1,2,3,12,propaganda; nõukogude; kahekümnendad; aeg; hügieen; aastad
+2,3,1,0,0,2,1,2,3,12,nõukogude; hügieen; propaganda; aastad; kahekümnendad
+2,3,1,0,0,2,1,2,3,12,nõukogude; hügieen; propaganda; aastad; kahekümnendad
+2,3,1,0,0,2,1,2,3,12,nõukogude; hügieen; propaganda; aastad; kahekümnendad
+2,2,1,0,0,2,1,2,3,12,nõukogude; hügieen; propaganda; aastad; kahekümnendad
+2,2,1,0,0,1,1,3,3,12,nõukogude; aeg; hügieen; propaganda; aastad; kahekümnendad
+3,2,1,0,0,3,1,3,3,12,nõukogude; aeg; hügieen; propaganda; aastad; kahekümnendad
+2,2,1,1,0,2,1,1,3,12,nõukogude; aeg; propaganda; aastad; kahekümnendad
+1,2,1,1,1,1,1,3,3,12,nõukogude; aeg; propaganda; aastad; kahekümnendad
+0,2,1,2,1,1,1,1,3,12,nõukogude; hügieen; propaganda; aastad; kahekümnendad
+0,3,1,2,0,2,1,2,3,12,nõukogude; aeg; hügieen; propaganda; aastad; kahekümnendad
+0,1,1,2,1,2,1,2,3,12,nõukogude; aeg; hügieen; propaganda; aastad; kahekümnendad

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,4,0,1,2,4,3,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-3,3,4,0,1,2,5,3,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-3,3,2,0,1,2,5,1,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-3,4,2,0,1,4,6,1,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-2,3,2,0,1,3,4,1,5,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-2,1,3,0,1,2,2,1,5,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-1,1,4,0,3,3,3,2,4,13,heinrich; tõlge; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-2,2,2,2,2,3,1,2,4,13,heinrich; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-2,1,3,2,3,2,3,3,3,13,heinrich; psühholoogiline; hoffmann; doktor; lugu; tõlgendus; pseudonüüm
-2,1,3,2,2,2,2,2,2,13,heinrich; doktor; tõlge; psühholoogiline; hoffmann; pseudonüüm
-1,0,3,2,2,3,2,2,2,13,heinrich; doktor; psühholoogiline; tõlgendus; hoffmann; pseudonüüm
+7,4,6,0,1,4,8,7,5,13,lastekirjanik; heinrich; hoffmann; doktor; tõlge; pseudonüüm; tõlgendus; kahupea; pildiraamat; luuleruum; psühholoogiline; lugu
+6,4,6,0,1,4,9,7,5,13,lastekirjanik; heinrich; hoffmann; doktor; tõlge; pseudonüüm; tõlgendus; kahupea; pildiraamat; luuleruum; psühholoogiline; lugu
+6,4,4,0,1,4,9,5,5,13,lastekirjanik; heinrich; hoffmann; doktor; tõlge; pseudonüüm; tõlgendus; kahupea; pildiraamat; luuleruum; psühholoogiline; lugu
+6,6,4,0,1,6,9,5,5,13,lastekirjanik; heinrich; hoffmann; doktor; tõlge; pseudonüüm; tõlgendus; kahupea; pildiraamat; luuleruum; psühholoogiline; lugu
+5,5,3,1,1,4,6,4,6,13,lastekirjanik; tõlgendus; kahupea; heinrich; pildiraamat; hoffmann; luuleruum; doktor; psühholoogiline; tõlge; lugu; pseudonüüm
+3,2,3,0,1,3,4,4,6,13,lastekirjanik; tõlgendus; heinrich; pildiraamat; hoffmann; luuleruum; doktor; psühholoogiline; tõlge; lugu; pseudonüüm
+2,3,4,0,3,3,4,4,5,13,lastekirjanik; tõlgendus; heinrich; pildiraamat; hoffmann; luuleruum; doktor; psühholoogiline; tõlge; lugu; pseudonüüm
+3,4,3,2,2,3,1,3,5,13,lastekirjanik; tõlgendus; heinrich; hoffmann; doktor; luuleruum; psühholoogiline; lugu; pseudonüüm
+3,2,3,2,3,2,3,4,4,13,lastekirjanik; tõlgendus; heinrich; hoffmann; doktor; luuleruum; psühholoogiline; lugu; pseudonüüm
+3,2,3,2,2,2,2,3,3,13,lastekirjanik; heinrich; hoffmann; doktor; luuleruum; psühholoogiline; tõlge; pseudonüüm
+1,0,3,2,2,3,2,2,3,13,lastekirjanik; tõlgendus; heinrich; hoffmann; doktor; psühholoogiline; pseudonüüm

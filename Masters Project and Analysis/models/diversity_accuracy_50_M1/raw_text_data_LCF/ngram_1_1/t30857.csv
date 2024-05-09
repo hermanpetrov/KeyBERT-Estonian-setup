@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,1,0,2,1,0,14,vaimuelu; fantaasia; tulviste; tänapäevane; reaalsus; dramaturg; ingo
-2,0,1,0,1,0,2,1,0,14,vaimuelu; fantaasia; tulviste; tänapäevane; reaalsus; dramaturg; ingo
-2,0,2,0,1,0,2,1,0,14,vaimuelu; fantaasia; tulviste; tänapäevane; reaalsus; dramaturg; ingo
-2,0,2,0,1,0,2,1,0,14,vaimuelu; fantaasia; tulviste; tänapäevane; reaalsus; dramaturg; ingo
-1,0,2,0,1,0,0,1,0,14,tulviste; tänapäevane; reaalsus; ingo
-0,0,2,0,1,2,0,2,0,14,tulviste; reaalsus; dramaturg; ingo
-0,0,2,0,1,1,0,2,0,14,tulviste; reaalsus; ingo
-0,1,2,0,0,2,0,2,0,14,tulviste; mäng; reaalsus; ingo
-0,1,2,0,0,1,0,2,0,14,tulviste; mäng; reaalsus; ingo; peeter
-0,1,2,0,0,0,0,1,0,14,normet; tulviste; ingo; peeter
-0,0,1,0,1,2,1,2,0,14,fantaasia; tulviste; normet; reaalsus; ingo
+2,0,1,0,1,2,1,0,0,14,dramaturg; tänapäevane; reaalsus; ingo; vaimuelu; tulviste; fantaasia
+2,0,1,0,1,2,1,0,0,14,dramaturg; tänapäevane; reaalsus; ingo; vaimuelu; tulviste; fantaasia
+2,0,2,0,1,2,1,0,0,14,dramaturg; tänapäevane; reaalsus; ingo; vaimuelu; tulviste; fantaasia
+2,0,2,0,1,2,1,0,0,14,dramaturg; tänapäevane; reaalsus; ingo; vaimuelu; tulviste; fantaasia
+1,0,2,0,1,0,1,0,0,14,tänapäevane; reaalsus; ingo; tulviste
+0,0,2,0,1,0,2,0,0,14,reaalsus; ingo; tulviste
+0,0,2,0,1,0,2,0,0,14,reaalsus; ingo; tulviste
+0,1,2,0,0,0,2,0,0,14,mäng; reaalsus; ingo; tulviste
+0,1,2,0,0,0,2,0,0,14,peeter; mäng; reaalsus; ingo; tulviste
+0,1,2,0,0,0,1,0,0,14,peeter; ingo; normet; tulviste
+0,0,1,0,1,1,2,0,0,14,ingo; reaalsus; fantaasia; normet; tulviste

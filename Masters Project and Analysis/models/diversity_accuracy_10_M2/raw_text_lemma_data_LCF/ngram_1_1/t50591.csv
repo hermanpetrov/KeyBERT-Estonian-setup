@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg; ulrich
-1,0,2,0,0,0,0,0,0,12,võistlus; uusorg; ulrich
-1,0,2,0,0,1,0,0,0,12,võistlus; uusorg; ulrich
-1,0,2,0,0,1,0,1,0,12,võistlus; uusorg; ulrich
-1,0,2,0,0,1,0,1,0,12,võistlus; uusorg; ulrich
-0,0,2,0,0,1,0,1,0,12,uusorg; ulrich
+2,0,3,0,0,0,0,1,0,12,maailmameister; veetakistus; uusorg; võistlus
+2,0,3,0,0,0,0,1,0,12,maailmameister; veetakistus; uusorg; võistlus
+2,0,3,0,0,0,0,1,0,12,maailmameister; veetakistus; uusorg; võistlus
+2,0,3,0,0,0,0,1,0,12,maailmameister; veetakistus; uusorg; võistlus
+2,0,3,0,0,0,0,1,0,12,maailmameister; veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,1,0,12,maailmameister; ulrich; veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,1,0,12,maailmameister; ulrich; veetakistus; uusorg; võistlus
+2,0,2,1,0,2,1,1,0,12,maailmameister; lauskmaa; ulrich; veetakistus; uusorg; võistlus
+2,0,2,1,0,1,0,2,0,12,maailmameister; ulrich; veetakistus; uusorg; võistlus
+2,0,2,0,0,1,1,2,0,12,maailmameister; ulrich; veetakistus; uusorg; võistlus
+1,0,2,0,0,1,1,2,0,12,maailmameister; ulrich; veetakistus; uusorg

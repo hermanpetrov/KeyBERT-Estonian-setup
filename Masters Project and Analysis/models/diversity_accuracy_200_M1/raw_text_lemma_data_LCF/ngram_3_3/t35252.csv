@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,5,6,2,5,5,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-6,6,5,6,3,5,5,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-6,6,5,6,3,5,5,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-6,6,5,6,3,5,5,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,5,5,6,4,5,5,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,5,5,6,4,5,4,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,5,5,5,4,4,4,5,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,6,6,6,4,6,5,5,5,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,5,6,6,4,6,5,5,5,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,6,6,6,5,6,5,6,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
-5,6,4,6,5,6,5,6,6,13,eesti; vändra; jansen; selts; saksa-vastane; kirjutama
+11,11,10,12,3,10,6,10,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+11,11,10,12,4,10,6,10,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+11,11,10,12,4,10,6,10,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+10,11,8,12,4,10,8,10,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+9,10,8,12,5,10,10,10,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+8,10,8,12,5,10,10,9,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+7,10,9,8,6,8,9,9,10,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+8,10,11,10,7,11,11,9,9,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+8,10,12,9,7,11,9,9,9,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+8,11,11,8,10,11,10,9,9,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees
+7,11,8,8,8,11,11,11,8,13,selts; lugemisoskus; jansen; põllumees; vändra; saksa-vastane; rahvapärane; eesti; kirjutama; koorilaul; üldlaulupidu; postimees

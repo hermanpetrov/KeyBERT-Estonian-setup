@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,4,1,1,0,1,2,1,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat
-2,3,4,1,1,0,1,2,1,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat
-2,3,4,1,1,0,1,2,1,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat
-2,3,5,1,1,0,1,2,1,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat
-2,3,4,1,1,0,1,2,1,11,jooksma; aeg; raadiomaja; madis; sportlane; aesma; tuletõrje; plaat
-2,3,3,1,1,0,1,1,1,11,raadiomaja; madis; sportlane; aesma; tuletõrje; plaat; aeg
-2,3,3,1,1,1,1,1,1,11,raadiomaja; madis; sportlane; aesma; tuletõrje; plaat; aeg
-2,3,3,3,1,1,0,1,1,11,aeg; raadiomaja; seljakott; madis; sportlane; korrus; aesma; tuletõrje; plaat
-2,3,2,2,1,2,1,2,1,11,aeg; raadiomaja; madis; sportlane; korrus; aesma; tuletõrje
-3,3,3,2,1,2,1,2,1,11,aeg; raadiomaja; korrus; sportlane; madis; aesma; tuletõrje
-4,2,3,0,2,3,1,4,0,11,aeg; raadiomaja; seljakott; korrus; sportlane; madis; aesma; tuletõrje; plaat
+2,3,4,1,1,1,2,1,0,11,aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; jooksma; aesma
+2,3,4,1,1,1,2,1,0,11,aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; jooksma; aesma
+2,3,4,1,1,1,2,1,0,11,aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; jooksma; aesma
+2,3,5,1,1,1,2,1,0,11,aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; jooksma; aesma
+2,3,4,1,1,1,2,1,0,11,aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; jooksma; aesma
+2,3,3,1,1,1,1,1,0,11,sportlane; aeg; plaat; madis; raadiomaja; aesma; tuletõrje
+2,3,3,1,1,1,1,1,0,11,sportlane; aeg; plaat; madis; raadiomaja; aesma; tuletõrje
+2,3,3,3,1,0,1,1,0,11,seljakott; aeg; plaat; madis; raadiomaja; sportlane; tuletõrje; aesma
+2,3,2,2,1,1,2,1,0,11,sportlane; aeg; madis; aesma; raadiomaja; tuletõrje
+3,3,3,2,1,1,2,1,0,11,aeg; madis; raadiomaja; sportlane; tuletõrje; korrus; aesma
+4,2,3,0,2,1,4,0,0,11,seljakott; plaat; aeg; madis; raadiomaja; sportlane; tuletõrje; korrus; aesma

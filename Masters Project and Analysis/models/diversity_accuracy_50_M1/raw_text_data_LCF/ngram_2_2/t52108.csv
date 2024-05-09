@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,5,4,1,4,2,6,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-4,5,5,4,1,4,2,6,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-4,5,5,4,1,4,2,6,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-4,5,6,4,1,4,2,6,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-4,5,4,3,1,4,3,4,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moekunstnik
-2,5,1,3,1,4,5,3,2,14,lilli; disainer; suursponsor; eesti; jahilo; moenädal; moekunstnik
-1,4,1,1,1,6,4,4,2,14,lilli; disainer; suursponsor; eesti; jahilo; kollektsioon; moekunstnik
-2,3,2,0,1,2,3,5,2,14,lilli; disainer; suursponsor; eesti; jahilo; moekunstnik
-0,2,2,0,2,3,1,5,2,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moekunstnik
-4,2,1,1,2,3,1,4,2,14,disainer; privileeg; lilli; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-3,2,3,1,0,1,2,5,1,14,disainer; lilli; suursponsor; eesti; jahilo; moekunstnik
+4,5,5,4,1,2,6,2,0,14,suursponsor; eesti; moekunstnik; moenädal; disainer; kollektsioon; jahilo; lilli
+4,5,5,4,1,2,6,2,0,14,suursponsor; eesti; moekunstnik; moenädal; disainer; kollektsioon; jahilo; lilli
+4,5,5,4,1,2,6,2,0,14,suursponsor; eesti; moekunstnik; moenädal; disainer; kollektsioon; jahilo; lilli
+4,5,6,4,1,2,6,2,0,14,suursponsor; eesti; moekunstnik; moenädal; disainer; kollektsioon; jahilo; lilli
+4,5,4,3,1,3,4,2,0,14,suursponsor; eesti; moekunstnik; disainer; kollektsioon; jahilo; lilli
+2,5,1,3,1,5,3,2,0,14,suursponsor; eesti; moekunstnik; moenädal; disainer; jahilo; lilli
+1,4,1,1,1,4,4,2,0,14,suursponsor; eesti; moekunstnik; disainer; jahilo; lilli
+2,3,2,0,1,3,5,2,0,14,suursponsor; eesti; moekunstnik; disainer; jahilo; lilli
+0,2,2,0,2,1,5,2,0,14,suursponsor; eesti; moekunstnik; privileeg; disainer; kollektsioon; jahilo; lilli
+4,2,1,1,2,1,4,2,0,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+3,2,3,1,0,2,5,1,0,14,suursponsor; eesti; moekunstnik; disainer; jahilo; lilli

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,1,1,0,0,2,0,17,presidendivalimised; kai; vare; muinaslaev; venemaa; kosmosesüstik; kreeka; steiner
-0,1,3,1,1,0,0,2,0,17,presidendivalimised; kai; vare; muinaslaev; venemaa; kosmosesüstik; kreeka; steiner
-0,1,3,1,1,0,0,2,0,17,presidendivalimised; kai; vare; muinaslaev; venemaa; kosmosesüstik; kreeka; steiner
-0,1,3,1,1,0,0,2,0,17,presidendivalimised; kai; vare; muinaslaev; venemaa; kosmosesüstik; kreeka; steiner
-0,3,4,1,1,0,0,2,0,17,ligi; venemaa; kosmosesüstik; vare; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka
-0,2,5,1,1,0,0,2,0,17,ligi; venemaa; kosmosesüstik; vare; steiner; presidendivalimised; kai; muinaslaev; kreeka
-0,4,5,1,1,3,1,3,0,17,ligi; venemaa; vare; steiner; presidendivalimised; kai; muinaslaev; jürgen; kreeka
-0,3,4,1,1,3,2,2,0,17,festival; ligi; venemaa; vare; kai; muinaslaev; jürgen; kreeka
-0,0,4,3,0,3,1,2,0,17,ligi; kai; salme; jürgen; venemaa; vare; kreeka
-1,3,4,3,1,1,1,2,0,17,ligi; salme; venemaa; vare; kai; muinaslaev; jürgen; kreeka
-0,2,4,0,1,3,1,4,0,17,ligi; venemaa; vare; kai; muinaslaev; jürgen; kreeka
+0,1,3,1,1,0,2,0,0,17,vare; steiner; muinaslaev; kai; venemaa; kreeka; presidendivalimised; kosmosesüstik
+0,1,3,1,1,0,2,0,0,17,vare; steiner; muinaslaev; kai; venemaa; kreeka; presidendivalimised; kosmosesüstik
+0,1,3,1,1,0,2,0,0,17,vare; steiner; muinaslaev; kai; venemaa; kreeka; presidendivalimised; kosmosesüstik
+0,1,3,1,1,0,2,0,0,17,vare; steiner; muinaslaev; kai; venemaa; kreeka; presidendivalimised; kosmosesüstik
+0,3,4,1,1,0,2,0,0,17,vare; steiner; venemaa; ligi; presidendivalimised; kosmosesüstik; muinaslaev; kreeka; kai; jürgen
+0,2,5,1,1,0,2,0,0,17,vare; steiner; venemaa; ligi; presidendivalimised; kosmosesüstik; muinaslaev; kreeka; kai
+0,4,5,1,1,1,3,0,0,17,vare; steiner; venemaa; ligi; presidendivalimised; muinaslaev; kreeka; kai; jürgen
+0,3,4,1,1,2,2,0,0,17,vare; muinaslaev; venemaa; kreeka; ligi; kai; jürgen; festival
+0,0,4,3,0,1,2,0,0,17,vare; venemaa; kreeka; ligi; kai; salme; jürgen
+1,3,4,3,1,1,2,0,0,17,vare; venemaa; ligi; salme; muinaslaev; kreeka; kai; jürgen
+0,2,4,0,1,1,4,0,0,17,vare; venemaa; ligi; muinaslaev; kreeka; kai; jürgen

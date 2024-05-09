@@ -1,11 +1,11 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,1,0,0,0,3,0,13,hiiumaa; hiiu; purjetamine; rahvariided; kärdla
-1,0,2,1,0,0,0,3,0,13,hiiumaa; hiiu; purjetamine; rahvariided; kärdla
-1,0,2,1,0,0,0,3,0,13,hiiumaa; hiiu; purjetamine; rahvariided; kärdla
-1,0,2,1,0,0,0,3,0,13,hiiumaa; hiidlane; hiiu; purjetamine; rahvariided; kärdla
-1,0,2,1,0,0,0,3,0,13,hiiumaa; hiiu; purjetamine; rahvariided; kärdla
-0,0,2,1,0,0,0,2,0,13,hiiu; hiiumaa; rahvariided
-1,0,1,1,0,0,0,2,0,13,nõelakoda; hiiu; hiiumaa; rahvariided; kärdla
+1,0,2,1,0,0,3,0,0,13,hiiumaa; rahvariided; purjetamine; hiiu; kärdla
+1,0,2,1,0,0,3,0,0,13,hiiumaa; rahvariided; purjetamine; hiiu; kärdla
+1,0,2,1,0,0,3,0,0,13,hiiumaa; rahvariided; purjetamine; hiiu; kärdla
+1,0,2,1,0,0,3,0,0,13,hiiumaa; rahvariided; purjetamine; hiidlane; hiiu; kärdla
+1,0,2,1,0,0,3,0,0,13,hiiumaa; rahvariided; purjetamine; hiiu; kärdla
+0,0,2,1,0,0,2,0,0,13,hiiumaa; rahvariided; hiiu
+1,0,1,1,0,0,2,0,0,13,nõelakoda; rahvariided; hiiumaa; hiiu; kärdla
 1,0,0,0,0,0,0,0,0,13,nõelakoda
 0,0,1,0,0,0,0,0,0,13,hiiu
 0,0,1,0,0,0,0,0,0,13,hiiu

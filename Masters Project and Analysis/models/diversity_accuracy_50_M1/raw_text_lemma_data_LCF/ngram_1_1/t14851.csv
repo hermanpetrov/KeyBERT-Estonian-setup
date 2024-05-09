@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,0,0,0,0,0,1,14,informatiivne; teadus; fašism; lahing
-1,0,3,0,0,0,0,0,1,14,informatiivne; teadus; fašism; lahing
-1,0,3,0,0,0,0,0,1,14,informatiivne; teadus; fašism; lahing
-1,0,2,0,0,0,0,0,1,14,informatiivne; fašism; lahing; teadus
-1,0,1,0,0,0,0,1,1,14,informatiivne; fašism; akadeemia; teadus
-1,0,2,0,0,0,1,1,1,14,informatiivne; gustav; teadus; akadeemia; fašism
-1,0,3,0,0,1,2,1,1,14,informatiivne; evolutsioon; gustav; naan; teadus; akadeemia; fašism
-1,0,3,2,0,1,2,1,1,14,informatiivne; evolutsioon; gustav; naan; teadus; akadeemia; sõda; lahing
-1,0,3,0,0,2,2,2,1,14,informatiivne; evolutsioon; gustav; naan; teadus; akadeemia
-0,0,3,0,0,2,2,1,1,14,informatiivne; gustav; naan; teadus; akadeemia
-0,0,2,2,0,2,2,3,1,14,evolutsioon; gustav; naan; teadus; akadeemia
+2,0,4,1,0,0,0,0,2,14,teadus; lahing; väljapääsmatu; ülikool; fašism; informatiivne
+2,0,4,1,0,0,0,0,2,14,teadus; lahing; väljapääsmatu; ülikool; fašism; informatiivne
+2,0,4,1,0,0,0,0,3,14,teadus; lahing; ülikool; fašism; väljapääsmatu; informatiivne
+2,0,3,1,0,0,0,0,3,14,teadus; lahing; väljapääsmatu; ülikool; fašism; informatiivne
+2,0,2,1,0,0,0,1,3,14,teadus; väljapääsmatu; ülikool; akadeemia; fašism; informatiivne
+2,0,2,1,0,0,1,1,3,14,teadus; gustav; väljapääsmatu; ülikool; akadeemia; fašism; informatiivne
+1,0,3,0,0,1,2,1,2,14,teadus; evolutsioon; gustav; väljapääsmatu; naan; akadeemia; fašism; informatiivne
+1,0,3,2,0,1,3,1,2,14,teadus; lahing; naan; akadeemia; sõda; vladivostok; evolutsioon; gustav; väljapääsmatu; informatiivne
+2,0,3,1,0,2,3,2,3,14,teadus; ülikool; naan; akadeemia; vladivostok; partisanipataljon; evolutsioon; gustav; väljapääsmatu; informatiivne
+1,0,3,0,0,2,3,1,3,14,teadus; ülikool; naan; akadeemia; vladivostok; partisanipataljon; gustav; väljapääsmatu; informatiivne
+0,0,2,2,0,2,3,4,4,14,teadus; ülikool; naan; akadeemia; vladivostok; evolutsioon; gustav; partisanipataljon; väljapääsmatu

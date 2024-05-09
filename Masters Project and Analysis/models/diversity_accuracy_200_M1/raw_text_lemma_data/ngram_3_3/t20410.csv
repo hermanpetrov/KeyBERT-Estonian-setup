@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,6,7,6,6,8,7,7,6,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-8,6,7,6,6,8,6,7,5,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-8,6,7,6,6,8,6,7,5,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-8,6,7,9,7,8,6,7,6,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-8,6,8,9,7,8,6,6,6,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-9,7,9,8,8,8,7,7,6,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
-10,8,8,10,9,9,8,7,7,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
-9,9,9,9,9,8,6,8,7,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
-8,9,9,9,9,8,9,6,6,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
-4,9,9,9,9,10,6,7,8,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
-5,9,8,9,9,9,8,8,8,14,ani; paat; hirm; endel; teater; lava; näitleja; esinemine; spinning; elmar
+11,10,8,7,6,10,9,10,9,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+11,10,9,6,6,10,9,10,8,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+11,10,8,6,6,10,9,10,8,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+11,10,9,9,7,10,9,10,9,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+11,10,10,10,7,10,9,9,9,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+10,11,12,10,8,11,10,10,9,14,esinemine; lava; näitleja; endel; paat; vanemuine; puutükk; nikerdamine; teater; spinning; ani; hirm; elmar; salulaht
+13,11,10,12,10,12,10,10,9,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; spinning; ani; hirm; elmar; salulaht
+11,11,11,12,11,9,9,11,8,14,esinemine; lava; näitleja; endel; paat; vanemuine; puutükk; nikerdamine; teater; ani; spinning; hirm; elmar; salulaht
+10,12,11,12,12,8,12,9,7,14,esinemine; lava; näitleja; endel; paat; vanemuine; nikerdamine; puutükk; teater; ani; spinning; hirm; elmar; salulaht
+7,11,11,12,12,10,8,10,10,14,esinemine; lava; näitleja; endel; paat; vanemuine; puutükk; nikerdamine; teater; ani; spinning; hirm; elmar; salulaht
+7,11,10,12,11,9,11,11,10,14,esinemine; lava; näitleja; endel; paat; puutükk; nikerdamine; vanemuine; teater; spinning; ani; hirm; elmar; salulaht

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,1,1,3,1,2,0,12,keskkond; margit; detailplaneering; kritiseerima; arhitektide; eetika
-0,2,3,1,1,3,1,2,0,12,keskkond; margit; detailplaneering; kritiseerima; arhitektide; eetika
-0,2,3,1,1,3,1,2,0,12,keskkond; margit; detailplaneering; kritiseerima; arhitektide; eetika
-0,2,2,1,1,3,1,2,0,12,keskkond; margit; detailplaneering; kritiseerima; arhitektide; eetika
-0,2,0,1,1,3,2,3,0,12,keskkond; detailplaneering; margit; arhitektide; eetika
-1,2,2,1,1,2,1,3,0,12,arendaja; keskkond; detailplaneering; margit; arhitektide; eetika
-0,5,2,0,1,2,1,5,0,12,arendaja; keskkond; mutso; margit; detailplaneering; liit; arhitektide; eetika
-1,1,2,1,1,3,3,2,0,12,arendaja; mutso; margit; detailplaneering; liit; arhitektide; eetika
-2,1,1,1,1,2,2,1,1,12,arendaja; keskkond; looming; mutso; detailplaneering; liit; kritiseerima; arhitektide; eetika
-2,0,1,0,2,2,2,1,1,12,arendaja; keskkond; detailplaneering; mutso; liit; kritiseerima; eetika
-0,0,0,1,3,1,2,0,1,12,arendaja; keskkond; looming; liit; arhitektide; detailplaneering; eetika
+0,2,3,1,1,3,1,2,0,12,detailplaneering; arhitektide; kritiseerima; keskkond; eetika; margit
+0,2,3,1,1,3,1,2,0,12,detailplaneering; arhitektide; kritiseerima; keskkond; eetika; margit
+0,2,3,1,1,3,1,2,0,12,detailplaneering; arhitektide; kritiseerima; keskkond; eetika; margit
+0,2,2,1,1,3,1,2,0,12,detailplaneering; arhitektide; kritiseerima; keskkond; eetika; margit
+0,2,0,1,1,3,2,3,0,12,detailplaneering; keskkond; arhitektide; eetika; margit
+1,2,2,1,1,2,1,3,0,12,detailplaneering; keskkond; arhitektide; eetika; margit; arendaja
+0,5,2,0,1,2,1,5,0,12,detailplaneering; arhitektide; keskkond; eetika; margit; liit; arendaja; mutso
+1,1,2,1,1,3,3,2,0,12,detailplaneering; arhitektide; eetika; margit; mutso; arendaja; liit
+2,1,1,1,1,2,2,1,1,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; liit; arendaja; mutso
+2,0,1,0,2,2,2,1,1,12,detailplaneering; eetika; keskkond; liit; kritiseerima; arendaja; mutso
+0,0,0,1,3,1,2,0,1,12,detailplaneering; keskkond; arhitektide; eetika; looming; arendaja; liit

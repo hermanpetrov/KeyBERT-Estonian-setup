@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,1,1,0,1,13,uudis; port; internet; aeg
-0,0,1,0,1,1,1,0,1,13,uudis; port; internet; aeg
+0,0,1,0,1,1,1,0,1,13,aeg; uudis; port; internet
+0,0,1,0,1,1,1,0,1,13,aeg; uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
-0,0,1,0,1,1,1,0,1,13,uudis; port; internet; aeg
+0,0,1,0,1,1,1,0,1,13,aeg; uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
 0,0,1,0,1,1,1,0,0,13,uudis; port; internet
-0,0,1,0,1,1,0,0,1,13,uudis; kristjan; port; aeg
-0,0,1,0,1,0,0,1,1,13,uudis; kristjan; port; aeg
+0,0,1,0,1,1,0,0,1,13,uudis; aeg; kristjan; port
+0,0,1,0,1,0,0,1,1,13,uudis; aeg; kristjan; port

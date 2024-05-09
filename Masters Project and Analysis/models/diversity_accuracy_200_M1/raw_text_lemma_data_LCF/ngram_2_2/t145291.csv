@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,4,4,3,4,4,3,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-5,6,4,4,3,4,4,3,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-5,6,5,4,4,4,3,4,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-5,6,6,4,4,4,3,4,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-5,6,4,4,4,4,4,5,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-6,5,3,6,3,3,6,4,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-5,6,5,6,4,5,7,5,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-3,4,6,6,3,7,6,5,4,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-3,5,6,4,3,8,7,4,4,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-4,4,6,4,6,7,7,2,4,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
-4,5,6,5,5,7,6,5,6,10,onn; jutt; puu; leho; poiss; sabotaaž; sõnum; rein
+6,5,4,5,3,4,4,3,6,10,leho; lapsepõlv; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+6,6,5,5,3,4,4,3,6,10,leho; lapsepõlv; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+6,6,6,5,4,4,3,4,6,10,leho; lapsepõlv; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+6,6,7,5,4,4,3,4,6,10,leho; lapsepõlv; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+6,6,4,5,4,4,4,5,6,10,leho; lapsepõlv; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+7,5,4,7,3,4,7,4,6,10,lapsepõlv; leho; sõnum; jutt; rein; puu; sabotaaž; onn; poiss
+5,6,6,6,4,6,7,6,6,10,leho; sõnum; jutt; lapsepõlv; rein; puu; sabotaaž; onn; poiss
+3,4,7,6,4,8,7,6,5,10,leho; lapsepõlv; jutt; sõnum; rein; puu; sabotaaž; onn; poiss
+3,5,6,4,3,9,8,5,5,10,leho; sõnum; jutt; lapsepõlv; rein; puu; sabotaaž; onn; poiss
+4,4,7,4,6,8,8,3,5,10,leho; lapsepõlv; jutt; sõnum; rein; puu; sabotaaž; onn; poiss
+4,5,7,5,5,8,7,6,7,10,leho; lapsepõlv; jutt; sõnum; rein; puu; sabotaaž; onn; poiss

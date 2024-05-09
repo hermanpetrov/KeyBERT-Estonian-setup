@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,6,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,2,6,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,2,6,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,2,6,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,2,5,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,2,4,1,1,5,4,5,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-3,2,4,2,1,6,5,6,2,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; tsivilisatsioon; euroopa
-0,1,3,1,1,5,5,6,2,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; euroopa
-1,1,5,2,1,5,3,6,2,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; tsivilisatsioon; euroopa
-0,1,5,4,1,3,5,5,2,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; tsivilisatsioon; euroopa
-0,1,3,5,2,3,3,6,3,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; keel; lumi; euroopa
+2,2,6,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,6,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,6,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,6,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,5,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,4,1,1,5,4,5,2,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+3,3,4,2,1,6,5,6,2,13,tsivilisatsioon; identiteedikriis; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+0,1,3,2,1,5,6,6,2,13,identiteedikriis; orhan; nobel; kirjanik; preemia; pamuk; islamimaailm; euroopa; türgi
+1,1,5,2,1,5,3,6,2,13,tsivilisatsioon; orhan; nobel; kirjanik; preemia; pamuk; euroopa; türgi
+0,1,6,4,1,3,5,5,2,13,tsivilisatsioon; orhan; nobel; pamuk; kirjanik; preemia; islamimaailm; euroopa; türgi
+0,1,3,5,2,3,3,7,3,13,orhan; pamuk; nobel; kirjanik; preemia; keel; islamimaailm; lumi; euroopa; türgi

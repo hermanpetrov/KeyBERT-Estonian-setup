@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,3,6,7,4,3,7,5,16,mets; proov; arm; agu; vaike; laul; maa; mait; tantsima; hing
-9,5,3,7,7,4,4,7,5,16,mets; proov; arm; agu; vaike; laul; maa; mait; tantsima; hing
-9,5,3,7,7,4,4,8,5,16,mets; proov; arm; agu; vaike; laul; maa; mait; tantsima; hing
-8,5,4,6,7,6,5,7,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
-8,5,3,8,7,7,5,7,5,16,mets; proov; arm; vaike; laul; agu; maa; mait; tantsima; hing
-8,5,9,8,7,9,5,8,5,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
-10,6,9,10,9,9,8,10,5,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
-8,7,9,10,10,10,9,9,6,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
-10,6,9,10,10,10,8,10,8,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
-10,5,10,9,9,9,9,10,9,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
-9,6,10,9,9,9,9,10,9,16,mets; arm; agu; maa; mait; proov; vaike; laul; tantsima; hing
+11,7,5,9,8,7,6,9,6,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+12,7,5,10,8,7,7,9,6,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+12,7,5,10,8,7,7,10,6,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+11,7,6,9,8,9,8,10,6,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+11,7,5,11,8,10,8,10,6,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+11,7,10,11,8,12,8,11,7,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+12,8,11,13,10,12,10,13,7,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+11,9,11,13,12,12,11,12,8,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+12,8,11,12,12,12,10,13,10,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+11,7,13,11,11,10,11,13,11,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa
+10,8,12,11,10,10,10,13,11,16,arm; vaike; mets; mait; laul; tantsupidu; hing; rõõmupisar; proov; agu; tantsima; tantsurühm; maa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-2,1,0,1,0,0,0,1,0,15,välis-eesti; edgar; palts; tõnis; eentalu
-1,1,0,0,0,0,0,1,0,15,tõnis; edgar; eentalu
-0,1,1,0,0,1,0,1,0,15,tõnis; edgar; välis-eesti; eentalu
-0,1,0,1,0,0,0,1,0,15,edgar; eentalu
-0,1,0,1,0,0,1,1,0,15,tõnis; edgar; eentalu
-0,0,0,1,0,0,0,1,0,15,edgar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+2,2,0,1,0,0,0,2,0,15,palts; edgar; tõnis; eentalu; välis-eesti; savisaar
+1,2,0,0,0,0,1,1,0,15,eentalu; edgar; tõnis; savisaar
+0,2,1,0,0,1,0,2,0,15,edgar; savisaar; tõnis; eentalu; välis-eesti; perearst
+0,1,0,2,0,0,0,1,0,15,eentalu; umbusaldamine; edgar
+0,1,0,2,0,0,1,1,0,15,edgar; tõnis; eentalu; umbusaldamine
+0,0,0,2,0,0,0,1,0,15,umbusaldamine; edgar

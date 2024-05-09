@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,3,2,0,4,3,3,3,16,johannes; eesti; soome; keel; aavik; sõnaloome; keele
-4,1,3,2,0,4,3,3,3,16,johannes; eesti; soome; keel; aavik; sõnaloome; keele
-4,1,3,2,0,4,3,3,3,16,johannes; eesti; soome; keel; aavik; sõnaloome; keele
-4,1,3,2,0,4,3,3,3,16,johannes; eesti; soome; keel; aavik; sõnaloome; keele
-4,1,3,2,0,4,3,3,3,16,johannes; eesti; soome; keel; aavik; sõnaloome; keele
-3,1,3,2,0,3,3,3,3,16,soome; johannes; keel; eesti; keele
-5,1,4,3,0,3,3,4,3,16,kirjutamine; raamatute; johannes; eesti; soome; keel; aavik; sõnaloome; keele; kullo; võõrsõna
-2,3,5,2,1,3,2,2,3,16,vende; kirjutamine; eesti; soome; keel; õppimine; keele; kullo; võõrsõna
-1,2,5,2,1,3,2,1,3,16,kirjutamine; eesti; soome; keel; keele; kullo; võõrsõna
-2,2,4,2,1,1,5,3,1,16,johannes; eesti; soome; keel; aavik; keele; kullo; võõrsõna
-2,1,6,4,1,0,3,0,2,16,vende; kirjutamine; keränen; johannes; eesti; soome; mika; keel; aavik; keele; kullo; võõrsõna
+4,1,3,2,0,4,3,3,3,16,sõnaloome; soome; eesti; keele; johannes; keel; aavik
+4,1,3,2,0,4,3,3,3,16,sõnaloome; soome; eesti; keele; johannes; keel; aavik
+4,1,3,2,0,4,3,3,3,16,sõnaloome; soome; eesti; keele; johannes; keel; aavik
+4,1,3,2,0,4,3,3,3,16,sõnaloome; soome; eesti; keele; johannes; keel; aavik
+4,1,3,2,0,4,3,3,3,16,sõnaloome; soome; eesti; keele; johannes; keel; aavik
+3,1,3,2,0,3,3,3,3,16,keel; soome; eesti; keele; johannes
+5,1,4,3,0,3,3,4,3,16,sõnaloome; soome; eesti; keele; johannes; võõrsõna; keel; kirjutamine; raamatute; aavik; kullo
+2,3,5,2,1,3,2,2,3,16,õppimine; soome; eesti; keele; vende; võõrsõna; keel; kirjutamine; kullo
+1,2,5,2,1,3,2,1,3,16,soome; eesti; keele; võõrsõna; keel; kirjutamine; kullo
+2,2,4,2,1,1,5,3,1,16,soome; eesti; keele; johannes; võõrsõna; keel; aavik; kullo
+2,1,6,4,1,0,3,0,2,16,soome; eesti; keele; vende; johannes; mika; võõrsõna; keel; keränen; kirjutamine; aavik; kullo

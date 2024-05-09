@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,0,1,1,3,1,3,0,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; epstein
-5,4,0,1,1,3,1,2,0,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; epstein
-5,4,0,1,1,3,1,2,0,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; epstein
-5,4,1,1,1,3,1,3,0,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; epstein
-5,4,1,1,1,2,2,2,0,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-4,4,1,1,1,2,2,4,0,15,ringo; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-2,4,1,1,2,2,0,4,0,15,ringo; brian; mccartney; biitel; lennon; kuum; sullivan; maania; epstein
-1,2,2,2,2,1,2,3,1,15,harrison; brian; biitel; mccartney; lennon; kuum; maania; epstein
-1,2,1,0,1,1,2,1,0,15,biitel; maania; brian; mccartney; lennon; epstein; kuum
-0,0,0,1,2,0,2,1,1,15,ringo; harrison; biitel; epstein; kuum
-1,0,1,1,1,1,1,1,1,15,ed; harrison; biitel; epstein; kuum
+5,4,0,1,1,4,2,3,0,15,lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+5,4,0,1,1,4,2,2,0,15,lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+5,4,0,1,1,4,2,2,0,15,lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+5,4,2,1,1,4,2,3,0,15,lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+5,4,2,1,1,3,3,2,0,15,maania; lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+4,4,2,1,1,3,3,5,0,15,maania; lennon; epstein; brian; biitel; sullivan; ringo; mccartney; kuum; kuuekümnes
+2,4,2,1,2,3,1,5,0,15,maania; lennon; epstein; brian; biitel; sullivan; ringo; mccartney; kuum; kuuekümnes
+1,2,3,3,2,2,3,4,1,15,maania; lennon; epstein; brian; biitel; mccartney; harrison; kuum; kuuekümnes
+1,2,2,0,1,1,2,2,0,15,maania; lennon; epstein; brian; biitel; mccartney; kuum; kuuekümnes
+0,0,0,1,2,0,2,1,1,15,ringo; epstein; biitel; harrison; kuum
+1,0,2,1,1,1,1,1,1,15,epstein; biitel; harrison; kuum; ed; kuuekümnes

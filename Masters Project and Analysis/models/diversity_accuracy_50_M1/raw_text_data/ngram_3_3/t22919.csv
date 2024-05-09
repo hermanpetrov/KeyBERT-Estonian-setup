@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,3,3,5,4,5,5,1,13,kunstihoone; aleksander; anders; laimre; kuraator; poliitiline; härm; tudengifilm; graafika; tartu
-5,5,3,3,5,4,5,5,1,13,kunstihoone; aleksander; anders; laimre; kuraator; poliitiline; härm; tudengifilm; graafika; tartu
-5,5,3,3,5,4,5,5,1,13,kunstihoone; aleksander; anders; laimre; kuraator; poliitiline; härm; tudengifilm; graafika; tartu
-5,5,3,3,5,4,5,5,1,13,kunstihoone; aleksander; anders; laimre; kuraator; poliitiline; härm; tudengifilm; graafika; tartu
-5,4,4,3,5,6,6,6,1,13,kunstihoone; aleksander; anders; laimre; kuraator; poliitiline; härm; tudengifilm; graafika; tartu
-5,4,6,2,5,7,6,7,1,13,kunstihoone; aleksander; anders; laimre; tudengifilm; poliitiline; härm; kuraator; graafika; tartu
-4,5,5,4,5,7,5,8,1,13,kunstihoone; anders; tudengifilm; kuraator; laimre; poliitiline; aleksander; härm; graafika; tartu
-3,3,2,3,4,5,3,8,1,13,kunstihoone; anders; tudengifilm; laimre; kuraator; poliitiline; härm; aleksander; graafika; tartu
-4,5,5,5,4,6,3,6,1,13,kunstihoone; anders; aleksander; härm; tudengifilm; poliitiline; kuraator; laimre; graafika; tartu
-4,2,6,4,7,3,3,6,0,13,kunstihoone; anders; aleksander; härm; laimre; poliitiline; kuraator; graafika; tartu
-1,1,6,3,5,4,3,6,0,13,kunstihoone; aleksander; anders; härm; laimre; poliitiline; kuraator; tudengifilm; graafika; tartu
+5,5,3,3,5,4,5,5,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; anders
+5,5,3,3,5,4,5,5,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; anders
+5,5,3,3,5,4,5,5,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; anders
+5,5,3,3,5,4,5,5,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; anders
+5,4,4,3,5,6,6,6,1,13,laimre; graafika; härm; tudengifilm; tartu; anders; aleksander; poliitiline; kunstihoone; kuraator
+5,4,6,2,5,7,6,7,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; anders
+4,5,5,4,5,7,5,8,1,13,laimre; graafika; härm; tudengifilm; tartu; anders; poliitiline; aleksander; kunstihoone; kuraator
+3,3,2,3,4,5,3,8,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; poliitiline; aleksander; kunstihoone; anders
+4,5,5,5,4,6,3,6,1,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; poliitiline; aleksander; kunstihoone; anders
+4,2,6,4,7,3,3,6,0,13,laimre; graafika; kuraator; härm; tartu; poliitiline; aleksander; kunstihoone; anders
+1,1,6,3,5,4,3,6,0,13,laimre; graafika; kuraator; härm; tudengifilm; tartu; poliitiline; aleksander; kunstihoone; anders

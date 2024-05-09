@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,1,1,1,1,4,2,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,1,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,1,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,2,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,2,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,1,14,uus; martin; kõrvaline; maja; tomusk
-1,0,2,1,1,1,1,4,2,14,uus; martin; kõrvaline; maja; tomusk; isik
-1,0,2,1,1,1,1,4,2,14,uus; martin; kõrvaline; maja; tomusk; isik
-1,0,3,1,1,2,1,3,2,14,uus; martin; kõrvaline; maja; isik; tuba
-2,0,2,1,1,3,2,3,0,14,uus; martin; kõrvaline; maja; isik; tuba; ilmar
-2,1,4,1,1,3,3,3,0,14,uus; martin; kõrvaline; maja; isik; tuba
+1,1,2,1,1,1,1,4,2,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,1,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,1,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,2,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,2,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,1,14,martin; tomusk; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,2,14,martin; tomusk; isik; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,2,1,1,1,1,4,2,14,martin; tomusk; isik; uus; maja; kõrvaline; suhkrusaiapidu
+1,1,3,1,1,2,1,3,2,14,martin; tuba; isik; uus; maja; kõrvaline; suhkrusaiapidu
+2,1,2,1,1,3,2,3,0,14,martin; ilmar; tuba; isik; uus; maja; kõrvaline; suhkrusaiapidu
+2,2,4,1,1,3,3,3,0,14,martin; tuba; isik; uus; maja; kõrvaline; suhkrusaiapidu

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,2,5,2,4,3,2,3,13,liibanon; tootmisliin; retk; skulptor; ukraina
-3,4,2,5,2,5,3,2,3,13,liibanon; tootmisliin; retk; skulptor; ukraina
-4,4,3,5,2,5,3,3,3,13,tootmisliin; liibanon; retk; skulptor; ukraina
-4,4,3,5,2,5,3,4,3,13,tootmisliin; liibanon; retk; skulptor; ukraina
-4,4,3,5,3,4,4,4,3,13,tootmisliin; liibanon; retk; skulptor; ukraina
-4,5,5,5,2,4,3,5,3,13,tootmisliin; liibanon; retk; skulptor; ukraina
-4,4,5,5,4,4,4,5,3,13,tootmisliin; liibanon; retk; skulptor; ukraina
-4,5,5,4,3,4,4,5,3,13,tootmisliin; retk; liibanon; skulptor; ukraina
-3,4,3,2,3,4,3,5,4,13,retk; liibanon; tootmisliin; skulptor; ukraina
-5,4,4,2,4,3,4,5,4,13,retk; liibanon; tootmisliin; skulptor; ukraina
-4,4,4,1,4,3,3,5,4,13,tootmisliin; liibanon; retk; skulptor; ukraina
+5,7,5,8,4,6,6,5,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+5,6,5,8,4,7,6,5,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,6,6,8,4,7,6,6,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,6,6,8,3,7,6,7,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,6,6,8,4,6,7,7,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,7,8,8,3,7,6,8,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,6,8,7,5,5,5,8,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+6,7,8,6,4,6,6,8,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+4,6,5,4,4,6,5,8,4,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+8,6,6,4,5,5,5,8,5,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev
+5,6,7,3,6,5,3,7,6,13,tootmisliin; ukraina; retk; skulptor; liibanon; alatskivi; lossipäev; viikingipäev

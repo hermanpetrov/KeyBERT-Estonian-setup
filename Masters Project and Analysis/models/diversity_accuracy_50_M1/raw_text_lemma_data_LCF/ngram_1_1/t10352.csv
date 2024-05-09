@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,1,1,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,1,1,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,1,1,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,1,1,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,1,2,0,0,0,1,1,2,13,paul; kartul; rahu; toomas
-0,0,2,0,0,2,0,2,2,13,paul; rahu; toomas
-0,0,2,1,0,2,0,1,2,13,paul; rahu; sõda; toomas
-0,0,2,0,0,2,1,2,2,13,kliima; paul; rahu; toomas
-0,0,2,0,0,2,1,0,1,13,rahu; sõda; toomas; paul
-2,0,1,0,0,2,0,0,0,13,mastaap; paul; kartul; rahu; toomas
+0,1,1,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,1,1,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,1,1,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,1,1,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,1,1,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,1,2,0,0,2,2,3,2,13,usuteadus; inimloomus; rahu; kartul; paul; toomas
+0,0,2,0,0,3,2,3,2,13,usuteadus; inimloomus; rahu; paul; toomas
+0,0,3,1,0,4,2,2,2,13,inimloomus; sõda; toomas; usuteadus; rahu; paul
+0,0,2,0,0,4,2,2,2,13,usuteadus; inimloomus; rahu; kliima; paul; toomas
+0,0,3,0,0,2,1,0,1,13,usuteadus; rahu; paul; sõda; toomas
+2,0,2,0,0,2,0,0,0,13,kartul; usuteadus; rahu; mastaap; paul; toomas

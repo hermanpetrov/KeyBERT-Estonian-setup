@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,2,1,2,1,19,kristina; mood; tants; lavastaja
-1,0,1,0,0,2,1,2,1,19,kristina; mood; tants; lavastaja
-1,0,1,0,0,2,1,2,1,19,kristina; mood; tants; lavastaja
-1,0,1,0,0,2,1,2,1,19,kristina; mood; tants; lavastaja
-1,0,1,0,0,2,1,2,1,19,kristina; mood; tants; lavastaja
-1,0,1,0,0,2,1,2,1,19,tants; lavastaja; kristina; mood
-0,0,1,0,0,2,0,2,1,19,tants; lavastaja; kristina; mood
-0,0,1,0,0,2,0,2,1,19,kristina; mood; tants; lavastaja
-0,0,1,1,0,1,2,1,1,19,performance; kristina; mood; tants; lavastaja
-0,0,2,1,0,0,3,2,1,19,performance; kristina; mood; tants; moeetendus
-0,0,0,0,0,2,3,1,0,19,performance; mood; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+1,0,1,0,0,2,1,2,1,19,mood; lavastaja; kristina; tants
+0,0,1,0,0,2,0,2,1,19,mood; lavastaja; kristina; tants
+0,0,1,0,0,2,0,2,1,19,mood; lavastaja; kristina; tants
+0,0,1,1,0,1,2,1,1,19,mood; lavastaja; kristina; performance; tants
+0,0,2,1,0,0,3,2,1,19,mood; moeetendus; kristina; performance; tants
+0,0,0,0,0,2,3,1,0,19,mood; performance; tants

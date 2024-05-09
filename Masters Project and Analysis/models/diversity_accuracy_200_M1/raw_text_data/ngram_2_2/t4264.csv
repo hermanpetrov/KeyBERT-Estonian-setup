@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,5,5,6,5,7,5,5,6,15,tallinna; tootmisliin; liibanon; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
-9,5,5,6,5,7,6,5,6,15,tallinna; tootmisliin; liibanon; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
-9,5,5,6,5,7,5,5,6,15,tallinna; tootmisliin; liibanon; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
-9,5,5,6,5,7,6,5,7,15,tallinna; tootmisliin; liibanon; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
-8,5,5,6,5,7,6,7,7,15,tallinna; tootmisliin; liibanon; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
-7,6,6,4,6,10,6,6,7,15,tallinna; tootmisliin; iisrael; janukovitš; kai; alatskivi; üro; liibanon; vare; resolutsioon; viktor
-6,5,8,11,8,7,5,7,7,15,tallinna; tootmisliin; iisrael; janukovitš; kai; alatskivi; üro; liibanon; vare; resolutsioon; viktor
-6,6,8,8,7,7,5,7,7,15,tallinna; tootmisliin; iisrael; janukovitš; kai; alatskivi; üro; liibanon; vare; resolutsioon; viktor
-6,8,9,6,7,7,5,6,6,15,tallinna; tootmisliin; iisrael; janukovitš; kai; alatskivi; üro; liibanon; vare; resolutsioon; viktor
-6,8,8,6,5,5,5,8,6,15,tallinna; tootmisliin; iisrael; janukovitš; kai; alatskivi; üro; liibanon; vare; resolutsioon; viktor
-6,7,8,6,6,4,4,7,6,15,tallinna; liibanon; tootmisliin; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor; üro
+9,5,5,6,5,7,5,5,6,15,vare; tootmisliin; iisrael; üro; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; tallinna
+9,5,5,6,5,7,6,5,6,15,vare; tootmisliin; iisrael; üro; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; tallinna
+9,5,5,6,5,7,5,5,6,15,vare; tootmisliin; iisrael; üro; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; tallinna
+9,5,5,6,5,7,6,5,7,15,vare; tootmisliin; iisrael; üro; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; tallinna
+8,5,5,6,5,7,6,7,7,15,üro; tootmisliin; iisrael; vare; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; tallinna
+7,6,6,4,6,10,6,6,7,15,tootmisliin; viktor; alatskivi; resolutsioon; janukovitš; tallinna; üro; vare; iisrael; liibanon; kai
+6,5,8,11,8,7,5,7,7,15,tootmisliin; viktor; alatskivi; resolutsioon; janukovitš; tallinna; üro; vare; iisrael; liibanon; kai
+6,6,8,8,7,7,5,7,7,15,tootmisliin; viktor; alatskivi; resolutsioon; janukovitš; tallinna; üro; vare; iisrael; liibanon; kai
+6,8,9,6,7,7,5,6,6,15,tootmisliin; viktor; alatskivi; resolutsioon; janukovitš; tallinna; üro; vare; iisrael; liibanon; kai
+6,8,8,6,5,5,5,8,6,15,tootmisliin; viktor; alatskivi; resolutsioon; janukovitš; tallinna; üro; vare; iisrael; liibanon; kai
+6,7,8,6,6,4,4,7,6,15,üro; tootmisliin; iisrael; vare; viktor; liibanon; janukovitš; alatskivi; resolutsioon; kai; tallinna

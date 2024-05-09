@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,0,0,2,1,7,1,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-1,2,3,0,0,2,1,7,0,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-1,2,3,0,0,2,1,7,0,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-1,2,3,0,0,2,1,7,0,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-1,2,3,0,0,2,1,7,0,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-0,4,3,0,0,2,2,7,1,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-0,4,1,0,0,1,1,7,1,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-0,2,1,0,0,0,0,7,0,12,muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika; lääne-aafrika
-0,3,2,1,0,1,0,4,0,12,rütmika; muusika; eikellegimaa; nigeeria; popmuusika; kambja; rahvamuusika
-0,3,2,1,0,0,0,4,0,12,muusika; eikellegimaa; nigeeria; kambja; rahvamuusika; lääne-aafrika
-0,1,1,1,0,0,0,3,0,12,nigeeria; muusika; eikellegimaa; lääne-aafrika
+1,2,3,0,0,1,7,1,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+1,2,3,0,0,1,7,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+1,2,3,0,0,1,7,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+1,2,3,0,0,1,7,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+1,2,3,0,0,1,7,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+0,4,3,0,0,2,7,1,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+0,4,1,0,0,1,7,1,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+0,2,1,0,0,0,7,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+0,3,2,1,0,0,4,0,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria
+0,3,2,1,0,0,4,0,0,12,kambja; rahvamuusika; muusika; lääne-aafrika; eikellegimaa; nigeeria
+0,1,1,1,0,0,3,0,0,12,muusika; eikellegimaa; nigeeria; lääne-aafrika

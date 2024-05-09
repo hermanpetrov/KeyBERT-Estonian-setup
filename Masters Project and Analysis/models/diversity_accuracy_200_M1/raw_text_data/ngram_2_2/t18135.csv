@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,9,6,7,4,7,9,8,7,19,leili; jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-6,9,6,7,4,6,9,9,7,19,leili; jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-6,8,7,7,4,5,8,9,7,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-5,8,7,8,4,6,8,9,7,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-6,9,8,9,5,6,8,10,7,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; tammel; verdi; lendav; hollandlane; laulja; lavastaja
-5,8,5,10,5,8,7,9,7,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-5,7,7,9,8,8,7,8,7,19,jüri; kuusk; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; hollandlane; laulja; lavastaja
-7,7,10,11,9,6,5,9,8,19,jüri; kuusk; keel; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; tammel; hollandlane; laulja; lavastaja
-5,8,10,11,8,7,8,9,7,19,jüri; kuusk; keel; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; tammel; hollandlane; laulja; lavastaja
-7,8,7,12,10,7,8,6,4,19,jüri; kuusk; keel; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; tammel; hollandlane; laulja; lavastaja
-7,5,10,10,11,6,7,7,4,19,jüri; kuusk; keel; ooper; armastus; ivo; estonia; koor; itaalia; lendav; verdi; tammel; hollandlane; laulja; lavastaja
+6,9,6,7,4,7,9,8,7,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; lavastaja; koor; ooper; leili; laulja; estonia
+6,9,6,7,4,6,9,9,7,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; lavastaja; koor; ooper; leili; laulja; estonia
+6,8,7,7,4,5,8,9,7,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; lavastaja; koor; ooper; laulja; estonia
+5,8,7,8,4,6,8,9,7,19,ivo; jüri; hollandlane; lendav; armastus; itaalia; verdi; kuusk; lavastaja; koor; ooper; laulja; estonia
+6,9,8,9,5,6,8,10,7,19,ivo; jüri; hollandlane; lendav; armastus; itaalia; verdi; kuusk; lavastaja; koor; tammel; ooper; laulja; estonia
+5,8,5,10,5,8,7,9,7,19,jüri; hollandlane; lendav; armastus; itaalia; verdi; kuusk; estonia; lavastaja; koor; ooper; laulja; ivo
+5,7,7,9,8,8,7,8,7,19,jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; estonia; koor; lavastaja; ooper; laulja; ivo
+7,7,10,11,9,6,5,9,8,19,jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; estonia; lavastaja; koor; keel; tammel; ooper; laulja; ivo
+5,8,10,11,8,7,8,9,7,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; lavastaja; koor; keel; tammel; ooper; laulja; estonia
+7,8,7,12,10,7,8,6,4,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; koor; lavastaja; keel; tammel; ooper; laulja; estonia
+7,5,10,10,11,6,7,7,4,19,ivo; jüri; lendav; hollandlane; armastus; itaalia; verdi; kuusk; koor; lavastaja; keel; tammel; ooper; laulja; estonia

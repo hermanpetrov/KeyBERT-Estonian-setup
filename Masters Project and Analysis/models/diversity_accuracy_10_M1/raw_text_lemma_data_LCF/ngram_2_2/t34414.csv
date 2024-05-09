@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,2,0,2,3,3,1,13,ants; johanson; tartu; komisjon; euro; euroopa
-3,1,2,2,0,2,3,3,1,13,ants; johanson; tartu; komisjon; euro; euroopa
-3,1,2,2,0,2,3,3,1,13,ants; johanson; tartu; komisjon; euro; euroopa
-3,1,2,2,0,2,3,3,1,13,ants; johanson; tartu; komisjon; euro; euroopa
-3,1,2,2,0,2,3,4,1,13,ants; salme; johanson; tartu; komisjon; euro; euroopa
-3,1,2,2,0,2,3,4,1,13,ants; salme; johanson; tartu; komisjon; euro; euroopa
-1,1,2,2,0,3,4,4,1,13,salme; tartu; komisjon; euro; euroopa
-4,0,2,1,0,4,3,2,1,13,salme; johanson; tartu; komisjon; euro; euroopa
-0,0,2,2,0,2,3,3,1,13,salme; tartu; komisjon; euro; euroopa
-0,0,2,1,0,2,2,3,1,13,salme; komisjon; euro; euroopa
-0,0,2,0,0,2,4,3,1,13,johanson; salme; komisjon; euro; euroopa
+3,3,3,2,0,2,4,3,1,13,johanson; komisjon; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+3,3,3,2,0,2,4,3,1,13,johanson; komisjon; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+3,3,3,2,0,2,4,3,1,13,johanson; komisjon; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+3,3,3,2,0,2,4,3,1,13,johanson; komisjon; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+3,3,3,2,0,2,4,4,1,13,johanson; komisjon; salme; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+3,3,3,2,0,2,4,4,1,13,johanson; komisjon; salme; üleminek; tartu; euro; euroopa; rahvakultuurifestiva; ants
+1,1,2,2,0,4,5,5,1,13,komisjon; salme; üleminek; tartu; euro; euroopa
+4,0,2,2,0,4,4,3,1,13,johanson; salme; komisjon; üleminek; tartu; euro; laevaliiklus; euroopa
+0,0,2,2,0,2,3,3,1,13,euroopa; komisjon; salme; tartu; euro
+0,0,2,1,0,2,2,4,1,13,euroopa; komisjon; salme; üleminek; euro
+0,0,3,1,0,2,4,4,1,13,komisjon; johanson; salme; üleminek; euro; euroopa

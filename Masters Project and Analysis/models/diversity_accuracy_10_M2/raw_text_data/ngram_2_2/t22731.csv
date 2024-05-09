@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,1,0,2,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-1,0,2,1,0,2,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-1,0,2,1,0,2,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-1,0,2,1,0,2,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-1,0,2,1,0,2,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-1,0,2,1,0,3,1,3,1,14,salajased; kunst; jaan; aiad; näitus
-2,0,2,1,0,2,1,1,1,14,salajased; kunst; jaan; ränder; infotankistid; näitus
-1,1,3,0,0,1,1,1,1,14,salajased; jaan; aiad; biotehnoloogia; näitus
-1,1,3,0,0,0,1,2,1,14,salajased; jaan; aiad; biotehnoloogia; infotankistid; näitus
-2,1,2,0,0,0,0,2,1,14,salajased; jaan; aiad; biotehnoloogia; infotankistid; näitus; elken
-1,1,1,1,0,0,0,1,1,14,salajased; jaan; ränder; biotehnoloogia; näitus
+1,0,2,1,0,2,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+1,0,2,1,0,2,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+1,0,2,1,0,2,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+1,0,2,1,0,2,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+1,0,2,1,0,2,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+1,0,2,1,0,3,1,3,1,14,jaan; kunst; aiad; salajased; näitus
+2,0,2,1,0,2,1,1,1,14,jaan; kunst; infotankistid; ränder; salajased; näitus
+1,1,3,0,0,1,1,1,1,14,jaan; biotehnoloogia; aiad; salajased; näitus
+1,1,3,0,0,0,1,2,1,14,jaan; infotankistid; biotehnoloogia; aiad; salajased; näitus
+2,1,2,0,0,0,0,2,1,14,jaan; infotankistid; biotehnoloogia; salajased; aiad; elken; näitus
+1,1,1,1,0,0,0,1,1,14,jaan; ränder; biotehnoloogia; salajased; näitus

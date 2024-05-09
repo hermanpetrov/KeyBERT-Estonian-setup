@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,0,2,19,bach; eesti; sing
-0,0,0,0,0,0,1,0,2,19,bach; eesti; sing
-0,0,0,0,0,0,1,0,2,19,bach; eesti; sing
-0,0,0,0,0,0,1,0,2,19,bach; eesti; sing
-0,0,0,0,0,1,1,0,2,19,bach; eesti; sing
-0,0,0,0,0,1,2,0,2,19,bach; eesti; sing; musicus
-0,0,1,0,0,0,3,0,2,19,andres; phonyker; bach; musicus; sing; eesti
-0,0,0,0,0,2,2,0,2,19,bach; musicus; sing; eesti
-0,0,1,1,0,1,1,0,2,19,bach; filharmoonia; sing; hortus; eesti
-0,0,0,0,0,1,2,2,1,19,bach; sing; hortus; mustonen; eesti
-0,0,1,0,0,0,1,2,1,19,eesti; musicus; bach; mustonen
+1,0,0,0,0,0,2,0,2,19,sing; bach; kooriühing; eesti
+1,0,0,0,0,0,2,0,2,19,sing; bach; kooriühing; eesti
+1,0,0,0,0,0,2,0,2,19,sing; bach; kooriühing; eesti
+1,0,0,0,0,0,2,0,2,19,sing; bach; kooriühing; eesti
+1,0,0,0,0,1,2,0,2,19,sing; bach; kooriühing; eesti
+1,0,0,0,0,1,2,0,2,19,eesti; musicus; bach; kooriühing; sing
+0,0,1,0,0,0,3,0,2,19,phonyker; eesti; andres; musicus; bach; sing
+0,0,0,1,0,2,2,0,2,19,musicus; eesti; sing; bach; kooriühing
+0,0,1,1,0,1,1,0,2,19,hortus; eesti; sing; bach; filharmoonia
+0,0,0,0,0,1,2,2,2,19,hortus; mustonen; eesti; sing; bach; kooriühing
+0,0,1,0,0,0,1,2,1,19,musicus; bach; eesti; mustonen

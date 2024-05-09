@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,3,5,4,3,6,4,3,14,aadu; kanada; raamatukogu; käekiri; saaremaa; liibris; hint; autor
-5,4,3,5,4,3,6,4,3,14,aadu; kanada; raamatukogu; käekiri; saaremaa; liibris; hint; autor
-5,4,4,5,4,3,5,4,4,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; liibris; hint; autor
-5,4,5,6,5,4,5,4,4,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; liibris; hint; autor
-5,4,5,7,5,4,4,5,4,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; liibris; hint; autor
-3,4,6,5,6,5,6,4,4,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; liibris; hint; autor
-4,4,4,4,5,4,5,5,3,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; hint; autor
-3,4,6,2,5,5,6,5,3,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; hint; autor
-3,2,3,1,5,5,6,4,5,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; hint; autor
-2,6,3,1,6,4,6,3,5,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; hint; autor
-1,7,2,2,5,4,5,4,4,14,aadu; kanada; raamatukogu; saar; käekiri; saaremaa; hint; autor
+5,5,3,5,4,3,6,4,3,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri
+5,4,3,5,4,3,6,4,3,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri
+5,4,4,5,4,3,5,4,4,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri; saar
+5,4,5,6,5,4,5,4,4,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri; saar
+5,4,5,7,5,4,4,5,4,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri; saar
+3,4,6,5,6,5,6,4,4,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; käekiri; saar
+4,4,4,4,5,4,5,5,3,14,autor; kanada; hint; aadu; saaremaa; raamatukogu; käekiri; saar
+3,4,6,2,5,5,6,5,3,14,autor; kanada; hint; aadu; saaremaa; raamatukogu; käekiri; saar
+3,2,3,1,5,5,6,4,5,14,autor; kanada; hint; aadu; saaremaa; raamatukogu; käekiri; saar
+2,6,3,1,6,4,6,3,5,14,autor; kanada; hint; aadu; saaremaa; raamatukogu; käekiri; saar
+1,7,2,2,5,4,5,4,4,14,autor; kanada; hint; aadu; saaremaa; raamatukogu; käekiri; saar

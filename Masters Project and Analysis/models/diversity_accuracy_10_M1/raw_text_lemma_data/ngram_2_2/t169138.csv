@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-3,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-2,0,0,1,0,1,1,0,0,12,tarkus; mccain; lamar
-1,0,0,1,0,1,1,0,0,12,tarkus; lamar
-1,0,0,1,0,1,1,0,0,12,tarkus; lamar
-1,0,0,0,0,0,1,0,0,12,tarkus; lamar
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+3,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; tarkus; jälitamiskohustus; lasteporno
+2,3,0,2,0,1,1,1,0,12,seadusalgatus; internetiteenus; mccain; lamar; jälitamiskohustus; tarkus; lasteporno
+1,3,0,1,0,2,1,2,0,12,seadusalgatus; internetiteenus; lamar; jälitamiskohustus; tarkus
+1,3,0,2,0,2,1,3,0,12,lasteporno; tarkus; seadusalgatus; internetiteenus; lamar; jälitamiskohustus
+1,1,0,1,0,1,1,2,1,12,seadusalgatus; internetiteenus; lasteporno; lamar; tarkus; jälitamiskohustus

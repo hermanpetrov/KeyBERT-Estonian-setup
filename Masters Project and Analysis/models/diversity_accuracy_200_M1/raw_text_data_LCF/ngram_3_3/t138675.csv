@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,5,6,5,6,5,5,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-6,5,5,6,5,6,5,5,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-6,6,5,5,5,6,5,5,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-6,6,5,5,5,6,4,6,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-6,7,6,5,5,6,4,6,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-5,7,5,5,6,5,5,6,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-5,6,4,4,5,5,5,5,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-5,5,4,5,5,2,5,3,5,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-5,6,5,5,5,3,5,5,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-5,6,3,4,6,3,3,5,7,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-4,6,6,5,6,3,4,2,6,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; noorsoofestival; jaanituli
+6,5,5,6,5,5,5,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+6,5,5,6,5,5,5,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+6,6,5,5,5,5,5,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+6,6,5,5,5,4,6,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+6,7,6,5,5,4,6,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+5,7,5,5,6,5,6,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+5,6,4,4,5,5,5,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+5,5,4,5,5,5,3,5,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+5,6,5,5,5,5,5,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+5,6,3,4,6,3,5,7,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+4,6,6,5,6,4,2,6,0,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival

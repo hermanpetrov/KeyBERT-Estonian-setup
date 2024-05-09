@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,2,1,2,2,4,2,15,harrison; brian; mccartney; kuumad; ed; kuuekümnendad; maania; biitlid
-2,3,2,2,1,2,2,4,2,15,harrison; brian; mccartney; kuumad; ed; kuuekümnendad; maania; biitlid
-2,3,5,2,2,2,2,2,2,15,harrison; brian; mccartney; lennon; kuumad; ed; kuuekümnendad; maania; biitlid; epstein
-2,4,4,2,2,2,2,2,2,15,harrison; brian; mccartney; lennon; kuumad; ed; kuuekümnendad; maania; biitlid; epstein
-2,3,7,2,1,3,4,3,2,15,ringo; harrison; brian; mccartney; lennon; kuumad; kuuekümnendad; maania; biitlid; epstein
-2,3,7,2,2,4,5,3,3,15,ringo; harrison; brian; mccartney; lennon; kuumad; kuuekümnendad; maania; biitlid; epstein
-3,3,6,2,4,6,5,3,2,15,ringo; harrison; brian; mccartney; lennon; kuumad; ed; kuuekümnendad; george; maania; biitlid; epstein
-2,2,5,1,4,7,4,2,3,15,ringo; harrison; brian; mccartney; lennon; kuumad; ed; kuuekümnendad; george; maania; epstein
-2,3,5,2,4,6,4,2,2,15,ringo; harrison; brian; mccartney; kuumad; kuuekümnendad; george; maania; epstein
-2,3,5,3,3,6,4,3,1,15,ringo; harrison; brian; mccartney; lennon; kuumad; kuuekümnendad; george; maania; epstein
-2,0,5,4,3,5,5,3,0,15,ringo; harrison; brian; mccartney; lennon; kuumad; ed; kuuekümnendad; george; maania; epstein
+2,3,1,2,1,2,4,2,0,15,biitlid; maania; brian; harrison; mccartney; kuuekümnendad; kuumad; ed
+2,3,2,2,1,2,4,2,0,15,biitlid; maania; brian; harrison; mccartney; kuuekümnendad; kuumad; ed
+2,3,5,2,2,2,2,2,0,15,biitlid; maania; lennon; epstein; brian; mccartney; kuumad; kuuekümnendad; harrison; ed
+2,4,4,2,2,2,2,2,0,15,biitlid; maania; lennon; epstein; brian; mccartney; kuumad; kuuekümnendad; harrison; ed
+2,3,7,2,1,4,3,2,0,15,biitlid; maania; lennon; epstein; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison
+2,3,7,2,2,5,3,3,0,15,biitlid; maania; lennon; epstein; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison
+3,3,6,2,4,5,3,2,0,15,biitlid; maania; lennon; epstein; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison; ed
+2,2,5,1,4,4,2,3,0,15,maania; lennon; epstein; ringo; mccartney; kuumad; kuuekümnendad; harrison; ed
+2,3,5,2,4,4,2,2,0,15,maania; epstein; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison
+2,3,5,3,3,4,3,1,0,15,maania; lennon; epstein; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison
+2,0,5,4,3,5,3,0,0,15,maania; lennon; epstein; george; brian; ringo; mccartney; kuumad; kuuekümnendad; harrison; ed

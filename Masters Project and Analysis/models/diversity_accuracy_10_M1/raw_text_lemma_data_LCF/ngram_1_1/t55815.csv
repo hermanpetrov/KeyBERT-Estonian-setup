@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,0,2,10,muusikaline; tekst
-0,0,1,0,0,1,1,0,2,10,muusikaline; tekst
-0,0,1,0,0,1,1,0,2,10,muusikaline; tekst
-0,0,1,0,0,1,1,0,2,10,muusikaline; tekst
-0,0,0,0,0,1,1,0,2,10,muusikaline; tekst
-0,0,1,0,0,1,1,0,2,10,elizabeth; muusikaline; tekst
-0,0,1,0,0,1,0,0,2,10,elizabeth; muusikaline; tekst
-0,0,1,0,0,0,0,0,2,10,elizabeth; muusikaline; tekst
-0,0,1,0,0,0,0,0,1,10,elizabeth; muusikaline
-0,0,1,0,0,0,0,0,1,10,elizabeth; muusikaline
-1,0,1,0,0,0,0,0,0,10,elizabeth; california
+0,0,1,0,0,1,1,0,2,10,tekst; muusikaline
+0,0,1,0,0,1,1,0,2,10,tekst; muusikaline
+0,0,1,0,0,1,1,0,2,10,tekst; muusikaline
+0,0,1,0,0,1,1,0,2,10,tekst; muusikaline
+0,0,0,0,0,1,1,0,2,10,tekst; muusikaline
+0,0,1,0,0,1,1,0,2,10,elizabeth; tekst; muusikaline
+0,0,1,0,0,1,0,0,2,10,elizabeth; tekst; muusikaline
+0,0,1,0,0,0,0,0,2,10,elizabeth; tekst; muusikaline
+0,0,1,0,0,0,0,1,1,10,sooloettevõtmine; elizabeth; muusikaline
+0,0,1,0,0,0,0,1,1,10,sooloettevõtmine; elizabeth; muusikaline
+1,0,1,0,0,0,0,1,0,10,sooloettevõtmine; elizabeth; california

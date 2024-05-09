@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,3,4,3,3,3,2,5,15,saksa; kirjake; laager; jätma; siber; keel
-5,5,3,4,3,3,3,2,5,15,saksa; kirjake; laager; jätma; siber; keel
-5,6,4,4,3,3,3,3,5,15,saksa; kirjake; laager; jätma; siber; keel
-4,6,5,4,3,3,3,3,5,15,saksa; kirjake; laager; robert; jätma; siber; keel
-4,6,5,4,3,3,3,5,5,15,saksa; kirjake; laager; jätma; siber; keel
-4,6,5,5,5,3,3,5,5,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-7,5,6,6,6,3,6,7,5,15,saksa; laager; robert; jätma; siber; keel; tasso
-5,5,5,6,5,6,7,7,5,15,saksa; laager; robert; jätma; siber; keel; tasso
-4,7,6,6,6,7,5,7,5,15,saksa; laager; robert; jätma; siber; keel; tasso
-3,5,7,5,7,7,7,6,7,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-3,5,7,4,7,7,7,7,6,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
+6,8,4,6,4,3,3,3,6,15,talveriie; kirjake; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+6,8,4,6,4,3,3,3,6,15,talveriie; kirjake; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+6,9,6,6,4,3,3,5,5,15,talveriie; kirjake; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+5,9,7,6,4,3,4,5,5,15,talveriie; kirjake; robert; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+5,9,8,6,4,4,4,7,5,15,talveriie; kirjake; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+6,9,8,7,6,4,4,7,5,15,talveriie; kirjake; robert; tasso; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+8,8,8,7,7,4,7,9,5,15,robert; tasso; saksa; jätma; loomavagun; talveriie; keel; mustlasnaine; siber; laager
+6,7,7,6,6,8,7,9,5,15,robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+5,7,7,6,7,9,6,9,5,15,robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+6,5,9,5,7,10,8,7,7,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+5,5,9,4,8,9,9,9,7,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma

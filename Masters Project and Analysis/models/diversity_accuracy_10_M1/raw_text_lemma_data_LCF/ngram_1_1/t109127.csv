@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,2,1,2,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,2,1,2,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,2,1,2,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,2,1,2,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,2,1,2,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,1,1,1,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,1,1,1,1,17,luuletaja; eesti; antoloogia
-0,1,0,1,0,1,1,1,1,17,luuletaja; eesti; paul-eerik; antoloogia
-0,1,0,0,0,1,0,0,1,17,luuletaja; eesti; antoloogia
-0,1,0,0,0,0,0,0,1,17,eesti; antoloogia
-0,1,0,0,0,0,0,0,1,17,eesti; antoloogia
+0,1,1,0,0,3,2,3,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,3,2,3,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,3,2,3,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,3,2,3,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,3,2,3,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,2,2,2,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,1,0,0,2,2,2,1,17,luuletaja; eesti; luulealbum; antoloogia
+0,1,0,1,0,2,2,2,1,17,luuletaja; eesti; luulealbum; antoloogia; paul-eerik
+0,1,0,1,0,2,1,1,1,17,luuletaja; antoloogia; eesti; luulealbum
+0,1,0,1,0,1,1,1,1,17,antoloogia; eesti; luulealbum
+0,1,0,0,0,1,1,1,1,17,antoloogia; eesti; luulealbum

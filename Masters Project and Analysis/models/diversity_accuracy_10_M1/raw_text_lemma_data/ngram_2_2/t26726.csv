@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,3,0,0,3,2,1,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,3,0,0,3,2,1,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,3,0,0,3,2,1,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,3,0,0,3,2,1,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,2,0,0,3,2,1,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,3,0,0,3,2,2,1,16,komöödia; august; kirjandus; eesti; kitzberg
-2,2,1,1,0,3,2,2,2,16,kirjandus; eesti; kitzberg
-1,2,2,2,0,3,2,2,2,16,kirjandus; tragöödia; eesti; vilde; kitzberg
-1,1,2,1,0,3,1,2,2,16,kirjandus; eesti; kitzberg
-0,1,1,1,0,4,2,2,1,16,kirjandus; eesti; vilde; kitzberg
-2,1,1,0,1,4,3,2,1,16,kirjandus; eesti; vilde; kitzberg
+2,2,3,0,0,4,2,1,1,16,draamakunst; eesti; kirjandus; kitzberg; komöödia; august
+2,2,3,0,0,4,2,1,1,16,draamakunst; eesti; kirjandus; kitzberg; komöödia; august
+2,2,3,0,0,4,2,1,1,16,draamakunst; eesti; kirjandus; kitzberg; komöödia; august
+2,2,3,0,0,4,2,1,1,16,draamakunst; eesti; kirjandus; kitzberg; komöödia; august
+2,2,2,0,0,4,2,1,1,16,draamakunst; eesti; kirjandus; kitzberg; komöödia; august
+2,2,3,0,0,4,2,3,1,16,kuuldemäng; eesti; kitzberg; komöödia; draamakunst; august; kirjandus
+2,2,1,1,0,4,2,3,2,16,kuuldemäng; eesti; kirjandus; kitzberg; draamakunst
+2,2,2,2,0,4,3,3,2,16,kuuldemäng; eesti; kitzberg; ärkamisaeg; vilde; venestamisaeg; kirjandus; tragöödia
+2,1,2,1,0,4,2,2,2,16,eesti; kitzberg; ärkamisaeg; venestamisaeg; kirjandus
+0,1,1,1,0,4,4,2,1,16,ärkamisaeg; eesti; vilde; venestamisaeg; kirjandus; kitzberg
+3,2,1,0,1,4,4,2,1,16,eesti; kitzberg; draamakunst; vilde; venestamisaeg; kirjandus

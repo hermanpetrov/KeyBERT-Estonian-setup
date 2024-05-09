@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,1,1,0,11,eetika; arhitektuur; liit
-0,1,1,0,0,0,1,1,0,11,eetika; arhitektuur; liit
-0,1,1,0,0,0,1,1,0,11,eetika; arhitektuur; liit
-0,1,0,0,0,0,1,1,0,11,eetika; liit
-0,1,0,0,0,1,1,1,0,11,kritiseerima; eetika; liit
-0,1,0,0,0,0,0,1,0,11,eetika; liit
-0,1,1,0,0,0,0,1,0,11,arhitekt; arhitektuur; liit
-0,0,1,0,0,0,1,1,0,11,eetika; liit
-1,0,1,0,0,0,2,1,0,11,kritiseerima; eetika; arendaja; liit
-1,0,2,1,0,1,2,1,0,11,arhitekt; arendaja; keskkond; eetika
-1,1,0,1,0,1,1,1,0,11,arendaja; arhitekt; keskkond; eetika
+0,1,1,0,1,0,1,1,0,11,arhitektuur; eetika; liit; detailplaneering
+0,1,1,0,1,0,1,1,0,11,arhitektuur; eetika; liit; detailplaneering
+0,1,1,0,1,0,1,1,0,11,arhitektuur; eetika; liit; detailplaneering
+0,1,0,0,1,0,1,1,0,11,detailplaneering; eetika; liit
+0,1,0,0,1,1,1,1,0,11,detailplaneering; eetika; kritiseerima; liit
+0,1,0,0,1,0,0,1,0,11,detailplaneering; eetika; liit
+0,1,1,0,1,0,0,1,0,11,arhitektuur; arhitekt; liit; detailplaneering
+0,0,1,0,1,0,1,1,0,11,detailplaneering; eetika; liit
+1,0,1,0,1,0,2,1,0,11,detailplaneering; eetika; liit; arendaja; kritiseerima
+1,0,2,2,1,1,2,1,0,11,detailplaneering; keskkond; eetika; arendaja; arhitekt
+1,1,0,2,0,1,1,1,0,11,detailplaneering; eetika; keskkond; arendaja; arhitekt

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,5,2,2,4,4,4,0,14,tallinna; probleem; anders; näitus; mäng; kunstihoone; infotankistid; saladus
-2,3,5,2,2,4,4,4,0,14,tallinna; probleem; anders; näitus; mäng; kunstihoone; infotankistid; saladus
-2,3,3,2,2,5,4,4,0,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus
-2,3,2,1,2,2,3,3,0,14,tallinna; probleem; anders; näitus; mäng; kunstihoone; infotankistid; saladus
-2,3,0,1,2,1,3,2,0,14,tallinna; probleem; anders; näitus; mäng; kunstihoone; infotankistid; saladus
-3,2,2,1,3,1,1,1,0,14,tallinna; anders; kunstihoone; infotankistid; probleem; saladus; akvarell
-2,2,1,1,3,1,1,2,1,14,tallinna; anders; infotankistid; probleem; saladus; akvarell
-1,3,1,1,3,0,1,2,1,14,tallinna; probleem; anders; kunstihoone; infotankistid; saladus; akvarell
-0,2,3,2,2,0,1,3,0,14,tallinna; probleem; anders; kunstihoone; infotankistid; saladus; akvarell
-0,2,2,2,3,0,0,3,0,14,tallinna; probleem; kunstihoone; infotankistid; saladus; akvarell
-0,1,2,3,2,0,1,3,0,14,tallinna; probleem; anders; kunstihoone; infotankistid; saladus; akvarell
+2,3,5,2,2,4,4,4,0,14,infotankistid; anders; mäng; kunstihoone; näitus; saladus; tallinna; probleem
+2,3,5,2,2,4,4,4,0,14,infotankistid; anders; mäng; kunstihoone; näitus; saladus; tallinna; probleem
+2,3,3,2,2,5,4,4,0,14,infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+2,3,2,1,2,2,3,3,0,14,infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+2,3,0,1,2,1,3,2,0,14,infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+3,2,2,1,3,1,1,1,0,14,anders; akvarell; infotankistid; tallinna; saladus; kunstihoone; probleem
+2,2,1,1,3,1,1,2,1,14,anders; akvarell; infotankistid; saladus; tallinna; probleem
+1,3,1,1,3,0,1,2,1,14,akvarell; infotankistid; anders; tallinna; saladus; kunstihoone; probleem
+0,2,3,2,2,0,1,3,0,14,akvarell; infotankistid; kunstihoone; tallinna; saladus; anders; probleem
+0,2,2,2,3,0,0,3,0,14,akvarell; infotankistid; kunstihoone; saladus; tallinna; probleem
+0,1,2,3,2,0,1,3,0,14,akvarell; infotankistid; kunstihoone; tallinna; saladus; anders; probleem

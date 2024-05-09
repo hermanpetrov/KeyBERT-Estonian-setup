@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-6,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-6,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-6,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-6,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-6,6,5,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-7,6,4,4,5,7,7,8,5,12,kinni; raamat; rabandus; hoidma; ivo; poeg; tuisk; torm; käsi; isa
-5,6,4,6,5,5,7,8,5,12,kinni; raamat; ivo; hoidma; poeg; tuisk; torm; käsi; isa
-7,6,4,7,6,5,7,8,5,12,kinni; raamat; rabandus; poeg; hoidma; ivo; tuisk; torm; käsi; isa
-8,7,6,8,6,5,7,9,5,12,kinni; raamat; rabandus; hoidma; tuisk; torm; käsi; ivo; poeg; isa
-8,7,6,8,6,6,7,9,6,12,kinni; raamat; rabandus; hoidma; tuisk; torm; käsi; ivo; poeg; isa
+7,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+7,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+7,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+7,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+7,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+7,6,5,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+8,6,4,4,5,8,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+6,6,4,6,5,6,7,9,5,12,uukkivi; kinni; tuisk; hoidma; isa; torm; raamat; poeg; käsi; ivo
+8,6,4,7,6,6,7,9,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+9,7,7,9,6,6,7,10,5,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo
+8,7,7,9,6,7,7,10,6,12,uukkivi; isa; torm; rabandus; poeg; kinni; tuisk; hoidma; raamat; käsi; ivo

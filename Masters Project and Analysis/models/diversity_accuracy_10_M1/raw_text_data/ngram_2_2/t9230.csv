@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja; territoorium
-0,1,0,1,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja; territoorium
-0,1,0,1,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja; territoorium
-0,1,0,1,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja; territoorium
-0,0,0,1,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja
-0,0,1,1,0,1,2,0,2,15,marko; looduskaitseala; kutsikas; alam-pedja
-0,0,0,0,0,1,2,0,2,15,marko; looduskaitseala; alam-pedja; territoorium
-0,0,0,0,0,1,2,1,2,15,marko; alam-pedja; hunt
-0,0,0,0,0,1,2,1,1,15,marko; alam-pedja; hunt
-0,1,0,0,0,1,1,0,1,15,marko; alam-pedja
-0,0,1,0,0,2,1,0,2,15,marko; looduskaitseala; alam-pedja; hunt
+0,1,0,1,0,1,2,0,2,15,looduskaitseala; marko; alam-pedja; territoorium
+0,1,0,1,0,1,2,0,2,15,looduskaitseala; marko; alam-pedja; territoorium
+0,1,0,1,0,1,2,0,2,15,looduskaitseala; marko; alam-pedja; territoorium
+0,1,0,1,0,1,2,0,2,15,looduskaitseala; marko; alam-pedja; territoorium
+0,0,0,1,0,1,2,0,2,15,looduskaitseala; alam-pedja; marko
+0,0,1,1,0,1,2,0,2,15,looduskaitseala; kutsikas; alam-pedja; marko
+0,0,0,0,0,1,2,0,2,15,looduskaitseala; marko; alam-pedja; territoorium
+0,0,0,0,0,1,2,1,2,15,alam-pedja; marko; hunt
+0,0,0,0,0,1,2,1,1,15,alam-pedja; marko; hunt
+0,1,0,0,0,1,1,0,1,15,alam-pedja; marko
+0,0,1,0,0,2,1,0,2,15,looduskaitseala; alam-pedja; marko; hunt

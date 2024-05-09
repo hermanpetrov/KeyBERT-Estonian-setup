@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,3,3,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,3,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,2,2,4,3,3,3,12,jaanuar; lõpp; lähedane; intensiivne; aasta
-1,3,3,3,2,4,3,3,2,12,jaanuar; lõpp; aasta; lähedane; intensiivne
-1,3,5,4,1,4,3,3,3,12,jaanuar; lõpp; aasta; lähedane; intensiivne
+4,6,6,7,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,7,4,8,6,6,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,6,6,5,12,lähedane; lõpp; heategevus; rahuaeg; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,6,6,4,8,7,6,5,12,lähedane; lõpp; heategevus; rahuaeg; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,7,5,4,8,7,7,5,12,lähedane; lõpp; heategevus; rahuaeg; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,7,6,4,8,7,7,4,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg
+4,6,9,6,3,8,7,7,5,12,lähedane; lõpp; rahuaeg; heategevus; jaanuar; intensiivne; aasta; jõulurõõm; tegutsemisaeg

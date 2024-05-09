@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,2,6,3,4,4,4,6,13,otsa; tants; eesti; följeton; reimann; fuu; prelüüd
-7,4,2,6,3,5,4,4,6,13,otsa; tants; eesti; följeton; reimann; fuu; prelüüd
-7,4,3,6,3,7,5,4,6,13,otsa; tants; eesti; följeton; reimann; fuu; prelüüd
-7,4,4,6,4,7,5,4,6,13,otsa; följeton; tants; eesti; reimann; fuu; prelüüd
-7,4,4,6,4,7,5,5,6,13,otsa; följeton; tants; eesti; reimann; fuu; prelüüd
-5,4,5,6,6,6,5,5,6,13,otsa; fuu; tants; eesti; följeton; reimann; prelüüd
-4,5,6,5,7,6,5,5,6,13,otsa; fuu; eesti; följeton; reimann; prelüüd; tants
-4,5,6,6,7,5,5,6,6,13,otsa; följeton; eesti; reimann; fuu; prelüüd; tants
-4,4,6,6,7,5,5,6,7,13,otsa; fuu; följeton; eesti; reimann; prelüüd; tants
-4,5,6,6,6,4,5,6,7,13,otsa; följeton; eesti; reimann; fuu; prelüüd; tants
-4,5,6,6,6,4,5,5,7,13,otsa; följeton; eesti; reimann; fuu; prelüüd; tants
+9,6,4,8,3,6,6,6,7,13,fuu; eesti; sümfooniaorkester; otsa; reimann; prelüüd; klaverikontsert; följeton; tants
+9,6,4,8,3,7,6,6,7,13,fuu; eesti; sümfooniaorkester; otsa; reimann; prelüüd; klaverikontsert; följeton; tants
+9,6,5,8,3,9,7,6,7,13,fuu; eesti; sümfooniaorkester; otsa; reimann; prelüüd; klaverikontsert; följeton; tants
+9,6,6,8,4,9,7,6,7,13,fuu; eesti; sümfooniaorkester; otsa; reimann; prelüüd; klaverikontsert; följeton; tants
+9,6,6,8,4,9,7,7,7,13,fuu; eesti; sümfooniaorkester; otsa; reimann; prelüüd; klaverikontsert; följeton; tants
+7,6,7,8,6,8,7,7,7,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; otsa; följeton; tants
+5,7,8,7,7,7,7,7,8,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; otsa; prelüüd; följeton; tants
+6,7,8,6,7,6,6,8,8,13,fuu; eesti; sümfooniaorkester; klaverikontsert; otsa; prelüüd; reimann; följeton; tants
+6,6,8,6,7,5,5,8,9,13,fuu; eesti; sümfooniaorkester; klaverikontsert; otsa; reimann; prelüüd; följeton; tants
+5,7,8,7,6,4,6,8,8,13,fuu; eesti; sümfooniaorkester; otsa; klaverikontsert; reimann; prelüüd; följeton; tants
+5,7,8,7,7,4,5,6,8,13,fuu; eesti; sümfooniaorkester; otsa; klaverikontsert; reimann; prelüüd; följeton; tants

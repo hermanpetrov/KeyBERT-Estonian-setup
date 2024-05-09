@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,3,2,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,3,2,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,3,3,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,2,3,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,3,4,2,2,3,1,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-3,2,4,2,2,3,2,4,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-4,3,4,3,2,3,2,5,2,12,subtiiter; innove; kool; eestlane; uuring; euroopa
-2,3,4,3,1,2,2,4,1,12,subtiiter; kool; eestlane; uuring; euroopa
-3,3,3,3,1,5,2,5,2,12,sõstar; kersti; subtiiter; innove; kool; eestlane; uuring; euroopa
-4,3,4,4,2,4,3,5,1,12,sõstar; kersti; subtiiter; innove; kool; eestlane; uuring; euroopa
+7,3,4,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,3,4,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,3,4,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,4,5,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,4,5,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,5,6,4,2,6,4,7,5,12,võõrkeel; euroopa; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; innove; keeleoskus
+7,4,7,3,2,7,5,7,5,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; innove; subtiiter; euroopa; keeleoskus
+7,5,7,4,3,7,5,9,5,12,võõrkeel; uuring; eestlane; euroopa; innove; kolmkeelsus; kool; keelepoliitika; subtiiter; keeleoskus
+4,5,6,3,1,6,5,7,4,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; subtiiter; euroopa; keeleoskus
+5,5,6,4,1,8,5,7,4,12,võõrkeel; kersti; uuring; eestlane; kolmkeelsus; kool; innove; keelepoliitika; subtiiter; sõstar; euroopa; keeleoskus
+4,5,7,4,2,6,5,7,3,12,võõrkeel; kersti; uuring; eestlane; innove; euroopa; kolmkeelsus; kool; keelepoliitika; sõstar; subtiiter; keeleoskus

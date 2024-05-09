@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,3,0,0,0,3,4,5,16,hans; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina
-2,3,3,0,0,1,5,4,5,16,hans; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-2,3,4,0,0,1,5,4,5,16,hans; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-1,3,3,0,0,3,4,4,5,16,hans; nädal; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-1,3,3,1,0,3,3,4,4,16,hans; nädal; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-1,3,3,2,0,2,3,3,4,16,hans; nädal; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-1,3,4,3,0,2,3,4,3,16,hans; nädal; restoranide; hindpere; karjatse; tõnu; julgeolekunõukogu; ukraina; üro
-2,2,3,3,0,2,3,3,3,16,hans; nädal; restoranide; hindpere; karjatse; julgeolekunõukogu; ukraina; üro
-1,3,2,3,0,2,1,3,1,16,nädal; restoranide; hindpere; karjatse; julgeolekunõukogu; ukraina
-0,1,1,3,0,1,1,2,1,16,karjatse; hindpere; julgeolekunõukogu; ukraina
-1,0,5,4,0,3,1,3,1,16,hans; hindpere; karjatse; julgeolekunõukogu; ukraina; üro
+2,2,3,0,0,3,4,5,0,16,hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+2,3,3,0,0,5,4,5,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+2,3,4,0,0,5,4,5,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+1,3,3,0,0,4,4,5,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+1,3,3,1,0,3,4,4,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+1,3,3,2,0,3,3,4,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+1,3,4,3,0,3,4,3,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide; tõnu
+2,2,3,3,0,3,3,3,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse; restoranide
+1,3,2,3,0,1,3,1,0,16,hindpere; ukraina; julgeolekunõukogu; karjatse; restoranide
+0,1,1,3,0,1,2,1,0,16,hindpere; julgeolekunõukogu; ukraina; karjatse
+1,0,5,4,0,1,3,1,0,16,üro; hindpere; ukraina; hans; julgeolekunõukogu; karjatse

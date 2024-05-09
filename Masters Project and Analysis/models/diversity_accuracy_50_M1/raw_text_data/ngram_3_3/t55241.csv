@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,3,2,2,2,2,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,2,3,2,2,2,2,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,2,3,2,2,2,2,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,2,3,2,2,2,2,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-2,2,4,2,2,2,2,2,0,13,kvaliteet; veevarustussüsteem; joogivesi; joogiveemäärus; põhjavesi; jaak
-2,1,4,3,2,2,4,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-0,1,4,3,2,2,4,3,0,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-1,1,3,0,1,2,3,4,0,13,kvaliteet; veevarustussüsteem; joogivesi; joogiveemäärus; jaak
-1,0,3,1,0,3,3,4,0,13,kvaliteet; veevarustussüsteem; joogivesi; jaak; joogiveemäärus
-2,0,2,0,2,2,2,4,0,13,kvaliteet; joogivesi; jaak; joogiveemäärus
-1,0,1,0,2,2,1,2,0,13,kvaliteet; veevarustussüsteem; joogivesi; joogiveemäärus; jaak
+3,2,3,2,2,2,2,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+3,2,3,2,2,2,2,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+3,2,3,2,2,2,2,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+3,2,3,2,2,2,2,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+2,2,4,2,2,2,2,2,0,13,põhjavesi; veevarustussüsteem; jaak; joogiveemäärus; joogivesi; kvaliteet
+2,1,4,3,2,2,4,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+0,1,4,3,2,2,4,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+1,1,3,0,1,2,3,4,0,13,veevarustussüsteem; jaak; joogiveemäärus; joogivesi; kvaliteet
+1,0,3,1,0,3,3,4,0,13,veevarustussüsteem; jaak; joogiveemäärus; joogivesi; kvaliteet
+2,0,2,0,2,2,2,4,0,13,jaak; joogiveemäärus; joogivesi; kvaliteet
+1,0,1,0,2,2,1,2,0,13,veevarustussüsteem; jaak; joogiveemäärus; joogivesi; kvaliteet

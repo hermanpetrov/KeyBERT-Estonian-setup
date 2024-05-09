@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,1,0,0,0,0,0,16,rüütel; rohelised; arnold; neeme; rahvaliit; partei
-2,2,2,1,0,0,0,0,0,16,rüütel; rohelised; arnold; neeme; rahvaliit; partei
-2,2,2,1,0,0,0,0,0,16,rüütel; rohelised; arnold; neeme; rahvaliit; partei
-2,2,2,1,0,0,0,0,0,16,rüütel; rohelised; arnold; neeme; rahvaliit; partei
-2,2,2,1,0,0,0,0,0,16,rüütel; rohelised; arnold; neeme; rahvaliit; partei
-2,1,1,1,0,0,0,0,0,16,rüütel; arnold; partei; rahvaliit; rohelised
-0,1,0,1,0,0,0,2,0,16,korv; rahvaliit; neeme; partei
+2,2,2,1,0,0,0,0,0,16,arnold; partei; rahvaliit; rohelised; neeme; rüütel
+2,2,2,1,0,0,0,0,0,16,arnold; partei; rahvaliit; rohelised; neeme; rüütel
+2,2,2,1,0,0,0,0,0,16,arnold; partei; rahvaliit; rohelised; neeme; rüütel
+2,2,2,1,0,0,0,0,0,16,arnold; partei; rahvaliit; rohelised; neeme; rüütel
+2,2,2,1,0,0,0,0,0,16,arnold; partei; rahvaliit; rohelised; neeme; rüütel
+2,1,1,1,0,0,0,0,0,16,arnold; partei; rohelised; rahvaliit; rüütel
+0,1,0,1,0,0,0,2,0,16,partei; rahvaliit; neeme; korv
 0,0,0,1,0,0,1,0,0,16,rahvaliit; sulev
 0,1,0,1,0,1,2,0,0,16,arnold; rahvaliit; neeme
-0,2,0,2,0,0,1,0,0,16,arnold; rahvaliit; neeme; partei
-0,1,0,2,0,0,1,1,0,16,arnold; neeme; rahvaliit; rohelised
+0,2,0,2,0,0,1,0,0,16,arnold; rahvaliit; partei; neeme
+0,1,0,2,0,0,1,1,0,16,arnold; rohelised; rahvaliit; neeme

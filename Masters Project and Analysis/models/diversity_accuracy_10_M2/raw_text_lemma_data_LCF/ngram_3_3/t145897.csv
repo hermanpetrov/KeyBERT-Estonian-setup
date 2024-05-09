@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,1,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,1,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,1,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,1,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,0,0,0,0,0,0,1,11,viiul; näitleja; estonia
-2,0,0,0,0,0,0,0,1,11,teater; viiul; estonia
-2,0,1,2,0,0,0,0,1,11,orkester; perekond; estonia; teater; viiul
-2,1,1,1,0,0,0,0,1,11,teater; orkester; viiul; estonia
-3,0,2,0,0,0,0,0,1,11,orkester; perekond; estonia; teater; viiul
-4,1,2,1,1,0,0,1,1,11,orkester; perekond; estonia; teater; viiul; näitleja
+3,0,1,0,0,0,1,1,1,11,lapsepõlv; viiul; laulukoor; näitleja; estonia
+3,0,1,0,0,0,1,1,1,11,lapsepõlv; viiul; laulukoor; näitleja; estonia
+3,0,1,0,0,0,1,1,1,11,lapsepõlv; viiul; laulukoor; näitleja; estonia
+3,0,1,0,0,0,1,1,1,11,lapsepõlv; viiul; laulukoor; näitleja; estonia
+3,0,1,0,0,0,1,1,1,11,lapsepõlv; viiul; laulukoor; näitleja; estonia
+3,0,0,0,0,0,1,1,1,11,viiul; näitleja; laulukoor; lapsepõlv; estonia
+2,0,0,0,0,0,1,1,1,11,viiul; lapsepõlv; teater; estonia
+3,0,1,3,0,0,1,1,1,11,estonia; viiul; perekond; proovitöö; laulukoor; lapsepõlv; teater; orkester
+2,1,1,2,0,0,0,1,1,11,estonia; viiul; laulukoor; lapsepõlv; teater; orkester
+3,0,2,0,0,1,0,1,1,11,viiul; orkester; perekond; lapsepõlv; teater; estonia
+4,1,2,1,1,1,1,2,1,11,viiul; lapsepõlv; perekond; näitleja; estonia; teater; orkester

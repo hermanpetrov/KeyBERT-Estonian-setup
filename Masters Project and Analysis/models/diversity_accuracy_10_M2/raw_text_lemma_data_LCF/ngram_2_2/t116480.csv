@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,1,2,2,1,2,16,ungari; torm; serenaa; kontsert; publik
-2,1,1,0,1,2,2,1,2,16,ungari; torm; serenaa; kontsert; publik
-2,1,1,0,1,2,2,1,2,16,ungari; torm; serenaa; kontsert; publik
-2,1,1,0,1,2,2,1,2,16,ungari; torm; serenaa; kontsert; publik
-2,1,1,0,1,2,2,1,2,16,ungari; torm; serenaa; kontsert; publik
-2,1,1,0,1,2,2,1,1,16,ungari; torm; serenaa; kontsert; publik
-1,0,0,1,1,2,2,1,1,16,ungari; torm; serenaa; kontsert
-0,0,0,1,1,3,2,1,0,16,ungari; torm; kontsert; publik; dirigent
-0,1,0,0,1,2,1,1,0,16,ungari; torm; kontsert; publik
-1,0,1,0,1,1,2,2,1,16,partok; torm; ungari; kontsert; publik
-1,0,0,1,1,0,1,1,0,16,partok; torm; ungari; publik
+2,2,2,0,1,2,3,3,3,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+2,2,2,0,1,2,3,3,3,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+2,2,2,0,1,2,3,3,3,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+2,2,2,0,1,2,3,3,3,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+2,2,2,0,1,2,3,3,3,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+2,2,2,0,1,2,3,3,2,16,ungari; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+1,1,1,1,1,4,3,4,2,16,ungari; rahvusvaheline; serenaa; kammerkoor; torm; laulukonkurss; kontsert
+0,0,1,2,1,5,3,3,1,16,ungari; dirigent; rahvusvaheline; kammerkoor; torm; publik; laulukonkurss; kontsert
+0,1,1,0,1,3,2,4,1,16,ungari; rahvusvaheline; torm; publik; kammerkoor; laulukonkurss; kontsert
+1,0,3,0,1,3,3,4,2,16,ungari; rahvusvaheline; kammerkoor; partok; torm; publik; laulukonkurss; kontsert
+1,1,1,1,1,1,1,1,1,16,kammerkoor; partok; ungari; torm; publik; laulukonkurss

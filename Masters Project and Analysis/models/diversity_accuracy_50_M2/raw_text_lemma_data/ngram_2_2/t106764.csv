@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,3,2,2,3,2,2,3,15,rock; singer; kontsert; café; draiv; raadio; vinger; onu; kaks
-5,5,3,2,2,3,2,2,3,15,rock; singer; kontsert; café; draiv; raadio; vinger; onu; kaks
-5,5,3,2,2,3,2,2,3,15,rock; singer; kontsert; café; draiv; raadio; vinger; onu; kaks
-5,5,3,2,2,3,2,2,3,15,rock; singer; kontsert; café; draiv; raadio; vinger; onu; kaks
-5,5,3,2,2,3,2,2,3,15,rock; singer; kontsert; café; draiv; raadio; vinger; onu; kaks
-3,5,6,3,2,2,2,3,3,15,rock; singer; kosmos; kontsert; café; draiv; raadio; onu; kaks
-2,2,6,3,2,4,3,3,3,15,rock; singer; kontsert; kosmos; café; raadio; vinger; kaks
-3,4,3,3,2,2,1,2,3,15,rock; singer; kosmos; kontsert; café; raadio; vinger; kaks
-2,5,3,4,2,0,3,2,4,15,rock; singer; kontsert; café; draiv; raadio; veiko; vinger; onu; kaks
-2,4,6,4,4,1,2,3,3,15,rock; singer; kosmos; kontsert; café; draiv; raadio; vinger; kristo; onu; kaks
-3,4,5,4,4,2,5,2,3,15,rock; singer; kosmos; kontsert; café; draiv; raadio; vinger; kristo; onu; kaks
+5,6,3,2,2,4,2,3,3,15,vinger; draiv; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+5,6,3,2,2,4,2,3,3,15,vinger; draiv; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+5,6,3,2,2,4,2,3,3,15,vinger; draiv; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+5,6,3,2,2,4,2,3,3,15,vinger; draiv; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+5,6,3,2,2,4,2,3,3,15,vinger; draiv; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+3,6,6,3,2,2,2,4,3,15,draiv; kosmos; rajasaar; rock; raadio; onu; singer; kaks; café; muusikanõunik; kontsert
+2,3,7,4,2,5,4,4,3,15,vinger; rajasaar; kosmos; rock; raadio; singer; kaks; café; muusikanõunik; kontsert
+4,4,4,3,2,2,1,3,3,15,vinger; rajasaar; kosmos; rock; raadio; singer; kaks; café; muusikanõunik; kontsert
+2,5,4,5,2,0,3,4,4,15,sünnipäev; vinger; draiv; rajasaar; rock; veiko; raadio; onu; singer; kaks; café; kontsert
+2,5,6,4,4,2,3,4,3,15,sünnipäev; vinger; rajasaar; draiv; kosmos; rock; raadio; onu; kristo; singer; kaks; café; muusikanõunik; kontsert
+3,5,7,4,4,2,6,3,3,15,sünnipäev; vinger; rajasaar; kosmos; draiv; rock; raadio; onu; kristo; singer; kaks; café; muusikanõunik; kontsert

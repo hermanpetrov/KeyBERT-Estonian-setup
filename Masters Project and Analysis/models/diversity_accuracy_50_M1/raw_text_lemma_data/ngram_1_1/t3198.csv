@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,1,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,2,0,1,1,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,3,0,1,1,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,3,0,1,1,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,3,0,1,1,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,3,0,1,0,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,1,0,1,0,0,0,1,14,mälberg; juhan; mall
-0,0,1,0,1,0,0,0,1,14,mälberg; juhan; mall
-0,0,2,0,1,0,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
-0,0,2,0,1,0,0,0,1,14,mälberg; juhan; mall; aktsia
-0,0,2,0,1,0,1,0,1,14,koalitsioon; aktsia; mälberg; juhan; mall
+2,0,3,1,1,2,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+2,0,3,1,1,2,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+2,0,4,1,1,2,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+2,0,4,1,1,2,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+2,0,4,1,1,2,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+2,0,4,1,1,1,1,0,1,14,hansapank; liivrand; mälberg; enesetapuplahvatus; mall; juhan; läbirääkimine; aktsia; koalitsioon
+3,0,2,1,1,0,2,1,1,14,võimuvõitlus; hansapank; mall; välisminister; juhan; läbirääkimine; mälberg; enesetapuplahvatus
+0,0,2,0,1,1,1,1,1,14,võimuvõitlus; hansapank; mall; välisminister; juhan; mälberg
+1,0,3,0,1,0,3,2,1,14,võimuvõitlus; hansapank; mälberg; enesetapuplahvatus; mall; välisminister; juhan; aktsia; koalitsioon
+1,0,3,0,1,0,1,1,1,14,võimuvõitlus; hansapank; mall; aktsia; välisminister; juhan; mälberg; enesetapuplahvatus
+1,0,2,1,1,0,4,1,1,14,võimuvõitlus; liivrand; mälberg; enesetapuplahvatus; välisminister; mall; juhan; aktsia; koalitsioon

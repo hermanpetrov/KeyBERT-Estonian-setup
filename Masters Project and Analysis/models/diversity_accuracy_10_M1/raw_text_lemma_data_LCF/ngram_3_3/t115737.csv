@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,0,0,1,0,0,0,14,august; hermann; karl; johannes; keel
-1,0,3,0,0,1,0,0,0,14,august; hermann; karl; johannes; keel
-1,0,3,0,0,1,0,0,0,14,august; hermann; karl; johannes; keel
-1,0,3,0,0,1,0,0,0,14,august; hermann; karl; johannes; keel
-1,0,3,0,0,1,0,0,0,14,august; hermann; karl; johannes; keel
-1,0,2,0,0,1,0,1,1,14,august; hermann; johannes; keel
-3,0,3,1,0,3,2,1,0,14,august; hermann; karl; johannes; küsimus; salonen; armas; keel
-1,1,4,3,0,4,1,2,0,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; armas; keel; tuglas
-1,0,2,3,0,1,4,0,0,14,august; hermann; friedebert; karl; johannes; keel; tuglas
-2,0,2,1,0,1,4,3,1,14,august; hermann; karl; friedebert; armas; keel; tuglas; hellitus
-2,1,2,0,0,1,1,3,1,14,salonen; august; hermann; armas; friedebert; johannes; keel
+1,0,3,0,0,2,0,0,0,14,murdekeel; keel; hermann; johannes; karl; august
+1,0,3,0,0,2,0,0,0,14,murdekeel; keel; hermann; johannes; karl; august
+1,0,3,0,0,2,0,0,0,14,murdekeel; keel; hermann; johannes; karl; august
+1,0,3,0,0,2,0,0,0,14,murdekeel; keel; hermann; johannes; karl; august
+1,0,3,0,0,2,0,0,0,14,murdekeel; keel; hermann; johannes; karl; august
+1,0,2,0,0,1,0,1,1,14,keel; johannes; hermann; august
+3,0,3,1,0,3,2,1,0,14,salonen; küsimus; hermann; johannes; armas; august; keel; karl
+1,1,4,3,0,5,1,2,0,14,salonen; küsimus; tuglas; hermann; friedebert; johannes; kantseleikeel; armas; august; keel; karl
+1,0,2,3,0,1,4,1,0,14,murdekeel; hermann; friedebert; johannes; august; keel; karl; tuglas
+2,0,2,1,0,1,4,3,1,14,tuglas; hellitus; friedebert; armas; august; keel; karl; hermann
+2,1,2,0,0,1,1,3,1,14,keel; salonen; friedebert; johannes; armas; hermann; august

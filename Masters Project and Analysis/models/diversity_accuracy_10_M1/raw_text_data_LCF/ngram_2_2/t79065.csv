@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,0,0,1,1,1,0,12,amazonas
-0,1,1,1,0,0,1,1,0,12,amazonas; inka
-1,0,0,0,0,1,0,1,0,12,kaupo; amazonas; linn
-1,1,0,1,0,1,0,1,0,12,amazonas; inka; linn; kaupo
-0,0,0,1,0,2,0,1,0,12,amazonas; kikkas; kaupo
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,0,0,1,1,0,0,12,amazonas
+0,1,1,1,0,1,1,0,0,12,amazonas; inka
+1,0,0,0,0,0,1,0,0,12,amazonas; linn
+1,1,0,1,0,0,1,0,0,12,amazonas; inka; linn
+0,0,0,1,0,0,1,0,0,12,amazonas

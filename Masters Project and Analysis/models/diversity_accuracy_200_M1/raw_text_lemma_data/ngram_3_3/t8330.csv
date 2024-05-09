@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,3,4,5,4,3,2,4,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-5,5,3,4,5,4,3,1,4,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-5,5,5,4,5,4,3,3,4,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-4,6,5,4,5,4,3,4,4,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-4,5,6,4,5,4,3,4,6,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-4,6,7,5,7,3,3,4,6,15,saksa; laager; robert; jätma; siber; keel; tasso
-7,6,7,7,5,4,4,5,6,15,saksa; laager; robert; jätma; siber; keel; tasso
-5,6,8,7,5,4,5,6,6,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-4,6,7,6,6,4,4,7,5,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
-3,6,6,6,6,6,5,7,5,15,saksa; laager; robert; jätma; siber; keel; tasso
-3,6,7,5,4,6,5,7,5,15,saksa; kirjake; laager; robert; jätma; siber; keel; tasso
+6,8,4,6,6,4,3,3,6,15,talveriie; kirjake; tasso; robert; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+6,8,4,6,6,4,3,2,6,15,talveriie; kirjake; tasso; robert; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+6,8,7,6,6,4,3,5,6,15,talveriie; kirjake; robert; tasso; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+5,9,7,6,6,4,4,6,6,15,talveriie; kirjake; robert; tasso; saksa; keel; loomavagun; jätma; mustlasnaine; siber; laager
+5,8,9,6,6,6,4,6,8,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+6,9,10,7,8,5,3,6,7,15,robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+8,9,9,8,6,7,5,7,6,15,robert; tasso; saksa; jätma; loomavagun; talveriie; keel; mustlasnaine; siber; laager
+6,7,10,9,6,7,6,7,6,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+5,6,9,6,7,5,5,9,5,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+6,6,8,7,7,7,6,9,7,15,robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma
+5,6,9,7,4,8,6,9,6,15,kirjake; robert; tasso; saksa; loomavagun; talveriie; keel; mustlasnaine; siber; laager; jätma

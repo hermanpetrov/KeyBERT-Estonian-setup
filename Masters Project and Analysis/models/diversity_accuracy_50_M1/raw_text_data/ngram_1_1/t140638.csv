@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,3,4,3,1,1,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,4,3,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,4,3,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,4,3,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,4,3,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,4,4,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,0,3,2,4,1,0,14,ema; katariina; eva; redel; kadri; herned; koldits
-1,0,2,1,3,3,3,1,0,14,ema; katariina; eva; herned; redel; koldits
-1,0,2,1,2,3,3,1,0,14,ema; katariina; eva; herned; koldits
-0,0,2,2,3,3,3,1,2,14,ema; katariina; kadri; eva; herned; redel; koldits
-1,0,2,3,2,2,3,1,2,14,ema; katariina; eva; redel; kadri; herned; koldits
+1,0,2,0,3,4,3,1,1,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,4,3,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,4,3,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,4,3,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,4,3,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,4,4,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,0,3,2,4,1,0,14,herned; eva; katariina; koldits; redel; kadri; ema
+1,0,2,1,3,3,3,1,0,14,redel; herned; ema; eva; katariina; koldits
+1,0,2,1,2,3,3,1,0,14,herned; ema; eva; katariina; koldits
+0,0,2,2,3,3,3,1,2,14,redel; herned; ema; eva; kadri; katariina; koldits
+1,0,2,3,2,2,3,1,2,14,herned; eva; katariina; koldits; redel; kadri; ema

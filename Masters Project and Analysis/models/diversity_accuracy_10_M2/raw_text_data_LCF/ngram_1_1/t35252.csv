@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-1,1,0,0,0,0,0,0,1,16,ärkamine; eesti; rahvuslik
-0,1,0,0,0,0,0,0,1,16,eesti; rahvuslik
-1,0,1,0,0,1,0,0,1,16,ärkamine; eesti; karl; vanemuise
-1,0,1,0,0,1,0,0,1,16,ärkamine; eesti; karl; vanemuise
-1,0,1,0,0,2,0,0,1,16,põllumeeste; karl; vanemuise; eesti; üldlaulupidu
-1,0,1,0,0,2,0,2,1,16,postimees; põllumeeste; karl; vanemuise; eesti; üldlaulupidu
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+1,1,0,0,0,0,0,1,0,16,eesti; rahvuslik; ärkamine
+0,1,0,0,0,0,0,1,0,16,eesti; rahvuslik
+1,0,1,0,0,0,0,1,0,16,vanemuise; eesti; ärkamine
+1,0,1,0,0,0,0,1,0,16,vanemuise; eesti; ärkamine
+1,0,1,0,0,0,0,1,0,16,üldlaulupidu; vanemuise; eesti
+1,0,1,0,0,0,2,1,0,16,üldlaulupidu; vanemuise; postimees; eesti

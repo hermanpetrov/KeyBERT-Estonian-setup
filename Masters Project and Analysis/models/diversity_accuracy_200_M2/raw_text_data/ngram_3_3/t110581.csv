@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,8,7,6,4,6,7,7,5,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-7,8,7,7,4,6,7,7,5,13,lutsifer; villem; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-7,8,8,7,4,6,7,7,5,13,lutsifer; villem; kirik; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-8,8,10,7,5,6,7,7,7,13,ilus; fresko; lutsifer; villem; kirik; stackelberg; kristus; eesti; mõisavalitseja; kaarli
-9,8,8,8,5,5,7,7,7,13,lutsifer; villem; kirik; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-10,7,10,9,5,6,5,8,7,13,ilus; fresko; lutsifer; villem; kirik; stackelberg; kristus; eesti; mõisavalitseja; kaarli
-9,8,9,8,5,6,5,7,7,13,kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-6,8,9,8,6,6,4,8,6,13,kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-7,8,10,8,7,7,4,7,8,13,ilus; fresko; kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli
-7,7,7,8,7,8,3,7,8,13,kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli; ilus; fresko
-6,7,8,8,9,7,5,6,9,13,ilus; fresko; kirik; villem; lutsifer; stackelberg; kristus; eesti; mõisavalitseja; kaarli
+7,8,7,6,4,6,7,7,5,13,kristus; fresko; villem; eesti; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+7,8,7,7,4,6,7,7,5,13,villem; fresko; kristus; eesti; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+7,8,8,7,4,6,7,7,5,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+8,8,10,7,5,6,7,7,7,13,villem; fresko; kristus; lutsifer; stackelberg; ilus; mõisavalitseja; eesti; kirik; kaarli
+9,8,8,8,5,5,7,7,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+10,7,10,9,5,6,5,8,7,13,villem; fresko; kristus; lutsifer; stackelberg; ilus; mõisavalitseja; eesti; kirik; kaarli
+9,8,9,8,5,6,5,7,7,13,villem; kristus; eesti; fresko; kirik; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+6,8,9,8,6,6,4,8,6,13,villem; kristus; eesti; kirik; fresko; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+7,8,10,8,7,7,4,7,8,13,villem; fresko; kristus; lutsifer; stackelberg; ilus; mõisavalitseja; eesti; kirik; kaarli
+7,7,7,8,7,8,3,7,8,13,villem; kristus; eesti; kirik; fresko; lutsifer; stackelberg; ilus; kaarli; mõisavalitseja
+6,7,8,8,9,7,5,6,9,13,kristus; villem; fresko; lutsifer; stackelberg; ilus; mõisavalitseja; eesti; kirik; kaarli

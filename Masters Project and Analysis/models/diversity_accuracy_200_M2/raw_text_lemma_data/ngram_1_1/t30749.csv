@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,1,0,0,0,0,1,14,loodus; porto; mägi; portugal; madeira
-2,1,1,1,0,0,0,0,1,14,loodus; porto; mägi; portugal; madeira
-2,1,2,1,0,0,0,0,1,14,loodus; porto; mägi; portugal; madeira
-2,1,2,0,1,0,0,0,1,14,loodus; porto; mägi; portugal; madeira
-2,1,2,0,1,0,0,0,1,14,loodus; porto; mägi; portugal; madeira
-1,1,2,0,1,1,0,0,1,14,loodus; porto; mägi; portugal; madeira
-0,0,2,2,2,1,0,1,1,14,mägi; porto; portugal; madeira
-0,0,0,1,3,0,2,1,1,14,porto; portugal; madeira; bassein
-0,0,2,1,3,1,2,1,0,14,porto; portugal; madeira; bassein
-0,0,0,3,3,2,2,1,0,14,porto; portugal; madeira; bassein
-0,0,2,3,4,1,3,1,0,14,porto; portugal; madeira; bassein; kalju
+4,1,2,2,0,1,0,0,1,14,õhutramm; vanalinn; madeira; loodus; mägi; portugal; porto
+4,1,1,2,0,1,0,1,1,14,õhutramm; vanalinn; madeira; loodus; mägi; portugal; porto
+4,1,2,2,0,1,0,1,1,14,õhutramm; vanalinn; madeira; loodus; mägi; portugal; porto
+4,1,2,1,1,1,0,1,1,14,õhutramm; vanalinn; madeira; loodus; mägi; portugal; porto
+4,1,2,1,1,1,0,1,1,14,õhutramm; vanalinn; madeira; loodus; mägi; portugal; porto
+3,1,3,1,1,2,0,2,1,14,mägi; õhutramm; vanalinn; loodus; portugal; madeira; porto
+1,0,2,2,2,1,1,2,1,14,õhutramm; portugal; mägi; madeira; porto
+1,1,0,2,3,0,3,2,1,14,bassein; õhutramm; vanalinn; portugal; madeira; porto
+0,1,2,1,3,1,2,3,0,14,õhutramm; vanalinn; portugal; madeira; bassein; porto
+0,1,0,3,3,2,3,1,0,14,õhutramm; vanalinn; madeira; portugal; bassein; porto
+0,1,3,3,4,1,3,1,0,14,kalju; bassein; õhutramm; portugal; madeira; porto

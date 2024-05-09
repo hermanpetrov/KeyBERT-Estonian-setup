@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,5,5,6,4,5,6,7,14,favoriit; trepp; õukond; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-8,8,6,5,6,4,5,6,7,14,favoriit; trepp; õukond; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-8,8,6,5,7,4,5,6,5,14,favoriit; trepp; õukond; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-8,8,5,5,7,3,5,6,5,14,favoriit; trepp; õukond; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-8,8,5,5,7,3,7,6,5,14,favoriit; trepp; õukond; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-8,8,5,4,7,6,7,8,7,14,trepp; õukond; pariis; françois; monogramm; napoleon; favoriit; esimene; renessanss; loss; kuninglik
-5,4,6,5,9,8,7,5,5,14,trepp; õukond; pariis; françois; monogramm; napoleon; favoriit; esimene; renessanss; loss; kuninglik
-3,4,7,8,9,6,5,6,4,14,trepp; õukond; pariis; françois; monogramm; napoleon; favoriit; esimene; renessanss; kuninglik; loss
-5,5,6,9,9,6,8,7,5,14,trepp; õukond; pariis; françois; monogramm; napoleon; favoriit; esimene; renessanss; loss; kuninglik
-4,4,7,9,9,6,5,7,7,14,trepp; õukond; pariis; françois; monogramm; napoleon; favoriit; esimene; renessanss; loss; kuninglik
-4,5,7,9,9,9,6,7,7,14,trepp; õukond; françois; monogramm; napoleon; favoriit; esimene; renessanss; loss; kuninglik
+8,8,5,5,6,5,6,7,0,14,õukond; napoleon; pariis; monogramm; françois; favoriit; kuninglik; loss; esimene; trepp; renessanss
+8,8,6,5,6,5,6,7,0,14,õukond; napoleon; pariis; monogramm; françois; favoriit; kuninglik; loss; esimene; trepp; renessanss
+8,8,6,5,7,5,6,5,0,14,õukond; napoleon; pariis; monogramm; françois; favoriit; kuninglik; loss; esimene; trepp; renessanss
+8,8,5,5,7,5,6,5,0,14,õukond; napoleon; pariis; monogramm; françois; favoriit; kuninglik; loss; esimene; trepp; renessanss
+8,8,5,5,7,7,6,5,0,14,õukond; napoleon; pariis; monogramm; françois; favoriit; kuninglik; loss; esimene; trepp; renessanss
+8,8,5,4,7,7,8,7,0,14,napoleon; monogramm; loss; esimene; trepp; õukond; pariis; françois; favoriit; kuninglik; renessanss
+5,4,6,5,9,7,5,5,0,14,napoleon; monogramm; loss; esimene; trepp; õukond; pariis; françois; favoriit; kuninglik; renessanss
+3,4,7,8,9,5,6,4,0,14,napoleon; monogramm; esimene; loss; trepp; õukond; pariis; françois; favoriit; kuninglik; renessanss
+5,5,6,9,9,8,7,5,0,14,napoleon; monogramm; loss; esimene; trepp; õukond; pariis; françois; favoriit; kuninglik; renessanss
+4,4,7,9,9,5,7,7,0,14,napoleon; monogramm; loss; esimene; trepp; õukond; pariis; françois; favoriit; kuninglik; renessanss
+4,5,7,9,9,6,7,7,0,14,napoleon; monogramm; loss; esimene; trepp; õukond; françois; favoriit; kuninglik; renessanss

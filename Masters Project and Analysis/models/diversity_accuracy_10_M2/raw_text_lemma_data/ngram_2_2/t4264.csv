@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,1,0,0,1,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,1,0,0,0,1,1,1,1,13,tootmisliin; skulptor; liibanon
-0,1,0,1,0,1,1,1,1,13,tootmisliin; skulptor; liibanon
-0,0,0,0,0,1,1,0,1,13,liibanon; skulptor
-1,0,1,0,0,0,1,0,1,13,tootmisliin; skulptor; liibanon; ukraina
-0,0,1,0,0,1,1,1,1,13,tootmisliin; skulptor; liibanon; ukraina
+0,2,1,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; viikingipäev; liibanon
+0,2,1,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; viikingipäev; liibanon
+0,2,1,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; viikingipäev; liibanon
+0,2,1,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; viikingipäev; liibanon
+0,2,2,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; lossipäev; viikingipäev; liibanon
+0,1,2,0,0,1,1,1,1,13,tootmisliin; ukraina; alatskivi; skulptor; lossipäev; liibanon
+0,1,0,0,0,1,1,2,1,13,alatskivi; tootmisliin; skulptor; liibanon
+0,1,0,1,0,2,1,2,1,13,tootmisliin; alatskivi; skulptor; liibanon
+1,0,0,0,0,2,1,1,1,13,skulptor; alatskivi; viikingipäev; liibanon
+2,0,1,0,0,1,1,1,1,13,tootmisliin; alatskivi; ukraina; skulptor; viikingipäev; liibanon
+0,1,1,0,0,1,1,2,1,13,tootmisliin; ukraina; skulptor; lossipäev; viikingipäev; liibanon

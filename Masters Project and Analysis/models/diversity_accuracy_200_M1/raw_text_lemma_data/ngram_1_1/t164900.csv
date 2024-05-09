@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,5,3,3,3,4,4,2,12,muusika; õppima; helin-mari; süda; toomas; esinemine; arder; armastus
-4,4,6,3,3,3,5,4,3,12,muusika; õppima; helin-mari; süda; toomas; luhats; esinemine; arder; armastus
-4,3,6,2,3,3,5,4,4,12,muusika; õppima; helin-mari; süda; toomas; luhats; esinemine; arder; armastus
-4,3,7,2,3,3,5,4,4,12,muusika; õppima; helin-mari; süda; luhats; toomas; esinemine; arder; armastus
-3,3,5,2,2,4,5,3,5,12,muusika; õppima; helin-mari; süda; toomas; luhats; esinemine; arder; armastus
-3,3,7,2,1,6,4,2,5,12,muusika; õppima; helin-mari; süda; luhats; toomas; esinemine; arder; armastus
-2,2,7,2,1,5,4,3,6,12,muusika; õppima; helin-mari; süda; luhats; toomas; esinemine; arder; armastus
-2,2,5,2,2,5,3,2,6,12,muusika; õppima; helin-mari; süda; luhats; toomas; esinemine; arder; armastus
-3,2,5,1,1,5,3,1,6,12,muusika; õppima; helin-mari; süda; luhats; toomas; esinemine; arder; armastus
-1,2,4,1,1,3,4,1,5,12,muusika; õppima; helin-mari; süda; toomas; luhats; esinemine; arder; armastus
-2,1,4,1,1,3,3,3,5,12,muusika; helin-mari; süda; toomas; luhats; esinemine; arder; armastus
+6,6,8,5,3,5,6,7,4,12,esinemine; arder; armastus; muusikakool; muusikaõping; toomas; muusika; helin-mari; helilooja; õppima; süda
+6,6,9,5,3,5,7,7,5,12,esinemine; luhats; arder; armastus; muusikakool; muusikaõping; toomas; muusika; helin-mari; helilooja; õppima; süda
+6,5,9,4,3,5,8,7,6,12,esinemine; arder; armastus; muusikakool; süda; õppima; luhats; muusikaõping; toomas; muusika; helin-mari; helilooja
+6,5,10,4,3,5,8,7,6,12,esinemine; arder; armastus; muusikakool; süda; õppima; luhats; muusikaõping; toomas; muusika; helin-mari; helilooja
+5,4,7,4,2,6,8,5,7,12,esinemine; arder; muusikakool; armastus; süda; õppima; luhats; muusikaõping; toomas; muusika; helin-mari; helilooja
+4,4,8,3,1,8,7,3,7,12,esinemine; arder; muusikakool; armastus; süda; õppima; luhats; muusikaõping; toomas; helin-mari; muusika; helilooja
+3,3,7,3,2,6,5,3,8,12,esinemine; arder; armastus; muusikakool; süda; õppima; luhats; muusikaõping; toomas; helin-mari; helilooja; muusika
+3,3,5,3,3,6,4,3,7,12,esinemine; luhats; arder; muusikakool; muusikaõping; armastus; toomas; helin-mari; helilooja; süda; õppima; muusika
+5,3,5,2,2,5,4,1,6,12,esinemine; luhats; arder; muusikakool; muusikaõping; armastus; toomas; helin-mari; helilooja; süda; õppima; muusika
+2,3,4,1,2,3,5,1,5,12,esinemine; luhats; arder; muusikakool; armastus; toomas; helin-mari; helilooja; süda; õppima; muusika
+3,2,4,1,2,3,4,3,6,12,esinemine; luhats; arder; muusikakool; armastus; toomas; helin-mari; helilooja; süda; muusika

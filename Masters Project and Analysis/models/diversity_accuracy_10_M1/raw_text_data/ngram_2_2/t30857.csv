@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,2,0,14,vaimuelu; mäng; ingo; fantaasia; peeter
-1,0,0,0,0,1,1,2,0,14,vaimuelu; mäng; ingo; fantaasia; peeter
-1,0,0,0,0,1,1,2,0,14,vaimuelu; mäng; ingo; fantaasia; peeter
-1,0,0,0,0,1,1,2,0,14,vaimuelu; mäng; ingo; fantaasia; peeter
-1,0,0,0,0,1,1,2,0,14,vaimuelu; mäng; ingo; fantaasia; peeter
-1,0,0,0,0,2,0,1,0,14,vaimuelu; ingo; mäng
-0,0,0,0,0,2,0,2,0,14,ingo; peeter
-0,2,0,0,0,2,1,3,0,14,psühhiaater; tulviste; mäng; dramaturg; ingo; peeter
-0,0,0,0,1,1,2,2,0,14,tulviste; ingo; reaalsus; fantaasia; peeter
-0,0,0,1,1,1,1,2,0,14,psühhiaater; tulviste; reaalsus; ingo; peeter
-0,0,0,0,0,4,0,2,0,14,ingo; normet; reaalsus; fantaasia; peeter
+1,0,0,0,0,1,1,2,0,14,peeter; mäng; ingo; fantaasia; vaimuelu
+1,0,0,0,0,1,1,2,0,14,peeter; mäng; ingo; fantaasia; vaimuelu
+1,0,0,0,0,1,1,2,0,14,peeter; mäng; ingo; fantaasia; vaimuelu
+1,0,0,0,0,1,1,2,0,14,peeter; mäng; ingo; fantaasia; vaimuelu
+1,0,0,0,0,1,1,2,0,14,peeter; mäng; ingo; fantaasia; vaimuelu
+1,0,0,0,0,2,0,1,0,14,ingo; mäng; vaimuelu
+0,0,0,0,0,2,0,2,0,14,peeter; ingo
+0,2,0,0,0,2,1,3,0,14,peeter; mäng; dramaturg; ingo; psühhiaater; tulviste
+0,0,0,0,1,1,2,2,0,14,peeter; reaalsus; ingo; tulviste; fantaasia
+0,0,0,1,1,1,1,2,0,14,peeter; ingo; reaalsus; psühhiaater; tulviste
+0,0,0,0,0,4,0,2,0,14,peeter; reaalsus; ingo; normet; fantaasia

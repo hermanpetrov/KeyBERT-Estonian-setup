@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
-0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
-0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
-0,0,2,0,0,1,2,0,0,18,petser; pärt; staadion; ukraina
-0,0,2,0,0,0,2,0,0,18,petser; pärt; staadion; ukraina
-0,0,2,0,0,0,2,0,0,18,petser; pärt; rebane; ukraina
-0,0,2,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; petser; pärt; arvo
-0,0,3,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; petser; pärt; arvo
-1,0,2,0,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; pärt; arvo
-0,0,1,1,0,4,0,1,1,18,ukraina; parvlaev; staadion; ilves; arvo
-0,0,1,2,0,4,1,0,0,18,ukraina; parvlaev; staadion; rebane; pärt; arvo
+1,0,2,0,0,1,2,0,0,18,staadion; ukraina; petser; pärt; ühisgümnaasium
+1,0,2,0,0,1,2,0,0,18,staadion; ukraina; petser; pärt; ühisgümnaasium
+1,0,2,0,0,1,2,0,0,18,staadion; ukraina; petser; pärt; ühisgümnaasium
+1,0,2,0,0,1,2,0,0,18,staadion; ukraina; petser; pärt; ühisgümnaasium
+1,0,3,0,0,0,2,0,0,18,staadion; ukraina; korvpall; petser; pärt; ühisgümnaasium
+1,0,2,0,0,1,2,0,0,18,ukraina; rebane; petser; pärt; ühisgümnaasium
+1,0,2,0,0,4,1,0,0,18,staadion; ukraina; rebane; petser; parvlaev; pärt; arvo; ühisgümnaasium
+2,0,3,0,0,4,1,0,0,18,staadion; ukraina; pärt; ühisgümnaasium; rebane; petser; parvlaev; tööjõupuudus; arvo
+2,0,2,0,0,4,1,1,0,18,staadion; ukraina; pärt; ühisgümnaasium; rebane; parvlaev; arvo
+0,0,1,1,0,4,0,2,1,18,staadion; ukraina; ilves; parvlaev; arvo; ühisgümnaasium
+0,0,2,2,0,4,1,1,0,18,staadion; ukraina; rebane; korvpall; parvlaev; pärt; arvo

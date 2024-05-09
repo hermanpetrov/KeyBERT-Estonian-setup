@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,6,8,3,3,5,7,3,5,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-4,6,8,3,3,5,7,3,5,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-4,6,7,3,3,5,7,3,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-4,6,6,3,4,4,4,2,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-4,6,4,3,4,4,4,2,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-3,5,3,3,6,5,4,4,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-3,5,4,5,5,4,4,5,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-5,5,4,5,5,3,4,6,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-3,4,2,5,6,4,4,5,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-3,3,3,7,6,5,4,5,7,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-4,2,3,7,6,3,4,5,5,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
+4,6,8,3,3,5,7,3,5,11,noor; liikuma; töö; doktor; jooksma; tennis; pension; tervis; laur
+4,6,8,3,3,5,7,3,5,11,noor; liikuma; töö; doktor; jooksma; tennis; pension; tervis; laur
+4,6,7,3,3,5,7,3,7,11,noor; liikuma; töö; doktor; jooksma; tennis; pension; tervis; laur
+4,6,6,3,4,4,4,2,7,11,noor; liikuma; töö; doktor; jooksma; tennis; pension; tervis; laur
+4,6,4,3,4,4,4,2,7,11,noor; liikuma; töö; doktor; jooksma; tennis; pension; tervis; laur
+3,5,3,3,6,5,4,4,7,11,noor; töö; doktor; liikuma; jooksma; tennis; pension; tervis; laur
+3,5,4,5,5,4,4,5,7,11,noor; töö; doktor; liikuma; jooksma; tennis; pension; tervis; laur
+5,5,4,5,5,3,4,6,7,11,noor; liikuma; doktor; töö; jooksma; tennis; pension; tervis; laur
+3,4,2,5,6,4,4,5,7,11,noor; töö; doktor; liikuma; jooksma; tennis; pension; tervis; laur
+3,3,3,7,6,5,4,5,7,11,noor; töö; doktor; liikuma; jooksma; tennis; pension; tervis; laur
+4,2,3,7,6,3,4,5,5,11,noor; töö; doktor; liikuma; jooksma; tennis; pension; tervis; laur

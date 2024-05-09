@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,4,0,4,4,4,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,4,0,4,4,4,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,4,0,4,4,4,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,4,0,4,4,4,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,4,0,4,4,4,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,5,0,4,4,5,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,5,0,4,4,5,3,4,12,portaal; armutu; port; internet; nobel; relv
-3,3,6,1,4,4,5,3,4,12,portaal; kristjan; armutu; port; internet; nobel; relv
-2,3,5,3,4,5,6,4,4,12,portaal; kristjan; poliitika; armutu; port; internet; nobel; relv
-4,3,4,2,4,5,6,4,4,12,portaal; kristjan; poliitika; armutu; port; internet; nobel; relv
-3,3,4,3,4,4,6,4,4,12,portaal; kristjan; poliitika; armutu; port; internet; nobel; relv
+6,4,5,2,4,5,5,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+6,4,5,2,4,5,5,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+6,4,5,2,4,5,5,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+6,4,5,2,4,5,5,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+6,4,5,2,4,5,5,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+6,4,6,2,4,5,6,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+7,4,6,2,4,5,6,4,5,12,turupositsioon; portaal; nobel; relv; port; armutu; internet; mõjuvõim; rahupreemia; veebiteenus
+7,4,7,3,4,5,6,5,5,12,turupositsioon; portaal; nobel; relv; port; armutu; kristjan; internet; mõjuvõim; rahupreemia; veebiteenus
+4,4,6,4,4,6,7,7,5,12,nobel; port; armutu; internet; rahupreemia; turupositsioon; poliitika; portaal; relv; kristjan; mõjuvõim; veebiteenus
+6,4,5,2,4,6,8,7,5,12,nobel; port; armutu; internet; rahupreemia; turupositsioon; poliitika; portaal; relv; kristjan; mõjuvõim; veebiteenus
+6,4,5,3,4,5,7,7,5,12,nobel; port; armutu; internet; rahupreemia; turupositsioon; poliitika; portaal; relv; kristjan; mõjuvõim; veebiteenus

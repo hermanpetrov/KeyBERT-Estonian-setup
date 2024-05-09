@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,5,0,3,0,0,0,1,12,andmed; portaal; kristjan; port; euroopa
-0,1,5,0,3,0,0,0,1,12,andmed; portaal; kristjan; port; euroopa
-0,1,5,0,3,0,0,0,1,12,andmed; portaal; kristjan; port; euroopa
-0,1,3,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-0,1,3,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-0,1,3,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-0,1,3,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-0,1,2,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-0,1,2,0,3,0,0,0,1,12,portaal; andmed; kristjan; port
-1,1,2,1,3,0,0,1,1,12,regulatsioon; portaal; andmed; kristjan; port; seadus
-1,1,3,1,3,0,0,1,1,12,regulatsioon; andmed; portaal; kristjan; port; euroopa; seadus
+0,1,5,0,3,0,0,0,1,12,andmed; kristjan; portaal; euroopa; port
+0,1,5,0,3,0,0,0,1,12,andmed; kristjan; portaal; euroopa; port
+0,1,5,0,3,0,0,0,1,12,andmed; kristjan; portaal; euroopa; port
+0,1,3,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+0,1,3,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+0,1,3,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+0,1,3,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+0,1,2,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+0,1,2,0,3,0,0,0,1,12,andmed; kristjan; portaal; port
+1,1,2,1,3,0,0,1,1,12,andmed; seadus; kristjan; portaal; regulatsioon; port
+1,1,3,1,3,0,0,1,1,12,andmed; seadus; kristjan; portaal; euroopa; regulatsioon; port

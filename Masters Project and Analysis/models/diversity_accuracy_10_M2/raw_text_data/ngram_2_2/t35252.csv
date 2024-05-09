@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,0,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-4,0,0,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-4,0,0,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-4,0,0,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-4,0,1,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-4,0,1,0,0,0,1,1,0,16,põllumeeste; karl; ärkamine; eesti; rahvuslik
-3,0,0,0,0,0,1,1,0,16,põllumeeste; ärkamine; eesti; rahvuslik
+4,0,0,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+4,0,0,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+4,0,0,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+4,0,0,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+4,0,1,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+4,0,1,0,0,0,1,1,0,16,eesti; karl; ärkamine; põllumeeste; rahvuslik
+3,0,0,0,0,0,1,1,0,16,eesti; ärkamine; põllumeeste; rahvuslik
 2,0,1,0,0,0,0,0,0,16,üldlaulupidu; põllumeeste; eesti
 0,0,0,0,0,0,1,0,0,16,vanemuise
-0,0,0,0,0,0,1,1,0,16,karl; vanemuise
-0,0,0,0,0,0,1,1,0,16,karl; vanemuise
+0,0,0,0,0,0,1,1,0,16,vanemuise; karl
+0,0,0,0,0,0,1,1,0,16,vanemuise; karl

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,0,0,0,1,1,2,0,13,laps; mõrane; kurat; bett; argus; alver
-3,1,0,0,0,1,1,2,0,13,laps; mõrane; kurat; bett; argus; alver
-3,1,0,0,0,1,1,2,0,13,laps; mõrane; kurat; bett; argus; alver
-3,1,0,0,0,1,1,2,0,13,laps; mõrane; kurat; bett; argus; alver
-3,1,0,0,0,1,1,2,0,13,laps; mõrane; kurat; bett; argus; alver
-3,1,1,0,0,0,1,1,0,13,laps; kurat; bett; argus; alver
-1,1,1,0,0,0,2,1,0,13,laps; kurat; rätsep; argus; alver
-0,1,1,0,0,0,1,1,0,13,rätsep; laps; alver
+3,1,0,0,0,1,1,2,0,13,laps; argus; alver; mõrane; kurat; bett
+3,1,0,0,0,1,1,2,0,13,laps; argus; alver; mõrane; kurat; bett
+3,1,0,0,0,1,1,2,0,13,laps; argus; alver; mõrane; kurat; bett
+3,1,0,0,0,1,1,2,0,13,laps; argus; alver; mõrane; kurat; bett
+3,1,0,0,0,1,1,2,0,13,laps; argus; alver; mõrane; kurat; bett
+3,1,1,0,0,0,1,1,0,13,laps; argus; alver; kurat; bett
+1,1,1,0,0,0,2,1,0,13,laps; argus; alver; rätsep; kurat
+0,1,1,0,0,0,1,1,0,13,laps; rätsep; alver
 0,1,1,0,0,0,1,1,0,13,laps; alver; kurat
 0,1,1,0,0,1,0,1,0,13,laps; alver; peegel
-0,0,1,0,0,1,0,1,0,13,arseenik; alver
+0,0,1,0,0,1,0,1,0,13,alver; arseenik

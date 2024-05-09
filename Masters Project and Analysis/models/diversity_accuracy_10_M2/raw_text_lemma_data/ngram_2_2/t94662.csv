@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,0,18,maja
-0,1,0,0,0,0,0,0,0,18,maja
-0,1,0,0,0,0,0,0,0,18,maja
-0,1,0,0,0,0,0,0,0,18,maja
-0,1,0,0,0,0,0,0,0,18,maja
-0,1,0,0,0,0,0,0,0,18,maja
-0,0,0,0,0,0,0,0,0,18,
-1,0,1,1,0,0,1,0,0,18,staadion
-0,0,1,0,0,1,1,0,0,18,staadion
-1,0,0,0,0,0,1,0,0,18,maja; staadion
-1,0,0,0,0,0,1,0,0,18,maja; staadion
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,2,1,0,0,0,0,0,0,18,äkkrünnak; maja; koostöökeskus
+0,1,1,0,0,1,0,0,0,18,äkkrünnak; koostöökeskus
+1,2,2,1,0,0,1,0,0,18,äkkrünnak; staadion; koostöökeskus
+0,2,2,0,0,1,1,0,0,18,äkkrünnak; staadion; koostöökeskus
+1,1,0,0,0,0,1,0,0,18,äkkrünnak; maja; staadion
+1,1,1,0,0,0,1,0,0,18,äkkrünnak; maja; koostöökeskus; staadion

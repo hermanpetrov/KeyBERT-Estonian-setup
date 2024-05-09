@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,3,5,4,4,3,2,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-5,2,3,5,4,4,3,2,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-5,2,3,5,4,4,2,3,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-5,2,3,5,4,4,3,3,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-6,3,3,4,4,3,3,3,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-6,4,1,4,5,4,4,3,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-4,4,5,6,5,6,3,3,6,13,rumessen; jõud; muusika; vardo; vene; sonaat
-5,4,4,6,6,3,4,4,6,13,jõud; rumessen; muusika; vardo; vene; sonaat
-3,5,4,4,6,4,4,5,6,13,rumessen; jõud; muusika; vardo; vene; sonaat
-3,4,5,2,6,3,3,4,5,13,rumessen; jõud; muusika; vardo; vene; sonaat
-4,4,3,2,6,4,4,4,4,13,rumessen; jõud; muusika; vardo; vene; sonaat
+5,2,3,5,4,4,3,2,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+5,2,3,5,4,4,3,2,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+5,2,3,5,4,4,2,3,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+5,2,3,5,4,4,3,3,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+6,3,3,4,4,3,3,3,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+6,4,1,4,5,4,4,3,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+4,4,5,6,5,6,3,3,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+5,4,4,6,6,3,4,4,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+3,5,4,4,6,4,4,5,6,13,sonaat; vene; rumessen; muusika; jõud; vardo
+3,4,5,2,6,3,3,4,5,13,sonaat; vene; rumessen; muusika; jõud; vardo
+4,4,3,2,6,4,4,4,4,13,sonaat; vene; rumessen; muusika; jõud; vardo

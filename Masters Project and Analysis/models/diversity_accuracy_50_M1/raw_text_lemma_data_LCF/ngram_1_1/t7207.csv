@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,2,0,2,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi
-1,1,2,1,0,3,2,2,0,12,romaan; iroonia; tulevik; luuletaja; viivi; intervjuu
-1,1,2,0,0,3,2,3,0,12,romaan; iroonia; luuletaja; viivi; intervjuu
-1,1,1,1,0,4,2,3,0,12,romaan; iroonia; luuletaja; viivi; intervjuu
-0,1,2,2,0,4,2,3,0,12,tulevik; luuletaja; intervjuu; romaan; viivi; kass
-0,1,2,4,0,4,1,3,1,12,romaan; luuletaja; viivi; kass; intervjuu
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,3,0,3,3,3,0,12,luuletaja; tulevik; iroonia; viivi; raadioarhiiv; romaan
+2,2,3,2,0,4,3,3,0,12,luuletaja; tulevik; iroonia; intervjuu; raadioarhiiv; viivi; romaan
+2,2,3,0,0,4,3,4,0,12,luuletaja; iroonia; intervjuu; raadioarhiiv; viivi; romaan
+2,2,2,1,0,5,3,3,0,12,luuletaja; iroonia; intervjuu; raadioarhiiv; viivi; romaan
+1,2,3,2,0,5,3,3,0,12,luuletaja; tulevik; intervjuu; raadioarhiiv; viivi; kass; romaan
+1,2,3,4,0,5,2,3,1,12,luuletaja; intervjuu; raadioarhiiv; viivi; kass; romaan

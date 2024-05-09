@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,3,2,0,3,2,4,2,14,kunst; aiad; ränder; sotsia; salajased; jaan; infotankistid; näitus
-3,1,3,2,0,3,2,4,2,14,kunst; aiad; ränder; sotsia; salajased; jaan; infotankistid; näitus
-3,1,3,2,0,3,2,4,2,14,kunst; aiad; ränder; sotsia; salajased; jaan; infotankistid; näitus
-3,1,3,2,0,3,2,4,2,14,kunst; aiad; ränder; sotsia; salajased; jaan; infotankistid; näitus
-2,1,3,2,0,3,2,7,2,14,kunst; aiad; ränder; sotsia; salajased; jaan; maal; infotankistid; näitus; akvarell
-2,2,3,2,0,3,2,6,2,14,kunst; aiad; sotsia; salajased; jaan; biotehnoloogia; infotankistid; näitus; akvarell
-4,2,2,3,1,2,3,7,2,14,kunst; aiad; ränder; elken; salajased; jaan; biotehnoloogia; infotankistid; näitus; akvarell
-2,2,3,1,1,2,2,3,2,14,aiad; sotsia; salajased; jaan; biotehnoloogia; infotankistid; näitus; akvarell
-1,1,3,2,0,4,5,3,1,14,aiad; ränder; sotsia; salajased; jaan; maal; biotehnoloogia; infotankistid; näitus; akvarell
-2,3,4,2,2,0,2,3,1,14,aiad; ränder; elken; salajased; jaan; biotehnoloogia; infotankistid; näitus
-2,2,4,2,3,0,1,1,2,14,aiad; ränder; elken; sotsia; salajased; jaan; biotehnoloogia; infotankistid; näitus; akvarell
+3,1,3,2,0,3,2,4,2,14,sotsia; infotankistid; salajased; aiad; jaan; kunst; ränder; näitus
+3,1,3,2,0,3,2,4,2,14,sotsia; infotankistid; salajased; aiad; jaan; kunst; ränder; näitus
+3,1,3,2,0,3,2,4,2,14,sotsia; infotankistid; salajased; aiad; jaan; kunst; ränder; näitus
+3,1,3,2,0,3,2,4,2,14,sotsia; infotankistid; salajased; aiad; jaan; kunst; ränder; näitus
+2,1,3,2,0,3,2,7,2,14,akvarell; sotsia; infotankistid; salajased; aiad; jaan; kunst; ränder; maal; näitus
+2,2,3,2,0,3,2,6,2,14,akvarell; sotsia; infotankistid; salajased; aiad; jaan; kunst; biotehnoloogia; näitus
+4,2,2,3,1,2,3,7,2,14,akvarell; infotankistid; salajased; elken; aiad; jaan; kunst; ränder; biotehnoloogia; näitus
+2,2,3,1,1,2,2,3,2,14,akvarell; sotsia; infotankistid; salajased; aiad; jaan; biotehnoloogia; näitus
+1,1,3,2,0,4,5,3,1,14,akvarell; sotsia; infotankistid; salajased; aiad; jaan; ränder; biotehnoloogia; maal; näitus
+2,3,4,2,2,0,2,3,1,14,infotankistid; salajased; aiad; elken; jaan; ränder; biotehnoloogia; näitus
+2,2,4,2,3,0,1,1,2,14,akvarell; sotsia; infotankistid; elken; aiad; salajased; jaan; ränder; biotehnoloogia; näitus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,2,1,1,1,1,12,ujumine; triatlon; jooksma; sport; ain; tund
-1,2,2,0,2,1,1,1,1,12,ujumine; triatlon; jooksma; sport; ain; tund
-1,2,2,0,2,1,1,1,1,12,ujumine; triatlon; jooksma; sport; ain; tund
-1,2,3,0,2,1,1,2,1,12,ujumine; triatlon; jooksma; sport; ain; tund
-1,2,3,0,2,1,1,2,1,12,ujumine; triatlon; jooksma; sport; ain; tund
-1,2,3,0,2,2,3,1,1,12,ujumine; triatlon; jooksma; kilomeeter; ain; tund
-4,3,3,1,2,2,1,3,1,12,triatlon; sport; jooksma; tund; ujumine; ain; maraton
-2,4,1,3,2,1,2,5,1,12,triatlon; sport; tund; jooksma; ujumine; kilomeeter; ain; üheksa
-0,3,1,4,3,2,1,4,1,12,triatlon; sport; jooksma; tund; ujumine; kilomeeter; ain; üheksa; maraton
-2,3,0,4,2,2,0,4,1,12,triatlon; sport; tund; jooksma; ujumine; kilomeeter; ain; üheksa
-1,2,1,4,2,2,0,5,3,12,triatlon; sport; tund; jooksma; ujumine; kilomeeter; üheksa; maraton
+2,3,2,1,2,1,1,2,1,12,täispikk; vastupidavussport; ain; ujumine; jooksma; sport; tund; triatlon
+2,3,2,1,2,1,1,2,1,12,täispikk; vastupidavussport; ain; ujumine; jooksma; sport; tund; triatlon
+2,3,2,1,2,1,1,2,1,12,täispikk; vastupidavussport; ain; ujumine; jooksma; sport; tund; triatlon
+2,3,3,1,2,1,1,3,1,12,täispikk; vastupidavussport; ain; ujumine; jooksma; sport; tund; triatlon
+2,3,4,1,2,1,1,3,1,12,täispikk; vastupidavussport; rattasõit; ain; ujumine; jooksma; sport; tund; triatlon
+1,2,5,1,2,2,3,1,1,12,täispikk; vastupidavussport; kilomeeter; rattasõit; ain; ujumine; jooksma; tund; triatlon
+4,3,4,2,2,2,1,3,1,12,täispikk; maraton; vastupidavussport; ain; ujumine; jooksma; sport; tund; triatlon
+3,5,2,3,2,1,2,7,1,12,täispikk; vastupidavussport; kilomeeter; rattasõit; ain; ujumine; jooksma; üheksa; sport; tund; triatlon
+1,4,1,4,3,2,1,6,1,12,täispikk; vastupidavussport; maraton; kilomeeter; rattasõit; ain; ujumine; jooksma; üheksa; sport; tund; triatlon
+3,4,0,4,2,2,0,6,1,12,täispikk; vastupidavussport; kilomeeter; rattasõit; ain; ujumine; üheksa; jooksma; sport; tund; triatlon
+2,3,1,4,2,2,0,6,3,12,täispikk; maraton; kilomeeter; rattasõit; ujumine; üheksa; jooksma; sport; tund; triatlon

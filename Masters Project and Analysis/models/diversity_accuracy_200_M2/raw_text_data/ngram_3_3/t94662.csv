@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,11,6,9,6,6,7,7,18,tallinna; kalevi; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-8,7,11,6,9,6,7,7,7,18,tallinna; kalevi; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-8,7,13,6,9,6,7,6,8,18,tallinna; kalevi; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-8,7,12,7,8,8,7,5,8,18,tallinna; kalevi; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-8,6,13,8,10,6,6,5,8,18,tallinna; kalevi; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-8,7,11,9,11,7,5,4,7,18,tallinna; kalevi; õppus; sadam; hendrik; seto; ilves; koostöökeskus; staadion; maja; äkkrünnaku; pärt; toomas; tööjõu; arvo
-10,4,13,6,11,8,5,5,7,18,tallinna; kalevi; õppus; sadam; hendrik; seto; ilves; koostöökeskus; staadion; maja; äkkrünnaku; pärt; toomas; tööjõu; arvo
-9,5,12,6,11,4,3,5,7,18,tallinna; kalevi; õppus; sadam; hendrik; seto; ilves; koostöökeskus; staadion; maja; äkkrünnaku; pärt; toomas; tööjõu; arvo
-8,6,11,7,9,8,3,4,7,18,tallinna; kalevi; õppus; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-7,4,11,4,9,4,4,2,7,18,tallinna; kalevi; õppus; sadam; hendrik; seto; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; tööjõu; arvo
-6,5,11,6,9,3,5,5,8,18,kalevi; tallinna; õppus; sadam; hendrik; seto; ilves; koostöökeskus; staadion; äkkrünnaku; maja; pärt; toomas; arvo
+8,8,11,6,9,6,6,7,7,18,tööjõu; äkkrünnaku; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,7,11,6,9,6,7,7,7,18,tööjõu; äkkrünnaku; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,7,13,6,9,6,7,6,8,18,tööjõu; äkkrünnaku; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,7,12,7,8,8,7,5,8,18,tööjõu; äkkrünnaku; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,6,13,8,10,6,6,5,8,18,tööjõu; äkkrünnaku; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,7,11,9,11,7,5,4,7,18,tööjõu; äkkrünnaku; maja; õppus; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+10,4,13,6,11,8,5,5,7,18,tööjõu; äkkrünnaku; maja; õppus; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+9,5,12,6,11,4,3,5,7,18,tööjõu; äkkrünnaku; maja; õppus; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+8,6,11,7,9,8,3,4,7,18,tööjõu; äkkrünnaku; õppus; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo
+7,4,11,4,9,4,4,2,7,18,tööjõu; äkkrünnaku; õppus; maja; kalevi; tallinna; staadion; pärt; seto; toomas; hendrik; sadam; koostöökeskus; arvo
+6,5,11,6,9,3,5,5,8,18,äkkrünnaku; õppus; maja; kalevi; tallinna; staadion; pärt; seto; toomas; ilves; hendrik; sadam; koostöökeskus; arvo

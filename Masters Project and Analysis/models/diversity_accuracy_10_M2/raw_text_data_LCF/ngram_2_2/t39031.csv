@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,1,1,0,1,0,12,laulasmaa; uno; muusika; playboy; austraalia
-2,1,1,0,1,1,0,1,0,12,laulasmaa; uno; muusika; playboy; austraalia
-2,1,1,0,1,1,0,1,0,12,laulasmaa; uno; muusika; playboy; austraalia
-2,1,1,0,1,1,0,1,0,12,laulasmaa; uno; muusika; playboy; austraalia
-2,1,1,0,1,1,0,1,0,12,laulasmaa; uno; muusika; playboy; austraalia
-2,1,1,0,1,0,0,1,0,12,uno; muusika; playboy; austraalia
-1,1,1,1,1,0,0,1,0,12,uno; austraalia; muusika
-0,1,1,1,1,0,0,2,0,12,uno; muusika; austraalia
-1,0,1,1,1,0,0,2,0,12,uno; muusika; austraalia
-0,1,1,0,1,0,1,1,0,12,playboy; muusika; uno
-1,0,1,0,1,0,1,1,0,12,uno; muusika
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+2,1,1,0,1,0,1,0,0,12,uno; austraalia; muusika; playboy
+1,1,1,1,1,0,1,0,0,12,uno; muusika; austraalia
+0,1,1,1,1,0,2,0,0,12,uno; austraalia; muusika
+1,0,1,1,1,0,2,0,0,12,uno; austraalia; muusika
+0,1,1,0,1,1,1,0,0,12,uno; muusika; playboy
+1,0,1,0,1,1,1,0,0,12,uno; muusika

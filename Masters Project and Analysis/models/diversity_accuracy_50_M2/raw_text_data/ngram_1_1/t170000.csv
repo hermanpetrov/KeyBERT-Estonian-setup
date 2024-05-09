@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,5,4,1,5,1,1,3,2,18,tehnoloogia; thomas; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,4,1,5,1,1,3,2,18,tehnoloogia; thomas; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,4,1,5,1,1,3,2,18,tehnoloogia; thomas; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,4,1,5,1,1,3,2,18,tehnoloogia; thomas; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,5,1,5,1,1,3,2,18,tehnoloogia; thomas; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,4,1,5,0,1,2,2,18,tehnoloogia; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-1,5,2,1,5,0,0,2,2,18,tehnoloogia; kristjan; watson; port; serveri; võrgustik; arvuti; google; kommentaar
-0,5,3,1,5,0,0,2,2,18,tehnoloogia; kristjan; watson; port; serveri; võrgustik; arvuti; google; kommentaar
-0,5,3,2,5,1,0,2,2,18,tehnoloogia; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google
-1,4,3,4,3,0,0,3,2,18,tehnoloogia; kristjan; watson; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-2,5,6,4,4,0,0,2,2,18,thomas; tehnoloogia; kristjan; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
+1,5,4,1,5,1,1,3,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; serveri
+1,5,4,1,5,1,1,3,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; serveri
+1,5,4,1,5,1,1,3,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; serveri
+1,5,4,1,5,1,1,3,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; serveri
+1,5,5,1,5,1,1,3,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; serveri
+1,5,4,1,5,0,1,2,2,18,arvuti; maailma; tehnoloogia; watson; port; kommentaar; kristjan; google; võrgustik; serveri
+1,5,2,1,5,0,0,2,2,18,arvuti; tehnoloogia; watson; port; kommentaar; kristjan; google; võrgustik; serveri
+0,5,3,1,5,0,0,2,2,18,arvuti; tehnoloogia; port; watson; kommentaar; kristjan; google; võrgustik; serveri
+0,5,3,2,5,1,0,2,2,18,arvuti; maailma; tehnoloogia; port; watson; kristjan; google; võrgustik; serveri
+1,4,3,4,3,0,0,3,2,18,arvuti; maailma; tehnoloogia; watson; kommentaar; port; kristjan; google; võrgustik; serveri
+2,5,6,4,4,0,0,2,2,18,arvuti; maailma; tehnoloogia; watson; port; thomas; kommentaar; kristjan; google; võrgustik; papadopolous; serveri

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,2,0,0,1,0,18,sadam; staadion; maja; õppus; toomas
-1,1,2,0,2,0,0,1,0,18,sadam; staadion; maja; õppus; toomas
-1,1,2,0,2,0,0,1,0,18,sadam; staadion; maja; õppus; toomas
-1,1,2,0,2,0,0,1,0,18,sadam; staadion; maja; õppus; toomas
-1,1,2,0,2,0,0,1,0,18,sadam; staadion; maja; õppus; toomas
-2,1,2,0,2,2,1,1,0,18,sadam; staadion; maja; seto; õppus; toomas
-2,0,2,3,3,2,1,0,0,18,staadion; maja; õppus; toomas; sadam; kalev; arvo
-3,1,3,1,3,3,1,0,0,18,staadion; maja; õppus; toomas; sadam; kalev; arvo
-2,2,1,2,3,2,1,0,0,18,staadion; maja; pärt; õppus; toomas; sadam; arvo
-3,3,3,2,3,2,1,2,0,18,staadion; maja; pärt; õppus; toomas; sadam; kalev; arvo
-3,0,0,3,2,2,1,1,0,18,sadam; staadion; pärt; maja; kalev; õppus; arvo
+2,3,3,1,2,2,1,1,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+2,3,3,1,2,2,1,1,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+2,3,3,1,2,2,1,1,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+2,3,3,1,2,2,1,1,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+3,3,3,1,2,2,1,1,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+3,3,3,1,2,3,2,1,0,18,jaekaubandus; staadion; seto; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus
+3,2,3,4,3,3,1,0,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; kalev; sadam; koostöökeskus; arvo
+3,4,4,2,3,3,2,0,0,18,jaekaubandus; staadion; toomas; äkkrünnak; õppus; maja; kalev; sadam; koostöökeskus; arvo
+2,5,2,2,3,2,1,0,0,18,jaekaubandus; staadion; pärt; toomas; äkkrünnak; õppus; maja; sadam; koostöökeskus; arvo
+3,4,4,2,3,2,1,2,0,18,staadion; pärt; toomas; äkkrünnak; õppus; maja; kalev; sadam; arvo
+3,1,1,3,2,2,1,1,0,18,staadion; pärt; äkkrünnak; õppus; maja; kalev; sadam; koostöökeskus; arvo

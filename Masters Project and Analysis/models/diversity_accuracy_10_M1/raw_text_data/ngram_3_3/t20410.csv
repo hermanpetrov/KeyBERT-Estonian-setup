@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 2,0,1,1,0,5,3,5,0,14,ani; näitleja; elmar; endel; vanemuine
 2,0,1,1,0,5,3,5,0,14,ani; näitleja; elmar; endel; vanemuine
 1,0,1,1,0,4,3,4,0,14,ani; näitleja; elmar; endel; vanemuine
-0,0,0,0,0,3,1,2,0,14,elmar; endel; näitleja; vanemuine
-1,0,2,0,0,2,2,2,0,14,ani; elmar; endel; näitleja; vanemuine; hirm
-0,0,0,2,0,2,2,1,0,14,ani; elmar; endel; näitleja; vanemuine
-0,1,0,0,0,2,1,1,0,14,paat; endel; näitleja; vanemuine
+0,0,0,0,0,3,1,2,0,14,endel; vanemuine; näitleja; elmar
+1,0,2,0,0,2,2,2,0,14,endel; ani; vanemuine; hirm; näitleja; elmar
+0,0,0,2,0,2,2,1,0,14,endel; ani; vanemuine; näitleja; elmar
+0,1,0,0,0,2,1,1,0,14,endel; näitleja; paat; vanemuine

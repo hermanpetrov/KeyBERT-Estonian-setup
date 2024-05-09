@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,0,0,15,baltika
-0,0,0,0,0,1,1,0,0,15,baltika
-0,0,0,0,0,1,1,0,0,15,baltika
-0,0,0,0,0,1,1,0,0,15,baltika
-0,0,1,0,0,1,1,0,0,15,baltika; peeter
-0,0,1,0,0,1,1,0,0,15,baltika; peeter
-0,0,1,0,0,1,1,0,0,15,baltika; peeter
-0,0,1,1,0,1,1,0,0,15,baltika; peeter
+0,0,0,1,0,1,2,0,0,15,gaasitarne; baltika; keskkonnarikkumine
+0,0,0,1,0,1,2,0,0,15,gaasitarne; baltika; keskkonnarikkumine
+0,0,0,1,0,1,2,0,0,15,gaasitarne; baltika; keskkonnarikkumine
+0,0,0,1,0,1,2,0,0,15,gaasitarne; baltika; keskkonnarikkumine
+0,0,2,1,0,1,2,0,0,15,peeter; keskkonnarikkumine; gaasitarne; baltika
+0,0,2,1,0,2,2,0,0,15,peeter; keskkonnarikkumine; gaasitarne; baltika
+0,0,2,0,0,2,1,0,0,15,peeter; keskkonnarikkumine; gaasitarne; baltika
+0,0,2,1,0,1,2,1,0,15,peeter; rahulolu; keskkonnarikkumine; gaasitarne; baltika
 0,0,1,0,0,1,1,0,0,15,baltika
-0,0,0,0,0,1,0,0,0,15,baltika
-0,0,1,0,0,0,0,0,0,15,baltika
+2,1,1,0,0,1,0,1,0,15,rõivafirma; majanduskriis; keskkonnarikkumine; valgusinstallatsioon; riigigümnaasium; baltika
+2,2,2,0,0,1,0,1,0,15,rõivafirma; majanduskriis; keskkonnarikkumine; valgusinstallatsioon; riigigümnaasium; baltika

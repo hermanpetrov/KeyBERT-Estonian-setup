@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,1,0,1,0,17,dylan; laul
-0,0,0,0,0,1,1,1,0,17,dylan; laul
-0,1,0,0,0,1,1,1,0,17,dylan; aasta; liit
-0,1,0,0,0,1,1,0,0,17,dylan; aasta
+0,0,0,0,0,1,1,1,0,17,levimuusika
+0,0,0,0,0,1,1,1,0,17,levimuusika
+0,0,0,0,0,1,1,1,0,17,levimuusika
+0,0,0,0,0,1,1,1,0,17,levimuusika
+0,0,0,0,0,1,1,1,0,17,levimuusika
+0,0,0,0,0,1,0,1,0,17,levimuusika
+1,0,0,0,0,0,0,1,0,17,levimuusika
+1,0,0,0,0,1,0,2,0,17,laul; levimuusika; dylan
+0,0,0,0,0,1,1,2,0,17,levimuusika; laul; dylan
+0,1,0,0,0,1,1,1,0,17,aasta; liit; dylan
+0,1,0,0,0,1,1,0,0,17,aasta; dylan

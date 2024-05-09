@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,3,2,4,2,5,3,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-2,3,3,2,4,2,6,3,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-2,3,4,2,4,4,6,4,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-2,3,4,2,4,5,8,4,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-2,3,4,2,5,7,8,4,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-3,3,5,2,6,5,7,4,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-2,3,5,2,6,5,5,6,5,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-3,4,8,4,7,7,5,5,4,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-4,4,6,6,7,6,6,7,3,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-3,4,7,8,6,7,5,5,4,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
-3,4,8,8,5,6,6,6,3,13,piletisoodustus; poola; rahastamine; jüri; kontroll; andrus; adams; graafika; ansip; president
+5,4,4,2,4,3,6,4,5,13,parteiraha; andrus; graafika; lumekoristustöö; poola; jüri; president; lennuõnnetus; piletisoodustus; ansip; adams; rahastamine; kontroll
+5,4,5,2,4,3,7,5,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+5,4,6,2,4,5,7,6,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+5,4,6,2,4,6,10,6,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+5,4,6,2,5,9,10,6,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+6,4,7,3,6,7,10,6,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+5,4,6,3,6,6,7,8,5,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; lennuõnnetus; piletisoodustus; rahastamine
+5,5,8,7,8,8,7,7,4,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; piletisoodustus; lennuõnnetus; rahastamine
+6,5,7,9,8,8,8,8,3,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; piletisoodustus; lennuõnnetus; rahastamine
+5,5,7,11,8,8,7,6,4,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; piletisoodustus; lennuõnnetus; rahastamine
+5,5,9,11,6,7,8,8,3,13,andrus; graafika; poola; jüri; ansip; adams; kontroll; parteiraha; lumekoristustöö; president; piletisoodustus; lennuõnnetus; rahastamine

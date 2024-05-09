@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,1,1,1,3,2,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-3,2,1,2,3,3,2,1,2,12,amazona; vihm; linn; kaupo; ink; haigus; surnu
-4,2,1,3,3,4,4,2,2,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-4,2,2,3,2,4,5,1,2,12,amazona; vihm; linn; kikkas; kaupo; ink; surnu
-5,2,2,2,2,4,3,2,2,12,amazona; vihm; linn; kikkas; kaupo; ink; surnu
-3,4,1,2,3,4,3,2,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,1,1,1,3,2,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+4,2,1,2,3,3,2,1,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; vihm; linn
+5,2,1,4,3,4,5,2,3,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+5,2,3,3,2,5,6,1,3,12,kaupo; amazona; ink; põllukultuur; surnu; kikkas; vihm; salapärane; linn
+6,2,3,2,2,5,4,2,3,12,kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+4,4,3,2,3,5,4,2,6,12,haigus; kaupo; amazona; põllukultuur; ink; kikkas; vihm; salapärane; linn

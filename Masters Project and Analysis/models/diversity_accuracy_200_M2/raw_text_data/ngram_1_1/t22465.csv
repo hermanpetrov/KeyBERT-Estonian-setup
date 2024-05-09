@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,3,0,1,1,1,1,0,12,šveits; neutraliteet; maksusüsteem; genf
-2,1,2,0,1,1,1,0,0,12,šveits; neutraliteet; maksusüsteem; suusatamine; genf
-2,1,2,0,1,1,1,0,0,12,šveits; neutraliteet; maksusüsteem; suusatamine; genf
-2,1,2,0,1,1,1,0,0,12,šveits; neutraliteet; maksusüsteem; suusatamine; genf
-2,1,3,0,2,2,1,0,0,12,šveits; neutraliteet; maksusüsteem; suusatamine; genf
-2,1,3,0,1,0,0,0,0,12,šveits; neutraliteet; maksusüsteem; suusatamine; genf
-0,0,3,0,0,0,1,0,0,12,šveits; neutraliteet; genf
-1,0,1,1,0,0,0,0,0,12,rahvahääletus; neutraliteet; järv
-1,0,1,1,1,2,0,1,0,12,neutraliteet; suusatamine; rahvahääletus; maksusüsteem; järv; genf
-1,0,1,1,0,0,1,0,1,12,šveits; neutraliteet; rahvahääletus; maksusüsteem; järv
-1,1,1,1,0,0,1,0,1,12,šveits; neutraliteet; juust; rahvahääletus; maksusüsteem; järv
+2,0,3,0,1,1,1,1,0,12,maksusüsteem; neutraliteet; genf; šveits
+2,1,2,0,1,1,1,0,0,12,maksusüsteem; neutraliteet; suusatamine; genf; šveits
+2,1,2,0,1,1,1,0,0,12,maksusüsteem; neutraliteet; suusatamine; genf; šveits
+2,1,2,0,1,1,1,0,0,12,maksusüsteem; neutraliteet; suusatamine; genf; šveits
+2,1,3,0,2,2,1,0,0,12,maksusüsteem; neutraliteet; suusatamine; genf; šveits
+2,1,3,0,1,0,0,0,0,12,maksusüsteem; neutraliteet; suusatamine; genf; šveits
+0,0,3,0,0,0,1,0,0,12,šveits; genf; neutraliteet
+1,0,1,1,0,0,0,0,0,12,järv; neutraliteet; rahvahääletus
+1,0,1,1,1,2,0,1,0,12,neutraliteet; genf; maksusüsteem; suusatamine; järv; rahvahääletus
+1,0,1,1,0,0,1,0,1,12,neutraliteet; maksusüsteem; järv; šveits; rahvahääletus
+1,1,1,1,0,0,1,0,1,12,juust; neutraliteet; maksusüsteem; järv; šveits; rahvahääletus

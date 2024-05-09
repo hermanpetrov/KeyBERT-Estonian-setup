@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,1,1,0,1,1,1,2,16,ungari; kammerkoor; needmine; veljo; arvo; ellerhein
-4,3,1,1,0,1,1,1,2,16,ungari; kammerkoor; needmine; veljo; arvo; ellerhein
-4,3,1,1,0,1,1,1,2,16,ungari; kammerkoor; needmine; veljo; arvo; ellerhein
-4,3,2,1,0,1,1,1,2,16,ungari; kammerkoor; needmine; veljo; arvo; ellerhein
-4,4,1,1,0,1,1,1,2,16,needmine; veljo; folkloorifestival; ellerhein; ungari; kammerkoor; arvo
-4,4,2,1,0,2,1,1,2,16,tormis; veljo; folkloorifestival; ellerhein; ungari; kammerkoor; ingerimaa; arvo
-3,3,1,1,0,5,2,2,2,16,tormis; ratassepp; folkloorifestival; ellerhein; ungari; kammerkoor; ingerimaa; kaljuste; tõnu; arvo
-4,4,2,2,0,3,0,5,2,16,arvo; tormis; ratassepp; needmine; veljo; folkloorifestival; ellerhein; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; tõnu; raua
-4,4,1,0,0,4,2,6,2,16,arvo; ratassepp; needmine; folkloorifestival; ellerhein; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; tõnu; raua
-1,3,1,1,1,5,2,6,3,16,ratassepp; veljo; folkloorifestival; ellerhein; ungari; kammerkoor; ingerimaa; kaljuste; tõnu; arvo
-1,4,2,1,1,5,0,8,5,16,tormis; ratassepp; veljo; folkloorifestival; ellerhein; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
+4,3,1,1,0,1,1,2,0,16,kammerkoor; ungari; needmine; ellerhein; veljo; arvo
+4,3,1,1,0,1,1,2,0,16,kammerkoor; ungari; needmine; ellerhein; veljo; arvo
+4,3,1,1,0,1,1,2,0,16,kammerkoor; ungari; needmine; ellerhein; veljo; arvo
+4,3,2,1,0,1,1,2,0,16,kammerkoor; ungari; needmine; ellerhein; veljo; arvo
+4,4,1,1,0,1,1,2,0,16,ungari; folkloorifestival; veljo; kammerkoor; needmine; ellerhein; arvo
+4,4,2,1,0,1,1,2,0,16,ungari; folkloorifestival; veljo; ingerimaa; kammerkoor; ellerhein; arvo
+3,3,1,1,0,2,2,2,0,16,kammerkoor; ungari; kaljuste; folkloorifestival; ellerhein; ingerimaa
+4,4,2,2,0,0,5,2,0,16,ungari; kaljuste; folkloorifestival; tormis; veljo; ingerimaa; tõnu; kammerkoor; needmine; ellerhein; raua; õhtud
+4,4,1,0,0,2,6,2,0,16,ungari; kaljuste; folkloorifestival; ingerimaa; tõnu; kammerkoor; needmine; ellerhein; raua; arvo; õhtud
+1,3,1,1,1,2,6,3,0,16,kaljuste; ungari; folkloorifestival; ingerimaa; kammerkoor; ellerhein; arvo; tõnu
+1,4,2,1,1,0,8,5,0,16,ungari; kaljuste; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; arvo; õhtud

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,0,3,3,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,2,1,0,3,3,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,2,1,0,3,3,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,1,1,0,3,3,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,1,1,0,3,4,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,2,1,0,2,3,1,1,15,türgi; nobel; euroopa-mõjuline; ehin; islam
-1,1,2,2,0,2,1,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,2,1,0,2,1,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-1,1,1,0,0,2,0,1,1,15,türgi; nobel; euroopa-mõjuline; islam
-0,0,1,0,0,2,0,2,0,15,türgi; nobel; euroopa-mõjuline
-0,0,3,0,0,2,0,2,0,15,türgi; pamuk; nobel; euroopa-mõjuline; seppel
+3,2,3,2,0,5,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+3,2,3,2,0,5,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+3,2,3,2,0,5,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+3,2,3,2,0,5,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+3,2,2,2,0,5,6,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+3,2,3,2,0,5,5,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; ehin; atatürk; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+4,2,3,4,0,4,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+4,3,4,2,0,3,4,3,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; kirjanduspreemia; atatürk; andres; euroopa-mõjuline; islam; türgi
+4,3,2,1,0,4,2,4,1,15,keeleuuendusliikumine; väärtussüsteem; nobel; kirjanduspreemia; atatürk; euroopa-mõjuline; islam; usukoolipoiss; türgi
+3,3,3,1,0,4,3,4,0,15,keeleuuendusliikumine; väärtussüsteem; nobel; atatürk; euroopa-mõjuline; kirjanduspreemia; usukoolipoiss; türgi
+2,3,4,1,0,3,3,4,0,15,seppel; keeleuuendusliikumine; väärtussüsteem; pamuk; nobel; atatürk; euroopa-mõjuline; kirjanduspreemia; usukoolipoiss; türgi

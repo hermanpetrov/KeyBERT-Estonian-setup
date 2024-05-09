@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,2,4,5,5,3,6,3,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-5,6,2,4,5,5,3,7,3,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-5,6,3,4,5,5,2,7,4,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-5,6,5,5,5,6,3,6,4,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; ed; sullivan; maania; epstein
-6,6,5,5,5,4,5,7,4,15,ringo; harrison; brian; mccartney; lennon; biitel; kuum; sullivan; maania; epstein
-8,5,8,5,5,6,3,10,4,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; lennon; biitel; ed; epstein
-6,8,7,6,7,5,5,7,4,15,ringo; harrison; brian; biitel; mccartney; lennon; kuum; ed; sullivan; maania; epstein
-4,6,9,8,6,4,7,4,5,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; lennon; biitel; ed; epstein
-4,9,10,8,6,5,5,4,7,15,ringo; harrison; brian; kuum; sullivan; maania; mccartney; lennon; biitel; ed; epstein
-3,6,8,8,6,4,5,5,7,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; mccartney; lennon; ed; epstein
-4,5,9,8,9,5,5,5,7,15,ringo; harrison; brian; kuum; sullivan; maania; biitel; mccartney; lennon; ed; epstein
+5,6,3,5,5,6,4,7,3,15,maania; lennon; epstein; brian; biitel; sullivan; ringo; mccartney; harrison; kuum; kuuekümnes
+5,6,3,5,5,6,4,8,3,15,lennon; kuum; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+5,6,4,5,5,6,3,8,4,15,lennon; kuum; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+5,6,6,6,5,7,4,7,4,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+6,6,6,6,5,5,6,8,4,15,lennon; kuum; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+8,5,9,6,5,7,4,11,4,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+6,8,8,7,7,6,6,8,4,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+4,6,10,9,6,5,8,5,5,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+5,10,11,8,6,5,5,5,7,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+4,7,8,8,6,4,5,5,7,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison
+4,6,10,8,9,5,5,5,7,15,lennon; kuum; ed; kuuekümnes; maania; epstein; brian; biitel; sullivan; ringo; mccartney; harrison

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,1,1,0,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,1,1,0,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,1,1,0,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,1,1,0,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,3,1,0,1,1,0,0,13,halb; nali; harry; kompositsioon; marco; solvang
-1,1,1,1,0,2,1,2,0,13,kompositsioon; tsensuur; harry; marco; solvang
-1,1,1,0,0,2,3,2,0,13,halb; nali; harry; tsensuur; diskussioon; marco
-2,0,2,0,0,4,4,2,0,13,halb; harry; nali; tsensuur; marco; solvang
-3,0,2,3,0,3,3,2,0,13,halb; harry; diskussioon; kompositsioon; nali; tsensuur; marco; solvang
-3,1,0,3,0,3,3,2,0,13,halb; harry; tsensuur; diskussioon; marco; solvang
+3,1,1,3,0,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,1,1,3,0,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,1,1,3,0,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,1,1,3,0,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,1,1,3,0,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,1,4,3,0,1,3,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; halb; nali; harry
+2,1,2,4,0,3,3,4,0,13,hobusepea; liivrand; tsensuur; marco; kunstimaailm; harry; solvang; kompositsioon
+1,3,2,1,0,3,6,3,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; diskussioon; nali; halb; harry
+3,1,3,1,0,5,6,5,0,13,hobusepea; liivrand; tsensuur; marco; kunstimaailm; solvang; halb; nali; harry
+3,1,2,4,0,4,6,4,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; harry; solvang; diskussioon; halb; nali; kompositsioon
+3,3,0,4,0,5,5,4,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; solvang; diskussioon; halb; harry

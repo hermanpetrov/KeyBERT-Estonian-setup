@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,3,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,3,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,3,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,2,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,2,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,2,1,0,2,2,1,2,12,hämarik; päike; friedrich; koit; faehlmann; robert
-2,1,2,1,0,2,2,1,1,12,hämarik; friedrich; koit; faehlmann; robert
-2,1,2,1,0,2,2,1,1,12,hämarik; friedrich; koit; faehlmann; robert
-2,1,2,1,1,2,2,1,1,12,hämarik; friedrich; koit; faehlmann; robert
-2,1,2,1,1,2,2,1,1,12,hämarik; friedrich; koit; faehlmann; robert
+2,1,3,1,0,2,2,1,2,12,faehlmann; koit; hämarik; robert; friedrich; päike
+2,1,3,1,0,2,2,1,2,12,faehlmann; koit; hämarik; robert; friedrich; päike
+2,1,3,1,0,2,2,1,2,12,faehlmann; koit; hämarik; robert; friedrich; päike
+2,1,3,1,0,2,2,1,2,12,faehlmann; koit; hämarik; robert; friedrich; päike
+2,1,2,1,0,2,2,1,2,12,faehlmann; koit; robert; päike; friedrich; hämarik
+2,1,2,1,0,2,2,1,2,12,faehlmann; koit; robert; päike; friedrich; hämarik
+2,1,2,1,0,2,2,1,2,12,faehlmann; koit; robert; päike; friedrich; hämarik
+2,1,2,1,0,2,2,1,1,12,faehlmann; koit; robert; friedrich; hämarik
+2,1,2,1,0,2,2,1,1,12,faehlmann; koit; robert; friedrich; hämarik
+2,1,2,1,1,2,2,1,1,12,faehlmann; koit; robert; friedrich; hämarik
+2,1,2,1,1,2,2,1,1,12,faehlmann; koit; robert; friedrich; hämarik

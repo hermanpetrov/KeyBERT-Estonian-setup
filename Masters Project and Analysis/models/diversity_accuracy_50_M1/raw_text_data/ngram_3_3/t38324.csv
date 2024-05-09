@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,5,2,2,4,6,4,6,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,5,2,2,4,6,4,6,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,5,2,2,4,6,4,6,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,4,2,2,4,6,4,6,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,4,2,2,4,5,5,6,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,4,2,4,4,5,6,7,3,15,töö; raamat; ants; tegevus; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-3,4,6,5,4,6,5,6,3,15,töö; ants; raamat; tegevus; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-2,5,5,5,4,6,5,5,2,15,töö; raamat; tegevus; ants; naine; ilmar; mälestuste; soome; talve; viires; etnoloog
-4,3,6,3,6,6,7,6,3,15,raamat; ants; tegevus; ilmar; mälestuste; talve; töö; naine; soome; viires; haige; etnoloog
-4,2,5,3,5,5,5,5,5,15,töö; raamat; ants; tegevus; naine; teaduslik; ilmar; mälestuste; soome; talve; viires; haige
-4,3,5,4,4,4,6,5,6,15,töö; raamat; ants; tegevus; naine; teaduslik; ilmar; soome; talve; viires; haige; etnoloog
+1,5,2,2,4,6,4,6,2,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+1,5,2,2,4,6,4,6,2,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+1,5,2,2,4,6,4,6,2,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+1,4,2,2,4,6,4,6,2,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+1,4,2,2,4,5,5,6,2,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+1,4,2,4,4,5,6,7,3,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+3,4,6,5,4,6,5,6,3,15,soome; viires; mälestuste; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine
+2,5,5,5,4,6,5,5,2,15,soome; viires; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; naine; ants
+4,3,6,3,6,6,7,6,3,15,haige; soome; töö; ilmar; talve; mälestuste; ants; naine; viires; tegevus; etnoloog; raamat
+4,2,5,3,5,5,5,5,5,15,haige; soome; viires; teaduslik; töö; ilmar; talve; tegevus; raamat; mälestuste; naine; ants
+4,3,5,4,4,4,6,5,6,15,haige; soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; ants; naine

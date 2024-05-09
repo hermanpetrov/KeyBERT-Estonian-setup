@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,2,1,1,1,1,1,3,10,ivanov; vedur; ristimine; abort; hambahar
-1,4,3,1,1,1,1,1,4,10,ivanov; vedur; ristimine; abort; hambahar
-2,4,3,1,1,1,2,1,4,10,abort; vedur; ristimine; hambahar; ivanov
-2,4,3,1,1,2,2,1,4,10,abort; vedur; ristimine; hambahar; ivanov
-3,4,3,2,2,3,3,3,4,10,ivanov; abort; ristimine; vedur; hambahar
-3,4,4,2,2,3,3,3,4,10,ivanov; abort; ristimine; vedur; hambahar
-4,3,5,2,1,2,2,1,5,10,abort; vedur; ristimine; hambahar; ivanov
-2,4,3,1,1,1,2,2,3,10,hambahar; ristimine; vedur; abort; ivanov
-1,4,3,1,1,2,4,2,4,10,ivanov; abort; ristimine; vedur; hambahar
-2,3,3,3,2,2,4,2,4,10,ivanov; abort; ristimine; vedur; hambahar
-2,3,3,2,2,2,3,1,2,10,ivanov; ristimine; vedur; abort; hambahar
+4,7,3,2,1,3,3,2,5,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+4,7,5,2,2,3,3,2,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+5,7,6,2,2,3,4,3,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+5,7,6,2,2,4,5,3,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+6,7,6,3,3,5,6,6,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+6,7,6,3,3,5,5,5,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+7,6,7,5,3,4,4,3,7,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+4,6,6,4,3,3,5,5,5,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+3,7,6,4,3,4,6,5,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+3,5,5,6,4,4,5,4,6,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+3,5,4,5,4,4,4,3,4,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,4,0,0,1,1,1,0,17,salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-5,2,4,0,0,1,1,1,0,17,salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-5,2,4,0,0,1,1,1,0,17,salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-5,2,4,0,0,1,1,1,0,17,salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-5,2,5,0,0,1,1,1,0,17,salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-4,2,5,0,0,1,1,1,0,17,salme; pärimusmuusika; põllumajandusprojekt; venemaa; kosmosesüstik; steiner; presidendivalimised; muinaslaev; jürgen; kreeka
-2,2,4,0,0,3,1,3,0,17,ligi; salme; põllumajandusprojekt; venemaa; kliimamuudatused; viljandi; presidendivalimised; jürgen; kreeka
-1,2,4,1,0,4,2,3,0,17,salme; põllumajandusprojekt; venemaa; steiner; viljandi; presidendivalimised; jürgen; kreeka
-0,2,3,0,0,4,4,1,0,17,põllumajandusprojekt; venemaa; steiner; kliimamuudatused; viljandi; presidendivalimised; jürgen; kreeka
-0,0,5,0,0,4,4,3,1,17,ligi; põllumajandusprojekt; venemaa; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-0,0,4,0,0,4,3,1,0,17,ligi; põllumajandusprojekt; venemaa; steiner; kliimamuudatused; viljandi; presidendivalimised; kreeka
+5,2,4,0,0,1,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+5,2,4,0,0,1,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+5,2,4,0,0,1,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+5,2,4,0,0,1,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+5,2,5,0,0,1,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+4,2,5,0,0,1,1,0,0,17,steiner; venemaa; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen
+2,2,4,0,0,1,3,0,0,17,kliimamuudatused; venemaa; presidendivalimised; salme; põllumajandusprojekt; kreeka; viljandi; jürgen
+1,2,4,1,0,2,3,0,0,17,steiner; venemaa; presidendivalimised; salme; põllumajandusprojekt; kreeka; viljandi
+0,2,3,0,0,4,1,0,0,17,steiner; kliimamuudatused; venemaa; põllumajandusprojekt; kreeka; presidendivalimised
+0,0,5,0,0,4,3,1,0,17,steiner; kliimamuudatused; venemaa; presidendivalimised; muinaslaev; kreeka; jürgen
+0,0,4,0,0,3,1,0,0,17,steiner; kliimamuudatused; venemaa; kreeka; presidendivalimised

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,1,0,1,1,0,13,graafika; galerii; tartu; poliitiline
-0,0,1,1,1,0,1,1,0,13,graafika; galerii; tartu; poliitiline
-0,0,1,1,1,0,1,1,0,13,graafika; galerii; tartu; poliitiline
-0,0,1,1,1,0,1,1,0,13,graafika; galerii; tartu; poliitiline
-0,0,3,1,1,0,1,1,0,13,anders; härm; poliitiline; graafika; galerii; tartu
-0,0,1,2,1,0,1,1,0,13,graafika; galerii; tartu; poliitiline
-0,0,1,2,1,1,3,2,0,13,aleksander; poliitiline; graafika; galerii; tartu
-1,0,2,2,1,2,3,3,0,13,galerii; anders; aleksander; poliitiline; graafika; tartu
-0,0,3,2,1,3,3,2,0,13,galerii; anders; aleksander; poliitiline; graafika; tartu
-0,0,2,1,1,1,1,2,0,13,aleksander; kuraator; poliitiline; graafika; galerii
-1,1,1,1,1,2,1,2,1,13,aleksander; poliitiline; graafika; galerii; tartu
+0,2,1,1,1,2,3,3,0,13,graafika; galerii; tartu; vabakaubandus; poliitiline; graafikatriennaal; kunstihoone
+0,2,1,1,1,2,3,3,0,13,graafika; galerii; tartu; vabakaubandus; poliitiline; graafikatriennaal; kunstihoone
+0,2,1,1,1,2,3,3,0,13,graafika; galerii; tartu; vabakaubandus; poliitiline; graafikatriennaal; kunstihoone
+0,2,1,1,1,2,3,3,0,13,graafika; galerii; tartu; vabakaubandus; poliitiline; graafikatriennaal; kunstihoone
+0,2,3,1,1,2,3,3,0,13,graafika; galerii; härm; tartu; vabakaubandus; poliitiline; kunstihoone; graafikatriennaal; anders
+0,2,1,3,1,2,3,3,0,13,graafika; galerii; tudengifilm; tartu; vabakaubandus; poliitiline; graafikatriennaal; kunstihoone
+0,2,1,2,1,2,5,4,0,13,graafika; galerii; tartu; vabakaubandus; aleksander; poliitiline; graafikatriennaal; kunstihoone
+1,2,3,3,1,3,4,4,0,13,graafika; galerii; tartu; vabakaubandus; aleksander; poliitiline; kunstihoone; graafikatriennaal; anders
+0,1,3,4,1,4,4,5,0,13,graafika; galerii; tudengifilm; tartu; aleksander; poliitiline; kunstihoone; graafikatriennaal; anders
+0,1,2,2,1,2,3,3,0,13,graafika; kuraator; galerii; aleksander; poliitiline; graafikatriennaal; kunstihoone
+1,2,1,1,1,3,3,4,1,13,graafika; galerii; tartu; aleksander; poliitiline; graafikatriennaal; kunstihoone

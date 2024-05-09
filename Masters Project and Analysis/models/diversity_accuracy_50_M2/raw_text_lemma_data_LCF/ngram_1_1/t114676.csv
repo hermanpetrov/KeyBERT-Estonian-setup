@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,2,16,kennedy; biitel; dylan; usa
-0,0,1,0,0,0,1,0,1,16,biitel; dylan; usa
-0,0,1,0,0,0,1,0,1,16,biitel; dylan; usa
-0,0,1,0,0,0,1,0,1,16,biitel; dylan; usa
-0,0,1,0,0,1,1,0,1,16,biitel; dylan; usa
-0,0,1,0,0,1,1,0,1,16,biitel; dylan; usa
-0,0,0,0,0,1,2,0,1,16,dylan; kosmonaut; usa
-0,0,1,0,0,2,2,1,1,16,kennedy; kosmonaut; usa; liit; bob; dylan
-0,0,2,1,0,2,4,1,0,16,kosmonaut; aarne; john; kennedy; liit; bob; dylan
-0,0,0,1,0,3,4,1,0,16,kosmonaut; john; kennedy; liit; bob; dylan
-0,1,0,1,2,4,3,0,0,16,kosmonaut; nsv; john; kennedy; bob; dylan
+2,0,1,0,0,1,2,2,2,16,levimuusika; kennedy; biitel; olümpiamängud; usa; dylan
+2,0,1,0,0,1,2,2,1,16,levimuusika; biitel; olümpiamängud; usa; dylan
+2,0,1,0,0,1,2,2,1,16,levimuusika; biitel; olümpiamängud; usa; dylan
+2,0,1,0,0,1,2,2,1,16,levimuusika; biitel; olümpiamängud; usa; dylan
+2,0,1,0,0,2,2,2,1,16,levimuusika; biitel; olümpiamängud; usa; dylan
+2,0,1,0,0,2,1,1,1,16,levimuusika; biitel; olümpiamängud; usa; dylan
+2,0,0,1,0,1,2,1,1,16,levimuusika; kosmonaut; olümpiamängud; usa; dylan
+2,0,1,1,0,2,2,2,1,16,liit; levimuusika; kennedy; kosmonaut; olümpiamängud; usa; bob; dylan
+1,0,2,2,0,2,4,2,0,16,levimuusika; bob; dylan; john; kennedy; kosmonaut; aarne; olümpiamängud; liit
+1,0,0,2,0,3,4,1,0,16,bob; dylan; john; kennedy; kosmonaut; olümpiamängud; liit
+1,1,0,2,2,4,3,1,0,16,nsv; bob; dylan; john; kennedy; kosmonaut; olümpiamängud

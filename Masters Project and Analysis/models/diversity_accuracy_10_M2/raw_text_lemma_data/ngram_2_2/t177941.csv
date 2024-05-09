@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,0,1,0,0,14,rapla; tooming; ehin
-2,0,0,0,2,1,1,1,0,14,margus; rapla; ehin; tooming
-2,1,0,0,2,1,1,1,0,14,margus; rapla; tooming; ehin; näitleja
-1,0,0,0,3,1,1,0,0,14,margus; rapla; ehin; tooming
-1,1,0,1,3,2,1,1,0,14,margus; jaan; rapla; ehin; tooming
-1,0,0,0,2,2,2,1,0,14,margus; rapla; jaan; ehin; tooming
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,0,0,2,1,2,0,0,14,mikomägi; rapla; tooming; ehin
+2,0,1,0,2,2,1,2,0,14,mikomägi; rapla; margus; tooming; ehin
+2,1,1,1,2,2,1,2,0,14,mikomägi; ajakirjanik; rapla; näitleja; ehin; margus; tooming
+1,0,0,0,3,2,1,0,0,14,mikomägi; rapla; margus; tooming; ehin
+1,1,0,1,3,3,1,1,0,14,jaan; mikomägi; rapla; margus; tooming; ehin
+1,0,0,0,2,2,2,1,0,14,jaan; rapla; margus; tooming; ehin

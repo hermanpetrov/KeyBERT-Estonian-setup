@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,3,6,3,6,7,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-7,7,3,6,3,6,7,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-7,7,6,6,3,7,7,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-7,7,7,6,3,7,6,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-7,7,7,6,5,7,6,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-6,7,7,6,5,7,7,7,7,13,heinsoo; hiiu; käär; merike; lili; sõna; lasteraamat
-7,7,7,6,5,7,6,7,7,13,heinsoo; käär; hiiu; merike; lili; sõna; lasteraamat
-5,7,7,6,7,7,6,7,7,13,heinsoo; hiiu; käär; merike; lili; sõna; lasteraamat
-5,7,7,7,7,7,7,7,7,13,heinsoo; hiiu; käär; merike; lili; sõna; lasteraamat
-6,7,7,7,7,7,7,7,7,13,heinsoo; hiiu; käär; merike; lili; sõna; lasteraamat
-5,7,7,7,7,7,7,7,7,13,hiiu; käär; heinsoo; merike; lili; sõna; lasteraamat
+7,7,3,6,3,6,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+7,7,3,6,3,6,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+7,7,6,6,3,7,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+7,7,7,6,3,7,6,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+7,7,7,6,5,7,6,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+6,7,7,6,5,7,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+7,7,7,6,5,7,6,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+5,7,7,6,7,7,6,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+5,7,7,7,7,7,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+6,7,7,7,7,7,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+5,7,7,7,7,7,7,7,7,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili

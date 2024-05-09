@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,7,7,7,5,6,7,6,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-8,5,7,7,7,5,6,7,6,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-8,5,7,7,7,5,6,7,6,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-8,5,8,7,7,5,6,7,5,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-6,4,8,8,7,6,6,7,7,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-7,5,8,6,8,8,6,7,7,12,paul; darwin; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus; liialdus
-6,7,8,6,8,8,6,8,7,12,paul; darwin; toomas; rõõm; aplus; tüdimus; süü; seitse; ahnus; liialdus
-9,5,7,5,8,7,8,9,7,12,paul; darwin; rõõm; süü; seitse; toomas; tüdimus; aplus; ahnus; liialdus
-9,5,9,5,9,7,7,8,7,12,paul; darwin; rõõm; süü; seitse; toomas; tüdimus; aplus; ahnus; liialdus
-9,5,9,6,9,8,7,8,8,12,paul; darwin; rõõm; süü; seitse; toomas; tüdimus; aplus; ahnus; liialdus
-9,6,9,7,9,9,7,7,8,12,paul; darwin; rõõm; süü; seitse; toomas; tüdimus; aplus; ahnus; liialdus
+10,7,9,9,7,7,8,9,8,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+10,7,9,9,7,7,8,9,8,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+10,7,9,9,7,7,8,9,8,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+9,7,10,9,7,7,8,9,7,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+7,6,10,10,7,8,8,9,9,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; rõõm; süü; toomas; ahnus
+8,7,10,8,8,10,8,9,9,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+8,9,10,8,9,10,8,10,9,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; rõõm; süü; toomas; ahnus
+11,7,9,6,9,9,10,11,9,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; süü; rõõm; toomas; ahnus
+11,7,11,6,10,9,9,10,9,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; rõõm; süü; toomas; ahnus
+11,7,10,7,11,10,9,10,10,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; rõõm; süü; toomas; ahnus
+11,7,11,8,10,10,9,9,10,12,tüdimus; seitse; aplus; hommikupalvus; paul; liialdus; surmapatu; darwin; rõõm; süü; toomas; ahnus

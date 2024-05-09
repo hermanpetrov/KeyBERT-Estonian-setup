@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,2,6,2,2,4,3,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
-5,5,3,6,2,2,4,4,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
-5,5,2,5,2,2,4,4,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
-5,5,2,5,2,3,4,4,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
-6,3,1,5,2,3,4,4,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
-4,2,3,5,3,3,3,5,4,13,tindur; vaimuinimene; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
-3,3,5,5,3,5,5,6,4,13,vaimuinimene; muusika; haapsalu; presidendi; julgus; liivia; tindur; moekunstnik
-2,4,3,4,3,4,3,6,4,13,vaimuinimene; tindur; muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
-2,5,5,4,5,4,3,6,4,13,vaimuinimene; tindur; muusika; haapsalu; presidendi; julgus; disainima; liivia; moekunstnik
-3,4,7,3,5,2,3,6,4,13,vaimuinimene; muusika; haapsalu; presidendi; julgus; liivia; tindur; moekunstnik
-3,2,6,3,5,2,3,6,4,13,vaimuinimene; tindur; muusika; haapsalu; presidendi; julgus; liivia; moekunstnik
+5,5,2,6,2,2,4,3,4,13,presidendi; julgus; moekunstnik; tindur; vaimuinimene; liivia; muusika; haapsalu; disainima
+5,5,3,6,2,2,4,4,4,13,presidendi; julgus; moekunstnik; tindur; vaimuinimene; liivia; muusika; haapsalu; disainima
+5,5,2,5,2,2,4,4,4,13,presidendi; julgus; moekunstnik; tindur; liivia; muusika; haapsalu; vaimuinimene
+5,5,2,5,2,3,4,4,4,13,presidendi; julgus; moekunstnik; tindur; liivia; muusika; haapsalu; vaimuinimene
+6,3,1,5,2,3,4,4,4,13,presidendi; julgus; moekunstnik; tindur; vaimuinimene; liivia; muusika; haapsalu; disainima
+4,2,3,5,3,3,3,5,4,13,presidendi; julgus; moekunstnik; tindur; vaimuinimene; liivia; muusika; haapsalu; disainima
+3,3,5,5,3,5,5,6,4,13,presidendi; julgus; moekunstnik; tindur; liivia; muusika; haapsalu; vaimuinimene
+2,4,3,4,3,4,3,6,4,13,presidendi; julgus; moekunstnik; tindur; liivia; haapsalu; muusika; vaimuinimene
+2,5,5,4,5,4,3,6,4,13,disainima; presidendi; julgus; moekunstnik; tindur; liivia; haapsalu; muusika; vaimuinimene
+3,4,7,3,5,2,3,6,4,13,presidendi; julgus; moekunstnik; tindur; liivia; haapsalu; muusika; vaimuinimene
+3,2,6,3,5,2,3,6,4,13,presidendi; julgus; moekunstnik; tindur; liivia; muusika; haapsalu; vaimuinimene

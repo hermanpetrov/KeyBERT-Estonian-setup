@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,0,0,0,0,3,3,14,vene; estonia; teater; kultuur; eesti; vanemuine
-0,2,1,0,0,0,0,3,3,14,vene; estonia; teater; kultuur; eesti; vanemuine
-0,2,1,0,0,0,0,3,3,14,vene; estonia; teater; kultuur; eesti; vanemuine
-0,2,2,0,1,1,0,3,3,14,estonia; teater; eesti; vene; kultuur; vanemuine
-0,2,3,0,1,0,0,2,3,14,vene; estonia; teater; kultuur; eesti; vanemuine
-1,1,2,0,2,1,0,2,3,14,vene; estonia; kultuur; eesti; vanemuine
-1,0,2,2,2,1,0,1,3,14,vene; estonia; teater; eesti; vanemuine
-0,1,2,3,2,1,0,1,2,14,vene; estonia; keel; eesti; vanemuine; teater
-1,0,2,2,1,0,0,1,2,14,vene; teater; eesti; vanemuine
-0,1,2,2,3,1,0,0,1,14,vene; estonia; teater; eesti; vanemuine
-0,1,1,2,1,1,0,0,2,14,vene; estonia; teater; eesti; vanemuine
+3,2,5,2,0,1,1,4,3,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; vanemuine; naisliit; kultuur; teater; estonia
+3,2,1,2,0,1,1,4,4,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; vanemuine; naisliit; kultuur; teater; estonia
+3,2,1,2,0,1,1,4,4,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; vanemuine; naisliit; kultuur; teater; estonia
+3,2,2,2,1,3,1,4,4,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; vanemuine; naisliit; kultuur; teater; estonia
+3,2,4,2,1,2,1,3,4,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; rakvere; vanemuine; naisliit; kultuur; teater; estonia
+3,2,3,2,2,2,1,3,4,14,kultuuripäev; haridusprogramm; vene; eesti; kõnekoosolek; rakvere; vanemuine; naisliit; kultuur; estonia
+2,1,3,2,2,2,2,2,4,14,vene; eesti; kõnekoosolek; rakvere; vanemuine; naisliit; teater; estonia
+0,2,4,3,2,2,1,1,4,14,haridusprogramm; vene; eesti; kõnekoosolek; rakvere; keel; vanemuine; naisliit; teater; estonia
+2,1,4,2,1,1,1,1,4,14,haridusprogramm; vene; eesti; kõnekoosolek; rakvere; vanemuine; naisliit; teater
+1,2,3,2,3,2,1,0,3,14,haridusprogramm; vene; eesti; kõnekoosolek; rakvere; vanemuine; naisliit; teater; estonia
+1,1,1,2,2,3,1,0,4,14,haridusprogramm; vene; eesti; kõnekoosolek; rakvere; vanemuine; teater; estonia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,4,2,3,1,2,1,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,4,2,3,1,2,1,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,4,2,3,1,2,1,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,4,2,3,1,2,1,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,3,1,3,1,2,2,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,3,2,3,1,3,2,2,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moekunstnik
-1,3,1,1,1,4,2,3,0,12,lilli; berliini; konstruktor; jahilo; moekunstnik
-0,0,2,0,1,5,2,4,0,12,lilli; berliini; konstruktor; jahilo; kollektsioon; moenädal; moekunstnik
-0,0,1,1,1,3,1,1,0,12,lilli; konstruktor; berliini; ateljee; moekunstnik
-0,0,2,1,1,4,1,1,0,12,lilli; berliini; konstruktor; jahilo; moemaja; moekunstnik
-0,0,2,0,1,1,1,2,0,12,berliini; konstruktor; jahilo; moemaja; moekunstnik
+0,4,2,3,1,1,2,0,0,12,konstruktor; moekunstnik; moenädal; kollektsioon; jahilo; berliini; lilli
+0,4,2,3,1,1,2,0,0,12,konstruktor; moekunstnik; moenädal; kollektsioon; jahilo; berliini; lilli
+0,4,2,3,1,1,2,0,0,12,konstruktor; moekunstnik; moenädal; kollektsioon; jahilo; berliini; lilli
+0,4,2,3,1,1,2,0,0,12,konstruktor; moekunstnik; moenädal; kollektsioon; jahilo; berliini; lilli
+0,3,1,3,1,2,2,0,0,12,konstruktor; moekunstnik; moenädal; kollektsioon; jahilo; berliini; lilli
+0,3,2,3,1,2,2,0,0,12,lilli; berliini; moekunstnik; konstruktor; kollektsioon; jahilo
+1,3,1,1,1,2,3,0,0,12,lilli; berliini; moekunstnik; konstruktor; jahilo
+0,0,2,0,1,2,4,0,0,12,lilli; berliini; konstruktor; moekunstnik; jahilo
+0,0,1,1,1,1,1,0,0,12,ateljee; berliini; konstruktor
+0,0,2,1,1,1,1,0,0,12,berliini; konstruktor; moemaja; jahilo
+0,0,2,0,1,1,2,0,0,12,berliini; konstruktor; moemaja; jahilo

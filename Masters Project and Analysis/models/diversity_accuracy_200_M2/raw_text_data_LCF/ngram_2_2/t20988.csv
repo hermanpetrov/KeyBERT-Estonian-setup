@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,1,2,3,2,0,5,0,18,andres; kanter; arst; orel; gerd; mall; uibo; annely; peebo; mälberg; anu
-4,4,3,2,3,2,0,5,0,18,andres; kanter; arst; orel; gerd; mall; uibo; annely; peebo; mälberg; anu
-4,4,3,2,4,2,0,5,0,18,andres; hele; kanter; arst; orel; gerd; mall; uibo; annely; peebo; mälberg; anu
-4,3,4,2,4,2,2,5,0,18,andres; hele; arst; orel; mall; annely; uibo; gerd; peebo; mälberg; anu
-3,3,4,3,4,2,3,7,0,18,andres; hele; kanter; mall; annely; gerd; peebo; uibo; mälberg; anu; everaus
-3,3,5,5,5,2,2,7,0,18,kanter; annely; peebo; uibo; anu; andres; hele; lamp; orel; mall; gerd; mälberg; everaus
-4,1,8,2,7,3,3,8,1,18,kanter; annely; peebo; uibo; anu; kettaheide; hele; orel; mall; gerd; mälberg; everaus
-2,2,4,4,8,5,4,8,2,18,kanter; annely; peebo; uibo; anu; andres; hele; lamp; orel; mall; gerd; mälberg; everaus
-2,2,5,5,10,7,2,9,2,18,kanter; arst; annely; peebo; uibo; anu; andres; kettaheide; hele; lamp; orel; mall; mälberg; everaus
-3,4,9,6,8,9,3,9,2,18,kanter; arst; annely; uibo; peebo; anu; andres; kettaheide; hele; lamp; orel; gerd; mall; mälberg; everaus
-3,2,8,6,8,6,2,8,3,18,kanter; arst; annely; peebo; uibo; anu; andres; kettaheide; hele; lamp; orel; mall; mälberg; everaus
+4,4,1,2,3,0,5,0,0,18,arst; annely; gerd; mälberg; orel; peebo; mall; anu; kanter; andres; uibo
+4,4,3,2,3,0,5,0,0,18,arst; annely; gerd; mälberg; orel; peebo; mall; anu; kanter; andres; uibo
+4,4,3,2,4,0,5,0,0,18,hele; arst; annely; gerd; mälberg; orel; peebo; mall; anu; kanter; andres; uibo
+4,3,4,2,4,2,5,0,0,18,hele; arst; annely; gerd; mälberg; orel; peebo; mall; anu; andres; uibo
+3,3,4,3,4,3,7,0,0,18,hele; everaus; annely; gerd; mälberg; peebo; mall; anu; kanter; andres; uibo
+3,3,5,5,5,2,7,0,0,18,mälberg; orel; mall; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; anu; kanter
+4,1,8,2,7,3,8,1,0,18,kettaheide; mälberg; orel; mall; uibo; hele; everaus; annely; gerd; peebo; anu; kanter
+2,2,4,4,8,4,8,2,0,18,mälberg; orel; mall; andres; uibo; hele; everaus; annely; gerd; peebo; anu; kanter
+2,2,5,5,10,2,9,2,0,18,arst; kettaheide; mälberg; orel; mall; andres; lamp; uibo; hele; everaus; annely; peebo; anu; kanter
+3,4,9,6,8,3,9,2,0,18,arst; kettaheide; mälberg; orel; mall; andres; lamp; uibo; hele; everaus; annely; gerd; peebo; anu; kanter
+3,2,8,6,8,2,8,3,0,18,kettaheide; arst; mälberg; orel; mall; andres; lamp; uibo; everaus; hele; annely; peebo; anu; kanter

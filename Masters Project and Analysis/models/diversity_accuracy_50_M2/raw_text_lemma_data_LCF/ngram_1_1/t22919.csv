@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,2,1,2,0,15,kuraator; poliitiline; poeetiline; tartu
-0,0,1,0,1,2,1,2,0,15,kuraator; poliitiline; poeetiline; tartu
-0,0,1,0,1,2,1,2,0,15,kuraator; poliitiline; poeetiline; tartu
-0,0,1,0,1,2,1,2,0,15,kuraator; poliitiline; poeetiline; tartu
-0,0,0,0,1,2,1,0,0,15,poeetiline; kuraator; poliitiline
-0,0,0,0,1,0,0,0,0,15,kuraator
-0,0,1,0,0,0,1,1,0,15,marco; kuraator; poliitiline
-2,0,0,0,0,2,2,0,0,15,poliitiline; marco; poeetiline; tartu
-1,0,0,0,0,2,0,0,0,15,poeetiline; tartu; poliitiline
-0,0,0,2,0,1,2,0,0,15,poeetiline; kuraator; härm; poliitiline; marco
-0,0,0,1,0,0,1,0,1,15,poeetiline; härm; hanno
+1,3,2,1,1,3,2,5,0,15,tudengifilm; poeetiline; tartu; graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,3,2,1,1,3,2,5,0,15,tudengifilm; poeetiline; tartu; graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,3,2,1,1,3,2,5,0,15,tudengifilm; poeetiline; tartu; graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,3,2,1,1,3,2,5,0,15,tudengifilm; poeetiline; tartu; graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,2,0,1,1,3,2,3,0,15,kuraator; poeetiline; graafikatraditsioon; poliitiline; graafikatriennaal; kunstihoone
+1,2,0,1,1,0,2,2,0,15,graafikatraditsioon; kunstihoone; graafikatriennaal; kuraator
+1,2,1,1,0,1,3,2,0,15,graafikatraditsioon; poliitiline; kuraator; marco; graafikatriennaal; kunstihoone
+3,2,0,0,0,2,4,1,0,15,marco; poeetiline; tartu; graafikatraditsioon; poliitiline; graafikatriennaal; kunstihoone
+1,2,0,0,0,2,2,1,0,15,graafikatraditsioon; poliitiline; poeetiline; graafikatriennaal; tartu; kunstihoone
+0,1,0,2,0,1,4,1,0,15,marco; härm; poeetiline; graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,1,0,1,0,0,3,1,1,15,graafikatraditsioon; härm; hanno; graafikatriennaal; poeetiline; kunstihoone

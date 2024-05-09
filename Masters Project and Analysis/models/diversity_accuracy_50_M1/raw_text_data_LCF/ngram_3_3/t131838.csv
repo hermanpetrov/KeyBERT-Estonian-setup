@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,1,3,1,3,1,2,5,17,ringo; ameerika; ivo; brian; mccartney; bbc; lennon; vello; john; salumets; maania; biitlid; epstein
-6,4,1,3,1,3,1,2,4,17,ringo; ameerika; ivo; brian; mccartney; bbc; lennon; vello; john; salumets; maania; biitlid; epstein
-6,4,2,3,1,3,1,2,4,17,ringo; ameerika; ivo; brian; mccartney; bbc; lennon; vello; john; salumets; maania; biitlid; epstein
-6,3,2,3,1,3,1,2,4,17,ringo; ameerika; ivo; brian; mccartney; bbc; lennon; vello; john; salumets; maania; biitlid; epstein
-6,4,2,3,1,3,2,4,4,17,ringo; ameerika; ivo; brian; mccartney; bbc; lennon; john; vello; salumets; maania; biitlid; epstein
-5,3,2,3,1,3,2,5,4,17,ameerika; brian; mccartney; john; bbc; lennon; vello; salumets; maania; biitlid; epstein
-3,5,4,7,0,3,3,8,4,17,brian; vello; bbc; maania; biitlid; ameerika; ivo; mccartney; john; lennon; salumets; epstein
-4,6,4,4,0,3,3,4,5,17,ringo; linna; brian; vello; bbc; maania; biitlid; ameerika; ivo; mccartney; john; lennon; salumets; epstein
-5,4,3,5,1,2,0,4,2,17,ameerika; ivo; linna; ringo; brian; mccartney; bbc; john; lennon; maania; biitlid; epstein
-4,6,3,6,1,1,3,3,6,17,ameerika; ivo; linna; ringo; brian; vello; john; bbc; mccartney; lennon; epstein
-2,5,4,6,3,1,2,5,4,17,ameerika; ivo; linna; ringo; brian; mccartney; bbc; lennon; vello; john; fänn; salumets; maania; epstein
+6,4,1,3,1,1,2,5,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; ringo; mccartney; salumets; bbc; ivo
+6,4,1,3,1,1,2,4,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; ringo; mccartney; salumets; bbc; ivo
+6,4,2,3,1,1,2,4,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; ringo; mccartney; salumets; bbc; ivo
+6,3,2,3,1,1,2,4,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; ringo; mccartney; salumets; bbc; ivo
+6,4,2,3,1,2,4,4,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; ringo; mccartney; salumets; bbc; ivo
+5,3,2,3,1,2,5,4,0,17,biitlid; maania; lennon; epstein; brian; ameerika; john; mccartney; salumets; bbc
+3,5,4,7,0,3,8,4,0,17,biitlid; lennon; ameerika; salumets; vello; bbc; maania; epstein; brian; john; mccartney; ivo
+4,6,4,4,0,3,4,5,0,17,biitlid; lennon; linna; ameerika; salumets; vello; bbc; maania; epstein; brian; john; ringo; mccartney; ivo
+5,4,3,5,1,0,4,2,0,17,biitlid; maania; lennon; epstein; linna; brian; ameerika; john; ringo; mccartney; bbc; ivo
+4,6,3,6,1,3,3,6,0,17,lennon; epstein; linna; brian; ameerika; john; ringo; mccartney; vello; bbc; ivo
+2,5,4,6,3,2,5,4,0,17,maania; lennon; epstein; linna; brian; fänn; ameerika; john; ringo; mccartney; salumets; vello; bbc; ivo

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,1,1,2,2,2,0,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-4,2,1,1,2,2,2,0,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-4,2,1,1,2,2,2,0,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-4,2,1,1,2,2,2,0,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-4,2,1,1,2,2,2,1,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-3,2,1,1,2,3,2,1,0,15,paruness; loss; fantaasiapidu; rothschild; helgi
-3,2,2,2,2,3,2,1,0,15,paruness; loss; fantaasiapidu; rothschild; värvitoon; helgi
-0,1,2,1,2,3,2,0,0,15,paruness; loss; fantaasiapidu; rothschild; helgi
-0,1,1,1,2,2,1,2,0,15,paruness; loss; fantaasiapidu; rothschild; helgi
-1,1,2,1,2,1,2,3,0,15,rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-0,2,1,0,2,1,1,2,0,15,paruness; loss; fantaasiapidu; värvitoon; helgi
+4,2,1,1,2,2,2,0,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+4,2,1,1,2,2,2,0,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+4,2,1,1,2,2,2,0,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+4,2,1,1,2,2,2,0,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+4,2,1,1,2,2,2,1,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+3,2,1,1,2,3,2,1,0,15,paruness; fantaasiapidu; helgi; loss; rothschild
+3,2,2,2,2,3,2,1,0,15,paruness; fantaasiapidu; helgi; loss; rothschild; värvitoon
+0,1,2,1,2,3,2,0,0,15,paruness; helgi; fantaasiapidu; loss; rothschild
+0,1,1,1,2,2,1,2,0,15,paruness; helgi; fantaasiapidu; loss; rothschild
+1,1,2,1,2,1,2,3,0,15,helgi; rothschild; paruness; fantaasiapidu; loss; värvitoon
+0,2,1,0,2,1,1,2,0,15,paruness; helgi; fantaasiapidu; loss; värvitoon

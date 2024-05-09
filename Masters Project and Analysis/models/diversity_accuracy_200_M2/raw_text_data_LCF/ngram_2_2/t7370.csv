@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,7,7,6,4,5,7,8,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-8,7,7,6,6,5,7,8,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-8,7,7,6,6,5,8,7,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-7,7,7,6,6,7,8,7,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-6,7,7,6,6,7,7,7,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-7,7,7,7,6,6,8,8,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-7,7,7,7,6,5,8,7,6,12,eero; hääl; raadio; sepling; nukuteater; ferdinand; buratino; kultuuriminister
-6,7,6,7,7,5,8,7,6,12,eero; hääl; raadio; sepling; nukuteater; buratino; ferdinand; kultuuriminister
-5,8,7,7,7,7,7,7,6,12,eero; hääl; raadio; sepling; nukuteater; buratino; ferdinand; kultuuriminister
-5,7,7,7,7,6,7,6,6,12,eero; hääl; raadio; sepling; nukuteater; buratino; ferdinand; kultuuriminister
-5,6,7,8,6,6,7,6,6,12,eero; hääl; raadio; sepling; nukuteater; buratino; ferdinand; kultuuriminister
+8,7,7,6,4,7,8,6,0,12,nukuteater; buratino; eero; hääl; ferdinand; raadio; kultuuriminister; sepling
+8,7,7,6,6,7,8,6,0,12,nukuteater; buratino; eero; hääl; ferdinand; raadio; kultuuriminister; sepling
+8,7,7,6,6,8,7,6,0,12,nukuteater; buratino; eero; hääl; ferdinand; raadio; kultuuriminister; sepling
+7,7,7,6,6,8,7,6,0,12,nukuteater; buratino; eero; hääl; ferdinand; raadio; kultuuriminister; sepling
+6,7,7,6,6,7,7,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+7,7,7,7,6,8,8,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+7,7,7,7,6,8,7,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+6,7,6,7,7,8,7,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+5,8,7,7,7,7,7,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+5,7,7,7,7,7,6,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling
+5,6,7,8,6,7,6,6,0,12,nukuteater; buratino; eero; ferdinand; hääl; raadio; kultuuriminister; sepling

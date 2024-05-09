@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,1,1,0,1,2,1,1,16,venemaa; itaalia; inflatsioon; suurbritannia; eesti
-1,3,1,1,0,1,2,1,1,16,venemaa; itaalia; inflatsioon; suurbritannia; eesti
-1,3,1,1,0,1,2,1,1,16,venemaa; itaalia; inflatsioon; suurbritannia; eesti
-1,3,1,1,0,1,2,1,1,16,venemaa; itaalia; inflatsioon; suurbritannia; eesti
-1,3,3,1,0,1,2,1,1,16,venemaa; itaalia; inflatsioon; suurbritannia; eesti; vare
-2,2,3,1,0,1,2,1,1,16,venemaa; berlusconi; itaalia; inflatsioon; vare; eesti
-1,2,3,0,0,2,2,3,1,16,kai; venemaa; itaalia; inflatsioon; vare; eesti
-1,1,3,1,0,2,3,1,1,16,itaalia; venemaa; suurbritannia; eesti; inflatsioon
-0,2,3,2,0,2,2,1,1,16,itaalia; venemaa; eesti; inflatsioon
-0,1,2,2,0,3,2,2,1,16,venemaa; itaalia; josing; inflatsioon; suurbritannia; eesti
-0,1,1,2,0,2,2,2,1,16,silvio; venemaa; berlusconi; itaalia; inflatsioon; vare; eesti
+1,3,1,1,0,2,1,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+1,3,1,1,0,2,1,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+1,3,1,1,0,2,1,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+1,3,1,1,0,2,1,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+1,3,3,1,0,2,1,1,0,16,itaalia; vare; eesti; venemaa; suurbritannia; inflatsioon
+2,2,3,1,0,2,1,1,0,16,itaalia; vare; eesti; venemaa; inflatsioon; berlusconi
+1,2,3,0,0,2,3,1,0,16,itaalia; vare; eesti; venemaa; kai; inflatsioon
+1,1,3,1,0,3,1,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+0,2,3,2,0,2,1,1,0,16,itaalia; eesti; venemaa; inflatsioon
+0,1,2,2,0,2,2,1,0,16,itaalia; eesti; venemaa; suurbritannia; inflatsioon
+0,1,1,2,0,2,2,1,0,16,itaalia; vare; eesti; venemaa; silvio; inflatsioon; berlusconi

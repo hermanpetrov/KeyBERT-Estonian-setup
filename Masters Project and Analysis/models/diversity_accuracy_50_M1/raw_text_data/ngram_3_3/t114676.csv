@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,2,2,5,2,3,4,3,17,petrov; uno; nsv; andrei; laul; aasta; naissoo; levimuusika; liit; bob
-3,4,2,2,5,2,3,4,3,17,petrov; uno; nsv; andrei; laul; aasta; naissoo; levimuusika; liit; bob
-3,4,2,2,5,2,3,4,3,17,petrov; uno; nsv; andrei; laul; aasta; naissoo; levimuusika; liit; bob
-3,4,2,2,5,2,3,4,3,17,petrov; uno; nsv; andrei; laul; aasta; naissoo; levimuusika; liit; bob
-3,3,3,2,5,2,3,4,3,17,petrov; uno; nsv; andrei; aasta; laul; naissoo; levimuusika; bob
-5,4,4,3,5,4,4,4,3,17,petrov; uno; nsv; andrei; kustas; laul; aasta; naissoo; levimuusika; bob
-5,2,4,4,5,4,4,4,3,17,uno; nsv; laul; aasta; naissoo; levimuusika; bob
-3,5,4,5,5,2,3,4,3,17,uno; nsv; laul; aasta; naissoo; levimuusika; liit; bob
-2,4,5,5,5,4,3,4,5,17,uno; petrov; nsv; andrei; kikerpuu; laul; aasta; naissoo; levimuusika; liit; bob
-2,3,4,5,4,5,4,3,5,17,uno; petrov; nsv; andrei; kikerpuu; kustas; aasta; laul; naissoo; levimuusika; bob
-3,3,2,4,3,6,3,3,3,17,uno; petrov; nsv; andrei; kikerpuu; kustas; laul; aasta; naissoo; levimuusika; bob
+3,4,2,2,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; naissoo; laul; liit
+3,4,2,2,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; naissoo; laul; liit
+3,4,2,2,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; naissoo; laul; liit
+3,4,2,2,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; naissoo; laul; liit
+3,3,3,2,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; naissoo; laul
+5,4,4,3,5,4,4,4,3,17,uno; nsv; kustas; levimuusika; petrov; aasta; bob; andrei; naissoo; laul
+5,2,4,4,5,4,4,4,3,17,uno; nsv; levimuusika; aasta; bob; naissoo; laul
+3,5,4,5,5,2,3,4,3,17,uno; nsv; levimuusika; aasta; bob; naissoo; laul; liit
+2,4,5,5,5,4,3,4,5,17,uno; nsv; levimuusika; aasta; petrov; bob; andrei; kikerpuu; naissoo; laul; liit
+2,3,4,5,4,5,4,3,5,17,uno; nsv; kustas; levimuusika; aasta; petrov; bob; andrei; kikerpuu; naissoo; laul
+3,3,2,4,3,6,3,3,3,17,uno; nsv; kustas; levimuusika; aasta; petrov; bob; andrei; kikerpuu; naissoo; laul

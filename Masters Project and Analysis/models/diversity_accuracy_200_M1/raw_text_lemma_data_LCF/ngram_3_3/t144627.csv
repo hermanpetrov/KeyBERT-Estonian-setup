@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,2,6,2,4,5,4,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-6,1,2,6,2,5,5,4,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-6,1,2,6,2,5,5,5,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-4,2,3,6,2,5,6,6,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-4,2,5,6,2,6,7,6,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-6,2,6,5,1,8,6,6,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-5,3,6,7,3,8,7,7,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-3,3,6,5,2,7,7,8,4,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-5,5,6,4,4,6,7,5,5,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-3,6,7,4,4,6,7,7,5,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
-5,4,8,4,6,6,7,7,6,14,lenk; õpilane; kriitika; näitleja; viktor; marje; nõudmine; juhan
+7,3,2,8,2,5,5,5,5,14,kriitika; unenägu; viktor; näitleja; marje; ebaõnnestumine; õpilane; nõudmine; juhan; lavakunstikateeder; lenk
+9,3,3,8,2,6,5,5,5,14,kriitika; unenägu; viktor; näitleja; marje; ebaõnnestumine; õpilane; nõudmine; juhan; lavakunstikateeder; lenk
+9,2,3,8,2,6,5,6,5,14,kriitika; unenägu; viktor; näitleja; marje; ebaõnnestumine; õpilane; nõudmine; juhan; lavakunstikateeder; lenk
+7,3,4,8,2,6,9,7,5,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+6,3,5,8,2,7,10,7,5,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+9,3,7,6,2,10,8,9,6,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+7,6,7,8,4,10,8,10,6,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+5,5,8,6,3,8,8,10,6,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+7,7,7,6,5,9,10,8,7,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+5,8,9,5,5,9,8,10,7,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine
+6,7,10,4,8,9,9,10,8,14,kriitika; viktor; näitleja; marje; juhan; lavakunstikateeder; lenk; unenägu; ebaõnnestumine; õpilane; nõudmine

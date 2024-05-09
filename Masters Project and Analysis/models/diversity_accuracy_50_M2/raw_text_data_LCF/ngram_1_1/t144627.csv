@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,0,0,0,2,0,12,lavakunstikateeder; tõnu; näitleja; ebaõnnestumine
-2,0,1,1,0,0,0,2,0,12,lavakunstikateeder; tõnu; näitleja; ebaõnnestumine
-2,0,1,1,0,0,0,2,0,12,lavakunstikateeder; tõnu; näitleja; ebaõnnestumine
-2,0,1,1,0,0,0,2,0,12,lavakunstikateeder; tõnu; näitleja; ebaõnnestumine
-2,0,0,1,0,0,0,2,0,12,lavakunstikateeder; tõnu; näitleja; ebaõnnestumine
-1,0,0,1,0,0,0,0,0,12,lavakunstikateeder; ebaõnnestumine
-0,1,0,1,0,0,0,1,0,12,lavakunstikateeder; draamateater
+2,0,1,1,0,0,2,0,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; tõnu
+2,0,1,1,0,0,2,0,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; tõnu
+2,0,1,1,0,0,2,0,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; tõnu
+2,0,1,1,0,0,2,0,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; tõnu
+2,0,0,1,0,0,2,0,0,12,ebaõnnestumine; lavakunstikateeder; näitleja; tõnu
+1,0,0,1,0,0,0,0,0,12,ebaõnnestumine; lavakunstikateeder
+0,1,0,1,0,0,1,0,0,12,lavakunstikateeder; draamateater
 0,2,0,0,0,0,0,0,0,12,lavakunstikateeder; tõnu
 0,0,0,1,0,0,0,0,0,12,draamateater
-1,1,0,1,0,0,0,2,0,12,lavakunstikateeder; draamateater; smuul; juhan
-0,1,0,1,0,0,0,2,0,12,lavakunstikateeder; draamateater; smuul; juhan
+1,1,0,1,0,0,2,0,0,12,lavakunstikateeder; juhan; smuul; draamateater
+0,1,0,1,0,0,2,0,0,12,lavakunstikateeder; juhan; smuul; draamateater

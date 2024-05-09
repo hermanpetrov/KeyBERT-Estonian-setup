@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,1,3,1,1,2,2,2,1,11,ferdinand; buratino; hääl; artikulatsioon
-3,0,3,2,1,2,2,2,1,11,ferdinand; buratino; aleksei; hääl; artikulatsioon
-6,1,3,2,1,4,3,3,2,11,hääl; artikulatsioon; jaapan; tolstoi; buratino; aleksei; ferdinand
-3,1,3,2,1,4,4,4,2,11,hääl; artikulatsioon; tolstoi; ferdinand; buratino; aleksei
-3,0,2,1,1,2,3,3,2,11,ferdinand; buratino; aleksei; hääl; artikulatsioon
-3,1,4,3,0,4,3,3,3,11,hääl; tolstoi; ferdinand; buratino; aleksei
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,1,4,3,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; artikulatsioon
+3,0,3,4,2,3,3,3,1,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; aleksei; artikulatsioon
+7,1,3,3,2,4,4,4,2,11,kuuldemäng; buratino; tolstoi; nukuteater; jaapan; hääl; ferdinand; aleksei; artikulatsioon
+3,1,3,2,2,4,5,5,2,11,nukuteater; buratino; tolstoi; kuuldemäng; hääl; ferdinand; aleksei; artikulatsioon
+4,0,2,2,2,3,3,4,2,11,nukuteater; buratino; hääl; ferdinand; kuuldemäng; aleksei; artikulatsioon
+4,1,4,3,1,5,4,4,3,11,nukuteater; buratino; tolstoi; kuuldemäng; hääl; ferdinand; aleksei

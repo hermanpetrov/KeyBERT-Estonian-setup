@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
-0,0,1,0,0,0,0,0,0,17,ameerika
-0,0,1,0,0,0,0,0,0,17,ameerika
-0,0,1,0,0,1,0,0,0,17,ringo; biitel
-0,0,0,0,0,2,0,0,0,17,ameerika; maania
-0,2,0,1,0,3,1,0,0,17,ameerika; salumets; maania; bbc
-0,1,1,1,0,2,1,0,0,17,ameerika; salumets; maania; bbc
-0,0,0,1,0,1,1,0,0,17,vello; bbc; maania
-1,1,0,1,0,1,0,0,0,17,bbc; epstein; maania
+0,1,0,0,0,0,0,0,0,17,rokkmuusik
+0,1,0,0,0,0,0,0,0,17,rokkmuusik
+0,1,0,0,0,0,0,0,0,17,rokkmuusik
+0,1,1,0,0,0,0,0,0,17,ameerika; rokkmuusik
+0,1,1,0,0,0,0,0,0,17,ameerika; rokkmuusik
+0,1,1,0,0,2,0,0,0,17,biitel; ringo; rokkmuusik
+0,1,0,0,0,4,0,0,0,17,maania; unenägu; ameerika; rokkmuusik
+0,2,0,1,0,4,1,0,0,17,maania; salumets; unenägu; bbc; ameerika
+1,1,1,1,0,3,1,1,0,17,maania; salumets; unenägu; bbc; ameerika; rokkmuusik
+1,0,0,1,0,2,1,1,0,17,maania; unenägu; vello; bbc; rokkmuusik
+2,1,0,1,0,2,0,1,0,17,maania; unenägu; epstein; bbc; rokkmuusik

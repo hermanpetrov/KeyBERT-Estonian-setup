@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,2,0,0,0,0,0,11,vagun; jaam
 1,0,0,2,0,0,0,0,0,11,vagun; jaam
 1,0,0,2,0,0,0,0,0,11,vagun; jaam
-0,0,0,2,0,0,0,1,0,11,vagun; jaam; punaarmee
-0,0,0,0,0,0,0,1,0,11,punaarmee
-0,0,0,0,0,0,0,1,0,11,punaarmee
-0,0,0,0,0,0,0,1,0,11,laager
-0,0,0,0,1,0,0,1,1,11,laager; maha
-0,0,1,0,2,0,0,1,0,11,vagun; punaarmee; laager; maha
+0,0,0,2,0,0,1,0,0,11,punaarmee; vagun; jaam
+0,0,0,0,0,0,1,0,0,11,punaarmee
+0,0,0,0,0,0,1,0,0,11,punaarmee
+0,0,0,0,0,0,1,0,0,11,laager
+0,0,0,0,1,0,1,1,0,11,maha; laager
+0,0,1,0,2,0,1,0,0,11,laager; punaarmee; maha; vagun

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; metsamaa; soomaa; tänutunne
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; metsamaa; soomaa; tänutunne
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; metsamaa; soomaa; tänutunne
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; metsamaa; soomaa; tänutunne
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; metsamaa; soomaa; tänutunne
-1,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; tänutunne; soomaa
-2,3,1,0,0,1,1,1,0,12,tantsupidu; isetegemine; soomaa; tänutunne
+2,3,1,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; isetegemine; metsamaa
+2,3,1,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; isetegemine; metsamaa
+2,3,1,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; isetegemine; metsamaa
+2,3,1,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; isetegemine; metsamaa
+2,3,1,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; isetegemine; metsamaa
+1,3,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; soomaa; isetegemine
+2,3,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; soomaa; isetegemine
 1,3,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; isetegemine
 1,1,1,0,0,1,1,1,0,12,tantsupidu; vaike
 1,1,1,2,0,1,1,1,0,12,tantsupidu; vaike; heinamaa
-2,1,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; mait; isetegemine
+2,1,1,0,0,1,1,1,0,12,tantsupidu; mait; tänutunne; isetegemine

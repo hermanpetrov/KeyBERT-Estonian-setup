@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,2,1,4,3,3,1,18,parvlaev; staadion; rebane; pärt; petser; kalev; arvo
-0,0,3,2,1,4,3,3,1,18,parvlaev; staadion; rebane; pärt; petser; kalev; arvo
-0,0,3,2,1,4,3,3,1,18,parvlaev; staadion; rebane; pärt; petser; kalev; arvo
-0,0,3,2,1,4,3,3,1,18,parvlaev; staadion; rebane; pärt; petser; kalev; arvo
-0,0,3,2,1,4,3,4,1,18,parvlaev; staadion; rebane; pärt; petser; kalev; ilves; arvo
-1,0,3,2,1,3,3,5,1,18,parvlaev; staadion; rebane; pärt; mari; petser; kalev; ilves; arvo
-0,0,2,5,1,2,5,7,1,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; mari; petser; kalev; ilves; arvo
-1,1,2,2,1,2,4,6,1,18,parvlaev; staadion; rebane; pärt; toomas; mari; hendrik; petser; kalev; ilves; arvo
-0,1,2,4,2,2,4,5,1,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; mari; petser; kalev; arvo
-1,1,3,4,2,4,7,5,1,18,parvlaev; staadion; rebane; pärt; toomas; ukraina; mari; hendrik; petser; kalev; arvo
-1,0,6,4,2,4,6,2,1,18,parvlaev; staadion; pärt; toomas; ukraina; mari; hendrik; petser; kalev; ilves; arvo
+1,1,3,3,1,6,3,3,1,18,staadion; korvpall; pärt; ühisgümnaasium; rebane; kalev; petser; parvlaev; arvo
+1,1,3,3,1,6,3,3,1,18,staadion; korvpall; pärt; ühisgümnaasium; rebane; kalev; petser; parvlaev; arvo
+1,1,3,3,1,6,3,3,1,18,staadion; korvpall; pärt; ühisgümnaasium; rebane; kalev; petser; parvlaev; arvo
+1,1,3,3,1,6,3,3,1,18,staadion; korvpall; pärt; ühisgümnaasium; rebane; kalev; petser; parvlaev; arvo
+2,1,4,3,1,6,3,4,1,18,jaekaubandus; staadion; korvpall; pärt; ühisgümnaasium; ilves; rebane; kalev; petser; parvlaev; arvo
+1,1,3,3,1,6,3,5,1,18,jaekaubandus; staadion; mari; korvpall; pärt; ühisgümnaasium; ilves; rebane; kalev; petser; parvlaev; arvo
+1,1,3,5,1,4,7,7,1,18,jaekaubandus; staadion; ukraina; mari; korvpall; pärt; ühisgümnaasium; toomas; ilves; rebane; kalev; petser; parvlaev; arvo
+1,3,2,2,1,2,4,6,1,18,jaekaubandus; staadion; mari; pärt; ühisgümnaasium; toomas; ilves; rebane; kalev; hendrik; petser; parvlaev; arvo
+0,3,2,4,2,3,4,5,1,18,jaekaubandus; staadion; mari; ukraina; pärt; ühisgümnaasium; toomas; rebane; kalev; petser; parvlaev; arvo
+1,2,3,4,2,4,8,5,1,18,staadion; mari; ukraina; pärt; ühisgümnaasium; toomas; rebane; kalev; hendrik; petser; parvlaev; arvo
+1,1,6,4,2,4,6,3,1,18,mari; staadion; ukraina; pärt; ühisgümnaasium; toomas; ilves; kalev; hendrik; petser; parvlaev; arvo

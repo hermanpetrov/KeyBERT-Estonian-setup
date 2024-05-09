@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,3,0,1,0,0,1,14,kirjandus; palmik; ain; hiidlane; tants
-1,1,0,3,0,1,0,0,1,14,kirjandus; palmik; ain; hiidlane; tants
-1,1,0,3,0,1,0,0,1,14,kirjandus; palmik; ain; hiidlane; tants
-1,1,0,3,0,1,0,0,1,14,kirjandus; palmik; ain; hiidlane; tants
-1,1,0,3,0,0,0,0,1,14,kirjandus; palmik; hiidlane; tants
-1,1,0,3,0,2,0,0,1,14,kirjandus; palmik; hiidlane; tants; purjetamine
-1,1,0,3,0,0,0,0,1,14,hiidlane; ain; purjetamine; tants; kalmus
-1,1,1,1,0,0,0,1,1,14,purjetamine; hiidlane; palmik
-2,3,1,0,0,0,0,1,0,14,kirjandus; hiidlane; palmik; tants
-2,0,0,0,0,0,1,0,0,14,hiidlane; kirjandus; tants
-1,0,2,1,0,0,1,0,1,14,hiidlane; kirjandus; tants; kalmus
+2,3,2,5,0,1,2,1,3,14,hiiumaa; nõelakoda; ain; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+2,3,2,5,0,1,2,1,3,14,hiiumaa; nõelakoda; ain; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+2,3,2,5,0,1,2,1,3,14,hiiumaa; nõelakoda; ain; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+2,3,2,5,0,1,2,1,3,14,hiiumaa; nõelakoda; ain; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+2,3,2,5,0,0,2,1,3,14,hiiumaa; nõelakoda; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+2,2,1,5,0,4,2,2,3,14,hiiumaa; rahvariie; purjetamine; palmik; keskväljak; kirjandus; hiidlane; tants
+2,3,1,5,0,1,3,2,3,14,hiiumaa; nõelakoda; kalmus; meresõit; ain; purjetamine; rahvariie; keskväljak; hiidlane; tants
+2,2,1,2,0,2,1,3,3,14,hiiumaa; purjetamine; rahvariie; palmik; keskväljak; hiidlane
+4,4,1,1,1,2,1,2,1,14,hiiumaa; rahvariie; palmik; keskväljak; kirjandus; hiidlane; tants
+3,1,0,1,1,1,2,2,1,14,hiiumaa; keskväljak; kirjandus; hiidlane; tants
+2,1,3,2,1,1,1,3,2,14,hiiumaa; rahvariie; kalmus; keskväljak; kirjandus; hiidlane; tants

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,7,7,7,5,6,7,7,5,15,hellar; grabbi; sisseveo; venemaa; tõnis; linnapea; george; palts; bush; haigekassa; keeld
-9,7,7,7,5,6,7,7,7,15,hellar; grabbi; sisseveo; venemaa; tõnis; linnapea; george; palts; bush; haigekassa; keeld
-9,8,7,7,5,4,6,8,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-9,8,9,6,6,4,7,9,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-9,9,10,8,6,4,6,9,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-9,9,10,9,6,7,6,9,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-8,10,8,8,7,11,8,10,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-8,8,10,7,7,11,10,9,7,15,hellar; grabbi; sisseveo; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-7,9,8,6,7,11,11,8,6,15,hellar; sisseveo; grabbi; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-6,7,8,6,8,10,10,9,9,15,sisseveo; hellar; grabbi; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
-7,8,10,9,8,10,10,9,9,15,sisseveo; grabbi; hellar; venemaa; george; palts; tõnis; linnapea; bush; haigekassa; keeld
+9,7,7,7,5,7,7,5,0,15,venemaa; haigekassa; grabbi; palts; sisseveo; hellar; tõnis; keeld; george; bush; linnapea
+9,7,7,7,5,7,7,7,0,15,venemaa; haigekassa; grabbi; palts; sisseveo; hellar; tõnis; keeld; george; bush; linnapea
+9,8,7,7,5,6,8,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+9,8,9,6,6,7,9,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+9,9,10,8,6,6,9,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+9,9,10,9,6,6,9,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+8,10,8,8,7,8,10,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+8,8,10,7,7,10,9,7,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; keeld; tõnis; george
+7,9,8,6,7,11,8,6,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; hellar; tõnis; keeld; george
+6,7,8,6,8,10,9,9,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; keeld; tõnis; hellar; george
+7,8,10,9,8,10,9,9,0,15,grabbi; palts; bush; linnapea; venemaa; haigekassa; sisseveo; keeld; tõnis; hellar; george

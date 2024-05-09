@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,0,0,11,küüditama
-0,0,0,0,0,0,1,0,0,11,küüditama
-0,0,0,0,0,0,1,0,0,11,küüditama
-0,0,0,0,0,0,1,0,0,11,küüditama
-0,0,0,0,0,0,0,0,0,11,
-0,1,0,0,0,0,0,0,0,11,ohvitser
-0,1,0,1,0,0,0,0,0,11,laager; ohvitser
-0,1,0,0,0,0,0,0,0,11,laager
+1,0,0,0,0,0,1,0,0,11,sundasumine; küüditama
+1,0,0,0,0,0,1,0,0,11,sundasumine; küüditama
+1,0,0,0,0,0,1,0,0,11,sundasumine; küüditama
+1,0,0,0,0,0,1,0,0,11,sundasumine; küüditama
+1,0,0,0,0,0,0,0,0,11,sundasumine
+1,1,0,0,0,0,0,0,0,11,sundasumine; ohvitser
+1,1,0,2,0,0,0,0,0,11,sundasumine; ohvitser; punaarmee; laager
+1,1,0,0,0,0,0,0,0,11,sundasumine; laager
 0,0,0,0,0,0,0,0,0,11,
 0,0,0,1,0,0,0,0,0,11,laager
 0,0,0,1,0,0,0,0,0,11,laager

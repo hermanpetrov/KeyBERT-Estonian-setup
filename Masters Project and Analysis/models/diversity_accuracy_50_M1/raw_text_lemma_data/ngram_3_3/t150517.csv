@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,6,6,4,4,4,2,5,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,4,4,4,2,5,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,4,4,4,2,5,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,4,4,4,2,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,4,4,4,2,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,4,3,4,2,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,5,6,4,3,4,4,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,6,5,4,5,4,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-6,5,6,6,4,5,5,4,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-6,5,6,5,4,5,6,4,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
-5,5,6,5,4,5,6,6,4,10,akordion; naine; lõuna-eesti; vana; tants; noor
+6,9,8,9,4,6,6,5,7,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+6,9,8,9,4,6,6,5,7,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+6,9,8,9,4,6,6,5,7,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+6,9,8,9,4,6,6,5,6,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+6,9,8,9,4,6,6,5,6,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+6,9,8,9,4,5,6,5,6,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+7,9,7,9,4,5,6,7,6,10,naine; tants; vana; laulusõna; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+7,9,8,9,5,6,7,7,6,10,naine; vana; tants; laulusõna; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+8,9,9,8,4,7,7,7,6,10,naine; tants; laulusõna; vana; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees
+8,9,8,7,4,7,8,7,6,10,laulusõna; suvepäev; noor; akordion; vana; lõuna-eesti; pillimäng; naine; pillimees; tants
+6,9,9,7,4,7,8,9,6,10,naine; vana; laulusõna; tants; suvepäev; noor; akordion; lõuna-eesti; pillimäng; pillimees

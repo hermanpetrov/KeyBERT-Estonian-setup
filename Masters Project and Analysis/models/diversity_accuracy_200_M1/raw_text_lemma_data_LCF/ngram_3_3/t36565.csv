@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,4,3,1,3,3,7,8,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-8,5,4,3,1,3,3,7,8,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-8,5,6,3,1,3,3,7,8,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-9,5,7,3,1,3,3,7,8,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-8,5,7,3,1,4,3,7,7,14,mets; kirik; reimo; vaino; võim; õigus; geiaktivine; ühiskond; lahusus; jurist; urmas
-8,5,6,5,3,5,4,8,5,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-2,6,7,7,3,8,6,6,5,14,mets; kirik; reimo; vaino; võim; õigus; geiaktivine; ühiskond; jurist; urmas
-5,6,8,6,3,7,7,8,6,14,mets; reimo; võim; õigus; lahusus; urmas; kirik; vaino; geiaktivine; ühiskond; jurist
-5,6,8,6,6,9,5,8,6,14,kirik; mets; reimo; vaino; õigus; geiaktivine; ühiskond; jurist; urmas
-5,7,7,6,6,8,7,7,6,14,kirik; mets; reimo; vaino; võim; õigus; geiaktivine; ühiskond; lahusus; jurist; urmas
-5,6,7,6,7,5,7,6,4,14,kirik; mets; reimo; vaino; võim; õigus; geiaktivine; ühiskond; jurist; urmas
+9,6,5,6,2,3,3,7,9,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+9,6,5,6,2,3,3,8,9,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+10,6,7,6,2,3,3,8,9,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+11,6,8,6,2,3,3,8,9,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+10,6,9,6,2,4,3,8,8,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+9,6,6,6,3,6,4,9,6,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+2,7,7,8,3,9,6,7,6,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; jurist; õigus; ühiskond; võim; geiaktivine
+5,8,9,8,3,9,7,10,7,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+5,8,8,8,6,11,5,9,7,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; õigus; jurist; ühiskond; perekonnaprobleem; geiaktivine
+5,8,7,8,6,9,8,8,8,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; lahusus; õigus; jurist; ühiskond; perekonnaprobleem; võim; geiaktivine
+5,7,7,8,7,5,8,7,5,14,urmas; samasooline; reimo; abielu; vaino; mets; kirik; õigus; jurist; ühiskond; võim; geiaktivine

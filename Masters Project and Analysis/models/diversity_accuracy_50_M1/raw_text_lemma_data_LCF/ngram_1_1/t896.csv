@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,1,0,1,12,tund; sport; ain
-0,1,0,0,0,1,1,0,1,12,tund; sport; ain
-0,1,0,0,0,1,1,0,1,12,tund; sport; ain
-0,1,0,0,0,1,1,0,1,12,tund; sport; ain
-0,1,0,0,0,1,1,0,1,12,tund; sport; ain
-0,0,1,0,0,1,0,0,1,12,sport; maraton; ain
-0,1,0,0,0,0,0,0,1,12,sport; maraton
-0,1,0,0,0,1,0,1,1,12,ujumine; sport; maraton; ain
-0,0,0,0,0,0,0,0,1,12,sport
-0,1,0,0,0,0,2,0,0,12,triatlon; ain
-1,0,0,0,0,0,1,0,0,12,ujumine; triatlon
+1,1,0,1,0,1,1,1,1,12,ain; täispikk; vastupidavussport; sport; tund
+1,1,0,1,0,1,1,1,1,12,ain; täispikk; vastupidavussport; sport; tund
+1,1,0,1,0,1,1,1,1,12,ain; täispikk; vastupidavussport; sport; tund
+1,1,0,1,0,1,1,0,1,12,ain; vastupidavussport; sport; tund
+1,1,0,1,0,1,1,0,1,12,ain; vastupidavussport; sport; tund
+1,0,1,1,0,1,0,1,1,12,ain; täispikk; vastupidavussport; maraton; sport
+1,1,0,1,0,0,0,0,1,12,vastupidavussport; maraton; sport
+2,1,0,0,0,1,0,3,1,12,ain; ujumine; vastupidavussport; maraton; sport; rattasõit
+1,0,1,0,0,0,0,1,1,12,rattasõit; täispikk; vastupidavussport; sport
+0,1,0,0,0,0,2,1,0,12,ain; rattasõit; triatlon
+2,0,0,0,0,0,1,0,0,12,ujumine; triatlon; vastupidavussport

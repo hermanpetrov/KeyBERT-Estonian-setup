@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,0,1,0,13,süntesaator; holland; sampel
-1,1,1,1,0,1,0,1,1,13,solex; süntesaator; holland; sampel
-1,1,1,1,0,1,0,1,1,13,solex; süntesaator; holland; sampel
-1,1,1,1,0,1,0,1,1,13,solex; süntesaator; holland; sampel
-1,1,1,1,0,1,0,1,1,13,solex; süntesaator; holland; sampel
-2,1,2,1,0,1,0,1,1,13,elektroonika; holland; sampel; solex; süntesaator
-2,1,2,1,0,1,0,1,1,13,elektroonika; holland; sampel; solex; süntesaator
-1,1,2,3,0,1,1,1,1,13,elektroonika; holland; sampel; solex; süntesaator
-0,1,2,2,0,0,1,1,1,13,elektroonika; holland; sampel; solex; süntesaator
-0,1,1,0,0,1,1,2,1,13,solex; süntesaator; holland; sampel
-0,0,1,0,0,1,1,2,3,13,elektroonika; holland; sampel; solex; süntesaator
+2,5,3,3,1,3,1,4,1,13,elizabeth; süntesaator; populaarmuusika; sampel; sooloettevõtmine; rokkansambel; esselink; holland
+2,5,3,3,1,3,1,4,2,13,elizabeth; süntesaator; populaarmuusika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+2,5,3,3,1,3,1,4,2,13,elizabeth; süntesaator; populaarmuusika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+2,5,3,3,1,3,1,4,2,13,elizabeth; süntesaator; populaarmuusika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+2,5,3,3,1,3,1,5,2,13,elizabeth; süntesaator; populaarmuusika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+3,5,4,3,1,3,1,5,2,13,elizabeth; süntesaator; populaarmuusika; elektroonika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+4,5,5,3,1,4,2,6,2,13,elizabeth; süntesaator; populaarmuusika; elektripill; elektroonika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+2,5,5,7,1,5,3,5,2,13,elizabeth; süntesaator; populaarmuusika; elektripill; elektroonika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+1,5,4,3,1,3,4,6,2,13,elizabeth; süntesaator; populaarmuusika; elektripill; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,5,3,1,2,3,4,6,2,13,elizabeth; süntesaator; populaarmuusika; elektripill; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex
+4,3,4,1,2,2,3,5,4,13,elizabeth; süntesaator; populaarmuusika; elektripill; elektroonika; sampel; sooloettevõtmine; rokkansambel; esselink; holland; solex

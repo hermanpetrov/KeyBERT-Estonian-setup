@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,0,1,2,15,ameerika; eric; power; singel; one
-0,0,1,0,1,0,0,1,2,15,ameerika; eric; power; singel; one
-0,0,1,0,1,0,0,1,2,15,ameerika; eric; power; singel; one
-0,0,1,0,1,0,0,1,2,15,ameerika; eric; power; singel; one
-0,0,1,0,1,0,0,1,2,15,ameerika; eric; power; singel; one
-0,0,0,0,1,0,0,0,2,15,eric; power; one
-0,0,0,0,1,1,0,0,2,15,eric; power; one
-0,1,0,1,1,1,0,1,2,15,ameerika; eric; power; one; edetabel; euroopa
-0,1,0,2,1,1,0,0,3,15,ameerika; eric; power; one; b; edetabel; euroopa
-0,1,1,2,2,1,0,0,2,15,ameerika; power; one; b; edetabel; euroopa
-0,1,1,1,2,1,0,0,2,15,ameerika; power; b; one; euroopa
+0,0,1,0,1,0,1,2,0,15,one; eric; singel; power; ameerika
+0,0,1,0,1,0,1,2,0,15,one; eric; singel; power; ameerika
+0,0,1,0,1,0,1,2,0,15,one; eric; singel; power; ameerika
+0,0,1,0,1,0,1,2,0,15,one; eric; singel; power; ameerika
+0,0,1,0,1,0,1,2,0,15,one; eric; singel; power; ameerika
+0,0,0,0,1,0,0,2,0,15,one; power; eric
+0,0,0,0,1,0,0,2,0,15,one; power; eric
+0,1,0,1,1,0,1,2,0,15,one; eric; edetabel; euroopa; power; ameerika
+0,1,0,2,1,0,0,3,0,15,b; one; eric; edetabel; euroopa; power; ameerika
+0,1,1,2,2,0,0,2,0,15,b; one; edetabel; euroopa; power; ameerika
+0,1,1,1,2,0,0,2,0,15,b; one; euroopa; power; ameerika

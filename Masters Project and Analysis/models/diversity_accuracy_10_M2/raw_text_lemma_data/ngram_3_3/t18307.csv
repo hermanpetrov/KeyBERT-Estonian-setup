@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-1,1,1,1,0,0,0,0,0,12,hõff; euroopa
-2,1,1,1,0,0,0,0,0,12,hõff; jaapan; euroopa
-1,0,0,0,0,0,1,0,0,12,hanno; euroopa
-1,1,0,1,0,0,0,0,0,12,euroopa; gruusia
-1,0,0,0,0,1,1,0,0,12,hanno; gruusia
-0,0,0,0,0,1,0,0,0,12,hanno
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,2,1,2,1,2,2,1,1,12,hõff; euroopa; eelarve; jaapan; haigekassa
+2,1,0,1,1,2,3,1,1,12,euroopa; eelarve; hanno; haigekassa
+2,2,0,2,1,2,2,1,1,12,gruusia; euroopa; eelarve; haigekassa
+1,1,0,1,1,2,3,1,1,12,gruusia; eelarve; hanno; haigekassa
+0,2,1,1,1,2,1,1,1,12,eelarve; hanno; haigekassa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,2,4,4,3,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-3,1,2,2,4,4,3,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-3,1,2,2,4,4,3,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-3,1,3,2,4,4,3,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-3,0,4,2,4,5,2,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-4,1,5,2,4,5,2,5,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-4,1,4,2,4,4,5,6,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-4,2,4,2,3,3,5,4,1,10,stuudio; direktor; toimetus; televisioon; saade; koosolek
-2,0,3,1,2,4,5,4,1,10,stuudio; direktor; toimetus; televisioon; saade; koosolek
-1,1,4,1,2,3,4,4,1,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
-1,1,3,2,3,2,4,5,3,10,stuudio; direktor; toimetus; režissöör; televisioon; saade; koosolek
+3,1,2,2,4,4,3,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+3,1,2,2,4,4,3,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+3,1,2,2,4,4,3,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+3,1,3,2,4,4,3,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+3,0,4,2,4,5,2,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+4,1,5,2,4,5,2,5,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+4,1,4,2,4,4,5,6,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+4,2,4,2,3,3,5,4,1,10,toimetus; direktor; saade; koosolek; stuudio; televisioon
+2,0,3,1,2,4,5,4,1,10,toimetus; direktor; saade; koosolek; stuudio; televisioon
+1,1,4,1,2,3,4,4,1,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon
+1,1,3,2,3,2,4,5,3,10,toimetus; direktor; saade; režissöör; koosolek; stuudio; televisioon

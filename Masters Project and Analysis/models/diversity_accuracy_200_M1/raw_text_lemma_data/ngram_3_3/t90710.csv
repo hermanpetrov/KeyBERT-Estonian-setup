@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,9,6,5,8,7,8,8,7,13,isolatsioon; sajand; vitamiin; peeter; nakkus; hellat; töö; lõpp; meditsiin
-8,9,7,5,8,7,8,8,7,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin
-9,9,8,5,8,7,8,7,7,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin
-9,9,8,5,8,8,8,8,7,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin
-8,9,8,5,8,9,8,8,7,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin
-9,9,9,5,8,9,8,9,7,13,töö; hellat; lõpp; sajand; isolatsioon; vitamiin; peeter; nakkus; meditsiin
-9,9,9,7,9,9,9,9,7,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; nakkus; meditsiin; hellat
-9,9,9,8,9,9,9,9,8,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; nakkus; meditsiin; hellat
-8,9,9,9,9,9,9,9,8,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; nakkus; meditsiin; hellat
-9,9,9,9,9,9,9,9,8,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; nakkus; meditsiin; hellat
-9,9,9,9,9,9,9,9,8,13,töö; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin; hellat
+9,11,8,7,9,9,10,10,9,13,lõpp; sajand; töö; arstiteadus; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+10,11,9,7,9,9,10,10,9,13,lõpp; sajand; töö; arstiteadus; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+11,11,10,7,9,9,10,9,9,13,lõpp; sajand; töö; arstiteadus; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+11,11,10,7,9,10,10,10,9,13,lõpp; sajand; töö; arstiteadus; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+10,11,10,7,9,11,10,10,9,13,lõpp; sajand; arstiteadus; töö; isolatsioon; vitamiin; nakkus; pidalitõbi; peeter; hellat; meditsiin
+11,11,11,7,9,11,10,11,9,13,lõpp; sajand; arstiteadus; töö; isolatsioon; vitamiin; nakkus; pidalitõbi; peeter; hellat; meditsiin
+11,11,11,9,11,11,11,11,9,13,lõpp; sajand; arstiteadus; töö; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+11,11,11,10,11,11,11,11,10,13,lõpp; sajand; arstiteadus; töö; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+10,11,11,11,11,11,11,11,10,13,lõpp; sajand; arstiteadus; töö; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+11,11,11,11,11,11,11,11,10,13,lõpp; sajand; arstiteadus; töö; isolatsioon; meditsiin; nakkus; pidalitõbi; peeter; hellat; vitamiin
+11,11,11,11,11,11,11,11,10,13,lõpp; sajand; arstiteadus; töö; isolatsioon; vitamiin; nakkus; pidalitõbi; peeter; hellat; meditsiin

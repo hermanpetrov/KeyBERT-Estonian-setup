@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,2,2,0,1,18,restoranide; usuäärmusluse; hindpere; eesti
-1,2,1,0,0,2,2,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-1,2,1,0,0,2,2,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-1,2,3,0,0,2,2,0,2,18,restoranide; isis; ülikool; usuäärmusluse; hindpere; eesti
-1,2,2,0,0,1,1,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-1,2,1,0,0,2,0,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-1,2,0,0,0,1,0,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-1,2,0,2,0,2,0,0,2,18,restoranide; ülikool; usuäärmusluse; hindpere; eesti
-0,1,0,1,0,0,0,0,2,18,hindpere; eesti; ülikool
-0,1,1,1,0,0,0,0,2,18,restoranide; ülikool; hindpere; eesti
-0,0,0,1,0,1,0,0,2,18,nädal; eesti; ülikool
+1,2,1,0,0,2,2,0,1,18,hindpere; restoranide; eesti; usuäärmusluse
+1,2,1,0,0,2,2,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+1,2,1,0,0,2,2,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+1,2,3,0,0,2,2,0,2,18,hindpere; restoranide; eesti; isis; ülikool; usuäärmusluse
+1,2,2,0,0,1,1,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+1,2,1,0,0,2,0,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+1,2,0,0,0,1,0,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+1,2,0,2,0,2,0,0,2,18,hindpere; restoranide; eesti; ülikool; usuäärmusluse
+0,1,0,1,0,0,0,0,2,18,hindpere; ülikool; eesti
+0,1,1,1,0,0,0,0,2,18,hindpere; eesti; ülikool; restoranide
+0,0,0,1,0,1,0,0,2,18,ülikool; nädal; eesti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,0,0,0,1,0,0,18,rebane; petseri
-0,0,1,1,0,0,0,0,0,18,kärdla; petseri
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,0,0,0,1,0,0,18,petseri; rebane
+0,0,1,1,0,0,0,0,0,18,petseri; kärdla
 0,1,1,0,0,0,0,0,0,18,staadion; petseri
-1,2,1,1,0,0,0,0,0,18,staadion; ukraina; petseri
-0,0,1,1,0,1,0,0,0,18,mari; staadion; petseri
-0,0,1,1,0,1,0,0,0,18,mari; staadion; petseri
+1,2,1,1,0,0,0,0,0,18,petseri; staadion; ukraina
+0,0,1,1,0,1,0,0,0,18,mari; petseri; staadion
+0,0,1,1,0,1,0,0,0,18,mari; petseri; staadion

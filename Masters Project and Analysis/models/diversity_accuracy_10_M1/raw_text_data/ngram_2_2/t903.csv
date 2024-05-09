@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-2,1,2,1,0,1,1,1,0,10,ameerika; sport; võit; võistlus; meedia
-3,1,1,1,0,1,1,1,0,10,ameerika; sport; võit; meedia
-1,1,1,1,0,2,1,1,0,10,sport; võit; võistlus; sõda
-1,1,2,1,0,1,1,1,0,10,võistlus; sport; ameerika
-0,1,2,1,0,1,2,2,0,10,ameerika; sport; võistlus
-1,1,3,1,0,0,1,3,0,10,ameerika; sport; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+2,1,2,1,0,1,1,1,0,10,võit; meedia; sport; ameerika; võistlus
+3,1,1,1,0,1,1,1,0,10,võit; sport; ameerika; meedia
+1,1,1,1,0,2,1,1,0,10,võit; võistlus; sport; sõda
+1,1,2,1,0,1,1,1,0,10,ameerika; võistlus; sport
+0,1,2,1,0,1,2,2,0,10,sport; ameerika; võistlus
+1,1,3,1,0,0,1,3,0,10,sport; ameerika; võistlus

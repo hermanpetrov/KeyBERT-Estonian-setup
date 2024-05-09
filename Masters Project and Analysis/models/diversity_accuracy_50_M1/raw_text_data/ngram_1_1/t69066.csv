@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,0,0,1,0,12,arhitektide; eetika; detailplaneering; mutso
-0,1,1,0,1,0,0,1,0,12,arhitektide; eetika; detailplaneering; mutso
-0,1,1,0,1,0,0,1,0,12,arhitektide; eetika; detailplaneering; mutso
-0,1,1,0,1,0,0,1,0,12,arhitektide; eetika; detailplaneering; mutso
-0,1,1,0,1,0,0,0,0,12,eetika; detailplaneering; mutso
+0,1,1,0,1,0,0,1,0,12,arhitektide; detailplaneering; eetika; mutso
+0,1,1,0,1,0,0,1,0,12,arhitektide; detailplaneering; eetika; mutso
+0,1,1,0,1,0,0,1,0,12,arhitektide; detailplaneering; eetika; mutso
+0,1,1,0,1,0,0,1,0,12,arhitektide; detailplaneering; eetika; mutso
+0,1,1,0,1,0,0,0,0,12,detailplaneering; eetika; mutso
 0,0,1,0,1,0,0,0,0,12,detailplaneering; mutso
 0,0,1,0,1,0,0,0,0,12,detailplaneering; mutso
 0,0,0,0,1,0,0,0,0,12,detailplaneering
-1,0,3,0,1,0,0,1,0,12,detailplaneering; mutso; margit; eetika; kritiseerima
+1,0,3,0,1,0,0,1,0,12,detailplaneering; eetika; margit; kritiseerima; mutso
 0,0,1,0,0,0,0,0,0,12,eetika
-1,0,1,0,0,0,1,1,0,12,kritiseerima; eetika; arendaja; mutso
+1,0,1,0,0,0,1,1,0,12,mutso; arendaja; eetika; kritiseerima

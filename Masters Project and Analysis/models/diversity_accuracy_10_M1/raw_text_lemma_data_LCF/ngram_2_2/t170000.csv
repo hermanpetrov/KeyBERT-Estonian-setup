@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-3,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-3,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-3,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-3,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-3,2,4,1,1,0,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-2,2,4,1,1,2,0,5,2,13,thomas; tehnoloogia; watson; suurelt; globaalne; arvuti; mõtlema
-2,2,3,0,1,0,0,4,2,13,thomas; tehnoloogia; blogi; globaalne; watson; arvuti; mõtlema
-3,2,3,3,1,1,0,4,2,13,thomas; tehnoloogia; blogi; kristjan; watson; port; globaalne; arvuti; mõtlema
-0,1,3,3,1,1,0,3,2,13,tehnoloogia; kristjan; watson; port; globaalne; arvuti; mõtlema
-0,0,3,0,1,0,0,3,2,13,tehnoloogia; blogi; watson; arvuti; mõtlema
+3,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+3,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+3,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+3,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+3,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+3,2,4,1,1,0,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+2,2,4,1,1,2,0,5,2,13,arvuti; watson; thomas; mõtlema; tehnoloogia; globaalne; suurelt
+2,2,3,0,1,0,0,4,2,13,arvuti; mõtlema; tehnoloogia; globaalne; watson; thomas; blogi
+3,2,3,3,1,1,0,4,2,13,arvuti; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne
+0,1,3,3,1,1,0,4,2,13,arvuti; arvutipark; port; watson; kristjan; mõtlema; tehnoloogia; globaalne
+0,0,3,0,1,0,0,4,2,13,arvuti; mõtlema; arvutipark; tehnoloogia; watson; blogi

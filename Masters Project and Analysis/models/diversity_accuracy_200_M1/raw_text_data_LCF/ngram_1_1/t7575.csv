@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,7,4,0,3,3,6,4,15,piiskopkond; ülikool; institutsioon; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; tartu; liivi
-3,2,6,3,0,4,3,5,3,15,piiskopkond; institutsioon; ülikool; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; tartu; liivi
-3,2,7,4,0,3,4,5,3,15,piiskopkond; ülikool; institutsioon; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; jaroslav; tartu; liivi
-2,2,7,5,0,3,4,5,3,15,piiskopkond; ülikool; institutsioon; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; jaroslav; tartu
-2,3,4,5,0,2,4,4,3,15,piiskopkond; ülikool; institutsioon; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; jaroslav; tartu
-2,2,4,5,0,1,3,3,3,15,piiskopkond; ülikool; institutsioon; tark; kloostrielu; tõnis; lukas; ordu; toomhärra; jaroslav; tartu
-1,2,4,5,1,2,1,3,3,15,ülikool; institutsioon; tark; tõnis; lukas; ordu; toomhärra; jaroslav; tartu; liivi
-0,2,4,4,1,4,1,4,2,15,institutsioon; ülikool; tark; tõnis; ordu; lukas; toomhärra; jaroslav; tartu; liivi
-0,2,5,4,2,3,1,3,3,15,institutsioon; ülikool; tark; kloostrielu; lukas; ordu; toomhärra; jaroslav; tartu; liivi
-0,2,5,4,2,2,2,2,2,15,institutsioon; ülikool; tark; tõnis; kloostrielu; lukas; ordu; toomhärra; jaroslav; tartu; liivi
-1,2,4,4,3,2,2,3,3,15,institutsioon; ülikool; tark; tõnis; ordu; lukas; toomhärra; jaroslav; tartu; liivi
+3,2,7,4,0,3,6,4,0,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; tartu; piiskopkond; ordu; liivi; lukas; tõnis
+3,2,6,3,0,3,5,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; tartu; piiskopkond; ordu; liivi; lukas; tõnis
+3,2,7,4,0,4,5,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; tartu; piiskopkond; jaroslav; ordu; liivi; lukas; tõnis
+2,2,7,5,0,4,5,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; tartu; piiskopkond; jaroslav; ordu; lukas; tõnis
+2,3,4,5,0,4,4,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; tartu; jaroslav; piiskopkond; ordu; lukas; tõnis
+2,2,4,5,0,3,3,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; jaroslav; tartu; piiskopkond; tark; ordu; lukas; tõnis
+1,2,4,5,1,1,3,3,0,15,toomhärra; institutsioon; ülikool; jaroslav; tark; ordu; liivi; lukas; tõnis
+0,2,4,4,1,1,4,2,0,15,toomhärra; institutsioon; ülikool; jaroslav; tark; ordu; liivi; lukas; tõnis
+0,2,5,4,2,1,3,3,0,15,toomhärra; institutsioon; ülikool; kloostrielu; jaroslav; tark; tartu; ordu; liivi; lukas
+0,2,5,4,2,2,2,2,0,15,toomhärra; institutsioon; ülikool; kloostrielu; jaroslav; tark; ordu; liivi; lukas; tõnis
+1,2,4,4,3,2,3,3,0,15,toomhärra; institutsioon; ülikool; jaroslav; tartu; tark; ordu; liivi; lukas; tõnis

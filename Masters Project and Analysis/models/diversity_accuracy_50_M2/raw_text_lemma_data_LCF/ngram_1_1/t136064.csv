@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,1,0,2,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,1,3,3,2,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-4,4,1,0,3,3,1,0,1,13,regulatsioon; mõjutamine; idealism; poliitika; internet; relv; mass; kasum
-3,4,1,0,3,2,1,0,1,13,relv; regulatsioon; idealism; mass; poliitika; internet; kasum
-3,4,0,0,3,3,1,0,1,13,regulatsioon; idealism; mõjutamine; poliitika; internet; mass; kasum; relv
+7,5,2,3,5,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,2,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,2,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,2,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,2,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,1,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,1,3,6,5,4,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,1,4,6,5,5,4,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+7,5,1,0,6,4,4,3,1,13,poliitika; suhtlusplatvorm; mõjutamine; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+6,5,1,1,6,3,4,4,1,13,poliitika; suhtlusplatvorm; relv; kasum; mass; internet; regulatsioon; idealism; reguleerimata; inforuum; tehnoloogiaettevõte; maksimeerimine
+5,4,0,1,6,4,4,4,1,13,poliitika; maksimeerimine; relv; suhtlusplatvorm; mõjutamine; kasum; mass; internet; regulatsioon; reguleerimata; inforuum; tehnoloogiaettevõte; idealism

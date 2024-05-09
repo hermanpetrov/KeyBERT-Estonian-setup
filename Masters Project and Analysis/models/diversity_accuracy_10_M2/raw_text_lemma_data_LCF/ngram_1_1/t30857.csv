@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,1,1,0,15,dramaturg; vahing
 0,0,0,0,0,0,0,1,0,15,vahing
 0,0,0,0,0,0,0,1,0,15,vahing
-0,0,0,1,0,0,0,0,0,15,separaat
-0,0,0,0,0,0,0,1,0,15,liit
-0,0,0,1,0,0,0,1,0,15,liit; vahing
-0,0,0,1,0,0,0,1,0,15,liit; vahing
+0,1,0,1,0,0,0,0,0,15,nõukogu; separaat
+0,1,0,0,0,0,0,1,0,15,nõukogu; liit
+0,1,0,1,0,0,0,1,0,15,nõukogu; vahing; liit
+0,1,0,1,0,0,0,1,0,15,nõukogu; vahing; liit

@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,1,0,1,13,rahu; paul
 0,0,1,0,0,1,1,0,1,13,rahu; paul
 0,0,1,0,0,2,1,0,1,13,rahu; paul
-0,0,1,0,0,2,2,0,1,13,rahu; sõda; paul
-0,0,1,0,0,2,1,0,1,13,rahu; sõda; paul
-0,0,1,0,0,2,1,0,0,13,rahu; sõda; paul
-0,0,1,0,1,2,1,1,0,13,nälg; paul; rahu; sõda; toomas
+0,0,1,0,0,2,2,0,1,13,rahu; paul; sõda
+0,0,1,0,0,2,1,0,1,13,rahu; paul; sõda
+0,0,1,0,0,2,1,0,0,13,rahu; paul; sõda
+0,0,1,0,1,2,1,1,0,13,rahu; toomas; nälg; paul; sõda

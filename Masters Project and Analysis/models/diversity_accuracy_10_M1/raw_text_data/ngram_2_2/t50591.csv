@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-3,2,3,1,3,2,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-3,2,2,1,3,2,2,2,0,12,uusorg; margo; eesti; soome; naisekandmine; birgit; ulrich
-2,0,0,0,3,2,2,2,0,12,uusorg; soome; naisekandmine; birgit; eesti; ulrich
-3,0,0,0,3,2,1,1,0,12,uusorg; soome; naisekandmine; birgit; võistlus; ulrich
-1,0,1,1,3,2,1,1,0,12,birgit; soome; naisekandmine; võistlus; eesti; ulrich
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+3,2,3,1,3,2,2,1,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+3,2,2,1,3,2,2,2,0,12,margo; soome; eesti; naisekandmine; ulrich; birgit; uusorg
+2,0,0,0,3,2,2,2,0,12,naisekandmine; ulrich; soome; eesti; birgit; uusorg
+3,0,0,0,3,2,1,1,0,12,naisekandmine; ulrich; soome; birgit; uusorg; võistlus
+1,0,1,1,3,2,1,1,0,12,naisekandmine; ulrich; eesti; soome; birgit; võistlus

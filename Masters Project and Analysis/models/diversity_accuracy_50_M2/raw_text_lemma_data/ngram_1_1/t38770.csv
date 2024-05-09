@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,1,1,1,1,12,föderatsioon; eesti; eurotsoon
-1,0,1,1,0,1,1,1,1,12,föderatsioon; eesti; eurotsoon
-1,0,1,1,0,1,1,1,1,12,föderatsioon; eesti; eurotsoon
-1,0,1,1,0,1,1,1,1,12,föderatsioon; eesti; eurotsoon
-1,0,1,1,0,1,1,1,1,12,föderatsioon; eesti; eurotsoon
-1,0,0,1,0,1,1,0,1,12,föderatsioon; eesti; eurotsoon
-0,0,1,0,0,1,1,0,1,12,eesti; eurotsoon
-1,0,1,0,0,1,0,0,1,12,eesti; eurotsoon
-0,1,0,0,0,1,0,0,1,12,sotsiaalne; eesti; eurotsoon
-0,1,1,0,0,1,0,1,1,12,sotsiaalne; eesti; eurotsoon; kroon
-0,0,0,0,0,1,0,1,2,12,majandus; sotsiaalne; eesti; eurotsoon
+1,0,1,1,0,2,3,2,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+1,0,1,1,0,2,3,2,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+1,0,1,1,0,2,3,2,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+1,0,1,1,0,2,3,2,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+1,0,1,1,0,2,3,2,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+1,0,0,1,0,2,3,1,1,12,eesti; rahaliit; eelarvepoliitika; föderatsioon; eurotsoon
+0,1,1,1,0,2,3,0,1,12,eesti; rahaliit; eelarvepoliitika; heaolu; eurotsoon
+1,1,1,0,0,1,0,1,1,12,eesti; eelarvepoliitika; heaolu; eurotsoon
+0,2,0,0,0,1,1,0,1,12,eesti; eelarvepoliitika; heaolu; sotsiaalne; eurotsoon
+0,2,1,0,0,1,1,1,1,12,eesti; eelarvepoliitika; heaolu; sotsiaalne; kroon; eurotsoon
+0,1,0,0,0,1,1,1,2,12,majandus; eesti; eelarvepoliitika; heaolu; sotsiaalne; eurotsoon

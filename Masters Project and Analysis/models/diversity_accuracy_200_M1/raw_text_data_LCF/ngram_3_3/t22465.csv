@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,3,1,3,2,1,2,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-7,4,3,1,3,2,1,2,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-7,4,3,1,3,1,1,2,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-7,4,2,1,4,1,1,3,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-6,5,3,1,3,1,1,4,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-4,5,3,2,3,2,3,4,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-3,4,3,3,2,3,3,4,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-2,5,3,4,1,1,2,3,2,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; mägine; maksusüsteem; järv
-1,2,1,4,1,1,2,3,3,11,juust; rahvahääletus; genf; tunnel; šveits; neutraliteet; maksusüsteem; järv
-1,2,2,4,1,1,1,3,3,11,juust; rahvahääletus; tunnel; genf; šveits; neutraliteet; maksusüsteem; järv
-0,2,1,3,2,1,2,2,3,11,juust; rahvahääletus; tunnel; genf; šveits; maksusüsteem; järv
+7,4,3,1,3,1,2,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+7,4,3,1,3,1,2,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+7,4,3,1,3,1,2,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+7,4,2,1,4,1,3,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+6,5,3,1,3,1,4,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+4,5,3,2,3,3,4,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+3,4,3,3,2,3,4,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+2,5,3,4,1,2,3,2,0,11,juust; genf; mägine; tunnel; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+1,2,1,4,1,2,3,3,0,11,juust; genf; tunnel; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+1,2,2,4,1,1,3,3,0,11,juust; genf; tunnel; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+0,2,1,3,2,2,2,3,0,11,juust; genf; tunnel; rahvahääletus; maksusüsteem; järv; šveits

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,1,0,0,2,2,12,iraan; mäng; afganistan; liit; näitus; moskva
-2,1,0,0,1,0,0,2,1,12,iraan; mäng; afganistan; liit; näitus; moskva
-2,1,0,0,1,0,0,2,1,12,iraan; mäng; afganistan; liit; näitus; moskva
-2,1,0,0,1,0,0,2,1,12,iraan; mäng; afganistan; liit; näitus; moskva
-2,1,0,0,1,0,0,2,0,12,iraan; mäng; afganistan; liit; näitus; moskva
-2,1,1,0,1,0,0,2,2,12,liit; afganistan; teater; moskva; iraan; mäng; näitus
-1,1,0,1,0,0,0,2,1,12,teater; iraan; moskva; näitus
-1,2,0,0,0,0,1,3,2,12,iraan; afganistan; näitus; mäng; teater; moskva
-1,1,0,0,0,0,0,0,3,12,iraan; näitus; mäng; teater; moskva
-0,0,0,0,1,0,0,2,1,12,iraan; suitsetamine; afganistan; mäng
-1,1,0,0,1,0,0,1,1,12,iraan; suitsetamine; mäng; teater
+2,2,0,0,1,0,0,2,3,12,iraan; moskva; afganistan; mäng; nõukogu; näitus; liit
+2,2,0,0,1,0,0,2,2,12,iraan; moskva; afganistan; mäng; nõukogu; näitus; liit
+2,2,0,0,1,0,0,2,1,12,moskva; afganistan; mäng; iraan; nõukogu; näitus; liit
+2,2,0,0,1,0,0,2,1,12,moskva; afganistan; mäng; iraan; nõukogu; näitus; liit
+2,2,0,0,1,0,0,2,0,12,moskva; afganistan; mäng; iraan; nõukogu; näitus; liit
+2,2,2,0,1,0,0,2,2,12,iraan; moskva; afganistan; mäng; liit; nõukogu; näitus; teater
+1,2,0,1,0,0,0,2,1,12,moskva; nõukogu; iraan; näitus; teater
+1,3,0,0,0,0,1,3,2,12,moskva; afganistan; mäng; nõukogu; iraan; näitus; teater
+2,1,0,0,0,0,0,0,3,12,liibüa; moskva; mäng; iraan; näitus; teater
+1,0,0,0,1,0,0,2,1,12,liibüa; afganistan; mäng; iraan; suitsetamine
+1,1,0,0,1,1,0,1,1,12,mäng; nõukogu; iraan; suitsetamine; teater

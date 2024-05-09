@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,3,0,1,0,3,2,2,13,kadri-ann; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,0,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,0,1,1,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,2,1,2,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,2,1,2,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
-0,3,3,2,1,2,3,2,3,13,kadri-ann; heino; silver; hobune; väli; admiral
+1,4,3,3,1,0,5,4,3,13,admiral; ükssilm; hobune; riisipirukas; silver; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,0,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,1,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,5,1,2,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,4,1,3,5,4,4,13,admiral; ükssilm; hobune; riisipirukas; silver; heino; kuuldemäng; väli; kadri-ann
+1,4,3,3,1,3,5,4,4,13,admiral; ükssilm; väli; riisipirukas; silver; heino; kuuldemäng; hobune; kadri-ann

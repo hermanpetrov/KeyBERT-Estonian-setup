@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,0,12,teater
 0,1,0,0,0,0,0,0,0,12,teater
 0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,1,0,0,0,1,0,12,teater; loorberipärg; jõgis
-0,1,0,0,0,0,0,1,0,12,teater; jõgis
-0,1,0,0,0,0,0,1,0,12,teater; jõgis
-0,1,0,1,0,0,0,1,0,12,teater; andres; jõgis
+0,1,0,1,0,0,1,0,0,12,jõgis; teater; loorberipärg
+0,1,0,0,0,0,1,0,0,12,jõgis; teater
+0,1,0,0,0,0,1,0,0,12,jõgis; teater
+0,1,0,1,0,0,1,0,0,12,jõgis; teater; andres

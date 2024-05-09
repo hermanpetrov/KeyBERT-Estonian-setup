@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,0,0,1,0,13,aivar; klubikultuur; muusika
-1,1,1,1,0,0,0,1,0,13,aivar; klubikultuur; muusika
-1,1,1,1,0,0,0,1,0,13,aivar; klubikultuur; muusika
-1,1,1,1,0,0,0,1,0,13,aivar; klubikultuur; muusika
-1,1,1,1,0,0,0,1,0,13,aivar; klubikultuur; muusika
-1,1,1,1,0,0,1,1,0,13,aivar; klubikultuur; muusika
+1,1,1,1,0,0,0,1,0,13,muusika; klubikultuur; aivar
+1,1,1,1,0,0,0,1,0,13,muusika; klubikultuur; aivar
+1,1,1,1,0,0,0,1,0,13,muusika; klubikultuur; aivar
+1,1,1,1,0,0,0,1,0,13,muusika; klubikultuur; aivar
+1,1,1,1,0,0,0,1,0,13,muusika; klubikultuur; aivar
+1,1,1,1,0,0,1,1,0,13,muusika; klubikultuur; aivar
 0,0,0,0,0,0,1,1,0,13,klubikultuur
-0,0,1,0,0,0,1,1,0,13,elektrooniline; klubikultuur; muusika
+0,0,1,0,0,0,1,1,0,13,muusika; elektrooniline; klubikultuur
 1,0,0,0,0,0,0,0,0,13,muusika
 1,0,0,0,0,0,0,0,0,13,muusika
-2,0,0,0,0,0,0,0,0,13,reiv; muusika
+2,0,0,0,0,0,0,0,0,13,muusika; reiv

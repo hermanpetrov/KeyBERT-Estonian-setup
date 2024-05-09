@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,3,3,1,2,3,2,2,11,poiss; ema; katariina; kooli
-1,3,3,3,1,2,3,2,2,11,poiss; ema; katariina; kooli
-1,3,3,3,1,2,3,2,2,11,poiss; ema; katariina; kooli
-1,3,3,3,1,2,3,2,2,11,poiss; ema; katariina; kooli
-1,2,3,3,1,2,4,2,2,11,poiss; ema; katariina; ronima; kooli
-2,2,4,3,1,2,4,2,1,11,ema; katariina; ronima; redel; kooli; poiss
-2,3,3,3,1,2,4,2,1,11,ema; poiss; katariina; ronima; kooli
-2,3,4,4,2,2,3,2,1,11,ema; poiss; katariina; ronima; kooli
-4,3,4,4,2,2,5,3,1,11,ema; katariina; ronima; redel; kooli; poiss
-6,3,4,3,2,2,4,3,2,11,ema; katariina; ronima; redel; kooli; poiss
-6,3,4,3,2,2,2,3,4,11,ema; katariina; ronima; redel; kooli; poiss
+1,3,3,3,1,3,2,2,0,11,kooli; ema; katariina; poiss
+1,3,3,3,1,3,2,2,0,11,kooli; ema; katariina; poiss
+1,3,3,3,1,3,2,2,0,11,kooli; ema; katariina; poiss
+1,3,3,3,1,3,2,2,0,11,kooli; ema; katariina; poiss
+1,2,3,3,1,4,2,2,0,11,kooli; ronima; ema; katariina; poiss
+2,2,4,3,1,4,2,1,0,11,kooli; katariina; redel; ronima; ema; poiss
+2,3,3,3,1,4,2,1,0,11,kooli; ronima; ema; katariina; poiss
+2,3,4,4,2,3,2,1,0,11,kooli; ronima; ema; katariina; poiss
+4,3,4,4,2,5,3,1,0,11,kooli; katariina; redel; ronima; ema; poiss
+6,3,4,3,2,4,3,2,0,11,kooli; katariina; redel; ronima; ema; poiss
+6,3,4,3,2,2,3,4,0,11,kooli; katariina; redel; ronima; ema; poiss

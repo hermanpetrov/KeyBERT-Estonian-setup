@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,4,3,4,5,4,4,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-4,2,4,4,4,5,4,4,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-4,2,4,3,4,5,4,4,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-3,2,8,4,4,5,4,4,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-3,4,6,4,4,3,4,5,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-3,4,6,4,3,6,5,5,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-2,3,6,4,4,4,6,7,6,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; rahulolu; kultuurisõber; volkov
-2,1,5,3,6,4,4,5,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; rahulolu; kultuurisõber; volkov
-2,3,6,1,4,4,4,8,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-3,3,5,1,6,3,7,6,5,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
-4,1,5,1,6,4,4,9,3,15,baltika; majanduskriis; salme; janek; rõivafirma; peeter; klaasikunstnik; rahulolu; kultuurisõber; volkov
+4,2,4,3,4,5,4,4,5,15,rahulolu; peeter; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+4,2,4,4,4,5,4,4,5,15,rahulolu; peeter; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+4,2,4,3,4,5,4,4,5,15,rahulolu; peeter; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+3,2,8,4,4,5,4,4,5,15,rahulolu; peeter; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+3,4,6,4,4,3,4,5,5,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+3,4,6,4,3,6,5,5,5,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; klaasikunstnik; baltika
+2,3,6,4,4,4,6,7,6,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; baltika
+2,1,5,3,6,4,4,5,5,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; rõivafirma; baltika
+2,3,6,1,4,4,4,8,5,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; klaasikunstnik; rõivafirma; baltika
+3,3,5,1,6,3,7,6,5,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; klaasikunstnik; rõivafirma; baltika
+4,1,5,1,6,4,4,9,3,15,peeter; rahulolu; majanduskriis; salme; janek; kultuurisõber; volkov; klaasikunstnik; rõivafirma; baltika

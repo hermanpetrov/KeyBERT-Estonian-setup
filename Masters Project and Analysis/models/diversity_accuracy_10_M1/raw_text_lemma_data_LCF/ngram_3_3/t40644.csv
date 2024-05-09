@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,19,
 0,0,0,0,0,0,0,0,0,19,
 0,0,0,0,0,0,0,1,0,19,mustonen
-0,0,0,2,0,0,0,2,0,19,mustonen; mari; kalkun
-0,0,1,2,0,0,1,1,0,19,mustonen; mari; lill; folkloor
-3,0,1,2,0,1,0,2,0,19,mirje; andres; musicus; mari; lill; bach; irene; mustonen
-0,0,0,1,0,1,0,3,0,19,andres; irene; viiul; mustonen
-1,0,0,0,0,0,1,0,0,19,orpheus; bach
+0,0,0,2,0,0,0,2,0,19,mari; kalkun; mustonen
+0,0,1,2,0,0,1,1,0,19,lill; mari; folkloor; mustonen
+3,0,1,2,0,1,0,2,0,19,lill; mari; irene; mustonen; andres; musicus; bach; mirje
+0,0,0,1,0,1,0,3,0,19,irene; mustonen; andres; viiul
+1,0,0,0,0,0,1,0,0,19,bach; orpheus

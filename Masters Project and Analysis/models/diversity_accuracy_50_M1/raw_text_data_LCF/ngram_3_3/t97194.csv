@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,7,4,1,7,6,6,3,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; maret; eesti; alo; klaverimeister; pianiino; klaveriehitus
-5,6,7,4,1,7,6,6,4,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; maret; eesti; alo; klaverimeister; pianiino; klaveriehitus
-5,6,7,4,1,7,6,6,4,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; maret; eesti; alo; klaverimeister; pianiino; klaveriehitus
-5,6,6,4,1,7,6,6,4,16,muusikamuuseum; estonia; klaver; ja; teatri-; tomson; maret; eesti; alo; klaverimeister; pianiino; klaveriehitus
-5,8,7,4,1,7,6,6,3,16,muusikamuuseum; estonia; alo; ja; teatri-; maret; klaver; eesti; tomson; põldmäe; klaverimeister; pianiino; klaveriehitus
-6,7,8,4,1,7,6,6,4,16,muusikamuuseum; estonia; klaver; ja; teatri-; alo; tomson; eesti; maret; klaverimeister; pianiino; klaveriehitus
-7,7,8,8,1,8,6,7,5,16,ja; teatri-; tomson; tiibklaver; tsentraliseerimine; põldmäe; klaver; muusikamuuseum; estonia; alo; maret; eesti; klaverimeister; pianiino
-7,4,9,8,2,7,7,8,4,16,ja; teatri-; tomson; tiibklaver; tsentraliseerimine; klaver; muusikamuuseum; estonia; alo; maret; eesti; klaverimeister; pianiino; klaveriehitus
-7,6,8,4,2,8,6,8,4,16,ja; teatri-; tomson; tiibklaver; tsentraliseerimine; põldmäe; klaver; muusikamuuseum; estonia; alo; maret; eesti; klaverimeister; pianiino; klaveriehitus
-5,6,7,4,2,6,6,8,5,16,ja; teatri-; tomson; tiibklaver; põldmäe; klaver; muusikamuuseum; estonia; alo; maret; eesti; pianiino
-3,6,5,3,2,5,6,8,3,16,estonia; alo; ja; teatri-; maret; tomson; eesti; pianiino; põldmäe; klaver
+5,6,7,4,1,6,6,3,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; klaveriehitus; estonia
+5,6,7,4,1,6,6,4,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; klaveriehitus; estonia
+5,6,7,4,1,6,6,4,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; klaveriehitus; estonia
+5,6,6,4,1,6,6,4,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; klaveriehitus; estonia
+5,8,7,4,1,6,6,3,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; põldmäe; klaveriehitus; estonia
+6,7,8,4,1,6,6,4,0,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; ja; alo; klaveriehitus; estonia
+7,7,8,8,1,6,7,5,0,16,pianiino; tiibklaver; maret; alo; ja; põldmäe; tomson; klaver; tsentraliseerimine; eesti; teatri-; klaverimeister; muusikamuuseum; estonia
+7,4,9,8,2,7,8,4,0,16,pianiino; maret; tiibklaver; alo; ja; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; teatri-; muusikamuuseum; klaveriehitus; estonia
+7,6,8,4,2,6,8,4,0,16,pianiino; maret; tiibklaver; alo; ja; tomson; klaver; tsentraliseerimine; eesti; teatri-; klaverimeister; muusikamuuseum; estonia; klaveriehitus; põldmäe
+5,6,7,4,2,6,8,5,0,16,pianiino; klaver; eesti; teatri-; maret; tiibklaver; tomson; alo; ja; põldmäe; estonia
+3,6,5,3,2,6,8,3,0,16,klaver; pianiino; eesti; teatri-; maret; tomson; alo; ja; põldmäe; estonia

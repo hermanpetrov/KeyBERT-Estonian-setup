@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,4,0,0,0,1,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste; sõda
-2,1,4,0,0,0,1,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste; sõda
-2,1,4,0,0,0,1,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste; sõda
-2,1,5,0,0,0,2,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste; sõda
-2,1,4,0,0,0,2,4,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste; sõda
-2,2,5,0,0,2,2,4,1,12,akadeemia; elustrateegia; füüsika; hüpotees; gustav; naan; teaduste; sõda
-1,1,4,2,0,3,3,3,1,12,akadeemia; füüsika; gustav; hüpotees; naan; teaduste
-0,2,4,2,0,4,2,3,1,12,akadeemia; lapsepõlv; elustrateegia; gustav; naan; teaduste
-0,2,2,2,0,3,2,2,1,12,elustrateegia; gustav; naan; akadeemia; teaduste; lapsepõlv
-1,2,2,0,0,3,2,3,1,12,elustrateegia; gustav; naan; akadeemia; teaduste; sõda; lapsepõlv
-1,2,2,0,0,2,3,4,1,12,akadeemia; elustrateegia; gustav; hüpotees; naan; teaduste
+2,1,4,0,0,1,3,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav
+2,1,4,0,0,1,3,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav
+2,1,4,0,0,1,3,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav
+2,1,5,0,0,2,3,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav
+2,1,4,0,0,2,4,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav
+2,2,5,0,0,2,4,1,0,12,füüsika; naan; hüpotees; akadeemia; teaduste; sõda; gustav; elustrateegia
+1,1,4,2,0,3,3,1,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; gustav
+0,2,4,2,0,2,3,1,0,12,gustav; naan; akadeemia; elustrateegia; teaduste
+0,2,2,2,0,2,2,1,0,12,gustav; naan; akadeemia; elustrateegia; teaduste
+1,2,2,0,0,2,3,1,0,12,gustav; sõda; naan; akadeemia; elustrateegia; teaduste
+1,2,2,0,0,3,4,1,0,12,naan; hüpotees; akadeemia; teaduste; gustav; elustrateegia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,1,0,0,1,4,1,11,muusika; medell; sirje; tallinn; esinema; laulma
-2,2,1,1,0,0,1,4,1,11,muusika; medell; sirje; tallinn; esinema; laulma
-2,2,1,1,0,0,1,4,1,11,muusika; medell; sirje; tallinn; esinema; laulma
-2,2,2,1,0,0,1,4,1,11,muusika; medell; sirje; tallinn; esinema; laulma
-2,3,3,1,0,0,1,4,1,11,muusika; medell; sirje; tallinn; perekond; esinema; laulma
-2,3,1,1,0,0,0,4,1,11,muusika; medell; sirje; tallinn; perekond; esinema; laulma
-0,3,2,1,0,3,2,3,1,11,muusika; medell; sirje; tallinn; esinema; laulma
-1,2,2,1,0,2,2,4,1,11,muusika; õpetaja; medell; sirje; tallinn; esinema; laulma
-0,2,0,2,0,2,1,3,1,11,sirje; tallinn; medell; esinema; laulma
-0,2,2,2,0,1,1,5,1,11,muusika; õpetaja; medell; sirje; tallinn; esinema; laulma
-0,1,3,2,0,2,0,4,1,11,medell; sirje; tallinn; esinema; laulma
+2,2,2,1,0,0,1,4,1,11,medell; tallinn; muusika; esinema; kuressaare; laulma; sirje
+2,2,2,1,0,0,1,4,1,11,medell; tallinn; muusika; esinema; kuressaare; laulma; sirje
+2,2,2,1,0,0,1,4,1,11,medell; tallinn; muusika; esinema; kuressaare; laulma; sirje
+2,2,3,1,0,0,1,4,1,11,medell; tallinn; muusika; esinema; kuressaare; laulma; sirje
+2,3,4,1,0,0,1,4,1,11,medell; tallinn; perekond; muusika; esinema; kuressaare; laulma; sirje
+2,3,2,1,0,0,0,4,1,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; laulma
+0,3,2,1,0,4,2,4,1,11,medell; sirje; tallinn; muusika; esinema; kuressaare; laulma
+1,3,2,1,0,3,2,4,1,11,medell; sirje; tallinn; muusika; õpetaja; kuressaare; esinema; laulma
+1,2,1,2,0,2,2,4,1,11,medell; sirje; tallinn; esinema; kuressaare; laulma
+0,2,2,2,0,1,2,5,1,11,medell; sirje; tallinn; muusika; esinema; kuressaare; õpetaja; laulma
+0,1,4,2,0,2,1,5,1,11,medell; sirje; tallinn; esinema; kuressaare; laulma

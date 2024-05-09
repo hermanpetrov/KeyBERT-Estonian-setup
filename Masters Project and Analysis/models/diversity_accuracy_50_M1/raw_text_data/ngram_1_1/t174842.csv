@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,1,0,2,0,1,1,2,13,lili; hiiu; käär; sõna; lasteraamat
-2,2,3,0,2,0,1,3,2,13,merike; lili; heinsoo; hiiu; käär; sõna; lasteraamat
-2,2,3,0,2,1,1,4,2,13,hiiu; käär; heinsoo; merike; lili; sõna; lasteraamat
-2,2,3,0,1,1,1,3,2,13,merike; lili; heinsoo; hiiu; käär; sõna; lasteraamat
-1,2,3,0,1,1,1,4,2,13,merike; lili; heinsoo; hiiu; sõna; lasteraamat
-1,2,3,0,1,2,1,4,3,13,merike; heinsoo; hiiu; käär; sõna; lasteraamat
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,1,0,2,0,1,1,2,13,lasteraamat; lili; käär; sõna; hiiu
+2,2,3,0,2,0,1,3,2,13,merike; lasteraamat; lili; käär; sõna; heinsoo; hiiu
+2,2,3,0,2,1,1,4,2,13,merike; käär; heinsoo; hiiu; lasteraamat; sõna; lili
+2,2,3,0,1,1,1,3,2,13,merike; lasteraamat; lili; käär; sõna; heinsoo; hiiu
+1,2,3,0,1,1,1,4,2,13,merike; lasteraamat; lili; sõna; heinsoo; hiiu
+1,2,3,0,1,2,1,4,3,13,merike; lasteraamat; käär; sõna; heinsoo; hiiu

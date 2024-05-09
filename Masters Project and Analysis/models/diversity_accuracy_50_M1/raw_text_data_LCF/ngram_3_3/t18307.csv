@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,5,3,1,3,1,6,2,19,festival; pärimusmuusika; hõff; venemaa; sammas; mall; sotsiaalministeerium; mälberg; haigekassa
-4,2,5,3,1,3,1,6,2,19,festival; pärimusmuusika; hõff; venemaa; sammas; mall; sotsiaalministeerium; mälberg; haigekassa
-4,2,6,3,1,3,1,6,2,19,festival; pärimusmuusika; hõff; venemaa; sammas; mall; sotsiaalministeerium; mälberg; haigekassa
-4,2,6,3,1,3,1,6,2,19,festival; pärimusmuusika; hõff; venemaa; sammas; mall; sotsiaalministeerium; mälberg; haigekassa
-4,3,6,3,1,3,1,6,2,19,festival; pärimusmuusika; hõff; venemaa; mall; sammas; sotsiaalministeerium; mälberg; haigekassa
-4,3,5,3,1,3,1,5,2,19,festival; pärimusmuusika; hõff; venemaa; gruusia; sammas; mall; sotsiaalministeerium; mälberg; haigekassa
-5,5,7,3,1,2,1,6,2,19,festival; hõff; venemaa; mall; gruusia; sammas; sotsiaalministeerium; somaalia; mälberg; haigekassa
-6,8,7,3,1,5,1,7,2,19,hõff; venemaa; sammas; sotsiaalministeerium; teine; festival; muusikaõpetaja; gruusia; mall; somaalia; mälberg; haigekassa
-1,5,5,5,1,3,1,5,2,19,festival; hõff; venemaa; gruusia; sammas; mall; sotsiaalministeerium; teine; somaalia; mälberg; haigekassa
-1,6,5,6,3,2,2,5,2,19,festival; ulvi; muusikaõpetaja; hõff; venemaa; tamme; sammas; mall; sotsiaalministeerium; teine; somaalia; mälberg; haigekassa
-2,6,5,6,1,1,1,4,1,19,festival; ulvi; hõff; venemaa; abhaasia; tamme; gruusia; sammas; mall; sotsiaalministeerium; somaalia; mälberg; haigekassa
+4,2,5,3,1,1,6,2,0,19,hõff; venemaa; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+4,2,5,3,1,1,6,2,0,19,hõff; venemaa; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+4,2,6,3,1,1,6,2,0,19,hõff; venemaa; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+4,2,6,3,1,1,6,2,0,19,hõff; venemaa; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+4,3,6,3,1,1,6,2,0,19,hõff; venemaa; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+4,3,5,3,1,1,5,2,0,19,hõff; venemaa; gruusia; mälberg; haigekassa; pärimusmuusika; mall; sammas; festival; sotsiaalministeerium
+5,5,7,3,1,1,6,2,0,19,hõff; venemaa; gruusia; mälberg; haigekassa; somaalia; mall; sammas; festival; sotsiaalministeerium
+6,8,7,3,1,1,7,2,0,19,hõff; gruusia; mälberg; mall; sammas; festival; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; haigekassa; teine
+1,5,5,5,1,1,5,2,0,19,hõff; venemaa; gruusia; mälberg; haigekassa; somaalia; teine; mall; sammas; festival; sotsiaalministeerium
+1,6,5,6,3,2,5,2,0,19,hõff; muusikaõpetaja; venemaa; ulvi; mälberg; tamme; haigekassa; somaalia; teine; mall; sammas; festival; sotsiaalministeerium
+2,6,5,6,1,1,4,1,0,19,hõff; venemaa; gruusia; abhaasia; ulvi; mälberg; tamme; haigekassa; somaalia; mall; sammas; festival; sotsiaalministeerium

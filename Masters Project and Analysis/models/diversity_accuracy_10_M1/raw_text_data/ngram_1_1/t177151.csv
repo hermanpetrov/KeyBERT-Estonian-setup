@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,2,0,1,0,0,0,0,13,artist; eurosonic; kristo
 0,0,2,0,1,0,0,0,0,13,artist; eurosonic; kristo
 0,1,2,0,1,0,0,0,0,13,artist; eurosonic; kristo
-0,0,2,0,1,1,0,0,0,13,artist; eurosonic; festival; kristo
-0,0,2,0,1,1,0,0,0,13,artist; eurosonic; festival; kristo
-0,0,2,0,1,1,0,1,0,13,festival; eurosonic; kristo; artist
+0,0,2,0,1,1,0,0,0,13,artist; eurosonic; kristo; festival
+0,0,2,0,1,1,0,0,0,13,artist; eurosonic; kristo; festival
+0,0,2,0,1,1,0,1,0,13,artist; eurosonic; kristo; festival

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,2,2,0,1,15,töö; loominguline; tants; prelüüd; eesti
-1,1,1,0,0,2,2,0,1,15,töö; loominguline; tants; prelüüd; eesti
-1,1,1,0,0,2,2,0,1,15,töö; loominguline; tants; prelüüd; eesti
-1,1,1,0,0,2,2,0,2,15,töö; loominguline; reimann; tants; prelüüd; eesti
-1,1,0,0,0,3,2,1,2,15,töö; loominguline; reimann; tants; prelüüd; ots; eesti
-1,1,0,0,0,4,2,2,1,15,töö; loominguline; tants; prelüüd; ots; eesti
-1,1,0,0,0,3,2,3,1,15,töö; loominguline; tants; prelüüd; ots; eesti
-1,1,2,0,0,2,3,2,1,15,töö; loominguline; ots; eesti; tants; harri; reimann; prelüüd
-0,1,3,1,0,3,2,2,3,15,töö; matti; loominguline; ots; eesti; kirill; harri; reimann; tants
-0,1,4,0,0,2,1,3,3,15,töö; ots; eesti; kirill; harri; reimann; tants
-1,0,4,0,0,2,1,3,3,15,harri; reimann; tants; ots; eesti; kirill
+3,1,2,0,0,4,4,0,1,15,eesti; töö; sümfooniaorkester; klaverikontsert; prelüüd; loominguline; tants
+3,1,2,0,0,4,4,0,1,15,eesti; töö; sümfooniaorkester; klaverikontsert; prelüüd; loominguline; tants
+3,1,2,0,0,4,4,0,1,15,eesti; töö; sümfooniaorkester; klaverikontsert; prelüüd; loominguline; tants
+3,1,2,0,0,4,4,0,2,15,eesti; töö; sümfooniaorkester; klaverikontsert; reimann; prelüüd; loominguline; tants
+3,1,2,0,0,5,4,1,2,15,eesti; töö; sümfooniaorkester; klaverikontsert; reimann; prelüüd; ots; loominguline; tants
+3,1,2,0,0,5,4,2,1,15,eesti; töö; sümfooniaorkester; klaverikontsert; prelüüd; ots; loominguline; tants
+3,1,1,1,0,4,3,3,1,15,eesti; töö; sümfooniaorkester; klaverikontsert; prelüüd; ots; loominguline; tants
+2,1,2,1,0,3,4,3,1,15,raudsepp; eesti; harri; töö; sümfooniaorkester; klaverikontsert; reimann; prelüüd; ots; loominguline; tants
+1,1,3,2,0,4,3,3,3,15,raudsepp; kirill; eesti; loominguline; harri; töö; sümfooniaorkester; klaverikontsert; reimann; ots; matti; tants
+0,1,4,1,0,2,2,4,3,15,raudsepp; kirill; eesti; harri; töö; sümfooniaorkester; reimann; ots; tants
+1,1,4,1,0,2,2,4,3,15,raudsepp; kirill; eesti; harri; sümfooniaorkester; klaverikontsert; reimann; ots; tants

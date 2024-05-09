@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,1,0,0,1,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,1,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,1,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,1,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,0,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,0,0,11,kaitseliit; tehnika; muhu
-2,1,1,0,1,0,0,1,0,11,kaitseliit; tehnika; muhu
-2,1,0,0,1,0,0,0,0,11,kaitseliit; tehnika
-2,1,1,1,1,0,0,0,0,11,kaitseliit; tehnika; muhu
-2,1,0,1,1,0,0,0,0,11,kaitseliit; tehnika
-1,1,2,0,1,0,0,0,0,11,kaitseliit; tehnika; muhu
+2,1,1,0,1,0,0,1,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,1,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,1,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,1,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,0,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,0,0,11,tehnika; muhu; kaitseliit
+2,1,1,0,1,0,0,1,0,11,tehnika; muhu; kaitseliit
+2,1,0,0,1,0,0,0,0,11,tehnika; kaitseliit
+2,1,1,1,1,0,0,0,0,11,tehnika; muhu; kaitseliit
+2,1,0,1,1,0,0,0,0,11,tehnika; kaitseliit
+1,1,2,0,1,0,0,0,0,11,tehnika; muhu; kaitseliit

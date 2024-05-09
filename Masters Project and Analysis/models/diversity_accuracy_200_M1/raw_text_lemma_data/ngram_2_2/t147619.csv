@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,9,7,5,5,6,4,6,6,12,rätsep; laps; nooruk; kreem; alver; arseenik; pärtel; bett; nennike; sass
-8,9,7,5,5,7,4,5,6,12,rätsep; laps; nooruk; kreem; alver; arseenik; pärtel; bett; nennike; sass
-8,9,7,5,5,7,4,5,6,12,rätsep; laps; nooruk; kreem; alver; arseenik; pärtel; bett; nennike; sass
-9,9,7,5,5,8,4,5,6,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-8,9,8,5,5,8,5,5,7,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-8,9,6,5,5,7,6,7,7,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-5,8,7,5,5,6,7,7,6,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-5,9,7,7,6,7,7,5,6,12,laps; kreem; nooruk; nennike; alver; arseenik; pärtel; bett; rätsep; sass
-4,9,7,7,5,7,6,6,6,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-4,8,8,8,6,8,5,6,6,12,rätsep; laps; kreem; nooruk; alver; arseenik; pärtel; bett; nennike; sass
-4,7,6,8,5,8,4,6,6,12,laps; kreem; nooruk; nennike; alver; arseenik; pärtel; bett; rätsep; sass
+9,10,7,6,5,7,4,6,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+9,10,7,6,5,8,4,5,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+9,10,7,6,5,8,4,5,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+10,10,7,6,5,9,4,6,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+9,10,8,6,5,9,5,6,7,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+9,10,6,6,5,8,6,8,7,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+6,9,7,6,5,7,8,8,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+6,10,7,7,6,8,7,6,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+5,10,7,8,5,8,7,7,6,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+4,9,8,9,6,9,5,7,7,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik
+4,8,6,8,5,9,4,7,7,12,laps; bett; alver; nennike; pärtel; nooruk; kreem; meelõhnaline; rätsep; sass; arseenik

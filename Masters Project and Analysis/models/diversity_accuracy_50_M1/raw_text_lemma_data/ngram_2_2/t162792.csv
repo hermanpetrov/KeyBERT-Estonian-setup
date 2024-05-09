@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,1,2,2,3,3,2,4,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-3,3,1,2,2,3,3,2,4,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-3,3,1,2,2,3,3,2,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-3,3,1,2,2,3,3,2,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-3,3,1,2,2,3,3,2,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-3,3,1,2,2,3,3,2,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-4,3,1,2,2,3,3,3,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-4,5,2,4,2,3,3,3,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-4,4,2,5,1,4,3,3,5,12,ehmatamine; uskumus; sümptom; reet; meditsiin; häire
-4,5,1,4,2,4,2,3,5,12,ehmatamine; sümptom; uskumus; reet; meditsiin; häire
-4,5,1,4,3,4,4,3,6,12,ehmatamine; sümptom; uskumus; reet; meditsiin; häire
+5,4,3,3,2,4,3,3,5,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+6,4,3,3,2,4,3,3,5,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+6,4,3,3,2,4,3,3,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+6,4,3,3,2,4,3,3,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+6,4,3,3,2,4,3,3,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+5,4,3,3,2,4,3,3,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+6,4,2,3,2,4,3,5,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+5,6,5,5,2,5,5,5,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+5,5,5,7,1,6,4,5,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+5,7,2,5,2,5,3,5,6,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin
+4,7,1,5,3,6,6,6,7,12,tervisehäda; uskumus; kaitsemaagia; reet; häire; sümptom; üleloomulik; ehmatamine; meditsiin

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,1,0,0,11,ekskavaator
-0,0,0,0,0,0,1,0,0,11,ekskavaator
-0,0,0,0,0,0,1,0,0,11,ekskavaator
-0,0,0,0,0,0,1,0,0,11,ekskavaator
-0,0,0,0,0,0,1,0,0,11,ekskavaator
-0,0,0,0,0,0,1,0,0,11,ekskavaator
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,1,2,0,11,maaparandaja; emajõgi
+0,0,0,0,0,0,2,2,0,11,emajõgi; maaparandaja; ekskavaator
+0,0,0,0,0,0,2,2,0,11,emajõgi; paisjärv; maaparandaja; ekskavaator
+0,0,0,0,0,0,3,2,0,11,ekskavaator; emajõgi; maaparandaja; paisjärv
+0,0,0,0,0,0,1,1,0,11,emajõgi; ekskavaator
+1,0,0,0,0,0,2,1,0,11,ekskavaator; emajõgi; paisjärv
+1,1,0,0,0,0,1,2,0,11,paisjärv; ekskavaator; emajõgi; pumbajaam

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-2,1,0,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-2,1,0,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-2,1,1,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-2,1,1,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-2,1,1,1,1,1,1,3,0,14,margus; rapla; mikomägi; ugala; kultuuripärl; tooming
-0,1,1,0,1,2,2,2,0,14,margus; mikomägi; rapla; kultuuripärl
-0,1,2,0,1,2,1,1,0,14,margus; mikomägi; rapla; kultuuripärl
-0,0,2,1,1,2,1,1,0,14,andres; margus; mikomägi; rapla; kultuuripärl
-0,0,2,1,1,1,0,1,0,14,andres; margus; mikomägi; rapla; kultuuripärl
-0,0,0,1,1,0,0,1,0,14,andres; rapla; kultuuripärl
+2,1,0,1,1,1,1,3,0,14,mikomägi; rapla; ugala; margus; tooming; kultuuripärl
+2,1,0,1,1,1,1,3,0,14,mikomägi; rapla; ugala; margus; tooming; kultuuripärl
+2,1,0,1,1,1,1,3,0,14,mikomägi; rapla; ugala; margus; tooming; kultuuripärl
+2,1,1,1,1,1,1,3,0,14,mikomägi; rapla; margus; ugala; tooming; kultuuripärl
+2,1,1,1,1,1,1,3,0,14,mikomägi; rapla; margus; ugala; tooming; kultuuripärl
+2,1,1,1,1,1,1,3,0,14,mikomägi; rapla; margus; ugala; tooming; kultuuripärl
+0,1,1,0,1,2,2,2,0,14,mikomägi; rapla; margus; kultuuripärl
+0,1,2,0,1,2,1,1,0,14,mikomägi; rapla; margus; kultuuripärl
+0,0,2,1,1,2,1,1,0,14,mikomägi; rapla; margus; andres; kultuuripärl
+0,0,2,1,1,1,0,1,0,14,mikomägi; rapla; margus; andres; kultuuripärl
+0,0,0,1,1,0,0,1,0,14,kultuuripärl; rapla; andres

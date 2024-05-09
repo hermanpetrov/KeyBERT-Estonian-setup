@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,14,näitleja; salulaht
-1,0,0,0,0,0,0,1,0,14,näitleja; salulaht
-1,0,0,0,0,0,0,1,0,14,näitleja; salulaht
-1,0,0,0,0,0,0,1,0,14,näitleja; salulaht
-1,0,0,0,0,0,0,1,0,14,näitleja; salulaht
-1,0,0,0,0,1,0,0,0,14,ani; salulaht
+1,0,0,0,0,0,0,1,0,14,salulaht; näitleja
+1,0,0,0,0,0,0,1,0,14,salulaht; näitleja
+1,0,0,0,0,0,0,1,0,14,salulaht; näitleja
+1,0,0,0,0,0,0,1,0,14,salulaht; näitleja
+1,0,0,0,0,0,0,1,0,14,salulaht; näitleja
+1,0,0,0,0,1,0,0,0,14,salulaht; ani
 1,0,0,0,0,0,0,0,0,14,salulaht
-0,0,0,0,0,1,1,0,0,14,elmar; endel
+0,0,0,0,0,1,1,0,0,14,endel; elmar
 0,0,0,0,0,1,0,0,0,14,endel
 0,0,0,0,0,1,0,0,0,14,endel
-0,0,1,0,0,2,0,0,0,14,elmar; endel; näitleja
+0,0,1,0,0,2,0,0,0,14,endel; näitleja; elmar

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,4,1,0,4,3,0,1,12,eurole; venemaa; eesti; inflatsioon
-1,0,4,1,0,4,3,0,1,12,eurole; venemaa; eesti; inflatsioon
-1,0,3,1,0,3,3,0,1,12,eurole; venemaa; eesti; inflatsioon
-1,0,1,2,1,3,3,0,1,12,eurole; venemaa; eesti; inflatsioon
-0,0,2,2,1,1,2,0,1,12,venemaa; eurole; inflatsioon; eesti
-1,0,1,2,2,1,2,0,1,12,vasaktsentrist; venemaa; eurole; inflatsioon; eesti
-0,0,2,2,2,2,1,0,1,12,hamas; vasaktsentrist; eurole; venemaa; eesti; inflatsioon
-1,0,0,3,3,1,1,1,1,12,vasaktsentrist; eurole; venemaa; eesti; inflatsioon
-1,0,1,0,2,0,1,1,1,12,eurole; vasaktsentrist; venemaa; eesti; inflatsioon
-1,1,0,1,3,1,2,1,1,12,vasaktsentrist; eurole; inflatsioon; eesti
-0,1,1,1,4,1,1,2,2,12,hamas; vasaktsentrist; venemaa; eurole; inflatsioon; eesti
+1,0,4,1,0,4,3,0,1,12,venemaa; eesti; eurole; inflatsioon
+1,0,4,1,0,4,3,0,1,12,venemaa; eesti; eurole; inflatsioon
+1,0,3,1,0,3,3,0,1,12,venemaa; eesti; eurole; inflatsioon
+1,0,1,2,1,3,3,0,1,12,eesti; venemaa; eurole; inflatsioon
+0,0,2,2,1,1,2,0,1,12,eesti; venemaa; eurole; inflatsioon
+1,0,1,2,2,1,2,0,1,12,vasaktsentrist; venemaa; eesti; eurole; inflatsioon
+0,0,2,2,2,2,1,0,1,12,vasaktsentrist; venemaa; eesti; eurole; inflatsioon; hamas
+1,0,0,3,3,1,1,1,1,12,vasaktsentrist; venemaa; eesti; eurole; inflatsioon
+1,0,1,0,2,0,1,1,1,12,vasaktsentrist; eesti; venemaa; eurole; inflatsioon
+1,1,0,1,3,1,2,1,1,12,vasaktsentrist; eesti; eurole; inflatsioon
+0,1,1,1,4,1,1,2,2,12,vasaktsentrist; eesti; venemaa; eurole; inflatsioon; hamas

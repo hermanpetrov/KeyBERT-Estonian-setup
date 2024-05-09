@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,1,0,13,lugu
-0,0,0,0,0,0,0,1,0,13,lugu
-0,0,0,0,0,0,0,1,0,13,lugu
-0,0,0,0,0,0,0,1,0,13,lugu
-0,0,1,0,0,0,0,1,0,13,heinrich; lugu
-0,0,1,0,0,0,0,1,0,13,heinrich; lugu
-0,0,1,0,0,0,0,1,0,13,heinrich; lugu
-0,0,1,0,0,0,0,0,0,13,heinrich
-1,0,0,0,0,0,0,0,0,13,tõlgendus
-1,0,1,0,0,0,0,0,0,13,heinrich; psühholoogiline
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum; heinrich
+0,0,1,0,0,1,0,2,0,13,lastekirjanik; lugu; luuleruum; heinrich
+0,0,1,0,0,0,0,3,0,13,lugu; luuleruum; heinrich; pildiraamat
+0,0,1,0,0,0,0,1,0,13,luuleruum; heinrich
+1,1,0,0,0,0,0,0,0,13,lastekirjanik; tõlgendus
+2,0,1,0,0,0,0,0,0,13,luuleruum; psühholoogiline; heinrich
 0,0,1,0,0,0,0,0,0,13,heinrich

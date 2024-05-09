@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-1,0,0,0,1,1,3,1,1,15,ed; sullivan; biitel; lennon; epstein; kuum
-0,0,0,1,1,2,2,0,1,15,sullivan; maania; biitel; lennon; kuum
-0,0,0,0,1,1,2,0,1,15,biitel; lennon; maania; kuum
-2,0,0,2,1,1,1,2,0,15,ringo; brian; biitel; lennon; epstein; kuum
-0,2,1,1,1,1,2,1,0,15,ringo; brian; biitel; lennon; epstein; kuum
-0,0,1,2,0,1,1,1,0,15,ringo; biitel; lennon; kuum
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+1,0,0,0,1,2,4,1,1,15,lennon; epstein; biitel; kuum; ed; sullivan; kuuekümnes
+0,0,0,2,1,3,3,0,1,15,maania; lennon; biitel; kuum; sullivan; kuuekümnes
+0,0,0,0,1,2,3,0,1,15,maania; lennon; biitel; kuum; kuuekümnes
+2,0,0,2,1,2,2,3,0,15,lennon; epstein; brian; biitel; ringo; kuum; kuuekümnes
+0,2,2,1,1,2,3,1,0,15,lennon; epstein; brian; biitel; ringo; kuum; kuuekümnes
+0,0,1,2,0,2,2,2,0,15,ringo; lennon; biitel; kuum; kuuekümnes

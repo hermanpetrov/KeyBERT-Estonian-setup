@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,1,0,1,1,1,2,10,volga; leningrad; sõda; lend
-2,0,0,1,0,1,1,1,2,10,volga; leningrad; sõda; lend
-2,0,0,1,0,1,1,1,2,10,volga; leningrad; sõda; lend
-2,0,0,1,0,1,1,1,2,10,volga; leningrad; sõda; lend
-2,0,2,1,0,1,0,1,2,10,volga; leningrad; sõda; lend
-2,0,1,1,0,1,0,2,2,10,mälestus; volga; leningrad; sõda; lend
-2,0,1,1,0,1,0,2,2,10,mälestus; volga; leningrad; sõda; lend
-0,0,0,1,1,1,0,0,2,10,sõda; lend; volga; leningrad
-1,1,0,1,1,1,1,1,1,10,sõda; volga
-0,1,0,1,1,1,2,1,1,10,sõda; volga
-0,1,1,1,1,1,1,1,1,10,sõda; volga
+2,0,0,1,0,1,1,1,2,10,leningrad; lend; volga; sõda
+2,0,0,1,0,1,1,1,2,10,leningrad; lend; volga; sõda
+2,0,0,1,0,1,1,1,2,10,leningrad; lend; volga; sõda
+2,0,0,1,0,1,1,1,2,10,leningrad; lend; volga; sõda
+2,0,2,1,0,1,0,1,2,10,leningrad; lend; volga; sõda
+2,0,1,1,0,1,0,2,2,10,leningrad; lend; mälestus; volga; sõda
+2,0,1,1,0,1,0,2,2,10,lend; mälestus; leningrad; volga; sõda
+0,0,0,1,1,1,0,0,2,10,leningrad; volga; lend; sõda
+1,1,0,1,1,1,1,1,1,10,volga; sõda
+0,1,0,1,1,1,2,1,1,10,volga; sõda
+0,1,1,1,1,1,1,1,1,10,volga; sõda

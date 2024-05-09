@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,0,0,11,vesi
-0,1,1,0,0,1,1,0,0,11,vesi
-0,1,1,0,0,1,1,0,0,11,vesi
-0,1,1,0,0,1,1,0,0,11,vesi
-0,1,1,0,0,1,1,0,0,11,vesi
-0,1,0,0,0,0,0,0,0,11,vesi
-0,1,0,0,0,0,0,0,0,11,vesi
-0,1,0,0,0,0,0,0,0,11,kvaliteet
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,1,0,0,0,0,0,0,11,kvaliteet
+2,3,3,1,0,2,5,1,0,11,veetöötlusjaam; veevärk; vesi; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,3,3,1,0,2,5,1,0,11,veetöötlusjaam; veevärk; vesi; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,3,3,1,0,2,5,1,1,11,veetöötlusjaam; veevärk; vesi; tervisehäire; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,3,3,1,0,2,5,1,1,11,veetöötlusjaam; veevärk; vesi; tervisehäire; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,2,3,1,0,2,5,1,1,11,veetöötlusjaam; veevärk; vesi; tervisehäire; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,2,3,1,0,0,3,2,1,11,veetöötlusjaam; veevärk; vesi; tervisehäire; veevarustussüsteem; joogiveemäärus; põhjaveekompleks
+2,2,0,0,0,1,2,0,1,11,veevarustussüsteem; veetöötlusjaam; veevärk; põhjaveekompleks; vesi; tervisehäire
+2,2,0,0,0,1,2,0,1,11,veevarustussüsteem; veetöötlusjaam; veevärk; põhjaveekompleks; tervisehäire; kvaliteet
+1,1,0,0,0,0,1,1,1,11,veevarustussüsteem; veevärk; joogiveemäärus; põhjaveekompleks; tervisehäire
+0,0,0,0,0,1,0,2,1,11,tervisehäire; joogiveemäärus
+1,1,1,1,0,0,0,0,1,11,veevarustussüsteem; joogiveemäärus; põhjaveekompleks; tervisehäire; kvaliteet

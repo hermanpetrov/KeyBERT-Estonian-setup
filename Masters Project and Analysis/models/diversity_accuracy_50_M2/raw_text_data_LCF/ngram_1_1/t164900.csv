@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,0,1,2,1,2,13,muusikakool; muusika; kontsert; helin-mari; armastus
-1,1,3,1,0,1,2,1,2,13,muusikakool; muusika; kontsert; helin-mari; armastus
-1,1,3,1,0,1,2,1,2,13,muusikakool; muusika; kontsert; helin-mari; armastus
-1,1,1,1,0,1,2,1,2,13,kontsert; muusika; muusikakool; helin-mari; armastus
-1,1,3,1,0,0,2,1,2,13,muusikakool; arder; muusika; helin-mari; õpingud; armastus
-0,0,3,1,0,1,1,1,2,13,kontsert; arder; muusika; helin-mari; õpingud; armastus
-1,0,2,1,0,1,2,1,2,13,arder; helin-mari; õpingud; armastus
-1,0,2,1,0,2,1,1,2,13,soome; arder; helin-mari; õpingud; armastus
-0,0,2,1,0,2,1,2,2,13,soome; esinemine; arder; helin-mari; armastus
-0,0,2,0,0,2,1,1,2,13,soome; arder; helin-mari; armastus
-1,0,2,0,0,2,1,1,2,13,soome; arder; helin-mari; armastus
+1,1,3,1,0,2,1,2,0,13,helin-mari; muusika; armastus; muusikakool
+1,1,3,1,0,2,1,2,0,13,helin-mari; muusika; armastus; muusikakool
+1,1,3,1,0,2,1,2,0,13,helin-mari; muusika; armastus; muusikakool
+1,1,1,1,0,2,1,2,0,13,helin-mari; muusika; armastus; muusikakool
+1,1,3,1,0,2,1,2,0,13,helin-mari; muusika; õpingud; armastus; arder; muusikakool
+0,0,3,1,0,1,1,2,0,13,helin-mari; muusika; õpingud; arder; armastus
+1,0,2,1,0,2,1,2,0,13,helin-mari; õpingud; arder; armastus
+1,0,2,1,0,1,1,2,0,13,helin-mari; õpingud; arder; armastus
+0,0,2,1,0,1,2,2,0,13,esinemine; helin-mari; arder; armastus
+0,0,2,0,0,1,1,2,0,13,arder; helin-mari; armastus
+1,0,2,0,0,1,1,2,0,13,arder; helin-mari; armastus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-1,1,0,0,0,0,0,0,1,12,aeg; propaganda; aasta
-0,1,0,0,1,0,0,0,1,12,aeg; propaganda; aasta
-0,1,1,0,1,0,0,0,1,12,aeg; propaganda; aasta
-0,2,1,0,1,0,0,0,0,12,jessenin; propaganda; aasta
-0,2,2,0,1,0,0,0,0,12,jessenin; propaganda; aasta
-0,2,2,0,1,0,1,0,0,12,jessenin; kirik; propaganda; aasta
+3,2,0,0,0,1,2,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+3,2,0,0,0,1,2,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+3,2,0,0,0,1,2,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+3,2,0,0,0,1,2,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+3,2,0,0,0,1,2,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+3,2,0,0,0,1,1,1,2,12,aeg; kahekümnes; tervishoid; nõukogu; homoseksualism; aasta; propaganda
+1,2,0,1,1,1,1,1,2,12,aeg; kahekümnes; nõukogu; homoseksualism; aasta; propaganda
+0,2,1,0,1,1,1,2,1,12,aeg; kahekümnes; nõukogu; aasta; propaganda
+0,3,1,0,1,2,2,2,1,12,jessenin; kahekümnes; nõukogu; aasta; propaganda
+0,3,2,0,1,1,2,1,0,12,jessenin; kahekümnes; nõukogu; aasta; propaganda
+0,3,2,0,1,0,2,2,0,12,jessenin; kirik; kahekümnes; nõukogu; aasta; propaganda

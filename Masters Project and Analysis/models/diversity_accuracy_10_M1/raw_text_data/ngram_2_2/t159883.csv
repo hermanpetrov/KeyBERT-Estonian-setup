@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,1,0,1,1,2,0,14,vanaisa; vooglaid
-0,0,1,0,0,1,1,1,0,14,vanaisa; vooglaid
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,1,0,1,1,2,0,14,vooglaid; vanaisa
+0,0,1,0,0,1,1,1,0,14,vooglaid; vanaisa
 0,0,1,0,0,1,2,1,0,14,ülo; vanaisa
-0,0,1,0,0,1,2,1,0,14,ülo; vanaisa; vooglaid
+0,0,1,0,0,1,2,1,0,14,vooglaid; ülo; vanaisa
 0,0,1,0,0,1,2,0,0,14,töö; ülo; vanaisa
-0,1,1,0,0,2,1,0,0,14,töö; ülo; vanaisa; vooglaid
+0,1,1,0,0,2,1,0,0,14,ülo; töö; vooglaid; vanaisa

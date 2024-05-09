@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; luuletaja
-1,0,2,2,0,2,1,1,0,12,romaan; mati; tulevik; unt; luuletaja
-3,0,2,1,0,1,2,2,0,12,romaan; mati; iroonia; unt; luuletaja; kass
-1,0,2,3,0,3,2,4,0,12,iroonia; luuletaja; kollane; romaan; mati; viivi; kass
-3,0,2,3,0,3,3,3,0,12,iroonia; unt; luuletaja; kollane; romaan; mati; viivi; kass
-1,0,3,2,0,2,3,4,0,12,iroonia; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; tulevik; raadioarhiiv; romaan
+1,1,2,3,0,2,1,1,0,12,luuletaja; mati; unt; tulevik; raadioarhiiv; romaan
+3,1,2,2,0,2,2,2,0,12,luuletaja; mati; unt; kass; iroonia; raadioarhiiv; romaan
+1,1,2,4,0,4,2,4,0,12,luuletaja; iroonia; viivi; raadioarhiiv; kollane; mati; kass; romaan
+3,1,2,4,0,4,4,3,0,12,luuletaja; iroonia; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+1,1,3,3,0,2,4,4,0,12,luuletaja; iroonia; intervjuu; raadioarhiiv; viivi; kollane; mati; unt; kass; romaan

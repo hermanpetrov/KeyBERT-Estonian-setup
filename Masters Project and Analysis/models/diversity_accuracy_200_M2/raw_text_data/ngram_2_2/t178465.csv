@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,3,6,1,3,7,6,8,5,17,hermine; lavakas; amanda; pere; künnapas; piret; pesamuna; näitleja; lapsepõlv; lahkumine; hermiine; isa
-6,3,6,2,2,7,6,9,5,17,hermine; lavakas; amanda; pere; künnapas; piret; pesamuna; näitleja; lapsepõlv; juuksur; hermiine; isa
-5,4,6,2,2,7,5,9,5,17,hermine; amanda; pere; künnapas; piret; pesamuna; näitleja; lapsepõlv; juuksur; hermiine; isa
-5,4,6,2,2,7,5,9,5,17,hermine; amanda; pere; künnapas; piret; pesamuna; näitleja; lapsepõlv; juuksur; hermiine; isa
-8,5,6,2,1,7,6,8,4,17,hermine; lavakas; amanda; pere; künnapas; piret; pesamuna; näitleja; lapsepõlv; juuksur; lahkumine; hermiine; isa
-5,3,6,2,3,5,7,5,4,17,hermine; amanda; näitleja; lapsepõlv; juuksur; pere; lahkumine; hermiine; isa; piret; pesamuna; kalda
-3,5,8,5,2,8,8,5,3,17,hermine; amanda; pere; piret; pesamuna; kalda; näitleja; lapsepõlv; juuksur; lahkumine; hermiine; isa
-3,6,8,4,1,5,6,6,2,17,hermine; amanda; näitleja; lapsepõlv; juuksur; pere; lahkumine; hermiine; isa; piret; pesamuna; kalda
-4,5,7,4,5,5,2,5,3,17,hermine; balletikool; amanda; näitleja; künnapas; lapsepõlv; juuksur; pere; hermiine; isa; piret; pesamuna; kalda
-2,3,5,5,2,6,4,5,1,17,hermine; amanda; näitleja; lapsepõlv; juuksur; pere; lahkumine; isa; piret; pesamuna; kalda
-1,4,7,6,4,6,5,7,1,17,hermine; pesamuna; balletikool; amanda; näitleja; lapsepõlv; pere; lahkumine; isa; piret; künnapas; kalda
+7,3,6,1,3,7,6,8,5,17,pere; lahkumine; hermiine; lapsepõlv; näitleja; isa; hermine; künnapas; piret; pesamuna; amanda; lavakas
+6,3,6,2,2,7,6,9,5,17,pere; juuksur; hermiine; lapsepõlv; näitleja; isa; hermine; künnapas; piret; pesamuna; amanda; lavakas
+5,4,6,2,2,7,5,9,5,17,pere; juuksur; hermiine; lapsepõlv; näitleja; isa; hermine; künnapas; piret; pesamuna; amanda
+5,4,6,2,2,7,5,9,5,17,pere; juuksur; hermiine; lapsepõlv; näitleja; isa; hermine; künnapas; piret; pesamuna; amanda
+8,5,6,2,1,7,6,8,4,17,pere; juuksur; lahkumine; hermiine; lapsepõlv; näitleja; isa; hermine; künnapas; piret; pesamuna; amanda; lavakas
+5,3,6,2,3,5,7,5,4,17,pere; piret; kalda; pesamuna; juuksur; lahkumine; hermiine; lapsepõlv; näitleja; isa; hermine; amanda
+3,5,8,5,2,8,8,5,3,17,pere; kalda; juuksur; lahkumine; hermiine; näitleja; lapsepõlv; isa; hermine; piret; pesamuna; amanda
+3,6,8,4,1,5,6,6,2,17,pere; piret; pesamuna; kalda; juuksur; lahkumine; hermiine; näitleja; lapsepõlv; isa; hermine; amanda
+4,5,7,4,5,5,2,5,3,17,pere; piret; pesamuna; kalda; juuksur; hermiine; näitleja; lapsepõlv; isa; hermine; amanda; künnapas; balletikool
+2,3,5,5,2,6,4,5,1,17,pere; piret; pesamuna; kalda; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; amanda
+1,4,7,6,4,6,5,7,1,17,pere; piret; pesamuna; kalda; lahkumine; lapsepõlv; näitleja; isa; hermine; amanda; künnapas; balletikool

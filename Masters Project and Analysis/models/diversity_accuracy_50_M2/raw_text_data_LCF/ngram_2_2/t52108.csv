@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,6,5,1,4,2,7,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaailm; moemaja; moenädal; moekunstnik
-3,6,6,5,1,4,2,7,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaailm; moemaja; moenädal; moekunstnik
-3,6,6,5,1,4,2,7,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaailm; moemaja; moenädal; moekunstnik
-3,6,6,5,1,4,2,7,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaailm; moemaja; moenädal; moekunstnik
-3,6,5,4,1,4,3,5,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaailm; moemaja; moekunstnik
-4,4,1,4,1,4,4,3,2,12,lilli; ateljee; konstruktor; berliini; jahilo; moemaailm; moemaja; moenädal; moekunstnik
-1,4,3,1,1,5,3,5,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaja; moekunstnik
-1,2,4,2,1,3,2,4,2,12,lilli; ateljee; berliini; konstruktor; jahilo; moemaja; moekunstnik
-0,1,4,2,2,1,2,3,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moekunstnik
-1,2,2,1,1,4,3,3,2,12,lilli; ateljee; berliini; konstruktor; jahilo; kollektsioon; moemaja; moenädal; moekunstnik
-1,1,4,1,1,2,4,4,1,12,lilli; ateljee; berliini; konstruktor; jahilo; moemaja; moekunstnik
+3,6,6,5,1,2,7,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moenädal; moemaailm; kollektsioon; jahilo; berliini; lilli
+3,6,6,5,1,2,7,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moenädal; moemaailm; kollektsioon; jahilo; berliini; lilli
+3,6,6,5,1,2,7,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moenädal; moemaailm; kollektsioon; jahilo; berliini; lilli
+3,6,6,5,1,2,7,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moenädal; moemaailm; kollektsioon; jahilo; berliini; lilli
+3,6,5,4,1,3,5,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moemaailm; kollektsioon; jahilo; lilli; berliini
+4,4,1,4,1,4,3,2,0,12,konstruktor; moekunstnik; moemaja; moenädal; moemaailm; jahilo; berliini; lilli
+1,4,3,1,1,3,5,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; jahilo; berliini; lilli
+1,2,4,2,1,2,4,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; jahilo; berliini; lilli
+0,1,4,2,2,2,3,2,0,12,ateljee; konstruktor; moekunstnik; kollektsioon; jahilo; lilli; berliini
+1,2,2,1,1,3,3,2,0,12,ateljee; konstruktor; moekunstnik; moemaja; moenädal; kollektsioon; jahilo; berliini; lilli
+1,1,4,1,1,4,4,1,0,12,konstruktor; moekunstnik; moemaja; jahilo; lilli; berliini

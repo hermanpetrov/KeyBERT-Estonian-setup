@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,3,4,6,4,4,4,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; tamberg; noor
-6,7,3,4,6,4,4,4,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; tamberg; noor
-6,7,3,4,6,4,4,4,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; tamberg; noor
-6,7,5,4,5,5,6,5,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; tamberg; noor
-5,6,5,4,6,7,6,5,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; publik; tamberg; noor
-4,6,6,4,7,8,9,5,4,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; publik; tamberg; noor
-4,7,6,6,7,6,8,5,4,13,eino; muusika; eesti; steinway; helilooja; publik; nüüdismuusika; tamberg; noor
-4,7,6,5,6,6,6,6,5,13,eino; muusika; eesti; steinway; helilooja; publik; nüüdismuusika; tamberg; noor
-5,6,6,6,6,7,6,7,5,13,eino; muusika; eesti; steinway; helilooja; nüüdismuusika; publik; tamberg; noor
-4,6,6,6,6,7,5,6,7,13,eino; muusika; eesti; steinway; helilooja; publik; tamberg; noor
-4,5,6,6,6,7,5,7,7,13,eino; muusika; eesti; steinway; helilooja; publik; tamberg; noor
+6,7,3,4,6,4,4,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; muusika; helilooja
+6,7,3,4,6,4,4,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; muusika; helilooja
+6,7,3,4,6,4,4,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; muusika; helilooja
+6,7,5,4,5,6,5,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; muusika; helilooja
+5,6,5,4,6,6,5,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; muusika; helilooja
+4,6,6,4,7,9,5,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+4,7,6,6,7,8,5,4,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+4,7,6,5,6,6,6,5,0,13,eesti; tamberg; noor; steinway; eino; publik; muusika; helilooja
+5,6,6,6,6,6,7,5,0,13,eesti; tamberg; noor; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+4,6,6,6,6,5,6,7,0,13,eesti; tamberg; noor; steinway; eino; publik; muusika; helilooja
+4,5,6,6,6,5,7,7,0,13,eesti; tamberg; noor; steinway; eino; publik; muusika; helilooja

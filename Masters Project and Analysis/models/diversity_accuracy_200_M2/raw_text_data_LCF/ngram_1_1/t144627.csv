@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,1,1,0,0,1,3,4,12,lavakunstikateeder; näitleja; ebaõnnestumine; smuul; draamateater; tõnu; juhan
-4,2,1,1,0,0,1,3,3,12,lavakunstikateeder; näitleja; ebaõnnestumine; smuul; draamateater; tõnu; juhan
-3,2,1,1,0,0,1,3,3,12,lavakunstikateeder; näitleja; ebaõnnestumine; smuul; draamateater; tõnu; juhan
-3,2,1,1,0,0,0,2,4,12,lavakunstikateeder; näitleja; ebaõnnestumine; smuul; tõnu; juhan
-3,1,1,1,0,1,1,2,4,12,aav; lavakunstikateeder; näitleja; ebaõnnestumine; smuul; tõnu; juhan
-2,2,2,2,0,1,0,0,2,12,aav; lavakunstikateeder; näitleja; ebaõnnestumine; smuul; draamateater; tõnu; juhan
-1,2,2,3,0,2,1,3,2,12,aav; eneseusk; lavakunstikateeder; smuul; draamateater; tõnu; juhan
-1,2,1,1,0,1,0,1,2,12,eneseusk; lavakunstikateeder; draamateater; tõnu; juhan
-0,0,3,2,0,1,0,0,2,12,aav; eneseusk; lavakunstikateeder; draamateater; tõnu; näitleja; juhan
-2,1,3,1,0,0,1,2,2,12,smuul; aav; eneseusk; lavakunstikateeder; draamateater; juhan
-0,1,4,2,0,1,0,3,1,12,aav; eneseusk; lavakunstikateeder; näitleja; ebaõnnestumine; smuul; draamateater; juhan
+4,2,1,1,0,1,3,4,0,12,draamateater; näitleja; smuul; ebaõnnestumine; juhan; lavakunstikateeder; tõnu
+4,2,1,1,0,1,3,3,0,12,draamateater; näitleja; smuul; ebaõnnestumine; juhan; lavakunstikateeder; tõnu
+3,2,1,1,0,1,3,3,0,12,näitleja; smuul; tõnu; ebaõnnestumine; juhan; lavakunstikateeder; draamateater
+3,2,1,1,0,0,2,4,0,12,näitleja; smuul; ebaõnnestumine; juhan; lavakunstikateeder; tõnu
+3,1,1,1,0,1,2,4,0,12,näitleja; smuul; ebaõnnestumine; juhan; lavakunstikateeder; tõnu
+2,2,2,2,0,0,0,2,0,12,ebaõnnestumine; juhan; näitleja; draamateater; lavakunstikateeder; smuul; tõnu
+1,2,2,3,0,1,3,2,0,12,eneseusk; smuul; tõnu; juhan; aav; lavakunstikateeder; draamateater
+1,2,1,1,0,0,1,2,0,12,juhan; eneseusk; lavakunstikateeder; tõnu; draamateater
+0,0,3,2,0,0,0,2,0,12,draamateater; juhan; aav; lavakunstikateeder; näitleja; tõnu
+2,1,3,1,0,1,2,2,0,12,aav; juhan; eneseusk; lavakunstikateeder; smuul; draamateater
+0,1,4,2,0,0,3,1,0,12,eneseusk; smuul; näitleja; ebaõnnestumine; juhan; aav; lavakunstikateeder; draamateater

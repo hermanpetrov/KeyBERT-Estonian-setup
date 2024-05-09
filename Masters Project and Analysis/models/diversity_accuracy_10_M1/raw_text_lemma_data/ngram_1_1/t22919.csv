@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,0,1,13,galerii
-0,0,0,0,0,1,1,0,1,13,galerii
-0,0,0,0,0,1,1,0,0,13,galerii
-0,0,0,0,0,1,1,0,0,13,galerii
-0,0,1,0,0,1,1,0,0,13,aleksander; galerii
-0,0,1,0,0,1,1,0,0,13,aleksander; galerii
-0,0,1,0,0,0,1,0,0,13,aleksander; galerii
-0,0,1,0,0,0,1,0,0,13,aleksander; poliitiline
-0,0,1,0,0,0,0,0,1,13,aleksander; galerii
-0,0,1,0,0,0,0,0,1,13,aleksander; galerii
-0,0,0,0,0,0,0,0,1,13,galerii
+0,1,0,0,0,1,2,2,1,13,galerii; graafikatriennaal; kunstihoone
+0,1,0,0,0,1,2,2,1,13,galerii; graafikatriennaal; kunstihoone
+0,1,0,0,0,1,2,2,0,13,galerii; graafikatriennaal; kunstihoone
+0,1,0,0,0,1,2,2,0,13,galerii; graafikatriennaal; kunstihoone
+0,1,1,0,0,1,2,2,0,13,aleksander; galerii; graafikatriennaal; kunstihoone
+0,1,1,0,0,1,2,2,0,13,aleksander; galerii; graafikatriennaal; kunstihoone
+0,1,1,0,0,0,2,1,0,13,aleksander; galerii; graafikatriennaal; kunstihoone
+0,1,1,0,0,0,2,1,0,13,poliitiline; aleksander; graafikatriennaal; kunstihoone
+0,1,1,0,0,0,1,1,1,13,aleksander; graafikatriennaal; galerii; kunstihoone
+0,1,1,0,0,0,1,1,1,13,aleksander; graafikatriennaal; galerii; kunstihoone
+0,1,0,0,0,0,1,1,1,13,graafikatriennaal; galerii; kunstihoone

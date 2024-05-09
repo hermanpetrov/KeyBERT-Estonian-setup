@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-2,1,1,1,0,1,2,1,0,18,konverents; nädal; isis; restoran; eesti
-0,1,1,1,0,2,2,1,0,18,konverents; restoran; eesti
-1,0,0,0,0,2,1,0,0,18,konverents; eesti
-3,0,1,1,0,1,0,1,0,18,hans; konverents; hindper; restoran; eesti
-2,1,0,1,0,1,0,1,0,18,hans; konverents; hindper; eesti
-1,1,0,1,0,1,0,1,0,18,konverents; nädal; laager; eesti
+3,1,2,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+3,1,2,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+3,1,2,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+3,1,2,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+3,1,2,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+3,1,1,1,0,2,3,2,0,18,eesti; isis; koolitulistamine; konverents; nädal; usuäärmuslus; restoran
+1,1,1,1,0,3,3,2,0,18,konverents; eesti; koolitulistamine; usuäärmuslus; restoran
+2,0,0,1,0,3,2,1,0,18,konverents; koolitulistamine; eesti; ülikool; usuäärmuslus
+4,0,1,1,0,2,1,2,0,18,hans; eesti; koolitulistamine; konverents; usuäärmuslus; hindper; restoran
+3,1,0,1,0,1,1,2,0,18,konverents; eesti; hans; koolitulistamine; usuäärmuslus; hindper
+2,2,0,1,0,1,1,1,0,18,konverents; eesti; koolitulistamine; usuäärmuslus; nädal; laager

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,1,0,0,0,16,ingerimaa; needmine; ungari
-1,0,0,0,1,1,0,0,0,16,ingerimaa; needmine; ungari
-1,0,0,0,1,1,0,0,0,16,ingerimaa; needmine; ungari
-1,0,0,0,1,1,0,0,0,16,ingerimaa; needmine; ungari
-1,0,1,0,1,1,0,0,0,16,ingerimaa; needmine; ungari; ellerhein
-1,1,1,0,1,1,0,2,0,16,ungari; ingerimaa; needmine; tõnu; folkloorifestival; ellerhein
-2,1,2,0,1,2,0,2,0,16,ungari; ingerimaa; kaljuste; needmine; tõnu; veljo; ellerhein
-1,1,2,0,1,3,0,2,0,16,ratassepp; needmine; veljo; folkloorifestival; ellerhein; ingerimaa; kaljuste; tõnu
-0,1,2,0,1,3,0,1,0,16,ratassepp; ingerimaa; kaljuste; needmine; veljo; folkloorifestival; ellerhein
-1,2,2,2,1,2,0,4,1,16,tormis; ratassepp; raua; needmine; folkloorifestival; ellerhein; ungari; ingerimaa; kaljuste; arvo
-0,1,2,2,1,2,0,2,2,16,tormis; ratassepp; needmine; veljo; folkloorifestival; ellerhein; ungari; ingerimaa; kaljuste; arvo
+1,0,0,0,1,0,0,0,0,16,needmine; ingerimaa
+1,0,0,0,1,0,0,0,0,16,needmine; ingerimaa
+1,0,0,0,1,0,0,0,0,16,needmine; ingerimaa
+1,0,0,0,1,0,0,0,0,16,needmine; ingerimaa
+1,0,1,0,1,0,0,0,0,16,ellerhein; needmine; ingerimaa
+1,1,1,0,1,0,2,0,0,16,needmine; folkloorifestival; ellerhein; ingerimaa; tõnu
+2,1,2,0,1,0,2,0,0,16,kaljuste; needmine; ellerhein; ingerimaa; tõnu
+1,1,2,0,1,0,2,0,0,16,kaljuste; needmine; ellerhein; ingerimaa; tõnu
+0,1,2,0,1,0,1,0,0,16,kaljuste; needmine; ellerhein; ingerimaa
+1,2,2,2,1,0,4,1,0,16,kaljuste; ungari; folkloorifestival; ratassepp; tormis; ingerimaa; needmine; ellerhein; raua; arvo
+0,1,2,2,1,0,2,2,0,16,kaljuste; ungari; folkloorifestival; tormis; ingerimaa; needmine; ellerhein; arvo

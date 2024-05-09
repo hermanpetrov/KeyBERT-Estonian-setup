@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-1,0,0,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-1,0,0,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-1,0,0,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-1,0,0,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-1,0,2,1,0,1,1,4,0,13,sobak; jüri; kristi; kreeka
-0,0,0,0,0,1,1,3,0,13,sobak; kristi; jüri; kreeka
-0,1,1,2,0,0,1,2,0,13,kristi; jüri; kreeka
-1,0,3,0,0,1,1,3,0,13,sobak; kristi; jüri; tööjõupuudus; kreeka
-0,1,1,1,0,1,2,3,0,13,sobak; jüri; kreeka
-1,1,1,1,0,2,2,3,0,13,sobak; jüri; kristi; idamurderaamat; kreeka
+1,0,0,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+1,0,0,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+1,0,0,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+1,0,0,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+1,0,0,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+1,0,2,1,0,1,4,0,0,13,kreeka; jüri; kristi; sobak
+0,0,0,0,0,1,3,0,0,13,jüri; sobak; kristi; kreeka
+0,1,1,2,0,1,2,0,0,13,jüri; kristi; kreeka
+1,0,3,0,0,1,3,0,0,13,kreeka; jüri; tööjõupuudus; kristi; sobak
+0,1,1,1,0,2,3,0,0,13,kreeka; jüri; sobak
+1,1,1,1,0,2,3,0,0,13,kreeka; jüri; kristi; sobak

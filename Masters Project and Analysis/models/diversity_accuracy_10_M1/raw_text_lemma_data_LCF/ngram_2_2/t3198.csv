@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,1,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg; mall
-1,0,3,1,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg; mall
-1,0,3,1,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg; mall
-1,0,3,1,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg; mall
-1,0,3,1,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg; mall
-1,0,3,1,1,1,1,1,0,14,parts; koalitsioon; aktsia; mälberg; mall
-0,0,2,0,1,1,1,0,0,14,parts; koalitsioon; aktsia; mälberg
-0,0,3,0,1,3,0,0,0,14,parts; koalitsioon; aktsia; mälberg; juhan; mall
-2,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; mall
-2,0,2,0,1,2,1,0,0,14,parts; koalitsioon; aktsia; mälberg; juhan; mall
-0,0,2,0,1,2,0,0,0,14,parts; koalitsioon; aktsia; mälberg; juhan
+1,0,4,2,1,1,1,0,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+1,0,4,2,1,1,1,0,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+1,0,4,2,1,1,1,0,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+1,0,4,2,1,1,1,0,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+1,0,4,2,1,1,1,0,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+1,0,4,2,1,1,1,1,0,14,hansapank; parts; mall; aktsia; mälberg; koalitsioon
+0,0,3,1,1,1,1,0,0,14,hansapank; parts; liivrand; mälberg; aktsia; koalitsioon
+0,1,3,1,1,3,0,0,0,14,hansapank; parts; mälberg; välisminister; mall; juhan; aktsia; koalitsioon
+2,1,2,0,0,2,1,1,0,14,võimuvõitlus; mall; välisminister; mälberg; koalitsioon
+2,0,2,1,1,2,1,1,0,14,parts; mall; aktsia; välisminister; juhan; mälberg; koalitsioon
+0,0,2,0,1,2,0,1,1,14,parts; välisminister; aktsia; juhan; tuumarelv; mälberg; koalitsioon

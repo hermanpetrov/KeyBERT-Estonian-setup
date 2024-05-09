@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,1,2,2,0,17,mälestus; pere; isa; näitleja
-0,2,0,0,0,1,2,2,0,17,mälestus; pere; isa; näitleja
-0,2,0,0,0,1,2,2,0,17,mälestus; pere; isa; näitleja
-0,2,0,0,0,1,2,2,0,17,mälestus; pere; isa; näitleja
-0,2,0,0,0,1,2,2,0,17,mälestus; pere; isa; näitleja
-0,1,1,0,0,1,2,2,0,17,mälestus; pere; näitleja
-0,0,1,0,0,2,2,2,0,17,pere; isa; näitleja
-0,2,2,0,0,2,3,2,0,17,mälestus; pere; isa; näitleja
-1,1,2,0,0,2,3,2,0,17,pere; isa; näitleja
-0,0,1,0,0,2,0,1,0,17,näitleja; pere
-0,0,0,0,0,2,2,1,0,17,pere; lahkumine; isa; näitleja
+0,2,0,0,0,1,2,2,1,17,isa; pere; mälestus; lapsepõlv; näitleja
+0,2,0,0,0,1,2,2,1,17,isa; pere; mälestus; lapsepõlv; näitleja
+0,2,0,0,0,1,2,2,1,17,isa; pere; mälestus; lapsepõlv; näitleja
+0,2,0,0,0,1,2,2,1,17,isa; pere; mälestus; lapsepõlv; näitleja
+0,2,0,0,0,1,2,2,1,17,isa; pere; mälestus; lapsepõlv; näitleja
+0,1,1,0,0,1,2,2,1,17,pere; mälestus; lapsepõlv; näitleja
+0,1,1,0,0,3,2,2,1,17,pere; isa; näitleja; lapsepõlv
+0,2,2,0,0,3,4,2,1,17,isa; pere; lapsepõlv; mälestus; näitleja
+1,1,2,0,0,3,4,2,1,17,isa; pere; lapsepõlv; näitleja
+0,0,2,0,0,3,0,1,1,17,pere; lapsepõlv; näitleja; balletikool
+0,0,0,0,0,3,2,1,1,17,pere; isa; näitleja; lapsepõlv; lahkumine

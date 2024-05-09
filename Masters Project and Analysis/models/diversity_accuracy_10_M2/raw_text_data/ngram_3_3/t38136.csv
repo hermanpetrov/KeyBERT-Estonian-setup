@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,1,0,0,13,aivar; muusika; klubikultuur; tõnson
-1,1,1,0,0,1,2,1,0,13,klubikultuur; muusika
-1,0,0,0,1,0,1,1,0,13,alternatiiv; klubikultuur; muusika
+3,1,1,1,0,1,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+3,1,1,1,0,1,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+3,1,1,1,0,1,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+3,1,1,1,0,1,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+3,1,1,1,0,1,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+3,1,1,1,0,1,1,0,0,13,muusika; aivar; tõnson; klubikultuur
+1,1,1,0,0,1,2,1,0,13,muusika; klubikultuur
+1,0,0,0,1,0,1,1,0,13,alternatiiv; muusika; klubikultuur
 0,0,1,0,1,0,0,0,0,13,alternatiiv; klubikultuur
-1,0,0,0,0,2,0,2,0,13,aivar; tõnson
-0,0,0,0,0,0,0,2,0,13,aivar; tõnson
+1,0,0,0,0,2,0,2,0,13,tõnson; aivar
+0,0,0,0,0,0,0,2,0,13,tõnson; aivar

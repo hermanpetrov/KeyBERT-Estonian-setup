@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,3,0,12,ehmatamine; uskumus; reet; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,1,2,0,12,ehmatamine; uskumus; hiiemäe; tervisehäda; meditsiin
-1,1,0,0,0,2,2,2,0,12,ehmatamine; uskumus; hiiemäe; tervisehäda; meditsiin
-2,0,0,1,0,0,1,2,0,12,hiiemäe; ehmatamine; uskumus; meditsiin
-1,1,0,0,0,0,2,3,0,12,ehmatamine; reet; hiiemäe; meditsiin
-0,1,0,0,0,0,2,2,0,12,reet; hiiemäe; tervisehäda
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,3,0,12,tervisehäda; reet; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,1,2,0,12,tervisehäda; uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,2,2,2,0,12,tervisehäda; uskumus; hiiemäe; ehmatamine; meditsiin
+2,0,0,1,0,0,1,2,0,12,uskumus; hiiemäe; ehmatamine; meditsiin
+1,1,0,0,0,0,2,3,0,12,hiiemäe; ehmatamine; reet; meditsiin
+0,1,0,0,0,0,2,2,0,12,tervisehäda; hiiemäe; reet

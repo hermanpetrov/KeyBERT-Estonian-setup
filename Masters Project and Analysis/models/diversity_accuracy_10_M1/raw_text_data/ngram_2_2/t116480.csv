@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,1,0,0,0,16,ungari; kammerkoor; ellerhein
-0,2,0,0,0,1,0,0,1,16,ungari; kammerkoor; ellerhein
-0,2,0,0,0,1,0,0,1,16,ungari; kammerkoor; ellerhein
-0,2,0,0,0,1,0,0,1,16,ungari; kammerkoor; ellerhein
-0,2,0,0,0,1,0,0,1,16,ungari; kammerkoor; ellerhein
-0,2,0,0,0,1,0,0,1,16,ungari; kammerkoor; ellerhein
-0,1,0,0,0,1,0,0,2,16,ungari; õhtud; ellerhein
-0,1,1,1,0,0,0,0,2,16,arvo; ungari; õhtud; folkloorifestival; ellerhein
-1,2,1,0,0,1,0,0,1,16,ungari; kammerkoor; folkloorifestival; arvo; ellerhein
-1,1,0,0,0,1,1,0,1,16,ungari; kammerkoor; ellerhein
-2,2,1,0,0,1,1,0,1,16,ungari; õhtud; tormis; ingerimaa; kaljuste; ellerhein
+0,2,0,0,0,1,0,0,0,16,kammerkoor; ellerhein; ungari
+0,2,0,0,0,1,0,0,1,16,kammerkoor; ellerhein; ungari
+0,2,0,0,0,1,0,0,1,16,kammerkoor; ellerhein; ungari
+0,2,0,0,0,1,0,0,1,16,kammerkoor; ellerhein; ungari
+0,2,0,0,0,1,0,0,1,16,kammerkoor; ellerhein; ungari
+0,2,0,0,0,1,0,0,1,16,kammerkoor; ellerhein; ungari
+0,1,0,0,0,1,0,0,2,16,ellerhein; ungari; õhtud
+0,1,1,1,0,0,0,0,2,16,ungari; folkloorifestival; ellerhein; arvo; õhtud
+1,2,1,0,0,1,0,0,1,16,kammerkoor; ungari; folkloorifestival; ellerhein; arvo
+1,1,0,0,0,1,1,0,1,16,kammerkoor; ellerhein; ungari
+2,2,1,0,0,1,1,0,1,16,ungari; kaljuste; tormis; ellerhein; ingerimaa; õhtud

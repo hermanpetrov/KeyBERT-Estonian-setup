@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,3,2,1,0,15,film; kangelane; nõukogude; zoja; varvara; naiskangelanna; stalin
-1,2,1,0,0,3,2,1,0,15,film; kangelane; nõukogude; zoja; varvara; naiskangelanna; stalin
-1,2,1,0,0,3,2,1,0,15,film; kangelane; nõukogude; zoja; varvara; naiskangelanna; stalin
-1,2,0,0,0,3,2,1,0,15,kangelane; nõukogude; zoja; varvara; naiskangelanna; stalin
-1,2,1,0,0,3,3,1,0,15,kangelane; nõukogude; zoja; film; varvara; naiskangelanna; stalin
-1,1,1,0,0,2,2,1,0,15,nõukogude; zoja; kangelane; varvara; naiskangelanna
-0,1,1,1,0,2,1,1,0,15,nõukogude; zoja; naiskangelanna; stalin
-1,1,1,0,0,2,0,1,0,15,nõukogude; zoja; naiskangelanna; stalin
-1,1,1,1,0,2,1,1,0,15,kosmodemjanskaja; nõukogude; kangelane; zoja; naiskangelanna; stalin
-0,1,1,0,0,2,1,3,0,15,kosmodemjanskaja; nõukogude; zoja; naiskangelanna; stalin
-0,0,0,0,0,3,1,2,0,15,kosmodemjanskaja; kangelane; zoja; armukolmnurk; stalin
+1,2,1,0,0,3,2,1,0,15,film; varvara; zoja; nõukogude; kangelane; stalin; naiskangelanna
+1,2,1,0,0,3,2,1,0,15,film; varvara; zoja; nõukogude; kangelane; stalin; naiskangelanna
+1,2,1,0,0,3,2,1,0,15,film; varvara; zoja; nõukogude; kangelane; stalin; naiskangelanna
+1,2,0,0,0,3,2,1,0,15,zoja; varvara; nõukogude; kangelane; stalin; naiskangelanna
+1,2,1,0,0,3,3,1,0,15,zoja; varvara; nõukogude; film; kangelane; stalin; naiskangelanna
+1,1,1,0,0,2,2,1,0,15,zoja; varvara; nõukogude; kangelane; naiskangelanna
+0,1,1,1,0,2,1,1,0,15,zoja; nõukogude; stalin; naiskangelanna
+1,1,1,0,0,2,0,1,0,15,zoja; nõukogude; stalin; naiskangelanna
+1,1,1,1,0,2,1,1,0,15,zoja; nõukogude; kangelane; kosmodemjanskaja; stalin; naiskangelanna
+0,1,1,0,0,2,1,3,0,15,zoja; nõukogude; kosmodemjanskaja; stalin; naiskangelanna
+0,0,0,0,0,3,1,2,0,15,zoja; armukolmnurk; kangelane; kosmodemjanskaja; stalin

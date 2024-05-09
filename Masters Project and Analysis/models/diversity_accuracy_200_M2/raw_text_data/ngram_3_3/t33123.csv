@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,8,6,7,6,6,5,7,7,12,krista; kerge; haridus; meedia; arengukava; ühisosa; keelekorraldus; lingvistika; keele
-7,7,6,7,6,6,5,7,7,12,krista; kerge; haridus; meedia; arengukava; ühisosa; keelekorraldus; lingvistika; keele
-7,7,6,7,6,6,5,7,7,12,krista; kerge; haridus; meedia; arengukava; ühisosa; keelekorraldus; lingvistika; keele
-7,9,7,7,6,6,5,7,7,12,haridus; meedia; arengukava; lingvistika; keele; krista; kerge; ühisosa; keelekorraldus
-8,8,6,7,6,5,5,7,7,12,krista; kerge; haridus; meedia; arengukava; ühisosa; keelekorraldus; lingvistika; keele
-8,9,8,7,7,5,5,7,7,12,krista; ilukirjandus; ühisosa; kerge; haridus; meedia; arengukava; lingvistika; keelekorraldus; keele
-9,6,9,7,7,7,7,9,7,12,haridus; meedia; arengukava; lingvistika; keele; krista; ilukirjandus; kerge; ühisosa; keelekorraldus
-8,5,6,8,8,7,6,8,7,12,krista; ühisosa; kerge; haridus; meedia; arengukava; lingvistika; keele
-8,6,6,10,7,6,6,8,6,12,haridus; meedia; arengukava; lingvistika; keele; krista; ilukirjandus; kerge; ühisosa; keelekorraldus
-8,7,6,6,7,6,6,9,7,12,haridus; meedia; arengukava; lingvistika; keele; krista; ilukirjandus; kerge; ühisosa; keelekorraldus
-8,6,6,6,6,6,6,7,7,12,krista; ilukirjandus; kerge; haridus; meedia; arengukava; ühisosa; keelekorraldus; lingvistika; keele
+7,8,6,7,6,6,5,7,7,12,kerge; arengukava; keele; ühisosa; lingvistika; haridus; keelekorraldus; krista; meedia
+7,7,6,7,6,6,5,7,7,12,kerge; arengukava; keele; ühisosa; lingvistika; haridus; keelekorraldus; krista; meedia
+7,7,6,7,6,6,5,7,7,12,kerge; arengukava; keele; ühisosa; lingvistika; haridus; keelekorraldus; krista; meedia
+7,9,7,7,6,6,5,7,7,12,ühisosa; keelekorraldus; krista; meedia; arengukava; kerge; keele; lingvistika; haridus
+8,8,6,7,6,5,5,7,7,12,kerge; arengukava; keele; ühisosa; lingvistika; haridus; keelekorraldus; krista; meedia
+8,9,8,7,7,5,5,7,7,12,meedia; kerge; keele; ühisosa; ilukirjandus; lingvistika; haridus; keelekorraldus; krista; arengukava
+9,6,9,7,7,7,7,9,7,12,ühisosa; keelekorraldus; krista; meedia; arengukava; kerge; keele; ilukirjandus; lingvistika; haridus
+8,5,6,8,8,7,6,8,7,12,meedia; kerge; keele; ühisosa; lingvistika; haridus; krista; arengukava
+8,6,6,10,7,6,6,8,6,12,ühisosa; keelekorraldus; krista; meedia; arengukava; kerge; keele; ilukirjandus; lingvistika; haridus
+8,7,6,6,7,6,6,9,7,12,ühisosa; keelekorraldus; krista; arengukava; meedia; kerge; keele; ilukirjandus; lingvistika; haridus
+8,6,6,6,6,6,6,7,7,12,kerge; arengukava; keele; ühisosa; ilukirjandus; lingvistika; haridus; keelekorraldus; krista; meedia

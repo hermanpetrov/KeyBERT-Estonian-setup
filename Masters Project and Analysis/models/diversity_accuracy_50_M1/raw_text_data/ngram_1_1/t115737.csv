@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,1,1,0,0,14,hermann; karl; keel; küsimus
-1,0,2,0,0,1,1,0,0,14,hermann; karl; keel; küsimus
-1,0,2,0,0,1,1,0,0,14,hermann; karl; keel; küsimus
+1,0,2,0,0,1,1,0,0,14,keel; küsimus; karl; hermann
+1,0,2,0,0,1,1,0,0,14,keel; küsimus; karl; hermann
+1,0,2,0,0,1,1,0,0,14,keel; küsimus; karl; hermann
 1,0,1,0,0,1,1,0,0,14,keel; küsimus; hermann
 1,0,1,0,0,1,1,0,0,14,keel; küsimus; hermann
 1,0,1,0,0,2,0,0,0,14,keel; küsimus; hermann
 1,0,2,0,0,1,1,0,0,14,tuglas; hermann; karl; hellitus
-0,0,1,0,0,1,2,0,0,14,küsimus; hermann; johannes
-0,0,0,1,0,0,1,0,0,14,hellitus; johannes
-0,1,1,1,0,0,2,0,0,14,hermann; hellitus; johannes
-0,1,3,0,0,0,2,1,0,14,august; hermann; karl; johannes; küsimus; hellitus
+0,0,1,0,0,1,2,0,0,14,johannes; hermann; küsimus
+0,0,0,1,0,0,1,0,0,14,johannes; hellitus
+0,1,1,1,0,0,2,0,0,14,johannes; hermann; hellitus
+0,1,3,0,0,0,2,1,0,14,küsimus; karl; hellitus; johannes; hermann; august

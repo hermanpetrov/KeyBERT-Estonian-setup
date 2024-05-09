@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,1,0,2,0,11,religioon; püha; üliintellekt
-1,0,0,1,0,1,0,2,0,11,religioon; püha; üliintellekt
-1,0,0,1,0,1,0,2,0,11,religioon; püha; üliintellekt
-1,0,0,1,0,1,0,2,0,11,religioon; püha; üliintellekt
-1,0,1,1,0,1,0,2,0,11,religioon; püha; üliintellekt
-1,0,1,0,0,1,0,2,0,11,religioon; püha; üliintellekt
-2,0,2,0,0,1,0,2,0,11,religioon; püha; sekularism; üliintellekt
-0,0,0,0,0,1,0,1,0,11,religioon; püha
-1,0,1,0,0,1,0,1,0,11,religioon; püha; sekularism
-1,0,0,0,0,1,0,1,0,11,religioon; püha; sekularism
-0,0,0,0,0,1,0,1,0,11,religioon; püha
+1,0,0,1,0,0,2,0,0,11,üliintellekt; religioon; püha
+1,0,0,1,0,0,2,0,0,11,üliintellekt; religioon; püha
+1,0,0,1,0,0,2,0,0,11,üliintellekt; religioon; püha
+1,0,0,1,0,0,2,0,0,11,üliintellekt; religioon; püha
+1,0,1,1,0,0,2,0,0,11,üliintellekt; religioon; püha
+1,0,1,0,0,0,2,0,0,11,üliintellekt; religioon; püha
+2,0,2,0,0,0,2,0,0,11,üliintellekt; püha; religioon; sekularism
+0,0,0,0,0,0,1,0,0,11,religioon
+1,0,1,0,0,0,1,0,0,11,püha; religioon; sekularism
+1,0,0,0,0,0,1,0,0,11,religioon; sekularism
+0,0,0,0,0,0,1,0,0,11,religioon

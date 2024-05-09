@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,4,1,3,3,3,1,11,lauluväljak; vanarahvas; õlletegu; jaanipidu; looduse; noorsoofestival; jaanituli
-3,0,2,4,1,3,3,3,1,11,lauluväljak; vanarahvas; õlletegu; jaanipidu; looduse; noorsoofestival; jaanituli
-3,0,1,4,1,2,4,3,0,11,lauluväljak; vanarahvas; õlletegu; jaanipidu; noorsoofestival; jaanituli
-2,0,1,4,1,2,3,2,0,11,lauluväljak; vanarahvas; noorsoofestival; jaanituli; õlletegu; jaanipidu
-2,1,0,4,1,3,3,1,0,11,lauluväljak; vanarahvas; kiik; õlletegu; jaanipidu; noorsoofestival; jaanituli
-2,1,0,2,1,2,1,3,0,11,lauluväljak; kiik; vanarahvas; noorsoofestival; õlletegu; jaanipidu
-1,1,0,1,1,1,1,1,0,11,õlletegu; noorsoofestival; looduse
+3,1,2,4,1,3,3,3,1,11,lauluväljak; looduse; õlletegu; jaanipidu; jaanituli; vanarahvas; noorsoofestival
+3,0,2,4,1,3,3,3,1,11,lauluväljak; looduse; õlletegu; jaanipidu; jaanituli; vanarahvas; noorsoofestival
+3,0,1,4,1,2,4,3,0,11,lauluväljak; õlletegu; jaanipidu; jaanituli; vanarahvas; noorsoofestival
+2,0,1,4,1,2,3,2,0,11,õlletegu; jaanipidu; jaanituli; lauluväljak; vanarahvas; noorsoofestival
+2,1,0,4,1,3,3,1,0,11,lauluväljak; õlletegu; jaanipidu; jaanituli; kiik; vanarahvas; noorsoofestival
+2,1,0,2,1,2,1,3,0,11,õlletegu; jaanipidu; lauluväljak; kiik; vanarahvas; noorsoofestival
+1,1,0,1,1,1,1,1,0,11,noorsoofestival; looduse; õlletegu
 1,1,2,0,1,0,0,2,0,11,kiik; noorsoofestival
 0,1,1,0,0,0,1,0,1,11,kiik; noorsoofestival
-0,1,1,0,0,1,1,0,2,11,kiik; vanarahvas; noorsoofestival; looduse
-0,1,1,0,1,1,1,0,2,11,lauluväljak; kiik; vanarahvas; noorsoofestival; looduse
+0,1,1,0,0,1,1,0,2,11,kiik; looduse; vanarahvas; noorsoofestival
+0,1,1,0,1,1,1,0,2,11,kiik; lauluväljak; looduse; vanarahvas; noorsoofestival

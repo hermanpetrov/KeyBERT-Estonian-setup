@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,1,0,2,1,2,0,12,merekultuur; mereriik; meremees
-0,0,2,1,0,2,1,2,0,12,merekultuur; mereriik; meremees
-0,0,2,1,0,2,1,2,0,12,merekultuur; mereriik; meremees
-0,0,2,1,0,2,1,2,0,12,merekultuur; mereriik; meremees
-0,0,2,1,0,2,1,2,0,12,merekultuur; mereriik; meremees
-0,0,2,1,0,2,2,2,0,12,merekultuur; mereriik; kapten; meremees
-1,0,1,0,0,2,2,2,0,12,merekultuur; mereriik; kapten
-1,1,3,0,0,3,3,1,0,12,mereparaad; merekultuur; mereriik; järvelaid; meremees
+0,0,2,1,0,2,1,2,0,12,mereriik; meremees; merekultuur
+0,0,2,1,0,2,1,2,0,12,mereriik; meremees; merekultuur
+0,0,2,1,0,2,1,2,0,12,mereriik; meremees; merekultuur
+0,0,2,1,0,2,1,2,0,12,mereriik; meremees; merekultuur
+0,0,2,1,0,2,1,2,0,12,mereriik; meremees; merekultuur
+0,0,2,1,0,2,2,2,0,12,mereriik; kapten; meremees; merekultuur
+1,0,1,0,0,2,2,2,0,12,kapten; mereriik; merekultuur
+1,1,3,0,0,3,3,1,0,12,mereriik; meremees; mereparaad; järvelaid; merekultuur
 0,0,0,0,0,1,2,2,0,12,mereriik; järvelaid; kapten
-0,0,1,0,0,1,2,1,0,12,mereparaad; mereriik; järvelaid
-0,1,3,0,0,1,1,1,0,12,pitka; mereriik; järvelaid; meremees; peeter
+0,0,1,0,0,1,2,1,0,12,mereriik; järvelaid; mereparaad
+0,1,3,0,0,1,1,1,0,12,mereriik; pitka; peeter; meremees; järvelaid

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,3,0,1,5,3,3,4,16,tormis; veljo; ellerhein; ungari; õhtu; raud; kaljuste; tõnu; arvo
-3,1,2,0,1,4,3,3,4,16,tormis; veljo; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-3,1,3,0,1,4,4,3,4,16,tormis; veljo; temperamentne; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-2,1,4,0,2,4,4,4,4,16,tormis; veljo; temperamentne; ellerhein; ungari; õhtu; raud; kaljuste; tõnu; arvo
-2,1,4,0,2,5,3,6,4,16,tormis; veljo; temperamentne; ellerhein; ungari; õhtu; raud; kaljuste; tõnu; arvo
-3,2,6,1,3,5,3,6,4,16,tormis; veljo; temperamentne; ellerhein; ungari; õhtu; raud; kaljuste; tõnu; arvo
-4,2,6,1,4,3,2,5,4,16,tormis; veljo; temperamentne; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-4,2,5,4,6,2,2,6,4,16,tormis; veljo; temperamentne; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-4,2,6,2,4,1,2,5,3,16,tormis; veljo; temperamentne; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-4,3,7,2,4,2,3,5,3,16,tormis; veljo; temperamentne; ellerhein; ungari; raud; kaljuste; tõnu; arvo
-4,4,8,3,4,5,3,7,4,16,tormis; veljo; temperamentne; ellerhein; ungari; õhtu; raud; kaljuste; tõnu; arvo
+7,2,4,2,2,8,6,5,4,16,ungari; kaljuste; õhtu; tormis; veljo; ingerimaa; kammerkoor; needmine; raud; laulukonkurss; ellerhein; arvo; tõnu
+6,3,3,2,2,7,6,5,5,16,ungari; kaljuste; tormis; veljo; ingerimaa; kammerkoor; needmine; raud; laulukonkurss; ellerhein; arvo; tõnu
+6,3,4,2,2,6,7,6,5,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; tormis; veljo; needmine; laulukonkurss; arvo
+5,3,5,2,3,6,6,7,6,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; õhtu; tormis; veljo; needmine; laulukonkurss; arvo
+5,3,6,2,3,6,5,10,6,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; õhtu; tormis; veljo; needmine; laulukonkurss; arvo
+5,4,8,2,4,5,6,10,6,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; õhtu; tormis; veljo; needmine; laulukonkurss; arvo
+6,4,9,2,5,3,5,8,6,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; tormis; veljo; needmine; laulukonkurss; arvo
+6,3,7,5,7,2,4,9,6,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; tormis; veljo; needmine; laulukonkurss; arvo
+5,3,8,3,6,2,5,8,5,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; tormis; veljo; needmine; laulukonkurss; arvo
+5,4,10,3,6,3,4,8,5,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; tormis; veljo; needmine; laulukonkurss; arvo
+5,5,12,4,6,6,4,10,7,16,ungari; temperamentne; ingerimaa; kammerkoor; raud; ellerhein; tõnu; kaljuste; õhtu; tormis; veljo; needmine; laulukonkurss; arvo

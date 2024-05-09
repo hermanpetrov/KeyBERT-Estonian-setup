@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,1,0,2,2,1,2,13,kirik; poliitika; urmas; luterlik
-2,2,2,1,0,2,2,1,2,13,kirik; poliitika; urmas; luterlik
-2,2,2,1,0,2,2,1,2,13,kirik; poliitika; urmas; luterlik
-2,2,2,1,0,2,2,1,2,13,kirik; poliitika; urmas; luterlik
-2,2,2,1,0,2,2,1,2,13,kirik; poliitika; urmas; luterlik
-2,3,2,1,0,3,2,2,2,13,kirik; naine; poliitika; urmas; ordineerimine; luterlik
-2,3,1,2,0,3,2,2,2,13,kirik; poliitika; viilm; urmas; ordineerimine; luterlik
-4,2,2,2,0,3,5,1,2,13,kirik; naine; poliitika; viilm; ordineerimine; urmas; luterlik
-3,3,1,1,0,4,2,4,2,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
-4,2,2,4,0,3,3,3,2,13,kirik; poliitika; naine; viilm; ordineerimine; konservatiivsus; urmas; luterlik
-4,2,2,2,0,2,2,2,1,13,kirik; konservatiivsus; poliitika; naine; urmas; ordineerimine; luterlik
+2,4,5,3,0,4,5,4,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,4,5,3,0,4,5,4,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,4,5,3,0,4,5,4,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,4,4,3,0,4,5,4,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,4,5,3,0,4,5,4,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,5,6,3,0,5,5,5,4,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; ordineerimine; abielu; kirikukogu; naine
+2,4,4,4,0,6,5,5,4,13,poliitika; peapiiskop; kirik; kirikuelu; viilm; luterlik; urmas; ordineerimine; abielu; kirikukogu
+4,2,6,4,0,6,6,2,4,13,poliitika; peapiiskop; homoseksuaal; kirik; urmas; viilm; kirikuelu; luterlik; ordineerimine; abielu; kirikukogu; naine
+3,5,2,2,0,4,4,4,5,13,poliitika; peapiiskop; kirik; urmas; viilm; luterlik; ordineerimine; kirikuelu; abielu; konservatiivsus; kirikukogu; naine
+5,3,3,5,0,3,5,3,5,13,poliitika; peapiiskop; kirik; urmas; viilm; luterlik; ordineerimine; kirikuelu; abielu; konservatiivsus; kirikukogu; naine
+4,4,3,3,1,2,4,2,4,13,poliitika; homoseksuaal; kirik; urmas; luterlik; ordineerimine; abielu; konservatiivsus; kirikukogu; naine

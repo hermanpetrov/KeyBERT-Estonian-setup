@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,0,0,0,0,0,0,10,tartu
 1,0,0,0,0,0,0,0,0,10,tartu
 1,0,1,0,0,0,0,0,0,10,heinküla; tartu
-0,0,1,0,0,1,1,2,0,10,heinküla; pavel; elu
-0,0,0,0,0,1,1,2,0,10,elu; heinküla; pavel
-0,0,1,0,0,0,1,1,0,10,heinküla; pavel
-0,0,1,0,0,1,1,0,0,10,heinküla; pavel; signe
+0,0,1,0,0,1,2,0,0,10,heinküla; elu
+0,0,0,0,0,1,2,0,0,10,heinküla; elu; pavel
+0,0,1,0,0,1,1,0,0,10,heinküla; pavel
+0,0,1,0,0,1,0,0,0,10,heinküla; pavel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,6,3,2,2,5,3,7,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-5,7,6,3,2,3,4,3,7,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-5,6,5,3,3,3,4,4,7,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-6,6,5,3,4,3,3,4,7,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-5,6,5,3,4,4,4,4,7,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-4,7,5,3,4,5,5,3,6,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-6,6,3,5,4,5,5,5,6,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-3,5,3,4,4,6,5,5,4,11,religioon; tehnoloogiline; kunst; püha; filosoofia; vaim; teadus; sekularism
-3,5,4,5,4,6,4,3,5,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus
-3,5,2,6,4,6,5,4,5,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
-2,5,4,6,4,4,4,4,5,11,religioon; kunst; tehnoloogiline; püha; filosoofia; vaim; teadus; sekularism
+7,10,9,6,4,4,7,6,8,11,üliintellekt; teadus; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; püha; usutunne; religioon; sekularism
+7,10,9,6,4,5,6,6,8,11,üliintellekt; teadus; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; püha; usutunne; religioon; sekularism
+8,9,8,6,5,5,6,7,8,11,üliintellekt; teadus; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; püha; usutunne; religioon; sekularism
+9,9,7,6,6,5,5,7,8,11,üliintellekt; teadus; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; püha; usutunne; religioon; sekularism
+7,9,7,4,5,6,6,7,8,11,üliintellekt; teadus; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; püha; usutunne; religioon; sekularism
+5,9,7,4,5,7,6,6,7,11,üliintellekt; teadus; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon; sekularism
+8,9,6,6,5,6,6,6,7,11,üliintellekt; teadus; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon; sekularism
+4,8,4,4,5,6,7,7,6,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon; sekularism
+3,7,6,6,6,7,6,3,7,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon
+4,7,4,7,6,7,7,5,6,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon; sekularism
+3,7,6,7,6,5,5,5,7,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon; sekularism

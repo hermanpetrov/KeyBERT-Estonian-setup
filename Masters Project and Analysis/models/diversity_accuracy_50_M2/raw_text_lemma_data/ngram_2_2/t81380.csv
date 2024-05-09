@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,3,0,4,3,5,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-4,4,2,3,0,4,3,5,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-4,4,2,3,0,4,3,5,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-4,4,2,3,0,4,3,5,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-4,4,2,3,0,4,3,4,1,18,disainer; moeetendus; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-5,5,2,3,0,4,4,5,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-4,3,5,5,0,2,3,3,1,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-5,2,2,4,2,3,2,4,1,18,disainer; paju; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon
-5,4,3,2,1,2,3,3,1,18,disainer; tants; anatoomikum; performance; mood; kollektsioon; lavastaja
-1,5,2,2,2,4,3,4,0,18,disainer; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon
-4,3,3,2,4,4,3,2,0,18,disainer; tants; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
+4,4,3,3,0,4,3,5,1,18,moeetendus; performance; disainer; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+4,4,3,3,0,4,3,5,1,18,moeetendus; performance; disainer; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+4,4,3,3,0,4,3,5,1,18,moeetendus; performance; disainer; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+4,4,3,3,0,4,3,5,1,18,moeetendus; performance; disainer; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+4,4,3,3,0,4,3,4,1,18,moeetendus; performance; disainer; kollektsioon; mood; kunstikool; anatoomikum; kõrgem; tants
+5,5,3,3,0,4,4,5,1,18,moeetendus; kollektsioon; performance; disainer; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+5,3,5,5,0,3,3,3,1,18,seenemaa; moeetendus; kollektsioon; disainer; performance; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants
+5,2,2,4,2,3,2,5,1,18,moeetendus; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; paju; tants
+5,4,3,2,1,2,3,3,1,18,kollektsioon; performance; disainer; mood; lavastaja; anatoomikum; tants
+2,5,2,2,2,4,3,4,0,18,moeetendus; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; tants
+5,3,3,2,4,4,3,2,0,18,kollektsioon; disainer; performance; mood; lavastaja; kunstikool; anatoomikum; kõrgem; tants

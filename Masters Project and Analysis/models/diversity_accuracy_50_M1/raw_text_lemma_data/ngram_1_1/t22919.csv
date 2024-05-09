@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,2,2,2,2,1,13,aleksander; anders; kuraator; poliitiline; graafika; galerii
-0,1,2,0,2,2,2,2,1,13,aleksander; anders; kuraator; poliitiline; graafika; galerii
-0,1,2,0,2,2,2,2,1,13,aleksander; anders; kuraator; poliitiline; graafika; galerii
-0,1,2,0,2,2,2,2,1,13,aleksander; anders; kuraator; poliitiline; graafika; galerii
-0,1,1,0,2,2,2,1,1,13,anders; aleksander; kuraator; poliitiline; graafika; galerii
-0,1,1,0,2,1,1,0,1,13,anders; aleksander; kuraator; graafika; galerii
-0,1,1,0,1,1,2,1,1,13,anders; aleksander; kuraator; graafika; galerii
-2,1,1,1,1,1,1,0,1,13,aleksander; anders; poliitiline; graafika; galerii; tartu
-1,0,1,0,1,1,1,0,1,13,aleksander; galerii; tartu; anders
-0,0,1,3,1,3,1,1,1,13,aleksander; anders; kuraator; härm; poliitiline; graafika; galerii
-0,0,0,2,1,2,1,1,1,13,anders; aleksander; härm; graafika; galerii
+1,2,3,2,2,3,3,4,2,13,graafika; kuraator; galerii; vabakaubandus; poliitiline; aleksander; kunstihoone; graafikatriennaal; anders
+1,2,3,2,2,3,3,4,2,13,graafika; kuraator; galerii; vabakaubandus; poliitiline; aleksander; kunstihoone; graafikatriennaal; anders
+1,2,3,2,2,3,3,4,2,13,graafika; kuraator; galerii; vabakaubandus; poliitiline; aleksander; kunstihoone; graafikatriennaal; anders
+1,2,3,2,2,3,3,4,2,13,graafika; kuraator; galerii; vabakaubandus; poliitiline; aleksander; kunstihoone; graafikatriennaal; anders
+1,2,2,2,2,3,3,3,2,13,graafika; kuraator; galerii; vabakaubandus; aleksander; poliitiline; kunstihoone; graafikatriennaal; anders
+1,2,1,2,2,1,2,2,2,13,graafika; kuraator; galerii; vabakaubandus; aleksander; kunstihoone; graafikatriennaal; anders
+1,2,1,2,1,1,3,2,2,13,graafika; kuraator; galerii; vabakaubandus; aleksander; kunstihoone; graafikatriennaal; anders
+3,2,1,1,1,1,2,1,2,13,graafika; galerii; tartu; vabakaubandus; aleksander; poliitiline; kunstihoone; graafikatriennaal; anders
+1,1,1,0,1,1,2,1,2,13,aleksander; kunstihoone; galerii; vabakaubandus; graafikatriennaal; tartu; anders
+0,1,1,3,1,3,2,2,2,13,graafika; kuraator; galerii; härm; vabakaubandus; aleksander; poliitiline; kunstihoone; graafikatriennaal; anders
+1,1,0,2,1,2,2,2,2,13,graafika; galerii; härm; vabakaubandus; anders; aleksander; graafikatriennaal; kunstihoone

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-14,11,6,8,10,7,8,9,10,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-14,12,7,8,10,7,8,9,10,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-16,12,9,8,11,7,7,9,10,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-16,12,9,9,11,7,7,11,11,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-16,10,10,9,14,13,7,11,13,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-15,7,10,10,15,11,8,10,13,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-6,7,7,11,15,7,9,11,13,25,roland; torseless; remark; uus; sõja; louis; maailmasõda; maria; ernst; jünger; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-6,4,9,14,15,7,12,12,13,25,roland; torseless; uus; remark; sõja; louis; maailmasõda; maria; jünger; ernst; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-5,7,8,14,15,11,13,12,14,25,roland; torseless; uus; remark; sõja; louis; maailmasõda; maria; ernst; jünger; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-5,7,7,14,14,11,10,9,13,25,roland; torseless; uus; remark; sõja; louis; maailmasõda; maria; ernst; jünger; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
-5,6,10,13,13,8,10,9,10,25,roland; torseless; uus; remark; sõja; louis; maailmasõda; maria; ernst; jünger; renn; esimene; ludwig; realism; ferdinand; sõjaromaan; erich
+14,11,6,8,10,7,8,9,10,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+14,12,7,8,10,7,8,9,10,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+16,12,9,8,11,7,7,9,10,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+16,12,9,9,11,7,7,11,11,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+16,10,10,9,14,13,7,11,13,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+15,7,10,10,15,11,8,10,13,25,realism; sõjaromaan; roland; uus; esimene; ludwig; louis; sõja; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+6,7,7,11,15,7,9,11,13,25,realism; sõjaromaan; uus; roland; esimene; sõja; ludwig; louis; jünger; maailmasõda; maria; erich; torseless; ferdinand; renn; remark; ernst
+6,4,9,14,15,7,12,12,13,25,realism; sõjaromaan; uus; roland; sõja; esimene; louis; ludwig; jünger; maailmasõda; maria; erich; torseless; ferdinand; renn; remark; ernst
+5,7,8,14,15,11,13,12,14,25,realism; sõjaromaan; uus; roland; esimene; sõja; louis; ludwig; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+5,7,7,14,14,11,10,9,13,25,realism; sõjaromaan; uus; roland; sõja; esimene; louis; ludwig; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst
+5,6,10,13,13,8,10,9,10,25,realism; sõjaromaan; uus; roland; sõja; esimene; louis; ludwig; maailmasõda; jünger; maria; erich; torseless; ferdinand; renn; remark; ernst

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,8,5,4,4,7,4,6,5,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-6,8,6,5,5,6,4,6,5,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-6,8,6,5,5,6,5,6,5,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-6,8,6,7,5,5,4,6,5,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-5,8,5,7,6,6,7,6,5,11,pedagoog; kammerorkester; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart
-5,7,5,6,7,7,8,5,6,11,pedagoog; kammerorkester; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart
-3,5,5,4,7,6,6,6,6,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-4,4,4,6,8,5,7,5,5,11,pedagoog; kammerorkester; kontsert; interpreet; solist; gerretz; dirigent; jüri; mozart
-3,3,4,6,8,4,6,4,6,11,pedagoog; kammerorkester; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart
-2,4,6,6,9,4,8,4,6,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
-2,3,5,6,7,5,7,5,5,11,pedagoog; kontsert; interpreet; gerretz; solist; dirigent; jüri; mozart; kammerorkester
+6,8,5,4,4,7,4,6,5,11,mozart; gerretz; solist; dirigent; jüri; kammerorkester; pedagoog; interpreet; kontsert
+6,8,6,5,5,6,4,6,5,11,mozart; gerretz; solist; dirigent; jüri; kammerorkester; pedagoog; interpreet; kontsert
+6,8,6,5,5,6,5,6,5,11,mozart; gerretz; solist; dirigent; jüri; kammerorkester; pedagoog; interpreet; kontsert
+6,8,6,7,5,5,4,6,5,11,mozart; gerretz; solist; dirigent; jüri; kammerorkester; pedagoog; interpreet; kontsert
+5,8,5,7,6,6,7,6,5,11,mozart; gerretz; dirigent; solist; jüri; kammerorkester; pedagoog; interpreet; kontsert
+5,7,5,6,7,7,8,5,6,11,mozart; gerretz; dirigent; solist; jüri; kammerorkester; pedagoog; interpreet; kontsert
+3,5,5,4,7,6,6,6,6,11,mozart; gerretz; jüri; dirigent; solist; kammerorkester; pedagoog; interpreet; kontsert
+4,4,4,6,8,5,7,5,5,11,mozart; gerretz; solist; dirigent; jüri; kammerorkester; pedagoog; interpreet; kontsert
+3,3,4,6,8,4,6,4,6,11,mozart; gerretz; solist; jüri; dirigent; kammerorkester; pedagoog; interpreet; kontsert
+2,4,6,6,9,4,8,4,6,11,mozart; gerretz; jüri; dirigent; solist; kammerorkester; pedagoog; interpreet; kontsert
+2,3,5,6,7,5,7,5,5,11,mozart; gerretz; dirigent; solist; jüri; kammerorkester; pedagoog; interpreet; kontsert

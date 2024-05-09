@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,0,2,0,1,0,11,gerretz; kontsert; solist; konservatoorium; kammerorkester
-0,1,3,0,0,2,0,1,0,11,gerretz; kontsert; solist; konservatoorium; kammerorkester
-0,1,3,0,0,2,0,1,0,11,gerretz; kontsert; solist; konservatoorium; kammerorkester
-0,1,3,0,0,2,0,1,0,11,gerretz; kontsert; solist; konservatoorium; kammerorkester
-0,1,3,0,0,2,0,1,0,11,gerretz; kontsert; solist; konservatoorium; kammerorkester
-0,1,2,0,0,2,0,1,0,11,kontsert; gerretz; konservatoorium; kammerorkester; solist
-0,1,3,0,0,1,0,1,0,11,konservatoorium; kammerorkester; kontsert; gerretz
-0,1,3,0,0,2,2,0,0,11,gerretz; konservatoorium; kammerorkester
-0,0,2,0,0,2,2,0,0,11,konservatoorium; kammerorkester; gerretz
-0,0,2,0,0,1,2,0,0,11,konservatoorium; kammerorkester; gerretz
-0,0,2,0,0,1,1,1,0,11,konservatoorium; mozart; gerretz
+0,1,3,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,3,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,3,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,3,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,3,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,2,0,0,2,0,1,0,11,gerretz; solist; kammerorkester; konservatoorium; kontsert
+0,1,3,0,0,1,0,1,0,11,kammerorkester; konservatoorium; gerretz; kontsert
+0,1,3,0,0,2,2,0,0,11,gerretz; kammerorkester; konservatoorium
+0,0,2,0,0,2,2,0,0,11,kammerorkester; konservatoorium; gerretz
+0,0,2,0,0,1,2,0,0,11,kammerorkester; konservatoorium; gerretz
+0,0,2,0,0,1,1,1,0,11,mozart; konservatoorium; gerretz

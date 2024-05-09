@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,3,2,3,0,14,ani; teater; elmar; lava; näitleja; endel
-0,1,1,0,1,3,2,3,0,14,ani; teater; elmar; lava; näitleja; endel
-0,1,1,0,1,3,2,3,0,14,ani; teater; elmar; lava; näitleja; endel
-0,1,1,0,1,3,2,3,0,14,ani; teater; elmar; lava; näitleja; endel
-0,1,1,0,1,3,2,3,0,14,ani; teater; elmar; lava; näitleja; endel
-0,1,1,0,1,3,2,2,0,14,ani; teater; elmar; lava; näitleja
-2,0,1,0,1,4,2,3,0,14,ani; teater; lava; näitleja; spinning; elmar; endel
-1,0,2,0,1,3,2,1,0,14,ani; teater; paat; endel; näitleja; lava
-0,0,0,1,1,4,2,1,0,14,ani; endel; teater; elmar; lava; näitleja; hirm
-0,0,0,1,1,3,1,1,0,14,ani; teater; lava; näitleja; endel
-0,1,1,2,1,1,1,1,0,14,esinemine; teater; elmar; lava; näitleja
+0,1,1,0,1,4,3,3,0,14,ani; lava; näitleja; elmar; endel; vanemuine; teater
+0,1,1,0,1,4,3,3,0,14,ani; lava; näitleja; elmar; endel; vanemuine; teater
+0,1,1,0,1,4,3,3,0,14,ani; lava; näitleja; elmar; endel; vanemuine; teater
+0,1,1,0,1,4,3,3,0,14,ani; lava; näitleja; elmar; endel; vanemuine; teater
+0,1,1,0,1,4,3,3,0,14,ani; lava; näitleja; elmar; endel; vanemuine; teater
+0,1,1,0,1,3,3,2,0,14,vanemuine; ani; lava; elmar; näitleja; teater
+2,0,1,0,1,4,2,4,0,14,spinning; lava; ani; näitleja; elmar; endel; vanemuine; teater
+1,0,2,0,1,3,2,1,0,14,endel; paat; lava; ani; näitleja; teater
+0,0,0,1,1,4,2,1,0,14,näitleja; endel; ani; lava; hirm; teater; elmar
+0,0,0,1,1,3,1,1,0,14,endel; ani; lava; näitleja; teater
+1,1,1,2,1,1,1,2,0,14,esinemine; näitleja; vanemuine; lava; salulaht; teater; elmar

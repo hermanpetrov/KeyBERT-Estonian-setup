@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,0,0,2,1,4,0,20,obinitsa; tervise; jevgeni; deckarty; kool; balti; ametist; ossinovski
-2,3,1,0,0,2,1,4,0,20,obinitsa; tervise; jevgeni; deckarty; kool; balti; ametist; ossinovski
-2,3,1,0,0,2,1,4,0,20,obinitsa; tervise; jevgeni; deckarty; kool; balti; ametist; ossinovski
-2,3,1,0,0,2,1,4,1,20,obinitsa; tervise; jevgeni; deckarty; kool; balti; ametist; ossinovski; trump
-2,4,2,0,0,2,1,4,1,20,obinitsa; tervise; jevgeni; kultuuripealinna; deckarty; kool; balti; ametist; ossinovski; trump
-2,4,0,0,0,2,1,4,0,20,tervise; jevgeni; deckarty; kool; balti; ametist; ossinovski
-3,3,0,1,0,3,3,4,1,20,obinitsa; jevgeni; deckarty; kool; balti; ametist; ossinovski; trump
-1,2,0,0,0,4,4,3,1,20,jevgeni; deckarty; jüri; balti; ametist; ossinovski; trump; president
-2,3,1,0,0,3,2,3,1,20,jevgeni; kultuuripealinna; deckarty; kool; balti; ametist; ossinovski; trump
-2,2,2,0,0,2,3,2,1,20,jevgeni; kultuuripealinna; deckarty; kool; balti; ametist; ossinovski; trump
-2,2,2,2,1,1,3,3,2,20,tervise; jevgeni; kultuuripealinna; deckarty; kool; ametist; balti; ossinovski; trump; president
+2,3,1,0,0,1,4,0,0,20,obinitsa; tervise; ametist; kool; deckarty; jevgeni; balti; ossinovski
+2,3,1,0,0,1,4,0,0,20,obinitsa; tervise; ametist; kool; deckarty; jevgeni; balti; ossinovski
+2,3,1,0,0,1,4,0,0,20,obinitsa; tervise; ametist; kool; deckarty; jevgeni; balti; ossinovski
+2,3,1,0,0,1,4,1,0,20,obinitsa; tervise; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski
+2,4,2,0,0,1,4,1,0,20,obinitsa; tervise; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+2,4,0,0,0,1,4,0,0,20,tervise; ametist; kool; deckarty; jevgeni; balti; ossinovski
+3,3,0,1,0,3,4,1,0,20,obinitsa; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski
+1,2,0,0,0,4,3,1,0,20,deckarty; jevgeni; ametist; trump; ossinovski; president
+2,3,1,0,0,2,3,1,0,20,ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+2,2,2,0,0,3,2,1,0,20,ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+2,2,2,2,1,3,3,2,0,20,tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna

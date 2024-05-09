@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,0,0,1,0,0,12,näitleja
+0,0,0,0,0,0,1,0,0,12,näitleja
+0,0,0,0,0,0,1,0,0,12,näitleja
+0,0,0,0,0,0,1,0,0,12,näitleja
+0,0,0,0,0,0,1,1,0,12,näitleja
+0,0,0,0,0,0,1,1,0,12,näitleja
+1,0,1,1,0,1,1,1,0,12,näitleja; draamateater
+1,0,0,0,0,0,3,0,0,12,aav; näitleja; tõnu
+0,0,0,0,0,0,2,1,0,12,aav; näitleja; tõnu
 0,0,0,0,0,0,0,1,0,12,näitleja
-0,0,0,0,0,0,0,1,0,12,näitleja
-0,0,0,0,0,0,0,1,0,12,näitleja
-0,0,0,0,0,0,0,1,0,12,näitleja
-0,0,0,0,0,0,0,1,1,12,näitleja
-0,0,0,0,0,0,0,1,1,12,näitleja
-1,0,1,1,0,0,1,1,1,12,draamateater; näitleja
-1,0,0,0,0,0,0,3,0,12,aav; tõnu; näitleja
-0,0,0,0,0,0,0,2,1,12,aav; tõnu; näitleja
-0,0,0,0,0,0,0,0,1,12,näitleja
-0,0,0,0,0,0,1,0,1,12,lavakunstikateeder; näitleja
+0,0,0,0,0,1,0,1,0,12,lavakunstikateeder; näitleja

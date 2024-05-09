@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,14,
-0,0,0,0,0,0,0,0,0,14,
-0,0,0,0,0,0,0,0,0,14,
-0,0,0,0,0,0,0,0,1,14,tõlgendus
-0,0,0,0,0,0,0,0,1,14,tõlgendus
-0,0,1,0,0,0,0,0,1,14,keel; tõlgendus
-0,0,0,0,0,0,0,0,1,14,tõlgendus
-0,0,0,0,0,1,0,1,1,14,keel; tõlgendus; inglise
-0,0,0,0,0,0,0,0,1,14,tõlgendus
-0,0,0,0,0,0,0,0,1,14,tõlgendus
-0,0,0,0,0,0,0,0,1,14,tõlgendus
+0,0,0,0,0,0,1,1,0,14,keelekorraldus; koolikeel
+0,0,0,0,0,0,1,1,0,14,keelekorraldus; koolikeel
+0,0,0,0,0,0,1,1,0,14,keelekorraldus; koolikeel
+0,0,0,0,0,0,1,1,1,14,keelekorraldus; tõlgendus; koolikeel
+0,0,0,0,0,0,1,1,1,14,keelekorraldus; tõlgendus; koolikeel
+0,0,1,0,0,0,1,1,1,14,keelekorraldus; tõlgendus; keel; koolikeel
+0,0,1,0,0,0,1,0,1,14,rakenduslingvistika; tõlgendus; koolikeel
+0,0,1,0,0,2,1,1,1,14,rakenduslingvistika; inglise; keel; tõlgendus; noortekeel
+0,0,0,0,0,0,1,1,1,14,tõlgendus; noortekeel
+1,0,0,0,0,0,0,1,1,14,rakenduslingvistika; tõlgendus; noortekeel
+0,0,1,0,0,0,0,1,1,14,rakenduslingvistika; tõlgendus; noortekeel

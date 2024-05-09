@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,1,2,3,2,3,3,3,14,töö; usaldus; detail; ülo; jääma; sõda
-3,4,2,2,2,3,3,3,3,14,detail; töö; ülo; jääma; sõda
-4,4,2,2,2,3,3,3,3,14,töö; suitsetamine; detail; ülo; jääma; sõda
-5,4,4,2,2,3,3,3,3,14,töö; suitsetamine; detail; ülo; jääma; sõda
-6,3,4,2,2,3,3,3,3,14,töö; suitsetamine; usaldus; detail; ülo; jääma; sõda
-6,5,5,2,2,4,4,4,3,14,töö; suitsetamine; usaldus; detail; ülo; jääma; sõda
-5,4,5,4,1,4,4,5,4,14,töö; suitsetamine; detail; jääma; ülo; sõda
-6,4,6,4,1,5,4,6,3,14,töö; suitsetamine; usaldus; detail; ülo; jääma; sõda
-5,6,5,3,3,5,3,5,3,14,töö; suitsetamine; usaldus; detail; jääma; ülo; sõda
-5,3,6,4,4,3,3,4,3,14,töö; suitsetamine; usaldus; detail; jääma; ülo; sõda
-4,4,5,4,4,5,5,5,3,14,töö; suitsetamine; usaldus; detail; jääma; ülo; sõda
+6,6,2,5,3,3,4,5,4,14,videvikupidamine; usaldus; töö; õlletegu; sõda; jääma; kivisõda; ülo; detail; vanaisa
+6,6,3,5,2,4,4,5,4,14,videvikupidamine; töö; õlletegu; sõda; jääma; kivisõda; ülo; detail; vanaisa
+8,6,3,5,2,4,4,6,4,14,videvikupidamine; töö; õlletegu; sõda; jääma; kivisõda; ülo; suitsetamine; detail; vanaisa
+8,7,6,5,2,4,5,6,4,14,videvikupidamine; töö; sõda; õlletegu; jääma; kivisõda; ülo; suitsetamine; detail; vanaisa
+9,6,7,5,2,4,5,6,4,14,videvikupidamine; usaldus; töö; sõda; õlletegu; jääma; kivisõda; ülo; suitsetamine; detail; vanaisa
+9,8,7,5,2,6,6,8,4,14,töö; sõda; jääma; ülo; detail; videvikupidamine; usaldus; õlletegu; kivisõda; suitsetamine; vanaisa
+6,8,8,6,1,5,6,9,5,14,töö; jääma; sõda; ülo; detail; videvikupidamine; õlletegu; kivisõda; suitsetamine; vanaisa
+7,7,9,6,1,7,6,9,4,14,töö; jääma; sõda; ülo; detail; videvikupidamine; usaldus; õlletegu; kivisõda; suitsetamine; vanaisa
+6,8,8,6,4,7,5,7,4,14,videvikupidamine; usaldus; töö; jääma; õlletegu; sõda; kivisõda; ülo; suitsetamine; detail; vanaisa
+6,5,9,6,6,6,5,7,5,14,videvikupidamine; usaldus; töö; jääma; õlletegu; sõda; kivisõda; ülo; suitsetamine; detail; vanaisa
+5,7,7,6,6,7,7,8,4,14,töö; jääma; sõda; ülo; detail; videvikupidamine; usaldus; õlletegu; kivisõda; suitsetamine; vanaisa

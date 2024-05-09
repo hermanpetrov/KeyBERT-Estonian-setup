@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,1,1,0,0,3,1,11,kuuskemaa; estonia; näitleja
-3,2,0,1,1,0,0,3,1,11,kuuskemaa; estonia; näitleja
-3,2,0,1,1,0,0,3,0,11,kuuskemaa; estonia; näitleja
-3,2,0,1,1,0,0,3,0,11,kuuskemaa; estonia; näitleja
-3,2,1,1,1,0,0,3,0,11,kuuskemaa; estonia; näitleja
-3,2,2,0,1,1,1,3,0,11,kuuskemaa; perekond; estonia; teater; näitleja
-3,2,3,3,1,0,0,2,0,11,kuuskemaa; perekond; estonia; teater; näitleja
-2,1,0,1,1,0,1,2,0,11,kuuskemaa; perekond; estonia
-3,2,2,0,1,0,1,2,0,11,kuuskemaa; perekond; estonia; teater; näitleja
-2,2,0,1,1,0,1,2,1,11,kuuskemaa; perekond; estonia; teater; näitleja
-1,2,1,1,1,0,1,2,1,11,kuuskemaa; perekond; estonia; näitleja
+3,2,0,1,1,0,3,1,0,11,kuuskemaa; näitleja; estonia
+3,2,0,1,1,0,3,1,0,11,kuuskemaa; näitleja; estonia
+3,2,0,1,1,0,3,0,0,11,kuuskemaa; näitleja; estonia
+3,2,0,1,1,0,3,0,0,11,kuuskemaa; näitleja; estonia
+3,2,1,1,1,0,3,0,0,11,kuuskemaa; näitleja; estonia
+3,2,2,0,1,1,3,0,0,11,perekond; kuuskemaa; näitleja; teater; estonia
+3,2,3,3,1,0,2,0,0,11,kuuskemaa; perekond; näitleja; teater; estonia
+2,1,0,1,1,1,2,0,0,11,kuuskemaa; perekond; estonia
+3,2,2,0,1,1,2,0,0,11,perekond; kuuskemaa; näitleja; teater; estonia
+2,2,0,1,1,1,2,1,0,11,kuuskemaa; perekond; näitleja; teater; estonia
+1,2,1,1,1,1,2,1,0,11,kuuskemaa; perekond; näitleja; estonia

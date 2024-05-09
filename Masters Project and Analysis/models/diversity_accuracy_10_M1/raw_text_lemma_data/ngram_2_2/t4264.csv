@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,1,0,0,0,0,0,0,2,15,iisrael; tootmisliin; liibanon
-0,2,1,0,0,1,0,1,2,15,tootmisliin; iisrael; kai; liibanon; viktor
-0,2,1,1,0,1,0,1,2,15,tootmisliin; iisrael; kai; liibanon; viktor
-1,0,1,0,0,1,0,0,2,15,iisrael; kai; liibanon; viktor
-1,0,1,1,1,0,0,0,2,15,iisrael; viktor; liibanon; tootmisliin; vare; resolutsioon
-1,0,2,1,0,0,0,1,2,15,iisrael; tootmisliin; liibanon; viktor; vare; resolutsioon
+0,2,0,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; viikingipäev; liibanon
+0,2,0,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; viikingipäev; liibanon
+0,2,0,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; viikingipäev; liibanon
+0,2,0,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; viikingipäev; liibanon
+0,2,1,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; lossipäev; viikingipäev; liibanon
+0,1,1,0,0,0,0,1,2,15,tootmisliin; iisrael; alatskivi; lossipäev; liibanon
+0,3,2,0,0,1,0,2,2,15,tootmisliin; janukovitš; alatskivi; iisrael; kai; viktor; liibanon
+0,2,2,2,0,2,0,2,2,15,tootmisliin; janukovitš; alatskivi; iisrael; kai; viktor; liibanon
+3,0,2,0,0,2,0,1,2,15,iisrael; alatskivi; kai; janukovitš; viikingipäev; viktor; liibanon
+3,0,2,1,1,1,0,1,2,15,vare; tootmisliin; iisrael; viktor; liibanon; alatskivi; resolutsioon; janukovitš; viikingipäev
+2,1,3,1,0,0,0,2,2,15,vare; tootmisliin; iisrael; viktor; liibanon; resolutsioon; janukovitš; lossipäev; viikingipäev

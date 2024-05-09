@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,1,1,0,0,1,13,kommunist; poliitika; sõda; partei
-1,1,1,0,1,1,0,0,1,13,kommunist; poliitika; sõda; partei
-1,1,1,0,1,1,0,0,1,13,kommunist; poliitika; sõda; partei
-1,1,1,0,1,1,0,0,1,13,kommunist; poliitika; sõda; partei
-1,1,1,0,1,1,0,0,1,13,kommunist; poliitika; sõda; partei
-1,1,2,0,1,1,0,1,1,13,kommunist; poliitika; sõda; partei
-1,1,2,0,1,1,1,2,1,13,kommunist; poliitika; sõda; partei
-0,1,1,2,1,1,1,2,1,13,kommunist; valitsus; läti; sõda; partei
+2,1,1,0,1,1,0,0,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,1,0,1,1,0,0,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,1,0,1,1,0,0,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,1,0,1,1,0,0,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,1,0,1,1,0,0,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,2,0,1,1,0,1,1,13,poliitika; partei; kommunist; nõukogu; sõda
+2,1,2,0,1,1,1,2,1,13,poliitika; partei; kommunist; nõukogu; sõda
+0,1,1,2,1,1,1,2,1,13,partei; valitsus; kommunist; läti; sõda
 0,1,1,1,1,0,1,1,1,13,kommunist; töö; liit; sõda
-0,0,0,1,1,0,1,0,1,13,kommunist; sõda; liit
-0,0,2,1,1,0,1,0,1,13,kommunist; liit; sõda; partei
+0,0,0,1,1,0,1,0,1,13,kommunist; liit; sõda
+0,0,2,1,1,0,1,0,1,13,partei; kommunist; liit; sõda

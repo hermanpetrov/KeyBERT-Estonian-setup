@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,6,6,4,3,4,5,6,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-8,8,6,6,4,3,4,5,6,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-8,8,6,6,4,3,4,5,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-8,9,8,5,4,3,4,5,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-8,9,8,5,5,4,4,5,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-7,9,8,5,7,4,4,5,5,12,edetabel; lugu; ameerika; andres; esimene; hitt; jõesaar; one; euroopa
-8,7,8,6,7,6,4,5,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-6,7,7,6,8,6,4,6,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-6,8,7,6,8,7,5,6,6,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-5,7,7,7,7,5,5,5,8,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
-5,7,6,8,8,6,4,6,5,12,ameerika; andres; esimene; edetabel; hitt; lugu; jõesaar; one; euroopa
+8,8,6,6,4,4,5,6,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+8,8,6,6,4,4,5,6,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+8,8,6,6,4,4,5,5,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+8,9,8,5,4,4,5,5,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+8,9,8,5,5,4,5,5,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+7,9,8,5,7,4,5,5,0,12,hitt; one; jõesaar; ameerika; esimene; euroopa; andres; edetabel; lugu
+8,7,8,6,7,4,5,5,0,12,hitt; one; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+6,7,7,6,8,4,6,5,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+6,8,7,6,8,5,6,6,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+5,7,7,7,7,5,5,8,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu
+5,7,6,8,8,4,6,5,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; esimene; euroopa; lugu

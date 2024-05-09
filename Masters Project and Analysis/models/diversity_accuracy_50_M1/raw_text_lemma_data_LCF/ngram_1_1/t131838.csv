@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,1,2,17,ameerika; ivo; brian
-0,0,0,0,0,0,1,1,2,17,ameerika; ivo; brian
-0,0,0,0,0,0,1,1,2,17,ameerika; ivo; brian
-0,0,0,0,0,0,1,1,2,17,ameerika; ivo; brian
-0,0,0,0,0,0,1,1,2,17,ameerika; ivo; brian
-0,1,0,0,0,1,1,1,2,17,ameerika; ivo; linn; brian; vello
-0,0,1,1,0,2,1,0,2,17,ameerika; ivo; maania; brian
-0,1,0,0,0,2,2,0,1,17,ameerika; ivo; maania; bbc
-0,1,0,1,0,4,2,0,1,17,ameerika; ivo; mccartney; maania; vello; bbc
-0,1,0,1,0,4,2,1,1,17,ringo; ivo; ameerika; maania; mccartney; bbc
-1,0,0,2,0,4,1,1,1,17,ringo; ivo; salumets; maania; mccartney; bbc; epstein
+0,1,0,0,0,0,1,1,2,17,brian; ameerika; rokkmuusik; ivo
+0,1,0,0,0,0,1,1,2,17,brian; ameerika; rokkmuusik; ivo
+0,1,0,0,0,0,1,1,2,17,brian; ameerika; rokkmuusik; ivo
+0,1,0,0,0,0,1,1,2,17,brian; ameerika; rokkmuusik; ivo
+0,1,0,0,0,0,1,1,2,17,brian; ameerika; rokkmuusik; ivo
+0,2,0,0,0,2,1,1,2,17,ameerika; vello; linn; brian; rokkmuusik; ivo
+0,0,1,1,0,4,1,0,2,17,maania; unenägu; brian; ameerika; rokkmuusik; ivo
+0,1,0,1,0,3,2,0,1,17,maania; unenägu; bbc; ameerika; rokkmuusik; ivo
+1,1,0,1,0,5,2,1,1,17,maania; unenägu; ameerika; mccartney; vello; bbc; rokkmuusik; ivo
+1,1,0,1,0,5,3,2,1,17,maania; unenägu; ameerika; ringo; mccartney; bbc; rokkmuusik; ivo
+2,0,0,2,0,5,2,2,1,17,maania; unenägu; epstein; ringo; mccartney; salumets; bbc; rokkmuusik; ivo

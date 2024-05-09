@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,2,0,0,1,3,15,ühiskond; mets; reimo; jurist; politsei; eesti; geiaktivine
-1,2,1,1,2,0,0,0,3,15,ühiskond; jurist; mets; politsei; eesti; geiaktivine
-1,2,1,1,2,1,0,1,3,15,mets; reimo; tõnis; eesti; geiaktivine; ühiskond; jurist; politsei
-1,1,1,1,2,2,0,1,3,15,mets; reimo; tõnis; eesti; geiaktivine; ühiskond; jurist; politsei
-1,1,0,1,2,2,1,2,3,15,mets; ühiskond; tõnis; jurist; politsei; eesti; geiaktivine
-1,1,0,2,2,2,1,2,3,15,mets; ühiskond; politsei; jurist; tõnis; eesti; geiaktivine
-0,1,2,3,2,2,1,3,4,15,mets; kirik; reimo; tõnis; eesti; geiaktivine; ühiskond; jurist; politsei
-1,0,1,3,1,0,2,3,3,15,mets; kirik; reimo; eesti; geiaktivine; jurist; politsei
-0,1,1,3,1,1,1,2,2,15,mets; kirik; jurist; eesti
-1,1,1,3,3,2,1,2,2,15,kirik; mets; jurist; eesti
-1,1,0,3,1,2,2,2,2,15,kirik; mets; reimo; jurist; eesti; geiaktivine
+2,1,3,2,2,0,0,1,4,15,politsei; eesti; reimo; jurist; ühiskond; perekonnaõigus; mets; geiaktivine; ööklubi
+2,2,3,2,2,0,0,0,4,15,politsei; eesti; jurist; ühiskond; perekonnaõigus; mets; geiaktivine; ööklubi
+2,2,2,2,2,1,1,2,5,15,politsei; eesti; reimo; jurist; ühiskond; abielu; tõnis; perekonnaõigus; mets; geiaktivine; ööklubi
+2,1,3,2,2,2,1,2,5,15,politsei; eesti; reimo; jurist; ühiskond; abielu; tõnis; perekonnaõigus; mets; geiaktivine; ööklubi
+2,1,0,2,2,2,2,3,5,15,politsei; eesti; jurist; ühiskond; abielu; tõnis; perekonnaõigus; mets; geiaktivine; ööklubi
+2,1,0,3,2,3,2,3,5,15,politsei; eesti; demokraatia; jurist; ühiskond; abielu; tõnis; perekonnaõigus; mets; geiaktivine; ööklubi
+0,1,5,4,2,3,1,5,5,15,politsei; eesti; kirik; demokraatia; reimo; jurist; ühiskond; abielu; tõnis; perekonnaõigus; mets; geiaktivine; ööklubi
+1,0,2,3,1,2,2,4,4,15,politsei; eesti; kirik; demokraatia; reimo; jurist; abielu; mets; geiaktivine; ööklubi
+0,1,3,3,1,3,2,4,4,15,eesti; kirik; demokraatia; jurist; abielu; perekonnaõigus; mets; ööklubi
+1,1,2,3,4,4,2,3,4,15,eesti; kirik; demokraatia; jurist; abielu; perekonnaõigus; mets; ööklubi
+1,1,2,3,1,4,3,3,4,15,eesti; kirik; demokraatia; reimo; jurist; abielu; perekonnaõigus; mets; geiaktivine; ööklubi

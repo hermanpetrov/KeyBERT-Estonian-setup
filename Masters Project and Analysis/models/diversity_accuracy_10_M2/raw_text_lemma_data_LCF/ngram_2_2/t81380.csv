@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,1,1,0,0,18,disainer; tants; kollektsioon; kõrgem
-2,1,1,1,0,1,1,0,0,18,disainer; tants; kollektsioon; kõrgem
-2,1,1,1,0,1,1,0,0,18,disainer; tants; kollektsioon; kõrgem
-2,1,1,1,0,1,1,0,0,18,disainer; tants; kollektsioon; kõrgem
-2,1,1,1,0,1,1,0,0,18,disainer; tants; kollektsioon; kõrgem
-2,1,1,1,0,2,1,0,0,18,disainer; mood; tants; kõrgem
-2,2,1,1,0,0,1,0,0,18,tants; performance; moeetendus
-2,0,2,1,0,1,1,2,0,18,disainer; anatoomikum; mood; tants; lavastaja; moeetendus
-3,4,2,1,0,0,1,2,0,18,disainer; performance; mood; kollektsioon; lavastaja; tants; moeetendus
-0,0,1,1,0,1,1,1,0,18,tants; paju; mood
-1,1,1,2,0,0,1,1,0,18,kollektsioon; lavastaja; tants; paju
+2,1,1,1,0,1,1,0,0,18,kõrgem; disainer; kollektsioon; tants
+2,1,1,1,0,1,1,0,0,18,kõrgem; disainer; kollektsioon; tants
+2,1,1,1,0,1,1,0,0,18,kõrgem; disainer; kollektsioon; tants
+2,1,1,1,0,1,1,0,0,18,kõrgem; disainer; kollektsioon; tants
+2,1,1,1,0,1,1,0,0,18,kõrgem; disainer; kollektsioon; tants
+2,1,1,1,0,2,1,0,0,18,mood; kõrgem; disainer; tants
+2,2,1,1,0,0,1,0,0,18,moeetendus; performance; tants
+2,0,2,1,0,1,1,2,0,18,mood; lavastaja; moeetendus; anatoomikum; disainer; tants
+3,4,2,1,0,0,1,2,0,18,mood; lavastaja; kollektsioon; moeetendus; performance; disainer; tants
+0,0,1,1,0,1,1,2,0,18,mood; kunstikool; paju; tants
+1,1,1,2,0,0,1,1,0,18,lavastaja; kollektsioon; paju; tants

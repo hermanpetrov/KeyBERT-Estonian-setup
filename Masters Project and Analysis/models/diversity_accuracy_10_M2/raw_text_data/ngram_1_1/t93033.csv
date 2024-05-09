@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,1,18,hindpere; eesti
 0,1,0,0,0,0,0,0,1,18,hindpere; eesti
 0,1,0,0,0,0,0,0,1,18,hindpere; eesti
-0,1,0,0,0,1,0,0,1,18,usuäärmusluse; hindpere; eesti
-0,2,0,0,0,1,0,0,1,18,usuäärmusluse; hindpere; eesti; restoranide
-1,2,0,2,0,1,0,0,1,18,restoranide; usuäärmusluse; hindpere; eesti
+0,1,0,0,0,1,0,0,1,18,hindpere; usuäärmusluse; eesti
+0,2,0,0,0,1,0,0,1,18,hindpere; restoranide; usuäärmusluse; eesti
+1,2,0,2,0,1,0,0,1,18,hindpere; restoranide; eesti; usuäärmusluse
 0,1,0,0,0,0,0,0,1,18,hindpere; eesti
 0,1,0,0,0,0,0,0,1,18,restoranide; eesti
 0,0,0,0,0,0,0,0,1,18,eesti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,1,0,0,2,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama
-2,2,1,1,0,0,2,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama
-2,2,1,1,0,0,2,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama
-2,2,1,1,0,0,2,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama
-2,2,1,1,0,0,2,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama
-3,2,1,1,0,0,4,5,1,13,lehte; aeg; luule; hainsalu; tartu; sõna; kirjutama; vägi
-1,2,3,2,0,3,1,5,1,13,lehte; raha; aeg; luule; vene; hainsalu; tartu; sõna; kirjutama
-1,3,1,3,0,1,1,5,1,13,lehte; raha; aeg; luule; hainsalu; tartu; sõna; kirjutama
-3,1,0,1,0,1,1,3,1,13,aeg; hainsalu; lehte; raha; tartu; sõna; kirjutama
-0,0,0,1,0,1,2,2,1,13,hainsalu; lehte; tartu; sõna; luule
-2,0,0,2,0,1,2,3,1,13,hainsalu; lehte; sõna; tartu; aeg; kirjutama
+2,2,1,1,0,0,2,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule
+2,2,1,1,0,0,2,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule
+2,2,1,1,0,0,2,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule
+2,2,1,1,0,0,2,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule
+2,2,1,1,0,0,2,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule
+3,2,1,1,0,0,4,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; sõna; luule; vägi
+1,2,3,2,0,3,1,5,1,13,vene; aeg; kirjutama; hainsalu; tartu; lehte; raha; sõna; luule
+1,3,1,3,0,1,1,5,1,13,aeg; kirjutama; hainsalu; tartu; lehte; raha; sõna; luule
+3,1,0,1,0,1,1,3,1,13,lehte; aeg; raha; kirjutama; hainsalu; sõna; tartu
+0,0,0,1,0,1,2,2,1,13,tartu; lehte; hainsalu; sõna; luule
+2,0,0,2,0,1,2,3,1,13,aeg; lehte; kirjutama; hainsalu; sõna; tartu

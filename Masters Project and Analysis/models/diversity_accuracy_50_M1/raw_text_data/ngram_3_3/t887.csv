@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,7,4,4,5,4,7,3,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,3,7,4,4,5,4,7,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,3,7,4,4,5,4,7,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,3,7,4,4,5,4,7,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,3,6,4,4,5,4,7,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,3,7,4,4,3,3,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-5,3,7,3,4,5,3,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-7,2,8,2,4,6,3,8,2,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-4,3,7,2,6,6,2,7,2,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-7,3,3,3,6,6,3,5,1,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-4,3,6,2,7,5,4,6,3,12,stuudio; eesti; šokolaad; raadio; inglise; lugu; album; ansambel; queen
+6,3,7,4,4,5,4,7,3,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,3,7,4,4,5,4,7,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,3,7,4,4,5,4,7,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,3,7,4,4,5,4,7,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,3,6,4,4,5,4,7,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,3,7,4,4,3,3,8,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+5,3,7,3,4,5,3,8,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+7,2,8,2,4,6,3,8,2,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; stuudio; lugu; queen
+4,3,7,2,6,6,2,7,2,12,plaat; eesti; raadio; ansambel; inglise; album; šokolaad; stuudio; lugu; queen
+7,3,3,3,6,6,3,5,1,12,eesti; raadio; inglise; ansambel; album; šokolaad; stuudio; lugu; queen
+4,3,6,2,7,5,4,6,3,12,eesti; raadio; ansambel; inglise; album; šokolaad; stuudio; lugu; queen

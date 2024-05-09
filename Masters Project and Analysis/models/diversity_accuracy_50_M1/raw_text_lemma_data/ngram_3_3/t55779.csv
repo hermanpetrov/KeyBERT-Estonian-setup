@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,0,3,3,3,3,1,14,muna; uskumus; sümbol; püha; liikuv; rituaalne
-2,3,2,0,3,3,3,3,1,14,muna; uskumus; sümbol; püha; liikuv; rituaalne
-2,3,2,0,3,3,3,3,1,14,muna; uskumus; sümbol; püha; liikuv; rituaalne
-2,3,3,0,3,3,3,3,1,14,muna; püha; sümbol; uskumus; liikuv; rituaalne
-3,3,4,0,3,3,3,3,1,14,muna; püha; sümbol; uskumus; liikuv; rituaalne
-2,3,3,0,3,3,4,4,2,14,muna; püha; sümbol; uskumus; marju; liikuv; rituaalne
-4,2,3,3,3,5,6,4,2,14,muna; püha; sümbol; uskumus; folklor; marju; liikuv; rituaalne
-2,2,3,1,3,4,6,4,2,14,muna; püha; sümbol; uskumus; folklor; marju; liikuv; rituaalne
-1,3,5,2,2,3,4,3,2,14,muna; püha; sümbol; uskumus; folklor; liikuv; rituaalne
-2,3,3,4,3,3,4,1,1,14,muna; püha; sümbol; uskumus; folklor; liikuv; rituaalne
-1,3,3,4,2,4,5,2,1,14,muna; püha; sümbol; uskumus; folklor; liikuv; rituaalne
+2,4,3,1,3,4,4,4,1,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; nelipüha; liikuv
+2,4,3,1,3,4,4,4,1,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; nelipüha; liikuv
+2,4,3,1,3,4,4,4,1,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; nelipüha; liikuv
+2,4,4,1,3,4,4,4,1,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; nelipüha; liikuv
+3,5,5,1,3,4,4,4,1,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; viljakusjumalus; nelipüha; liikuv
+2,5,4,1,3,4,5,5,2,14,püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; viljakusjumalus; marju; nelipüha; liikuv
+5,3,4,4,3,7,8,5,2,14,sümbol; uskumus; muna; marju; liikuv; folklor; püha; kõivupuu; rituaalne; esivanem; viljakusjumalus; nelipüha
+3,3,4,2,3,5,9,5,2,14,folklor; püha; sümbol; kõivupuu; uskumus; rituaalne; esivanem; muna; viljakusjumalus; marju; nelipüha; liikuv
+1,5,6,5,2,3,6,4,2,14,folklor; püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; viljakusjumalus; nelipüha; liikuv
+2,3,4,7,3,3,5,3,2,14,folklor; püha; sümbol; kõivupuu; juustuveeretamine; uskumus; rituaalne; muna; viljakusjumalus; nelipüha; liikuv
+2,3,3,7,2,4,5,2,2,14,folklor; püha; sümbol; juustuveeretamine; uskumus; rituaalne; muna; viljakusjumalus; nelipüha; liikuv

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,2,1,4,2,3,2,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-3,5,2,1,4,2,3,2,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-3,5,2,1,4,2,3,2,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-3,5,2,1,4,2,3,2,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-3,5,2,1,4,1,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-3,6,2,1,4,2,3,3,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-4,4,3,4,4,3,3,4,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-2,3,3,5,4,3,3,4,4,15,haldjas; amsterdam; paruness; loss; park; ehitama
-1,2,2,5,4,4,5,4,4,15,haldjas; luksuslik; amsterdam; paruness; loss; park; ehitama
-1,2,1,4,4,4,4,3,4,15,haldjas; luksuslik; amsterdam; paruness; loss; park; ehitama
-2,1,3,5,4,4,3,4,3,15,haldjas; luksuslik; amsterdam; paruness; loss; park; ehitama
+3,7,3,2,5,2,3,2,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+3,7,3,2,5,2,3,2,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+3,7,3,2,5,2,3,2,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+3,7,3,2,5,2,3,2,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+3,6,3,2,5,2,3,4,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+4,8,2,2,5,4,3,4,4,15,park; paruness; fantaasiapidu; loss; restaureerimistöö; ehitama; amsterdam; sisekujundus; haldjas
+7,5,3,6,5,4,4,5,4,15,park; amsterdam; paruness; fantaasiapidu; loss; ehitama; restaureerimistöö; värvitoon; sisekujundus; haldjas
+3,5,4,6,5,5,4,5,4,15,park; amsterdam; paruness; fantaasiapidu; loss; ehitama; restaureerimistöö; värvitoon; sisekujundus; haldjas
+2,2,3,6,5,5,6,5,4,15,park; amsterdam; luksuslik; paruness; loss; ehitama; restaureerimistöö; värvitoon; sisekujundus; haldjas
+2,3,2,5,4,4,5,3,4,15,park; luksuslik; paruness; loss; restaureerimistöö; ehitama; amsterdam; värvitoon; sisekujundus; haldjas
+3,1,4,5,4,4,4,4,3,15,park; luksuslik; paruness; fantaasiapidu; loss; ehitama; amsterdam; sisekujundus; haldjas

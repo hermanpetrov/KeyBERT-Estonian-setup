@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,2,1,0,1,1,3,1,14,töö; ülo; vanaisa; õlletegu; vooglaid
-3,0,2,1,0,1,1,3,1,14,töö; ülo; vanaisa; õlletegu; vooglaid
-3,0,2,1,0,1,1,3,1,14,töö; ülo; vanaisa; õlletegu; vooglaid
-3,0,2,1,0,1,1,3,1,14,töö; ülo; vanaisa; õlletegu; vooglaid
-3,0,2,1,0,1,1,3,1,14,töö; ülo; vanaisa; õlletegu; vooglaid
-2,0,3,1,0,1,1,2,1,14,töö; ülo; vanaisa; vooglaid
-2,2,2,1,0,1,2,2,1,14,töö; vanaisa; ülo; sõda; vooglaid
-1,0,2,0,0,1,2,2,1,14,töö; ülo; vanaisa; vooglaid
-0,0,3,1,0,1,1,2,1,14,töö; ülo; vanaisa; vooglaid
-0,0,1,0,0,1,1,2,1,14,töö; ülo; vanaisa; vooglaid
-0,1,0,0,0,1,1,3,1,14,töö; vanaisa; ülo; vooglaid
+3,0,2,1,0,1,3,1,0,14,ülo; vanaisa; töö; vooglaid; õlletegu
+3,0,2,1,0,1,3,1,0,14,ülo; vanaisa; töö; vooglaid; õlletegu
+3,0,2,1,0,1,3,1,0,14,ülo; vanaisa; töö; vooglaid; õlletegu
+3,0,2,1,0,1,3,1,0,14,ülo; vanaisa; töö; vooglaid; õlletegu
+3,0,2,1,0,1,3,1,0,14,ülo; vanaisa; töö; vooglaid; õlletegu
+2,0,3,1,0,1,2,1,0,14,ülo; töö; vooglaid; vanaisa
+2,2,2,1,0,2,2,1,0,14,ülo; vanaisa; töö; vooglaid; sõda
+1,0,2,0,0,2,2,1,0,14,ülo; töö; vooglaid; vanaisa
+0,0,3,1,0,1,2,1,0,14,ülo; töö; vooglaid; vanaisa
+0,0,1,0,0,1,2,1,0,14,töö; vooglaid; ülo; vanaisa
+0,1,0,0,0,1,3,1,0,14,ülo; töö; vooglaid; vanaisa

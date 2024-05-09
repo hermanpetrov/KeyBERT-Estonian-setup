@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,6,7,3,6,5,7,6,13,masing; ülekuulamine; morse; hanso; soldat; metsavend; auto; viktor; isa; elmar
-8,8,7,7,3,7,5,7,6,13,masing; ülekuulamine; morse; hanso; soldat; metsavend; auto; viktor; isa; elmar
-8,8,8,7,3,7,5,8,6,13,masing; ülekuulamine; morse; hanso; soldat; metsavend; auto; viktor; isa; elmar
-7,8,8,7,5,7,8,8,6,13,ülekuulamine; hanso; soldat; metsavend; auto; granaat; elmar; masing; morse; viktor; isa
-7,7,9,7,5,7,9,8,5,13,ülekuulamine; hanso; soldat; metsavend; auto; granaat; elmar; masing; morse; viktor; isa
-8,8,8,7,6,6,9,9,6,13,ülekuulamine; hanso; metsavend; soldat; auto; granaat; elmar; masing; morse; viktor; isa
-7,6,11,8,6,8,9,6,7,13,ülekuulamine; hanso; metsavend; soldat; auto; granaat; elmar; masing; morse; viktor; isa
-6,6,6,8,6,9,10,6,7,13,ülekuulamine; hanso; metsavend; soldat; auto; elmar; masing; morse; viktor; isa
-3,6,8,7,8,6,7,7,7,13,masing; ülekuulamine; morse; hanso; soldat; metsavend; viktor; auto; elmar; isa; granaat
-3,4,7,8,7,8,8,5,6,13,ülekuulamine; hanso; metsavend; soldat; auto; granaat; elmar; masing; morse; viktor; isa
-3,5,10,7,7,7,8,8,7,13,ülekuulamine; hanso; metsavend; soldat; auto; granaat; elmar; masing; morse; viktor; isa
+8,8,6,7,3,5,7,6,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; morse
+8,8,7,7,3,5,7,6,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; morse
+8,8,8,7,3,5,8,6,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; morse
+7,8,8,7,5,8,8,6,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso
+7,7,9,7,5,9,8,5,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso
+8,8,8,7,6,9,9,6,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso
+7,6,11,8,6,9,6,7,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso
+6,6,6,8,6,10,6,7,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; masing; soldat; elmar; hanso
+3,6,8,7,8,7,7,7,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; morse; granaat
+3,4,7,8,7,8,5,6,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso
+3,5,10,7,7,8,8,7,0,13,metsavend; viktor; ülekuulamine; isa; auto; morse; granaat; masing; soldat; elmar; hanso

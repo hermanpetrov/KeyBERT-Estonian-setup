@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,4,1,1,3,3,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,4,1,1,3,3,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,4,1,1,3,3,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,4,1,1,3,3,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,5,1,1,3,3,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,4,1,1,3,2,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,5,1,1,3,2,4,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,5,1,1,3,3,3,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,5,2,1,3,2,2,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,3,2,1,5,2,2,4,12,uusorg; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
-1,3,4,2,2,4,2,1,4,12,uusorg; takistus; margo; võistlus; eesti; soome; vesi; kaal; birgit; ulrich
+2,3,5,1,1,3,4,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,1,1,3,4,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,1,1,3,4,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,1,1,3,4,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,6,1,1,3,4,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,4,1,1,3,3,6,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,1,1,3,3,5,4,12,margo; eesti; soome; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,1,1,3,4,4,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,5,2,1,3,2,3,4,12,margo; eesti; soome; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,3,3,1,5,3,3,4,12,margo; soome; eesti; vesi; võistlus; naisekandmine; maailmameister; ulrich; birgit; kaal; uusorg
+2,3,4,3,2,4,3,2,4,12,margo; eesti; soome; vesi; võistlus; naisekandmine; takistus; maailmameister; ulrich; birgit; kaal; uusorg

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,1,2,2,1,0,13,festival; eurosonic; artist
-2,0,1,1,1,2,2,1,0,13,festival; eurosonic; artist
-2,0,1,1,1,2,2,1,0,13,festival; eurosonic; artist
-2,0,1,1,1,2,2,1,0,13,festival; eurosonic; artist
-2,0,2,1,1,2,2,1,0,13,festival; eurosonic; artist
-2,0,1,1,1,2,2,2,0,13,festival; eurosonic; artist
-2,0,1,1,1,2,1,2,0,13,festival; eurosonic; artist
-0,0,0,1,1,3,2,3,0,13,festival; eurosonic; meister; bänd; artist; intervjuu
-0,1,2,3,1,3,1,2,0,13,festival; eurosonic; artist; erik; intervjuu; morna; bänd; kristo
-1,0,2,2,1,4,0,2,0,13,festival; eurosonic; artist; erik; morna; bänd
-0,0,2,1,1,1,0,3,0,13,festival; eurosonic; jaan; meister; artist; erik
+2,0,1,1,1,2,2,1,0,13,artist; eurosonic; festival
+2,0,1,1,1,2,2,1,0,13,artist; eurosonic; festival
+2,0,1,1,1,2,2,1,0,13,artist; eurosonic; festival
+2,0,1,1,1,2,2,1,0,13,artist; eurosonic; festival
+2,0,2,1,1,2,2,1,0,13,artist; eurosonic; festival
+2,0,1,1,1,2,2,2,0,13,artist; eurosonic; festival
+2,0,1,1,1,2,1,2,0,13,artist; eurosonic; festival
+0,0,0,1,1,3,2,3,0,13,meister; artist; eurosonic; bänd; intervjuu; festival
+0,1,2,3,1,3,1,2,0,13,erik; bänd; intervjuu; artist; eurosonic; kristo; morna; festival
+1,0,2,2,1,4,0,4,0,13,erik; otsesaade; bänd; rajasaar; artist; eurosonic; morna; festival
+0,0,2,1,1,1,0,4,0,13,meister; erik; rajasaar; artist; jaan; eurosonic; festival

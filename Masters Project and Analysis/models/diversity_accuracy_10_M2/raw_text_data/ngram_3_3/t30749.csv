@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 2,1,1,0,0,0,0,1,1,14,porto; madeira
 2,1,1,0,0,0,0,1,1,14,porto; madeira
 1,1,1,0,0,0,0,1,1,14,madeira
-1,1,0,1,0,1,0,2,1,14,porto; santana; madeira
+1,1,0,1,0,1,0,2,1,14,porto; madeira; santana
 0,1,1,0,0,0,0,2,1,14,porto; madeira
 0,1,1,1,0,0,0,0,1,14,porto; madeira
 0,0,0,0,0,0,0,0,1,14,madeira
-0,0,0,2,0,0,0,0,0,14,porto; madeira
+0,0,0,2,0,0,0,0,0,14,madeira; porto

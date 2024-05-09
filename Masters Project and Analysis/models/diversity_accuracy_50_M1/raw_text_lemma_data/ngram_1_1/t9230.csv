@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,0,1,0,1,1,0,0,0,15,alfa; ilmar; alam-pedja
-1,1,1,0,1,0,0,0,0,15,hunt; alfa; ilmar; alam-pedja
-1,0,1,0,1,2,2,0,0,15,alfa; alam-pedja; rootsi; hunt; territoorium; ilmar
-1,0,2,0,1,2,2,0,0,15,alfa; alam-pedja; rootsi; hunt; territoorium; ilmar
-0,0,1,1,1,0,2,0,0,15,alfa; rootsi; hunt; alam-pedja
-0,0,3,2,1,1,1,0,0,15,marko; alfa; alam-pedja; rootsi; hunt; territoorium; murdmine
+1,0,2,0,1,2,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,0,2,0,1,2,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,0,2,0,1,2,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,0,2,0,1,2,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,0,2,0,1,2,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,0,2,0,1,2,2,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; alfa
+1,1,2,1,1,0,1,1,0,15,jahimees; looduskaitseala; alam-pedja; ilmar; hunt; alfa
+1,0,1,0,1,2,2,1,0,15,rootsi; looduskaitseala; territoorium; alam-pedja; ilmar; hunt; alfa
+1,0,2,0,1,2,2,0,0,15,rootsi; territoorium; alam-pedja; ilmar; hunt; alfa
+0,0,1,1,1,0,2,1,0,15,rootsi; looduskaitseala; alam-pedja; hunt; alfa
+0,0,3,2,1,1,1,1,0,15,rootsi; looduskaitseala; territoorium; murdmine; alam-pedja; marko; hunt; alfa

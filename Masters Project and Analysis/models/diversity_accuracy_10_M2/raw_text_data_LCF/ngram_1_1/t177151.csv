@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,0,1,0,21,eurosonic; the; raadio
-0,0,1,0,1,0,0,1,0,21,eurosonic; the; raadio
-0,0,1,0,1,0,0,1,0,21,eurosonic; the; raadio
-0,0,1,0,1,0,0,1,0,21,eurosonic; the; raadio
-0,0,1,0,1,0,0,1,0,21,eurosonic; the; raadio
-0,0,1,0,1,2,0,0,0,21,eurosonic; holland; the
-0,0,0,0,1,2,2,0,0,21,eurosonic; holland; the
-0,0,0,0,1,2,1,0,0,21,eurosonic; the; raadio
-0,0,0,0,1,1,1,0,0,21,eurosonic; the; raadio
-0,0,2,0,1,1,1,0,0,21,eurosonic; ewert; the; raadio
-0,0,2,1,1,2,1,0,0,21,festival; eurosonic; ewert; raadio; the; kaks
+0,0,1,0,1,0,1,0,0,21,raadio; eurosonic; the
+0,0,1,0,1,0,1,0,0,21,raadio; eurosonic; the
+0,0,1,0,1,0,1,0,0,21,raadio; eurosonic; the
+0,0,1,0,1,0,1,0,0,21,raadio; eurosonic; the
+0,0,1,0,1,0,1,0,0,21,raadio; eurosonic; the
+0,0,1,0,1,0,0,0,0,21,eurosonic; the
+0,0,0,0,1,2,0,0,0,21,holland; eurosonic; the
+0,0,0,0,1,1,0,0,0,21,eurosonic; the
+0,0,0,0,1,1,0,0,0,21,eurosonic; the
+0,0,2,0,1,1,0,0,0,21,eurosonic; the; ewert
+0,0,2,1,1,1,0,0,0,21,eurosonic; the; ewert; kaks

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,2,1,3,1,4,2,14,kõnekoosolek; estonia; rakvere; teater; vanemuise; eesti; kultuuriajalugu; selts; kultuur
-3,3,2,2,1,3,1,4,2,14,kõnekoosolek; estonia; rakvere; teater; vanemuise; eesti; kultuuriajalugu; selts; kultuur
-3,3,2,2,1,3,1,4,2,14,kõnekoosolek; estonia; rakvere; teater; vanemuise; eesti; kultuuriajalugu; selts; kultuur
-3,3,2,2,1,3,1,4,2,14,kõnekoosolek; estonia; rakvere; teater; vanemuise; eesti; kultuuriajalugu; selts; kultuur
-3,2,2,2,1,3,1,4,2,14,kõnekoosolek; estonia; rakvere; teater; vanemuise; eesti; selts; kultuur
-3,2,2,3,1,3,2,4,2,14,kõnekoosolek; estonia; rakvere; vanemuise; eesti; selts; kultuur
-1,2,2,2,1,0,2,3,2,14,kõnekoosolek; rakvere; estonia; teater; eesti; vene; selts
-3,3,2,3,1,2,1,4,2,14,kõnekoosolek; estonia; vanemuise; rakvere; teater; eesti; vene; selts
-2,0,4,2,1,2,2,2,2,14,kõnekoosolek; estonia; rakvere; eesti; vene; selts; naisliit
-1,1,4,2,2,3,2,4,2,14,kõnekoosolek; estonia; vanemuise; eesti; vene; selts; naisliit
-1,0,3,4,2,2,2,2,1,14,vene; kõnekoosolek; estonia; rakvere; selts; eesti
+3,3,2,2,1,3,1,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; kultuur; teater; estonia
+3,3,2,2,1,3,1,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; kultuur; teater; estonia
+3,3,2,2,1,3,1,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; kultuur; teater; estonia
+3,3,2,2,1,3,1,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; kultuur; teater; estonia
+3,2,2,2,1,3,1,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuur; teater; estonia
+3,2,2,3,1,3,2,4,2,14,selts; eesti; kõnekoosolek; rakvere; vanemuise; kultuur; estonia
+1,2,2,2,1,0,2,3,2,14,selts; vene; eesti; kõnekoosolek; rakvere; teater; estonia
+3,3,2,3,1,2,1,4,2,14,selts; vene; eesti; kõnekoosolek; rakvere; vanemuise; teater; estonia
+2,0,4,2,1,2,2,2,2,14,selts; vene; eesti; kõnekoosolek; rakvere; naisliit; estonia
+1,1,4,2,2,3,2,4,2,14,selts; vene; eesti; kõnekoosolek; naisliit; vanemuise; estonia
+1,0,3,4,2,2,2,2,1,14,selts; vene; eesti; kõnekoosolek; rakvere; estonia

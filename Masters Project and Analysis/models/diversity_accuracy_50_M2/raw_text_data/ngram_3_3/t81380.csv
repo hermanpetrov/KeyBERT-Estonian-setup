@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,3,2,2,5,3,7,1,19,disainer; paju; tants; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kollektsioon
-2,3,3,2,2,5,3,7,1,19,disainer; paju; tants; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kollektsioon
-2,3,3,2,2,5,3,7,1,19,disainer; paju; tants; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kollektsioon
-2,3,3,2,2,5,3,7,1,19,disainer; paju; tants; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kollektsioon
-2,3,3,2,2,5,3,7,1,19,disainer; tants; pelisi; moeetendus; anatoomikum; performance; kristina; mood; kollektsioon; lavastaja
-4,3,3,2,2,4,5,7,1,19,pelisi; performance; kristina; mood; kollektsioon; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem
-1,2,3,2,2,6,5,6,1,19,paju; pelisi; moeetendus; anatoomikum; performance; kristina; mood; tants; lavastaja
-3,0,3,6,1,4,4,7,1,19,disainer; paju; moeetendus; performance; kristina; mood; tants; lavastaja
-4,1,4,4,4,3,4,4,1,19,disainer; paju; pelisi; moeetendus; performance; kristina; mood; tants; lavastaja
-1,1,5,4,3,4,5,4,1,19,paju; pelisi; moeetendus; anatoomikum; performance; kristina; mood; tants; lavastaja
-2,1,4,4,5,6,5,3,1,19,paju; pelisi; moeetendus; anatoomikum; performance; kristina; mood; tants; lavastaja; seenemaa
+2,3,3,2,2,5,3,7,1,19,moeetendus; kristina; performance; kollektsioon; mood; pelisi; disainer; anatoomikum; paju; tants
+2,3,3,2,2,5,3,7,1,19,moeetendus; kristina; performance; kollektsioon; mood; pelisi; disainer; anatoomikum; paju; tants
+2,3,3,2,2,5,3,7,1,19,moeetendus; kristina; performance; kollektsioon; mood; pelisi; disainer; anatoomikum; paju; tants
+2,3,3,2,2,5,3,7,1,19,moeetendus; kristina; performance; kollektsioon; mood; pelisi; disainer; anatoomikum; paju; tants
+2,3,3,2,2,5,3,7,1,19,moeetendus; kristina; performance; kollektsioon; mood; pelisi; disainer; lavastaja; anatoomikum; tants
+4,3,3,2,2,4,5,7,1,19,kristina; performance; pelisi; kunstikool; anatoomikum; tants; moeetendus; kollektsioon; disainer; mood; lavastaja; kõrgem; paju
+1,2,3,2,2,6,5,6,1,19,moeetendus; performance; kristina; mood; lavastaja; pelisi; anatoomikum; paju; tants
+3,0,3,6,1,4,4,7,1,19,moeetendus; performance; kristina; disainer; mood; lavastaja; paju; tants
+4,1,4,4,4,3,4,4,1,19,moeetendus; kristina; disainer; performance; mood; lavastaja; pelisi; paju; tants
+1,1,5,4,3,4,5,4,1,19,moeetendus; performance; kristina; mood; lavastaja; pelisi; anatoomikum; paju; tants
+2,1,4,4,5,6,5,3,1,19,seenemaa; moeetendus; performance; kristina; mood; lavastaja; pelisi; anatoomikum; paju; tants

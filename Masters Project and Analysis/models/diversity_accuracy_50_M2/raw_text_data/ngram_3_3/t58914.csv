@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,1,1,0,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus; liiv
-2,2,0,1,1,0,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus; liiv
-2,2,0,1,1,0,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus; liiv
-2,2,0,1,1,0,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus; liiv
-1,2,0,1,1,1,0,1,0,12,mageveehorisont; prognoos; sadam; veetõus
-1,0,0,1,1,1,0,1,0,12,veetõus; sadam
-1,0,0,0,1,0,0,1,0,12,veetõus; sadam
-2,1,0,0,1,0,0,2,0,12,sadam; prognoos; veetõus; liiv
-1,1,0,1,1,0,0,0,0,12,veetõus; sadam; prognoos
-2,1,1,1,1,0,0,1,0,12,veetõus; sadam; prognoos; rand
-2,1,1,0,1,1,0,0,0,12,veetõus; sadam
+2,2,0,1,1,0,0,1,0,12,veetõus; prognoos; mageveehorisont; sadam; liiv
+2,2,0,1,1,0,0,1,0,12,veetõus; prognoos; mageveehorisont; sadam; liiv
+2,2,0,1,1,0,0,1,0,12,veetõus; prognoos; mageveehorisont; sadam; liiv
+2,2,0,1,1,0,0,1,0,12,veetõus; prognoos; mageveehorisont; sadam; liiv
+1,2,0,1,1,1,0,1,0,12,veetõus; prognoos; mageveehorisont; sadam
+1,0,0,1,1,1,0,1,0,12,sadam; veetõus
+1,0,0,0,1,0,0,1,0,12,sadam; veetõus
+2,1,0,0,1,0,0,2,0,12,veetõus; prognoos; sadam; liiv
+1,1,0,1,1,0,0,0,0,12,sadam; veetõus; prognoos
+2,1,1,1,1,0,0,1,0,12,sadam; veetõus; prognoos; rand
+2,1,1,0,1,1,0,0,0,12,sadam; veetõus

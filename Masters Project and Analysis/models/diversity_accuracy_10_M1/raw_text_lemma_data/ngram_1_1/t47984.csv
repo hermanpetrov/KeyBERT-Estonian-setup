@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,1,0,1,15,eesti; paul
 0,0,0,0,0,0,1,0,1,15,eesti; paul
 0,0,0,0,0,0,1,0,1,15,eesti; paul
-0,0,0,0,0,0,1,0,1,15,eesti; paul
-0,0,1,0,0,0,1,0,1,15,eesti; paul; hendrik
-0,0,1,0,0,0,1,0,1,15,eesti; paul; hendrik
-0,0,1,0,0,2,1,0,1,15,meister; paul; hendrik; eesti
-0,0,0,0,0,0,1,0,1,15,eesti; paul
+0,0,0,0,0,1,1,0,1,15,eesti; lisalaeng; paul
+0,0,1,0,0,1,1,0,1,15,eesti; lisalaeng; hendrik; paul
+0,0,1,0,0,1,1,0,1,15,eesti; lisalaeng; hendrik; paul
+0,0,1,0,0,3,1,0,1,15,meister; eesti; hendrik; lisalaeng; paul
+0,0,0,0,0,1,1,0,1,15,eesti; lisalaeng; paul

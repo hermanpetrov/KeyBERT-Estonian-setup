@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,2,0,2,1,4,1,11,orkester; estonia; teater; näitleja; perekond; viiul
-2,2,2,2,0,2,1,4,1,11,orkester; estonia; teater; näitleja; perekond; viiul
-2,2,2,2,0,2,1,4,1,11,orkester; estonia; teater; näitleja; perekond; viiul
-2,2,1,2,0,2,1,4,1,11,orkester; estonia; teater; näitleja; perekond; viiul
-2,2,2,2,0,2,1,4,2,11,orkester; estonia; teater; näitleja; perekond; viiul
-3,2,1,2,0,1,1,4,2,11,orkester; estonia; teater; näitleja; perekond; viiul
-2,1,1,1,0,2,1,4,2,11,orkester; estonia; teater; näitleja; perekond; viiul
-3,2,3,2,0,1,1,3,2,11,orkester; estonia; teater; näitleja; perekond; viiul
-3,2,3,2,0,1,2,4,2,11,orkester; estonia; näitleja; perekond; viiul
-5,4,2,2,1,2,1,3,3,11,orkester; estonia; teater; näitleja; perekond; viiul
-5,3,2,2,1,2,1,3,3,11,orkester; estonia; teater; näitleja; perekond; viiul
+4,3,3,3,0,4,3,5,2,11,proovitöö; orkester; lilleäri; perekond; laulukoor; näitleja; viiul; lapsepõlv; kuuskemaa; teater; estonia
+4,3,3,3,0,4,3,5,2,11,proovitöö; orkester; lilleäri; perekond; laulukoor; näitleja; viiul; lapsepõlv; kuuskemaa; teater; estonia
+4,3,3,3,0,4,3,5,2,11,proovitöö; orkester; lilleäri; perekond; laulukoor; näitleja; viiul; lapsepõlv; kuuskemaa; teater; estonia
+4,3,2,3,0,4,3,5,2,11,proovitöö; lilleäri; perekond; laulukoor; näitleja; estonia; lapsepõlv; viiul; kuuskemaa; teater; orkester
+4,3,4,3,0,4,3,5,3,11,proovitöö; orkester; lilleäri; perekond; laulukoor; näitleja; lapsepõlv; viiul; kuuskemaa; teater; estonia
+5,4,2,3,0,4,3,6,3,11,proovitöö; lilleäri; laulukoor; perekond; näitleja; estonia; lapsepõlv; viiul; kuuskemaa; teater; orkester
+2,3,3,2,0,4,2,5,3,11,lilleäri; laulukoor; lapsepõlv; näitleja; estonia; viiul; perekond; kuuskemaa; teater; orkester
+3,3,4,2,0,2,2,5,3,11,viiul; lapsepõlv; näitleja; perekond; laulukoor; estonia; kuuskemaa; teater; orkester
+5,3,5,2,0,2,3,5,3,11,proovitöö; orkester; lilleäri; perekond; näitleja; laulukoor; lapsepõlv; viiul; estonia
+8,5,3,2,1,4,2,6,3,11,proovitöö; orkester; lilleäri; viiul; näitleja; perekond; laulukoor; lapsepõlv; kuuskemaa; teater; estonia
+7,4,3,3,1,3,2,6,4,11,proovitöö; orkester; lilleäri; viiul; perekond; näitleja; lapsepõlv; laulukoor; kuuskemaa; teater; estonia

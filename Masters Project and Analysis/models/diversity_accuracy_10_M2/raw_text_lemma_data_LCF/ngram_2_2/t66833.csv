@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,2,2,1,0,13,eino; publik; muusika; eesti; noor
-0,1,1,0,1,2,2,1,0,13,eino; publik; muusika; eesti; noor
-0,1,1,0,1,2,2,1,0,13,eino; publik; muusika; eesti; noor
-0,1,1,0,1,2,2,1,0,13,eino; publik; muusika; eesti; noor
-0,1,1,0,1,2,2,1,0,13,eino; publik; muusika; eesti; noor
-0,1,1,0,1,2,2,1,0,13,eino; publik; eesti; noor
-0,1,1,0,1,2,1,1,0,13,muusika; eesti; noor
-0,1,0,2,1,3,1,1,0,13,publik; muusika; tamberg; institutsioon; eesti; noor
-2,3,0,0,1,2,1,2,0,13,eino; publik; muusika; eesti; steinway; noor
-2,3,0,1,1,2,1,1,1,13,eino; muusika; tamberg; eesti; steinway; noor
-0,1,0,0,1,3,2,1,0,13,publik; muusika; eesti; steinway; noor
+0,2,1,0,1,4,4,2,0,13,eesti; noor; eino; nüüdismuusika; publik; muusika; helilooja
+0,2,1,0,1,4,4,2,0,13,eesti; noor; eino; nüüdismuusika; publik; muusika; helilooja
+0,2,1,0,1,4,4,2,0,13,eesti; noor; eino; nüüdismuusika; publik; muusika; helilooja
+0,2,1,0,1,4,4,2,0,13,eesti; noor; eino; nüüdismuusika; publik; muusika; helilooja
+0,2,1,0,1,4,4,2,0,13,eesti; noor; eino; nüüdismuusika; publik; muusika; helilooja
+0,2,2,0,1,3,3,2,0,13,publik; helilooja; eesti; noor; eino
+0,2,1,0,1,2,2,2,0,13,muusika; helilooja; eesti; noor
+0,1,0,2,1,4,1,2,0,13,tamberg; eesti; institutsioon; noor; publik; muusika; helilooja
+2,5,1,0,1,2,2,3,0,13,eesti; noor; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+2,4,0,1,1,2,1,2,1,13,tamberg; eesti; noor; steinway; eino; muusika; helilooja
+0,1,1,0,1,3,2,2,0,13,publik; muusika; helilooja; eesti; noor; steinway

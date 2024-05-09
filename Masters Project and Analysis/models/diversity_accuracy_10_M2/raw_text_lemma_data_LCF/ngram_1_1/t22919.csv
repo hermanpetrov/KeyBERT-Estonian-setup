@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,1,0,0,0,0,0,0,15,poliitiline
-0,0,0,0,0,1,1,0,0,15,poeetiline; poliitiline
-0,0,0,0,0,1,0,0,0,15,poeetiline
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
+0,1,0,1,0,0,1,3,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,1,0,0,1,3,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,1,0,0,1,3,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,1,0,0,1,3,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,1,0,0,1,3,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,1,0,0,1,2,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,1,1,0,0,1,1,0,15,poliitiline; graafikatriennaal; kunstihoone
+0,2,0,0,0,1,2,1,0,15,graafikatraditsioon; poliitiline; graafikatriennaal; poeetiline; kunstihoone
+0,2,0,0,0,1,1,1,0,15,graafikatraditsioon; graafikatriennaal; poeetiline; kunstihoone
+0,1,0,0,0,0,2,1,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone
+0,1,0,0,0,0,2,1,0,15,graafikatraditsioon; graafikatriennaal; kunstihoone

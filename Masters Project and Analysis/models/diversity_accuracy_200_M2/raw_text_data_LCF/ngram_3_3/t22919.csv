@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-11,10,8,9,2,9,11,10,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-11,9,8,9,2,9,11,13,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-11,10,8,9,2,11,11,13,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-11,10,8,8,2,11,11,13,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-9,10,8,10,4,12,11,13,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-9,10,9,11,4,11,10,12,5,15,poeetiline; anders; kuraator; poliitiline; hanno; kunstihoone; kumu; soans; tudengifilm; laimre; härm; marco; tartu
-9,9,10,11,9,11,8,11,6,15,poeetiline; anders; kuraator; poliitiline; hanno; marco; kumu; soans; tudengifilm; laimre; härm; kunstihoone; tartu
-7,9,10,11,11,10,10,10,6,15,poeetiline; anders; kuraator; poliitiline; hanno; marco; kumu; soans; tudengifilm; härm; laimre; kunstihoone; tartu
-7,8,12,12,10,8,8,9,9,15,poeetiline; anders; kuraator; poliitiline; hanno; marco; kumu; soans; tudengifilm; härm; laimre; kunstihoone; tartu
-6,8,11,12,10,10,9,8,11,15,poeetiline; anders; kuraator; poliitiline; hanno; marco; kumu; soans; tudengifilm; laimre; härm; kunstihoone; tartu
-7,9,11,12,9,11,10,8,11,15,poeetiline; anders; kuraator; poliitiline; hanno; marco; kumu; soans; tudengifilm; härm; laimre; kunstihoone; tartu
+11,10,8,9,2,11,10,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+11,9,8,9,2,11,13,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+11,10,8,9,2,11,13,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+11,10,8,8,2,11,13,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+9,10,8,10,4,11,13,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+9,10,9,11,4,10,12,5,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+9,9,10,11,9,8,11,6,0,15,laimre; tudengifilm; tartu; poliitiline; kumu; poeetiline; kunstihoone; soans; kuraator; marco; härm; hanno; anders
+7,9,10,11,11,10,10,6,0,15,laimre; tudengifilm; tartu; anders; poliitiline; kumu; poeetiline; kunstihoone; soans; marco; härm; hanno; kuraator
+7,8,12,12,10,8,9,9,0,15,laimre; tudengifilm; tartu; anders; poliitiline; kumu; poeetiline; kunstihoone; soans; marco; härm; hanno; kuraator
+6,8,11,12,10,9,8,11,0,15,laimre; tudengifilm; tartu; anders; poliitiline; kumu; poeetiline; kunstihoone; soans; marco; härm; hanno; kuraator
+7,9,11,12,9,10,8,11,0,15,laimre; tudengifilm; tartu; anders; poliitiline; kumu; poeetiline; kunstihoone; soans; marco; härm; hanno; kuraator

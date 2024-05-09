@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,2,0,1,2,1,1,11,punaarmee; pärnu; maha; vagun; jaam; ohvitser
-2,0,0,2,0,1,2,1,1,11,punaarmee; pärnu; maha; vagun; jaam; ohvitser
-2,0,0,2,0,1,2,1,1,11,punaarmee; pärnu; maha; vagun; jaam; ohvitser
-2,0,0,2,0,1,2,1,1,11,punaarmee; pärnu; maha; vagun; jaam; ohvitser
-2,0,0,1,0,1,1,2,1,11,punaarmee; pärnu; maha; vagun; jaam; ohvitser
-1,1,0,1,0,0,0,1,1,11,punaarmee; vagun; jaam; ohvitser
-4,1,0,0,0,0,1,1,1,11,punaarmee; maha; jaam; laager; ohvitser
-4,1,0,1,0,2,2,2,1,11,pärnu; vagun; laager; jaam; maha; punaarmee; laskma; ohvitser
-2,2,1,2,0,2,1,1,1,11,punaarmee; pärnu; vagun; jaam; laager; laskma; ohvitser
-3,2,1,4,1,0,1,1,1,11,pärnu; laager; jaam; maha; punaarmee; laskma; ohvitser
-4,1,1,3,0,1,1,0,1,11,punaarmee; pärnu; maha; jaam; laager; ohvitser
+2,0,0,2,0,1,2,1,1,11,punaarmee; vagun; ohvitser; pärnu; maha; jaam
+2,0,0,2,0,1,2,1,1,11,punaarmee; vagun; ohvitser; pärnu; maha; jaam
+2,0,0,2,0,1,2,1,1,11,punaarmee; vagun; ohvitser; pärnu; maha; jaam
+2,0,0,2,0,1,2,1,1,11,punaarmee; vagun; ohvitser; pärnu; maha; jaam
+2,0,0,1,0,1,1,2,1,11,punaarmee; vagun; ohvitser; pärnu; maha; jaam
+1,1,0,1,0,0,0,1,1,11,ohvitser; vagun; punaarmee; jaam
+4,1,0,0,0,0,1,1,1,11,punaarmee; ohvitser; maha; jaam; laager
+4,1,0,1,0,2,2,2,1,11,laskma; ohvitser; punaarmee; jaam; vagun; pärnu; maha; laager
+2,2,1,2,0,2,1,1,1,11,laskma; ohvitser; vagun; pärnu; punaarmee; jaam; laager
+3,2,1,4,1,0,1,1,1,11,laskma; ohvitser; punaarmee; jaam; pärnu; maha; laager
+4,1,1,3,0,1,1,0,1,11,punaarmee; ohvitser; pärnu; maha; jaam; laager

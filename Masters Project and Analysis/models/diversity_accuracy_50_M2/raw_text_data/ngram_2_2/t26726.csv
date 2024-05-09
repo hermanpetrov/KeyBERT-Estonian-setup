@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,3,2,1,2,2,1,13,komöödia; august; vigased; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-2,4,2,3,2,1,2,2,1,13,komöödia; august; vigased; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-2,4,2,3,2,1,2,2,1,13,komöödia; august; vigased; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-3,4,2,3,2,1,2,2,2,13,komöödia; august; vigased; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-3,4,2,3,2,1,2,2,2,13,komöödia; august; vigased; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-3,4,1,3,2,2,2,2,1,13,komöödia; vigased; august; ärkamisaeg; kitzberg; kosjasõit; realism; vilde
-3,2,2,3,2,2,2,4,1,13,komöödia; vigased; ärkamisaeg; kitzberg; kirjandus; realism; vilde
-4,2,1,4,2,1,2,3,1,13,komöödia; august; ärkamisaeg; kitzberg; kosjasõit; realism; vilde; kriitiline
-1,0,1,3,2,2,1,3,1,13,kosjasõit; realism; ärkamisaeg; kriitiline; vilde; kitzberg
-1,0,2,3,2,4,0,2,1,13,komöödia; august; pruudid; kitzberg; kosjasõit; realism; vilde
-2,1,2,3,3,3,0,2,1,13,komöödia; vigased; august; kitzberg; kosjasõit; realism; vilde; kriitiline
+2,4,2,3,2,1,2,2,1,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+2,4,2,3,2,1,2,2,1,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+2,4,2,3,2,1,2,2,1,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+3,4,2,3,2,1,2,2,2,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+3,4,2,3,2,1,2,2,2,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+3,4,1,3,2,2,2,2,1,13,vigased; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+3,2,2,3,2,2,2,4,1,13,vigased; realism; kitzberg; komöödia; ärkamisaeg; vilde; kirjandus
+4,2,1,4,2,1,2,3,1,13,kriitiline; realism; kitzberg; komöödia; august; ärkamisaeg; vilde; kosjasõit
+1,0,1,3,2,2,1,3,1,13,ärkamisaeg; kriitiline; vilde; realism; kitzberg; kosjasõit
+1,0,2,3,2,4,0,2,1,13,realism; kitzberg; komöödia; august; pruudid; vilde; kosjasõit
+2,1,2,3,3,3,0,2,1,13,vigased; kriitiline; realism; kitzberg; komöödia; august; vilde; kosjasõit

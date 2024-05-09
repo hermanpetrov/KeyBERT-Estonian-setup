@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,5,4,1,4,4,5,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-6,7,5,4,1,4,4,5,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-6,7,5,4,1,4,4,5,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-6,7,5,4,1,4,4,5,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-6,7,5,4,1,4,4,5,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-5,7,6,3,1,4,5,6,3,11,muusika; õpetaja; karjäär; medell; sirje; tallinn; perekond; esinema; laulma
-5,5,7,5,1,4,4,7,3,11,muusika; õpetaja; medell; esinema; sirje; tallinn; perekond; ansambel; laulma
-2,6,6,6,0,5,5,8,3,11,muusika; õpetaja; medell; sirje; tallinn; perekond; esinema; laulma; ansambel
-1,5,7,3,0,4,5,6,3,11,muusika; õpetaja; medell; sirje; tallinn; perekond; esinema; laulma; ansambel
-3,2,6,2,1,5,7,7,3,11,muusika; õpetaja; medell; esinema; sirje; tallinn; perekond; ansambel; laulma
-3,6,7,2,1,4,6,8,3,11,muusika; õpetaja; medell; esinema; sirje; tallinn; perekond; ansambel; laulma
+7,8,6,5,1,5,5,6,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+7,8,6,5,1,5,5,6,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+7,8,6,5,1,5,5,6,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+7,8,6,5,1,5,5,6,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+7,8,6,5,1,5,5,6,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+6,8,7,4,1,5,6,7,3,11,medell; sirje; tallinn; perekond; muusika; esinema; kuressaare; õpetaja; laulma; karjäär
+6,5,8,6,1,5,5,8,3,11,medell; sirje; tallinn; perekond; ansambel; muusika; õpetaja; kuressaare; esinema; laulma
+3,7,6,6,0,6,6,9,3,11,tallinn; perekond; õpetaja; laulma; medell; ansambel; muusika; esinema; kuressaare; sirje
+2,5,8,3,0,5,6,7,3,11,medell; sirje; tallinn; perekond; ansambel; muusika; esinema; kuressaare; õpetaja; laulma
+3,2,7,2,1,6,8,8,4,11,medell; sirje; tallinn; perekond; ansambel; muusika; esinema; kuressaare; õpetaja; laulma
+4,6,8,2,1,5,7,9,4,11,tallinn; perekond; õpetaja; laulma; medell; ansambel; muusika; esinema; kuressaare; sirje

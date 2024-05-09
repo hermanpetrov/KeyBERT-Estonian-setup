@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,2,1,0,2,1,2,0,13,ants; tartu; komisjon; euro; euroopa
-3,0,2,1,0,2,1,2,0,13,ants; tartu; komisjon; euro; euroopa
-3,0,2,1,0,2,1,2,0,13,ants; tartu; komisjon; euro; euroopa
-3,0,2,1,0,2,1,2,0,13,ants; tartu; komisjon; euro; euroopa
-3,0,2,1,0,2,1,2,0,13,ants; tartu; komisjon; euro; euroopa
-3,0,3,1,0,2,1,3,0,13,ants; salme; tartu; komisjon; euro; euroopa
-1,0,3,1,0,2,2,4,0,13,salme; komisjon; euro; euroopa
-2,0,2,0,0,2,2,4,0,13,salme; komisjon; euro; euroopa
-0,0,2,0,0,1,1,2,0,13,salme; euroopa
-0,1,2,1,0,1,1,2,0,13,salme; komisjon; euroopa
-0,1,2,1,0,1,1,2,0,13,salme; komisjon; euroopa
+3,0,2,1,0,1,2,0,0,13,euroopa; ants; komisjon; tartu; euro
+3,0,2,1,0,1,2,0,0,13,euroopa; ants; komisjon; tartu; euro
+3,0,2,1,0,1,2,0,0,13,euroopa; ants; komisjon; tartu; euro
+3,0,2,1,0,1,2,0,0,13,euroopa; ants; komisjon; tartu; euro
+3,0,2,1,0,1,2,0,0,13,euroopa; ants; komisjon; tartu; euro
+3,0,3,1,0,1,3,0,0,13,euroopa; ants; komisjon; salme; tartu; euro
+1,0,3,1,0,2,4,0,0,13,euroopa; komisjon; salme; euro
+2,0,2,0,0,2,4,0,0,13,euroopa; komisjon; salme; euro
+0,0,2,0,0,1,2,0,0,13,salme; euroopa
+0,1,2,1,0,1,2,0,0,13,euroopa; komisjon; salme
+0,1,2,1,0,1,2,0,0,13,euroopa; komisjon; salme

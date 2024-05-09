@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,4,2,0,3,2,2,0,13,türgi; kirjanik; nobeli; euroopa
-0,2,4,2,0,3,2,2,0,13,türgi; kirjanik; nobeli; euroopa
-0,2,4,2,0,3,2,2,1,13,türgi; kirjanik; nobeli; euroopa
-0,2,4,2,0,3,2,2,1,13,türgi; kirjanik; nobeli; euroopa
-0,2,3,2,0,3,2,2,0,13,türgi; kirjanik; nobeli; euroopa
-0,2,4,2,0,2,2,2,1,13,türgi; kirjanik; nobeli; euroopa
-0,2,5,3,0,2,2,2,1,13,türgi; orhan; kirjanik; nobeli; preemia; euroopa
-0,1,2,2,0,2,2,2,1,13,türgi; nobeli; istanbul; euroopa
-1,1,2,4,0,2,2,3,1,13,nobeli; preemia; istanbul; türgi; orhan; euroopa
-0,2,2,1,0,3,2,2,1,13,türgi; kirjanik; nobeli; euroopa
-0,2,2,1,0,2,2,2,1,13,türgi; nobeli; euroopa
+0,2,4,2,0,2,2,0,0,13,kirjanik; euroopa; nobeli; türgi
+0,2,4,2,0,2,2,0,0,13,kirjanik; euroopa; nobeli; türgi
+0,2,4,2,0,2,2,1,0,13,kirjanik; euroopa; nobeli; türgi
+0,2,4,2,0,2,2,1,0,13,kirjanik; euroopa; nobeli; türgi
+0,2,3,2,0,2,2,0,0,13,euroopa; nobeli; türgi
+0,2,4,2,0,2,2,1,0,13,kirjanik; euroopa; nobeli; türgi
+0,2,5,3,0,2,2,1,0,13,orhan; kirjanik; euroopa; preemia; nobeli; türgi
+0,1,2,2,0,2,2,1,0,13,istanbul; euroopa; nobeli; türgi
+1,1,2,4,0,2,3,1,0,13,istanbul; orhan; preemia; nobeli; euroopa; türgi
+0,2,2,1,0,2,2,1,0,13,euroopa; nobeli; türgi
+0,2,2,1,0,2,2,1,0,13,euroopa; nobeli; türgi

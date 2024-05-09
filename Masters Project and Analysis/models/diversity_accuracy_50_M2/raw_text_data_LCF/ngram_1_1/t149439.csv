@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,4,0,1,0,1,1,0,11,töö; doktor; emil; tennis; jooksma; laur; noor
-0,2,4,0,1,0,1,1,0,11,töö; doktor; emil; tennis; jooksma; laur; noor
-0,2,4,0,1,0,1,1,0,11,töö; doktor; emil; tennis; jooksma; laur; noor
-0,2,3,0,1,0,1,1,1,11,töö; doktor; emil; tennis; jooksma; laur; noor
-0,2,2,0,1,0,1,1,1,11,töö; doktor; jooksma; tennis; emil; laur; noor
-0,2,2,0,1,1,1,0,1,11,töö; doktor; tennis; emil; laur; noor
-0,2,2,0,1,1,0,0,1,11,töö; doktor; tennis; emil; laur; noor
-1,1,2,0,1,1,0,0,1,11,doktor; tennis; emil; laur; noor
-1,1,2,0,1,1,0,0,1,11,doktor; tennis; emil; laur; noor
-0,1,2,0,1,1,0,0,1,11,doktor; tennis; emil; laur; noor
-1,1,1,0,1,1,0,1,0,11,doktor; töö; tennis; emil; laur; noor
+0,2,4,0,1,1,1,0,0,11,doktor; jooksma; tennis; noor; töö; emil; laur
+0,2,4,0,1,1,1,0,0,11,doktor; jooksma; tennis; noor; töö; emil; laur
+0,2,4,0,1,1,1,0,0,11,doktor; jooksma; tennis; noor; töö; emil; laur
+0,2,3,0,1,1,1,1,0,11,doktor; jooksma; tennis; noor; töö; emil; laur
+0,2,2,0,1,1,1,1,0,11,jooksma; tennis; noor; töö; doktor; laur; emil
+0,2,2,0,1,1,0,1,0,11,tennis; noor; töö; doktor; laur; emil
+0,2,2,0,1,0,0,1,0,11,tennis; noor; töö; doktor; laur; emil
+1,1,2,0,1,0,0,1,0,11,tennis; noor; emil; doktor; laur
+1,1,2,0,1,0,0,1,0,11,tennis; noor; emil; doktor; laur
+0,1,2,0,1,0,0,1,0,11,tennis; noor; emil; doktor; laur
+1,1,1,0,1,0,1,0,0,11,töö; tennis; noor; emil; laur

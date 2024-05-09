@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,1,0,0,10,kontsertorkester; laps
-1,1,1,1,0,1,1,0,0,10,kontsertorkester; laps
-1,1,1,1,0,1,1,0,0,10,kontsertorkester; laps
-1,1,1,1,0,1,1,0,0,10,kontsertorkester; laps
-1,1,1,1,0,1,1,0,0,10,kontsertorkester; laps
-1,1,0,1,0,1,1,0,0,10,kontsertorkester; laps
-0,0,0,0,0,1,0,0,0,10,kontsertorkester
-0,0,0,0,0,1,1,0,0,10,kontsertorkester; laps
-2,1,0,0,0,1,0,0,0,10,kontsertorkester; laps; toetama
-2,1,0,0,0,1,0,0,0,10,kontsertorkester; laps; toetama
-1,1,0,0,0,1,0,0,0,10,kontsertorkester
+2,3,4,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa
+2,3,4,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa
+2,3,4,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa
+2,3,4,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa
+2,3,4,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa
+2,3,1,2,0,3,3,2,1,10,laps; muusikaõpetaja; kontsertorkester; sümfooniaorkester; noorteorkester; virumaa
+0,2,0,1,0,4,3,2,1,10,noorteorkester; muusikaõpetaja; virumaa; kontsertorkester
+2,0,2,0,0,2,4,4,1,10,laps; muusikaõpetaja; kontsertorkester; muusikakool; noorteorkester; virumaa
+2,3,0,0,0,3,2,2,1,10,laps; noorteorkester; muusikaõpetaja; toetama; virumaa; kontsertorkester
+2,1,2,0,0,2,2,2,1,10,laps; noorteorkester; virumaa; toetama; kontsertorkester; muusikakool
+3,1,0,1,0,2,1,2,2,10,noorteorkester; virumaa; kontsertorkester; muusikakool

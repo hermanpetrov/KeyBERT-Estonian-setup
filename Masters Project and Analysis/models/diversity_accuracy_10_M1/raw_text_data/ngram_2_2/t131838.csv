@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,1,1,0,0,0,0,17,ringo; epstein; biitlid; mccartney; bbc; lennon
-3,2,0,1,1,0,0,0,0,17,ringo; epstein; biitlid; mccartney; bbc; lennon
-3,2,0,1,1,0,0,0,0,17,ringo; epstein; biitlid; mccartney; bbc; lennon
-3,2,0,1,1,0,0,0,0,17,ringo; epstein; biitlid; mccartney; bbc; lennon
-3,2,1,1,1,0,0,0,0,17,ringo; ameerika; epstein; biitlid; mccartney; bbc; lennon
-3,2,0,1,1,0,0,0,0,17,ringo; epstein; biitlid; mccartney; bbc; lennon
-0,1,0,1,1,0,0,0,0,17,ringo; biitlid; ameerika
-2,0,0,0,1,0,0,1,0,17,epstein; biitlid; vello; linna
-1,0,1,0,1,0,0,1,0,17,ameerika; biitlid; epstein
-1,0,1,1,1,0,0,1,0,17,ameerika; ringo; biitlid; epstein
+3,2,0,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc
+3,2,0,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc
+3,2,0,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc
+3,2,0,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc
+3,2,1,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc; ameerika
+3,2,0,1,1,0,0,0,0,17,biitlid; ringo; mccartney; lennon; epstein; bbc
+0,1,0,1,1,0,0,0,0,17,biitlid; ringo; ameerika
+2,0,0,0,1,0,0,1,0,17,linna; vello; biitlid; epstein
+1,0,1,0,1,0,0,1,0,17,biitlid; ameerika; epstein
+1,0,1,1,1,0,0,1,0,17,biitlid; ringo; epstein; ameerika
 1,0,0,0,1,0,0,1,0,17,biitlid; epstein

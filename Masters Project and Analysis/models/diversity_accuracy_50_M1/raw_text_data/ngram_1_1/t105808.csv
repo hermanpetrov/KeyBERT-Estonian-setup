@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,1,0,0,0,0,11,signe
 0,0,0,0,1,0,0,0,0,11,signe
 0,0,0,0,1,0,0,0,0,11,signe
-0,0,0,0,1,1,0,0,0,11,jõhkard; signe
-0,0,0,0,1,1,0,0,0,11,jõhkard; signe
+0,0,0,0,1,1,0,0,0,11,signe; jõhkard
+0,0,0,0,1,1,0,0,0,11,signe; jõhkard
 0,0,0,0,1,0,0,0,0,11,signe
-1,0,0,0,1,0,0,0,0,11,apaatsus; signe
-1,0,0,0,1,1,0,0,0,11,apaatsus; paavel; signe
-1,0,1,0,1,1,1,0,0,11,apaatsus; paavel; signe
-1,0,1,0,1,1,1,0,0,11,apaatsus; paavel; signe
+1,0,0,0,1,0,0,0,0,11,signe; apaatsus
+1,0,0,0,1,1,0,0,0,11,signe; apaatsus; paavel
+1,0,1,0,1,1,1,0,0,11,signe; apaatsus; paavel
+1,0,1,0,1,1,1,0,0,11,signe; apaatsus; paavel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,3,2,3,3,3,1,12,sadam; kapten; admiral; peeter
-2,3,3,3,2,3,3,3,1,12,sadam; kapten; admiral; peeter
-2,3,3,3,2,3,3,4,1,12,sadam; kapten; admiral; peeter
-3,2,4,3,2,3,3,4,1,12,sadam; kapten; admiral; peeter
-3,2,4,3,2,4,3,3,2,12,sadam; kapten; admiral; peeter
-3,3,4,4,2,4,3,3,2,12,sadam; kapten; admiral; peeter
-3,2,4,3,3,4,4,3,2,12,sadam; kapten; admiral; peeter
-2,2,3,3,3,4,2,3,1,12,sadam; kapten; admiral; peeter
-2,2,4,3,3,2,3,3,1,12,sadam; kapten; admiral; peeter
-2,1,4,3,3,3,2,4,1,12,sadam; kapten; admiral; peeter
-3,1,3,3,3,3,2,4,1,12,sadam; kapten; admiral; peeter
+6,7,5,6,3,8,8,8,3,12,mereriik; admiral; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+6,7,6,6,3,8,8,8,3,12,mereriik; admiral; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+6,7,7,6,3,9,8,9,3,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+8,6,7,6,3,9,8,9,3,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+7,6,9,6,3,8,9,7,4,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+6,7,9,7,3,8,8,7,4,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+6,6,8,7,4,6,9,7,4,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+5,5,8,4,3,6,5,6,3,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+5,3,7,4,4,3,6,5,3,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+5,3,7,3,5,3,5,6,2,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; sadam; merekultuur
+5,3,7,3,5,3,5,5,3,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; sadam; merekultuur

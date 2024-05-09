@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,1,0,0,0,0,19,mälberg; mall
 0,0,1,0,1,0,0,0,0,19,mälberg; mall
 0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,1,0,1,0,0,1,0,19,mälberg; haigekassa; mall
-0,0,1,0,1,0,0,1,0,19,mälberg; haigekassa; mall
-0,0,1,0,1,0,0,1,0,19,mälberg; haigekassa; mall
-0,0,1,0,1,0,0,1,0,19,mälberg; haigekassa; mall
-1,0,1,0,1,0,0,1,0,19,mälberg; mall; haigekassa; pärimusmuusika
-1,0,2,0,1,1,1,1,0,19,ulvi; sotsiaalministeerium; pärimusmuusika; mälberg; haigekassa; mall
-1,0,2,0,1,1,0,0,0,19,ulvi; sotsiaalministeerium; pärimusmuusika; mälberg; mall
+0,0,1,0,1,0,0,1,0,19,mälberg; mall; haigekassa
+0,0,1,0,1,0,0,1,0,19,mälberg; mall; haigekassa
+0,0,1,0,1,0,0,1,0,19,mälberg; mall; haigekassa
+0,0,1,0,1,0,0,1,0,19,mälberg; mall; haigekassa
+1,0,1,0,1,0,0,1,0,19,haigekassa; mälberg; mall; pärimusmuusika
+1,0,2,0,1,1,1,1,0,19,haigekassa; mall; ulvi; mälberg; pärimusmuusika; sotsiaalministeerium
+1,0,2,0,1,1,0,0,0,19,mall; ulvi; mälberg; pärimusmuusika; sotsiaalministeerium

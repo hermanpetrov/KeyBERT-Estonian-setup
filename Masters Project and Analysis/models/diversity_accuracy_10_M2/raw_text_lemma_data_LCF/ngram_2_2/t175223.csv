@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,1,1,1,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,1,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,1,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,1,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,1,2,1,0,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,1,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,2,2,1,1,13,jack; kadri-ann; silver; hobune; admiral
-2,1,2,1,1,2,2,1,0,13,kadri-ann; silver; hobune; admiral
-1,1,2,3,1,2,2,1,1,13,kadri-ann; jack; silver; hobune; admiral
-1,1,2,1,2,2,2,2,1,13,kadri-ann; jack; silver; hobune; admiral
-0,1,3,2,2,2,2,3,1,13,kadri-ann; jack; silver; hobune; väli; admiral
+3,1,3,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,3,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,3,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,3,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,3,4,1,2,3,2,1,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,3,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,2,4,1,2,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+3,1,2,3,1,2,3,2,1,13,admiral; ükssilm; riisipirukas; silver; röövretk; kadri-ann; hobune
+2,1,2,6,1,3,3,2,2,13,admiral; ükssilm; jack; riisipirukas; silver; röövretk; kadri-ann; hobune
+2,1,2,3,2,3,3,3,2,13,admiral; ükssilm; jack; silver; röövretk; lampjalg; kadri-ann; hobune
+0,1,3,3,2,3,3,4,2,13,admiral; ükssilm; jack; väli; silver; kadri-ann; hobune

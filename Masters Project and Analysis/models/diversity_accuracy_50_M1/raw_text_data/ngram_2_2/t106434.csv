@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,4,2,4,4,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; reimann; tants
-3,2,2,4,2,4,4,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; reimann; tants
-3,2,2,4,2,4,4,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; reimann; tants
-3,2,2,4,2,4,4,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; reimann; tants
-4,2,4,4,2,4,4,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; reimann; tants
-7,2,4,4,2,5,3,4,6,15,reimann; prelüüd; töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; klaverikontsert; tants; fuuga
-5,2,3,7,2,5,3,4,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; klaverikontsert; reimann; tants
-7,1,2,5,2,5,4,5,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; kirill; sümfooniaorkester; harri; raudsepp; klaverikontsert; reimann; tants; fuuga
-4,3,2,4,1,4,5,6,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; kirill; harri; sümfooniaorkester; raudsepp; klaverikontsert; reimann; tants
-3,3,2,4,1,5,6,8,6,15,töö; puhkpillikvintett; matti; loominguline; eesti; kirill; harri; sümfooniaorkester; raudsepp; reimann; tants
-4,4,3,4,7,4,7,5,7,15,kirill; reimann; prelüüd; töö; puhkpillikvintett; matti; loominguline; eesti; harri; sümfooniaorkester; raudsepp; klaverikontsert; tants; fuuga
+3,2,2,4,2,4,4,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+3,2,2,4,2,4,4,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+3,2,2,4,2,4,4,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+3,2,2,4,2,4,4,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+4,2,4,4,2,4,4,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+7,2,4,4,2,5,3,4,6,15,raudsepp; töö; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; loominguline; tants; eesti; fuuga; harri; klaverikontsert; matti
+5,2,3,7,2,5,3,4,6,15,raudsepp; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; matti; tants
+7,1,2,5,2,5,4,5,6,15,raudsepp; kirill; eesti; fuuga; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; matti; tants
+4,3,2,4,1,4,5,6,6,15,raudsepp; kirill; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; matti; tants
+3,3,2,4,1,5,6,8,6,15,raudsepp; kirill; eesti; loominguline; harri; töö; sümfooniaorkester; puhkpillikvintett; reimann; matti; tants
+4,4,3,4,7,4,7,5,7,15,raudsepp; töö; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; loominguline; tants; kirill; eesti; fuuga; harri; klaverikontsert; matti

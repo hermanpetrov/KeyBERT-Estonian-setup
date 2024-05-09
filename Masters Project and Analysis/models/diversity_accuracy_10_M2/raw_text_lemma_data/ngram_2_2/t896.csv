@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,0,0,2,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-1,1,1,0,0,0,0,2,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-1,1,1,0,0,0,0,2,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-1,1,1,0,0,0,0,2,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-1,1,1,0,0,0,0,3,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-1,1,1,0,0,0,2,2,1,12,ujumine; triatlon; sportlane; võistlus; ain-alar
-3,1,3,0,0,1,2,2,1,12,triatlon; sportlane; johanson; juhanson; ain-alar
-0,1,3,0,0,2,0,3,1,12,triatlon; johanson; sportlane; juhanson; ain-alar
-0,0,3,1,0,2,2,1,1,12,triatlon; johanson; sportlane; juhanson; ain-alar; distants
-0,0,3,1,0,2,2,2,0,12,triatlon; johanson; sportlane; ironman; juhanson; ain-alar
-0,2,3,2,0,2,1,2,0,12,triatlon; võistlus; ain-alar; ujumine; johanson; sportlane; juhanson
+1,1,1,0,0,0,0,2,1,12,ujumine; ain-alar; sportlane; triatlon; võistlus
+1,1,1,0,0,0,0,2,1,12,ujumine; ain-alar; sportlane; triatlon; võistlus
+1,1,1,0,0,0,0,2,1,12,ujumine; ain-alar; sportlane; triatlon; võistlus
+1,1,1,0,0,0,0,2,1,12,ujumine; ain-alar; sportlane; triatlon; võistlus
+1,1,1,0,0,0,0,3,1,12,ujumine; triatlon; sportlane; ain-alar; võistlus
+1,1,1,0,0,0,2,2,1,12,ujumine; ain-alar; sportlane; triatlon; võistlus
+3,1,3,0,0,1,2,2,1,12,juhanson; ain-alar; johanson; sportlane; triatlon
+0,1,3,0,0,2,0,3,1,12,triatlon; juhanson; johanson; sportlane; ain-alar
+0,0,3,1,0,2,2,1,1,12,triatlon; juhanson; johanson; distants; sportlane; ain-alar
+0,0,3,1,0,2,2,2,0,12,triatlon; juhanson; ironman; johanson; sportlane; ain-alar
+0,2,3,2,0,2,1,2,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; triatlon

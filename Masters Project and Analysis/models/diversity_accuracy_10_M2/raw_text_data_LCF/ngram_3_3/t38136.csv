@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,0,0,0,13,aivar; muusika; klubikultuur; tõnson
-3,1,1,1,0,1,2,0,0,13,aivar; muusika; klubikultuur; tõnson
-1,1,1,0,0,0,2,2,0,13,sotsioloog; klubikultuur; muusika
-0,1,0,0,1,3,3,1,0,13,sotsioloog; muusika; alternatiiv; klubikultuur; reiv
-0,0,2,0,1,1,2,2,0,13,aivar; sotsioloog; alternatiiv; muusika; tõnson; elektrooniline; reiv
-1,0,1,0,0,1,0,2,0,13,aivar; sotsioloog; muusika; klubikultuur; tõnson
-0,0,1,0,0,1,0,2,0,13,muusika; sotsioloog; klubikultuur; reiv
+3,1,1,1,0,0,0,0,0,13,tõnson; muusika; klubikultuur; aivar
+3,1,1,1,0,0,0,0,0,13,tõnson; muusika; klubikultuur; aivar
+3,1,1,1,0,0,0,0,0,13,tõnson; muusika; klubikultuur; aivar
+3,1,1,1,0,0,0,0,0,13,tõnson; muusika; klubikultuur; aivar
+3,1,1,1,0,0,0,0,0,13,tõnson; muusika; klubikultuur; aivar
+3,1,1,1,0,2,0,0,0,13,muusika; aivar; tõnson; klubikultuur
+1,1,1,0,0,2,2,0,0,13,sotsioloog; muusika; klubikultuur
+0,1,0,0,1,3,1,0,0,13,muusika; alternatiiv; sotsioloog; reiv; klubikultuur
+0,0,2,0,1,2,2,0,0,13,tõnson; muusika; aivar; alternatiiv; elektrooniline; reiv
+1,0,1,0,0,0,2,0,0,13,tõnson; muusika; klubikultuur; aivar
+0,0,1,0,0,0,2,0,0,13,muusika; reiv; klubikultuur

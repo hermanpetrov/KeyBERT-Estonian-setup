@@ -2,11 +2,11 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,1,0,1,1,0,11,torm; geoloogia; veetõus
 0,0,0,0,1,0,1,1,0,11,torm; geoloogia; veetõus
 0,0,0,0,1,0,1,1,0,11,torm; geoloogia; veetõus
-0,0,1,0,1,0,1,1,0,11,torm; orviku; geoloogia; veetõus
+0,0,1,0,1,0,1,1,0,11,torm; geoloogia; veetõus; orviku
 0,0,1,0,1,0,0,0,0,11,torm; orviku
 0,0,1,0,1,0,0,0,0,11,torm; orviku
-0,0,1,0,1,0,0,1,0,11,torm; orviku; geoloogia
-0,0,1,0,2,0,0,0,0,11,torm; orviku; sadam
+0,0,1,0,1,0,0,1,0,11,torm; geoloogia; orviku
+0,0,1,0,2,0,0,0,0,11,torm; sadam; orviku
 0,0,0,0,1,0,0,0,0,11,torm
 0,0,0,0,1,0,0,0,0,11,torm
 0,0,0,0,1,0,0,0,0,11,torm

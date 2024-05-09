@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,4,5,3,2,2,5,4,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-3,6,4,5,3,2,3,5,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-4,6,5,5,3,2,3,5,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-3,6,6,5,3,2,3,5,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-3,5,6,5,3,4,3,5,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-4,6,5,5,4,5,6,7,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-5,5,4,5,5,5,6,7,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-5,5,4,4,5,5,6,6,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-5,4,5,5,5,4,6,6,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-5,4,3,5,4,4,6,5,5,14,kirjanik; kana; saar; liiber; koguma; hint; autor
-5,3,4,6,4,4,6,6,6,14,kirjanik; kana; saar; liiber; koguma; hint; autor
+6,8,5,8,3,2,2,7,6,14,autor; kirjanik; hint; kana; saaremaa; koguma; liiber; raamatukogu; käekiri; saar
+6,8,5,8,3,3,3,7,7,14,autor; kirjanik; hint; kana; saaremaa; koguma; liiber; raamatukogu; käekiri; saar
+7,8,6,8,3,3,4,7,7,14,autor; kirjanik; hint; liiber; saaremaa; koguma; kana; raamatukogu; käekiri; saar
+6,8,7,8,3,3,4,7,7,14,autor; kirjanik; hint; liiber; saaremaa; kana; koguma; raamatukogu; käekiri; saar
+6,7,8,8,3,6,4,8,7,14,autor; kirjanik; hint; liiber; saaremaa; kana; koguma; raamatukogu; käekiri; saar
+7,9,7,8,4,8,8,10,7,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar
+8,8,6,8,7,7,9,10,7,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar
+7,8,7,6,6,8,9,9,7,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar
+7,7,8,7,6,6,9,9,7,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar
+7,7,6,7,6,6,9,7,6,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar
+6,6,7,7,6,6,9,8,7,14,autor; kana; saaremaa; kirjanik; hint; liiber; koguma; raamatukogu; käekiri; saar

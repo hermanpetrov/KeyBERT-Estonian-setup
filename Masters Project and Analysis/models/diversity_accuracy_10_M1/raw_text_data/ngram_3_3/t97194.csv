@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-2,3,3,2,0,2,2,2,2,16,alo; estonia; klaver; teatri-; pianiino; eesti
-4,1,3,3,0,3,4,2,2,16,muusikamuuseum; estonia; alo; teatri-; tomson; maret; eesti; pianiino; klaverimeister; klaver; klaveriehitus
-2,2,2,1,0,3,3,3,2,16,alo; muusikamuuseum; estonia; klaverimeister; teatri-; pianiino; eesti
-4,3,1,3,0,2,3,3,2,16,estonia; klaver; teatri-; eesti; tiibklaver; tsentraliseerimine; klaverimeister; pianiino
-4,4,1,1,0,3,3,2,2,16,estonia; alo; teatri-; eesti; pianiino; tsentraliseerimine; klaverimeister; klaver; klaveriehitus
-1,4,1,1,0,2,2,0,2,16,estonia; alo; teatri-; pianiino; eesti; tiibklaver
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+2,3,3,2,0,2,2,2,2,16,pianiino; klaver; eesti; teatri-; alo; estonia
+4,1,3,3,0,3,4,2,2,16,pianiino; klaver; eesti; klaverimeister; teatri-; maret; tomson; muusikamuuseum; alo; klaveriehitus; estonia
+2,2,2,1,0,3,3,3,2,16,pianiino; eesti; klaverimeister; teatri-; muusikamuuseum; alo; estonia
+4,3,1,3,0,2,3,3,2,16,pianiino; klaver; tsentraliseerimine; eesti; teatri-; tiibklaver; klaverimeister; estonia
+4,4,1,1,0,3,3,2,2,16,pianiino; klaver; tsentraliseerimine; eesti; teatri-; klaverimeister; alo; klaveriehitus; estonia
+1,4,1,1,0,2,2,0,2,16,pianiino; eesti; teatri-; tiibklaver; alo; estonia

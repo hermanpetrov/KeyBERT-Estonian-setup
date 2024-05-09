@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,1,1,1,14,õpilane; näitleja
-0,0,2,0,0,1,1,1,1,14,õpilane; näitleja
-0,0,2,0,0,1,1,1,1,14,õpilane; näitleja
-0,0,1,0,0,1,1,1,1,14,õpilane; näitleja
-0,0,1,0,0,0,0,1,1,14,õpilane; näitleja
-0,0,1,0,0,1,0,0,1,14,õpilane
-0,0,0,0,0,1,0,0,1,14,õpilane; kriitika
-1,0,0,1,0,1,2,0,1,14,õpilane; kriitika; marje; juhan
-0,0,0,0,0,2,3,1,2,14,õpilane; kriitika; marje; näitleja; juhan
-0,0,0,0,0,1,1,1,1,14,kriitika; marje; juhan
-0,0,0,0,0,0,1,1,0,14,lenk; marje
+2,1,2,1,0,1,1,1,1,14,ebaõnnestumine; õpilane; lavakunstikateeder; näitleja
+2,1,2,1,0,1,1,1,1,14,ebaõnnestumine; õpilane; lavakunstikateeder; näitleja
+2,1,2,1,0,1,1,1,1,14,ebaõnnestumine; õpilane; lavakunstikateeder; näitleja
+2,1,1,1,0,1,1,1,1,14,ebaõnnestumine; õpilane; lavakunstikateeder; näitleja
+2,1,1,1,0,0,0,1,1,14,ebaõnnestumine; lavakunstikateeder; õpilane; näitleja
+2,1,1,1,0,1,0,0,1,14,ebaõnnestumine; lavakunstikateeder; õpilane
+2,1,0,1,0,1,0,1,1,14,ebaõnnestumine; kriitika; õpilane; unenägu; lavakunstikateeder
+3,1,0,1,0,1,2,0,1,14,ebaõnnestumine; kriitika; õpilane; juhan; lavakunstikateeder; marje
+1,1,0,0,0,2,4,3,2,14,kriitika; unenägu; näitleja; marje; ebaõnnestumine; õpilane; juhan; lavakunstikateeder
+0,1,1,0,0,2,2,1,2,14,kriitika; unenägu; juhan; lavakunstikateeder; marje
+1,0,0,0,0,1,2,2,1,14,ebaõnnestumine; unenägu; lavakunstikateeder; lenk; marje

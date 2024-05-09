@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,0,1,3,1,1,1,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-1,3,0,1,3,1,1,1,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-1,3,0,1,3,1,1,1,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-1,3,0,1,3,1,1,1,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-1,3,0,1,3,1,1,1,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-1,3,1,1,3,1,1,0,0,14,kurferstendam; brandenburg; bismarck; von; monumentalism; berliin
-2,3,1,1,3,2,1,0,0,14,kurferstendam; wilhelm; brandenburg; bismarck; von; monumentalism; berliin
-1,2,1,0,2,3,1,0,0,14,wilhelm; bismarck; von; monumentalism
-1,2,0,0,2,2,1,0,0,14,kurferstendam; bismarck; von; monumentalism
-1,2,0,1,3,2,2,0,0,14,wilhelm; brandenburg; bismarck; von; monumentalism; otto
-1,2,1,1,2,2,1,0,1,14,brandenburg; bismarck; friedrich; von; monumentalism; otto; berliin
+2,3,2,1,3,2,2,2,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,3,2,1,3,2,2,2,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,3,2,1,3,2,2,2,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,3,2,1,3,2,2,2,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,3,2,1,3,2,2,2,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,3,3,1,3,1,3,1,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+3,3,3,1,3,3,2,0,0,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; wilhelm; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,2,3,1,2,4,2,0,0,14,tööstusrevolutsioon; saksamaa; wilhelm; bismarck; monumentalism; maailmasõda; von
+2,2,2,2,2,3,2,1,0,14,tööstusrevolutsioon; saksamaa; bismarck; monumentalism; kurferstendam; maailmasõda; von
+2,2,2,2,3,3,3,1,0,14,brandenburg; tööstusrevolutsioon; saksamaa; otto; wilhelm; bismarck; monumentalism; maailmasõda; von
+2,2,3,2,2,3,2,1,1,14,berliin; brandenburg; tööstusrevolutsioon; saksamaa; otto; friedrich; bismarck; monumentalism; maailmasõda; von

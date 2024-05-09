@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,1,0,3,1,1,0,11,maa; hoolitsema; rändama; reis; austraalia
-0,2,1,0,0,1,0,1,0,11,maa; austraalia; hoolitsema
-0,2,1,0,0,1,0,1,0,11,maa; austraalia; hoolitsema
-0,2,1,0,0,1,0,1,0,11,maa; austraalia; hoolitsema
-0,2,1,0,0,2,0,1,0,11,maa; hoolitsema; rändama; austraalia
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,5,2,2,0,11,reis; kodumaa; hoolitsema; austraalia; väliseestlane; rändama; maa
+0,2,2,1,0,3,1,2,0,11,austraalia; kodumaa; väliseestlane; hoolitsema; maa
+0,2,1,0,0,3,1,2,0,11,austraalia; kodumaa; väliseestlane; hoolitsema; maa
+0,2,1,0,0,2,2,2,0,11,austraalia; kodumaa; väliseestlane; hoolitsema; maa
+0,2,1,0,0,3,3,2,0,11,kodumaa; hoolitsema; kanakasvataja; austraalia; väliseestlane; rändama; maa

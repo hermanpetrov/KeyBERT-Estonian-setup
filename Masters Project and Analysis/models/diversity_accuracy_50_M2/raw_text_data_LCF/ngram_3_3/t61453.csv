@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,2,1,0,2,1,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-3,6,2,1,0,2,1,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-3,6,2,1,0,2,1,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-3,6,2,1,0,2,1,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-3,5,3,1,0,2,1,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-3,6,3,1,0,2,2,3,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-0,8,2,2,0,2,2,6,0,15,mandingo; paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-1,5,2,2,0,2,2,4,0,15,paavo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-0,3,1,3,0,2,1,5,0,15,mandingo; paavo; popmuusika; mansour; maal; rahvamuusika; lääne-aafrika
-1,3,1,4,0,3,0,4,2,15,paavo; popmuusika; mansour; maal; rahvamuusika; lääne-aafrika
-1,0,1,4,0,2,0,5,2,15,mandingo; paavo; popmuusika; mansour; maal; rahvamuusika; lääne-aafrika
+3,6,2,1,0,1,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+3,6,2,1,0,1,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+3,6,2,1,0,1,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+3,6,2,1,0,1,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+3,5,3,1,0,1,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+3,6,3,1,0,2,3,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+0,8,2,2,0,2,6,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+1,5,2,2,0,2,4,0,0,15,rahvamuusika; mansour; popmuusika; lääne-aafrika; sekk; maal; paavo
+0,3,1,3,0,1,5,0,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; maal; paavo
+1,3,1,4,0,0,4,2,0,15,rahvamuusika; mansour; lääne-aafrika; maal; paavo
+1,0,1,4,0,0,5,2,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; maal; paavo

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,4,4,2,3,2,3,5,12,erakond; kirik; probleem; viilma; riik; süld; urmas
-4,4,4,4,2,3,2,3,5,12,erakond; kirik; probleem; viilma; riik; süld; urmas
-4,4,6,4,3,3,3,4,5,12,erakond; kirik; probleem; viilma; riik; süld; urmas; meelis
-5,4,6,4,3,3,3,5,5,12,erakond; kirik; probleem; viilma; riik; süld; urmas; meelis
-6,4,6,4,3,3,2,6,5,12,erakond; kirik; probleem; viilma; riik; süld; urmas; meelis
-6,4,6,6,3,5,4,6,5,12,erakond; kirik; viilma; probleem; riik; süld; urmas; meelis
-4,3,6,7,4,6,4,7,5,12,erakond; kirik; probleem; riik; süld; urmas; viilma; meelis
-2,4,6,6,4,6,4,7,5,12,erakond; kirik; probleem; riik; süld; urmas; viilma; meelis
-2,4,6,6,3,7,5,6,5,12,erakond; kirik; probleem; riik; süld; urmas; viilma; meelis
-2,4,5,5,5,5,5,7,5,12,erakond; kirik; probleem; riik; süld; urmas; viilma; meelis
-3,5,6,5,5,4,5,6,5,12,erakond; kirik; probleem; riik; süld; urmas; viilma; meelis
+4,5,4,4,2,2,3,5,0,12,kirik; urmas; erakond; süld; riik; viilma; probleem
+4,4,4,4,2,2,3,5,0,12,kirik; urmas; erakond; süld; riik; viilma; probleem
+4,4,6,4,3,3,4,5,0,12,meelis; kirik; urmas; erakond; süld; riik; viilma; probleem
+5,4,6,4,3,3,5,5,0,12,meelis; kirik; urmas; riik; süld; erakond; viilma; probleem
+6,4,6,4,3,2,6,5,0,12,meelis; kirik; urmas; erakond; riik; süld; viilma; probleem
+6,4,6,6,3,4,6,5,0,12,meelis; kirik; urmas; erakond; riik; süld; viilma; probleem
+4,3,6,7,4,4,7,5,0,12,meelis; kirik; urmas; riik; süld; erakond; viilma; probleem
+2,4,6,6,4,4,7,5,0,12,meelis; kirik; urmas; erakond; süld; riik; viilma; probleem
+2,4,6,6,3,5,6,5,0,12,meelis; kirik; urmas; erakond; süld; riik; viilma; probleem
+2,4,5,5,5,5,7,5,0,12,meelis; kirik; urmas; riik; erakond; süld; viilma; probleem
+3,5,6,5,5,5,6,5,0,12,meelis; kirik; urmas; riik; erakond; süld; viilma; probleem

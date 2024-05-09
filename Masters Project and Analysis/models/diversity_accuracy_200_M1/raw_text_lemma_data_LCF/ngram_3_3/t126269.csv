@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,4,6,3,8,6,6,5,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-7,4,4,6,3,8,6,6,5,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-7,4,5,6,3,8,6,6,5,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-7,5,7,6,2,8,7,6,5,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-8,5,7,6,2,8,7,6,5,11,rahutu; kirjanik; kapp; tähtsus; vaenlane; kriitika; abitu; kaas
-7,5,7,7,2,8,7,8,5,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-6,5,8,7,2,6,7,8,6,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; kapp; abitu; kaas
-6,5,7,6,4,7,5,8,5,11,rahutu; kirjanik; kapp; vaenlane; tähtsus; kriitika; abitu; kaas
-7,6,7,7,4,7,7,8,5,11,rahutu; kirjanik; kapp; kriitika; vaenlane; tähtsus; abitu; kaas
-6,5,8,7,6,7,7,8,5,11,rahutu; kirjanik; kapp; vaenlane; kriitika; tähtsus; abitu; kaas
-5,4,8,7,6,6,7,7,5,11,rahutu; kirjanik; vaenlane; kapp; kriitika; tähtsus; abitu; kaas
+8,5,5,7,4,9,7,7,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+8,5,5,7,4,9,7,7,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+8,5,6,7,4,9,7,7,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+8,6,8,7,3,9,8,7,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+9,6,8,7,3,9,8,7,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+8,6,8,8,3,9,8,9,6,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+7,6,9,8,3,7,8,9,7,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+7,6,8,7,5,8,6,9,6,11,käsikiri; abitu; kaas; kriitika; kirjanik; rahutu; kapp; vaenlane; tähtsus
+8,7,8,8,5,8,8,9,6,11,käsikiri; kriitika; abitu; kaas; kirjanik; rahutu; kapp; vaenlane; tähtsus
+7,6,9,8,7,8,8,9,6,11,käsikiri; abitu; kaas; kriitika; kirjanik; rahutu; kapp; vaenlane; tähtsus
+6,5,9,8,7,7,8,8,6,11,käsikiri; abitu; kaas; kriitika; kirjanik; rahutu; kapp; vaenlane; tähtsus

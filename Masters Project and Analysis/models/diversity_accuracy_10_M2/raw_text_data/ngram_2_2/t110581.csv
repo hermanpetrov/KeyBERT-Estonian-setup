@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,0,0,2,1,1,13,stackelberg; mõisavalitseja; eesti; fresko
-2,1,1,0,0,0,2,1,1,13,stackelberg; mõisavalitseja; eesti; fresko
-2,1,1,0,0,0,2,1,1,13,stackelberg; mõisavalitseja; eesti; fresko
-2,1,1,0,0,0,2,1,1,13,stackelberg; mõisavalitseja; eesti; fresko
-2,1,1,0,0,0,2,1,1,13,stackelberg; mõisavalitseja; eesti; fresko
-2,1,2,0,0,0,2,1,1,13,stackelberg; kristus; eesti; mõisavalitseja; fresko
-1,1,1,0,0,1,1,1,1,13,stackelberg; eesti; mõisavalitseja
-1,1,1,0,0,0,1,1,1,13,stackelberg; eesti; mõisavalitseja
-1,2,0,1,0,0,2,2,1,13,stackelberg; eesti; mõisavalitseja
-2,1,0,1,0,0,0,1,1,13,stackelberg; eesti; mõisavalitseja
-2,2,1,1,0,0,0,1,1,13,stackelberg; kristus; mõisavalitseja; eesti; ilus; fresko
+2,1,1,0,0,0,2,1,1,13,fresko; eesti; stackelberg; mõisavalitseja
+2,1,1,0,0,0,2,1,1,13,fresko; eesti; stackelberg; mõisavalitseja
+2,1,1,0,0,0,2,1,1,13,fresko; eesti; stackelberg; mõisavalitseja
+2,1,1,0,0,0,2,1,1,13,fresko; eesti; stackelberg; mõisavalitseja
+2,1,1,0,0,0,2,1,1,13,fresko; eesti; stackelberg; mõisavalitseja
+2,1,2,0,0,0,2,1,1,13,kristus; fresko; eesti; stackelberg; mõisavalitseja
+1,1,1,0,0,1,1,1,1,13,stackelberg; mõisavalitseja; eesti
+1,1,1,0,0,0,1,1,1,13,stackelberg; mõisavalitseja; eesti
+1,2,0,1,0,0,2,2,1,13,stackelberg; mõisavalitseja; eesti
+2,1,0,1,0,0,0,1,1,13,stackelberg; mõisavalitseja; eesti
+2,2,1,1,0,0,0,1,1,13,kristus; fresko; eesti; stackelberg; mõisavalitseja; ilus

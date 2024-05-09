@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,1,0,1,0,0,0,4,19,stuart; stewart; püha; robert; palee; kuninglik; sõda; rahvuslik
-1,3,1,0,1,0,1,0,4,19,stuart; stewart; püha; robert; palee; kuninglik; sõda; rahvuslik
-1,2,0,0,1,0,2,0,4,19,stuart; stewart; püha; robert; palee; kuninglik; sõda; rahvuslik
-1,2,0,0,1,1,2,0,4,19,stuart; stewart; püha; robert; palee; kuninglik; sõda; rahvuslik
-2,2,0,0,1,1,3,0,3,19,margaret; stuart; stewart; püha; robert; palee; kuninglik; sõda; rahvuslik
-2,2,1,1,2,3,1,1,3,19,margaret; stuart; kilt; püha; robert; palee; marie; kuninglik; sõda; rahvuslik
-1,1,1,1,2,3,2,1,3,19,margaret; stuart; kilt; stewart; robert; palee; kuninglik; kroon; sõda; rahvuslik
-1,1,1,1,2,2,2,2,3,19,margaret; stuart; kilt; püha; robert; palee; prius; kroon; sõda; rahvuslik
-1,1,0,0,1,2,4,2,3,19,margaret; stuart; kilt; püha; robert; palee; prius; marie; sõda; rahvuslik
-0,0,1,0,3,2,3,2,1,19,prius; margaret; marie; kilt; rahvuslik; kroon; robert; palee
-1,1,1,0,2,3,3,3,1,19,margaret; kilt; stewart; robert; palee; prius; marie; kroon; rahvuslik
+3,4,2,2,2,1,0,1,4,19,robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; stewart
+3,4,2,2,2,2,1,1,4,19,robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; stewart
+3,3,1,2,2,1,2,1,4,19,robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; stewart
+3,3,0,2,2,1,2,1,4,19,robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; stewart
+4,3,0,2,2,1,3,1,3,19,margaret; robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; stewart
+4,3,1,2,3,4,1,2,3,19,margaret; marie; kilt; robert; kindlusloss; püha; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal
+3,2,1,1,3,3,2,3,3,19,margaret; kilt; robert; kindlusloss; stewart; palee; rahvuslik; sõda; šotimaa; kuninglik; stuart; sõjamemoriaal; kroon
+2,2,3,2,2,3,2,2,3,19,margaret; kilt; prius; robert; kindlusloss; palee; püha; rahvuslik; sõda; šotimaa; stuart; sõjamemoriaal; kroon
+2,2,2,1,1,2,4,2,3,19,marie; margaret; kilt; prius; robert; kindlusloss; palee; püha; rahvuslik; sõda; šotimaa; stuart; sõjamemoriaal
+1,1,2,1,3,3,3,2,1,19,marie; margaret; kilt; prius; robert; kindlusloss; palee; rahvuslik; sõjamemoriaal; kroon
+1,2,2,1,2,3,3,3,1,19,margaret; marie; kilt; prius; robert; kindlusloss; stewart; palee; rahvuslik; sõjamemoriaal; kroon

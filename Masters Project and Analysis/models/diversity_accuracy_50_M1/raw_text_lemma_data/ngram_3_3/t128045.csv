@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,2,1,2,2,2,4,12,pidustus; budism; tantsija; trumm; panteon; birma
-1,2,2,2,1,2,2,2,4,12,pidustus; budism; tantsija; trumm; panteon; birma
-1,2,2,2,1,2,2,2,3,12,pidustus; budism; tantsija; trumm; birma
-1,2,3,2,1,2,2,2,3,12,pidustus; budism; tantsija; trumm; birma
-1,2,3,2,1,2,2,2,3,12,pidustus; budism; trumm; birma
-1,1,3,2,1,2,2,3,3,12,pidustus; budism; trumm; birma
-1,1,4,3,1,4,2,3,3,12,pidustus; budism; tantsija; trumm; birma
-2,3,3,3,1,4,2,2,3,12,pidustus; budism; tantsija; trumm; birma
-2,2,3,3,2,3,2,4,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-2,0,2,2,3,3,2,2,3,12,pidustus; budism; tantsija; trumm; birma
-2,3,2,1,2,2,2,2,2,12,budism; trumm; birma; panteon
+2,3,3,3,2,3,4,3,5,12,loodusjõud; tantsija; nukuteater; muusikakultuur; budism; pidustus; panteon; birma; rändnäitleja; trumm
+2,3,3,3,2,3,4,3,5,12,loodusjõud; tantsija; nukuteater; muusikakultuur; budism; pidustus; panteon; birma; rändnäitleja; trumm
+2,3,3,3,2,3,4,3,4,12,loodusjõud; tantsija; nukuteater; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+2,3,4,3,2,3,4,3,4,12,loodusjõud; tantsija; nukuteater; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+2,3,4,3,2,3,4,4,4,12,loodusjõud; nukuteater; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+3,1,4,3,2,4,4,4,4,12,loodusjõud; nukuteater; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+1,1,5,4,2,6,3,4,4,12,tantsija; nukuteater; pidustus; budism; muusikakultuur; birma; rändnäitleja; trumm
+4,4,4,5,2,6,3,3,4,12,nukuteater; tantsija; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+3,3,4,4,3,4,3,5,4,12,tantsija; nukuteater; muusikakultuur; budism; pidustus; panteon; birma; rändnäitleja; trumm
+3,3,3,3,4,4,3,3,4,12,loodusjõud; nukuteater; tantsija; muusikakultuur; budism; pidustus; birma; rändnäitleja; trumm
+3,5,3,1,3,2,3,3,3,12,loodusjõud; nukuteater; muusikakultuur; budism; panteon; birma; teatrietendus; trumm

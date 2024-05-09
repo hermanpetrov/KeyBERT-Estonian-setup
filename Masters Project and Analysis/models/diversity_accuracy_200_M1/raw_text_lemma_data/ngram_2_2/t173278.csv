@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,3,3,2,3,3,4,3,11,traditsioon; meri; eesti; peeter
-4,2,3,3,2,3,3,4,3,11,traditsioon; meri; eesti; peeter
-4,2,3,3,2,3,3,4,3,11,traditsioon; meri; eesti; peeter
-4,2,3,2,2,3,3,4,3,11,traditsioon; meri; eesti; peeter
-4,2,4,3,3,3,3,3,3,11,hierarhia; traditsioon; meri; eesti; peeter
-4,2,5,3,3,3,2,4,3,11,meri; eesti; peeter; hierarhia; traditsioon
-3,2,5,4,3,2,3,5,3,11,meri; eesti; peeter; hierarhia; traditsioon
-2,2,5,3,3,3,3,5,3,11,meri; eesti; peeter; hierarhia; traditsioon
-3,3,5,4,3,4,4,4,3,11,meri; eesti; peeter; hierarhia; traditsioon
-3,3,4,4,3,1,4,4,4,11,meri; eesti; peeter; hierarhia; traditsioon
-3,3,3,4,3,2,2,3,4,11,hierarhia; traditsioon; meri; eesti; peeter
+9,4,7,7,3,6,7,9,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; merekaru; mereakadeemia; meremuusika
+8,4,7,7,3,6,7,9,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; merekaru; mereakadeemia; meremuusika
+8,4,7,7,3,6,7,9,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; merekaru; mereakadeemia; meremuusika
+8,4,7,6,3,6,7,9,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; merekaru; mereakadeemia; meremuusika
+7,4,8,7,5,6,7,7,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; hierarhia; merekaru; mereakadeemia; meremuusika
+7,4,8,6,6,7,6,7,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; hierarhia; merekaru; mereakadeemia; meremuusika
+5,4,9,8,5,6,7,9,5,11,hierarhia; meri; merekaru; mereakadeemia; meremuusika; mereriik; peeter; meremees; eesti; traditsioon
+5,4,7,5,5,6,7,8,5,11,mereriik; peeter; meri; meremees; eesti; hierarhia; traditsioon; merekaru; mereakadeemia; meremuusika
+4,5,8,5,6,6,7,5,5,11,mereriik; peeter; meremees; meri; eesti; traditsioon; hierarhia; merekaru; mereakadeemia; meremuusika
+5,5,7,5,6,2,8,5,5,11,mereriik; peeter; meri; meremees; eesti; traditsioon; hierarhia; merekaru; mereakadeemia; meremuusika
+4,6,5,5,7,5,6,5,6,11,mereriik; hierarhia; meremees; meri; eesti; traditsioon; peeter; merekaru; mereakadeemia; meremuusika

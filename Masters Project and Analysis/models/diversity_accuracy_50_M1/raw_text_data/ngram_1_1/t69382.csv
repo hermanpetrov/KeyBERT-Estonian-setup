@@ -2,11 +2,11 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,1,0,0,0,1,0,0,16,saaremaa; varietee
 1,0,1,0,0,0,1,0,0,16,saaremaa; varietee
 1,0,1,0,0,0,1,0,0,16,saaremaa; varietee
-1,0,2,0,0,0,1,0,0,16,sirje; medell; saaremaa; varietee
-1,0,2,0,0,0,1,0,0,16,sirje; medell; saaremaa; varietee
-1,0,2,0,0,0,1,0,0,16,sirje; medell; saaremaa; varietee
+1,0,2,0,0,0,1,0,0,16,medell; saaremaa; sirje; varietee
+1,0,2,0,0,0,1,0,0,16,medell; saaremaa; sirje; varietee
+1,0,2,0,0,0,1,0,0,16,medell; saaremaa; sirje; varietee
 1,0,0,0,0,0,1,0,0,16,saaremaa; varietee
 1,0,0,0,0,1,1,0,0,16,saaremaa; varietee
-1,0,2,1,0,1,1,0,0,16,sirje; saaremaa; varietee; medell
-0,0,2,1,0,1,1,2,0,16,sisemine; saaremaa; medell; varietee; ballaad
-0,0,2,0,0,1,1,2,0,16,sisemine; saaremaa; medell; ballaad
+1,0,2,1,0,1,1,0,0,16,medell; sirje; varietee; saaremaa
+0,0,2,1,0,1,1,2,0,16,medell; ballaad; varietee; sisemine; saaremaa
+0,0,2,0,0,1,1,2,0,16,medell; ballaad; sisemine; saaremaa

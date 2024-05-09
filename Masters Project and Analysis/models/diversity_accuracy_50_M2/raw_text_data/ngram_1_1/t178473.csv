@@ -2,9 +2,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,1,0,0,0,0,0,0,14,käekiri; raamatukogu
 1,0,1,0,0,0,0,0,0,14,käekiri; raamatukogu
 1,0,1,0,0,0,0,0,0,14,käekiri; raamatukogu
-1,0,2,0,0,0,0,0,0,14,käekiri; raamatukogu; autor
-1,0,2,0,0,0,1,0,0,14,käekiri; aadu; autor
-1,0,2,0,0,1,2,1,0,14,käekiri; aadu; autor
+1,0,2,0,0,0,0,0,0,14,autor; käekiri; raamatukogu
+1,0,2,0,0,0,1,0,0,14,autor; käekiri; aadu
+1,0,2,0,0,1,2,1,0,14,autor; käekiri; aadu
 1,0,2,0,0,1,0,1,0,14,käekiri; aadu; saar
 1,0,0,0,0,1,0,0,0,14,liibris; aadu
 0,0,1,0,0,1,0,0,0,14,käekiri; aadu

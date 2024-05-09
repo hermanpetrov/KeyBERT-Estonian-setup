@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,4,4,1,3,4,3,2,11,ülekuulamine; morse; hanso; metsavend; elmar
-4,3,4,4,1,3,5,4,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-4,3,5,4,0,3,5,5,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-4,3,4,4,2,3,5,5,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-4,2,4,4,2,3,5,5,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-5,3,4,4,3,3,5,4,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-5,3,5,5,3,3,5,4,3,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-4,3,5,3,3,4,6,4,3,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-1,4,4,3,5,2,3,4,3,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-1,4,4,4,5,4,4,3,2,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-1,3,5,3,4,4,3,5,4,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
+4,3,4,4,1,4,3,2,0,11,metsavend; elmar; ülekuulamine; hanso; morse
+4,3,4,4,1,5,4,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+4,3,5,4,0,5,5,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+4,3,4,4,2,5,5,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+4,2,4,4,2,5,5,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+5,3,4,4,3,5,4,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+5,3,5,5,3,5,4,3,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+4,3,5,3,3,6,4,3,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+1,4,4,3,5,3,4,3,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+1,4,4,4,5,4,3,2,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+1,3,5,3,4,3,5,4,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse

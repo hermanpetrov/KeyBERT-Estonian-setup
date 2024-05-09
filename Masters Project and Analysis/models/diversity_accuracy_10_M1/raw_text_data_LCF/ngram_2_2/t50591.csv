@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,5,0,1,3,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,0,5,0,1,3,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,0,5,0,1,3,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,0,5,0,1,3,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,0,5,0,1,3,2,1,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-4,0,4,0,1,4,2,1,0,12,uusorg; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-3,0,6,0,1,4,2,3,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-3,0,5,2,1,4,2,3,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-2,0,4,2,1,4,2,3,0,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; birgit; ulrich
-0,0,4,0,1,4,2,4,0,12,uusorg; margo; eesti; soome; naisekandmine; birgit; ulrich
-0,0,1,0,1,4,1,4,0,12,uusorg; margo; eesti; soome; naisekandmine; birgit; ulrich
+4,0,5,0,1,2,1,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,0,5,0,1,2,1,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,0,5,0,1,2,1,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,0,5,0,1,2,1,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,0,5,0,1,2,1,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+4,0,4,0,1,2,1,0,0,12,soome; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+3,0,6,0,1,2,3,0,0,12,soome; margo; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+3,0,5,2,1,2,3,0,0,12,margo; soome; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+2,0,4,2,1,2,3,0,0,12,margo; soome; eesti; võistlus; naisekandmine; ulrich; birgit; uusorg
+0,0,4,0,1,2,4,0,0,12,margo; soome; eesti; naisekandmine; ulrich; birgit; uusorg
+0,0,1,0,1,1,4,0,0,12,naisekandmine; soome; ulrich; margo; birgit; uusorg

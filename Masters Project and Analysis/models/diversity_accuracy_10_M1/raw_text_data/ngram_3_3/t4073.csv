@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,2,2,1,0,16,berlusconi; inflatsioon; eesti
-2,0,1,0,0,2,2,1,0,16,berlusconi; inflatsioon; eesti
-2,0,1,0,0,2,2,1,0,16,berlusconi; inflatsioon; eesti
-2,0,1,0,0,2,2,1,0,16,berlusconi; inflatsioon; eesti
-2,0,2,0,0,2,2,1,0,16,berlusconi; itaalia; inflatsioon; eesti
-2,0,2,0,0,2,2,1,0,16,berlusconi; itaalia; inflatsioon; eesti
-0,0,2,2,0,2,2,1,0,16,silvio; berlusconi; itaalia; inflatsioon; eesti
-2,0,1,4,0,2,2,1,0,16,berlusconi; itaalia; inflatsioon; josing; eesti; silvio; marje
-1,0,2,3,0,2,2,0,0,16,itaalia; inflatsioon; suurbritannia; eesti
-1,0,2,1,0,2,2,1,0,16,itaalia; inflatsioon; suurbritannia; eesti
-0,0,2,1,0,2,2,1,0,16,itaalia; inflatsioon; eesti
+2,0,1,0,0,2,2,1,0,16,eesti; inflatsioon; berlusconi
+2,0,1,0,0,2,2,1,0,16,eesti; inflatsioon; berlusconi
+2,0,1,0,0,2,2,1,0,16,eesti; inflatsioon; berlusconi
+2,0,1,0,0,2,2,1,0,16,eesti; inflatsioon; berlusconi
+2,0,2,0,0,2,2,1,0,16,itaalia; eesti; inflatsioon; berlusconi
+2,0,2,0,0,2,2,1,0,16,itaalia; eesti; inflatsioon; berlusconi
+0,0,2,2,0,2,2,1,0,16,itaalia; eesti; silvio; inflatsioon; berlusconi
+2,0,1,4,0,2,2,1,0,16,eesti; silvio; berlusconi; marje; itaalia; inflatsioon; josing
+1,0,2,3,0,2,2,0,0,16,itaalia; eesti; suurbritannia; inflatsioon
+1,0,2,1,0,2,2,1,0,16,itaalia; eesti; suurbritannia; inflatsioon
+0,0,2,1,0,2,2,1,0,16,itaalia; eesti; inflatsioon

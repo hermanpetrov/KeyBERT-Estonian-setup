@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,0,1,2,1,1,2,12,ehmatamine; uskumus; sümptom; meditsiin
-2,1,1,0,1,2,1,1,1,12,ehmatamine; uskumus; sümptom
-2,1,1,1,1,2,1,1,2,12,ehmatamine; uskumus; sümptom; meditsiin
-1,0,1,0,1,3,1,1,2,12,ehmatamine; uskumus; meditsiin; häire
-0,1,1,1,1,2,1,1,2,12,ehmatamine; uskumus; meditsiin; häire
-2,1,0,1,1,3,1,2,2,12,ehmatamine; uskumus; sümptom; meditsiin; häire
+3,1,1,1,1,2,1,1,2,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine
+3,1,1,1,1,2,1,1,2,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine
+3,1,1,1,1,2,1,1,2,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine
+3,1,1,1,1,2,1,1,2,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine
+3,1,1,1,1,2,1,1,2,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine
+3,1,1,1,1,2,1,1,3,12,tervisehäda; sümptom; uskumus; üleloomulik; ehmatamine; meditsiin
+3,1,1,0,1,2,1,1,2,12,sümptom; uskumus; üleloomulik; ehmatamine
+2,1,1,1,1,2,1,1,3,12,sümptom; uskumus; üleloomulik; ehmatamine; meditsiin
+2,1,1,1,1,4,1,2,3,12,tervisehäda; uskumus; kaitsemaagia; häire; üleloomulik; ehmatamine; meditsiin
+1,2,1,1,1,3,1,1,3,12,meditsiin; tervisehäda; uskumus; üleloomulik; ehmatamine; häire
+2,2,0,1,1,4,1,3,3,12,uskumus; kaitsemaagia; häire; sümptom; üleloomulik; ehmatamine; meditsiin

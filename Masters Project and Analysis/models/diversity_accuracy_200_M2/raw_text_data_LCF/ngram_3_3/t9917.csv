@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,4,5,3,3,3,4,2,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,5,5,4,3,3,4,4,2,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,4,6,4,2,4,4,5,2,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,3,7,4,3,4,4,5,2,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,3,6,3,3,4,5,5,2,11,tervisesport; lill; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-5,4,7,5,3,4,5,5,2,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,5,5,5,3,4,3,4,2,11,tervisesport; lill; aasta; olümpiakomitee; maaelu; maaleht; põllumees
-6,5,5,6,3,4,7,5,3,11,tervisesport; lill; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,4,3,6,4,4,4,6,4,11,tervisesport; lill; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,4,5,6,3,5,5,4,3,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
-6,6,7,5,6,3,3,4,5,11,tervisesport; lill; köögivili; aasta; olümpiakomitee; maaelu; maaleht; põllumees; liikumisharrastus
+6,4,4,5,3,3,4,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,5,5,4,3,4,4,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,4,6,4,2,4,5,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,3,7,4,3,4,5,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,3,6,3,3,5,5,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+5,4,7,5,3,5,5,2,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,5,5,5,3,3,4,2,0,11,lill; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+6,5,5,6,3,7,5,3,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+6,4,3,6,4,4,6,4,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+6,4,5,6,3,5,4,3,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee
+6,6,7,5,6,3,4,5,0,11,lill; liikumisharrastus; tervisesport; aasta; põllumees; köögivili; maaelu; maaleht; olümpiakomitee

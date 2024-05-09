@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,0,2,1,0,1,0,16,kontseptualism; kuraator; žestipõhine; indrek
-1,2,0,0,2,1,0,1,0,16,kontseptualism; kuraator; žestipõhine; indrek
-1,2,0,0,2,1,0,1,0,16,kontseptualism; kuraator; žestipõhine; indrek
-1,2,0,0,2,1,0,1,0,16,kontseptualism; kuraator; žestipõhine; indrek
-1,2,0,0,2,1,0,1,0,16,kontseptualism; kuraator; žestipõhine; indrek
-0,2,0,0,2,1,0,0,0,16,kontseptualism; kuraator; indrek
-0,0,1,1,2,1,0,0,0,16,kunst; kuraator; kontseptualism; indrek
-0,0,0,1,2,1,0,1,0,16,kontseptualism; kuraator; indrek
-1,1,0,0,2,0,0,1,0,16,kunst; kuraator; laura; kontseptualism
-1,0,1,0,2,1,0,1,0,16,kunst; kontseptualism; kuraator; indrek; grigor; laura
-0,0,0,0,2,1,1,1,0,16,kontseptualism; kuraator; laura
+1,2,0,0,2,1,0,1,0,16,žestipõhine; indrek; kontseptualism; kuraator
+1,2,0,0,2,1,0,1,0,16,žestipõhine; indrek; kontseptualism; kuraator
+1,2,0,0,2,1,0,1,0,16,žestipõhine; indrek; kontseptualism; kuraator
+1,2,0,0,2,1,0,1,0,16,žestipõhine; indrek; kontseptualism; kuraator
+1,2,0,0,2,1,0,1,0,16,žestipõhine; indrek; kontseptualism; kuraator
+0,2,0,0,2,1,0,0,0,16,indrek; kontseptualism; kuraator
+0,0,1,1,2,1,0,0,0,16,kunst; indrek; kontseptualism; kuraator
+0,0,0,1,2,1,0,1,0,16,indrek; kontseptualism; kuraator
+1,1,0,0,2,0,0,1,0,16,kunst; kontseptualism; laura; kuraator
+1,0,1,0,2,1,0,1,0,16,kunst; laura; indrek; kontseptualism; kuraator; grigor
+0,0,0,0,2,1,1,1,0,16,kontseptualism; laura; kuraator

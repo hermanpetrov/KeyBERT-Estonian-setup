@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,3,2,5,4,3,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-1,2,3,3,2,5,4,3,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-1,2,3,3,2,5,4,3,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-1,2,5,3,2,5,4,4,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-2,2,4,3,2,5,4,4,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-3,1,5,3,2,4,4,4,1,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-2,1,3,2,2,5,4,4,0,11,kaarel; rand; orvik; torm; sadam; geoloogia; prognoos; tamm
-2,2,3,3,2,4,1,5,0,11,kaarel; rand; orvik; torm; geoloogia; sadam; prognoos; tamm
-3,1,4,3,3,3,3,1,2,11,kaarel; rand; orvik; torm; sadam; prognoos; geoloogia; tamm
-2,4,1,3,2,4,1,1,2,11,kaarel; rand; orvik; torm; geoloogia; sadam; prognoos; tamm
-4,2,4,1,3,3,2,1,1,11,kaarel; rand; orvik; torm; sadam; prognoos; tamm
+1,2,3,3,2,5,4,3,1,11,orvik; tamm; geoloogia; torm; rand; kaarel; prognoos; sadam
+1,2,3,3,2,5,4,3,1,11,orvik; tamm; geoloogia; torm; rand; kaarel; prognoos; sadam
+1,2,3,3,2,5,4,3,1,11,orvik; tamm; geoloogia; torm; rand; kaarel; prognoos; sadam
+1,2,5,3,2,5,4,4,1,11,orvik; tamm; geoloogia; torm; rand; kaarel; prognoos; sadam
+2,2,4,3,2,5,4,4,1,11,orvik; tamm; geoloogia; torm; rand; kaarel; prognoos; sadam
+3,1,5,3,2,4,4,5,1,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam
+2,1,3,2,2,5,4,5,0,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam
+2,2,3,4,2,6,1,7,0,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+3,1,4,3,3,4,4,2,2,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+2,4,1,3,2,6,2,1,2,11,orvik; tamm; liivarand; geoloogia; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt
+4,2,5,1,3,5,2,3,1,11,orvik; tamm; liivarand; torm; rand; kaarel; prognoos; sadam; kasvuhooneefekt

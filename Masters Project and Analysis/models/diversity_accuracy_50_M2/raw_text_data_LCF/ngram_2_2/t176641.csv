@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,0,2,1,2,0,1,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-5,2,0,2,1,2,0,1,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-5,2,0,2,1,2,0,1,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-5,2,0,2,1,2,0,1,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-4,2,0,2,1,2,0,1,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-5,2,0,2,1,2,0,2,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-3,2,1,2,1,0,0,2,3,11,juured; rahvatants; jüri; kirjandus; tallinn; tartu; arrak
-4,2,1,2,1,1,0,1,3,11,juured; jüri; kirjandus; tallinn; tartu; arrak
-1,2,1,3,1,0,0,2,3,11,juured; rahvatants; jüri; tallinn; kirjandus; tartu; arrak
-0,2,1,2,1,0,0,3,3,11,jüri; juured; tallinn; tartu; arrak
-1,1,0,2,1,0,0,2,3,11,jüri; juured; tallinn; tartu; arrak
+5,2,0,2,1,0,1,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+5,2,0,2,1,0,1,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+5,2,0,2,1,0,1,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+5,2,0,2,1,0,1,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+4,2,0,2,1,0,1,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+5,2,0,2,1,0,2,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+3,2,1,2,1,0,2,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+4,2,1,2,1,0,1,3,0,11,jüri; tallinn; tartu; kirjandus; juured; arrak
+1,2,1,3,1,0,2,3,0,11,rahvatants; jüri; tallinn; tartu; kirjandus; juured; arrak
+0,2,1,2,1,0,3,3,0,11,tartu; jüri; tallinn; arrak; juured
+1,1,0,2,1,0,2,3,0,11,tallinn; jüri; juured; arrak; tartu

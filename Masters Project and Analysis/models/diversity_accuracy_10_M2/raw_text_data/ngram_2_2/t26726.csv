@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,2,1,1,1,1,13,komöödia; realism; ärkamisaeg; vilde; kitzberg
-2,2,1,0,2,1,1,1,1,13,komöödia; realism; ärkamisaeg; vilde; kitzberg
-2,2,1,0,2,1,1,1,1,13,komöödia; realism; ärkamisaeg; vilde; kitzberg
-2,2,1,0,2,1,1,1,1,13,komöödia; realism; ärkamisaeg; vilde; kitzberg
-2,2,1,0,2,1,1,1,1,13,komöödia; realism; ärkamisaeg; vilde; kitzberg
-1,1,1,0,2,1,2,1,1,13,august; realism; vilde; kitzberg
-1,0,0,1,2,1,1,1,1,13,komöödia; vigased; realism; vilde; kitzberg
-1,0,1,2,2,1,0,1,1,13,komöödia; kosjasõit; realism; vilde; kitzberg
-1,0,1,0,2,1,1,1,0,13,kosjasõit; realism; vilde; kitzberg
-0,0,1,0,2,1,0,1,0,13,realism; vilde; kitzberg
-0,0,1,0,2,2,0,1,0,13,komöödia; realism; vilde; kitzberg
+2,2,1,0,2,1,1,1,1,13,ärkamisaeg; vilde; realism; kitzberg; komöödia
+2,2,1,0,2,1,1,1,1,13,ärkamisaeg; vilde; realism; kitzberg; komöödia
+2,2,1,0,2,1,1,1,1,13,ärkamisaeg; vilde; realism; kitzberg; komöödia
+2,2,1,0,2,1,1,1,1,13,ärkamisaeg; vilde; realism; kitzberg; komöödia
+2,2,1,0,2,1,1,1,1,13,ärkamisaeg; vilde; realism; kitzberg; komöödia
+1,1,1,0,2,1,2,1,1,13,vilde; realism; kitzberg; august
+1,0,0,1,2,1,1,1,1,13,vigased; vilde; realism; kitzberg; komöödia
+1,0,1,2,2,1,0,1,1,13,vilde; realism; kitzberg; kosjasõit; komöödia
+1,0,1,0,2,1,1,1,0,13,vilde; realism; kitzberg; kosjasõit
+0,0,1,0,2,1,0,1,0,13,kitzberg; vilde; realism
+0,0,1,0,2,2,0,1,0,13,vilde; realism; kitzberg; komöödia

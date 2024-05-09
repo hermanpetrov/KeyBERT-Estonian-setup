@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,1,1,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,1,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,1,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,1,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,1,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,0,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,0,0,1,1,11,abitu; kriitika; tähtsus; kirjanik
-1,1,1,0,1,0,0,1,1,11,rahutu; tähtsus; kirjanik; abitu
-2,1,1,1,1,0,0,1,1,11,abitu; kaas; kirjanik; tähtsus
-1,1,1,0,1,0,1,1,1,11,rahutu; abitu; kirjanik; tähtsus
-1,1,1,0,1,0,1,1,1,11,rahutu; abitu; kirjanik; tähtsus
+1,2,1,1,1,1,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+1,2,1,1,1,1,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+1,2,1,1,1,1,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+1,2,1,1,1,1,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+1,2,1,1,1,1,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+1,2,1,1,1,0,1,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+2,2,1,1,1,0,0,1,1,11,käsikiri; abitu; kriitika; kirjanik; tähtsus
+2,2,1,1,1,1,0,1,1,11,käsikiri; abitu; kirjanik; tähtsus; rahutu
+3,2,1,1,1,0,0,1,1,11,käsikiri; abitu; kaas; kirjanik; tähtsus
+1,2,1,0,1,1,1,1,1,11,käsikiri; abitu; kirjanik; tähtsus; rahutu
+1,1,1,0,1,1,1,1,1,11,käsikiri; abitu; kirjanik; tähtsus; rahutu

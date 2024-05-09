@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,1,1,1,2,4,4,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; sõna; kirjutama
-2,2,0,1,1,1,2,4,4,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; sõna; kirjutama
-2,2,1,1,1,1,2,4,4,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; sõna; kirjutama
-1,1,1,1,1,1,2,3,4,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; kirjutama
-1,2,1,1,2,1,1,4,4,13,lehte; raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; kirjutama
-1,2,1,1,2,0,1,3,4,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; kirjutama
-0,1,1,3,2,0,2,2,3,13,raha; aeg; üheksavägine; luule; vene; hainsalu; tartu; kirjutama; vägi
-0,2,2,1,2,0,2,1,3,13,vene; hainsalu; raha; üheksavägine; tartu; aeg; kirjutama
-0,1,2,4,2,0,2,1,4,13,raha; üheksavägine; aeg; luule; vene; hainsalu; tartu; kirjutama
-0,1,2,3,2,0,1,0,2,13,vene; hainsalu; raha; üheksavägine; aeg; luule; kirjutama
-0,1,1,3,2,0,1,0,2,13,vene; hainsalu; raha; üheksavägine; aeg; luule; kirjutama
+2,1,0,1,1,1,2,4,4,13,aeg; vene; kirjutama; hainsalu; tartu; raha; üheksavägine; sõna; luule
+2,2,0,1,1,1,2,4,4,13,aeg; vene; kirjutama; hainsalu; tartu; raha; üheksavägine; sõna; luule
+2,2,1,1,1,1,2,4,4,13,aeg; vene; kirjutama; hainsalu; tartu; sõna; raha; üheksavägine; luule
+1,1,1,1,1,1,2,3,4,13,aeg; vene; kirjutama; hainsalu; tartu; raha; üheksavägine; luule
+1,2,1,1,2,1,1,4,4,13,vene; aeg; kirjutama; hainsalu; tartu; lehte; raha; üheksavägine; luule
+1,2,1,1,2,0,1,3,4,13,vene; aeg; kirjutama; hainsalu; tartu; raha; üheksavägine; luule
+0,1,1,3,2,0,2,2,3,13,vene; aeg; kirjutama; hainsalu; tartu; raha; üheksavägine; luule; vägi
+0,2,2,1,2,0,2,1,3,13,vene; aeg; kirjutama; raha; hainsalu; üheksavägine; tartu
+0,1,2,4,2,0,2,1,4,13,vene; aeg; kirjutama; hainsalu; tartu; raha; üheksavägine; luule
+0,1,2,3,2,0,1,0,2,13,vene; aeg; raha; kirjutama; hainsalu; üheksavägine; luule
+0,1,1,3,2,0,1,0,2,13,vene; aeg; raha; kirjutama; hainsalu; üheksavägine; luule

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,1,4,3,5,6,2,2,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; šbiil; mati; identiteet; üksikisik; dramaturg; vahing
-7,7,1,5,3,5,6,4,3,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; šbiil; mati; identiteet; üksikisik; dramaturg; vahing
-6,8,1,5,4,9,6,4,3,15,juhan; nõukogude; šbiil; mati; üksikisik; dramaturg; psühhiaater; separaat; unt; vaino; luiga; identiteet; vahing
-6,6,2,5,4,9,5,4,3,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; šbiil; mati; identiteet; dramaturg; vahing
-6,6,5,5,5,8,4,5,3,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; šbiil; mati; identiteet; dramaturg; vahing
-2,5,5,5,5,7,5,5,1,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; šbiil; mati; identiteet; dramaturg; vahing
-2,3,6,4,5,6,6,4,2,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; šbiil; mati; identiteet; vahing
-2,4,6,5,6,6,5,7,4,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; šbiil; mati; identiteet; vahing
-3,4,6,4,5,2,4,4,6,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; mati; šbiil; identiteet; vahing
-3,4,5,4,6,3,3,5,4,15,psühhiaater; separaat; unt; juhan; vaino; nõukogude; luiga; mati; šbiil; vahing
-2,2,6,4,5,1,4,6,5,15,psühhiaater; separaat; unt; vaino; nõukogude; luiga; mati; šbiil; vahing
+7,7,1,4,3,6,2,2,0,15,šbiil; vahing; dramaturg; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; juhan; identiteet; üksikisik
+7,7,1,5,3,6,4,3,0,15,šbiil; vahing; dramaturg; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; juhan; identiteet; üksikisik
+6,8,1,5,4,6,4,3,0,15,šbiil; vahing; dramaturg; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; juhan; identiteet; üksikisik
+6,6,2,5,4,5,4,3,0,15,šbiil; vahing; dramaturg; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; juhan; identiteet
+6,6,5,5,5,4,5,3,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; juhan; identiteet
+2,5,5,5,5,5,5,1,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; unt; vaino; juhan; identiteet
+2,3,6,4,5,6,4,2,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; unt; vaino; identiteet
+2,4,6,5,6,5,7,4,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; identiteet
+3,4,6,4,5,4,4,6,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino; identiteet
+3,4,5,4,6,3,5,4,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino
+2,2,6,4,5,4,6,5,0,15,šbiil; vahing; psühhiaater; luiga; nõukogude; separaat; mati; unt; vaino

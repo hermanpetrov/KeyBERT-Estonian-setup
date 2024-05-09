@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,3,2,1,1,1,3,0,18,erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-5,2,3,2,1,1,1,3,0,18,erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-5,2,3,2,1,1,1,3,0,18,erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-5,2,2,2,1,1,1,3,0,18,erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-6,2,2,2,1,1,1,3,0,18,erakond; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-6,3,3,2,1,2,1,2,0,18,erakond; kohus; roheline; arnold; tarmo; rüütel; valimine; voldemar; strandberg
-3,3,2,2,1,3,2,4,0,18,erakond; kohus; roheline; tarmo; rüütel; koalitsioon; valimine; voldemar; strandberg
-4,3,2,2,1,3,3,1,3,18,erakond; kohus; roheline; tarmo; rüütel; valimine; voldemar; strandberg
-4,3,2,2,1,4,3,1,3,18,kuslap; kohus; erakond; roheline; tarmo; rüütel; valimine; voldemar; strandberg
-3,3,3,2,1,5,3,3,3,18,kuslap; kohus; erakond; roheline; tarmo; rüütel; valimine; voldemar; strandberg
-2,1,2,3,1,3,2,4,2,18,erakond; kohus; kuslap; roheline; tarmo; rüütel; valimine; voldemar; strandberg
+5,3,3,3,1,3,1,5,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; rahvaliit
+5,3,3,3,1,3,1,5,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; rahvaliit
+5,3,3,3,1,3,1,5,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; rahvaliit
+5,3,2,3,1,3,1,5,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; rahvaliit
+6,3,2,3,1,3,1,5,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; rahvaliit
+6,4,3,4,1,4,3,4,1,18,arnold; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; kohus; rahvaliit
+3,3,2,3,1,6,4,5,1,18,sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; tarmo; voldemar; kohus; rahvaliit; koalitsioon
+5,3,3,3,2,4,6,3,4,18,sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; tarmo; voldemar; kohus; rahvaliit
+5,4,2,2,1,5,4,4,4,18,kuslap; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; tarmo; voldemar; kohus; rahvaliit
+4,5,3,2,1,6,5,5,4,18,kuslap; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; voldemar; tarmo; kohus; rahvaliit
+4,3,2,4,2,4,4,6,3,18,kuslap; sotsiaaldemokraatlik; strandberg; valimine; erakond; rüütel; roheline; rahvusringhääling; tarmo; voldemar; kohus; rahvaliit

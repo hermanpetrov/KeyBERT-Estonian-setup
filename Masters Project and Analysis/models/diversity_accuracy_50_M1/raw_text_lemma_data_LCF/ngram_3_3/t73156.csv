@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,6,3,2,2,4,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-4,4,2,6,3,2,2,4,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-4,4,2,6,3,2,2,4,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-4,4,2,6,3,2,2,4,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-4,4,2,6,3,2,2,5,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-4,6,3,6,3,2,4,5,3,12,ameerika; andres; koht; esimene; hitt; lugu; edetab; euroopa
-2,5,4,7,3,1,4,6,3,12,ameerika; andres; koht; esimene; hitt; lugu; edetab; euroopa
-5,7,5,7,3,2,4,6,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; edetab; euroopa
-6,8,5,5,3,4,4,6,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; edetab; euroopa
-5,6,5,5,1,5,3,6,3,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; euroopa
-5,6,6,4,2,3,4,7,4,12,ameerika; andres; koht; esimene; räppar; hitt; lugu; edetab; euroopa
+4,5,2,8,3,2,2,4,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+4,5,2,8,3,2,2,4,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+4,5,2,8,3,2,2,4,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+4,5,2,8,3,2,2,4,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+4,5,2,8,3,2,2,5,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+4,7,3,8,3,2,4,6,3,12,hitt; koht; andres; raadiojaam; ameerika; jõesaar; esimene; euroopa; lugu; edetab
+2,6,4,9,3,1,4,6,3,12,hitt; koht; raadiojaam; ameerika; jõesaar; andres; esimene; euroopa; lugu; edetab
+5,8,5,7,3,2,4,6,3,12,hitt; koht; raadiojaam; ameerika; andres; räppar; esimene; euroopa; lugu; edetab
+7,9,5,5,3,4,4,7,3,12,hitt; koht; raadiojaam; ameerika; räppar; esimene; euroopa; andres; edetab; lugu
+6,7,6,5,1,6,3,7,3,12,hitt; euroopa; koht; raadiojaam; ameerika; jõesaar; räppar; esimene; andres; lugu
+6,6,7,4,2,4,4,8,4,12,hitt; koht; raadiojaam; ameerika; jõesaar; andres; räppar; esimene; euroopa; lugu; edetab

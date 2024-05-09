@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,1,0,1,1,3,0,14,mets; jurist; reimo; geiaktivist
-0,2,0,1,0,1,1,3,0,14,mets; jurist; reimo; geiaktivist
-0,2,0,1,0,1,1,3,0,14,mets; jurist; reimo; geiaktivist
-0,2,0,1,0,1,1,3,0,14,mets; jurist; reimo; geiaktivist
-0,2,0,1,0,1,1,3,0,14,mets; jurist; reimo; geiaktivist
-1,2,0,1,0,2,1,3,0,14,mets; jurist; reimo; geiaktivist; urmas
-0,0,2,0,0,2,2,4,0,14,mets; reimo; urmas; jurist; vaino
-0,0,2,1,0,1,0,3,0,14,mets; reimo; urmas; jurist; vaino
-0,0,2,0,0,1,0,3,0,14,mets; reimo; urmas; jurist; vaino
-0,0,1,0,0,1,0,3,0,14,mets; reimo; jurist; urmas
-0,0,3,0,0,1,0,4,0,14,mets; reimo; vaino; jurist; urmas
+0,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+0,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+0,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+0,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+0,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+1,2,0,1,0,1,3,0,0,14,geiaktivist; mets; reimo; jurist
+0,0,2,0,0,2,4,0,0,14,vaino; urmas; mets; reimo; jurist
+0,0,2,1,0,0,3,0,0,14,vaino; urmas; mets; reimo; jurist
+0,0,2,0,0,0,3,0,0,14,vaino; urmas; mets; reimo; jurist
+0,0,1,0,0,0,3,0,0,14,mets; reimo; jurist; urmas
+0,0,3,0,0,0,4,0,0,14,vaino; urmas; mets; reimo; jurist

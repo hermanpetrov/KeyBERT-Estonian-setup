@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,0,1,2,2,2,2,12,keel; sõna
-2,1,2,0,1,2,2,2,2,12,keel; sõna
-2,1,2,0,1,2,2,2,2,12,keel; sõna
-2,1,2,0,1,2,2,2,2,12,keel; sõna
-2,1,1,0,1,2,2,2,2,12,keel; sõna
-1,1,2,0,1,2,2,2,2,12,keel; sõna
-1,3,1,0,1,2,3,2,2,12,jõud; maagiline; keel; sõna
-0,3,3,1,1,2,3,2,2,12,jõud; maagiline; keel; sõna
-1,1,2,1,0,2,2,2,2,12,keel; sõna
-2,1,3,2,0,3,4,2,2,12,jõud; maagiline; keel; sõna
-2,1,4,1,0,3,4,0,2,12,jõud; maagiline; keel; sõna
+2,1,2,0,1,6,8,2,3,12,murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,1,2,0,1,6,8,2,3,12,murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,1,2,0,1,6,8,2,3,12,murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,1,3,0,1,6,8,2,3,12,murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,2,2,0,1,6,8,2,3,12,indoeuroopa; murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,2,3,0,1,6,8,3,3,12,indoeuroopa; murdekeel; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+3,5,1,0,1,5,5,4,3,12,indoeuroopa; rahvakeel; kantseleikeel; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+2,5,5,3,1,5,4,3,3,12,murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+1,3,3,3,0,4,5,3,3,12,indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; kirjakeel; sõna
+2,3,6,4,0,4,6,3,3,12,indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+2,2,4,2,0,4,7,2,3,12,indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,1,2,1,2,2,3,3,16,põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-5,2,2,3,1,2,2,3,3,16,põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-5,2,2,3,1,2,1,4,3,16,põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-5,2,3,4,2,2,2,4,3,16,postimees; põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-5,2,3,4,2,2,3,6,3,16,postimees; põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-4,2,5,3,2,2,2,5,3,16,postimees; põllumeeste; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-3,2,4,3,2,2,1,5,3,16,postimees; karl; vanemuise; eesti; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-4,3,2,1,3,2,1,3,3,16,postimees; karl; vanemuise; eesti; keel; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-2,0,5,1,3,3,1,4,4,16,postimees; selts; karl; vanemuise; eesti; koorilaul; keel; ärkamine; üldlaulupidu; rahvuslik
-1,0,5,0,2,2,0,5,5,16,postimees; põllumeeste; karl; vanemuise; eesti; keel; koorilaul; selts; ärkamine; üldlaulupidu; rahvuslik
-2,0,3,2,3,3,1,4,4,16,postimees; selts; karl; vanemuise; eesti; koorilaul; keel; ärkamine; üldlaulupidu; rahvuslik
+5,1,1,2,1,2,2,3,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; ärkamine; põllumeeste; vanemuise; karl
+5,2,2,3,1,2,2,3,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; ärkamine; põllumeeste; vanemuise; karl
+5,2,2,3,1,2,1,4,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; ärkamine; põllumeeste; vanemuise; karl
+5,2,3,4,2,2,2,4,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; ärkamine; põllumeeste; vanemuise; karl
+5,2,3,4,2,2,3,6,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; ärkamine; põllumeeste; vanemuise; karl
+4,2,5,3,2,2,2,5,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; ärkamine; põllumeeste; vanemuise; karl
+3,2,4,3,2,2,1,5,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; ärkamine; vanemuise; karl
+4,3,2,1,3,2,1,3,3,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; keel; ärkamine; vanemuise; karl
+2,0,5,1,3,3,1,4,4,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; keel; postimees; ärkamine; vanemuise; karl
+1,0,5,0,2,2,0,5,5,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; keel; ärkamine; põllumeeste; vanemuise; karl
+2,0,3,2,3,3,1,4,4,16,selts; eesti; rahvuslik; koorilaul; üldlaulupidu; keel; postimees; ärkamine; vanemuise; karl

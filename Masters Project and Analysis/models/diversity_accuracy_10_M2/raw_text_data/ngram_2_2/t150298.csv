@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-0,0,1,1,1,1,1,1,0,10,režissöör; stuudio; televisioon; toimetus
-1,0,2,0,1,1,1,1,0,10,stuudio; koosolek; televisioon; saade; toimetus
-2,0,0,0,1,2,1,1,0,10,televisioon; toimetus; koosolek
-0,0,1,0,1,2,1,0,0,10,toimetus; televisioon; saade; koosolek
-0,0,1,0,1,2,1,0,0,10,televisioon; saade; toimetus
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+0,0,1,1,1,1,1,1,0,10,režissöör; toimetus; stuudio; televisioon
+1,0,2,0,1,1,1,1,0,10,koosolek; toimetus; stuudio; saade; televisioon
+2,0,0,0,1,2,1,1,0,10,televisioon; koosolek; toimetus
+0,0,1,0,1,2,1,0,0,10,koosolek; toimetus; saade; televisioon
+0,0,1,0,1,2,1,0,0,10,saade; televisioon; toimetus

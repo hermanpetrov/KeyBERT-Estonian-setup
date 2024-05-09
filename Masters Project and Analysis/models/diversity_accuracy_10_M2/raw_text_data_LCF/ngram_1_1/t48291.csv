@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,1,0,11,rannavalve
-0,0,0,0,0,0,0,1,0,11,rannavalve
-0,0,0,0,0,0,0,1,0,11,rannavalve
-0,0,0,0,0,0,0,1,0,11,rannavalve
-0,0,1,0,0,0,0,1,0,11,merehariduskeskus; rannavalve
-0,0,2,0,0,0,0,1,0,11,merehariduskeskus; päästeoperatsioon
-0,0,2,0,0,1,0,1,0,11,merehariduskeskus; veeteede
-0,0,2,1,0,2,2,1,0,11,veeteede; merehariduskeskus; territoriaalveed
-0,0,2,0,0,2,3,0,0,11,merehariduskeskus; päästeoperatsioon; territoriaalveed
-0,0,0,1,0,1,2,0,0,11,päästeoperatsioon; territoriaalveed; amet
-0,0,1,1,0,1,1,0,0,11,merehariduskeskus; territoriaalveed; amet
+0,0,0,0,0,0,1,0,0,11,rannavalve
+0,0,0,0,0,0,1,0,0,11,rannavalve
+0,0,0,0,0,0,1,0,0,11,rannavalve
+0,0,0,0,0,0,1,0,0,11,rannavalve
+0,0,1,0,0,0,1,0,0,11,merehariduskeskus; rannavalve
+0,0,2,0,0,0,1,0,0,11,merehariduskeskus; päästeoperatsioon
+0,0,2,0,0,0,1,0,0,11,merehariduskeskus; veeteede
+0,0,2,1,0,2,1,0,0,11,territoriaalveed; merehariduskeskus; veeteede
+0,0,2,0,0,3,0,0,0,11,territoriaalveed; merehariduskeskus; päästeoperatsioon
+0,0,0,1,0,2,0,0,0,11,territoriaalveed; päästeoperatsioon; amet
+0,0,1,1,0,1,0,0,0,11,territoriaalveed; merehariduskeskus; amet

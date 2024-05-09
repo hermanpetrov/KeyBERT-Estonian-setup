@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,4,3,2,4,5,5,2,11,orkester; sport; ingeli; oboe; repertuaar
-5,4,4,3,2,4,5,4,2,11,orkester; sport; ingeli; oboe; repertuaar
-5,4,3,3,3,4,5,4,2,11,orkester; sport; ingeli; oboe; repertuaar
-5,3,3,3,3,4,5,4,2,11,orkester; sport; ingeli; oboe; repertuaar
-5,3,3,3,3,4,4,4,2,11,orkester; sport; ingeli; oboe; repertuaar
-4,3,3,4,3,4,4,4,3,11,orkester; sport; ingeli; oboe; repertuaar
-4,3,3,5,5,4,5,5,3,11,orkester; sport; oboe; ingeli; repertuaar
-3,3,4,4,5,4,4,5,3,11,orkester; sport; ingeli; oboe; repertuaar
-3,3,4,4,5,5,4,5,4,11,orkester; sport; ingeli; oboe; repertuaar
-3,3,4,4,5,5,5,5,3,11,orkester; sport; oboe; ingeli; repertuaar
-3,3,4,4,5,5,5,5,3,11,orkester; sport; ingeli; oboe; repertuaar
+10,9,8,8,3,6,9,9,5,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+10,9,8,8,3,8,9,9,5,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+10,9,8,8,4,9,9,9,5,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+10,8,8,8,4,9,9,9,5,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+9,8,7,8,4,9,8,9,5,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+8,8,7,9,5,9,8,9,6,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+8,8,7,10,7,8,9,10,7,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+7,8,8,8,8,9,9,10,7,11,naisoboemängija; inglissarv; sport; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+7,8,9,7,8,9,8,10,8,11,naisoboemängija; sport; inglissarv; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+7,8,9,7,8,9,10,10,7,11,naisoboemängija; inglissarv; sport; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool
+6,8,9,7,8,8,10,10,7,11,naisoboemängija; inglissarv; sport; oboe; orkester; saksamaa; repertuaar; klassikatäht; ingeli; muusikakeskkool

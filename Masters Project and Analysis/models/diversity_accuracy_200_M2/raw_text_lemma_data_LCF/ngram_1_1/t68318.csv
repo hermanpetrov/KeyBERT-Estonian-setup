@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,0,2,3,3,3,1,13,inglise; keel; euroopa
-1,2,3,0,2,3,3,3,1,13,inglise; keel; euroopa
-1,2,3,0,2,3,3,3,1,13,inglise; keel; euroopa
-1,2,3,0,2,3,3,3,1,13,inglise; keel; euroopa
-1,2,3,0,2,3,3,3,1,13,inglise; keel; euroopa
-0,2,0,1,2,1,2,2,1,13,inglise; keel; euroopa
-0,2,0,2,1,1,0,1,0,13,euroopa; inglise
-1,2,0,2,2,1,0,1,0,13,inglise; keel; euroopa
-0,2,0,2,1,1,0,1,0,13,euroopa; inglise
-1,1,0,3,1,0,0,0,0,13,inglise; keel; euroopa
-0,1,0,3,1,0,0,0,0,13,keel; euroopa; inglise
+9,3,10,7,4,11,12,11,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+9,3,9,6,4,11,12,11,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+9,3,9,6,4,11,12,11,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+9,3,7,6,4,11,12,10,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+9,3,6,6,4,12,12,10,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+8,4,2,7,4,9,11,7,3,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+6,4,5,5,2,7,7,4,2,13,haridussüsteem; võõrkeel; raamdokument; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keeleõpe; keeleoskus
+5,4,2,2,3,4,3,2,2,13,haridussüsteem; võõrkeel; kolmkeelsus; inglise; keelepoliitika; keelterikas; raamdokument; keel; riigikeel; euroopa; keeleõpe; keeleoskus
+5,4,2,3,1,3,2,2,2,13,haridussüsteem; võõrkeel; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; raamdokument; riigikeel; euroopa; keeleõpe; keeleoskus
+3,3,1,4,1,1,2,0,4,13,võõrkeel; haridussüsteem; mitmekeelsus; kolmkeelsus; inglise; keel; raamdokument; riigikeel; euroopa; keeleõpe; keeleoskus
+3,4,3,3,1,1,2,0,5,13,võõrkeel; haridussüsteem; mitmekeelsus; kolmkeelsus; inglise; keel; keelepoliitika; raamdokument; riigikeel; euroopa; keeleõpe; keeleoskus

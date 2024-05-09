@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,5,6,2,3,5,5,5,10,töö; raha; eriala; tele; raadio; keskkool; armastus
-3,3,6,6,2,3,5,6,5,10,töö; raha; eriala; tele; raadio; keskkool; armastus
-3,4,6,6,2,3,5,6,5,10,töö; raha; eriala; tele; raadio; keskkool; armastus
-3,4,6,5,3,3,4,5,4,10,töö; raha; eriala; tele; raadio; keskkool; armastus
-5,3,5,5,3,5,6,6,4,10,töö; raha; eriala; tele; raadio; keskkool; armastus
-5,4,6,6,5,6,5,5,4,10,töö; pidutsema; raha; eriala; tele; raadio; keskkool; armastus
-3,4,6,6,5,5,5,4,4,10,pidutsema; töö; raha; eriala; tele; raadio; keskkool; armastus
-6,3,7,5,5,5,5,2,4,10,töö; pidutsema; raha; eriala; tele; raadio; keskkool; armastus
-4,4,3,6,5,4,5,6,5,10,töö; pidutsema; raha; eriala; tele; raadio; keskkool; armastus
-4,3,5,7,6,4,7,6,5,10,töö; pidutsema; raha; eriala; tele; raadio; keskkool; armastus
-4,4,5,7,7,5,7,4,6,10,töö; pidutsema; raha; eriala; tele; raadio; keskkool; armastus
+3,3,5,6,2,3,5,5,5,10,keskkool; tele; eriala; töö; armastus; raadio; raha
+3,3,6,6,2,3,5,6,5,10,keskkool; eriala; tele; töö; armastus; raadio; raha
+3,4,6,6,2,3,5,6,5,10,keskkool; eriala; töö; tele; armastus; raadio; raha
+3,4,6,5,3,3,4,5,4,10,keskkool; eriala; töö; tele; armastus; raadio; raha
+5,3,5,5,3,5,6,6,4,10,keskkool; tele; eriala; töö; armastus; raadio; raha
+5,4,6,6,5,6,5,5,4,10,keskkool; pidutsema; tele; eriala; töö; armastus; raadio; raha
+3,4,6,6,5,5,5,4,4,10,keskkool; pidutsema; tele; eriala; töö; armastus; raadio; raha
+6,3,7,5,5,5,5,2,4,10,keskkool; pidutsema; tele; eriala; töö; armastus; raadio; raha
+4,4,3,6,5,4,5,6,5,10,keskkool; pidutsema; eriala; töö; tele; armastus; raadio; raha
+4,3,5,7,6,4,7,6,5,10,keskkool; pidutsema; tele; eriala; töö; armastus; raadio; raha
+4,4,5,7,7,5,7,4,6,10,keskkool; pidutsema; eriala; töö; tele; armastus; raadio; raha

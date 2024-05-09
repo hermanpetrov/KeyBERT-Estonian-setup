@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,1,0,1,1,1,1,0,12,ink; amazona
 1,0,1,0,1,1,1,1,0,12,ink; amazona
 1,0,1,0,1,1,1,1,0,12,ink; amazona
-1,0,1,0,1,1,1,1,0,12,ink; amazona
-1,0,1,0,1,1,1,1,0,12,ink; amazona; kaupo
-2,0,1,0,1,1,0,1,0,12,ink; amazona; linn; kaupo
-2,0,0,2,2,1,1,1,0,12,ink; amazona; vihm; linn; kikkas; kaupo
-2,0,0,1,2,1,1,0,0,12,ink; vihm; linn; kaupo
+2,0,1,0,1,1,1,1,0,12,põllukultuur; ink; amazona
+2,0,1,0,1,1,1,1,0,12,põllukultuur; ink; kaupo; amazona
+3,0,1,0,1,1,0,1,0,12,põllukultuur; ink; kaupo; amazona; linn
+2,0,0,2,2,1,1,1,0,12,ink; kaupo; kikkas; amazona; vihm; linn
+2,0,0,2,2,1,1,0,0,12,põllukultuur; ink; kaupo; vihm; linn

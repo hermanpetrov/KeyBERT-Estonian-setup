@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,2,1,14,jurist; reimo
-1,0,0,0,0,1,1,2,1,14,jurist; reimo
-1,0,0,0,0,1,1,2,1,14,jurist; reimo
-1,0,0,0,0,1,1,2,0,14,jurist; reimo
-1,0,0,0,0,1,1,3,0,14,jurist; õigus; reimo
-1,0,0,0,0,1,1,1,0,14,urmas; reimo
-1,0,0,1,0,1,0,1,0,14,urmas; reimo
+1,0,0,0,0,1,1,2,1,14,reimo; jurist
+1,0,0,0,0,1,1,2,1,14,reimo; jurist
+1,0,0,0,0,1,1,2,1,14,reimo; jurist
+1,0,0,0,0,1,1,2,0,14,reimo; jurist
+1,0,0,0,0,1,1,3,0,14,reimo; jurist; õigus
+1,0,0,0,0,1,1,1,0,14,reimo; urmas
+1,0,0,1,0,1,0,1,0,14,reimo; urmas
 1,0,0,0,0,0,0,0,0,14,geiaktivist
-3,0,0,0,0,0,0,1,0,14,geiaktivist; mets; jurist; abielu
-2,0,1,0,3,0,0,1,0,14,abielu; mets; jurist; vaino; urmas; geiaktivist
-2,0,0,1,1,0,2,0,3,14,abielu; kirik; mets; reimo; geiaktivist; vaino; jurist; urmas
+3,0,0,0,0,0,0,1,0,14,mets; abielu; geiaktivist; jurist
+2,0,1,0,3,0,0,1,0,14,abielu; geiaktivist; vaino; urmas; mets; jurist
+2,0,0,1,1,0,2,0,3,14,geiaktivist; kirik; urmas; reimo; jurist; abielu; vaino; mets

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,11,7,7,3,4,4,8,3,16,aleksejev; kirjanik; heli; tiit; läänerindel; helme; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-7,10,8,7,3,4,4,8,5,16,aleksejev; kirjanik; heli; tiit; läänerindel; helme; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-7,10,7,7,3,5,4,9,5,16,aleksejev; kirjanik; heli; tiit; läänerindel; helme; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-7,9,7,7,3,7,5,9,6,16,aleksejev; kirjanik; heli; tiit; läänerindel; helme; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-8,8,9,7,2,7,6,10,6,16,aleksejev; kirjanik; heli; tiit; läänerindel; helme; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-8,8,10,9,5,8,8,11,6,16,aleksejev; kirjanik; heli; tiit; helme; läänerindel; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-3,7,11,8,7,7,10,7,6,16,aleksejev; kirjanik; heli; läänerindel; helme; tiit; peeter; film; allik; hemingway; sõda; sõjaromaan
-3,9,8,9,10,8,8,9,6,16,aleksejev; kirjanik; heli; läänerindel; helme; tiit; peeter; film; allik; muutusteta; hemingway; sõda
-3,6,10,10,10,8,8,11,6,16,aleksejev; kirjanik; heli; läänerindel; helme; tiit; peeter; film; allik; muutusteta; hemingway; sõda; sõjaromaan
-3,8,10,10,11,8,10,7,7,16,aleksejev; kirjanik; heli; läänerindel; tiit; helme; peeter; film; allik; muutusteta; hemingway; sõda
-3,6,9,10,9,8,8,7,6,16,aleksejev; kirjanik; heli; läänerindel; helme; tiit; peeter; film; allik; muutusteta; hemingway; sõda
+7,11,7,7,3,4,8,3,0,16,film; helme; allik; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+7,10,8,7,3,4,8,5,0,16,film; helme; allik; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+7,10,7,7,3,4,9,5,0,16,film; helme; allik; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+7,9,7,7,3,5,9,6,0,16,film; helme; allik; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+8,8,9,7,2,6,10,6,0,16,film; allik; helme; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+8,8,10,9,5,8,11,6,0,16,film; allik; helme; sõjaromaan; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+3,7,11,8,7,10,7,6,0,16,film; helme; allik; sõjaromaan; tiit; sõda; läänerindel; aleksejev; peeter; kirjanik; heli; hemingway
+3,9,8,9,10,8,9,6,0,16,film; allik; helme; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+3,6,10,10,10,8,11,6,0,16,film; helme; allik; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+3,8,10,10,11,10,7,7,0,16,film; helme; allik; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway
+3,6,9,10,9,8,7,6,0,16,film; helme; allik; tiit; sõda; läänerindel; muutusteta; aleksejev; peeter; kirjanik; heli; hemingway

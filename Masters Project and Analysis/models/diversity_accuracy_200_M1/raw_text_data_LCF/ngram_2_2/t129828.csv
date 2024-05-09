@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,6,5,1,9,9,8,3,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; zoja; tuhkatriinu; kangelane; naiskangelanna; varvara
-7,5,6,5,2,10,10,9,3,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; zoja; tuhkatriinu; kangelane; naiskangelanna; varvara
-7,5,6,5,3,10,10,9,3,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; zoja; tuhkatriinu; kangelane; naiskangelanna; varvara
-7,6,8,5,3,9,10,9,3,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; zoja; tuhkatriinu; kangelane; naiskangelanna; varvara
-7,6,8,5,4,9,9,10,3,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; zoja; tuhkatriinu; kangelane; naiskangelanna; armukolmnurk; varvara
-6,5,10,6,6,9,9,10,4,15,stalin; komandör; kosmodemjanskaja; nõukogude; film; tuhkatriinu; kangelane; zoja; naiskangelanna; armukolmnurk; varvara
-5,6,10,6,7,8,8,8,4,15,stalin; komandör; tuhkatriinu; film; nõukogude; kosmodemjanskaja; zoja; kangelane; naiskangelanna; armukolmnurk; varvara
-3,7,8,5,6,6,8,8,4,15,stalin; komandör; tuhkatriinu; film; nõukogude; zoja; kosmodemjanskaja; kangelane; naiskangelanna; armukolmnurk; varvara
-2,7,9,6,7,8,8,8,6,15,stalin; komandör; tuhkatriinu; film; nõukogude; kangelane; kosmodemjanskaja; zoja; naiskangelanna; armukolmnurk; varvara
-2,6,6,5,5,6,7,8,6,15,naiskangelanna; stalin; komandör; tuhkatriinu; film; nõukogude; kangelane; kosmodemjanskaja; varvara; zoja; armukolmnurk
-1,5,7,6,6,4,8,7,6,15,naiskangelanna; stalin; komandör; tuhkatriinu; nõukogude; kangelane; film; kosmodemjanskaja; zoja; varvara; armukolmnurk
+6,5,6,5,1,9,8,3,0,15,film; komandör; stalin; tuhkatriinu; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+7,5,6,5,2,10,9,3,0,15,film; tuhkatriinu; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+7,5,6,5,3,10,9,3,0,15,film; tuhkatriinu; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+7,6,8,5,3,10,9,3,0,15,film; tuhkatriinu; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+7,6,8,5,4,9,10,3,0,15,film; tuhkatriinu; armukolmnurk; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+6,5,10,6,6,9,10,4,0,15,film; tuhkatriinu; armukolmnurk; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+5,6,10,6,7,8,8,4,0,15,film; tuhkatriinu; armukolmnurk; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+3,7,8,5,6,8,8,4,0,15,film; tuhkatriinu; armukolmnurk; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+2,7,9,6,7,8,8,6,0,15,film; tuhkatriinu; armukolmnurk; komandör; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+2,6,6,5,5,7,8,6,0,15,film; armukolmnurk; komandör; tuhkatriinu; stalin; zoja; nõukogude; varvara; kangelane; kosmodemjanskaja; naiskangelanna
+1,5,7,6,6,8,7,6,0,15,film; armukolmnurk; komandör; tuhkatriinu; stalin; zoja; nõukogude; varvara; kangelane; kosmodemjanskaja; naiskangelanna

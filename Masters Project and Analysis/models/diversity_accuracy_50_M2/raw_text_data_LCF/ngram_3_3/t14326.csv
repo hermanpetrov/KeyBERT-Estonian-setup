@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,5,3,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-4,5,5,5,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-4,5,5,5,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-4,5,6,5,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-4,4,6,5,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-3,5,6,5,0,6,5,5,4,13,kirjanik; nobeli; preemia; istanbul; orhan; türgi; euroopa
-4,6,5,4,0,6,5,5,4,13,islamimaailm; kirjanik; nobeli; preemia; istanbul; türgi; orhan; euroopa
-2,4,4,4,0,6,5,6,4,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; türgi; orhan; euroopa
-1,5,4,2,0,6,6,6,4,13,pamuk; kirjanik; nobeli; preemia; istanbul; türgi; orhan; lumi; euroopa
-1,5,5,5,0,5,6,6,4,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; türgi; orhan; lumi; euroopa
-1,4,4,6,0,4,5,7,3,13,islamimaailm; pamuk; kirjanik; nobeli; preemia; istanbul; türgi; orhan; lumi; euroopa
+4,5,5,3,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+4,5,5,5,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+4,5,5,5,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+4,5,6,5,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+4,4,6,5,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+3,5,6,5,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; euroopa; türgi
+4,6,5,4,0,5,5,4,0,13,istanbul; orhan; kirjanik; preemia; nobeli; islamimaailm; euroopa; türgi
+2,4,4,4,0,5,6,4,0,13,istanbul; orhan; pamuk; kirjanik; preemia; nobeli; islamimaailm; euroopa; türgi
+1,5,4,2,0,6,6,4,0,13,istanbul; orhan; pamuk; kirjanik; preemia; nobeli; lumi; euroopa; türgi
+1,5,5,5,0,6,6,4,0,13,istanbul; orhan; pamuk; kirjanik; preemia; nobeli; islamimaailm; lumi; euroopa; türgi
+1,4,4,6,0,5,7,3,0,13,istanbul; orhan; pamuk; kirjanik; preemia; nobeli; islamimaailm; lumi; euroopa; türgi

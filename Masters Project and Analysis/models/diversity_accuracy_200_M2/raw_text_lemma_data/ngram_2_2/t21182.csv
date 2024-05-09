@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,1,2,3,5,1,3,1,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-3,4,1,2,3,5,1,3,1,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-3,2,2,3,3,5,1,3,2,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-3,2,1,3,3,5,3,2,2,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-2,3,1,3,4,4,3,3,2,13,rütm; oidipus; krull; hasso; jaan; bänd; merilai
-3,3,2,3,4,5,4,5,2,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-2,3,4,6,4,4,3,3,2,13,rütm; oidipus; krull; hasso; bänd; merilai
-1,3,4,3,4,4,8,3,2,13,arne; rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-1,3,8,4,4,4,2,3,1,13,rütm; oidipus; krull; hasso; jaan; pehk; bänd; merilai
-1,2,3,5,4,4,4,3,0,13,rütm; oidipus; krull; hasso; bänd; merilai
-0,2,5,5,4,4,5,2,2,13,arne; rütm; oidipus; krull; hasso; bänd; merilai
+4,6,2,3,3,6,2,4,3,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; polüfoonilisus; rütm; krull
+4,6,2,3,3,6,2,4,3,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; polüfoonilisus; rütm; krull
+4,4,3,4,3,6,2,4,4,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; polüfoonilisus; rütm; krull
+4,4,2,4,3,6,5,3,4,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; arvumaa; polüfoonilisus; rütm; krull
+3,5,1,4,4,5,6,4,4,13,merilai; bänd; luulekogu; hasso; oidipus; jaan; arvumaa; polüfoonilisus; rütm; krull
+4,5,4,4,4,7,5,6,4,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; arne; polüfoonilisus; rütm; krull
+4,3,5,6,4,5,3,3,4,13,merilai; bänd; luulekogu; hasso; oidipus; arvumaa; polüfoonilisus; rütm; krull
+2,3,6,3,4,5,9,3,4,13,merilai; bänd; luulekogu; hasso; pehk; oidipus; jaan; arne; polüfoonilisus; rütm; krull
+2,3,9,4,5,4,2,4,3,13,merilai; bänd; hasso; pehk; polüfoonilisus; oidipus; jaan; luulekogu; rütm; krull
+2,2,4,5,5,4,4,3,2,13,merilai; bänd; hasso; polüfoonilisus; oidipus; luulekogu; rütm; krull
+1,3,6,5,4,4,6,3,4,13,merilai; bänd; hasso; polüfoonilisus; oidipus; arne; luulekogu; rütm; krull

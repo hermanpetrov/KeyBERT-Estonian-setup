@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,10,russow; pulmad
-1,0,0,0,0,0,0,1,0,10,russow; pulmad
-1,0,0,0,0,0,0,1,0,10,russow; pulmad
-1,0,0,0,0,0,0,1,0,10,russow; pulmad
-1,0,0,0,0,0,0,1,0,10,russow; pulmad
-1,0,2,0,0,1,0,1,0,10,russow; liivimaa; sõda; pulmad
+1,0,0,0,0,0,1,0,0,10,pulmad; russow
+1,0,0,0,0,0,1,0,0,10,pulmad; russow
+1,0,0,0,0,0,1,0,0,10,pulmad; russow
+1,0,0,0,0,0,1,0,0,10,pulmad; russow
+1,0,0,0,0,0,1,0,0,10,pulmad; russow
+1,0,2,0,0,0,1,0,0,10,liivimaa; pulmad; sõda; russow
 0,0,1,0,0,0,0,0,0,10,sõda
-0,0,1,1,0,0,0,0,0,10,sõda; pidu
-0,0,0,0,0,1,1,0,0,10,pulmad; pidu
-0,0,1,1,0,1,1,0,0,10,russow; sõda; pulmad; pidu
-1,0,1,1,0,0,1,0,0,10,liivimaa; russow; pulmad
+0,0,1,1,0,0,0,0,0,10,pidu; sõda
+0,0,0,0,0,1,0,0,0,10,pulmad
+0,0,1,1,0,1,0,0,0,10,pulmad; russow; sõda
+1,0,1,1,0,1,0,0,0,10,liivimaa; pulmad; russow

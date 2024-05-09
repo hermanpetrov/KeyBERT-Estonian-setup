@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,9,7,6,1,8,9,8,7,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-9,9,7,6,1,8,9,8,7,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-9,9,8,6,1,7,8,8,6,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-9,9,8,6,1,9,7,7,6,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-9,9,8,7,1,7,7,8,6,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-8,8,8,7,2,9,8,9,6,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-9,7,7,8,6,9,9,7,6,15,suure-jaani; erakond; kirik; mälestuspark; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-7,9,6,7,6,6,10,8,6,15,suure-jaani; erakond; mälestuspark; kirik; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-8,8,6,8,4,6,9,8,6,15,suure-jaani; erakond; mälestuspark; kirik; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-8,7,7,7,4,8,9,7,6,15,suure-jaani; erakond; mälestuspark; kirik; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
-8,8,5,7,7,9,8,8,7,15,suure-jaani; erakond; mälestuspark; kirik; muusikafestival; eelarve; sotsiaaldemokraatlik; liit; tartu; euroopa; lennupäevad
+9,9,7,6,1,9,8,7,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+9,9,7,6,1,9,8,7,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+9,9,8,6,1,8,8,6,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+9,9,8,6,1,7,7,6,0,15,suure-jaani; lennupäevad; sotsiaaldemokraatlik; kirik; eelarve; erakond; mälestuspark; tartu; muusikafestival; euroopa; liit
+9,9,8,7,1,7,8,6,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+8,8,8,7,2,8,9,6,0,15,suure-jaani; lennupäevad; sotsiaaldemokraatlik; kirik; eelarve; erakond; mälestuspark; tartu; muusikafestival; euroopa; liit
+9,7,7,8,6,9,7,6,0,15,suure-jaani; lennupäevad; sotsiaaldemokraatlik; kirik; eelarve; erakond; mälestuspark; tartu; muusikafestival; euroopa; liit
+7,9,6,7,6,10,8,6,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+8,8,6,8,4,9,8,6,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+8,7,7,7,4,9,7,6,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond
+8,8,5,7,7,8,8,7,0,15,suure-jaani; sotsiaaldemokraatlik; eelarve; mälestuspark; tartu; muusikafestival; euroopa; liit; lennupäevad; kirik; erakond

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,1,2,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,0,1,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,0,1,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-4,0,0,0,1,1,0,0,3,11,kirjandus; juured; tallinn; tartu; arrak; rahvatants
-3,0,0,0,1,1,0,2,1,11,jüri; juured; tallinn; tartu; arrak; rahvatants
-2,1,0,0,1,1,1,2,2,11,jüri; kirjandus; juured; tallinn; tartu; arrak
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,1,2,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,0,1,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,0,1,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+4,0,0,0,1,0,0,3,0,11,tallinn; rahvatants; kirjandus; juured; arrak; tartu
+3,0,0,0,1,0,2,1,0,11,rahvatants; jüri; juured; arrak; tartu
+2,1,0,0,1,1,2,2,0,11,tartu; kirjandus; juured; arrak; tallinn; jüri

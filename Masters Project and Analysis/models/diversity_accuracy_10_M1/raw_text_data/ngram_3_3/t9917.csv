@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; aasta; võistlussport; põllumees; köögiviljad
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; aasta; võistlussport; põllumees; köögiviljad
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; aasta; võistlussport; põllumees; köögiviljad
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; aasta; võistlussport; põllumees; köögiviljad
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; aasta; võistlussport; põllumees; köögiviljad
-3,1,1,0,0,1,1,2,1,19,tammsaar; riina; heino; aasta; võistlussport; põllumees
+3,1,1,0,0,1,1,2,1,19,tammsaar; köögiviljad; põllumees; võistlussport; aasta; riina
+3,1,1,0,0,1,1,2,1,19,tammsaar; köögiviljad; põllumees; võistlussport; aasta; riina
+3,1,1,0,0,1,1,2,1,19,tammsaar; köögiviljad; põllumees; võistlussport; aasta; riina
+3,1,1,0,0,1,1,2,1,19,tammsaar; köögiviljad; põllumees; võistlussport; aasta; riina
+3,1,1,0,0,1,1,2,1,19,tammsaar; köögiviljad; põllumees; võistlussport; aasta; riina
+3,1,1,0,0,1,1,2,1,19,tammsaar; põllumees; võistlussport; heino; aasta; riina
 0,1,1,0,0,2,1,2,1,19,heino; aasta; põllumees
 1,2,1,2,0,4,2,2,1,19,lättemäe; laiapea; heino; aasta; põllumees
-2,1,2,0,0,2,2,2,1,19,lättemäe; autoriteet; heino; aasta; sulev; põllumees
-3,0,1,1,0,1,1,1,1,19,tammsaar; riina; eesti; aasta; põllumees
-1,0,1,2,0,1,2,2,1,19,sulev; tammsaar; aasta; autoriteet; põllumees
+2,1,2,0,0,2,2,2,1,19,lättemäe; heino; põllumees; sulev; aasta; autoriteet
+3,0,1,1,0,1,1,1,1,19,tammsaar; põllumees; eesti; aasta; riina
+1,0,1,2,0,1,2,2,1,19,tammsaar; sulev; aasta; põllumees; autoriteet

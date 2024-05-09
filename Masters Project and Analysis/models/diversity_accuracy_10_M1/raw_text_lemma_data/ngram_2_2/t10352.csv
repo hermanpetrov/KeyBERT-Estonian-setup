@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,1,2,1,1,13,toomas; rahu; kliima; paul
-0,1,1,1,0,1,2,1,1,13,toomas; rahu; kliima; paul
-0,1,1,1,0,1,2,1,0,13,toomas; kliima; paul
-0,1,1,1,0,1,2,1,0,13,toomas; kliima; paul
-0,1,1,1,0,1,2,1,0,13,toomas; kliima; paul
-0,1,1,1,0,1,2,1,0,13,toomas; kliima; paul
-0,1,2,2,0,0,1,1,0,13,kliima; paul; kari; toomas
-0,1,0,0,0,0,1,1,0,13,kliima; paul
+0,1,1,1,0,2,3,1,1,13,usuteadus; rahu; kliima; paul; toomas
+0,1,1,1,0,2,3,1,1,13,usuteadus; rahu; kliima; paul; toomas
+0,1,1,1,0,2,3,1,0,13,usuteadus; kliima; paul; toomas
+0,1,1,1,0,2,3,1,0,13,usuteadus; kliima; paul; toomas
+0,1,1,1,0,2,3,1,0,13,usuteadus; kliima; paul; toomas
+0,1,1,1,0,2,3,1,0,13,usuteadus; kliima; paul; toomas
+0,1,2,2,0,0,2,3,0,13,kari; usuteadus; inimloomus; kliima; paul; toomas
+0,1,0,0,0,1,2,1,0,13,usuteadus; paul; kliima
 1,1,2,0,0,0,1,1,0,13,kliima; paul; sõda; toomas
-1,1,2,0,0,0,1,0,0,13,kliima; paul; sõda; toomas
-2,1,0,0,0,0,1,0,0,13,sõda; kliima; paul
+1,1,3,0,0,0,1,1,0,13,usuteadus; toomas; kliima; paul; sõda
+2,1,0,0,0,0,2,1,0,13,usuteadus; kliima; paul; sõda

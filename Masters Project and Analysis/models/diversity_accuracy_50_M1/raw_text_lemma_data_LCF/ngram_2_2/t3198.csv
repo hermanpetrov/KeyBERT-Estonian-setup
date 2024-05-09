@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,3,1,1,2,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-3,0,3,1,1,2,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-3,0,3,1,1,2,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-3,0,3,1,1,2,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-3,0,3,1,1,2,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-2,0,3,1,1,3,1,3,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-0,0,2,3,1,3,1,2,0,14,parts; koalitsioon; aktsia; mälberg
-2,0,3,1,1,4,1,1,0,14,parts; koalitsioon; aktsia; mälberg; juhan; mall
-2,2,4,0,1,1,1,2,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-2,0,4,3,1,2,1,4,0,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-0,0,3,1,1,2,3,3,0,14,mall; parts; koalitsioon; aktsia; mälberg; juhan
+8,1,4,3,1,2,1,3,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+8,1,4,3,1,2,1,3,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+8,1,4,3,1,2,1,3,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+8,1,4,3,1,2,1,3,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+8,1,4,3,1,2,1,4,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+6,1,4,3,1,3,1,5,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; mall; juhan; harry; läbirääkimine; aktsia; koalitsioon
+1,1,3,6,1,5,2,4,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; välisminister; aktsia; koalitsioon
+2,1,4,3,1,5,2,3,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; mall; välisminister; juhan; aktsia; koalitsioon
+2,4,4,3,1,3,4,5,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; enesetapuplahvatus; mall; välisminister; juhan; harry; läbirääkimine; aktsia; koalitsioon
+2,3,4,5,1,2,3,6,1,14,võimuvõitlus; hansapank; parts; liivrand; tuumarelv; mälberg; harry; mall; välisminister; juhan; aktsia; koalitsioon
+0,3,3,2,1,2,6,6,1,14,võimuvõitlus; hansapank; parts; tuumarelv; mälberg; enesetapuplahvatus; välisminister; mall; juhan; aktsia; koalitsioon

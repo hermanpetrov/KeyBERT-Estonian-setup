@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-11,7,6,7,4,5,4,4,5,16,šotimaa; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; edward
-9,7,6,8,4,5,4,5,7,16,šotimaa; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-9,7,6,8,5,7,4,5,7,16,šotimaa; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-8,5,6,7,6,7,5,6,6,16,šotimaa; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-6,7,6,9,6,5,5,7,6,16,šotimaa; mereriik; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-6,5,5,10,9,5,4,10,7,16,šotimaa; mereriik; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-2,2,7,10,9,5,4,10,8,16,šotimaa; mereriik; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; edward
-6,6,8,10,11,5,6,7,8,16,šotimaa; mereriik; mägismaa; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; edward
-3,5,7,10,9,4,6,7,9,16,šotimaa; mereriik; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-2,5,6,10,10,5,7,7,9,16,šotimaa; mereriik; bob; kolmas; dylan; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
-2,4,7,10,10,7,5,8,8,16,šotimaa; mereriik; bob; dylan; kolmas; henry; esimene; robert; edinburgh; loss; elizabeth; sõda; edward
+11,7,6,7,4,4,4,5,0,16,elizabeth; robert; mägismaa; edward; edinburgh; dylan; šotimaa; loss; esimene; kolmas; bob; henry
+9,7,6,8,4,4,5,7,0,16,elizabeth; robert; mägismaa; edward; edinburgh; sõda; šotimaa; dylan; loss; esimene; kolmas; bob; henry
+9,7,6,8,5,4,5,7,0,16,elizabeth; robert; mägismaa; edward; edinburgh; sõda; šotimaa; dylan; loss; esimene; kolmas; bob; henry
+8,5,6,7,6,5,6,6,0,16,elizabeth; robert; mägismaa; edward; edinburgh; sõda; šotimaa; dylan; loss; esimene; kolmas; bob; henry
+6,7,6,9,6,5,7,6,0,16,elizabeth; robert; mägismaa; edinburgh; edward; sõda; šotimaa; dylan; loss; esimene; mereriik; kolmas; bob; henry
+6,5,5,10,9,4,10,7,0,16,elizabeth; robert; mägismaa; edinburgh; edward; dylan; šotimaa; sõda; loss; esimene; mereriik; kolmas; bob; henry
+2,2,7,10,9,4,10,8,0,16,elizabeth; robert; edward; edinburgh; dylan; šotimaa; loss; esimene; mereriik; kolmas; bob; henry
+6,6,8,10,11,6,7,8,0,16,elizabeth; mägismaa; robert; edward; edinburgh; dylan; šotimaa; esimene; loss; mereriik; kolmas; bob; henry
+3,5,7,10,9,6,7,9,0,16,elizabeth; robert; edward; edinburgh; sõda; šotimaa; dylan; esimene; loss; mereriik; kolmas; bob; henry
+2,5,6,10,10,7,7,9,0,16,elizabeth; robert; edward; edinburgh; dylan; šotimaa; sõda; esimene; loss; mereriik; kolmas; bob; henry
+2,4,7,10,10,5,8,8,0,16,elizabeth; robert; edward; edinburgh; sõda; šotimaa; dylan; esimene; loss; mereriik; kolmas; bob; henry

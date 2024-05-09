@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,2,1,0,3,3,0,0,16,paavo; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,1,0,3,3,0,0,16,paavo; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,1,0,3,3,0,0,16,paavo; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,1,0,3,3,0,0,16,paavo; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,1,0,3,3,0,0,16,paavo; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,1,1,0,4,3,0,0,16,paavo; kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,2,2,2,0,2,4,0,0,16,kontsert; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; helsingi
-1,0,2,0,0,3,4,3,0,16,kontsert; eesti; läänemere; sümfooniaorkester; akustika; helsingi
-0,0,2,0,0,2,1,2,0,16,sümfooniaorkester; akustika; eesti; helsingi
-0,0,2,2,0,2,1,0,1,16,sümfooniaorkester; järvi; festival; eesti; akustika; läänemere; helsingi
-0,2,2,1,0,2,1,0,2,16,sümfooniaorkester; festival; akustika; eesti; läänemere; helsingi
+0,3,2,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,3,2,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,3,2,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,3,2,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,3,2,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,3,1,1,0,3,0,0,0,16,eesti; helsingi; paavo; akustika; sümfooniaorkester; kontserdisaal
+0,2,2,2,0,4,0,0,0,16,eesti; helsingi; sümfooniaorkester; kontserdisaal; akustika; läänemere; kontsert
+1,0,2,0,0,4,3,0,0,16,eesti; helsingi; akustika; läänemere; kontsert
+0,0,2,0,0,1,2,0,0,16,eesti; helsingi; akustika
+0,0,2,2,0,1,0,1,0,16,helsingi; akustika; järvi; sümfooniaorkester; läänemere; festival
+0,2,2,1,0,1,0,2,0,16,eesti; helsingi; akustika; läänemere; sümfooniaorkester; festival

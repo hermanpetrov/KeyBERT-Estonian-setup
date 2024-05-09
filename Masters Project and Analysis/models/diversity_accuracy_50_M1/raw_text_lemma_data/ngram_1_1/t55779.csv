@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,1,2,3,2,1,14,uskumus; folklor; püha; rituaalne
-0,0,3,0,1,2,3,2,1,14,uskumus; folklor; püha; rituaalne
-0,0,3,0,1,2,3,2,1,14,uskumus; folklor; püha; rituaalne
-0,0,3,0,1,2,3,1,1,14,uskumus; folklor; püha; rituaalne
-0,0,1,0,1,2,3,1,1,14,uskumus; folklor; püha; rituaalne
-0,0,0,0,1,1,3,1,1,14,uskumus; folklor; püha; rituaalne
-0,0,0,0,1,2,3,1,1,14,uskumus; folklor; püha; sümbol
-0,0,0,1,0,1,2,1,1,14,uskumus; folklor; püha; sümbol
-0,0,1,1,0,1,2,0,1,14,kinkimine; uskumus; püha; sümbol
-0,0,0,1,0,1,1,0,0,14,kinkimine; püha; sümbol
-0,0,0,0,0,1,1,0,0,14,püha; sümbol
+1,0,4,0,1,2,5,3,1,14,folklor; püha; uskumus; rituaalne; viljakusjumalus; nelipüha
+1,0,4,0,1,2,5,3,1,14,folklor; püha; uskumus; rituaalne; viljakusjumalus; nelipüha
+1,0,4,0,1,2,5,3,1,14,folklor; püha; uskumus; rituaalne; viljakusjumalus; nelipüha
+1,0,3,0,1,2,5,2,1,14,folklor; püha; uskumus; rituaalne; viljakusjumalus; nelipüha
+1,0,1,0,1,2,5,2,1,14,folklor; püha; uskumus; rituaalne; viljakusjumalus; nelipüha
+1,0,1,0,1,2,5,2,1,14,folklor; püha; kõivupuu; uskumus; rituaalne; viljakusjumalus; nelipüha
+0,0,1,0,1,2,4,2,1,14,viljakusjumalus; folklor; püha; sümbol; kõivupuu; uskumus; nelipüha
+0,0,0,1,0,1,3,1,1,14,viljakusjumalus; folklor; püha; sümbol; uskumus
+0,1,1,1,0,1,3,0,1,14,viljakusjumalus; püha; sümbol; uskumus; kinkimine; esivanem
+1,1,0,1,0,1,1,1,0,14,püha; sümbol; kõivupuu; juustuveeretamine; kinkimine; esivanem
+1,0,0,0,0,1,1,0,0,14,kõivupuu; püha; sümbol

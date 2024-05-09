@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,4,0,2,4,4,2,1,13,esimene; luksuslik; pariis; françois; loss; napoleon; kuningas
-1,1,3,0,2,4,4,2,1,13,esimene; luksuslik; pariis; françois; loss; napoleon; kuningas
-1,1,3,0,2,3,4,2,1,13,esimene; luksuslik; pariis; françois; loss; napoleon; kuningas
-0,1,2,0,3,3,4,1,1,13,esimene; luksuslik; pariis; françois; loss; napoleon; kuningas
-0,1,1,0,3,2,2,1,1,13,françois; loss; napoleon; esimene; kuningas; pariis
-0,1,1,0,3,3,2,2,1,13,françois; loss; napoleon; esimene; luksuslik; kuningas; pariis
-0,1,1,2,3,1,1,1,3,13,esimene; pariis; françois; renessanss; loss; napoleon; kuningas
-1,1,1,3,1,1,3,3,1,13,renessanss; loss; napoleon; mürk; kuningas; pariis
-0,2,1,2,1,1,2,2,1,13,françois; renessanss; loss; napoleon; mürk; kuningas; pariis
-0,1,1,2,1,1,3,3,0,13,renessanss; loss; napoleon; mürk; kuningas; pariis
-0,1,1,3,1,3,3,4,0,13,mürk; pariis; françois; renessanss; loss; napoleon; kuningas
+1,1,4,0,2,4,4,2,1,13,pariis; kuningas; napoleon; françois; luksuslik; loss; esimene
+1,1,3,0,2,4,4,2,1,13,pariis; kuningas; napoleon; françois; luksuslik; loss; esimene
+1,1,3,0,2,3,4,2,1,13,pariis; kuningas; napoleon; françois; luksuslik; loss; esimene
+0,1,2,0,3,3,4,1,1,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene
+0,1,1,0,3,2,2,1,1,13,napoleon; kuningas; loss; esimene; pariis; françois
+0,1,1,0,3,3,2,2,1,13,napoleon; kuningas; loss; esimene; pariis; françois; luksuslik
+0,1,1,2,3,1,1,1,3,13,napoleon; kuningas; pariis; françois; loss; esimene; renessanss
+1,1,1,3,1,1,3,3,1,13,napoleon; kuningas; loss; mürk; pariis; renessanss
+0,2,1,2,1,1,2,2,1,13,loss; napoleon; kuningas; mürk; pariis; françois; renessanss
+0,1,1,2,1,1,3,3,0,13,loss; napoleon; kuningas; mürk; pariis; renessanss
+0,1,1,3,1,3,3,4,0,13,napoleon; kuningas; mürk; pariis; françois; loss; renessanss

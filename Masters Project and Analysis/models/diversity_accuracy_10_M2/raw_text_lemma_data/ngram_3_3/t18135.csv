@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-3,3,2,2,1,2,2,3,2,16,kuusik; ivo; wagner; ballett; estonia; teater; ooper
-1,3,2,2,1,3,5,3,2,16,kuusik; ivo; wagner; eino; estonia; teater; tamberg; ooper
-1,3,3,2,0,4,4,5,2,16,ivo; wagner; ballett; estonia; itaalia; teater; kuusk; tamberg; keel; ooper
-2,1,4,2,0,3,3,4,2,16,kuusik; ivo; mai; ballett; estonia; itaalia; teater; tamberg; ooper
-1,1,3,3,0,4,4,1,2,16,ivo; wagner; estonia; ballett; itaalia; teater; ooper
-0,0,1,1,0,4,3,2,2,16,itaalia; estonia; tamberg; teater; ooper
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+3,3,2,2,1,2,2,3,2,16,ivo; wagner; ballett; ooper; kuusik; teater; estonia
+1,3,2,2,1,3,5,3,2,16,ivo; wagner; tamberg; eino; ooper; kuusik; teater; estonia
+1,3,3,2,0,4,4,5,2,16,wagner; tamberg; ballett; kuusk; estonia; itaalia; keel; ooper; teater; ivo
+2,1,4,2,0,3,3,4,2,16,ivo; tamberg; ballett; itaalia; mai; ooper; kuusik; teater; estonia
+1,1,3,3,0,4,4,1,2,16,ivo; wagner; ballett; itaalia; ooper; teater; estonia
+0,0,1,1,0,4,3,2,2,16,itaalia; tamberg; ooper; teater; estonia

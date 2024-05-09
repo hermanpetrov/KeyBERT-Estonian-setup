@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-2,2,0,0,1,1,0,1,0,13,françois; loss; napoleon; esimene; pariis
-1,2,1,0,1,0,1,1,0,13,françois; loss; esimene; pariis
-1,2,1,1,1,2,0,1,0,13,françois; renessanss; loss; napoleon; esimene; pariis
-0,2,0,1,1,1,0,0,0,13,françois; loss; napoleon; esimene
-1,1,0,0,1,0,0,0,0,13,esimene; loss; kuningas
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+2,2,0,0,1,1,0,1,0,13,loss; napoleon; esimene; pariis; françois
+1,2,1,0,1,0,1,1,0,13,pariis; loss; esimene; françois
+1,2,1,1,1,2,0,1,0,13,loss; napoleon; esimene; pariis; françois; renessanss
+0,2,0,1,1,1,0,0,0,13,loss; esimene; napoleon; françois
+1,1,0,0,1,0,0,0,0,13,loss; esimene; kuningas
 0,0,1,0,1,0,0,0,0,13,loss; kuningas

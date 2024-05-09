@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,3,0,0,0,1,16,loss; bob; koloonia; esimene; edward
-0,1,1,0,3,0,0,0,1,16,loss; bob; koloonia; esimene; edward
-0,1,1,0,3,0,0,0,1,16,loss; bob; koloonia; esimene; edward
-0,1,1,0,3,0,0,0,2,16,loss; bob; koloonia; sõda; esimene; edward
-0,1,1,0,3,0,0,0,2,16,loss; bob; koloonia; sõda; esimene; edward
-0,1,1,0,3,0,0,0,2,16,loss; bob; koloonia; sõda; esimene; edward
-0,1,0,0,3,0,0,0,2,16,loss; bob; esimene; sõda; edward
-0,2,2,1,3,0,0,1,3,16,kolmas; henry; loss; bob; koloonia; elizabeth; sõda; edward
-0,1,0,1,2,0,1,1,3,16,kolmas; henry; loss; koloonia; elizabeth; sõda; robert; edward
-0,0,0,1,2,1,2,1,2,16,henry; loss; bob; koloonia; kolmas; edward
-0,1,0,1,2,1,1,0,1,16,loss; esimene; kolmas; robert; edward
+0,2,1,1,3,1,1,1,1,16,koloonia; mereriik; loss; mägismaa; esimene; edward; bob
+0,2,1,1,3,1,1,1,1,16,koloonia; mereriik; loss; mägismaa; esimene; edward; bob
+0,2,1,1,3,1,1,1,1,16,koloonia; mereriik; loss; mägismaa; esimene; edward; bob
+0,2,1,1,3,1,1,1,2,16,koloonia; mereriik; loss; mägismaa; esimene; edward; bob; sõda
+0,2,1,1,3,1,0,1,2,16,koloonia; mereriik; loss; mägismaa; esimene; edward; bob; sõda
+0,2,1,1,3,2,0,1,2,16,mereriik; mägismaa; edward; bob; sõda; koloonia; kaljukindlus; loss; esimene
+1,2,0,1,3,1,0,1,2,16,mereriik; loss; mägismaa; esimene; edward; bob; sõda
+0,3,2,2,3,0,1,1,3,16,elizabeth; mägismaa; edward; kolmas; bob; sõda; kaljukindlus; koloonia; loss; henry
+0,2,0,1,2,1,2,1,3,16,elizabeth; mägismaa; robert; edward; kolmas; sõda; koloonia; loss; henry
+1,1,0,1,2,1,2,1,2,16,mägismaa; edward; kolmas; bob; kaljukindlus; koloonia; loss; henry
+1,2,0,1,2,1,2,0,1,16,kaljukindlus; mereriik; edward; esimene; mägismaa; robert; loss; kolmas

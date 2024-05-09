@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,1,1,1,0,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,1,1,1,0,1,1,11,sportlane; jooksma; plaat; aeg
-0,1,2,0,1,1,0,0,1,11,sportlane; jooksma; plaat; aeg
-0,1,0,1,1,1,2,0,1,11,stuudio; sportlane; jooksma; aeg
-0,1,0,2,1,2,3,0,1,11,stuudio; sportlane; korrus; jooksma; aeg
-0,1,1,2,2,2,3,0,1,11,stuudio; sportlane; korrus; jooksma; plaat; aeg
+2,2,3,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,3,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,3,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,3,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,3,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,2,4,1,0,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,4,4,1,1,1,2,1,11,seljakott; plaat; aeg; raadiomaja; tuletõrje; sportlane; jooksma
+2,2,4,3,1,1,1,1,1,11,seljakott; tuletõrje; jooksma; plaat; aeg; raadiomaja; sportlane
+2,2,2,3,1,1,3,0,1,11,seljakott; aeg; raadiomaja; tuletõrje; sportlane; jooksma; stuudio
+2,2,1,3,1,2,4,0,1,11,seljakott; aeg; raadiomaja; tuletõrje; korrus; sportlane; jooksma; stuudio
+2,2,2,3,2,2,4,0,1,11,seljakott; aeg; plaat; raadiomaja; tuletõrje; sportlane; korrus; jooksma; stuudio

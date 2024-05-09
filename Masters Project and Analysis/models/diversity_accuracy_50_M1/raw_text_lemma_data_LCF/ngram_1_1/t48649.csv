@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,1,1,12,jooks; sport; madis; trepp
-0,1,1,1,0,1,1,0,1,12,trepp; sport; madis
-0,1,1,1,0,0,2,0,1,12,varustus; sport; madis; trepp
-0,1,1,1,0,0,2,0,1,12,varustus; sport; madis; trepp
-0,1,1,2,0,1,1,0,1,12,varustus; sport; madis; korrus; trepp
-0,1,1,3,0,1,1,0,2,12,jooks; varustus; sport; madis; korrus; trepp
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,1,3,0,1,2,1,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp; jooks
+1,2,2,3,0,1,2,0,1,12,seljakott; sangpomm; madis; sport; tuletõrje; trepp
+1,2,2,3,0,0,3,0,1,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; trepp
+1,2,2,3,0,0,3,0,1,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; trepp
+1,2,2,3,0,1,2,0,1,12,seljakott; sangpomm; madis; varustus; korrus; tuletõrje; sport; trepp
+1,2,2,4,0,1,2,0,2,12,seljakott; sangpomm; madis; varustus; korrus; tuletõrje; jooks; sport; trepp

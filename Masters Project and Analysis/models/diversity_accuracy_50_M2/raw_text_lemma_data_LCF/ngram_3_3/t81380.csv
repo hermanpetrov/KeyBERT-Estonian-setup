@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,5,6,2,5,6,7,1,18,disainer; paju; pelis; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
-2,5,5,6,2,5,6,7,1,18,disainer; paju; pelis; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
-2,5,5,6,2,5,6,7,1,18,disainer; paju; pelis; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
-2,5,5,6,2,5,6,7,1,18,disainer; paju; pelis; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
-3,5,6,6,2,5,6,9,1,18,performance; mood; kollektsioon; pelis; disainer; paju; moeetendus; anatoomikum; tants; lavastaja; kõrgem
-3,5,4,6,2,6,3,7,1,18,disainer; paju; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon; kõrgem
-6,5,4,5,2,6,5,8,1,18,disainer; paju; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja; kõrgem
-4,4,3,5,2,6,6,7,1,18,disainer; paju; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon
-6,1,2,5,3,5,6,5,1,18,disainer; paju; pelis; moeetendus; lavastaja; anatoomikum; performance; mood; tants; kollektsioon
-4,4,3,5,3,5,5,5,1,18,disainer; paju; tants; moeetendus; lavastaja; anatoomikum; performance; mood; kollektsioon; pelis
-3,4,3,6,5,4,4,4,1,18,disainer; paju; pelis; tants; moeetendus; anatoomikum; performance; mood; kollektsioon; lavastaja
+2,5,5,7,2,5,6,7,1,18,moeetendus; pelis; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+2,5,5,7,2,5,6,7,1,18,moeetendus; pelis; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+2,5,5,7,2,5,6,7,1,18,moeetendus; pelis; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+2,5,5,7,2,5,6,7,1,18,moeetendus; pelis; disainer; performance; kollektsioon; mood; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+3,5,6,7,2,5,6,9,1,18,pelis; performance; kunstikool; anatoomikum; tants; moeetendus; kollektsioon; disainer; mood; lavastaja; kõrgem; paju
+3,5,5,7,2,6,3,7,1,18,moeetendus; kollektsioon; disainer; performance; mood; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+8,5,5,5,2,6,5,8,1,18,performance; kunstikool; anatoomikum; tants; seenemaa; moeetendus; kollektsioon; disainer; mood; lavastaja; kõrgem; paju
+4,4,3,5,2,6,6,8,1,18,moeetendus; kollektsioon; disainer; performance; mood; lavastaja; kunstikool; anatoomikum; paju; tants
+6,1,2,5,3,6,6,6,1,18,seenemaa; moeetendus; pelis; disainer; kollektsioon; performance; mood; lavastaja; kunstikool; anatoomikum; paju; tants
+4,5,4,5,3,5,5,6,1,18,moeetendus; pelis; disainer; kollektsioon; performance; mood; lavastaja; kunstikool; anatoomikum; paju; tants
+3,5,3,6,5,4,4,4,1,18,moeetendus; pelis; kollektsioon; performance; disainer; mood; lavastaja; kunstikool; anatoomikum; paju; tants

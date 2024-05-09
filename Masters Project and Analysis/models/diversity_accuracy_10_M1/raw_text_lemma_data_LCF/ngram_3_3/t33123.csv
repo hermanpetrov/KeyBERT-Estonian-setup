@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,0,1,1,1,1,14,keel; hajumine; inglise
-1,1,2,0,0,1,1,1,1,14,keel; hajumine; inglise
-1,1,2,0,0,1,1,1,1,14,keel; hajumine; inglise
-1,1,2,0,0,1,1,1,1,14,keel; hajumine; inglise
-1,1,2,0,0,1,1,1,1,14,keel; hajumine; inglise
-1,1,3,0,0,1,1,1,1,14,inglise; keel; hajumine; kerge
-2,1,5,0,0,2,1,1,1,14,krista; kerge; inglise; keel; hajumine
-0,2,3,1,0,3,1,1,1,14,krista; inglise; keel; hajumine
-1,2,3,2,0,2,2,1,2,14,krista; inglise; keel; hajumine; kerge
-0,1,2,1,0,2,3,2,1,14,krista; inglise; keel; hajumine; kerge
-0,1,2,0,0,2,2,2,2,14,krista; inglise; keel; hajumine; tõlgendus
+2,3,2,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; koolikeel; keelekorraldus; hajumine; fikseerimine
+2,3,2,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; koolikeel; keelekorraldus; hajumine; fikseerimine
+2,3,2,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; koolikeel; keelekorraldus; hajumine; fikseerimine
+2,3,2,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; koolikeel; keelekorraldus; hajumine; fikseerimine
+2,3,2,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; koolikeel; keelekorraldus; hajumine; fikseerimine
+2,2,3,0,0,2,1,2,1,14,rakenduslingvistika; inglise; keel; kerge; koolikeel; keelekorraldus; hajumine
+2,2,6,0,0,3,1,2,1,14,rakenduslingvistika; kerge; hajumine; inglise; keel; koolikeel; keelekorraldus; krista
+0,3,4,1,0,4,1,2,1,14,rakenduslingvistika; hajumine; inglise; keel; koolikeel; krista
+1,2,3,3,0,3,3,2,2,14,rakenduslingvistika; kerge; hajumine; inglise; keel; keelekorraldus; krista
+0,1,2,2,0,3,3,3,1,14,rakenduslingvistika; inglise; keel; kerge; krista; hajumine
+0,1,2,1,0,4,4,3,2,14,rakenduslingvistika; tõlgendus; noortekeel; hajumine; inglise; keel; keelekorraldus; krista

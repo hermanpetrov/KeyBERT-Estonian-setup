@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,0,1,2,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,1,0,0,0,1,2,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,1,0,0,0,1,2,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,1,0,0,0,1,2,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,1,0,0,0,1,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,1,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,2,1,1,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,2,0,0,1,1,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,1,2,0,0,1,1,2,1,11,orkester; perekond; estonia; näitleja
-0,1,2,1,0,1,1,1,0,11,orkester; perekond; viiul; näitleja
-1,0,1,1,0,1,1,1,1,11,teater; viiul; perekond; estonia
+0,2,1,0,0,1,4,4,1,11,lilleäri; viiul; näitleja; lapsepõlv; perekond; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,4,4,1,11,lilleäri; viiul; näitleja; lapsepõlv; perekond; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,4,4,1,11,lilleäri; viiul; näitleja; lapsepõlv; perekond; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,4,4,1,11,lilleäri; viiul; näitleja; lapsepõlv; perekond; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,4,4,1,11,proovitöö; lilleäri; perekond; näitleja; lapsepõlv; estonia; kuuskemaa; teater; orkester
+0,2,2,0,0,1,5,3,1,11,proovitöö; lilleäri; laulukoor; näitleja; perekond; lapsepõlv; estonia; kuuskemaa; teater; orkester
+0,2,2,0,0,4,2,4,1,11,proovitöö; lilleäri; viiul; näitleja; perekond; lapsepõlv; estonia; kuuskemaa; teater; orkester
+0,2,4,1,0,2,2,3,1,11,proovitöö; lilleäri; laulukoor; perekond; näitleja; lapsepõlv; estonia; teater; orkester
+0,1,4,1,0,2,1,4,1,11,proovitöö; lilleäri; perekond; lapsepõlv; laulukoor; näitleja; estonia; kuuskemaa; orkester
+0,1,2,2,0,2,1,1,0,11,laulukoor; lapsepõlv; viiul; perekond; näitleja; orkester
+1,0,2,2,0,2,1,3,1,11,proovitöö; viiul; lapsepõlv; perekond; laulukoor; kuuskemaa; teater; estonia

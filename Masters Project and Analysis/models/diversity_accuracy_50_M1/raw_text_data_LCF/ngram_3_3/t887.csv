@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,6,4,5,5,4,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,4,6,4,5,5,4,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,4,6,4,5,5,4,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,4,6,4,5,5,4,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,5,7,4,5,5,4,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,5,7,4,5,3,2,8,2,12,eesti; šokolaad; raadio; lugu; album; inglise; plaat; queen; ansambel
-6,4,6,4,5,4,4,8,2,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-5,4,6,5,5,5,2,6,2,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-4,4,4,6,5,5,4,7,2,12,stuudio; eesti; šokolaad; raadio; inglise; lugu; album; ansambel; queen
-6,3,6,4,6,6,3,5,2,12,stuudio; eesti; šokolaad; raadio; lugu; album; inglise; queen; ansambel
-6,4,5,2,6,6,4,5,2,12,stuudio; queen; eesti; šokolaad; raadio; inglise; lugu; ansambel; plaat; album
+6,4,6,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,4,6,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,4,6,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,4,6,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,5,7,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,5,7,4,5,2,8,2,0,12,plaat; eesti; raadio; inglise; ansambel; album; šokolaad; lugu; queen
+6,4,6,4,5,4,8,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; stuudio; lugu; queen
+5,4,6,5,5,2,6,2,0,12,eesti; raadio; inglise; ansambel; šokolaad; stuudio; lugu; queen
+4,4,4,6,5,4,7,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; stuudio; lugu; queen
+6,3,6,4,6,3,5,2,0,12,eesti; raadio; inglise; ansambel; album; šokolaad; stuudio; lugu; queen
+6,4,5,2,6,4,5,2,0,12,eesti; raadio; ansambel; inglise; album; šokolaad; stuudio; lugu; queen

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,5,1,0,1,3,5,2,14,kunst; salajane; aed; elken; maa; näitus
-1,4,5,1,0,1,3,5,2,14,kunst; salajane; aed; elken; maa; näitus
-1,4,5,1,0,1,3,5,2,14,kunst; salajane; aed; elken; maa; näitus
-1,3,5,1,0,1,3,5,2,14,kunst; salajane; aed; elken; maa; näitus
-1,4,5,1,0,1,3,5,2,14,kunst; salajane; aed; elken; sotsia; maa; näitus
-1,4,6,2,0,1,3,7,2,14,kunst; salajane; aed; elken; sotsia; maa; jaan; näitus; akvarell
-2,3,5,3,0,2,3,6,2,14,kunst; salajane; aed; elken; sotsia; maa; jaan; näitus; akvarell
-4,1,1,3,1,2,2,6,1,14,kunst; salajane; aed; elken; sotsia; maa; näitus; akvarell
-6,0,1,4,0,2,4,7,1,14,kunst; ränder; salajane; aed; elken; sotsia; maa; jaan; näitus; akvarell
-5,2,4,2,0,4,3,6,1,14,kunst; ränder; salajane; aed; elken; sotsia; maa; jaan; näitus; akvarell
-3,2,3,3,1,5,6,4,2,14,kunst; ränder; salajane; aed; elken; sotsia; maa; jaan; näitus
+1,4,5,2,0,1,3,5,2,14,infotankist; aed; elken; kunst; näitus; salajane; maa
+1,4,5,2,0,1,3,5,2,14,infotankist; aed; elken; kunst; näitus; salajane; maa
+1,4,5,2,0,1,3,5,2,14,infotankist; aed; elken; kunst; näitus; salajane; maa
+1,3,5,2,0,1,3,5,2,14,infotankist; aed; elken; kunst; näitus; salajane; maa
+1,4,5,2,0,1,3,5,2,14,infotankist; sotsia; aed; elken; kunst; näitus; salajane; maa
+1,4,6,3,0,2,3,7,2,14,infotankist; akvarell; sotsia; aed; elken; jaan; kunst; näitus; salajane; maa
+2,4,5,3,0,3,4,7,2,14,infotankist; akvarell; sotsia; aed; elken; jaan; kunst; biotehnoloogia; näitus; salajane; maa
+6,2,1,3,1,2,3,7,1,14,infotankist; akvarell; sotsia; aed; elken; kunst; biotehnoloogia; näitus; salajane; maa
+6,1,1,5,0,2,5,8,1,14,akvarell; sotsia; elken; kunst; biotehnoloogia; näitus; salajane; infotankist; aed; jaan; ränder; maa
+5,3,5,4,0,4,4,7,2,14,infotankist; akvarell; sotsia; aed; elken; jaan; kunst; ränder; biotehnoloogia; näitus; salajane; maa
+3,3,4,5,1,6,7,5,2,14,infotankist; sotsia; aed; elken; jaan; kunst; ränder; biotehnoloogia; näitus; salajane; maa

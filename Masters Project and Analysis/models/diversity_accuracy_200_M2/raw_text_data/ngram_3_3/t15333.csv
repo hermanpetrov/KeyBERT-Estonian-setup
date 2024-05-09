@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,5,7,2,5,4,5,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided
-8,7,6,7,3,5,4,5,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided
-8,7,5,7,3,5,4,5,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided
-7,7,5,6,3,5,4,6,5,13,hiiu; hiidlane; meri; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided
-9,7,5,6,3,5,5,6,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided
-8,7,5,5,3,7,5,6,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; nõelakoda; kirjandus; ain; hiiumaa; rahvariided
-6,5,6,8,4,6,4,6,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; nõelakoda; kirjandus; ain; hiiumaa; rahvariided
-5,4,7,7,4,2,3,7,5,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; nõelakoda; kirjandus; ain; hiiumaa; rahvariided
-6,4,8,8,6,4,6,5,4,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; ain; hiiumaa; rahvariided; kalmus
-6,3,6,9,5,8,6,4,4,13,hiidlane; meri; hiiumaa; kirjandus; ain; nõelakoda; kalmus; hiiu; kärdla; purjetamine; tants; rahvariided
-6,3,6,9,7,5,5,5,6,13,hiiu; hiidlane; meri; tants; kärdla; purjetamine; kirjandus; nõelakoda; hiiumaa; rahvariided; kalmus
+8,8,5,7,2,5,4,5,5,13,hiiumaa; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+8,7,6,7,3,5,4,5,5,13,hiiumaa; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+8,7,5,7,3,5,4,5,5,13,hiiumaa; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+7,7,5,6,3,5,4,6,5,13,hiiumaa; meri; hiiu; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+9,7,5,6,3,5,5,6,5,13,hiiumaa; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+8,7,5,5,3,7,5,6,5,13,hiiumaa; nõelakoda; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+6,5,6,8,4,6,4,6,5,13,hiiumaa; nõelakoda; meri; kärdla; hiiu; ain; rahvariided; purjetamine; kirjandus; hiidlane; tants
+5,4,7,7,4,2,3,7,5,13,hiiumaa; nõelakoda; meri; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+6,4,8,8,6,4,6,5,4,13,hiiumaa; meri; kalmus; hiiu; tants; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+6,3,6,9,5,8,6,4,4,13,meri; kalmus; ain; rahvariided; purjetamine; kirjandus; hiidlane; kärdla; hiiumaa; nõelakoda; tants; hiiu
+6,3,6,9,7,5,5,5,6,13,hiiumaa; nõelakoda; meri; kalmus; kärdla; hiiu; rahvariided; purjetamine; kirjandus; hiidlane; tants

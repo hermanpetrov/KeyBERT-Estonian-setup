@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,3,3,1,2,1,0,15,draama; muusikaline; vain; tants; birma
-3,1,2,3,3,1,2,1,0,15,draama; muusikaline; vain; tants; birma
-3,1,2,3,3,1,2,1,1,15,draama; muusikaline; vain; tants; birma
-3,1,2,3,3,1,2,1,1,15,draama; muusikaline; vain; tants; birma
-3,1,2,3,3,1,2,1,1,15,draama; muusikaline; vain; tants; birma
-3,2,2,3,3,3,2,2,1,15,draama; muusikaline; vain; tants; trumm; birma
-2,1,1,4,3,2,1,3,1,15,muusikaline; vain; trumm; natt; kultus; ansambel; tants; birma
-1,1,2,1,3,2,2,4,1,15,rituaal; muusikaline; trumm; tants; ansambel; vain; birma
-3,3,2,2,3,2,3,3,1,15,rituaal; muusikaline; vain; trumm; draama; kultus; ansambel; tants; birma
-4,0,3,2,3,3,2,3,2,15,rituaal; muusikaline; vain; trumm; draama; ansambel; tants; birma
-4,3,3,3,4,3,2,2,2,15,rituaal; muusikaline; vain; trumm; draama; ansambel; tants; birma
+3,1,3,3,4,2,4,3,0,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; tants
+3,1,3,3,4,2,4,3,0,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; tants
+3,1,3,3,4,2,4,3,1,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; tants
+3,1,3,3,4,2,4,3,1,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; tants
+3,1,3,3,4,2,4,3,1,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; tants
+3,2,3,3,4,4,4,4,1,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; trumm; tants
+4,1,2,5,4,3,3,5,1,15,nukuteater; muusikakultuur; muusikaline; vain; kultus; birma; ansambel; natt; trumm; tants
+2,2,2,2,3,3,3,5,1,15,nukuteater; muusikakultuur; muusikaline; vain; birma; ansambel; rituaal; trumm; tants
+3,3,2,3,4,3,4,3,1,15,nukuteater; muusikakultuur; muusikaline; vain; kultus; draama; birma; ansambel; rituaal; trumm; tants
+4,0,3,3,4,4,3,4,2,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; rituaal; ansambel; trumm; tants
+4,3,3,4,5,4,3,2,2,15,nukuteater; muusikakultuur; muusikaline; vain; draama; birma; rituaal; ansambel; trumm; tants

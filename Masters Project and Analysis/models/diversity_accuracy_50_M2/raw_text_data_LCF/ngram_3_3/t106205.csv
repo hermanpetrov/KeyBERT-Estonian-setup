@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,4,3,2,2,2,3,4,14,merivoo-parro; muusika; maarja; eesti; 2015; raadio; tmw; ansambel; kaks
-2,5,4,3,2,2,2,3,3,14,merivoo-parro; muusika; maarja; eesti; raadio; tmw; ansambel; kaks
-2,5,4,3,2,2,2,3,3,14,merivoo-parro; muusika; maarja; eesti; raadio; tmw; ansambel; kaks
-2,5,4,3,2,2,2,3,3,14,merivoo-parro; muusika; maarja; eesti; raadio; tmw; ansambel; kaks
-3,5,4,3,2,2,2,4,1,14,merivoo-parro; muusika; maarja; eesti; raadio; tmw; ansambel; kaks
-5,3,4,3,2,4,2,4,1,14,merivoo-parro; muusika; maarja; eesti; 2015; raadio; laul; tmw; ansambel; kaks
-3,4,6,3,2,4,5,4,1,14,merivoo-parro; muusika; draiv; maarja; eesti; laul; raadio; 2015; ansambel; kaks
-3,5,4,7,2,2,5,4,1,14,merivoo-parro; muusika; draiv; eesti; maarja; 2015; raadio; tmw; ansambel; kaks
-3,2,5,6,1,5,4,2,2,14,merivoo-parro; muusika; maarja; eesti; laul; raadio; 2015; tmw; ansambel; kaks
-4,2,4,2,2,3,5,5,4,14,merivoo-parro; muusika; draiv; maarja; eesti; laul; raadio; 2015; tmw; bänd; ansambel; kaks
-5,1,2,2,3,2,4,4,5,14,merivoo-parro; muusika; maarja; laul; eesti; 2015; raadio; bänd; ansambel; kaks
+2,5,4,3,2,2,3,4,0,14,2015; eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+2,5,4,3,2,2,3,3,0,14,eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+2,5,4,3,2,2,3,3,0,14,eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+2,5,4,3,2,2,3,3,0,14,eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+3,5,4,3,2,2,4,1,0,14,eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+5,3,4,3,2,2,4,1,0,14,2015; eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+3,4,6,3,2,5,4,1,0,14,2015; eesti; draiv; raadio; ansambel; muusika; maarja; merivoo-parro; kaks; laul
+3,5,4,7,2,5,4,1,0,14,2015; eesti; draiv; tmw; raadio; ansambel; muusika; maarja; merivoo-parro; kaks
+3,2,5,6,1,4,2,2,0,14,2015; eesti; tmw; raadio; ansambel; merivoo-parro; maarja; muusika; kaks; laul
+4,2,4,2,2,5,5,4,0,14,2015; eesti; bänd; draiv; tmw; raadio; ansambel; muusika; maarja; merivoo-parro; kaks; laul
+5,1,2,2,3,4,4,5,0,14,2015; eesti; bänd; raadio; ansambel; muusika; maarja; merivoo-parro; kaks; laul

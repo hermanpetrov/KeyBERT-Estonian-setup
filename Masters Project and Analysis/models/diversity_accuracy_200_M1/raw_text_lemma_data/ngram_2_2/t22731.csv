@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,5,3,5,3,4,5,3,14,huumor; saladus; probleem; anders; tallinn; mäng; näitus; akvarell
-5,6,5,3,5,3,4,5,3,14,huumor; probleem; saladus; anders; tallinn; mäng; näitus; akvarell
-6,6,6,3,5,4,4,5,3,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-6,5,6,4,5,4,4,5,3,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-5,5,6,3,5,5,4,5,3,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-7,6,7,3,5,4,5,5,3,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-5,6,7,5,6,4,7,5,3,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-6,5,6,5,6,4,7,6,4,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-6,6,7,4,7,5,7,6,4,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-5,5,5,4,7,6,6,4,5,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
-4,6,5,4,6,5,7,5,4,14,huumor; probleem; anders; tallinn; näitus; mäng; saladus; akvarell
+9,6,7,7,5,5,7,8,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+9,7,8,7,5,6,7,8,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+10,7,9,8,5,7,7,8,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+10,6,9,9,5,7,7,9,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+9,6,9,8,5,7,7,10,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+11,8,10,8,5,6,8,10,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+8,7,10,7,6,6,11,7,4,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstiõping; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+9,7,9,6,6,6,9,8,5,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+8,7,10,4,7,6,8,8,5,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstihoone; infotankist; mäng; saladus; anders; probleem
+6,7,8,4,8,8,7,6,7,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem
+5,8,8,4,6,6,8,6,6,14,akvarell; tallinn; katseklaas; huumor; näitus; kunstihoone; infotankist; läbielamine; mäng; saladus; anders; probleem

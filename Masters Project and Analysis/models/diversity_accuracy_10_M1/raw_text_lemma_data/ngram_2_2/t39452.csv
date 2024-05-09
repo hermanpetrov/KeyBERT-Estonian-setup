@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-1,0,0,0,0,1,1,1,1,13,rahastamine; kontroll; adams
-0,1,0,0,0,1,1,2,1,13,graafika; rahastamine; president; kontroll
-0,0,0,0,0,1,2,2,1,13,rahastamine; kontroll; adams
-0,0,0,0,1,1,2,2,1,13,kontroll; andrus; adams; rahastamine
-0,1,0,0,1,1,2,2,1,13,jüri; kontroll; andrus; adams; rahastamine
+1,0,0,0,0,1,2,1,1,13,adams; parteiraha; kontroll; rahastamine
+1,0,0,0,0,1,2,1,1,13,adams; parteiraha; kontroll; rahastamine
+1,0,0,0,0,1,2,1,1,13,adams; parteiraha; kontroll; rahastamine
+1,0,0,0,0,1,2,1,1,13,adams; parteiraha; kontroll; rahastamine
+1,0,0,0,0,1,2,1,1,13,adams; parteiraha; kontroll; rahastamine
+1,0,1,0,0,1,2,1,1,13,adams; parteiraha; lumekoristustöö; rahastamine; kontroll
+1,0,1,0,0,2,2,1,1,13,adams; parteiraha; lumekoristustöö; rahastamine; kontroll
+0,2,1,0,0,1,1,2,1,13,graafika; lumekoristustöö; rahastamine; kontroll; president; lennuõnnetus
+0,1,1,0,0,2,2,2,1,13,parteiraha; adams; lumekoristustöö; rahastamine; kontroll; lennuõnnetus
+0,1,1,0,1,2,2,2,1,13,parteiraha; adams; lumekoristustöö; andrus; rahastamine; kontroll; lennuõnnetus
+0,2,1,0,1,2,2,2,1,13,parteiraha; andrus; lumekoristustöö; jüri; lennuõnnetus; adams; rahastamine; kontroll

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,3,3,2,2,2,5,1,13,kaupmees; interaktiivne; epp; suurgild; ivar; ajaloomuuseum; keldriruum; näitus; mündikogu
-5,4,5,2,2,2,2,5,1,13,interaktiivne; epp; suurgild; ivar; ajaloomuuseum; keldriruum; näitus; mündikogu
-4,4,4,2,2,3,3,4,1,13,interaktiivne; epp; suurgild; ivar; ajaloomuuseum; keldriruum; näitus; mündikogu
-4,5,4,2,2,3,3,5,1,13,interaktiivne; epp; suurgild; ivar; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
-4,5,4,2,2,4,2,4,1,13,interaktiivne; epp; suurgild; ivar; ajaloomuuseum; keldriruum; alatalu; näitus; mündikogu
-5,5,7,2,2,3,2,1,1,13,interaktiivne; epp; suurgild; ivar; keldriruum; leimus; ajaloomuuseum; alatalu; näitus; mündikogu
-2,6,4,0,2,0,1,0,1,13,interaktiivne; epp; ivar; leimus; ajaloomuuseum; keldriruum; alatalu; mündikogu
-2,5,5,1,3,1,1,0,1,13,interaktiivne; epp; ivar; leimus; keldriruum; ajaloomuuseum; alatalu; mündikogu
-1,4,0,1,3,1,1,0,2,13,interaktiivne; epp; suurgild; ivar; leimus; keldriruum; ajaloomuuseum; alatalu
-2,2,3,1,1,1,1,1,2,13,suurgild; leimus; keldriruum; ajaloomuuseum; interaktiivne; alatalu; epp
-1,2,2,3,1,1,1,1,1,13,leimus; keldriruum; interaktiivne; epp; suurgild; alatalu
+5,4,3,3,2,2,2,5,1,13,suurgild; ivar; kaupmees; epp; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+5,4,5,2,2,2,2,5,1,13,suurgild; ivar; epp; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+4,4,4,2,2,3,3,4,1,13,suurgild; ivar; epp; keldriruum; mündikogu; ajaloomuuseum; näitus; interaktiivne
+4,5,4,2,2,3,3,5,1,13,suurgild; ivar; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; näitus; interaktiivne
+4,5,4,2,2,4,2,4,1,13,suurgild; ivar; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; näitus; interaktiivne
+5,5,7,2,2,3,2,1,1,13,suurgild; ivar; leimus; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; näitus; interaktiivne
+2,6,4,0,2,0,1,0,1,13,ivar; leimus; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; interaktiivne
+2,5,5,1,3,1,1,0,1,13,ivar; leimus; epp; keldriruum; mündikogu; alatalu; ajaloomuuseum; interaktiivne
+1,4,0,1,3,1,1,0,2,13,suurgild; ivar; leimus; epp; keldriruum; alatalu; ajaloomuuseum; interaktiivne
+2,2,3,1,1,1,1,1,2,13,epp; keldriruum; alatalu; ajaloomuuseum; suurgild; interaktiivne; leimus
+1,2,2,3,1,1,1,1,1,13,epp; keldriruum; alatalu; suurgild; interaktiivne; leimus

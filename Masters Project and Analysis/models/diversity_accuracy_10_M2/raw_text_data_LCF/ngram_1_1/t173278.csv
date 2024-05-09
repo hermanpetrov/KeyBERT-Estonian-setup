@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,0,1,1,12,mereriik; mereakadeemia; meremees
-0,0,2,0,0,0,0,1,1,12,mereriik; mereakadeemia; meremees
-0,0,2,0,0,0,0,1,1,12,mereriik; mereakadeemia; meremees
-0,0,2,0,0,0,0,1,1,12,mereriik; mereakadeemia; meremees
-0,0,0,0,0,0,0,1,1,12,mereakadeemia; meremees
-0,0,0,0,0,0,0,1,1,12,mereakadeemia; meremees
-0,0,0,0,0,0,0,0,1,12,mereakadeemia
-0,0,1,0,0,0,0,1,1,12,järvelaid; mereakadeemia; peeter
-0,0,0,0,0,0,0,1,1,12,järvelaid; mereakadeemia
-0,1,0,0,0,0,0,1,1,12,mereparaad; järvelaid; mereakadeemia
-0,0,1,0,0,0,0,0,1,12,järvelaid; mereakadeemia
+0,0,2,0,0,0,1,1,0,12,mereriik; meremees; mereakadeemia
+0,0,2,0,0,0,1,1,0,12,mereriik; meremees; mereakadeemia
+0,0,2,0,0,0,1,1,0,12,mereriik; meremees; mereakadeemia
+0,0,2,0,0,0,1,1,0,12,mereriik; meremees; mereakadeemia
+0,0,0,0,0,0,1,1,0,12,meremees; mereakadeemia
+0,0,0,0,0,0,1,1,0,12,meremees; mereakadeemia
+0,0,0,0,0,0,0,1,0,12,mereakadeemia
+0,0,1,0,0,0,1,1,0,12,peeter; järvelaid; mereakadeemia
+0,0,0,0,0,0,1,1,0,12,järvelaid; mereakadeemia
+0,1,0,0,0,0,1,1,0,12,mereakadeemia; järvelaid; mereparaad
+0,0,1,0,0,0,0,1,0,12,järvelaid; mereakadeemia

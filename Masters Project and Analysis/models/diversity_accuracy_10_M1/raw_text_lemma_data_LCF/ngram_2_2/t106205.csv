@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,1,1,0,1,1,1,0,12,raadio
 0,1,1,1,0,1,1,1,0,12,raadio
 0,1,1,1,0,1,1,1,0,12,raadio
-0,1,2,1,0,1,1,1,0,12,televiisor; raadio
-0,1,2,1,0,1,1,1,0,12,televiisor; raadio
-0,1,2,1,0,2,1,1,0,12,bond; aeg; energia; raadio
-0,0,1,0,0,1,2,1,0,12,merivoo-parro; maarja; raadio
-1,0,1,1,0,2,1,2,0,12,merivoo-parro; ansambel; aeg; energia; raadio
-0,0,2,1,0,2,2,2,0,12,aeg; merivoo-parro; ansambel; maarja; raadio
-0,0,3,0,0,2,2,2,0,12,aeg; merivoo-parro; maarja; raadio
+0,1,2,1,0,1,1,1,0,12,raadio; televiisor
+0,1,2,1,0,1,1,1,0,12,raadio; televiisor
+0,1,2,1,0,2,1,1,0,12,raadio; energia; aeg; bond
+0,0,1,0,0,2,2,1,0,12,raadio; hommikuprogramm; merivoo-parro; maarja
+1,0,1,1,0,2,1,2,0,12,raadio; ansambel; merivoo-parro; energia; aeg
+0,0,2,1,0,2,2,2,0,12,raadio; ansambel; merivoo-parro; maarja; aeg
+0,0,3,0,0,2,2,2,0,12,raadio; merivoo-parro; maarja; aeg

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,1,0,0,1,1,0,0,13,eesti; vesi; ekskavaator
-0,0,1,0,0,1,1,0,0,13,eesti; vesi; ekskavaator
-0,0,1,0,0,1,1,0,0,13,eesti; vesi; ekskavaator
-0,0,0,1,0,1,1,0,0,13,eesti; vesi; ekskavaator
-0,0,0,0,0,1,1,0,0,13,eesti; ekskavaator
-0,0,0,0,0,1,1,0,0,13,eesti; ekskavaator
+0,0,1,0,0,0,0,1,0,13,põllumajandus; põllumaa
+0,0,1,0,0,0,0,1,0,13,põllumajandus; põllumaa
+0,0,1,0,0,0,0,1,0,13,põllumajandus; põllumaa
+0,0,1,0,0,0,0,1,0,13,põllumajandus; põllumaa
+0,0,1,0,0,0,0,1,0,13,põllumajandus; põllumaa
+0,0,1,0,0,2,1,1,0,13,põllumaa; eesti; ekskavaator; vesi
+0,0,1,0,0,1,1,1,0,13,vesi; põllumaa; eesti; ekskavaator
+0,0,1,0,0,1,1,0,0,13,vesi; eesti; ekskavaator
+0,0,1,1,0,1,1,0,0,13,põllumajandus; vesi; eesti; ekskavaator
+1,0,0,0,0,1,1,0,0,13,põllumajandus; eesti; ekskavaator
+1,0,0,0,0,1,1,0,0,13,põllumajandus; eesti; ekskavaator

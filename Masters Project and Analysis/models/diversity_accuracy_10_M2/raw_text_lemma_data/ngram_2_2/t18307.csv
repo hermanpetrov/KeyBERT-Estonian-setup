@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,0,12,euroopa
-0,0,1,0,0,0,0,0,0,12,euroopa
-0,0,1,0,0,0,0,0,0,12,euroopa
-0,0,1,0,0,0,0,0,0,12,euroopa
-0,0,1,0,0,0,0,0,0,12,euroopa
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,1,0,0,0,12,pevkur
-1,0,0,0,0,0,0,0,0,12,hõff
-1,0,1,0,0,0,0,0,0,12,hõff; sammas
-0,0,1,0,0,1,0,0,0,12,sammas
-0,0,1,0,0,1,0,0,0,12,sammas
+0,1,1,0,0,1,2,1,0,12,eelarve; haigekassa; euroopa
+0,1,1,0,0,1,2,1,0,12,eelarve; haigekassa; euroopa
+0,1,1,0,0,1,2,1,0,12,eelarve; haigekassa; euroopa
+0,1,1,0,0,1,2,1,0,12,eelarve; haigekassa; euroopa
+0,1,1,0,0,1,2,1,0,12,eelarve; haigekassa; euroopa
+0,0,0,0,0,1,2,1,0,12,eelarve; haigekassa
+1,0,0,0,0,3,2,1,0,12,pevkur; eelarve; haigekassa
+1,0,0,0,0,1,1,1,0,12,hõff; haigekassa
+1,0,1,0,0,2,1,1,0,12,hõff; eelarve; sammas; haigekassa
+0,0,1,0,0,2,1,1,0,12,sammas; haigekassa
+0,0,1,0,0,2,1,1,0,12,sammas; haigekassa

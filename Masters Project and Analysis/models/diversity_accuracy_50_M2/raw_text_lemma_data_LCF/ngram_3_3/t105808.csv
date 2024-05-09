@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,3,1,4,3,3,4,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,2,3,1,4,3,3,4,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,2,3,1,4,3,3,4,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,2,3,1,4,3,3,4,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,2,4,1,4,3,3,5,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,2,4,1,4,3,3,5,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-5,3,3,2,4,4,3,5,3,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-3,2,3,4,5,2,4,5,3,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-2,5,3,6,4,4,4,3,3,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-2,2,6,6,4,5,5,4,2,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-3,2,3,5,5,2,4,4,3,10,ants; konflikt; elu; pavel; signe; tartu; daniel
+5,2,3,1,4,3,3,4,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,2,3,1,4,3,3,4,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,2,3,1,4,3,3,4,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,2,3,1,4,3,3,4,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,2,4,1,4,3,3,5,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,2,4,1,4,3,3,5,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet
+5,4,3,3,4,4,3,5,3,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet
+3,3,3,4,5,2,5,6,3,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+2,5,3,6,4,4,4,3,3,10,elu; daniel; tartu; pavel; ants; signe; identiteet; konflikt
+2,2,6,7,4,5,5,5,2,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+3,2,3,6,5,2,4,5,3,10,elu; daniel; tartu; pavel; ants; heinküla; signe; konflikt

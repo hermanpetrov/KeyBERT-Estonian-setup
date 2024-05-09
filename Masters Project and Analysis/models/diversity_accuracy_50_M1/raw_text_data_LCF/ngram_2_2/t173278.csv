@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,2,0,3,4,4,1,11,mereriik; eesti; meri; meremees; mereakadeemia; traditsioon
-2,2,4,2,0,3,4,4,1,11,mereriik; eesti; meri; meremees; mereakadeemia; traditsioon
-2,2,4,2,0,3,4,4,1,11,mereriik; eesti; meri; meremees; mereakadeemia; traditsioon
-2,5,5,2,0,3,4,4,1,11,mereriik; eesti; meri; mereakadeemia; peeter; meremees; traditsioon; järvelaid
-3,5,5,2,0,3,4,5,1,11,mereriik; eesti; meri; mereakadeemia; peeter; meremees; traditsioon; merekaru; järvelaid
-2,3,8,2,0,3,4,5,1,11,mereriik; eesti; meri; mereakadeemia; meremees; peeter; traditsioon; järvelaid
-1,2,5,4,0,2,4,7,1,11,meri; eesti; mereriik; mereakadeemia; meremees; peeter; järvelaid
-1,1,6,0,0,1,4,6,1,11,mereriik; meri; eesti; meremees; mereakadeemia; peeter; traditsioon; järvelaid
-1,1,3,1,0,1,3,6,2,11,mereriik; eesti; meri; meremees; mereakadeemia; peeter; traditsioon; järvelaid
-0,2,5,1,0,0,2,4,2,11,mereriik; eesti; meri; mereakadeemia; peeter; traditsioon; merekaru; järvelaid
-0,1,1,2,0,0,3,3,2,11,mereriik; eesti; meremees; mereakadeemia; peeter; traditsioon; järvelaid
+2,2,4,2,0,4,4,1,0,11,mereriik; meremees; meri; traditsioon; eesti; mereakadeemia
+2,2,4,2,0,4,4,1,0,11,mereriik; meremees; meri; traditsioon; eesti; mereakadeemia
+2,2,4,2,0,4,4,1,0,11,mereriik; meremees; meri; traditsioon; eesti; mereakadeemia
+2,5,5,2,0,4,4,1,0,11,mereriik; peeter; meremees; meri; traditsioon; eesti; järvelaid; mereakadeemia
+3,5,5,2,0,4,5,1,0,11,mereriik; peeter; meremees; meri; traditsioon; eesti; merekaru; järvelaid; mereakadeemia
+2,3,8,2,0,4,5,1,0,11,mereriik; peeter; meri; meremees; eesti; traditsioon; järvelaid; mereakadeemia
+1,2,5,4,0,4,7,1,0,11,mereriik; peeter; meri; meremees; eesti; järvelaid; mereakadeemia
+1,1,6,0,0,4,6,1,0,11,mereriik; peeter; meremees; meri; eesti; traditsioon; järvelaid; mereakadeemia
+1,1,3,1,0,3,6,2,0,11,mereriik; peeter; meremees; meri; eesti; traditsioon; järvelaid; mereakadeemia
+0,2,5,1,0,2,4,2,0,11,mereriik; peeter; meri; eesti; traditsioon; merekaru; järvelaid; mereakadeemia
+0,1,1,2,0,3,3,2,0,11,mereriik; peeter; meremees; eesti; traditsioon; järvelaid; mereakadeemia

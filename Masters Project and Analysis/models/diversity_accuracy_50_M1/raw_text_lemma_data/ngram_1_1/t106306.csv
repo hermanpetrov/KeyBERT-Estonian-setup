@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,0,2,1,3,2,0,13,sobak; kristi; eurovisioon; migrant; mesilane; kreeka
-1,1,3,0,2,1,3,2,0,13,sobak; kristi; eurovisioon; migrant; mesilane; kreeka
-1,1,3,0,2,1,3,2,0,13,sobak; kristi; eurovisioon; migrant; mesilane; kreeka
-1,1,3,0,2,2,3,2,0,13,sobak; kristi; eurovisioon; migrant; mesilane; kreeka
-1,1,2,0,2,2,3,2,0,13,sobak; kristi; migrant; mesilane; eurovisioon; kreeka
-1,1,2,0,2,2,2,2,0,13,sobak; kristi; migrant; eurovisioon; kreeka
-1,1,2,1,2,2,1,2,0,13,sobak; kristi; mesilane; kreeka; eurovisioon; migrant
-1,2,1,1,2,2,0,2,0,13,sobak; kristi; sanktsioon; kreeka; eurovisioon; migrant
-1,2,2,3,2,3,0,2,0,13,sobak; kristi; eurovisioon; migrant; sanktsioon; jüri; mesilane; kreeka
-0,1,2,3,1,3,0,2,0,13,sanktsioon; kristi; mesilane; migrant; eurovisioon; kreeka
-0,0,0,2,1,2,0,2,0,13,sanktsioon; kristi; kreeka; eurovisioon; migrant
+2,1,3,0,2,1,3,2,0,13,sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+2,1,3,0,2,1,3,2,0,13,sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+2,1,3,0,2,1,3,2,0,13,sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+2,1,3,0,2,2,3,2,0,13,sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+2,1,2,0,2,2,3,2,0,13,sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+2,1,2,0,2,2,2,2,0,13,eurovisioon; kreeka; migrant; tööjõupuudus; kristi; sobak
+2,1,2,1,2,2,1,2,0,13,mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi; sobak
+1,2,1,1,2,2,0,2,0,13,eurovisioon; kreeka; migrant; kristi; sanktsioon; sobak
+1,2,3,3,2,3,0,2,0,13,jüri; sanktsioon; sobak; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; kristi
+0,1,2,3,1,3,0,2,0,13,mesilane; eurovisioon; kreeka; migrant; kristi; sanktsioon
+0,0,1,2,1,2,0,2,0,13,eurovisioon; kreeka; migrant; tööjõupuudus; kristi; sanktsioon

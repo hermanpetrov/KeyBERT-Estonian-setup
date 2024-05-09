@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,0,11,teater
-0,1,0,0,0,0,0,0,0,11,teater
-0,1,0,0,0,0,0,0,0,11,teater
-0,1,0,0,0,0,0,0,0,11,teater
-0,1,0,0,0,0,0,0,0,11,teater
-0,1,1,0,0,0,0,0,0,11,teater; orkester
-0,1,1,0,0,0,0,0,0,11,teater; orkester
-0,1,1,0,0,0,0,0,0,11,teater; orkester
-0,0,1,0,0,0,1,0,0,11,orkester; perekond
-0,0,1,0,0,0,1,1,1,11,orkester; perekond; estonia
-0,0,1,0,0,0,1,1,1,11,orkester; perekond; estonia
+0,1,0,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater
+0,1,0,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater
+0,1,0,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater
+0,1,0,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater
+0,1,0,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater
+0,1,1,0,0,1,2,1,0,11,lilleäri; kuuskemaa; lapsepõlv; teater; orkester
+0,1,1,0,0,1,1,1,0,11,kuuskemaa; lapsepõlv; teater; orkester
+0,1,1,0,0,1,2,1,0,11,lilleäri; kuuskemaa; lapsepõlv; teater; orkester
+0,0,1,0,0,0,1,1,0,11,perekond; lapsepõlv; orkester
+0,0,1,1,0,0,1,1,1,11,estonia; perekond; laulukoor; orkester
+0,0,1,1,0,0,1,2,1,11,estonia; proovitöö; perekond; laulukoor; orkester

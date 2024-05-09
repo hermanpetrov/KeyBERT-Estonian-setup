@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,2,5,2,3,5,5,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,4,2,5,3,3,5,5,5,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,4,2,5,3,3,5,6,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-4,5,2,4,3,3,4,5,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-4,4,4,5,3,2,3,5,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,4,4,5,3,3,3,5,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,4,5,5,4,3,4,5,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,5,5,6,4,5,4,3,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,5,6,4,4,6,4,3,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,6,6,4,4,4,4,4,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
-5,5,6,4,4,4,4,4,6,13,suvi; kamp; sõjalennuk; leho; kont; boriss
+5,4,2,5,2,3,5,5,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,4,2,5,3,3,5,5,5,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,4,2,5,3,3,5,6,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+4,5,2,4,3,3,4,5,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+4,4,4,5,3,2,3,5,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,4,4,5,3,3,3,5,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,4,5,5,4,3,4,5,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,5,5,6,4,5,4,3,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,5,6,4,4,6,4,3,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,6,6,4,4,4,4,4,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp
+5,5,6,4,4,4,4,4,6,13,suvi; boriss; sõjalennuk; leho; kont; kamp

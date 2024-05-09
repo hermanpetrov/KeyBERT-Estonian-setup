@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,3,2,1,2,4,3,1,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-1,3,3,2,2,2,3,2,1,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa; piret
-1,3,1,2,2,2,3,1,0,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa
-1,2,1,2,2,2,3,1,0,17,hermine; mälestus; lavakas; näitleja; pere; lahkumine; isa
-1,2,1,2,2,4,3,1,0,17,hermine; mälestus; lavakas; näitleja; kasvatama; pere; lahkumine; isa
-1,2,2,1,3,2,3,2,0,17,hermine; mälestus; lavakas; näitleja; juuksur; pere; lahkumine; isa
-0,1,2,3,3,3,2,1,0,17,hermine; mälestus; lavakas; näitleja; juuksur; pere; lahkumine; isa
-0,1,0,2,1,1,2,0,0,17,juuksur; hermine; pere; isa; näitleja
-0,1,0,1,1,2,2,0,0,17,kasvatama; hermine; lahkumine; näitleja
-0,1,0,1,1,2,2,0,0,17,hermine; näitleja; lahkumine
-1,1,0,1,1,2,1,1,0,17,hermine; lahkumine; lavakas; isa; näitleja
+2,4,5,2,1,3,5,4,1,17,pere; piret; mälestus; juuksur; lahkumine; lapsepõlv; näitleja; isa; lavakas; hermine; balletikool; kasvatama
+2,5,5,2,2,3,4,3,1,17,pere; piret; mälestus; lahkumine; lapsepõlv; näitleja; isa; lavakas; hermine; balletikool
+2,5,2,2,2,3,4,2,0,17,pere; mälestus; balletikool; lahkumine; lapsepõlv; näitleja; isa; hermine; lavakas
+2,4,2,2,2,3,4,2,0,17,pere; mälestus; balletikool; lahkumine; lapsepõlv; näitleja; isa; hermine; lavakas
+1,3,1,2,2,5,5,2,0,17,pere; mälestus; pesamuna; balletikool; lahkumine; näitleja; lapsepõlv; isa; hermine; lavakas; kasvatama
+1,3,3,1,3,3,5,4,0,17,pere; mälestus; pesamuna; juuksur; balletikool; lahkumine; näitleja; lapsepõlv; isa; hermine; lavakas
+0,2,3,4,3,4,3,1,0,17,pere; mälestus; pesamuna; juuksur; lahkumine; näitleja; lapsepõlv; lavakas; isa; hermine; balletikool
+0,2,1,3,1,2,2,0,0,17,pere; pesamuna; juuksur; lapsepõlv; näitleja; isa; hermine; balletikool
+0,1,1,1,1,2,2,0,0,17,hermine; pesamuna; lahkumine; näitleja; kasvatama
+0,2,0,1,1,2,2,0,1,17,lapsepõlv; hermine; balletikool; näitleja; lahkumine
+1,2,0,1,2,2,1,1,1,17,lavakas; isa; lapsepõlv; hermine; näitleja; balletikool; lahkumine

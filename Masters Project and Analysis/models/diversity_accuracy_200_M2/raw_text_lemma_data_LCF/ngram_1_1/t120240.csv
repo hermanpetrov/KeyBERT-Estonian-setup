@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,4,6,3,4,3,5,4,13,riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,5,2,6,3,4,3,5,3,13,riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,5,2,6,3,3,5,4,3,13,riidaja; marika; taul; koolitus; soots; konkurent; mõis
-3,7,2,6,5,4,5,4,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,7,5,6,5,5,5,4,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,7,6,6,5,6,6,4,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-5,7,6,6,6,6,4,6,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,7,6,5,7,5,8,8,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,7,6,6,7,5,7,6,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-5,7,7,7,7,6,7,6,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
-4,6,6,8,7,6,6,7,4,13,ants; riidaja; marika; taul; koolitus; soots; konkurent; mõis
+8,8,8,10,5,6,6,9,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; marika; mõis; turismitalu; piimaköök; riidaja
+8,8,6,10,5,6,7,9,5,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; marika; mõis; turismitalu; piimaköök; riidaja
+8,8,6,10,5,5,9,8,5,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; marika; mõis; turismitalu; piimaköök; riidaja
+7,11,5,10,7,6,9,7,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+8,11,8,9,7,7,8,7,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+8,11,9,9,7,8,9,7,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+9,10,9,10,8,10,7,9,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+8,10,8,8,9,9,11,11,6,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+8,10,8,8,9,9,10,9,7,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+8,10,10,8,9,10,10,9,8,13,soots; koolitus; valgamaa; taul; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja
+7,9,9,9,10,10,9,10,7,13,soots; koolitus; taul; valgamaa; kodukohvik; konkurent; ants; marika; mõis; turismitalu; piimaköök; riidaja

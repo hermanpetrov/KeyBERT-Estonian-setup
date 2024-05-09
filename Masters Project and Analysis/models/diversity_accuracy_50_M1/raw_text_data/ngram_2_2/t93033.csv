@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,2,1,0,0,1,0,16,hans; nädal; restoranide; üro
-2,1,0,2,1,0,0,1,0,16,hans; nädal; restoranide; üro
-2,1,0,2,1,0,0,1,0,16,hans; nädal; restoranide; üro
-2,1,0,2,1,0,0,1,0,16,hans; nädal; restoranide; üro
-2,1,1,2,1,0,0,1,0,16,hans; nädal; restoranide; tõnu; üro
-2,1,2,2,1,0,2,1,0,16,hans; nädal; restoranide; hindpere; tõnu; ukraina; üro
-0,2,0,2,1,2,3,1,0,16,hans; restoranide; tõnu; julgeolekunõukogu; ukraina; üro
-1,2,1,2,2,3,2,0,0,16,hans; restoranide; hindpere; julgeolekunõukogu; ukraina; üro
-2,1,1,2,1,3,3,0,1,16,hans; tõnu; restoranide; hindpere; julgeolekunõukogu; ukraina; üro
-2,2,2,3,1,1,2,1,1,16,hans; restoranide; hindpere; julgeolekunõukogu; ukraina; üro
-2,2,3,2,1,1,2,2,2,16,hans; nädal; hindpere; julgeolekunõukogu; ukraina; üro
+2,1,0,2,1,0,0,1,0,16,üro; hans; restoranide; nädal
+2,1,0,2,1,0,0,1,0,16,üro; hans; restoranide; nädal
+2,1,0,2,1,0,0,1,0,16,üro; hans; restoranide; nädal
+2,1,0,2,1,0,0,1,0,16,üro; hans; restoranide; nädal
+2,1,1,2,1,0,0,1,0,16,üro; hans; restoranide; nädal; tõnu
+2,1,2,2,1,0,2,1,0,16,üro; hindpere; ukraina; hans; restoranide; nädal; tõnu
+0,2,0,2,1,2,3,1,0,16,üro; ukraina; julgeolekunõukogu; hans; restoranide; tõnu
+1,2,1,2,2,3,2,0,0,16,üro; hindpere; ukraina; julgeolekunõukogu; hans; restoranide
+2,1,1,2,1,3,3,0,1,16,üro; hindpere; julgeolekunõukogu; ukraina; hans; restoranide; tõnu
+2,2,2,3,1,1,2,1,1,16,üro; hindpere; ukraina; julgeolekunõukogu; hans; restoranide
+2,2,3,2,1,1,2,2,2,16,üro; hindpere; ukraina; julgeolekunõukogu; hans; nädal

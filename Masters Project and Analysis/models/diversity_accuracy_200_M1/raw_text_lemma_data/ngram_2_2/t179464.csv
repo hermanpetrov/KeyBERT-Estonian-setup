@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,1,4,2,2,1,3,4,12,suitsetamine; mäng; afganistan; teater; süda; moskva; iraan; liit; näitus
-7,6,2,4,2,2,2,3,4,12,suitsetamine; mäng; afganistan; teater; süda; moskva; iraan; liit; näitus
-7,5,2,4,2,3,2,3,4,12,suitsetamine; mäng; afganistan; teater; süda; moskva; iraan; liit; näitus
-7,5,2,4,3,3,4,3,4,12,suitsetamine; liit; afganistan; teater; süda; moskva; iraan; mäng; näitus
-7,4,3,6,3,5,6,3,4,12,suitsetamine; afganistan; liit; teater; süda; moskva; iraan; mäng; näitus
-5,5,4,5,3,6,6,3,5,12,suitsetamine; mäng; afganistan; teater; süda; moskva; iraan; liit; näitus
-5,4,4,4,5,5,3,4,4,12,suitsetamine; afganistan; mäng; teater; süda; moskva; iraan; liit; näitus
-4,3,4,5,3,4,6,4,6,12,suitsetamine; liit; afganistan; teater; moskva; iraan; mäng; näitus
-4,3,3,5,4,3,5,4,7,12,suitsetamine; liit; afganistan; teater; süda; moskva; iraan; mäng; näitus
-3,4,4,5,4,7,3,4,6,12,suitsetamine; afganistan; mäng; teater; süda; moskva; iraan; liit; näitus
-2,5,1,5,3,7,5,5,5,12,suitsetamine; afganistan; mäng; teater; süda; moskva; iraan; liit; näitus
+9,8,2,5,2,2,1,3,5,12,iraan; moskva; liibüa; afganistan; mäng; süda; liit; nõukogu; näitus; suitsetamine; teater
+9,7,3,5,2,2,2,3,5,12,iraan; moskva; liibüa; afganistan; mäng; süda; liit; nõukogu; näitus; suitsetamine; teater
+9,6,3,5,2,3,2,3,5,12,iraan; moskva; liibüa; afganistan; mäng; süda; liit; nõukogu; näitus; suitsetamine; teater
+9,6,3,4,3,4,4,3,5,12,iraan; moskva; liibüa; afganistan; mäng; süda; liit; nõukogu; näitus; suitsetamine; teater
+9,5,4,6,3,6,6,4,5,12,iraan; moskva; liibüa; afganistan; mäng; süda; liit; nõukogu; näitus; suitsetamine; teater
+6,6,5,5,3,7,6,5,6,12,iraan; teater; moskva; afganistan; liibüa; mäng; süda; nõukogu; näitus; suitsetamine; liit
+5,6,5,5,5,6,3,5,6,12,iraan; teater; liibüa; moskva; afganistan; mäng; süda; nõukogu; näitus; suitsetamine; liit
+4,5,5,6,4,6,8,5,7,12,iraan; moskva; liibüa; afganistan; mäng; liit; nõukogu; näitus; suitsetamine; teater
+4,5,4,6,4,5,6,5,8,12,iraan; liibüa; afganistan; süda; nõukogu; näitus; teater; liit; moskva; mäng; suitsetamine
+3,6,5,6,5,9,5,5,8,12,iraan; liibüa; afganistan; süda; nõukogu; näitus; teater; liit; moskva; mäng; suitsetamine
+2,7,3,6,4,8,7,6,7,12,iraan; teater; moskva; liibüa; afganistan; mäng; süda; nõukogu; näitus; suitsetamine; liit

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,9,5,8,6,5,4,7,8,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-7,9,5,8,6,4,4,7,8,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-7,9,6,8,7,4,4,7,8,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-8,7,6,8,7,4,5,7,8,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-8,8,9,8,7,4,5,8,9,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-8,7,8,8,9,6,7,10,8,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-9,9,9,9,9,8,5,11,7,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-7,12,11,8,9,8,7,11,7,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-7,10,10,7,10,8,10,10,7,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-7,10,8,7,9,8,8,9,6,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
-8,9,9,8,10,8,8,9,6,15,vanilli; rakset; pik; edetabel; power; singel; ameerika; eric; milli; b; one; euroopa
+7,9,5,8,6,4,7,8,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+7,9,5,8,6,4,7,8,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+7,9,6,8,7,4,7,8,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+8,7,6,8,7,5,7,8,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+8,8,9,8,7,5,8,9,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+8,7,8,8,9,7,10,8,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+9,9,9,9,9,5,11,7,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+7,12,11,8,9,7,11,7,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+7,10,10,7,10,10,10,7,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+7,10,8,7,9,8,9,6,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric
+8,9,9,8,10,8,9,6,0,15,b; one; rakset; vanilli; ameerika; euroopa; pik; edetabel; power; singel; milli; eric

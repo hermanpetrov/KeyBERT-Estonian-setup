@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,1,11,jaanitul; kolhoos
-0,0,0,0,0,0,0,0,1,11,kolhoos
-0,0,0,0,0,0,0,1,0,11,jaanitul
-0,1,0,0,0,0,0,1,0,11,loodus; jaanitul
-0,0,0,0,0,1,0,1,0,11,kiik; jaanitul
-0,0,0,0,0,0,0,0,1,11,kolhoos
+1,0,0,1,0,1,0,0,0,11,jaanitul; lauluväljak
+1,0,0,1,0,1,0,0,0,11,jaanitul; lauluväljak
+1,0,0,1,0,1,0,0,0,11,jaanitul; lauluväljak
+1,0,0,1,0,1,0,0,0,11,jaanitul; lauluväljak
+1,0,0,1,0,1,0,0,0,11,jaanitul; lauluväljak
+1,0,0,1,0,1,1,1,1,11,jaanitul; kolhoos; lauluväljak; jaanipidu
+0,0,0,0,0,1,1,2,1,11,kolhoos; lauluväljak; vanarahvas; jaanipidu
+0,0,0,0,0,1,0,2,0,11,jaanitul; lauluväljak; jaanipidu
+0,1,0,0,0,1,0,2,0,11,jaanitul; lauluväljak; loodus; jaanipidu
+1,0,0,0,0,2,0,2,0,11,jaanipidu; jaanitul; lauluväljak; kiik; vanarahvas
+0,0,0,0,0,1,1,1,1,11,kolhoos; lauluväljak; jaanipidu

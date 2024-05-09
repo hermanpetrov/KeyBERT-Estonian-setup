@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,0,0,1,1,11,granaat; ülo; õppima
-2,0,1,0,0,0,0,2,1,11,granaat; ülo; õppima
-2,0,0,0,0,0,0,2,1,11,granaat; ülo; õppima
-2,0,0,0,0,0,0,2,1,11,granaat; ülo; õppima
-2,0,1,0,0,1,1,2,1,11,looming; ülo; õppima; granaat
-1,0,1,0,0,1,1,2,1,11,looming; ülo; õppima; granaat
-2,0,1,2,0,1,1,3,1,11,looming; laps; ülo; õppima; granaat
-1,0,2,2,2,1,1,3,1,11,laps; looming; ülo; õppima; granaat
-0,0,1,2,1,2,1,3,1,11,looming; laps; ülo; granaat
-1,1,1,2,1,0,0,5,1,11,looming; laps; õppima; ülo; granaat
-1,0,1,1,2,0,1,4,1,11,laps; looming; ülo; õppima; granaat
+2,1,2,1,0,1,1,2,1,11,ülo; õppima; keelama; granaat; vanaisa
+2,1,2,1,0,1,1,3,1,11,ülo; õppima; keelama; granaat; vanaisa
+2,1,1,1,0,1,1,3,1,11,ülo; õppima; keelama; granaat; vanaisa
+2,1,1,1,0,1,1,3,1,11,ülo; õppima; keelama; granaat; vanaisa
+2,1,2,1,0,2,2,3,1,11,ülo; õppima; keelama; looming; granaat; vanaisa
+1,1,1,0,0,1,2,2,1,11,ülo; õppima; looming; granaat; vanaisa
+2,1,1,2,0,1,2,4,1,11,laps; looming; ülo; õppima; keelama; granaat; vanaisa
+2,1,2,2,2,1,2,3,1,11,laps; looming; ülo; õppima; keelama; granaat; vanaisa
+1,1,2,2,1,3,2,3,1,11,laps; ülo; keelama; looming; granaat; vanaisa
+2,2,1,2,1,1,1,5,1,11,laps; looming; ülo; õppima; keelama; granaat; vanaisa
+2,0,1,1,2,1,2,4,1,11,laps; looming; ülo; õppima; keelama; granaat; vanaisa

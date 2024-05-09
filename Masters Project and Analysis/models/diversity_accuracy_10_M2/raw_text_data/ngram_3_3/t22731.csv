@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,2,0,2,2,2,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-1,2,2,2,0,2,2,2,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-1,2,2,2,0,2,2,2,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-1,2,2,2,0,2,2,2,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-1,2,2,2,0,2,2,3,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-1,2,2,2,0,2,2,3,3,14,salajased; kunst; jaan; aiad; biotehnoloogia; näitus; elken
-4,0,2,1,0,1,5,2,3,14,aiad; elken; salajased; jaan; biotehnoloogia; infotankistid; näitus; akvarell
-1,0,3,2,0,0,1,3,3,14,kunst; aiad; elken; salajased; jaan; biotehnoloogia; infotankistid; näitus
-2,1,2,1,0,2,2,4,3,14,kunst; aiad; elken; sotsia; salajased; jaan; biotehnoloogia; infotankistid; näitus
-2,0,2,1,0,1,5,4,1,14,kunst; aiad; ränder; salajased; biotehnoloogia; infotankistid; näitus; akvarell
-2,0,2,1,0,3,1,2,1,14,salajased; aiad; ränder; biotehnoloogia; näitus; akvarell
+1,2,2,2,0,2,2,2,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+1,2,2,2,0,2,2,2,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+1,2,2,2,0,2,2,2,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+1,2,2,2,0,2,2,2,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+1,2,2,2,0,2,2,3,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+1,2,2,2,0,2,2,3,3,14,jaan; kunst; aiad; biotehnoloogia; elken; salajased; näitus
+4,0,2,1,0,1,5,2,3,14,akvarell; infotankistid; salajased; aiad; elken; jaan; biotehnoloogia; näitus
+1,0,3,2,0,0,1,3,3,14,infotankistid; salajased; aiad; elken; jaan; kunst; biotehnoloogia; näitus
+2,1,2,1,0,2,2,4,3,14,sotsia; infotankistid; salajased; aiad; elken; jaan; kunst; biotehnoloogia; näitus
+2,0,2,1,0,1,5,4,1,14,akvarell; infotankistid; salajased; aiad; kunst; ränder; biotehnoloogia; näitus
+2,0,2,1,0,3,1,2,1,14,akvarell; ränder; aiad; biotehnoloogia; salajased; näitus

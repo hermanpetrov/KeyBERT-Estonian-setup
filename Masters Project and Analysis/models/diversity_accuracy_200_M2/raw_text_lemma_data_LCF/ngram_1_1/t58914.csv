@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,0,0,2,0,0,0,1,12,torm; mageveehorisont; prognoos; sadam; tamm; liiv; tsükkel
-1,4,0,0,2,0,0,0,1,12,torm; mageveehorisont; prognoos; sadam; tamm; liiv; tsükkel
-1,4,0,0,2,0,0,0,1,12,torm; mageveehorisont; prognoos; sadam; tamm; liiv; tsükkel
-1,4,0,0,2,0,0,0,0,12,torm; mageveehorisont; prognoos; sadam; tamm; tsükkel
-1,4,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam; rand; tamm; tsükkel
-1,2,1,0,2,1,0,1,0,12,torm; mageveehorisont; sadam; rand; tamm; tsükkel
-0,2,1,1,1,1,1,2,0,12,torm; mageveehorisont; prognoos; rand; tamm; tsükkel
-0,2,1,1,2,1,1,1,0,12,torm; sadam; rand; tamm
-0,2,0,1,2,2,2,1,1,12,torm; rand; tsükkel
-0,1,2,1,3,1,3,2,1,12,torm; sadam; mageveehorisont; rand; tamm; tsükkel
-0,0,1,2,3,1,2,1,2,12,torm; mageveehorisont; rand; tamm; tsükkel
+2,5,0,0,2,0,1,0,1,12,tamm; mageveehorisont; liiv; torm; prognoos; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+2,5,0,0,2,0,0,1,1,12,tamm; mageveehorisont; liiv; torm; prognoos; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+2,5,0,0,2,0,0,1,1,12,tamm; mageveehorisont; liiv; torm; prognoos; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+2,5,0,0,2,0,0,1,0,12,tamm; mageveehorisont; torm; prognoos; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+2,5,0,0,2,0,0,1,0,12,tamm; mageveehorisont; torm; rand; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+2,3,2,1,2,1,0,2,0,12,elukvaliteet; tamm; mageveehorisont; torm; rand; sadam; kasvuhooneefekt; tsükkel
+1,3,2,2,1,2,2,3,0,12,elukvaliteet; tamm; mageveehorisont; torm; rand; prognoos; kasvuhooneefekt; tsükkel
+1,3,2,2,2,1,2,2,0,12,torm; rand; elukvaliteet; tamm; sadam; kasvuhooneefekt
+1,3,1,2,2,3,3,3,1,12,torm; rand; elukvaliteet; kasvuhooneefekt; tsükkel
+1,2,3,1,3,2,4,3,1,12,elukvaliteet; tamm; mageveehorisont; torm; rand; ehitustegevus; sadam; kasvuhooneefekt; tsükkel
+1,0,2,2,3,1,3,1,2,12,elukvaliteet; tamm; mageveehorisont; torm; rand; kasvuhooneefekt; tsükkel

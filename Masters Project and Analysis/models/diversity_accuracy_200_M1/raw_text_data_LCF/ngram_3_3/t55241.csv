@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,4,4,4,5,2,3,2,13,kvaliteet; hapnik; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-6,6,5,4,4,5,4,3,2,13,kvaliteet; hapnik; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-6,4,5,4,4,5,4,4,2,13,kvaliteet; hapnik; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-6,4,5,5,4,5,4,5,2,13,kvaliteet; hapnik; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,4,5,5,4,4,4,5,2,13,kvaliteet; hapnik; joogivesi; korrosioon; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,4,5,3,4,3,5,5,2,13,kvaliteet; hapnik; joogivesi; korrosioon; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,3,3,5,3,4,3,4,2,13,kvaliteet; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,2,6,4,2,3,2,4,2,13,kvaliteet; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,3,3,3,3,3,3,4,3,13,kvaliteet; joogivesi; korrosioon; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-3,3,3,5,3,4,2,3,3,13,kvaliteet; joogivesi; korrosioon; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-2,2,4,5,3,3,4,4,3,13,kvaliteet; joogivesi; korrosioon; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
+6,6,4,4,4,2,3,2,0,13,põhjavesi; jaak; hapnik; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+6,6,5,4,4,4,3,2,0,13,põhjavesi; jaak; hapnik; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+6,4,5,4,4,4,4,2,0,13,põhjavesi; jaak; hapnik; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+6,4,5,5,4,4,5,2,0,13,põhjavesi; jaak; hapnik; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,4,5,5,4,4,5,2,0,13,põhjavesi; jaak; veevarustussüsteem; hapnik; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+3,4,5,3,4,5,5,2,0,13,põhjavesi; jaak; hapnik; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+3,3,3,5,3,3,4,2,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,2,6,4,2,2,4,2,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+3,3,3,3,3,3,4,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+3,3,3,5,3,2,3,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+2,2,4,5,3,4,4,3,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet

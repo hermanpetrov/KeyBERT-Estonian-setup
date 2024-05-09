@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,1,3,2,1,1,12,keel; sõna; rahvakeel
-1,1,1,0,1,3,2,1,1,12,keel; sõna; rahvakeel
-1,1,1,0,1,3,2,1,1,12,keel; sõna; rahvakeel
-1,1,1,0,1,3,2,1,1,12,keel; sõna; rahvakeel
-1,1,1,0,1,3,2,1,1,12,keel; sõna; rahvakeel
-1,1,1,0,1,2,3,1,1,12,keel; sõna; rahvakeel
-2,1,0,0,1,4,3,2,1,12,regivärss; keel; sõna; rahvakeel
+1,1,1,0,1,3,2,1,1,12,keel; rahvakeel; sõna
+1,1,1,0,1,3,2,1,1,12,keel; rahvakeel; sõna
+1,1,1,0,1,3,2,1,1,12,keel; rahvakeel; sõna
+1,1,1,0,1,3,2,1,1,12,keel; rahvakeel; sõna
+1,1,1,0,1,3,2,1,1,12,keel; rahvakeel; sõna
+1,1,1,0,1,2,3,1,1,12,keel; rahvakeel; sõna
+2,1,0,0,1,4,3,2,1,12,keel; rahvakeel; sõna; regivärss
 1,2,2,1,1,3,2,1,1,12,indoeuroopa; keel; sõna
-2,2,0,1,1,1,2,1,1,12,indoeuroopa; regivärss; keel; sõna
-1,3,0,0,1,1,2,0,1,12,indoeuroopa; regivärss; keel; sõna
-2,1,0,0,1,1,2,0,1,12,keel; indoeuroopa; sõna
+2,2,0,1,1,1,2,1,1,12,indoeuroopa; keel; sõna; regivärss
+1,3,0,0,1,1,2,0,1,12,indoeuroopa; keel; sõna; regivärss
+2,1,0,0,1,1,2,0,1,12,indoeuroopa; keel; sõna

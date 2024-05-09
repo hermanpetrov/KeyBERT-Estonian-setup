@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,2,0,1,1,1,12,nälg; nappus; ökoloogiline; konkurents; ressursside; sõda
-1,1,2,1,2,0,1,1,1,12,nälg; nappus; ökoloogiline; konkurents; ressursside; sõda
-1,1,1,1,2,0,0,0,1,12,nälg; ökoloogiline; nappus; konkurents; ressursside; sõda
-1,0,1,0,2,0,0,0,1,12,nappus; sõda; ressursside; ökoloogiline
-0,0,0,0,2,0,0,0,1,12,sõda; ressursside; nappus
-1,1,0,0,2,0,0,1,1,12,nappus; ökoloogiline; konkurents; ressursside; sõda
-1,0,1,1,1,2,0,1,1,12,ökoloogiline; nappus; sõda; ressursside
-1,1,0,0,1,1,0,1,1,12,konkurents; ressursside; sõda; nappus
-1,0,1,1,2,1,0,2,0,12,nälg; nappus; konkurents; ressursside
-1,0,0,0,2,1,0,2,0,12,nälg; nappus; konkurents; ressursside
-0,1,2,0,2,1,1,0,0,12,ökoloogiline; nappus; konkurents; ressursside; sõda
+1,1,2,1,2,1,1,1,0,12,nappus; sõda; konkurents; ressursside; ökoloogiline; nälg
+1,1,2,1,2,1,1,1,0,12,nappus; sõda; konkurents; ressursside; ökoloogiline; nälg
+1,1,1,1,2,0,0,1,0,12,nappus; sõda; konkurents; ressursside; ökoloogiline; nälg
+1,0,1,0,2,0,0,1,0,12,ressursside; nappus; ökoloogiline; sõda
+0,0,0,0,2,0,0,1,0,12,nappus; ressursside; sõda
+1,1,0,0,2,0,1,1,0,12,nappus; konkurents; ressursside; ökoloogiline; sõda
+1,0,1,1,1,0,1,1,0,12,ressursside; nappus; sõda
+1,1,0,0,1,0,1,1,0,12,konkurents; nappus; sõda; ressursside
+1,0,1,1,2,0,2,0,0,12,nappus; konkurents; ressursside; nälg
+1,0,0,0,2,0,2,0,0,12,konkurents; nappus; nälg
+0,1,2,0,2,1,0,0,0,12,nappus; konkurents; ökoloogiline; sõda

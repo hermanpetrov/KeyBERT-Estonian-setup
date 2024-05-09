@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,0,1,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,0,1,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,0,1,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,0,1,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,0,1,1,1,1,1,0,10,televisioon; saade; toimetus
-1,1,1,1,1,1,1,2,0,10,režissöör; televisioon; saade; toimetus
-0,0,1,2,1,2,1,2,0,10,režissöör; stuudio; televisioon; toimetus
-1,0,1,0,1,1,1,2,0,10,stuudio; televisioon; direktor; toimetus
-1,0,1,0,1,1,1,2,0,10,stuudio; televisioon; direktor; saade; toimetus
-1,0,1,0,1,1,1,2,0,10,stuudio; televisioon; saade; toimetus
+1,1,0,1,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,0,2,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,0,2,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,0,2,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,0,2,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,0,2,1,1,1,1,0,10,toimetus; filmiruum; saade; televisioon
+1,1,1,1,1,1,1,2,0,10,režissöör; toimetus; saade; televisioon
+1,0,1,3,1,2,1,2,0,10,režissöör; koosolek; stuudio; toimetus; filmiruum; televisioon
+1,0,2,1,1,1,1,2,0,10,fotograaf; toimetus; direktor; stuudio; televisioon; laboratoorium
+2,0,1,1,1,1,1,3,0,10,toimetus; direktor; saade; fotograaf; koosolek; stuudio; filmiruum; televisioon
+1,0,1,0,1,2,1,3,0,10,koosolek; toimetus; stuudio; filmiruum; saade; televisioon

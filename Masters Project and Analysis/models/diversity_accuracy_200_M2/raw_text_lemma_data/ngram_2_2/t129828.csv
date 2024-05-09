@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,3,2,3,5,4,5,13,furmanov; prototüüp; stalin; film; liit
-4,4,2,3,2,3,5,4,5,13,furmanov; prototüüp; stalin; film; liit
-4,4,2,3,2,3,5,4,5,13,furmanov; prototüüp; stalin; film; liit
-4,4,2,3,3,3,5,4,5,13,furmanov; prototüüp; stalin; film; liit
-4,4,4,3,3,4,5,4,5,13,furmanov; prototüüp; stalin; film; liit
-4,3,3,4,3,4,4,4,5,13,furmanov; stalin; prototüüp; film; liit
-4,3,4,3,3,4,4,3,5,13,furmanov; stalin; prototüüp; film; liit
-3,3,3,4,4,3,4,3,5,13,furmanov; stalin; prototüüp; film; liit
-4,4,3,4,4,3,4,4,5,13,furmanov; prototüüp; stalin; film; liit
-3,3,4,4,4,4,4,4,5,13,furmanov; stalin; prototüüp; film; liit
-3,4,4,4,4,3,4,3,5,13,furmanov; stalin; prototüüp; film; liit
+8,7,3,4,3,6,7,7,7,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+8,7,3,4,3,7,7,9,7,13,film; kodusõda; nõukogu; chapaev; liit; masnikova; prototüüp; stalin; propagandafilm; furmanov
+8,7,3,4,3,6,7,9,7,13,film; kodusõda; nõukogu; chapaev; liit; masnikova; prototüüp; stalin; propagandafilm; furmanov
+9,7,3,4,3,6,8,8,7,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+9,7,7,4,3,7,9,8,7,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+8,5,6,5,4,9,8,7,8,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+7,5,8,7,5,8,8,6,8,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+6,5,7,8,6,8,7,5,8,13,film; kodusõda; masnikova; prototüüp; stalin; propagandafilm; nõukogu; chapaev; furmanov; liit
+7,6,6,9,6,7,6,7,7,13,film; kodusõda; masnikova; prototüüp; stalin; nõukogu; propagandafilm; furmanov; chapaev; liit
+7,5,6,9,6,7,8,7,8,13,film; kodusõda; masnikova; prototüüp; stalin; propagandafilm; nõukogu; chapaev; furmanov; liit
+5,6,7,9,7,6,7,6,10,13,film; kodusõda; nõukogu; chapaev; liit; masnikova; prototüüp; stalin; propagandafilm; furmanov

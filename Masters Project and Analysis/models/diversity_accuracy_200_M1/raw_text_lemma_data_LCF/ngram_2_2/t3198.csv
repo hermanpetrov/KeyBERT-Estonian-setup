@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,3,2,2,4,4,4,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-4,2,3,2,3,4,4,4,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,2,4,3,3,4,4,5,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-6,2,6,3,2,4,4,7,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-6,2,7,4,3,5,4,7,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,2,6,5,3,5,5,7,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,3,6,5,4,6,5,7,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,3,6,6,5,7,4,6,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,2,7,7,7,5,6,6,4,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-5,2,7,7,6,6,6,6,7,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
-3,2,7,6,6,6,6,6,6,14,harry; mall; parts; koalitsioon; aktsia; mälberg; juhan
+11,4,4,6,2,6,5,9,9,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+10,4,4,6,3,6,5,9,9,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+11,5,5,7,3,7,5,10,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+12,5,8,7,2,7,7,12,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+13,6,11,8,3,9,8,13,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+11,6,9,9,4,10,11,12,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+8,9,10,8,5,11,10,13,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+7,8,10,9,7,10,9,12,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+7,8,11,11,9,10,10,11,8,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; läbirääkimine; tuumarelv
+8,8,11,10,8,10,10,11,11,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; tuumarelv
+6,8,12,9,8,10,11,11,10,14,hansapank; liivrand; mälberg; mall; juhan; aktsia; koalitsioon; võimuvõitlus; parts; enesetapuplahvatus; välisminister; harry; tuumarelv

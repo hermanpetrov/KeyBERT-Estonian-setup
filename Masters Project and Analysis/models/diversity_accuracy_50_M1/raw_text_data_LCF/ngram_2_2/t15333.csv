@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,3,0,1,1,2,1,14,hiidlane; nõelakoda; hiiu; hiiumaa; kärdla
-2,3,2,3,0,1,1,2,1,14,hiidlane; nõelakoda; hiiu; hiiumaa; kärdla
-2,3,2,3,0,1,1,2,1,14,hiidlane; nõelakoda; hiiu; hiiumaa; kärdla
-2,3,2,3,0,1,1,2,1,14,hiidlane; nõelakoda; hiiu; hiiumaa; kärdla
-2,3,3,3,0,1,1,2,1,14,hiidlane; nõelakoda; hiiu; hiiumaa; kärdla
-4,3,3,4,0,2,1,2,1,14,hiiu; hiidlane; kärdla; purjetamine; meresõit; palmik; nõelakoda; hiiumaa
-2,3,1,2,0,0,1,3,1,14,kirjandus; nõelakoda; hiiu; hiiumaa; kärdla
-3,2,1,2,0,1,1,3,1,14,hiiu; hiiumaa; tants; kärdla
-1,1,2,2,0,0,1,3,1,14,hiiumaa; hiidlane; hiiu; tants; kärdla
-0,1,1,2,0,0,1,3,1,14,hiidlane; hiiu; hiiumaa; kärdla
-0,2,2,2,0,1,2,3,2,14,hiidlane; kirjandus; hiiu; hiiumaa; kärdla
+2,3,2,3,0,1,2,1,0,14,hiiumaa; nõelakoda; hiidlane; hiiu; kärdla
+2,3,2,3,0,1,2,1,0,14,hiiumaa; nõelakoda; hiidlane; hiiu; kärdla
+2,3,2,3,0,1,2,1,0,14,hiiumaa; nõelakoda; hiidlane; hiiu; kärdla
+2,3,2,3,0,1,2,1,0,14,hiiumaa; nõelakoda; hiidlane; hiiu; kärdla
+2,3,3,3,0,1,2,1,0,14,hiiumaa; nõelakoda; hiidlane; hiiu; kärdla
+4,3,3,4,0,1,2,1,0,14,hiiumaa; nõelakoda; meresõit; hiiu; purjetamine; palmik; hiidlane; kärdla
+2,3,1,2,0,1,3,1,0,14,hiiumaa; nõelakoda; kirjandus; hiiu; kärdla
+3,2,1,2,0,1,3,1,0,14,hiiumaa; kärdla; hiiu; tants
+1,1,2,2,0,1,3,1,0,14,hiiumaa; kärdla; hiidlane; hiiu; tants
+0,1,1,2,0,1,3,1,0,14,hiiumaa; hiidlane; hiiu; kärdla
+0,2,2,2,0,2,3,2,0,14,hiiumaa; kirjandus; hiidlane; hiiu; kärdla

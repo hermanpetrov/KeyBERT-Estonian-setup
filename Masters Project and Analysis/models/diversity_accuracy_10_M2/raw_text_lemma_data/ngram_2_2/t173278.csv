@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,2,2,1,0,0,12,sadam; kapten; admiral
-0,1,0,0,2,2,1,0,1,12,sadam; kapten; admiral; peeter
-0,1,0,0,2,2,1,0,1,12,sadam; kapten; admiral; peeter
-0,1,0,0,2,2,1,0,1,12,sadam; kapten; admiral; peeter
-0,1,0,0,2,2,1,0,1,12,sadam; kapten; admiral; peeter
-0,1,0,0,2,2,1,0,0,12,sadam; kapten; admiral
-0,0,0,0,2,1,1,0,1,12,sadam; kapten; admiral; peeter
-0,0,1,0,2,0,1,1,1,12,sadam; kapten; admiral; peeter
-0,0,0,1,1,0,2,1,0,12,sadam; kapten; admiral
-0,0,0,0,0,1,2,1,1,12,kapten; admiral; peeter
-0,0,0,0,0,1,1,0,1,12,kapten; peeter
+0,1,1,1,2,4,3,2,1,12,admiral; mereriik; kapten; meremees; sadam
+0,1,1,1,2,4,3,2,1,12,admiral; mereriik; kapten; meremees; peeter; sadam
+0,1,1,1,2,4,3,2,1,12,admiral; mereriik; kapten; meremees; peeter; sadam
+0,1,1,1,2,4,3,2,1,12,admiral; mereriik; kapten; meremees; peeter; sadam
+0,1,2,1,2,4,3,1,1,12,admiral; mereriik; kapten; meremees; peeter; sadam
+0,1,1,1,2,4,3,1,0,12,admiral; mereriik; kapten; meremees; sadam
+0,0,2,1,2,3,2,2,1,12,mereriik; admiral; kapten; meremees; peeter; sadam
+0,0,2,0,2,2,2,3,1,12,mereriik; admiral; kapten; meremees; peeter; sadam; mereakadeemia
+0,0,0,1,1,1,3,2,0,12,mereriik; kapten; admiral; sadam
+0,0,1,0,0,2,4,2,1,12,mereriik; admiral; kapten; meremees; peeter; mereakadeemia
+0,0,0,0,0,2,4,1,1,12,mereriik; kapten; peeter; meremees; mereakadeemia

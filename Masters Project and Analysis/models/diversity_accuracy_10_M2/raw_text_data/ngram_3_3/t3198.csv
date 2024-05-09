@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,2,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-6,2,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-6,2,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-6,2,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-6,1,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-6,1,2,0,1,2,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; liivrand; reformierakond; res
-4,1,2,0,1,1,4,2,1,13,harry; usa; põhja-korea; publica; swedbank; koalitsioon; reformierakond; res
-1,1,2,1,1,1,2,1,1,13,koalitsioon; põhja-korea; reformierakond; res; swedbank
-2,0,2,1,1,3,2,1,1,13,koalitsioon; harry; publica; põhja-korea; reformierakond; res; swedbank
-3,1,2,0,1,4,2,1,1,13,usa; põhja-korea; publica; swedbank; koalitsioon; reformierakond; res
-2,0,1,0,1,4,2,1,1,13,koalitsioon; usa; publica; põhja-korea; reformierakond; res; swedbank
+6,2,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+6,2,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+6,2,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+6,2,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+6,1,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+6,1,2,0,1,2,4,2,1,13,liivrand; põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+4,1,2,0,1,1,4,2,1,13,põhja-korea; harry; publica; res; reformierakond; swedbank; koalitsioon; usa
+1,1,2,1,1,1,2,1,1,13,põhja-korea; res; reformierakond; swedbank; koalitsioon
+2,0,2,1,1,3,2,1,1,13,põhja-korea; res; publica; reformierakond; swedbank; harry; koalitsioon
+3,1,2,0,1,4,2,1,1,13,põhja-korea; publica; res; reformierakond; swedbank; koalitsioon; usa
+2,0,1,0,1,4,2,1,1,13,põhja-korea; res; reformierakond; swedbank; publica; koalitsioon; usa

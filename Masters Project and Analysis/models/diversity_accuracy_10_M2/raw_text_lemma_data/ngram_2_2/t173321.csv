@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,1,0,0,11,polder
-0,0,0,0,1,0,1,0,0,11,polder
-0,0,0,0,1,0,1,0,0,11,polder
-0,0,0,0,1,0,1,0,0,11,polder
-0,0,0,0,1,0,1,0,0,11,polder
-0,0,0,0,1,1,0,0,0,11,kraav; polder
-0,0,0,0,1,2,1,1,0,11,kraav; polder; ekskavaator
-1,1,0,1,1,2,1,1,0,11,kraav; polder; pauts; ekskavaator
-0,1,1,1,1,1,0,1,0,11,kraav; polder; ekskavaator
-0,1,1,0,1,0,0,1,0,11,polder; ekskavaator
-0,2,1,0,1,0,0,1,0,11,polder; ekskavaator
+1,0,0,0,1,0,2,1,0,11,maaparandaja; polder; emajõgi
+1,0,0,0,1,0,2,1,0,11,maaparandaja; polder; emajõgi
+1,0,0,0,1,0,2,1,0,11,maaparandaja; polder; emajõgi
+1,0,0,0,1,0,2,1,0,11,maaparandaja; polder; emajõgi
+1,0,0,0,1,0,2,1,0,11,maaparandaja; polder; emajõgi
+1,0,0,0,1,2,1,1,0,11,kraav; polder; maaparandaja; emajõgi
+1,0,0,1,1,4,2,2,0,11,kraav; rohumaa; pumbajaam; polder; ekskavaator; maaparandaja; emajõgi
+1,2,0,2,1,3,3,3,0,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi
+0,2,1,1,1,2,0,4,0,11,kraav; paisjärv; pumbajaam; polder; ekskavaator; maaparandaja; emajõgi
+0,2,1,1,1,1,1,3,0,11,rohumaa; pumbajaam; polder; ekskavaator; maaparandaja; emajõgi
+0,2,1,0,1,1,0,3,0,11,polder; ekskavaator; maaparandaja; emajõgi

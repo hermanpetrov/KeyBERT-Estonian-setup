@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,0,2,0,1,0,1,19,deckarty; kool; tervis; lahkumine; washington; programm; president
-2,3,1,0,2,0,1,0,1,19,deckarty; kool; tervis; lahkumine; washington; programm; president
-2,3,1,0,2,0,1,0,1,19,deckarty; kool; tervis; lahkumine; washington; programm; president
-2,3,1,0,2,0,1,0,1,19,deckarty; kool; tervis; lahkumine; washington; programm; president
-2,3,1,0,2,0,1,0,0,19,deckarty; kool; tervis; washington; programm; president
-1,3,0,0,2,0,1,1,0,19,deckarty; tervis; kool; lahkumine; washington; programm; president
-1,3,0,0,2,0,0,1,1,19,deckarty; tervis; kool; lahkumine; washington; programm; president
-2,3,1,0,2,1,0,1,0,19,deckarty; washington; programm; edendus; kool; tervis; lahkumine; president
-1,2,1,2,3,1,0,1,1,19,amet; deckarty; washington; programm; jüri; kool; lahkumine; president
-1,1,1,2,2,1,1,0,0,19,jüri; deckarty; amet; lahkumine; washington; programm; president
-1,1,1,2,3,1,1,0,1,19,jüri; deckarty; amet; lahkumine; washington; president
+2,3,1,1,2,0,1,0,1,19,kool; washington; deckarty; kultuuripealinn; president; lahkumine; tervis; programm
+2,3,1,1,2,0,1,0,1,19,kool; washington; deckarty; kultuuripealinn; president; lahkumine; tervis; programm
+2,3,1,1,2,0,1,0,1,19,kool; washington; deckarty; kultuuripealinn; president; lahkumine; tervis; programm
+2,3,1,1,2,0,1,0,1,19,kool; washington; deckarty; kultuuripealinn; president; lahkumine; tervis; programm
+2,3,1,1,2,0,1,0,0,19,kool; washington; deckarty; kultuuripealinn; president; tervis; programm
+1,3,0,1,2,0,1,1,0,19,kool; washington; deckarty; kultuuripealinn; president; lahkumine; tervis; programm
+1,3,0,1,2,0,0,1,1,19,washington; kultuuripealinn; lahkumine; president; programm; kool; deckarty; tervis
+2,3,1,0,2,1,0,1,0,19,washington; lahkumine; president; programm; kool; deckarty; edendus; tervis
+1,2,1,2,3,1,0,1,1,19,washington; jüri; lahkumine; president; programm; kool; deckarty; amet
+1,1,1,2,2,1,1,0,0,19,lahkumine; washington; deckarty; jüri; president; programm; amet
+1,1,2,2,3,1,1,0,1,19,lahkumine; washington; deckarty; kultuuripealinn; jüri; president; amet

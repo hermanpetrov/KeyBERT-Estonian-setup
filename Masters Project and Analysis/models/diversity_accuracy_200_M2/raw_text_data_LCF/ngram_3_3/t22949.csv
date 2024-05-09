@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,7,7,7,4,7,7,7,6,13,kunst; eesti; elken; laimre; jaan; tsensuur; kunstiakadeemia; marco; näitus; formaat
-9,7,8,7,4,7,7,7,6,13,kunst; eesti; elken; laimre; jaan; tsensuur; kunstiakadeemia; marco; näitus; formaat
-9,7,8,6,4,7,7,7,6,13,kunst; eesti; elken; laimre; jaan; tsensuur; kunstiakadeemia; marco; näitus; formaat
-10,7,7,6,5,6,6,7,6,13,kunst; eesti; elken; laimre; jaan; tsensuur; kunstiakadeemia; marco; näitus; formaat
-8,8,7,5,4,7,6,7,6,13,kunst; eesti; elken; laimre; jaan; tsensuur; kunstiakadeemia; marco; näitus; formaat
-10,8,6,5,5,6,7,8,7,13,kunst; eesti; elken; laimre; jaan; kunstiakadeemia; tsensuur; marco; näitus; formaat
-10,8,6,7,5,8,8,8,7,13,kunst; eesti; elken; laimre; kunstiakadeemia; tsensuur; jaan; marco; näitus; formaat
-6,7,6,8,8,9,8,9,7,13,kunstiakadeemia; tsensuur; formaat; näitus; kunst; eesti; elken; laimre; jaan; marco
-5,5,9,8,7,7,8,8,8,13,kunst; eesti; elken; laimre; kunstiakadeemia; tsensuur; jaan; marco; näitus; formaat
-5,4,8,8,8,6,8,8,8,13,kunst; eesti; elken; laimre; kunstiakadeemia; jaan; tsensuur; marco; näitus; formaat
-5,6,8,8,7,7,8,8,8,13,kunst; eesti; elken; laimre; kunstiakadeemia; jaan; tsensuur; marco; näitus; formaat
+9,7,7,7,4,7,7,6,0,13,laimre; eesti; marco; elken; tsensuur; kunstiakadeemia; formaat; jaan; kunst; näitus
+9,7,8,7,4,7,7,6,0,13,laimre; eesti; marco; elken; tsensuur; kunstiakadeemia; formaat; jaan; kunst; näitus
+9,7,8,6,4,7,7,6,0,13,laimre; eesti; marco; elken; tsensuur; kunstiakadeemia; formaat; jaan; kunst; näitus
+10,7,7,6,5,6,7,6,0,13,laimre; eesti; marco; elken; tsensuur; kunstiakadeemia; formaat; jaan; kunst; näitus
+8,8,7,5,4,6,7,6,0,13,laimre; eesti; tsensuur; marco; elken; kunstiakadeemia; jaan; kunst; formaat
+10,8,6,5,5,7,8,7,0,13,laimre; eesti; marco; elken; kunstiakadeemia; tsensuur; formaat; jaan; kunst; näitus
+10,8,6,7,5,8,8,7,0,13,laimre; eesti; tsensuur; marco; elken; näitus; kunstiakadeemia; jaan; kunst; formaat
+6,7,6,8,8,8,9,7,0,13,laimre; tsensuur; elken; kunst; näitus; formaat; eesti; marco; kunstiakadeemia; jaan
+5,5,9,8,7,8,8,8,0,13,laimre; eesti; tsensuur; kunstiakadeemia; elken; marco; näitus; jaan; kunst; formaat
+5,4,8,8,8,8,8,8,0,13,laimre; eesti; tsensuur; kunstiakadeemia; elken; marco; formaat; jaan; kunst; näitus
+5,6,8,8,7,8,8,8,0,13,laimre; eesti; tsensuur; kunstiakadeemia; elken; marco; formaat; jaan; kunst; näitus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,4,0,0,0,2,3,0,12,triatlon; võistlus; ain-alar; ujumine; sportlane; johanson; ironman; juhanson
-1,1,4,0,0,0,2,3,0,12,triatlon; võistlus; ain-alar; ujumine; sportlane; johanson; ironman; juhanson
-1,1,4,0,0,0,2,3,1,12,triatlon; võistlus; ain-alar; ujumine; sportlane; johanson; ironman; juhanson
-1,1,4,0,0,0,2,3,0,12,triatlon; võistlus; ain-alar; ujumine; sportlane; johanson; ironman; juhanson
-1,1,4,0,0,0,2,3,0,12,triatlon; võistlus; ain-alar; ujumine; sportlane; johanson; ironman; juhanson
-1,1,4,0,0,0,3,3,0,12,triatlon; võistlus; ain-alar; ujumine; johanson; sportlane; ironman; juhanson
-3,0,4,1,0,1,3,3,0,12,triatlon; johanson; sportlane; ironman; juhanson; ain-alar
-0,1,2,1,0,1,2,3,0,12,triatlon; sportlane; johanson; ironman; juhanson; ain-alar
-0,0,2,1,0,1,2,4,0,12,ain-alar; sportlane; johanson; ironman; juhanson; distants
-0,1,3,1,0,1,2,3,0,12,ujumine; sportlane; johanson; ironman; ain-alar
-0,2,2,3,0,2,1,2,0,12,triatlon; võistlus; ain-alar; ujumine; sportlane; juhanson; ironman; johanson
+1,1,4,0,0,0,2,3,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+1,1,4,0,0,0,2,3,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+1,1,4,0,0,0,2,3,1,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+1,1,4,0,0,0,2,3,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+1,1,4,0,0,0,2,3,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+1,1,4,0,0,0,3,3,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon
+3,0,4,1,0,1,3,3,0,12,juhanson; ain-alar; ironman; johanson; sportlane; triatlon
+0,1,2,1,0,1,2,3,0,12,juhanson; ain-alar; ironman; johanson; sportlane; triatlon
+0,0,2,1,0,1,2,4,0,12,juhanson; johanson; sportlane; ain-alar; ironman; distants
+0,1,3,1,0,1,2,3,0,12,ujumine; ironman; johanson; sportlane; ain-alar
+0,2,2,3,0,2,1,2,0,12,juhanson; johanson; sportlane; ain-alar; võistlus; ujumine; ironman; triatlon

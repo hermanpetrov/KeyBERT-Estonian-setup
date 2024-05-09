@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,0,0,2,1,11,piloot; eesti; leningrad
-1,0,0,1,0,0,0,2,1,11,piloot; eesti; leningrad
-1,0,0,1,0,0,0,2,1,11,piloot; eesti; leningrad
-1,0,0,1,0,0,0,2,1,11,piloot; eesti; leningrad
-1,0,0,1,0,0,0,2,1,11,piloot; eesti; leningrad
-2,0,0,1,0,0,0,1,1,11,piloot; eesti; leningrad
-0,0,0,1,0,1,0,1,1,11,piloot; eesti; volga
-2,0,0,2,0,1,0,1,1,11,piloot; eesti; volga
-2,0,1,2,1,1,0,1,2,11,volga; piloot; eesti
-0,0,2,2,1,1,0,1,2,11,volga; leningrad; piloot; eesti
-0,1,2,1,1,1,0,1,1,11,volga; leningrad; piloot; eesti
+1,0,0,1,0,0,2,1,0,11,piloot; leningrad; eesti
+1,0,0,1,0,0,2,1,0,11,piloot; leningrad; eesti
+1,0,0,1,0,0,2,1,0,11,piloot; leningrad; eesti
+1,0,0,1,0,0,2,1,0,11,piloot; leningrad; eesti
+1,0,0,1,0,0,2,1,0,11,piloot; leningrad; eesti
+2,0,0,1,0,0,1,1,0,11,piloot; leningrad; eesti
+0,0,0,1,0,0,1,1,0,11,piloot; eesti
+2,0,0,2,0,0,1,1,0,11,piloot; eesti
+2,0,1,2,1,0,1,2,0,11,piloot; eesti; volga
+0,0,2,2,1,0,1,2,0,11,piloot; leningrad; eesti; volga
+0,1,2,1,1,0,1,1,0,11,piloot; leningrad; eesti; volga

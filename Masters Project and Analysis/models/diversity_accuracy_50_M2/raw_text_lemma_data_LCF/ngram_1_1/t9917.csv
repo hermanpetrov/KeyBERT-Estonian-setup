@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,1,1,0,11,aasta
-0,1,1,0,0,0,1,1,0,11,aasta
-0,1,1,0,0,0,1,1,0,11,aasta
-0,1,1,0,0,0,1,1,0,11,aasta
-0,1,0,0,0,0,1,1,0,11,aasta
-0,1,0,0,0,1,1,1,0,11,aasta
-0,1,0,0,0,0,0,1,0,11,aasta
-0,2,0,0,0,1,0,0,0,11,aasta; lill
-0,1,0,0,0,0,0,1,0,11,aasta
-0,1,0,0,0,0,0,0,0,11,aasta
-0,1,0,0,0,0,0,0,0,11,aasta
+3,1,2,0,0,2,2,3,0,11,liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+3,1,2,0,0,2,2,3,0,11,liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+3,1,2,0,0,2,2,3,0,11,liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+3,1,2,0,0,2,2,3,0,11,liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+3,1,0,0,0,2,2,3,0,11,liikumisharrastus; tervisesport; aasta; põllumees; maaelu; maaleht; olümpiakomitee
+3,1,0,0,0,1,2,2,0,11,maaelu; aasta; liikumisharrastus; maaleht; tervisesport; olümpiakomitee
+3,1,0,0,0,0,0,2,0,11,aasta; liikumisharrastus; maaleht; tervisesport; olümpiakomitee
+1,2,1,0,0,1,0,1,0,11,lill; aasta; maaleht; olümpiakomitee; põllumees
+1,1,0,0,0,0,0,2,0,11,maaleht; olümpiakomitee; aasta
+2,1,0,1,0,0,0,1,0,11,maaleht; tervisesport; olümpiakomitee; aasta
+2,1,1,1,0,0,0,0,0,11,aasta; tervisesport; olümpiakomitee; koduaeg

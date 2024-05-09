@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,4,0,0,5,5,4,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; sümfooniaorkester; lapsevanem
-2,1,4,0,0,5,5,4,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; sümfooniaorkester; lapsevanem
-2,0,4,0,0,5,5,4,0,10,muusikaõpetaja; noorteorkester; muusikakool; kontsertorkester; sümfooniaorkester
-1,0,3,0,0,5,5,4,0,10,muusikaõpetaja; noorteorkester; rakvere; muusikakool; kontsertorkester; sümfooniaorkester
-0,0,2,0,0,3,5,1,0,10,muusikaõpetaja; noorteorkester; rakvere; muusikakool; kontsertorkester; sümfooniaorkester
-0,0,2,0,0,2,4,0,0,10,sümfooniaorkester; muusikakool; rakvere; noorteorkester; kontsertorkester
-0,0,1,1,0,0,1,0,0,10,laps; muusikaõpetaja; rakvere
+2,1,4,0,0,5,5,4,0,10,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem
+2,1,4,0,0,5,5,4,0,10,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem
+2,0,4,0,0,5,5,4,0,10,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester
+1,0,3,0,0,5,5,4,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; muusikakool; noorteorkester
+0,0,2,0,0,3,5,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; muusikakool; noorteorkester
+0,0,2,0,0,2,4,0,0,10,noorteorkester; kontsertorkester; rakvere; sümfooniaorkester; muusikakool
+0,0,1,1,0,0,1,0,0,10,laps; rakvere; muusikaõpetaja
 0,1,0,0,0,0,0,0,0,10,rakvere
-0,1,0,1,1,2,0,2,0,10,laps; muusikaõpetaja; muusikakool; rakvere; virumaa
-0,0,0,1,1,1,0,1,0,10,virumaa; laps; muusikakool
+0,1,0,1,1,2,0,2,0,10,laps; muusikaõpetaja; virumaa; rakvere; muusikakool
+0,0,0,1,1,1,0,1,0,10,laps; muusikakool; virumaa
 0,1,0,1,0,0,0,1,0,10,laps; rakvere

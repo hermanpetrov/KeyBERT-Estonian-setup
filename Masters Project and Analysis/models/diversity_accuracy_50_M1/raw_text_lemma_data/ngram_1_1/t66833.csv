@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,4,0,0,2,3,0,2,15,festival; steinfeld; muusika; eesti; nele-eva
-0,1,4,0,0,2,3,0,2,15,festival; steinfeld; muusika; eesti; nele-eva
-0,1,4,0,0,2,3,0,2,15,festival; steinfeld; muusika; eesti; nele-eva
-0,1,3,0,0,2,3,0,2,15,festival; steinfeld; muusika; eesti; nele-eva
-0,1,4,0,0,2,3,0,2,15,festival; steinfeld; muusika; interpreet; eesti; nele-eva
-0,1,3,0,0,5,4,0,2,15,festival; steinfeld; eino; muusika; interpreet; eesti; publik; nele-eva
-1,1,3,0,0,4,4,2,2,15,festival; steinfeld; muusika; eesti; publik; nele-eva
-1,1,2,0,0,5,5,2,2,15,festival; steinfeld; muusika; eesti; traditsioon; tamberg; nele-eva
-1,1,5,2,0,4,5,1,2,15,festival; steinfeld; eino; muusika; interpreet; eesti; publik; tamberg; nele-eva
-1,2,2,1,0,4,1,1,2,15,festival; steinfeld; muusika; interpreet; eesti; steinway; traditsioon; tamberg
-1,1,3,1,0,2,1,1,2,15,festival; steinfeld; muusika; eesti; traditsioon; tamberg; nele-eva
+2,1,4,1,0,3,4,1,2,15,steinfeld; mammutkontsert; nele-eva; eesti; nüüdismuusika; muusika; festival
+2,1,4,1,0,3,4,1,2,15,steinfeld; mammutkontsert; nele-eva; eesti; nüüdismuusika; muusika; festival
+2,1,4,1,0,3,4,1,2,15,steinfeld; mammutkontsert; nele-eva; eesti; nüüdismuusika; muusika; festival
+2,1,3,1,0,3,4,1,2,15,steinfeld; mammutkontsert; nele-eva; eesti; nüüdismuusika; muusika; festival
+2,1,4,1,0,3,4,1,2,15,steinfeld; mammutkontsert; eesti; nele-eva; interpreet; nüüdismuusika; muusika; festival
+2,1,3,1,0,6,4,0,2,15,steinfeld; mammutkontsert; eesti; nele-eva; eino; nüüdismuusika; publik; muusika; uudisteos; festival; interpreet
+2,1,3,1,0,5,4,2,2,15,steinfeld; mammutkontsert; eesti; nele-eva; nüüdismuusika; publik; muusika; uudisteos; festival
+1,1,2,0,0,5,6,2,2,15,steinfeld; eesti; nele-eva; tamberg; traditsioon; muusika; uudisteos; festival
+1,1,5,2,0,4,5,1,2,15,steinfeld; eesti; nele-eva; tamberg; eino; publik; muusika; festival; interpreet
+1,2,2,1,0,4,1,1,2,15,steinfeld; eesti; tamberg; traditsioon; steinway; muusika; festival; interpreet
+1,1,3,1,0,2,1,1,3,15,steinfeld; eesti; nele-eva; tamberg; traditsioon; mammutkontsert; muusika; festival

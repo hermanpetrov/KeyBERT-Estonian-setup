@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,1,1,0,12,sõna
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,1,0,0,0,12,maagiline
-0,0,0,0,0,0,1,0,0,12,maagiline
-0,0,0,0,0,0,1,0,0,12,maagiline
+0,0,0,0,0,1,4,1,0,12,murdekeel; sõna; kirjakeel; rahvakeel; kantseleikeel
+0,0,0,0,0,1,4,1,0,12,murdekeel; sõna; kirjakeel; rahvakeel; kantseleikeel
+0,0,0,0,0,1,4,1,0,12,murdekeel; sõna; kirjakeel; rahvakeel; kantseleikeel
+0,0,0,0,0,1,4,1,0,12,murdekeel; sõna; kirjakeel; rahvakeel; kantseleikeel
+0,0,0,0,0,1,4,1,0,12,murdekeel; sõna; kirjakeel; rahvakeel; kantseleikeel
+0,0,0,0,0,1,5,1,0,12,kantseleikeel; kirjakeel; rahvakeel; sõna; keeleteadlane
+0,0,0,0,0,2,1,0,0,12,murdekeel; keeleteadlane; kirjakeel
+0,0,0,0,0,1,2,1,0,12,ilukirjandus; keeleteadlane; kirjakeel
+0,0,0,0,0,2,1,0,0,12,kirjakeel; keeleteadlane; maagiline
+0,1,0,0,0,0,2,0,0,12,kirjakeel; keeleteadlane; maagiline
+0,0,0,0,0,0,2,0,0,12,maagiline; kirjakeel

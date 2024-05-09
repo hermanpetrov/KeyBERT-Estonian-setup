@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,1,1,0,2,16,jannsen; ärkamine; eesti; rahvuslik
-1,0,1,0,0,1,1,0,2,16,jannsen; ärkamine; eesti; rahvuslik
-1,0,1,0,0,1,1,0,2,16,jannsen; ärkamine; eesti; rahvuslik
-1,0,1,0,0,1,1,0,2,16,jannsen; ärkamine; eesti; rahvuslik
-1,0,1,0,0,1,1,0,2,16,jannsen; ärkamine; eesti; rahvuslik
-1,0,1,0,0,3,1,0,2,16,karl; jannsen; ärkamine; eesti; rahvuslik
-0,0,1,1,0,2,2,0,2,16,karl; jannsen; ärkamine; eesti; rahvuslik
-0,0,2,0,0,3,1,0,2,16,karl; jannsen; ärkamine; eesti; rahvuslik
-1,0,2,0,0,2,1,1,2,16,karl; jannsen; ärkamine; eesti; rahvuslik
-0,0,2,0,0,2,1,1,2,16,karl; jannsen; ärkamine; eesti; rahvuslik
-0,0,2,1,0,3,1,1,1,16,keel; karl; jannsen; ärkamine; eesti
+3,0,2,1,0,2,2,1,2,16,üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; eesti; põllumees; rahvuslik
+3,0,2,1,0,2,2,1,2,16,üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; eesti; põllumees; rahvuslik
+3,0,2,1,0,2,2,1,2,16,üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; eesti; põllumees; rahvuslik
+3,0,2,1,0,2,2,1,2,16,üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; eesti; põllumees; rahvuslik
+3,0,2,1,0,1,2,2,2,16,eesti; põllumees; koorilaul; rahvuslik; üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus
+3,0,2,1,0,3,1,2,2,16,eesti; põllumees; rahvuslik; üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; karl
+1,0,1,2,0,2,4,2,2,16,eesti; põllumees; koorilaul; rahvuslik; üldlaulupidu; postimees; jannsen; ärkamine; karl
+1,0,2,1,0,3,1,3,2,16,eesti; rahvuslik; koorilaul; üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; karl
+2,0,2,0,0,3,1,4,2,16,eesti; rahvuslik; üldlaulupidu; postimees; jannsen; ärkamine; baltisakslus; karl
+1,0,2,0,0,3,1,3,3,16,eesti; rahvuslik; üldlaulupidu; postimees; jannsen; baltisakslus; ärkamine; karl
+2,0,2,1,0,5,2,2,1,16,eesti; põllumees; koorilaul; üldlaulupidu; keel; postimees; jannsen; ärkamine; baltisakslus; karl

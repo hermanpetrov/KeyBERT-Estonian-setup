@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,1,0,1,0,3,0,15,hendrik; paul; maletaja; eesti; võistkond
-0,2,0,1,0,1,0,3,0,15,hendrik; paul; maletaja; eesti; võistkond
-0,2,0,1,0,1,0,3,0,15,hendrik; paul; maletaja; eesti; võistkond
-0,2,0,1,0,1,0,3,0,15,hendrik; paul; maletaja; eesti; võistkond
-0,2,0,1,0,1,0,3,0,15,hendrik; paul; maletaja; eesti; võistkond
-0,2,0,1,0,3,0,3,0,15,hendrik; maletaja; paul; eesti; võistkond
-0,2,1,3,0,4,4,3,0,15,paul; klubi; eesti; hendrik; meister; maletaja; keres; võistkond
-0,1,1,2,0,4,3,3,0,15,paul; klubi; eesti; partii; hendrik; meister; keres
-0,0,1,1,0,2,2,3,0,15,turniir; meister; paul; klubi; eesti; keres
-1,0,1,1,0,2,2,3,0,15,paul; klubi; eesti; partii; meister; keres
-2,1,1,3,0,3,2,3,1,15,paul; eesti; partii; hendrik; meister; keres; võistkond
+0,2,0,1,0,1,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,0,1,0,1,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,0,1,0,1,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,0,1,0,1,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,0,1,0,1,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,0,1,0,3,0,3,0,15,hendrik; eesti; võistkond; paul; maletaja
+0,2,1,3,0,4,4,3,0,15,meister; keres; eesti; hendrik; võistkond; klubi; paul; maletaja
+0,1,1,2,0,4,3,3,0,15,partii; meister; keres; eesti; hendrik; klubi; paul
+0,0,1,1,0,2,2,3,0,15,meister; keres; eesti; klubi; paul; turniir
+1,0,1,1,0,2,2,3,0,15,partii; meister; keres; eesti; klubi; paul
+2,1,1,3,0,3,2,3,1,15,meister; partii; keres; eesti; hendrik; võistkond; paul

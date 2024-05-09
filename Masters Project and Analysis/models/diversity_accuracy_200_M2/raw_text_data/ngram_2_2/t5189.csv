@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,5,5,5,3,3,3,4,2,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-7,5,5,5,3,3,3,3,2,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-7,5,4,4,3,3,3,3,2,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-7,6,6,4,3,3,3,4,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-5,6,8,5,3,3,3,5,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-5,5,6,6,3,3,4,4,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-5,5,5,5,4,4,3,4,4,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; sulev
-4,3,5,4,4,3,3,5,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; sulev
-3,4,7,6,3,4,4,4,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; keedus; sulev
-3,4,7,4,4,3,5,4,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; sulev
-4,3,6,3,4,4,4,4,3,15,muuseum; aasta; lotte; gruusia; laidoneri; konkurentsivõime; sulev
+7,5,5,5,3,3,3,4,2,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+7,5,5,5,3,3,3,3,2,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+7,5,4,4,3,3,3,3,2,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+7,6,6,4,3,3,3,4,3,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+5,6,8,5,3,3,3,5,3,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+5,5,6,6,3,3,4,4,3,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+5,5,5,5,4,4,3,4,4,15,laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+4,3,5,4,4,3,3,5,3,15,laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+3,4,7,6,3,4,4,4,3,15,keedus; laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+3,4,7,4,4,3,5,4,3,15,laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum
+4,3,6,3,4,4,4,4,3,15,laidoneri; gruusia; sulev; lotte; aasta; konkurentsivõime; muuseum

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,1,0,1,0,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-1,2,0,1,0,1,0,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-1,2,0,1,0,1,0,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-1,2,0,1,0,1,0,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-1,2,0,1,0,1,0,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-1,2,1,1,0,1,1,1,0,15,eurotsoon; föderatsioon; heaolu; sotsiaalne
-0,3,1,1,0,2,1,2,0,15,reimo; eesti; rahaliit; eurotsoon; anti; föderatsioon; heaolu; sotsiaalne
-1,0,0,1,0,1,0,2,0,15,eurotsoon; kroon; föderatsioon; poolamets
-0,0,1,2,0,0,0,1,0,15,eesti; eurotsoon
-0,0,0,3,0,0,0,2,0,15,majandus; eurotsoon; anti; eesti
-0,1,0,2,0,0,0,1,0,15,heaolu; eesti; eurotsoon; anti
+1,2,0,1,0,0,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,2,0,1,0,0,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,2,0,1,0,0,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,2,0,1,0,0,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,2,0,1,0,0,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,2,1,1,0,1,1,0,0,15,heaolu; föderatsioon; sotsiaalne; eurotsoon
+0,3,1,1,0,1,2,0,0,15,anti; reimo; heaolu; föderatsioon; sotsiaalne; eurotsoon
+1,0,0,1,0,0,2,0,0,15,föderatsioon; kroon; eurotsoon
+0,0,1,2,0,0,1,0,0,15,eesti; eurotsoon
+0,0,0,3,0,0,2,0,0,15,majandus; anti; eesti; eurotsoon
+0,1,0,2,0,0,1,0,0,15,heaolu; eesti; anti; eurotsoon

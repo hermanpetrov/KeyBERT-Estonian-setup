@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,5,3,1,1,1,3,4,13,valitsus; töö; läti; poliitika; kommunist; liit; sõda; partei
-1,4,5,3,1,1,1,3,4,13,valitsus; töö; läti; poliitika; kommunist; liit; sõda; partei
-1,4,5,3,1,1,1,3,4,13,valitsus; töö; läti; poliitika; kommunist; liit; sõda; partei
-1,4,4,3,1,1,1,3,4,13,valitsus; töö; läti; poliitika; kommunist; liit; sõda; partei
-1,5,3,3,1,1,1,3,4,13,valitsus; töö; läti; poliitika; kommunist; liit; sõda; partei
-2,5,4,3,1,1,3,3,4,13,valitsus; töö; leedu; läti; poliitika; kommunist; liit; sõda; partei
-4,4,3,4,1,1,4,2,3,13,töö; valitsus; leedu; läti; poliitika; kommunist; jaakson; liit; sõda; partei
-1,2,3,1,1,2,3,1,3,13,valitsus; leedu; läti; kommunist; jaakson; liit; sõda; partei
-3,4,2,1,1,1,2,3,3,13,valitsus; töö; leedu; kommunist; jaakson; liit; sõda; partei
-2,6,2,0,2,1,3,2,3,13,valitsus; töö; leedu; läti; kommunist; liit; sõda; partei
-1,3,1,3,3,1,4,0,3,13,valitsus; leedu; läti; kommunist; liit; sõda; partei
+2,4,5,3,1,1,2,3,4,13,poliitika; kommunist; töörahvas; töö; läti; sõda; partei; valitsus; nõukogu; liit
+2,4,5,3,1,1,2,3,4,13,poliitika; kommunist; töörahvas; töö; läti; sõda; partei; valitsus; nõukogu; liit
+2,4,5,3,1,1,2,3,4,13,poliitika; kommunist; töörahvas; töö; läti; sõda; partei; valitsus; nõukogu; liit
+2,4,4,3,1,1,2,3,4,13,poliitika; kommunist; töörahvas; töö; läti; sõda; partei; valitsus; nõukogu; liit
+2,5,3,3,1,1,2,3,4,13,poliitika; kommunist; töörahvas; töö; läti; sõda; partei; valitsus; nõukogu; liit
+3,5,4,3,1,1,4,3,4,13,poliitika; kommunist; töörahvas; töö; leedu; läti; sõda; partei; valitsus; nõukogu; liit
+5,4,3,4,1,1,4,3,3,13,poliitika; kommunist; töörahvas; töö; leedu; jaakson; läti; sõda; partei; valitsus; nõukogu; liit
+1,2,3,1,1,2,3,2,3,13,kommunist; töörahvas; leedu; jaakson; läti; sõda; partei; valitsus; liit
+3,5,2,1,1,1,2,3,3,13,kommunist; töö; leedu; jaakson; sõda; partei; valitsus; nõukogu; liit
+2,7,2,2,2,1,3,2,3,13,kommunist; töörahvas; töö; leedu; läti; sõda; partei; valitsus; nõukogu; liit
+1,5,1,4,3,1,4,0,3,13,kommunist; töörahvas; leedu; läti; sõda; partei; valitsus; nõukogu; liit

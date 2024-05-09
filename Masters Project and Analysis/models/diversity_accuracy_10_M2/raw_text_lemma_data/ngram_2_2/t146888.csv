@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,3,0,3,3,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,3,3,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,3,3,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,3,3,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,3,3,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,3,3,3,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,3,0,4,2,3,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-4,3,1,3,0,3,2,4,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa
-3,3,1,2,0,2,5,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa
-4,3,1,2,0,3,6,2,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-2,3,1,2,0,2,5,2,3,13,ema; raamat; lugema; johan; saar; jääma; kon-tiki; isa
+2,3,1,3,0,3,3,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,3,3,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,3,3,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,3,3,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,3,3,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,3,3,3,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,3,0,4,2,3,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+4,3,1,3,0,3,2,4,3,13,johan; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+3,3,1,2,0,2,5,2,3,13,johan; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+4,3,1,2,0,3,6,2,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+2,3,1,2,0,2,5,2,3,13,johan; jääma; isa; raamat; ema; lugema; kon-tiki; saar

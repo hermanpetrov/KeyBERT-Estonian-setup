@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,1,0,11,facebook; karistus; suhkrutrahv
-2,1,0,0,2,0,0,2,0,11,facebook; karistus; suhkrutrahv
-2,2,0,0,2,0,0,2,0,11,facebook; karistus; aktsia; suhkrutrahv
-0,2,0,1,2,0,0,3,0,11,facebook; karistus; aktsia; trahv; suhkrutrahv
-0,1,0,1,2,1,0,3,0,11,facebook; karistus; aktsia; trahv; suhkrutrahv
-1,1,0,1,2,0,0,2,0,11,facebook; karistus; aktsia; suhkrutrahv
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,1,0,11,suhkrutrahv; karistus; facebook
+2,1,0,0,2,0,0,2,0,11,suhkrutrahv; karistus; facebook
+2,2,0,0,2,0,0,2,0,11,suhkrutrahv; karistus; aktsia; facebook
+0,2,0,1,2,0,0,3,0,11,trahv; suhkrutrahv; karistus; aktsia; facebook
+0,1,0,1,2,1,0,3,0,11,trahv; suhkrutrahv; karistus; aktsia; facebook
+1,1,0,1,2,0,0,2,0,11,suhkrutrahv; karistus; aktsia; facebook

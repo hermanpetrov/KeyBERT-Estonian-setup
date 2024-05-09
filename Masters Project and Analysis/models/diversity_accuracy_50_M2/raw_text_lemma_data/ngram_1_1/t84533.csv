@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,2,1,1,2,2,25,remark; realism; ferdinand; esimene; sõda
-2,0,2,0,2,1,1,2,2,25,remark; realism; ferdinand; esimene; sõda
-2,0,2,0,2,1,1,2,2,25,remark; realism; ferdinand; esimene; sõda
-2,0,2,0,2,1,1,2,1,25,remark; realism; ferdinand; esimene; sõda
-2,0,1,0,2,1,1,2,1,25,remark; realism; ferdinand; esimene; sõda
-2,0,2,0,2,0,1,1,1,25,remark; realism; ferdinand; esimene; erich
-2,1,1,0,2,1,1,1,1,25,remark; realism; ferdinand; esimene; erich
-1,0,2,0,2,1,1,1,1,25,remark; uus; realism; esimene; sõda; erich
-0,1,1,1,2,1,1,0,1,25,remark; realism; esimene; sõda; erich; jünger
-1,0,1,1,2,1,1,0,0,25,ludwig; renn; remark; realism; ferdinand; erich
-1,1,0,1,3,1,1,0,1,25,ludwig; renn; remark; torsel; realism; ferdinand; maria
+2,0,4,0,2,3,3,4,2,25,realism; sõjaromaan; ferdinand; sõda; esimene; remark; maailmasõda
+2,0,4,0,2,3,3,4,2,25,realism; sõjaromaan; ferdinand; sõda; esimene; remark; maailmasõda
+2,0,4,0,2,3,3,4,2,25,realism; sõjaromaan; ferdinand; sõda; esimene; remark; maailmasõda
+2,0,3,0,2,3,3,4,1,25,realism; sõjaromaan; ferdinand; sõda; esimene; remark; maailmasõda
+2,0,2,0,2,3,3,4,1,25,realism; sõjaromaan; ferdinand; sõda; esimene; remark; maailmasõda
+2,0,2,0,2,1,3,2,1,25,realism; erich; sõjaromaan; ferdinand; esimene; remark; maailmasõda
+2,1,1,1,2,1,1,2,1,25,esimene; realism; erich; remark; sõjaromaan; ferdinand
+1,0,2,0,2,1,1,1,1,25,esimene; realism; erich; remark; sõda; uus
+0,1,1,2,2,1,1,0,1,25,esimene; realism; erich; remark; jünger; sõda; maailmasõda
+1,0,1,2,2,1,1,0,0,25,ludwig; renn; realism; erich; remark; maailmasõda; ferdinand
+3,1,0,2,3,1,1,0,1,25,maria; realism; torsel; sõjaromaan; ferdinand; ludwig; renn; remark; maailmasõda

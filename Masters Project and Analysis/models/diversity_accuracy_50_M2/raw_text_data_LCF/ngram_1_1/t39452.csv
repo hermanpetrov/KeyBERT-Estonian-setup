@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-1,0,1,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-1,0,0,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-1,0,0,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-1,0,0,1,0,3,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-1,0,0,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha; viisavaba
-0,0,0,0,0,1,2,0,1,13,erakondade; avo; tagatisraha
-1,0,0,1,0,1,2,0,1,13,avo; sõidusoodustus; erakondade; tagatisraha
-0,1,0,1,0,0,2,1,0,13,erakondade; tagatisraha; viisavaba
-0,0,0,1,0,1,1,0,0,13,erakondade; tagatisraha; viisavaba
-0,0,0,0,0,1,1,0,0,13,tagatisraha; viisavaba
+1,0,1,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+1,0,1,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+1,0,0,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+1,0,0,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+1,0,0,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+1,0,0,1,0,2,1,1,0,13,sõidusoodustus; erakondade; viisavaba; avo; tagatisraha
+0,0,0,0,0,2,0,1,0,13,tagatisraha; erakondade; avo
+1,0,0,1,0,2,0,1,0,13,sõidusoodustus; erakondade; avo; tagatisraha
+0,1,0,1,0,2,1,0,0,13,tagatisraha; erakondade; viisavaba
+0,0,0,1,0,1,0,0,0,13,erakondade; viisavaba
+0,0,0,0,0,1,0,0,0,13,viisavaba

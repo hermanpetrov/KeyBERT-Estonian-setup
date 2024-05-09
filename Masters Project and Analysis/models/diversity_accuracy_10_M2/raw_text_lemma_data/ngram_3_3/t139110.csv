@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,0,1,3,2,12,õppus; väin; sõda; lahing; britt; saar
-2,0,2,2,0,1,1,2,2,12,õppus; väin; sõda; lahing; britt; saar
-2,1,2,2,0,1,0,2,2,12,väin; õppus; sõda; lahing; britt; saar
-2,1,2,3,0,1,0,2,2,12,nato; väin; õppus; saar; sõda; lahing; britt
-1,3,2,3,0,0,2,3,2,12,nato; õppus; saar; suur; sõda; lahing; britt
-3,3,2,3,0,0,2,1,2,12,nato; õppus; väin; saar; suur; sõda; lahing; britt
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,0,1,3,2,12,õppus; britt; lahing; väin; saar; sõda
+2,0,2,2,0,1,1,2,2,12,õppus; britt; lahing; väin; saar; sõda
+2,1,2,2,0,1,0,2,2,12,õppus; britt; lahing; väin; saar; sõda
+2,1,2,3,0,1,0,2,2,12,lahing; britt; nato; sõda; õppus; väin; saar
+1,3,2,3,0,0,2,3,2,12,lahing; britt; nato; sõda; õppus; suur; saar
+3,3,2,4,0,0,2,2,2,12,lahing; britt; nato; sõda; õppus; väin; suur; kaitseliit; saar

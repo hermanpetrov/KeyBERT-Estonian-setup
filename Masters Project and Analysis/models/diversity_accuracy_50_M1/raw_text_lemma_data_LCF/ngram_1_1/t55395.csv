@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,17,ruth-kaja; mõis
-1,0,0,0,0,0,0,1,0,17,ruth-kaja; mõis
-1,0,0,0,0,0,0,1,0,17,ruth-kaja; mõis
-1,0,0,0,0,0,0,1,0,17,ruth-kaja; mõis
-1,0,0,0,0,0,0,1,0,17,ruth-kaja; mõis
-1,0,1,0,0,1,0,2,0,17,norra; ruth-kaja; mõis
-1,1,1,2,0,0,1,2,0,17,norra; ruth-kaja; mõis
-2,1,1,1,0,1,1,2,0,17,norra; ruth-kaja; concordia; mõis; pekk; mart
-2,2,1,0,0,0,1,2,0,17,norra; ruth-kaja; concordia; mõis; pekk
-1,2,2,1,0,0,0,1,0,17,norra; saun; ruth-kaja; concordia; mõis; pekk
-1,2,2,2,0,0,0,2,0,17,norra; saun; ruth-kaja; concordia; mõis; pekk
+2,0,0,1,0,0,0,2,1,17,mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+2,0,0,1,0,0,0,2,1,17,mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+2,0,0,1,0,0,0,2,1,17,mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+2,0,0,1,0,0,0,2,1,17,mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+2,0,0,1,0,0,0,2,1,17,mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+2,0,2,1,0,2,0,3,1,17,norra; sisekujundus; mõisaproua; ülikool; mõis; elamiskõlbulik; ruth-kaja
+2,1,1,2,0,1,1,2,1,17,norra; mõisaproua; ülikool; mõis; sisekujundus; ruth-kaja
+3,1,1,1,0,1,1,2,1,17,norra; pekk; ülikool; mõis; mart; concordia; elamiskõlbulik; ruth-kaja
+3,2,1,0,0,0,1,3,1,17,norra; sisekujundus; pekk; ülikool; mõis; concordia; elamiskõlbulik; ruth-kaja
+1,2,3,1,0,0,0,2,1,17,norra; saun; pekk; ülikool; mõis; elamiskõlbulik; concordia; sisekujundus; ruth-kaja
+1,2,4,2,0,0,0,3,1,17,norra; saun; pekk; ülikool; mõis; elamiskõlbulik; concordia; sisekujundus; ruth-kaja

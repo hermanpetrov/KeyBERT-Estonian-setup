@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,0,2,3,1,2,1,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,4,0,2,3,1,2,1,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,4,0,2,3,1,2,1,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,4,1,2,3,1,2,1,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,4,2,2,3,2,2,1,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,4,1,2,3,3,3,2,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-4,3,3,0,3,6,3,2,1,11,teater; kriitika; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-2,2,1,4,3,5,2,3,1,11,teater; näitleja; intervjuu; rapla; mikomägi; panso; voldemar
-2,1,2,4,2,5,2,1,1,11,teater; kriitika; näitleja; intervjuu; mikomägi; rapla; panso; voldemar
-3,4,2,2,5,3,1,2,2,11,teater; kriitika; näitleja; intervjuu; mikomägi; rapla; panso; voldemar
-3,2,0,1,5,2,3,2,2,11,teater; kriitika; näitleja; intervjuu; rapla; panso; voldemar
+4,4,0,2,3,1,2,1,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,4,0,2,3,1,2,1,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,4,0,2,3,1,2,1,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,4,1,2,3,1,2,1,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,4,2,2,3,2,2,1,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,4,1,2,3,3,3,2,1,11,mikomägi; panso; rapla; intervjuu; näitleja; voldemar; teater
+4,3,3,0,3,6,3,2,1,11,mikomägi; panso; rapla; kriitika; intervjuu; näitleja; voldemar; teater
+2,2,1,5,3,5,2,3,1,11,mikomägi; panso; rapla; intervjuu; näitleja; teatrikool; voldemar; teater
+2,2,2,5,2,5,2,1,1,11,mikomägi; kriitika; panso; rapla; intervjuu; näitleja; teatrikool; voldemar; teater
+3,4,2,2,5,3,1,2,2,11,mikomägi; kriitika; rapla; panso; intervjuu; näitleja; voldemar; teater
+3,2,0,1,5,2,3,2,2,11,kriitika; panso; rapla; intervjuu; näitleja; voldemar; teater

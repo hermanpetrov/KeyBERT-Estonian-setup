@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,2,0,5,6,3,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,3,2,0,5,6,3,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,3,2,0,5,6,3,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,2,2,0,5,6,3,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,2,2,0,5,6,3,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,1,2,0,1,6,4,1,13,muusikamuuseum; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,1,0,1,0,0,1,2,1,13,muusikamuuseum; klaverimeister; eesti; klavessiin; klaveriehitus
-1,2,1,0,0,0,2,1,1,13,muusikamuuseum; klaverimeister; pianiino; eesti; klavessiin; klaveriehitus
-1,1,0,1,0,0,0,0,2,13,muusikamuuseum; pianiino; eesti; klavessiin
-1,1,1,1,0,0,0,0,1,13,muusikamuuseum; pianiino; eesti; klavessiin
-0,1,0,1,0,0,0,1,1,13,muusikamuuseum; pianiino; eesti
+1,2,3,2,0,5,6,3,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,3,2,0,5,6,3,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,3,2,0,5,6,3,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,2,2,0,5,6,3,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,2,2,0,5,6,3,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,1,2,0,1,6,4,1,13,pianiino; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,1,0,1,0,0,1,2,1,13,klaveriehitus; klaverimeister; klavessiin; eesti; muusikamuuseum
+1,2,1,0,0,0,2,1,1,13,pianiino; klaveriehitus; klavessiin; klaverimeister; eesti; muusikamuuseum
+1,1,0,1,0,0,0,0,2,13,pianiino; eesti; klavessiin; muusikamuuseum
+1,1,1,1,0,0,0,0,1,13,pianiino; muusikamuuseum; eesti; klavessiin
+0,1,0,1,0,0,0,1,1,13,pianiino; muusikamuuseum; eesti

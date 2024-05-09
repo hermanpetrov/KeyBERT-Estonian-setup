@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
-0,1,1,0,0,0,0,1,1,19,eesti; aasta; sulev
-0,1,1,0,0,0,0,0,1,19,eesti; aasta; sulev
-0,1,1,0,0,0,0,1,1,19,eesti; aasta; sulev
-0,1,0,0,0,0,0,0,1,19,eesti; aasta
+1,1,1,0,0,1,1,1,1,19,eesti; aasta; põllumees; võistlussport
+1,1,1,0,0,1,1,1,1,19,eesti; aasta; põllumees; võistlussport
+1,1,1,0,0,1,1,1,1,19,eesti; aasta; põllumees; võistlussport
+1,1,1,0,0,1,1,1,1,19,eesti; aasta; põllumees; võistlussport
+1,1,0,0,0,1,1,1,1,19,eesti; aasta; põllumees; võistlussport
+1,1,0,0,0,0,0,0,1,19,aasta; eesti; võistlussport
+1,1,0,0,0,0,0,0,1,19,aasta; eesti; võistlussport
+1,1,1,0,0,0,0,1,1,19,aasta; eesti; võistlussport; sulev
+1,1,2,1,0,0,0,0,1,19,eesti; võistlussport; sulev; tervisesport; aasta; põllumees
+2,1,1,0,0,0,0,1,1,19,eesti; aasta; sulev; tervisesport; olümpiakomitee
+2,1,0,0,0,0,0,0,1,19,tervisesport; olümpiakomitee; eesti; aasta

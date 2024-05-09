@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,2,2,2,2,3,0,18,indrek; regioon; saar; andrus; ott; ilves; komisjon; euroopa
-1,2,2,2,2,2,2,3,0,18,indrek; regioon; saar; andrus; ott; ilves; komisjon; euroopa
-1,2,2,2,2,2,2,3,0,18,indrek; regioon; saar; andrus; ott; ilves; komisjon; euroopa
-1,2,2,2,2,2,2,2,0,18,andrus; indrek; regioon; ilves; komisjon; euroopa; saar
-1,2,4,2,2,2,2,2,0,18,indrek; regioon; saar; andrus; ilves; komisjon; euroopa
-0,2,4,2,2,4,2,2,0,18,indrek; regioon; saar; andrus; ilves; komisjon; euroopa
-4,2,4,1,2,4,2,3,0,18,indrek; regioon; saar; andrus; ilves; komisjon; euroopa
-2,2,4,4,2,5,2,4,1,18,regioon; indrek; saar; andrus; ott; ilves; komisjon; euroopa
-2,2,6,5,4,4,3,2,1,18,kristjan; regioon; indrek; saar; ilves; andrus; ott; ansip; komisjon; euroopa
-2,4,4,6,4,4,3,3,1,18,indrek; regioon; ilves; saar; andrus; ott; ansip; komisjon; euroopa
-3,2,4,5,3,4,4,2,1,18,regioon; indrek; ilves; saar; andrus; ansip; komisjon; euroopa
+4,4,4,5,4,2,2,5,1,18,andrus; eelarve; komisjon; ott; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,5,4,5,4,2,2,5,1,18,andrus; eelarve; komisjon; ott; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,5,4,5,4,2,2,5,1,18,andrus; eelarve; komisjon; ott; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,5,4,5,4,2,2,4,1,18,andrus; eelarve; komisjon; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,5,6,5,4,2,2,4,1,18,andrus; eelarve; komisjon; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,6,6,5,4,5,3,4,1,18,andrus; eelarve; komisjon; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+6,7,6,4,4,5,3,5,1,18,andrus; eelarve; komisjon; spordisõnum; maksupettus; abikaasa; ilves; päevakada; tulistamisjuhtum; euroopa; indrek; regioon; saar
+4,6,6,6,3,5,3,5,2,18,andrus; eelarve; ott; komisjon; maksupettus; tulistamisjuhtum; euroopa; regioon; spordisõnum; abikaasa; ilves; päevakada; indrek; saar
+3,2,9,6,5,4,4,3,2,18,andrus; eelarve; komisjon; ott; spordisõnum; ansip; abikaasa; kristjan; päevakada; ilves; euroopa; indrek; regioon; saar
+4,5,7,7,5,4,4,5,3,18,andrus; eelarve; komisjon; ott; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon; saar
+5,3,5,6,4,4,4,4,3,18,andrus; komisjon; eelarve; spordisõnum; ansip; abikaasa; ilves; euroopa; indrek; regioon; saar

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,5,0,2,6,5,2,3,13,lauljatar; crossover; miami; emilio; grammy; stefan; kuuba; gloria
-1,1,5,0,3,6,5,2,3,13,lauljatar; crossover; miami; emilio; grammy; stefan; kuuba; gloria
-1,1,5,0,3,7,4,1,3,13,lauljatar; crossover; miami; emilio; grammy; stefan; kuuba; gloria
-1,1,5,0,3,7,5,2,2,13,lauljatar; crossover; miami; emilio; grammy; stefan; kuuba; gloria
-1,1,3,0,3,6,3,1,2,13,lauljatar; crossover; emilio; grammy; stefan; kuuba; gloria
-1,1,3,0,4,5,3,2,2,13,lauljatar; crossover; miami; grammy; stefan; kuuba; gloria
-0,0,5,2,4,5,4,3,3,13,lauljatar; crossover; miami; emilio; grammy; stefan; kuuba; gloria
-0,1,3,2,4,4,2,2,3,13,lauljatar; crossover; miami; emilio; grammy; stefan; gloria
-1,1,2,2,4,3,1,2,3,13,stefan; lauljatar; crossover; grammy; miami; gloria
-1,2,4,2,4,3,2,3,1,13,crossover; miami; emilio; grammy; stefan; gloria
-1,2,1,3,3,2,2,4,1,13,crossover; miami; emilio; grammy; stefan; gloria
+1,1,5,0,2,6,5,2,3,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; miami; crossover
+1,1,5,0,3,6,5,2,3,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; miami; crossover
+1,1,5,0,3,7,4,1,3,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; miami; crossover
+1,1,5,0,3,7,5,2,2,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; miami; crossover
+1,1,3,0,3,6,3,1,2,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; crossover
+1,1,3,0,4,5,3,2,2,13,lauljatar; grammy; gloria; stefan; kuuba; miami; crossover
+0,0,5,2,4,5,4,3,3,13,lauljatar; grammy; emilio; gloria; stefan; kuuba; miami; crossover
+0,1,3,2,4,4,2,2,3,13,lauljatar; grammy; emilio; gloria; stefan; miami; crossover
+1,1,2,2,4,3,1,2,3,13,lauljatar; miami; grammy; gloria; stefan; crossover
+1,2,4,2,4,3,2,3,1,13,grammy; emilio; gloria; stefan; miami; crossover
+1,2,1,3,3,2,2,4,1,13,grammy; emilio; gloria; stefan; miami; crossover

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,2,2,0,0,12,hägusus; kõnekeel; eesti
-1,0,0,0,0,2,2,0,1,12,hägusus; kõnekeel; eesti
-1,0,0,0,0,2,2,0,1,12,hägusus; kõnekeel; eesti
-1,0,0,0,0,2,2,0,1,12,hägusus; kõnekeel; eesti
-1,0,0,0,0,2,2,0,1,12,hägusus; kõnekeel; eesti
-1,0,0,0,0,1,2,0,1,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,2,2,0,0,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,2,2,0,1,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,2,2,0,1,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,2,2,0,1,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,2,2,0,1,12,eesti; hägusus; kõnekeel
+1,0,0,0,0,1,2,0,1,12,kõnekeel; eesti; hägusus
 1,0,2,0,0,0,1,0,1,12,keel; eesti; hägusus
-0,0,1,1,0,0,1,1,1,12,keel; isereguleeruv; eesti
+0,0,1,1,0,0,1,1,1,12,isereguleeruv; keel; eesti
 0,0,1,0,0,0,1,0,0,12,keel; eesti
 0,0,0,0,0,0,1,0,1,12,eesti
 0,0,0,0,0,0,1,0,1,12,eesti

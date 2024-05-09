@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-3,1,1,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-3,1,1,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-3,1,1,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-3,1,1,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-3,2,2,1,0,2,2,1,0,12,eelarve; isamaa; hõff; haigekassa; euroopa
-2,1,2,0,0,2,2,1,0,12,eelarve; regilaul; hõff; haigekassa; euroopa
-0,2,2,1,0,2,2,1,0,12,eelarve; haigekassa; euroopa; sammas
-0,2,2,1,0,2,2,1,0,12,eelarve; hõff; haigekassa; euroopa; sammas
-1,1,2,1,0,2,2,1,0,12,eelarve; gruusia; haigekassa; euroopa; sammas
-1,1,1,1,0,1,1,2,0,12,regilaul; haigekassa; euroopa
+3,1,1,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+3,1,1,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+3,1,1,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+3,1,1,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+3,1,1,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+3,2,2,1,0,2,2,1,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+2,1,2,0,0,2,2,1,0,12,hõff; regilaul; euroopa; eelarve; haigekassa
+0,2,2,1,0,2,2,1,0,12,euroopa; eelarve; sammas; haigekassa
+0,2,2,1,0,2,2,1,0,12,hõff; euroopa; eelarve; sammas; haigekassa
+1,1,2,1,0,2,2,1,0,12,gruusia; euroopa; eelarve; sammas; haigekassa
+1,1,1,1,0,1,1,2,0,12,regilaul; euroopa; haigekassa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,0,2,2,13,suurelt; blogi; watson; arvuti; arvutipark; google
-0,0,2,0,0,0,0,2,2,13,suurelt; blogi; watson; arvuti; arvutipark; google
-0,0,2,0,0,0,0,2,2,13,suurelt; blogi; watson; arvuti; arvutipark; google
-0,0,2,0,0,0,0,2,2,13,suurelt; blogi; watson; arvuti; arvutipark; google
-0,0,2,0,0,0,0,2,2,13,suurelt; blogi; watson; arvuti; arvutipark; google
-0,0,2,0,0,0,0,3,2,13,mõtle; blogi; watson; arvuti; arvutipark; google
-0,0,1,0,0,0,0,1,2,13,mõtle; blogi; google; watson
-0,0,1,0,0,0,0,0,2,13,blogi; google; watson
-0,0,1,0,0,0,0,0,2,13,blogi; google; watson
-0,0,2,1,0,0,0,1,2,13,tehnoloogia; blogi; watson; arvuti; arvutipark; google
-0,0,2,1,0,0,0,1,2,13,thomas; tehnoloogia; blogi; watson; arvuti; google
+0,0,2,0,0,0,0,2,2,13,arvuti; google; arvutipark; watson; suurelt; blogi
+0,0,2,0,0,0,0,2,2,13,arvuti; google; arvutipark; watson; suurelt; blogi
+0,0,2,0,0,0,0,2,2,13,arvuti; google; arvutipark; watson; suurelt; blogi
+0,0,2,0,0,0,0,2,2,13,arvuti; google; arvutipark; watson; suurelt; blogi
+0,0,2,0,0,0,0,2,2,13,arvuti; google; arvutipark; watson; suurelt; blogi
+0,0,2,0,0,0,0,3,2,13,arvuti; google; arvutipark; mõtle; watson; blogi
+0,0,1,0,0,0,0,1,2,13,google; mõtle; watson; blogi
+0,0,1,0,0,0,0,0,2,13,google; watson; blogi
+0,0,1,0,0,0,0,0,2,13,google; watson; blogi
+0,0,2,1,0,0,0,1,2,13,arvuti; google; arvutipark; tehnoloogia; watson; blogi
+0,0,2,1,0,0,0,1,2,13,arvuti; google; tehnoloogia; watson; thomas; blogi

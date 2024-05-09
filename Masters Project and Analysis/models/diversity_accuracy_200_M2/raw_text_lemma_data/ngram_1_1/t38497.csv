@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,5,1,3,6,4,4,2,15,kirjutamine; keränen; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
-3,3,5,1,3,6,4,3,2,15,kirjutamine; keränen; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
-2,4,4,1,3,6,4,3,2,15,kirjutamine; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
-2,4,3,1,3,6,5,3,2,15,kirjutamine; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
-2,4,2,1,3,4,5,3,2,15,kirjutamine; raamat; johannes; eesti; aavik; soome; mika; keel; õppimine; vend; kullo
-2,3,2,1,3,4,4,3,2,15,kirjutamine; raamat; keränen; johannes; eesti; mika; keel; õppimine; vend; kullo
-1,2,3,3,3,1,2,1,2,15,kirjutamine; keränen; johannes; eesti; soome; keel; õppimine; vend; kullo
-1,1,4,4,3,0,3,1,4,15,kirjutamine; raamat; johannes; õppimine; eesti; soome; mika; keel; aavik; vend; kullo
-0,2,2,5,5,2,3,0,4,15,raamat; keränen; johannes; õppimine; eesti; soome; mika; keel; aavik; vend; kullo
-1,1,2,4,5,2,2,1,4,15,raamat; keränen; johannes; eesti; mika; keel; aavik; vend
-2,1,0,2,4,3,2,1,4,15,raamat; johannes; eesti; mika; keel; aavik; vend
+5,4,7,1,4,9,7,7,4,15,õppimine; sõnaloome; soome; johannes; mika; sõnavõistlus; keränen; aavik; vend; eesti; võõrsõna; keel; raamat; kirjutamine; kullo
+5,4,7,1,4,9,7,6,4,15,õppimine; sõnaloome; soome; johannes; mika; sõnavõistlus; keränen; aavik; vend; eesti; võõrsõna; keel; raamat; kirjutamine; kullo
+4,5,4,1,4,9,7,5,4,15,õppimine; sõnaloome; soome; johannes; mika; sõnavõistlus; aavik; vend; eesti; võõrsõna; keel; raamat; kirjutamine; kullo
+4,5,3,1,3,9,8,5,4,15,õppimine; sõnaloome; soome; johannes; mika; sõnavõistlus; aavik; vend; eesti; võõrsõna; keel; raamat; kirjutamine; kullo
+4,5,2,1,3,6,7,5,5,15,õppimine; sõnaloome; soome; johannes; mika; sõnavõistlus; aavik; vend; eesti; võõrsõna; keel; raamat; kirjutamine; kullo
+4,4,2,1,3,4,5,4,5,15,õppimine; vend; sõnaloome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; raamat; keränen; kirjutamine; kullo
+3,3,4,3,3,1,3,2,5,15,õppimine; vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; keränen; kirjutamine; kullo
+3,2,4,5,3,0,4,1,6,15,õppimine; vend; sõnaloome; soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; raamat; kirjutamine; aavik; kullo
+2,3,2,6,5,2,4,0,5,15,õppimine; vend; sõnaloome; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; raamat; aavik; kullo
+2,2,2,5,5,2,2,1,5,15,vend; sõnaloome; eesti; johannes; mika; sõnavõistlus; keel; raamat; keränen; aavik
+3,2,0,3,4,3,2,1,5,15,vend; sõnaloome; eesti; johannes; mika; sõnavõistlus; keel; raamat; aavik

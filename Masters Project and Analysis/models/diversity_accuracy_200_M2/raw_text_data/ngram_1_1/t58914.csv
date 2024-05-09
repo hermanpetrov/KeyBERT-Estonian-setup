@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,2,0,0,1,0,12,torm; mageveehorisont; sadam; veetõus
-2,1,0,0,2,0,0,1,0,12,torm; mageveehorisont; sadam; veetõus
-2,1,0,0,2,0,0,1,0,12,torm; mageveehorisont; sadam; veetõus
-2,1,0,0,2,0,0,1,0,12,torm; mageveehorisont; sadam; veetõus
-1,1,1,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-2,0,1,0,2,0,0,0,0,12,torm; elukvaliteet; mageveehorisont; sadam
-1,0,1,0,2,0,0,0,0,12,torm; elukvaliteet; sadam; mageveehorisont
-1,0,0,0,3,0,1,0,0,12,torm; elukvaliteet; sadam; tamm
+2,1,0,0,2,0,0,1,0,12,torm; veetõus; mageveehorisont; sadam
+2,1,0,0,2,0,0,1,0,12,torm; veetõus; mageveehorisont; sadam
+2,1,0,0,2,0,0,1,0,12,torm; veetõus; mageveehorisont; sadam
+2,1,0,0,2,0,0,1,0,12,torm; veetõus; mageveehorisont; sadam
+1,1,1,0,2,0,0,0,0,12,torm; sadam; mageveehorisont
+2,0,1,0,2,0,0,0,0,12,torm; sadam; elukvaliteet; mageveehorisont
+1,0,1,0,2,0,0,0,0,12,torm; sadam; elukvaliteet; mageveehorisont
+1,0,0,0,3,0,1,0,0,12,torm; elukvaliteet; tamm; sadam
 1,0,2,0,2,0,0,0,0,12,torm; elukvaliteet; tamm; mageveehorisont
 1,0,1,0,2,0,0,0,0,12,torm; elukvaliteet; tamm; mageveehorisont
-1,0,1,1,2,0,1,0,0,12,torm; elukvaliteet; mageveehorisont; sadam; tamm
+1,0,1,1,2,0,1,0,0,12,torm; elukvaliteet; tamm; mageveehorisont; sadam

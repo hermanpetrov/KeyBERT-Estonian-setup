@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,2,1,4,0,14,jüri; mozart; interpreet; gerretz; kammerorkester
-0,2,1,0,0,2,1,4,0,14,jüri; mozart; interpreet; gerretz; kammerorkester
-0,2,1,0,0,2,1,4,0,14,jüri; mozart; interpreet; gerretz; kammerorkester
-0,2,1,0,0,2,1,4,0,14,jüri; mozart; interpreet; gerretz; kammerorkester
-0,2,1,0,0,2,1,4,0,14,jüri; mozart; interpreet; gerretz; kammerorkester
-0,1,2,0,0,2,1,3,0,14,jüri; interpreet; gerretz; kammerorkester
-2,2,1,1,0,2,1,2,0,14,jüri; interpreet; gerretz
-0,2,1,1,0,2,1,3,0,14,jüri; interpreet; gerretz; kriisimoment
-1,0,1,0,1,1,1,3,0,14,jüri; interpreet; gerretz
-1,0,2,4,0,2,1,3,0,14,jüri; interpreet; gerretz; leibur; kammerorkester; arvo
-1,0,2,4,0,2,0,2,0,14,jüri; interpreet; gerretz; leibur; arvo
+0,2,1,0,0,2,1,4,0,14,mozart; gerretz; jüri; kammerorkester; interpreet
+0,2,1,0,0,2,1,4,0,14,mozart; gerretz; jüri; kammerorkester; interpreet
+0,2,1,0,0,2,1,4,0,14,mozart; gerretz; jüri; kammerorkester; interpreet
+0,2,1,0,0,2,1,4,0,14,mozart; gerretz; jüri; kammerorkester; interpreet
+0,2,1,0,0,2,1,4,0,14,mozart; gerretz; jüri; kammerorkester; interpreet
+0,1,2,0,0,2,1,3,0,14,gerretz; jüri; kammerorkester; interpreet
+2,2,1,1,0,2,1,2,0,14,gerretz; jüri; interpreet
+0,2,1,1,0,2,1,3,0,14,gerretz; jüri; kriisimoment; interpreet
+1,0,1,0,1,1,1,3,0,14,jüri; gerretz; interpreet
+1,0,2,4,0,2,1,3,0,14,leibur; gerretz; jüri; kammerorkester; arvo; interpreet
+1,0,2,4,0,2,0,2,0,14,leibur; gerretz; jüri; arvo; interpreet

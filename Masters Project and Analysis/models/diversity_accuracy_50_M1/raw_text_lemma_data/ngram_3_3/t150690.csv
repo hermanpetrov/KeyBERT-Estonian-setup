@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-2,5,3,2,1,2,2,3,3,13,reimand; indrek; keel; palk; eesti; ministeerium
-4,5,3,2,1,2,2,3,3,13,reimand; indrek; eesti; keel; palk; ministeerium
-5,3,3,4,0,4,2,3,3,13,indrek; eesti; keel; palk; ministeerium
-6,5,3,8,1,5,3,4,3,13,reimand; indrek; kriivan; eesti; keel; palk; piret; ministeerium
-5,5,3,8,4,4,3,3,3,13,reimand; indrek; kriivan; eesti; keel; palk; piret; ministeerium
-7,3,3,6,5,5,5,3,3,13,reimand; indrek; kriivan; eesti; keel; palk; piret; ministeerium
+3,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+3,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+3,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+3,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+3,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+4,7,5,4,2,4,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; reimand; keel; keelepoliitika; indrek; arengukava
+6,7,5,4,2,5,5,5,4,13,eesti; ministeerium; koolisüsteem; tasakaal; palk; reimand; keel; keelepoliitika; indrek; arengukava
+7,5,5,6,2,6,4,5,4,13,eesti; ministeerium; koolisüsteem; palk; keel; keelepoliitika; indrek; arengukava
+9,8,5,11,3,7,5,6,4,13,arengukava; rahvusvahelisus; piret; eesti; kriivan; ministeerium; palk; reimand; keel; keelepoliitika; indrek; koolisüsteem
+7,7,5,10,7,6,5,5,4,13,arengukava; rahvusvahelisus; piret; eesti; ministeerium; kriivan; palk; tasakaal; reimand; keel; keelepoliitika; indrek; koolisüsteem
+9,6,6,8,8,6,7,5,5,13,arengukava; piret; eesti; kriivan; ministeerium; palk; tasakaal; reimand; keelepoliitika; keel; indrek; koolisüsteem

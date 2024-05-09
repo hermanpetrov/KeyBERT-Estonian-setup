@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,4,0,1,1,3,1,1,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,1,1,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,1,1,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,1,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,1,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,1,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,0,1,1,3,2,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,1,1,1,4,3,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,4,2,1,1,4,3,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,0,4,2,1,1,4,3,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
-3,1,5,2,2,1,4,3,0,13,kreutzwald; keskus; eesti; teema-aasta; lugemine; identiteet
+6,2,8,3,1,2,6,6,2,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,8,3,1,2,6,6,2,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,8,3,1,2,6,6,2,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,8,3,1,2,6,6,1,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,8,3,1,2,6,6,1,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,7,3,1,3,6,6,1,13,väärtushinnang; keskus; rahvapärimus; kreutzwald; rahvajutt; eesti; rahvakultuur; väljakutse; teema-aasta; jutukool; identiteet; lugemine
+6,2,7,3,1,3,6,7,1,13,väärtushinnang; keskus; kreutzwald; teema-aasta; lugemine; rahvapärimus; eesti; rahvakultuur; väljakutse; jutukool; identiteet; rahvajutt
+6,2,7,4,1,3,7,8,1,13,väärtushinnang; keskus; kreutzwald; teema-aasta; lugemine; rahvapärimus; eesti; rahvakultuur; väljakutse; jutukool; identiteet; rahvajutt
+6,2,6,5,1,3,7,7,1,13,väärtushinnang; keskus; kreutzwald; teema-aasta; lugemine; rahvapärimus; eesti; rahvakultuur; väljakutse; jutukool; identiteet; rahvajutt
+6,1,6,5,1,3,7,7,1,13,väärtushinnang; keskus; kreutzwald; teema-aasta; lugemine; rahvapärimus; eesti; rahvakultuur; väljakutse; jutukool; identiteet; rahvajutt
+6,2,7,6,2,3,7,6,1,13,väärtushinnang; keskus; kreutzwald; teema-aasta; lugemine; rahvapärimus; eesti; rahvakultuur; väljakutse; jutukool; identiteet; rahvajutt

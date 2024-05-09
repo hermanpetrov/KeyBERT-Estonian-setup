@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,1,0,1,18,arvuti; maailma; google; watson
-0,0,2,0,0,1,1,0,1,18,arvuti; maailma; google; watson
-0,0,2,0,0,1,1,0,1,18,arvuti; maailma; google; watson
-0,0,2,0,0,1,1,0,1,18,arvuti; maailma; google; watson
-0,0,2,0,0,1,1,0,1,18,arvuti; maailma; google; watson
-0,0,2,0,0,0,1,1,1,18,arvuti; maailma; google; watson
+0,0,2,0,0,1,1,0,1,18,arvuti; google; watson; maailma
+0,0,2,0,0,1,1,0,1,18,arvuti; google; watson; maailma
+0,0,2,0,0,1,1,0,1,18,arvuti; google; watson; maailma
+0,0,2,0,0,1,1,0,1,18,arvuti; google; watson; maailma
+0,0,2,0,0,1,1,0,1,18,arvuti; google; watson; maailma
+0,0,2,0,0,0,1,1,1,18,arvuti; google; watson; maailma
 0,0,1,0,0,0,0,0,1,18,google; watson
 0,0,1,0,0,0,0,0,1,18,google; watson
 0,0,1,0,0,1,0,0,1,18,maailma; google; watson
-0,0,1,1,0,0,0,2,1,18,tehnoloogia; watson; arvuti; google; kommentaar
-0,1,2,1,0,0,0,2,1,18,thomas; tehnoloogia; võrgustik; watson; arvuti; google; kommentaar
+0,0,1,1,0,0,0,2,1,18,arvuti; google; tehnoloogia; kommentaar; watson
+0,1,2,1,0,0,0,2,1,18,arvuti; google; võrgustik; tehnoloogia; watson; thomas; kommentaar

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,1,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-3,0,1,0,0,2,1,1,0,12,ehmatamine; uskumus; maagia; stress; lemm; meditsiin
-1,0,1,1,0,2,2,1,0,12,ehmatamine; uskumus; maagia; meditsiin
-2,0,1,0,0,1,2,0,0,12,ehmatamine; uskumus; maagia; stress; meditsiin
-1,1,1,0,1,0,0,0,0,12,maagia; lemm; uskumus; meditsiin
-0,1,1,0,1,0,0,0,0,12,maagia; uskumus; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,1,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+3,0,1,0,0,1,1,0,0,12,stress; maagia; uskumus; ehmatamine; lemm; meditsiin
+1,0,1,1,0,2,1,0,0,12,maagia; uskumus; ehmatamine; meditsiin
+2,0,1,0,0,2,0,0,0,12,stress; maagia; uskumus; meditsiin
+1,1,1,0,1,0,0,0,0,12,uskumus; maagia; lemm; meditsiin
+0,1,1,0,1,0,0,0,0,12,uskumus; maagia; meditsiin

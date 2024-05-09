@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,0,0,1,0,17,amanda; näitleja
-0,0,1,0,0,1,0,1,0,17,amanda; näitleja; lapsepõlv
-0,0,1,0,0,1,2,1,0,17,juuksur; isa; amanda; näitleja; lapsepõlv
-0,0,2,0,0,0,1,1,0,17,juuksur; hermine; piret; näitleja
-0,0,0,0,0,0,1,1,0,17,juuksur; näitleja
-0,0,2,0,0,0,1,1,0,17,juuksur; hermine; piret; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,0,1,0,0,17,amanda; näitleja
+0,0,1,0,0,2,1,0,0,17,isa; amanda; näitleja; juuksur
+0,0,2,0,0,1,1,0,0,17,piret; hermine; näitleja; juuksur
+0,0,0,0,0,1,1,0,0,17,näitleja; juuksur
+0,0,2,0,0,1,1,0,0,17,piret; hermine; näitleja; juuksur

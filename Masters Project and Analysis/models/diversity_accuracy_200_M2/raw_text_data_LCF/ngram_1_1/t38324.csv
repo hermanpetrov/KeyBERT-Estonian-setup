@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,2,2,3,1,3,2,13,rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,2,2,2,2,3,2,2,2,13,rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,1,1,3,2,4,2,2,2,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,1,1,3,2,3,2,3,2,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,1,2,3,2,2,2,3,2,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,0,2,3,1,3,3,3,2,13,juhansoni; rahva; reisid; ilmar; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,0,2,2,2,2,1,5,1,13,juhansoni; rahva; reisid; ilmar; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,0,2,2,0,1,1,4,1,13,ilmar; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-1,0,2,1,3,1,1,4,1,13,rahva; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-0,0,3,1,1,4,1,1,2,13,juhansoni; rahva; ilmar; soome; talve; rootsi; ekspeditsioon; maapagu
-0,0,2,1,1,2,1,1,1,13,talve; juhansoni; rahva; rootsi; maapagu; ilmar
+1,2,2,2,2,1,3,2,0,13,rootsi; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,2,2,2,2,2,2,2,0,13,rootsi; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,1,1,3,2,2,2,2,0,13,rootsi; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,1,1,3,2,2,3,2,0,13,rootsi; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,1,2,3,2,2,3,2,0,13,rootsi; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,0,2,3,1,3,3,2,0,13,rootsi; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,0,2,2,2,1,5,1,0,13,rootsi; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+0,0,2,2,0,1,4,1,0,13,rootsi; ekspeditsioon; maapagu; ilmar; talve; etnoloog
+1,0,2,1,3,1,4,1,0,13,rootsi; soome; ilmar; talve; etnoloog; ekspeditsioon; maapagu
+0,0,3,1,1,1,1,2,0,13,rootsi; juhansoni; maapagu; rahva; ilmar; talve
+0,0,2,1,1,1,1,1,0,13,rootsi; juhansoni; maapagu; rahva; ilmar; talve

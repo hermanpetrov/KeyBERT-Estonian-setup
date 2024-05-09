@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,3,5,3,5,6,4,2,11,kiskja; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-5,4,4,5,3,5,6,4,2,11,kiskja; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-5,4,4,5,3,5,5,3,2,11,kiskja; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-5,5,4,5,3,5,3,3,2,11,kiskja; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-3,5,4,3,3,4,4,3,2,11,kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-4,5,2,4,3,5,3,3,3,11,kiskja; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt
-2,5,2,2,3,3,5,4,3,11,kiskja; murdma; jahimees; territoorium; alfa; alam-pedja; hunt; kari
-3,4,3,5,4,4,5,4,4,11,kiskja; murdma; ulg; jahimees; territoorium; alam-pedja; alfa; hunt; kari
-2,4,5,4,3,2,4,4,3,11,kiskja; murdma; ulg; territoorium; alam-pedja; alfa; hunt; kari
-2,4,2,4,5,2,3,4,4,11,kiskja; murdma; jahimees; territoorium; alam-pedja; alfa; hunt; kari
-2,2,3,4,3,2,5,4,6,11,murdma; kutsikas; ulg; jahimees; territoorium; alam-pedja; alfa; hunt; kari
+5,4,3,5,3,6,4,2,0,11,jahimees; kutsikas; ulg; hunt; kiskja; alam-pedja; territoorium; alfa
+5,4,4,5,3,6,4,2,0,11,jahimees; kutsikas; ulg; hunt; kiskja; alam-pedja; territoorium; alfa
+5,4,4,5,3,5,3,2,0,11,jahimees; kutsikas; ulg; hunt; kiskja; alam-pedja; territoorium; alfa
+5,5,4,5,3,3,3,2,0,11,jahimees; kutsikas; ulg; hunt; alam-pedja; territoorium; alfa
+3,5,4,3,3,4,3,2,0,11,jahimees; kutsikas; hunt; alam-pedja; territoorium; alfa
+4,5,2,4,3,3,3,3,0,11,jahimees; kutsikas; hunt; ulg; alam-pedja; territoorium; alfa
+2,5,2,2,3,5,4,3,0,11,jahimees; hunt; kiskja; murdma; kari; alam-pedja; territoorium; alfa
+3,4,3,5,4,5,4,4,0,11,jahimees; hunt; kiskja; murdma; kari; alam-pedja; territoorium; alfa
+2,4,5,4,3,4,4,3,0,11,ulg; hunt; kari; murdma; kiskja; alam-pedja; territoorium; alfa
+2,4,2,4,5,3,4,4,0,11,jahimees; hunt; kiskja; murdma; kari; alam-pedja; territoorium; alfa
+2,2,3,4,3,5,4,6,0,11,jahimees; kutsikas; hunt; ulg; kari; murdma; alam-pedja; territoorium; alfa

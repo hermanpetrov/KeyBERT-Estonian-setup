@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
-1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
-1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
-1,0,1,0,1,0,2,0,1,15,amsterdam; paruness; loss; luksuslik; ehitama
-1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
-1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
-1,0,0,0,1,0,1,0,0,15,amsterdam; paruness; loss
-0,0,1,1,1,0,1,0,0,15,amsterdam; loss; ehitama
-0,0,0,0,1,0,1,0,0,15,amsterdam; loss
-0,0,0,1,2,0,1,0,0,15,amsterdam; paruness; loss
-0,0,0,1,2,0,1,0,0,15,amsterdam; paruness; loss
+2,0,1,0,1,1,2,0,1,15,paruness; fantaasiapidu; loss; ehitama; amsterdam; värvitoon; luksuslik
+2,0,1,0,1,1,2,0,1,15,paruness; fantaasiapidu; loss; ehitama; amsterdam; värvitoon; luksuslik
+2,0,1,0,1,1,2,0,1,15,paruness; fantaasiapidu; loss; ehitama; amsterdam; värvitoon; luksuslik
+2,0,1,0,1,1,2,0,1,15,paruness; fantaasiapidu; loss; ehitama; amsterdam; värvitoon; luksuslik
+2,0,0,0,1,1,1,0,0,15,paruness; fantaasiapidu; loss; amsterdam; värvitoon
+2,0,0,0,1,1,1,0,0,15,paruness; fantaasiapidu; loss; amsterdam; värvitoon
+3,0,1,0,1,1,1,0,0,15,paruness; fantaasiapidu; loss; restaureerimistöö; amsterdam; värvitoon
+1,0,1,1,1,0,1,0,0,15,loss; ehitama; restaureerimistöö; amsterdam
+1,0,0,0,1,0,1,0,0,15,restaureerimistöö; loss; amsterdam
+0,0,0,1,2,0,1,1,0,15,paruness; sisekujundus; amsterdam; loss
+1,0,0,1,2,0,1,1,0,15,paruness; loss; restaureerimistöö; sisekujundus; amsterdam

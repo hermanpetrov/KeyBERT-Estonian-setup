@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,2,0,0,0,17,urmas; oidipus; vadi
-1,0,0,0,0,2,0,0,0,17,urmas; oidipus; vadi
-1,0,0,0,0,2,0,0,0,17,urmas; oidipus; vadi
-1,0,0,0,0,2,0,0,0,17,urmas; oidipus; vadi
-1,0,0,0,0,2,0,0,0,17,urmas; oidipus; vadi
-1,0,0,0,0,1,0,0,0,17,urmas; oidipus
-0,0,0,0,0,0,0,1,0,17,oidipus
+1,0,0,0,0,2,1,1,0,17,oidipus; urmas; luulekogu; vadi
+1,0,0,0,0,2,1,1,0,17,oidipus; urmas; luulekogu; vadi
+1,0,0,0,0,2,1,1,0,17,oidipus; urmas; luulekogu; vadi
+1,0,0,0,0,2,1,1,0,17,oidipus; urmas; luulekogu; vadi
+1,0,0,0,0,2,1,1,0,17,oidipus; urmas; luulekogu; vadi
+1,0,0,0,0,2,0,0,0,17,oidipus; luulekogu; urmas
+1,0,0,0,0,0,0,1,0,17,oidipus; polüfoonilisus
+1,0,0,0,0,0,0,2,0,17,oidipus; bänd; polüfoonilisus
 0,0,0,0,0,0,0,2,0,17,oidipus; bänd
-0,0,0,0,0,0,0,2,0,17,oidipus; bänd
-0,0,1,0,0,2,1,2,0,17,hasso; oidipus; bänd; krull
-0,0,0,0,0,2,0,2,0,17,hasso; bänd; nali; krull
+0,0,1,0,0,2,1,2,0,17,oidipus; bänd; hasso; krull
+0,0,0,0,0,2,0,2,0,17,hasso; nali; krull; bänd

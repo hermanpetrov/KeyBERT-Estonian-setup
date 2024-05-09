@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,2,0,1,2,3,4,0,13,ema; laps; õde; isa; piret
-1,4,2,0,1,2,3,4,0,13,ema; laps; õde; isa; piret
-1,4,2,0,1,2,3,4,0,13,ema; laps; õde; isa; piret
-1,4,2,0,1,2,3,4,0,13,ema; laps; õde; isa; piret
-1,4,3,0,1,2,3,4,0,13,ema; laps; õde; isa; piret
-1,4,2,0,1,2,4,5,0,13,ema; laps; õde; õpetaja; isa; piret
-2,2,3,1,1,3,3,5,1,13,ema; laps; õde; õpetaja; isa; piret
-4,4,4,3,1,2,3,3,0,13,ema; laps; teater; õde; õpetaja; isa; piret
-3,4,3,0,0,3,2,3,1,13,ema; laps; õpetaja; õde; teater; isa; piret
-1,4,0,2,0,5,3,3,1,13,ema; laps; õde; isa; piret; kalda
-1,1,1,3,0,5,3,2,1,13,ema; laps; õde; õpetaja; isa; piret; kalda
+1,4,2,0,1,2,3,4,0,13,laps; piret; isa; õde; ema
+1,4,2,0,1,2,3,4,0,13,laps; piret; isa; õde; ema
+1,4,2,0,1,2,3,4,0,13,laps; piret; isa; õde; ema
+1,4,2,0,1,2,3,4,0,13,laps; piret; isa; õde; ema
+1,4,3,0,1,2,3,4,0,13,laps; piret; isa; õde; ema
+1,5,2,0,1,3,4,5,0,13,laps; piret; lapsepõlv; isa; õpetaja; õde; ema
+2,2,3,1,1,4,3,5,1,13,laps; piret; lapsepõlv; isa; õpetaja; õde; ema
+4,4,5,3,1,2,3,3,0,13,laps; piret; isa; õpetaja; õde; ema; balletikool; teater
+4,4,3,0,0,3,2,3,1,13,laps; piret; isa; õpetaja; õde; ema; balletikool; teater
+1,4,0,2,0,5,4,4,1,13,laps; piret; kalda; lapsepõlv; isa; õde; ema
+1,1,1,3,0,5,4,3,1,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,0,0,2,3,2,1,10,kogudus; muna; misjonitöö; suvistepühad; nelipühad
-2,2,2,0,0,2,3,2,1,10,kogudus; muna; misjonitöö; suvistepühad; nelipühad
-2,2,2,0,0,2,3,2,1,10,kogudus; muna; misjonitöö; suvistepühad; nelipühad
-2,2,0,0,0,2,3,2,2,10,kogudus; muna; misjonitöö; suvistepühad; nelipühad; kiikumine
-1,2,1,0,0,2,2,2,2,10,kogudus; muna; misjonitöö; suvistepühad; peko; nelipühad; kiikumine
-1,1,1,0,0,2,1,0,2,10,kogudus; muna; misjonitöö; suvistepühad; nelipühad; kiikumine
-0,1,1,0,1,2,1,0,2,10,kogudus; muna; misjonitöö; kiikumine
-0,0,2,0,1,1,1,0,2,10,kogudus; misjonitöö; suvistepühad; kiikumine
-0,0,2,0,1,0,1,1,1,10,peko; kogudus; misjonitöö; kiikumine
-0,0,2,0,1,1,1,2,2,10,kogudus; misjonitöö; peko; suvistepühad; nelipühad; kiikumine
-1,0,4,0,1,1,1,2,1,10,misjonitöö; suvistepühad; peko; nelipühad; kiikumine
+2,2,2,0,0,2,3,2,1,10,misjonitöö; nelipühad; kogudus; suvistepühad; muna
+2,2,2,0,0,2,3,2,1,10,misjonitöö; nelipühad; kogudus; suvistepühad; muna
+2,2,2,0,0,2,3,2,1,10,misjonitöö; nelipühad; kogudus; suvistepühad; muna
+2,2,0,0,0,2,3,2,2,10,misjonitöö; nelipühad; kogudus; suvistepühad; kiikumine; muna
+1,2,1,0,0,2,2,2,2,10,misjonitöö; nelipühad; kogudus; suvistepühad; kiikumine; peko; muna
+1,1,1,0,0,2,1,0,2,10,misjonitöö; nelipühad; kogudus; suvistepühad; kiikumine; muna
+0,1,1,0,1,2,1,0,2,10,misjonitöö; kogudus; kiikumine; muna
+0,0,2,0,1,1,1,0,2,10,misjonitöö; kogudus; suvistepühad; kiikumine
+0,0,2,0,1,0,1,1,1,10,misjonitöö; kiikumine; peko; kogudus
+0,0,2,0,1,1,1,2,2,10,misjonitöö; nelipühad; kogudus; suvistepühad; kiikumine; peko
+1,0,4,0,1,1,1,2,1,10,misjonitöö; nelipühad; suvistepühad; kiikumine; peko

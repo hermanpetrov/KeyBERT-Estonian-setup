@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,2,4,1,3,4,3,1,11,raamat; lähedus; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-2,5,2,4,1,3,4,3,1,11,raamat; lähedus; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-2,5,2,4,1,3,4,3,1,11,raamat; lähedus; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-2,5,2,4,1,3,4,3,1,11,raamat; lähedus; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-2,5,2,4,1,3,5,3,1,11,raamat; lähedus; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-2,4,2,4,1,3,4,3,1,11,raamat; kirjanik; võõras; furby; üksindus; lavastus; urmas; vadi
-3,5,3,5,1,3,5,4,1,11,lähedus; raamat; kirjanik; võõras; furby; üksindus; olme; lavastus; urmas; vadi
-4,4,4,2,1,2,4,2,1,11,raamat; kirjanik; furby; võõras; üksindus; lavastus; urmas; vadi
-6,5,2,1,2,5,4,4,1,11,raamat; lähedus; kirjanik; furby; võõras; üksindus; olme; lavastus; urmas; vadi
-6,5,2,1,1,5,5,4,1,11,raamat; kirjanik; furby; võõras; üksindus; olme; lavastus; urmas; vadi
-3,5,2,4,1,7,4,4,1,11,lähedus; raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
+2,6,2,4,1,3,4,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+2,6,2,4,1,3,4,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+2,6,2,4,1,3,4,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+2,6,2,4,1,3,4,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+2,6,3,4,1,3,5,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+2,5,2,4,1,3,4,3,1,11,üksindus; furby; kirjanik; urmas; lavastus; vadi; sotsiaalmeedia; võõras; raamat
+4,6,3,5,1,3,5,4,1,11,üksindus; furby; kirjanik; urmas; lavastus; olme; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+4,5,4,3,1,2,4,2,1,11,üksindus; furby; kirjanik; urmas; lavastus; vadi; sotsiaalmeedia; võõras; raamat
+6,6,2,1,2,5,4,4,1,11,üksindus; furby; kirjanik; urmas; lavastus; olme; lähedus; vadi; sotsiaalmeedia; võõras; raamat
+6,6,3,1,1,5,5,4,1,11,üksindus; furby; kirjanik; urmas; lavastus; olme; vadi; sotsiaalmeedia; võõras; raamat
+3,6,2,4,1,7,4,4,1,11,furby; kirjanik; urmas; lavastus; olme; lähedus; vadi; sotsiaalmeedia; võõras; raamat

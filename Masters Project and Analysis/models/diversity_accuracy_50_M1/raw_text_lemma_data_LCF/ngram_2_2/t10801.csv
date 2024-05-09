@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,1,0,0,1,0,10,ristimine; abort; vedur; ivanov
-0,2,0,0,1,0,0,1,0,10,ristimine; abort; vedur; ivanov
-0,2,0,0,1,0,0,1,0,10,ristimine; abort; vedur; ivanov
-0,2,0,0,1,0,0,1,0,10,ristimine; abort; vedur; ivanov
-0,2,0,0,1,0,1,1,0,10,ristimine; vedur; abort; ivanov
-0,2,0,0,1,0,1,1,0,10,ristimine; vedur; abort; ivanov
-0,2,2,3,1,0,1,1,0,10,abort; ristimine; vedur; hambahar; ivanov
-0,1,1,0,1,0,1,1,0,10,abort; ristimine; ivanov
-0,1,1,0,1,1,1,1,0,10,abort; ristimine; ivanov
-2,2,0,0,1,1,1,0,1,10,ivanov; ristimine; vedur; abort; hambahar
-2,1,1,0,1,1,1,0,2,10,hambahar; vedur; abort; ivanov
+1,4,0,0,1,1,1,2,1,10,vedur; abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+1,4,0,0,1,1,1,2,1,10,vedur; abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+1,4,0,0,1,1,1,2,1,10,vedur; abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+1,4,0,0,1,1,1,2,1,10,vedur; abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+1,4,0,0,1,1,2,2,1,10,abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+1,4,2,0,1,2,2,2,1,10,abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+2,4,2,3,1,1,2,2,1,10,hambahar; abort; homoseksualism; ivanov; vedur; tervishoid; nõukogu; ristimine
+2,3,2,2,1,2,2,2,1,10,abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+1,3,1,1,1,3,2,2,1,10,abort; tervishoid; nõukogu; homoseksualism; ivanov; ristimine
+3,3,0,1,1,2,2,2,2,10,hambahar; abort; ivanov; vedur; tervishoid; nõukogu; ristimine
+2,2,1,1,1,2,2,1,3,10,hambahar; vedur; abort; nõukogu; ivanov

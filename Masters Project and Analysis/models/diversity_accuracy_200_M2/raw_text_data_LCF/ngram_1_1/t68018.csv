@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,1,2,3,3,1,1,12,kontseptualism; kunst; kunstiajalugu; kuraator; meedium
-2,0,2,1,2,3,3,1,1,12,kontseptualism; kunst; kunstiajalugu; kuraator; meedium
-2,0,2,1,2,3,3,1,1,12,kontseptualism; kunst; kunstiajalugu; kuraator; meedium
-2,0,1,1,1,2,3,1,1,12,kontseptualism; kuraator; kunstiajalugu; kunst; kaasaegne
-2,0,0,1,1,0,2,0,1,12,kontseptualism; kuraator; kunstiajalugu; kaasaegne
-1,1,2,0,2,0,0,0,1,12,kontseptualism; redimeid; kunstiajalugu; kuraator
-1,1,0,2,2,0,0,0,1,12,kontseptualism; redimeid; kunst; kuraator; žest
-0,1,0,3,2,0,0,2,0,12,kunst; redimeid; kontseptualism; kuraator; meedium; žest
-0,1,0,1,1,0,0,2,0,12,kunst; redimeid; kontseptualism; meedium
-0,0,1,1,1,1,0,3,1,12,kunst; kontseptualism; meedium; kriitika; žest
-0,0,0,1,1,0,0,2,2,12,kunst; kaasaegne; meedium; žest
+2,0,2,1,2,3,1,1,0,12,kunst; kuraator; kontseptualism; kunstiajalugu; meedium
+2,0,2,1,2,3,1,1,0,12,kunst; kuraator; kontseptualism; kunstiajalugu; meedium
+2,0,2,1,2,3,1,1,0,12,kunst; kuraator; kontseptualism; kunstiajalugu; meedium
+2,0,1,1,1,3,1,1,0,12,kunstiajalugu; kunst; kaasaegne; kontseptualism; kuraator
+2,0,0,1,1,2,0,1,0,12,kunstiajalugu; kaasaegne; kontseptualism; kuraator
+1,1,2,0,2,0,0,1,0,12,redimeid; kuraator; kontseptualism; kunstiajalugu
+1,1,0,2,2,0,0,1,0,12,kunst; žest; redimeid; kontseptualism; kuraator
+0,1,0,3,2,0,2,0,0,12,redimeid; žest; kunst; kontseptualism; kuraator; meedium
+0,1,0,1,1,0,2,0,0,12,redimeid; kunst; kontseptualism; meedium
+0,0,1,1,1,0,3,1,0,12,kunst; žest; kontseptualism; meedium
+0,0,0,1,1,0,2,2,0,12,kunst; žest; kaasaegne; meedium

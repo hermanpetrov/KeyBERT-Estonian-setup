@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,8,3,5,2,5,4,6,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,8,3,4,3,6,4,7,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,8,3,4,3,7,5,7,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,8,4,4,2,5,6,7,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-5,8,5,4,2,5,6,7,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-5,8,7,3,2,6,6,7,4,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,5,6,5,2,7,6,5,5,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-3,5,6,7,6,6,7,7,5,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,4,6,7,6,5,4,8,5,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,3,6,7,6,6,4,7,6,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
-4,4,6,7,5,6,3,6,6,12,vihm; linn; kikkas; kaupo; amazonas; inka; surnute; salapärane
+4,8,3,5,2,4,6,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,8,3,4,3,4,7,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,8,3,4,3,5,7,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,8,4,4,2,6,7,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+5,8,5,4,2,6,7,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+5,8,7,3,2,6,7,4,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,5,6,5,2,6,5,5,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+3,5,6,7,6,7,7,5,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,4,6,7,6,4,8,5,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,3,6,7,6,4,7,6,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn
+4,4,6,7,5,3,6,6,0,12,kaupo; amazonas; inka; kikkas; vihm; surnute; salapärane; linn

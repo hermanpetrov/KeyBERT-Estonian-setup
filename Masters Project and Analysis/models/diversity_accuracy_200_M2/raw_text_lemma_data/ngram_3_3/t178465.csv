@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,7,4,2,7,7,7,5,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-8,6,7,4,2,7,7,7,6,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-7,7,7,4,4,7,7,7,6,17,hermine; mälestus; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-5,8,7,4,4,7,7,8,6,17,hermine; mälestus; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-7,8,5,3,4,7,7,7,6,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-7,8,5,5,4,6,8,8,6,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-4,6,6,7,3,7,8,7,5,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-3,10,5,8,4,6,6,7,5,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-3,8,6,8,3,4,7,6,5,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-5,8,4,8,4,5,8,6,5,17,hermine; mälestus; lavakas; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
-6,7,6,8,5,5,5,5,7,17,hermine; mälestus; näitleja; juuksur; kasvatama; pere; lahkumine; isa; piret
+9,7,9,5,2,9,8,9,7,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+10,7,9,5,2,9,8,9,8,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+9,8,10,5,4,9,8,9,8,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna
+7,9,10,5,4,9,9,10,7,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna
+8,11,8,4,4,9,9,9,7,17,pere; juuksur; lahkumine; näitleja; lapsepõlv; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+8,11,8,6,4,8,11,11,7,17,pere; juuksur; lahkumine; näitleja; lapsepõlv; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+6,9,8,10,3,9,11,10,6,17,pere; juuksur; lahkumine; näitleja; lapsepõlv; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+5,13,7,11,4,7,8,10,7,17,pere; juuksur; lahkumine; näitleja; lapsepõlv; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+5,11,9,10,4,5,9,9,6,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+7,11,7,10,6,8,10,9,7,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna; lavakas
+8,10,8,10,6,8,8,6,9,17,pere; juuksur; lahkumine; lapsepõlv; näitleja; isa; hermine; balletikool; kasvatama; piret; mälestus; pesamuna

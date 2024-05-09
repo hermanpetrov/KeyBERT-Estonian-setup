@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,1,0,1,1,1,0,12,raadio
 0,0,1,1,0,1,1,1,0,12,raadio
 0,0,1,1,0,1,1,1,0,12,raadio
-0,0,1,1,0,2,2,1,0,12,merivoo-parro; klassikokkutulek; aeg; raadio
-0,0,1,1,0,1,2,1,0,12,merivoo-parro; aeg; raadio
-0,0,2,1,0,3,2,1,0,12,aeg; merivoo-parro; ansambel; album; raadio
-0,0,1,0,0,1,1,2,0,12,merivoo-parro; raadio
-1,0,1,0,0,1,2,2,0,12,merivoo-parro; aeg; raadio
+0,0,1,1,0,2,2,1,0,12,raadio; merivoo-parro; aeg; klassikokkutulek
+0,0,1,1,0,1,2,1,0,12,raadio; merivoo-parro; aeg
+0,0,2,1,0,3,2,1,0,12,raadio; ansambel; merivoo-parro; album; aeg
+0,0,1,0,0,1,1,2,0,12,raadio; merivoo-parro
+1,0,1,0,0,1,2,2,0,12,raadio; merivoo-parro; aeg

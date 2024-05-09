@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,0,0,0,18,kalevi; petseri
-0,0,2,0,0,0,0,0,0,18,kalevi; petseri
-0,0,2,0,0,0,0,0,0,18,kalevi; petseri
+0,0,2,0,0,0,0,0,0,18,petseri; kalevi
+0,0,2,0,0,0,0,0,0,18,petseri; kalevi
+0,0,2,0,0,0,0,0,0,18,petseri; kalevi
 0,0,1,0,0,0,0,0,0,18,petseri
 0,0,0,0,0,0,0,0,0,18,
-0,0,0,0,0,0,1,0,0,18,kalevi
-0,0,1,0,0,0,1,0,0,18,kalevi; pärt
-0,0,1,0,0,1,1,0,0,18,kalevi; pärt
-0,0,2,0,0,1,1,0,0,18,kalevi; pärt; staadion
-0,0,0,0,0,1,1,0,0,18,staadion; rebane
-0,0,1,0,0,1,2,0,0,18,kalevi; staadion; rebane
+0,0,0,0,0,1,0,0,0,18,kalevi
+0,0,1,0,0,1,0,0,0,18,pärt; kalevi
+0,0,1,0,0,1,0,0,0,18,pärt; kalevi
+0,0,2,0,0,1,0,0,0,18,pärt; staadion; kalevi
+0,0,0,0,0,1,0,0,0,18,rebane
+0,0,1,0,0,2,0,0,0,18,staadion; rebane; kalevi

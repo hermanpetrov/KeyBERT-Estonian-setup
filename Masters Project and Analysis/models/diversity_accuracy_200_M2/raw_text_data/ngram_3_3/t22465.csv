@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,1,2,2,1,1,1,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-6,3,2,2,2,1,1,1,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-6,4,3,2,2,1,1,1,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-6,4,3,2,2,1,1,1,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-5,4,4,2,2,1,1,4,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-3,4,4,1,2,2,2,4,3,12,juust; rahvahääletus; genf; šveits; neutraliteet; maksusüsteem; järv
-4,3,2,1,2,2,3,4,4,12,juust; rahvahääletus; suusatamine; genf; šveits; neutraliteet; maksusüsteem
-2,5,3,5,1,2,3,4,4,12,juust; rahvahääletus; genf; šveits; maksusüsteem; neutraliteet; suusatamine; järv
-2,5,4,1,1,2,3,3,5,12,juust; rahvahääletus; suusatamine; genf; mägi; šveits; neutraliteet; maksusüsteem; järv
-2,1,3,4,1,3,2,1,5,12,juust; rahvahääletus; suusatamine; genf; mägi; šveits; neutraliteet; maksusüsteem; järv
-1,4,3,4,1,3,3,1,6,12,juust; rahvahääletus; suusatamine; genf; mägi; šveits; neutraliteet; maksusüsteem; järv
+6,3,1,2,2,1,1,1,3,12,juust; genf; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+6,3,2,2,2,1,1,1,3,12,juust; genf; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+6,4,3,2,2,1,1,1,3,12,juust; genf; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+6,4,3,2,2,1,1,1,3,12,juust; genf; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+5,4,4,2,2,1,1,4,3,12,juust; genf; rahvahääletus; neutraliteet; maksusüsteem; järv; šveits
+3,4,4,1,2,2,2,4,3,12,juust; genf; rahvahääletus; maksusüsteem; neutraliteet; järv; šveits
+4,3,2,1,2,2,3,4,4,12,juust; genf; rahvahääletus; maksusüsteem; neutraliteet; suusatamine; šveits
+2,5,3,5,1,2,3,4,4,12,juust; genf; rahvahääletus; maksusüsteem; suusatamine; neutraliteet; järv; šveits
+2,5,4,1,1,2,3,3,5,12,juust; genf; mägi; rahvahääletus; maksusüsteem; suusatamine; neutraliteet; järv; šveits
+2,1,3,4,1,3,2,1,5,12,juust; genf; mägi; rahvahääletus; maksusüsteem; neutraliteet; suusatamine; järv; šveits
+1,4,3,4,1,3,3,1,6,12,juust; genf; mägi; rahvahääletus; maksusüsteem; suusatamine; neutraliteet; järv; šveits

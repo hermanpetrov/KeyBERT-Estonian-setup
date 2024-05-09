@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,1,0,0,0,2,2,1,14,religioon; jüri; usklik; teadus; püha; teadvus; kunstnik
-1,4,1,0,0,0,2,2,1,14,religioon; jüri; usklik; teadus; püha; teadvus; kunstnik
-1,4,1,0,0,0,2,2,1,14,religioon; jüri; usklik; teadus; püha; teadvus; kunstnik
-1,4,1,0,0,0,2,2,1,14,religioon; jüri; usklik; teadus; püha; teadvus; kunstnik
-1,4,1,0,0,0,2,2,1,14,religioon; jüri; usklik; teadus; püha; teadvus; kunstnik
-0,2,2,0,0,0,1,2,1,14,religioon; usklik; püha; kunstnik
-1,2,0,0,0,2,1,2,1,14,religioon; vaim; usklik; teadus; püha; kunstnik
-1,3,1,0,0,1,0,1,1,14,religioon; püha; kunstnik; teadus
-0,2,0,1,0,2,2,2,0,14,religioon; jüri; vaim; püha
-1,1,1,0,0,4,0,2,0,14,religioon; tehnoloogiline; jüri; vaim; püha; teadvus
-0,1,1,1,0,3,3,3,2,14,religioon; teadus; vaim; usklik; filosoofia; püha; teadvus; kunstnik
+2,4,3,1,0,1,3,3,1,14,üliintellekt; teadus; püha; jüri; jõuluaeg; teadvus; usutunne; usklik; religioon; kunstnik
+2,4,3,1,0,1,3,3,1,14,üliintellekt; teadus; püha; jüri; jõuluaeg; teadvus; usutunne; usklik; religioon; kunstnik
+2,4,3,1,0,1,3,3,1,14,üliintellekt; teadus; püha; jüri; jõuluaeg; teadvus; usutunne; usklik; religioon; kunstnik
+2,4,3,1,0,1,3,3,1,14,üliintellekt; teadus; püha; jüri; jõuluaeg; teadvus; usutunne; usklik; religioon; kunstnik
+2,4,3,1,0,1,3,3,1,14,üliintellekt; teadus; püha; jüri; jõuluaeg; teadvus; usutunne; usklik; religioon; kunstnik
+0,2,4,1,0,1,2,3,1,14,üliintellekt; püha; jõuluaeg; usutunne; usklik; religioon; kunstnik
+2,2,2,0,0,3,2,3,1,14,teadus; püha; jõuluaeg; vaim; usutunne; usklik; religioon; kunstnik
+2,3,1,0,0,2,1,2,1,14,teadus; üliintellekt; püha; kunstnik; religioon; jõuluaeg
+0,2,0,1,0,3,3,3,0,14,püha; jüri; religioon; jõuluaeg; vaim
+2,1,1,0,0,5,1,3,0,14,üliintellekt; püha; jüri; tehnoloogiline; jõuluaeg; vaim; teadvus; religioon
+1,1,1,1,0,4,4,4,2,14,üliintellekt; teadus; püha; filosoofia; jõuluaeg; vaim; teadvus; usklik; religioon; kunstnik

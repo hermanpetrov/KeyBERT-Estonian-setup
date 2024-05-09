@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,0,1,2,0,11,arhitekt; eetika
-0,1,1,1,0,0,1,2,0,11,arhitekt; eetika
-0,1,1,1,0,0,1,2,0,11,arhitekt; eetika
-0,1,1,1,0,0,1,2,0,11,arhitekt; eetika
-0,1,1,1,0,0,1,2,0,11,arhitekt; eetika
-0,1,0,1,0,0,1,2,0,11,arhitekt; eetika
-1,2,0,0,0,2,1,2,0,11,arhitekt; kritiseerima; eetika
-0,1,1,2,0,0,1,2,0,11,arhitekt; arendaja; liit; eetika; arhitektuur
+0,1,1,1,0,0,1,2,0,11,eetika; arhitekt
+0,1,1,1,0,0,1,2,0,11,eetika; arhitekt
+0,1,1,1,0,0,1,2,0,11,eetika; arhitekt
+0,1,1,1,0,0,1,2,0,11,eetika; arhitekt
+0,1,1,1,0,0,1,2,0,11,eetika; arhitekt
+0,1,0,1,0,0,1,2,0,11,eetika; arhitekt
+1,2,0,0,0,2,1,2,0,11,eetika; arhitekt; kritiseerima
+0,1,1,2,0,0,1,2,0,11,arhitektuur; eetika; arendaja; arhitekt; liit
 0,1,0,1,0,1,0,1,0,11,arhitekt
-0,0,0,0,0,1,1,2,1,11,arhitekt; eetika; arhitektuur
-1,0,1,0,0,0,1,2,1,11,arhitekt; eetika; arhitektuur
+0,0,0,0,0,1,1,2,1,11,arhitektuur; eetika; arhitekt
+1,0,1,0,0,0,1,2,1,11,arhitektuur; eetika; arhitekt

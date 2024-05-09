@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,1,0,0,0,0,0,13,eelarve
 0,0,0,1,0,0,0,0,0,13,eelarve
 0,0,0,1,0,0,0,0,0,13,eelarve
-1,0,0,1,0,0,0,0,0,13,brüssel; eelarve
-0,0,1,0,0,1,0,0,0,13,luksemburg; 4000
-1,0,1,0,0,0,0,0,0,13,brüssel; 4000
+1,0,0,1,0,0,0,0,0,13,eelarve; brüssel
+0,0,1,0,0,1,0,0,0,13,4000; luksemburg
+1,0,1,0,0,0,0,0,0,13,4000; brüssel
 0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,2,0,0,0,13,erakond; luksemburg
+0,0,0,0,0,2,0,0,0,13,luksemburg; erakond

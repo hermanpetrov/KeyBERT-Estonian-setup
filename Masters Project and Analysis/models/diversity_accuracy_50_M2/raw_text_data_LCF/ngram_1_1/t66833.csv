@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,2,1,1,13,eesti; nüüdismuusika
-1,0,0,0,0,1,2,1,1,13,eesti; nüüdismuusika
-1,0,0,0,0,1,2,1,1,13,eesti; nüüdismuusika
-1,0,2,0,0,1,2,1,1,13,nüüdismuusika; eesti; steinway
-1,0,1,0,0,1,2,0,1,13,nüüdismuusika; eesti; steinway
-1,0,0,0,0,1,0,0,1,13,eesti; nüüdismuusika
-0,0,1,0,0,1,0,1,1,13,eino; eesti
-1,0,2,0,0,1,0,1,2,13,eino; nüüdismuusika; muusika; tamberg; eesti; steinway
-0,0,0,2,0,1,2,1,2,13,eino; helilooja; muusika; tamberg; eesti; steinway
-0,0,2,0,0,1,2,1,1,13,eino; tamberg; eesti; steinway
-0,0,1,0,0,2,2,0,1,13,eesti; steinway; tamberg
+1,0,0,0,0,2,1,1,0,13,eesti; nüüdismuusika
+1,0,0,0,0,2,1,1,0,13,eesti; nüüdismuusika
+1,0,0,0,0,2,1,1,0,13,eesti; nüüdismuusika
+1,0,2,0,0,2,1,1,0,13,eesti; steinway; nüüdismuusika
+1,0,1,0,0,2,0,1,0,13,steinway; eesti; nüüdismuusika
+1,0,0,0,0,0,0,1,0,13,eesti; nüüdismuusika
+0,0,1,0,0,0,1,1,0,13,eino; eesti
+1,0,2,0,0,0,1,2,0,13,muusika; tamberg; eesti; steinway; eino; nüüdismuusika
+0,0,0,2,0,2,1,2,0,13,muusika; helilooja; tamberg; eesti; steinway; eino
+0,0,2,0,0,2,1,1,0,13,eesti; steinway; tamberg; eino
+0,0,1,0,0,2,0,1,0,13,eesti; steinway; tamberg

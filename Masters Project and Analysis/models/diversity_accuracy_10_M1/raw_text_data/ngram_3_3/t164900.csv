@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,1,1,2,1,2,0,12,helilooja; arder; muusika; helin-mari
-1,1,0,1,1,2,1,2,1,12,helilooja; arder; muusika; helin-mari
-1,1,0,1,1,2,1,2,1,12,helilooja; arder; muusika; helin-mari
-1,1,0,1,1,2,1,2,1,12,helilooja; arder; muusika; helin-mari
-1,1,0,1,1,2,1,2,1,12,helilooja; arder; muusika; helin-mari
-1,0,0,1,1,2,1,2,1,12,helilooja; arder; muusika; helin-mari
-2,2,1,0,1,2,3,2,1,12,helilooja; muusika; arder; helin-mari
-1,1,2,1,1,2,1,2,1,12,arder; muusika; õppima; helin-mari
-0,0,0,2,1,0,3,2,1,12,esinemine; helilooja; arder; helin-mari
-2,0,2,1,1,1,1,1,1,12,arder; muusika; helin-mari; toomas
-0,0,5,1,1,2,0,2,1,12,muusikakool; arder; muusika; luhats; helin-mari; toomas
+1,1,0,1,1,2,1,2,0,12,muusika; helilooja; helin-mari; arder
+1,1,0,1,1,2,1,2,1,12,muusika; helilooja; helin-mari; arder
+1,1,0,1,1,2,1,2,1,12,muusika; helilooja; helin-mari; arder
+1,1,0,1,1,2,1,2,1,12,muusika; helilooja; helin-mari; arder
+1,1,0,1,1,2,1,2,1,12,muusika; helilooja; helin-mari; arder
+1,0,0,1,1,2,1,2,1,12,muusika; helilooja; helin-mari; arder
+2,2,1,0,1,2,3,2,1,12,helin-mari; helilooja; muusika; arder
+1,1,2,1,1,2,1,2,1,12,helin-mari; muusika; õppima; arder
+0,0,0,2,1,0,3,2,1,12,esinemine; helin-mari; helilooja; arder
+2,0,2,1,1,1,1,1,1,12,helin-mari; muusika; arder; toomas
+0,0,5,1,1,2,0,2,1,12,helin-mari; muusika; luhats; arder; muusikakool; toomas

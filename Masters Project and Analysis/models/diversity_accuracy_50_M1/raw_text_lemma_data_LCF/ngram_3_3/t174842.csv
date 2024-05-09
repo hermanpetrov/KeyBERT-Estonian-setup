@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,3,4,2,3,3,4,6,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-6,4,3,4,2,3,3,5,6,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-6,4,3,4,2,3,3,5,6,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-6,4,3,4,2,3,3,4,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-6,4,3,4,2,3,3,4,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-6,4,3,4,2,3,3,4,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-7,4,3,4,2,3,3,4,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-7,4,3,5,2,4,3,6,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-7,4,3,5,2,4,3,5,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-5,4,3,5,2,4,3,5,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
-4,4,3,5,2,4,3,6,7,13,õpetamine; hiiu; käär; hiidlane; aasta; merike; lili; sõna
+7,5,5,5,2,4,3,5,7,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+7,5,5,5,2,4,3,6,7,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+7,5,5,5,2,4,3,6,7,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+7,5,5,5,2,4,3,5,8,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+7,5,5,5,2,4,3,5,8,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+7,5,4,5,2,4,3,5,8,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; hiidlane; lasteraamat; sõna; lili
+8,5,4,5,2,4,3,5,8,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; sõna; lasteraamat; hiidlane; lili
+7,5,5,6,2,5,3,7,8,13,merike; õpetamine; käär; koolipõlv; aasta; hiiu; sõna; lasteraamat; hiidlane; lili
+8,5,5,6,2,5,4,6,8,13,merike; õpetamine; käär; koolipõlv; aasta; hiiu; sõna; lasteraamat; hiidlane; lili
+6,5,5,6,2,5,4,6,8,13,merike; õpetamine; koolipõlv; käär; aasta; hiiu; lasteraamat; sõna; hiidlane; lili
+5,5,5,5,2,5,4,7,9,13,merike; koolipõlv; käär; lasteraamat; hiidlane; õpetamine; aasta; hiiu; sõna; lili

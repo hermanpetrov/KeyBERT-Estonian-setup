@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti
-0,2,0,0,0,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti
-0,2,0,0,0,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti
-0,2,0,0,0,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti
-0,2,0,0,0,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti
-0,2,0,0,0,0,0,1,2,15,jurist; ühiskond; kirik; geiaktivine
-0,1,0,0,0,0,0,1,2,15,jurist; ühiskond; kirik; geiaktivine
-0,0,1,0,0,1,0,1,0,15,jurist; ühiskond; reimo
-0,0,0,0,0,0,1,1,0,15,jurist; mets
-0,0,0,1,0,0,1,2,1,15,jurist; mets; eesti; ühiskond
-0,0,0,1,0,0,0,1,0,15,jurist; mets
+0,2,0,0,0,0,0,2,2,15,eesti; kirik; reimo; jurist; ühiskond
+0,2,0,0,0,0,0,2,2,15,eesti; kirik; reimo; jurist; ühiskond
+0,2,0,0,0,0,0,2,2,15,eesti; kirik; reimo; jurist; ühiskond
+0,2,0,0,0,0,0,2,2,15,eesti; kirik; reimo; jurist; ühiskond
+0,2,0,0,0,0,0,2,2,15,eesti; kirik; reimo; jurist; ühiskond
+0,2,0,0,0,0,0,1,2,15,geiaktivine; jurist; kirik; ühiskond
+0,1,0,0,0,0,0,1,2,15,geiaktivine; jurist; kirik; ühiskond
+0,0,1,0,0,1,0,1,0,15,reimo; jurist; ühiskond
+0,0,1,0,0,0,1,1,0,15,mets; ööklubi; jurist
+1,0,1,1,0,0,1,2,1,15,eesti; ühiskond; mets; ööklubi; jurist
+1,0,0,1,0,0,0,1,1,15,mets; demokraatia; ööklubi; jurist

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,1,0,0,0,0,10,tartu; identiteet; daniel
-1,0,1,0,1,0,0,0,0,10,tartu; identiteet; daniel
-1,0,1,0,1,0,0,0,0,10,tartu; identiteet; daniel
-1,0,1,0,1,0,0,0,0,10,tartu; identiteet; daniel
-1,0,2,0,1,0,1,0,0,10,tartu; identiteet; daniel
-1,0,2,0,1,0,1,0,0,10,tartu; identiteet; daniel
+1,0,1,0,1,0,0,0,0,10,identiteet; daniel; tartu
+1,0,1,0,1,0,0,0,0,10,identiteet; daniel; tartu
+1,0,1,0,1,0,0,0,0,10,identiteet; daniel; tartu
+1,0,1,0,1,0,0,0,0,10,identiteet; daniel; tartu
+1,0,2,0,1,0,1,0,0,10,identiteet; daniel; tartu
+1,0,2,0,1,0,1,0,0,10,identiteet; daniel; tartu
 0,0,1,0,1,0,1,0,0,10,identiteet
-1,1,1,0,1,0,1,0,0,10,tartu; identiteet
-0,1,1,1,1,0,1,0,0,10,tartu; identiteet; signe
-0,1,1,0,0,1,1,0,0,10,tartu; identiteet; daniel
-0,1,1,0,1,1,1,0,0,10,tartu; identiteet; daniel
+1,1,1,0,1,0,1,0,0,10,identiteet; tartu
+0,1,1,1,1,0,1,1,0,10,heinküla; signe; identiteet; tartu
+0,1,1,0,0,1,1,1,0,10,heinküla; identiteet; daniel; tartu
+0,1,2,0,1,1,1,1,0,10,heinküla; identiteet; daniel; tartu

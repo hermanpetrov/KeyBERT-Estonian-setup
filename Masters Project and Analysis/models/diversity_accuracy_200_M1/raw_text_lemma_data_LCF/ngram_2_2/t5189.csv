@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,6,8,6,4,4,4,6,5,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-9,6,8,7,4,4,4,6,5,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-10,6,8,7,4,5,4,6,5,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-9,7,8,7,4,4,3,7,4,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
-8,8,10,8,4,4,3,8,4,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-6,6,13,6,3,5,5,7,4,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-4,5,11,7,4,8,9,9,4,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; eentalu; gruusia; laidoner
-7,4,12,6,4,8,9,9,5,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
-6,7,12,5,5,9,7,9,6,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
-6,7,10,5,7,9,6,7,7,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
-5,7,9,5,8,8,7,7,7,17,riina; jäätmed; õunpuu; keedus; sulev; sortimine; veiko; muuseum; probleem; üürnik; gruusia; eentalu; laidoner
+12,8,10,8,4,5,5,8,7,17,gruusia; laidoner; eentalu; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; probleem; üürnik; sortimine
+11,9,10,10,4,5,5,8,7,17,gruusia; laidoner; eentalu; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; probleem; üürnik; sortimine
+12,9,10,10,4,6,6,8,6,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+11,10,10,10,4,5,5,10,5,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+10,11,12,11,4,6,6,11,5,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+8,9,15,9,3,9,7,11,5,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+6,7,13,8,5,11,12,13,5,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+10,6,14,8,5,11,12,13,5,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+7,9,14,7,6,12,10,11,6,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+7,10,13,7,8,12,9,8,7,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem
+6,9,12,6,9,11,10,10,8,17,gruusia; laidoner; eentalu; sortimine; konkurentsivõime; jäätmed; muuseum; keedus; venemaa; sulev; rahukõnelus; riina; veiko; sõjakuritegu; õunpuu; üürnik; probleem

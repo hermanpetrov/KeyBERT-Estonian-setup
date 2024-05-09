@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,4,4,2,3,3,4,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-5,5,4,4,2,3,3,4,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-5,5,5,4,2,3,3,4,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-4,5,5,4,3,3,4,4,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-4,6,4,4,3,4,4,5,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-5,6,5,4,3,4,4,5,3,13,aivar; muusika; elektrooniline; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-3,2,4,3,4,4,5,4,3,13,aivar; muusika; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-3,1,4,4,4,4,3,1,4,13,aivar; muusika; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-3,3,4,4,5,3,3,2,3,13,aivar; muusika; alternatiiv; klubikultuur; tõnson; sotsioloog; reiv
-3,1,4,4,5,3,4,2,3,13,aivar; muusika; klubikultuur; tõnson; sotsioloog; reiv
-2,1,5,4,4,3,3,3,3,13,aivar; muusika; klubikultuur; tõnson; sotsioloog; reiv
+5,5,4,4,2,3,4,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+5,5,4,4,2,3,4,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+5,5,5,4,2,3,4,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+4,5,5,4,3,4,4,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+4,6,4,4,3,4,5,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+5,6,5,4,3,4,5,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; elektrooniline; reiv
+3,2,4,3,4,5,4,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; reiv
+3,1,4,4,4,3,1,4,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; reiv
+3,3,4,4,5,3,2,3,0,13,aivar; sotsioloog; alternatiiv; klubikultuur; muusika; tõnson; reiv
+3,1,4,4,5,4,2,3,0,13,aivar; sotsioloog; klubikultuur; muusika; tõnson; reiv
+2,1,5,4,4,3,3,3,0,13,aivar; sotsioloog; klubikultuur; muusika; tõnson; reiv

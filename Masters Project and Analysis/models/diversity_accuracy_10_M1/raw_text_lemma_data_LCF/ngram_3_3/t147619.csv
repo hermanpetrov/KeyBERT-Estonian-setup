@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,0,1,0,0,1,3,0,12,pärtel; kreem; bett; sass; alver
-4,0,0,1,0,0,1,3,0,12,pärtel; kreem; bett; sass; alver
-4,0,0,1,0,0,1,3,0,12,pärtel; kreem; bett; sass; alver
-4,0,1,1,0,0,1,3,0,12,pärtel; kreem; bett; sass; alver
-4,0,1,1,0,0,1,3,0,12,pärtel; kreem; bett; sass; alver
-4,0,3,1,0,0,1,3,0,12,laps; kreem; alver; arseenik; pärtel; bett; sass
-3,0,3,1,0,2,1,3,0,12,laps; kreem; alver; arseenik; pärtel; bett; sass
-2,0,3,0,0,1,0,3,0,12,arseenik; laps; kreem; bett; alver
-2,0,4,0,0,3,2,3,0,12,rätsep; laps; nooruk; kreem; alver; arseenik; bett; nennike
-2,1,2,2,0,4,1,4,0,12,laps; kreem; alver; arseenik; bett; rätsep; sass
-2,0,5,1,0,2,0,3,0,12,arseenik; laps; kreem; bett; alver
+4,0,0,1,0,0,1,3,0,12,kreem; alver; sass; pärtel; bett
+4,0,0,1,0,0,1,3,0,12,kreem; alver; sass; pärtel; bett
+4,0,0,1,0,0,1,3,0,12,kreem; alver; sass; pärtel; bett
+4,0,1,1,0,0,1,3,0,12,kreem; alver; sass; pärtel; bett
+4,0,1,1,0,0,1,3,0,12,kreem; alver; sass; pärtel; bett
+4,0,3,1,0,0,1,3,0,12,laps; alver; pärtel; bett; kreem; sass; arseenik
+3,0,3,1,0,2,1,3,0,12,laps; alver; pärtel; bett; kreem; sass; arseenik
+2,0,3,0,0,1,0,3,0,12,laps; kreem; alver; arseenik; bett
+2,0,4,0,0,3,2,3,0,12,laps; alver; nennike; nooruk; bett; kreem; rätsep; arseenik
+2,1,2,2,0,4,1,4,0,12,laps; alver; bett; kreem; rätsep; sass; arseenik
+2,0,5,1,0,2,0,3,0,12,laps; kreem; alver; arseenik; bett

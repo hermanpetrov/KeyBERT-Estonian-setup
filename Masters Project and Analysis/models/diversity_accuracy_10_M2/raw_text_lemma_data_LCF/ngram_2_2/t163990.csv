@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,1,1,0,1,2,0,13,kesk-aasia; tõlge; sissov; reaalsus
-1,2,0,1,1,0,1,2,0,13,kesk-aasia; tõlge; sissov; reaalsus
-1,2,0,1,1,0,1,2,0,13,kesk-aasia; tõlge; sissov; reaalsus
-1,2,0,1,1,0,1,2,0,13,kesk-aasia; tõlge; sissov; reaalsus
-1,2,0,1,1,0,1,2,2,13,kesk-aasia; tõlge; sissov; reaalsus
-1,2,1,1,1,0,1,2,2,13,kesk-aasia; tõlge; sissov; luuletaja; reaalsus
-1,2,1,1,1,0,1,2,2,13,kesk-aasia; tõlge; sissov; luuletaja; reaalsus
-2,2,0,2,1,1,1,2,2,13,kesk-aasia; tõlge; sissov; reaalsus; autor
-1,2,0,2,1,1,2,2,0,13,tõlge; sissov; reaalsus; autor
-1,2,2,0,1,2,2,2,2,13,tõlge; sissov; luuletaja; reaalsus; autor
-1,2,1,0,1,2,3,2,2,13,tõlge; sissov; luuletaja; reaalsus; autor
+2,2,0,1,1,0,1,2,1,13,tõlge; karantiiniaeg; reaalsus; sissov; keskpärane; kesk-aasia
+2,2,0,1,1,0,1,2,1,13,tõlge; karantiiniaeg; reaalsus; sissov; keskpärane; kesk-aasia
+2,2,0,1,1,0,1,2,1,13,tõlge; karantiiniaeg; reaalsus; sissov; keskpärane; kesk-aasia
+2,2,0,1,1,0,1,2,1,13,tõlge; karantiiniaeg; reaalsus; sissov; keskpärane; kesk-aasia
+2,2,0,1,1,0,1,2,3,13,tõlge; karantiiniaeg; reaalsus; sissov; keskpärane; kesk-aasia
+2,2,1,1,1,0,1,2,3,13,luuletaja; reaalsus; keskpärane; kesk-aasia; tõlge; karantiiniaeg; sissov
+3,2,1,1,1,0,1,2,3,13,luuletaja; reaalsus; keskpärane; kesk-aasia; tõlge; karantiiniaeg; sissov
+4,2,0,4,1,1,1,2,3,13,autor; isikukultus; reaalsus; keskpärane; kesk-aasia; tõlge; karantiiniaeg; sissov
+1,2,0,3,1,1,2,2,1,13,autor; tõlge; reaalsus; sissov; keskpärane
+2,2,3,0,1,2,2,2,3,13,luuletaja; isikukultus; autor; reaalsus; keskpärane; tõlge; sissov
+1,2,1,0,1,2,4,2,3,13,luuletaja; autor; reaalsus; keskpärane; tõlge; sissov

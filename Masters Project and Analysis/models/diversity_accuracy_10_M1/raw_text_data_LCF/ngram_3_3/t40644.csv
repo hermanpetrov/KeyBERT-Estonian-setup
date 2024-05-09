@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,1,0,0,0,1,1,0,19,orpheus; lill; irene; barokkmuusikafestival
-1,3,1,0,0,0,1,1,0,19,orpheus; lill; irene; barokkmuusikafestival
-1,3,1,0,0,0,1,1,0,19,orpheus; lill; irene; barokkmuusikafestival
-1,3,1,0,0,0,1,1,0,19,orpheus; lill; irene; barokkmuusikafestival
-1,3,0,0,0,0,1,1,0,19,orpheus; lill; irene; barokkmuusikafestival
-1,5,0,0,0,0,1,1,0,19,orpheus; musicus; lill; hortus; irene; barokkmuusikafestival
-3,1,0,1,0,0,1,1,0,19,orpheus; musicus; bach; mari; hortus; barokkmuusikafestival
-1,0,0,1,0,1,1,2,0,19,mari; barokkmuusikafestival; igor; robert
-1,1,0,1,0,2,0,2,0,19,bach; mari; lill; hortus; igor; robert
-0,0,0,0,0,1,4,0,0,19,bach; musicus; hortus; mustonen
-0,1,0,2,0,1,2,1,0,19,andres; bach; musicus; lill; hortus; mustonen
+1,3,1,0,0,1,1,0,0,19,lill; irene; barokkmuusikafestival; orpheus
+1,3,1,0,0,1,1,0,0,19,lill; irene; barokkmuusikafestival; orpheus
+1,3,1,0,0,1,1,0,0,19,lill; irene; barokkmuusikafestival; orpheus
+1,3,1,0,0,1,1,0,0,19,lill; irene; barokkmuusikafestival; orpheus
+1,3,0,0,0,1,1,0,0,19,lill; irene; barokkmuusikafestival; orpheus
+1,5,0,0,0,1,1,0,0,19,lill; irene; hortus; musicus; barokkmuusikafestival; orpheus
+3,1,0,1,0,1,1,0,0,19,mari; hortus; musicus; bach; barokkmuusikafestival; orpheus
+1,0,0,1,0,1,2,0,0,19,mari; robert; igor; barokkmuusikafestival
+1,1,0,1,0,0,2,0,0,19,lill; mari; robert; hortus; bach
+0,0,0,0,0,4,0,0,0,19,musicus; bach; hortus; mustonen
+0,1,0,2,0,2,1,0,0,19,lill; hortus; mustonen; andres; musicus

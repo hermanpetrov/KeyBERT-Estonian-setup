@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,0,0,0,15,alam-pedja
-0,0,0,0,0,1,0,0,0,15,alam-pedja
-0,0,0,0,0,1,0,0,0,15,alam-pedja
-0,0,0,0,0,1,0,0,0,15,alam-pedja
-0,0,0,0,0,1,0,0,0,15,alam-pedja
+0,0,0,0,0,1,1,0,0,15,looduskaitseala; alam-pedja
+0,0,0,0,0,1,1,0,0,15,looduskaitseala; alam-pedja
+0,0,0,0,0,1,1,0,0,15,looduskaitseala; alam-pedja
+0,0,0,0,0,1,1,0,0,15,looduskaitseala; alam-pedja
+0,0,1,0,0,1,1,0,0,15,looduskaitseala; alam-pedja
+0,0,1,0,0,0,1,0,0,15,looduskaitseala
+0,0,1,0,0,0,1,1,0,15,jahimees; looduskaitseala
+0,0,0,0,0,0,0,1,0,15,jahimees
+1,0,0,1,0,0,0,1,0,15,jahimees; alam-pedja
 0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-1,0,0,1,0,0,0,0,0,15,alam-pedja
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
+0,0,0,0,0,0,0,1,0,15,looduskaitseala

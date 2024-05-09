@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,1,1,2,2,3,1,14,probleem; tallinn; mäng; saladus; näitus
-1,2,3,1,1,2,2,3,2,14,probleem; tallinn; mäng; saladus; näitus
-1,2,3,1,1,2,2,3,2,14,probleem; tallinn; mäng; saladus; näitus
-1,2,3,1,1,2,2,3,2,14,probleem; tallinn; mäng; saladus; näitus
-1,2,3,1,1,2,2,3,2,14,probleem; tallinn; mäng; saladus; näitus
-1,1,3,1,1,2,2,3,2,14,probleem; tallinn; mäng; saladus; näitus
-1,0,3,3,1,2,3,3,1,14,probleem; saladus; anders; tallinn; mäng; näitus
-0,1,3,0,1,3,4,4,1,14,probleem; saladus; anders; tallinn; mäng; näitus
-2,0,3,0,1,2,2,2,1,14,tallinn; näitus; mäng; probleem; saladus
-3,0,3,1,2,3,2,3,1,14,probleem; saladus; tallinn; mäng; näitus; akvarell
-1,0,2,1,1,4,3,2,1,14,probleem; saladus; anders; tallinn; mäng; näitus; akvarell
+1,2,4,1,1,3,3,4,1,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,2,4,1,1,3,3,4,2,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,2,4,1,1,3,3,4,2,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,2,4,1,1,3,3,4,2,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,2,4,1,1,3,3,4,2,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,1,4,1,1,3,3,4,2,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+1,0,4,3,1,4,4,4,1,14,infotankist; tallinn; mäng; kunstihoone; näitus; saladus; anders; probleem
+0,1,3,0,1,4,5,5,1,14,tallinn; anders; mäng; näitus; saladus; kunstihoone; probleem
+2,0,4,0,1,3,2,3,1,14,tallinn; mäng; näitus; saladus; kunstihoone; probleem
+4,0,4,1,2,4,3,4,1,14,akvarell; tallinn; katseklaas; mäng; näitus; saladus; kunstihoone; probleem
+1,0,2,1,1,5,5,3,1,14,akvarell; tallinn; katseklaas; mäng; kunstihoone; näitus; saladus; anders; probleem

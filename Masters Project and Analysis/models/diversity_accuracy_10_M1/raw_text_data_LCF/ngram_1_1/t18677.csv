@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,1,1,1,1,16,esimene; loss; šotimaa
-0,0,1,0,1,1,1,1,0,16,loss; šotimaa
-0,0,1,0,1,1,1,1,0,16,loss; šotimaa
-0,0,1,0,1,1,1,1,0,16,loss; šotimaa
-0,0,0,0,1,1,1,1,0,16,loss; šotimaa
-0,0,0,0,1,0,0,1,0,16,loss; šotimaa
-0,0,0,0,1,0,0,1,0,16,loss; šotimaa
-0,0,0,0,1,0,0,1,0,16,loss; šotimaa
-0,0,0,0,1,1,1,1,0,16,mägismaa; dylan; loss; šotimaa
-0,0,0,0,1,1,0,1,0,16,dylan; loss; šotimaa
-0,0,0,0,1,1,0,1,0,16,dylan; loss; šotimaa
+0,0,1,0,1,1,1,1,0,16,šotimaa; loss; esimene
+0,0,1,0,1,1,1,0,0,16,šotimaa; loss
+0,0,1,0,1,1,1,0,0,16,šotimaa; loss
+0,0,1,0,1,1,1,0,0,16,šotimaa; loss
+0,0,0,0,1,1,1,0,0,16,šotimaa; loss
+0,0,0,0,1,0,1,0,0,16,šotimaa; loss
+0,0,0,0,1,0,1,0,0,16,šotimaa; loss
+0,0,0,0,1,0,1,0,0,16,šotimaa; loss
+0,0,0,0,1,1,1,0,0,16,šotimaa; loss; mägismaa
+0,0,0,0,1,0,1,0,0,16,šotimaa; loss
+0,0,0,0,1,0,1,0,0,16,šotimaa; loss

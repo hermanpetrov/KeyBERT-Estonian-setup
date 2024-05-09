@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,2,2,0,2,2,3,2,16,kontsert; peela; veljo; ungari; serenaad; rahvusvaheline; kammerkoor; publik
-5,4,2,2,0,2,2,3,2,16,kontsert; peela; veljo; ungari; serenaad; rahvusvaheline; kammerkoor; publik
-5,4,2,2,0,2,2,3,2,16,kontsert; peela; veljo; ungari; serenaad; rahvusvaheline; kammerkoor; publik
-5,4,3,2,0,2,2,3,2,16,kontsert; peela; veljo; ungari; serenaad; rahvusvaheline; kammerkoor; publik
-5,4,1,2,0,2,2,3,2,16,kontsert; peela; veljo; ungari; serenaad; rahvusvaheline; kammerkoor; publik
-4,4,2,2,0,3,3,2,2,16,tormis; kontsert; peela; veljo; ungari; serenaad; kammerkoor; publik
-4,3,3,1,0,5,3,3,2,16,tormis; kontsert; peela; ungari; rahvusvaheline; kammerkoor; publik; kaljuste; tõnu
-0,3,3,4,0,3,2,5,2,16,tormis; kontsert; peela; veljo; dirigent; ungari; rahvusvaheline; kammerkoor; publik; kaljuste; tõnu
-1,2,3,3,2,4,2,3,3,16,kontsert; peela; dirigent; ungari; serenaad; rahvusvaheline; publik; kammerkoor; kaljuste; tõnu
-1,2,3,2,2,4,4,4,3,16,kontsert; peela; veljo; dirigent; ungari; rahvusvaheline; kammerkoor; kaljuste; tõnu
-1,1,4,2,1,5,3,3,2,16,tormis; kontsert; peela; veljo; dirigent; ungari; serenaad; rahvusvaheline; kammerkoor; publik; kaljuste
+5,4,2,2,0,2,3,2,0,16,ungari; veljo; rahvusvaheline; kammerkoor; publik; serenaad; peela; kontsert
+5,4,2,2,0,2,3,2,0,16,ungari; veljo; rahvusvaheline; kammerkoor; publik; serenaad; peela; kontsert
+5,4,2,2,0,2,3,2,0,16,ungari; veljo; rahvusvaheline; kammerkoor; publik; serenaad; peela; kontsert
+5,4,3,2,0,2,3,2,0,16,ungari; veljo; rahvusvaheline; kammerkoor; publik; serenaad; peela; kontsert
+5,4,1,2,0,2,3,2,0,16,ungari; veljo; rahvusvaheline; kammerkoor; publik; serenaad; peela; kontsert
+4,4,2,2,0,3,2,2,0,16,ungari; veljo; kammerkoor; publik; serenaad; peela; kontsert
+4,3,3,1,0,3,3,2,0,16,ungari; kaljuste; rahvusvaheline; kammerkoor; publik; peela; kontsert
+0,3,3,4,0,2,5,2,0,16,ungari; kaljuste; tormis; veljo; rahvusvaheline; kontsert; kammerkoor; publik; peela; tõnu
+1,2,3,3,2,2,3,3,0,16,ungari; kaljuste; rahvusvaheline; tõnu; publik; kammerkoor; serenaad; peela; kontsert
+1,2,3,2,2,4,4,3,0,16,ungari; kaljuste; dirigent; rahvusvaheline; tõnu; kammerkoor; peela; kontsert
+1,1,4,2,1,3,3,2,0,16,ungari; kaljuste; dirigent; rahvusvaheline; publik; kammerkoor; serenaad; peela; kontsert

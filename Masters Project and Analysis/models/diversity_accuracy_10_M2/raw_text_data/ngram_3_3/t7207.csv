@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-3,2,0,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-3,2,0,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-3,2,0,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-3,2,0,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-3,2,1,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-2,2,1,3,2,4,0,0,0,12,mati; unt; klassik; imelaps; kirjutama
-1,2,1,0,2,5,0,0,0,12,kirjandus; mati; unt; klassik; imelaps; kirjutama
-0,2,0,1,2,5,1,0,0,12,kirjandus; mati; unt; imelaps; klassik
-1,2,0,2,2,4,1,0,0,12,kirjandus; mati; unt; klassik
-1,2,0,2,2,5,2,0,0,12,kirjandus; mati; unt; klassik; imelaps
+3,2,0,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+3,2,0,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+3,2,0,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+3,2,0,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+3,2,0,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+3,2,1,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+2,2,1,3,2,4,0,0,0,12,mati; unt; kirjutama; klassik; imelaps
+1,2,1,0,2,5,0,0,0,12,mati; unt; kirjutama; klassik; kirjandus; imelaps
+0,2,0,1,2,5,1,0,0,12,mati; unt; klassik; kirjandus; imelaps
+1,2,0,2,2,4,1,0,0,12,mati; unt; klassik; kirjandus
+1,2,0,2,2,5,2,0,0,12,mati; unt; klassik; kirjandus; imelaps

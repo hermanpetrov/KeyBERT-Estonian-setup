@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,1,1,1,0,2,0,12,sadam; elukvaliteet; prognoos; veetõus; tamm
-1,1,0,1,1,1,0,2,0,12,sadam; elukvaliteet; prognoos; veetõus; tamm
-1,1,0,1,1,1,0,2,0,12,sadam; elukvaliteet; prognoos; veetõus; tamm
-1,1,0,1,1,1,0,2,0,12,sadam; elukvaliteet; prognoos; veetõus; tamm
-1,0,0,1,1,1,0,2,0,12,elukvaliteet; sadam; prognoos; veetõus
-1,0,0,1,1,2,1,2,0,12,elukvaliteet; sadam; prognoos; mageveehorisont; rand; veetõus
-1,0,0,0,1,1,0,1,0,12,veetõus; sadam; prognoos
-3,1,0,2,1,1,0,0,0,12,sadam; prognoos; rand; veetõus; liiv
-2,3,0,0,1,0,0,1,0,12,sadam; prognoos; veetõus; tamm; liiv
-1,1,1,0,2,0,0,2,0,12,sadam; prognoos; veetõus
-1,1,0,0,2,0,0,2,0,12,sadam; prognoos; veetõus; tamm
+1,1,0,1,1,0,2,0,0,12,elukvaliteet; veetõus; tamm; prognoos; sadam
+1,1,0,1,1,0,2,0,0,12,elukvaliteet; veetõus; tamm; prognoos; sadam
+1,1,0,1,1,0,2,0,0,12,elukvaliteet; veetõus; tamm; prognoos; sadam
+1,1,0,1,1,0,2,0,0,12,elukvaliteet; veetõus; tamm; prognoos; sadam
+1,0,0,1,1,0,2,0,0,12,elukvaliteet; veetõus; prognoos; sadam
+1,0,0,1,1,1,2,0,0,12,rand; elukvaliteet; veetõus; mageveehorisont; sadam
+1,0,0,0,1,0,1,0,0,12,sadam; veetõus; prognoos
+3,1,0,2,1,0,0,0,0,12,rand; veetõus; prognoos; sadam; liiv
+2,3,0,0,1,0,1,0,0,12,veetõus; tamm; prognoos; sadam; liiv
+1,1,1,0,2,0,2,0,0,12,veetõus; prognoos; sadam
+1,1,0,0,2,0,2,0,0,12,veetõus; tamm; prognoos; sadam

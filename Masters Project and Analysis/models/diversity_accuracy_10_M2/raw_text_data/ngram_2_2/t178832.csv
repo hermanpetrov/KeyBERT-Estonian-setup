@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-1,0,0,1,0,1,1,0,1,14,koostöö; pätsi; sõda
-0,0,1,1,0,1,1,0,1,14,partei; sõda; rahulolematus
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+1,0,0,1,0,1,1,0,1,14,pätsi; koostöö; sõda
+0,0,1,1,0,1,1,0,1,14,rahulolematus; partei; sõda
 0,0,0,0,0,1,1,1,1,14,sõda
-2,0,0,0,0,1,1,0,1,14,konverents; välisministrite; sõda
+2,0,0,0,0,1,1,0,1,14,välisministrite; konverents; sõda
 0,0,1,0,0,1,1,0,1,14,sõda
-2,1,1,1,0,1,1,0,1,14,valitsus; konverents; välisministrite; sõda; partei
+2,1,1,1,0,1,1,0,1,14,välisministrite; partei; valitsus; konverents; sõda

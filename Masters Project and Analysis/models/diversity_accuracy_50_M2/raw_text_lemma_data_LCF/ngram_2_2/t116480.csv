@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,2,1,2,3,2,2,16,ungari; torm; serenaa; kontsert; publik; dirigent
-2,2,2,2,2,2,3,2,2,16,ungari; torm; serenaa; kontsert; publik; dirigent
-2,2,2,2,2,2,3,2,2,16,ungari; torm; serenaa; kontsert; publik; dirigent
-2,2,2,2,2,2,3,2,2,16,ungari; torm; serenaa; kontsert; publik; dirigent
-2,2,1,2,2,2,4,2,2,16,kontsert; dirigent; ungari; torm; serenaa; publik
-2,2,2,2,2,4,3,4,2,16,kontsert; dirigent; ungari; torm; serenaa; publik; tõnu
-1,2,2,5,1,4,4,3,2,16,kontsert; dirigent; ungari; partok; serenaa; torm; publik
-3,1,2,2,2,4,4,4,3,16,kontsert; dirigent; partok; torm; ungari; publik; tõnu
-2,2,2,5,3,4,6,2,3,16,kontsert; dirigent; ungari; partok; torm; serenaa; publik; tõnu
-2,2,3,3,3,3,3,5,3,16,kontsert; dirigent; partok; ungari; torm; publik; tõnu
-2,2,0,3,3,2,3,3,3,16,kontsert; dirigent; partok; ungari; torm; serenaa; publik; tõnu
+3,3,4,2,1,4,5,5,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+3,3,4,2,2,4,5,5,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+3,3,4,2,2,4,5,5,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+3,3,4,2,2,4,5,5,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+3,3,3,2,2,4,6,5,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+3,3,3,2,2,6,5,7,3,16,ungari; dirigent; rahvusvaheline; tõnu; serenaa; kammerkoor; publik; torm; laulukonkurss; kontsert
+1,3,3,6,1,7,5,6,3,16,ungari; dirigent; rahvusvaheline; serenaa; kammerkoor; publik; partok; torm; laulukonkurss; kontsert
+4,2,4,4,2,6,5,7,4,16,ungari; dirigent; rahvusvaheline; tõnu; kammerkoor; partok; torm; publik; laulukonkurss; kontsert
+3,3,4,5,3,5,8,5,4,16,ungari; dirigent; rahvusvaheline; tõnu; serenaa; kammerkoor; publik; partok; torm; laulukonkurss; kontsert
+2,3,5,4,3,5,4,7,4,16,ungari; dirigent; rahvusvaheline; tõnu; partok; publik; kammerkoor; torm; laulukonkurss; kontsert
+3,3,1,3,3,3,3,3,4,16,ungari; dirigent; tõnu; serenaa; kammerkoor; partok; publik; torm; laulukonkurss; kontsert

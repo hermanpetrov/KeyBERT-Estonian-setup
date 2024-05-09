@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,3,4,2,6,3,7,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; arvo
-8,7,5,4,3,7,3,9,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-8,7,5,4,4,7,3,9,6,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-8,7,6,4,4,9,4,10,6,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-8,8,10,4,4,10,5,11,6,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-7,8,10,5,6,10,5,9,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; kammerkoor; ingerimaa; kaljuste; arvo
-4,6,13,4,5,7,5,10,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-8,9,11,6,7,7,3,12,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-7,9,12,5,8,9,7,9,8,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-3,8,12,5,8,8,6,11,7,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
-4,9,12,5,9,8,5,10,9,16,needmine; folkloorifestival; ellerhein; tõnu; raua; tormis; ratassepp; veljo; ungari; õhtud; kammerkoor; ingerimaa; kaljuste; arvo
+7,6,3,4,2,3,7,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; tormis; veljo; needmine; arvo; õhtud
+8,7,5,4,3,3,9,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+8,7,5,4,4,3,9,6,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+8,7,6,4,4,4,10,6,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+8,8,10,4,4,5,11,6,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+7,8,10,5,6,5,9,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo
+4,6,13,4,5,5,10,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+8,9,11,6,7,3,12,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+7,9,12,5,8,7,9,8,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+3,8,12,5,8,6,11,7,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud
+4,9,12,5,9,5,10,9,0,16,ungari; folkloorifestival; ratassepp; ingerimaa; kammerkoor; ellerhein; raua; tõnu; kaljuste; tormis; veljo; needmine; arvo; õhtud

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,2,3,2,2,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,2,2,3,2,2,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,2,2,3,2,2,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,2,2,3,2,2,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,2,2,3,2,2,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,2,2,3,3,2,4,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-3,3,3,3,2,2,2,4,3,13,onn; suvi; kamp; leho; kont; boriss; saladus
-2,3,1,2,2,2,3,1,3,13,onn; leho; käsi; kont; kamp
-2,3,3,2,3,1,2,3,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-2,2,3,2,2,1,3,2,3,13,onn; suvi; kamp; leho; käsi; kont; boriss; saladus
-2,3,2,4,3,1,2,2,3,13,onn; suvi; kamp; leho; kont; boriss; saladus
+3,3,2,2,3,2,2,2,3,13,suvi; boriss; leho; kont; käsi; onn; saladus; kamp
+3,3,2,2,3,2,2,2,3,13,suvi; boriss; leho; kont; käsi; onn; saladus; kamp
+3,3,2,2,3,2,2,2,3,13,suvi; boriss; leho; kont; käsi; onn; saladus; kamp
+3,3,2,2,3,2,2,2,3,13,suvi; boriss; leho; kont; käsi; onn; saladus; kamp
+3,3,2,2,3,2,2,2,3,13,suvi; boriss; leho; kont; käsi; onn; saladus; kamp
+3,3,2,2,3,3,3,5,3,13,suvi; boriss; leho; õudusjutt; kont; käsi; onn; saladus; kamp
+3,3,3,4,2,2,3,4,3,13,suvi; boriss; sõjalennuk; leho; õudusjutt; kont; onn; saladus; kamp
+4,3,1,2,2,2,3,2,3,13,sõjalennuk; leho; õudusjutt; kont; onn; käsi; kamp
+3,3,3,2,3,1,3,3,3,13,suvi; boriss; leho; õudusjutt; kont; käsi; onn; saladus; kamp
+3,2,3,2,2,1,4,3,3,13,suvi; boriss; leho; õudusjutt; kont; käsi; onn; saladus; kamp
+3,4,2,4,3,1,2,3,3,13,suvi; boriss; sõjalennuk; leho; õudusjutt; kont; onn; saladus; kamp

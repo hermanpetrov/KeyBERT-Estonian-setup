@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,0,0,0,0,1,16,strandberg; poliitika; valimine; sulev; partei
-0,1,3,0,0,0,0,0,1,16,strandberg; poliitika; valimine; sulev; partei
-0,1,2,0,0,0,0,0,1,16,strandberg; sulev; poliitika; partei
-0,1,2,0,0,0,0,0,1,16,strandberg; sulev; poliitika; partei
-0,1,2,0,0,0,0,0,1,16,strandberg; sulev; poliitika; partei
-0,1,1,0,0,0,1,0,1,16,strandberg; voldemar; sulev; poliitika
-0,1,1,0,0,1,1,0,1,16,strandberg; poliitika; voldemar; sulev; partei
-0,1,1,0,0,1,1,1,1,16,rüütel; strandberg; poliitika; voldemar; sulev
-0,1,1,1,0,1,0,2,1,16,rüütel; strandberg; poliitika; voldemar; sulev
-0,1,2,0,0,0,1,2,1,16,rüütel; strandberg; poliitika; voldemar; sulev
-0,1,2,0,0,0,1,2,0,16,strandberg; poliitika; voldemar; neeme; sulev
+0,1,3,0,0,0,0,1,2,16,poliitika; partei; strandberg; sulev; rahvaliit; valimine
+0,1,3,0,0,0,0,1,2,16,poliitika; partei; strandberg; sulev; rahvaliit; valimine
+0,1,2,0,0,0,0,1,2,16,poliitika; partei; strandberg; sulev; rahvaliit
+0,1,2,0,0,0,0,1,2,16,poliitika; partei; strandberg; sulev; rahvaliit
+0,1,2,0,0,0,0,1,2,16,poliitika; partei; strandberg; sulev; rahvaliit
+0,1,1,0,0,0,1,1,2,16,poliitika; strandberg; voldemar; sulev; rahvaliit
+0,1,1,0,0,2,1,1,2,16,poliitika; partei; strandberg; voldemar; sulev; rahvaliit
+0,2,1,0,0,2,1,2,2,16,poliitika; strandberg; kohtuots; sulev; voldemar; rahvaliit; rüütel
+0,2,1,1,0,1,0,2,2,16,poliitika; sulev; strandberg; voldemar; kohtuots; rahvaliit; rüütel
+0,2,2,0,0,1,1,2,2,16,poliitika; strandberg; kohtuots; sulev; rüütel; voldemar; rahvaliit
+0,2,2,0,0,0,1,2,1,16,poliitika; rahvaliit; strandberg; kohtuots; sulev; voldemar; neeme

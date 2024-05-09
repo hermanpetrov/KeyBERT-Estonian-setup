@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,4,1,1,2,2,13,talv; uno; loop; eesti; lava; habe; mees
-0,0,0,0,4,1,1,2,1,13,talv; uno; loop; habe; eesti; lava; mees
-0,0,0,0,4,1,1,2,1,13,talv; uno; loop; habe; eesti; lava; mees
-0,0,1,0,4,1,1,2,1,13,talv; uno; loop; habe; eesti; lava; mees
-0,0,2,0,4,2,1,1,1,13,talv; uno; sümpaatne; loop; lava; eesti; habe; mees
-0,0,0,0,4,1,0,1,1,13,enno; uno; loop; habe; eesti; lava; mees
-0,0,0,0,4,0,0,1,1,13,uno; loop; habe; eesti; lava; mees
-0,0,0,1,4,1,0,0,1,13,uno; loop; habe; eesti; lava; austraalia
-0,0,1,0,3,1,0,0,1,13,loop; habe; eesti; lava
-0,0,0,1,3,0,0,0,1,13,loop; habe; eesti; lava
-0,0,0,2,3,0,0,0,1,13,loop; pere; lava; eesti; habe
+0,0,0,0,4,1,1,2,2,13,uno; eesti; lava; loop; mees; habe; talv
+0,0,0,0,4,1,1,2,1,13,uno; talv; habe; mees; eesti; lava; loop
+0,0,0,0,4,1,1,2,1,13,uno; talv; habe; mees; eesti; lava; loop
+0,0,1,0,4,1,1,2,1,13,uno; mees; habe; eesti; lava; talv; loop
+0,0,2,0,4,2,1,1,1,13,uno; eesti; lava; loop; sümpaatne; mees; habe; talv
+0,0,0,0,4,1,0,1,1,13,uno; mees; habe; eesti; lava; loop; enno
+0,0,0,0,4,0,0,1,1,13,uno; mees; habe; eesti; lava; loop
+0,0,0,1,4,1,0,0,1,13,uno; austraalia; habe; eesti; lava; loop
+1,0,1,0,3,1,0,0,1,13,jalgpall; habe; eesti; lava; loop
+1,0,0,1,3,0,0,0,1,13,jalgpall; habe; eesti; lava; loop
+1,0,0,2,3,0,0,0,1,13,pere; jalgpall; habe; eesti; lava; loop

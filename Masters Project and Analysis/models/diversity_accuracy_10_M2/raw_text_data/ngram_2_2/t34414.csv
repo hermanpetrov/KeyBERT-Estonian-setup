@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,1,0,3,2,1,1,16,eurole; euroopa; ida-virumaa; elering; tartu; komisjon; osaühing
-3,1,2,1,0,3,2,1,1,16,eurole; euroopa; ida-virumaa; elering; tartu; komisjon; osaühing
-3,1,2,1,0,3,2,1,1,16,eurole; euroopa; ida-virumaa; elering; tartu; komisjon; osaühing
-3,1,2,1,0,3,2,1,1,16,eurole; euroopa; ida-virumaa; elering; tartu; komisjon; osaühing
-3,1,2,1,0,3,2,1,1,16,eurole; euroopa; ida-virumaa; elering; tartu; komisjon; osaühing
-3,1,2,1,0,3,2,3,1,16,eurole; elering; osaühing; ida-virumaa; tartu; komisjon; euroopa
-4,1,2,1,0,3,3,2,1,16,eurole; elering; osaühing; ida-virumaa; tartu; komisjon; üleeuroopaline; euroopa
-4,1,3,1,0,4,3,2,1,16,eurole; osaühing; euroopa; ida-virumaa; tartu; komisjon; üleeuroopaline; elering
-3,1,3,0,0,3,2,2,1,16,eurole; elering; osaühing; ida-virumaa; juurapiid; tartu; üleeuroopaline; euroopa
-2,2,2,0,0,3,1,2,1,16,eurole; laevaliiklus; osaühing; euroopa; ida-virumaa; tartu; üleeuroopaline; elering
-2,2,3,0,0,3,1,3,1,16,eurole; laevaliiklus; osaühing; euroopa; ida-virumaa; tartu; üleeuroopaline; elering
+3,1,2,1,0,3,2,1,1,16,osaühing; elering; komisjon; euroopa; eurole; ida-virumaa; tartu
+3,1,2,1,0,3,2,1,1,16,osaühing; elering; komisjon; euroopa; eurole; ida-virumaa; tartu
+3,1,2,1,0,3,2,1,1,16,osaühing; elering; komisjon; euroopa; eurole; ida-virumaa; tartu
+3,1,2,1,0,3,2,1,1,16,osaühing; elering; komisjon; euroopa; eurole; ida-virumaa; tartu
+3,1,2,1,0,3,2,1,1,16,osaühing; elering; komisjon; euroopa; eurole; ida-virumaa; tartu
+3,1,2,1,0,3,2,3,1,16,elering; komisjon; eurole; tartu; osaühing; euroopa; ida-virumaa
+4,1,2,1,0,3,3,2,1,16,elering; eurole; üleeuroopaline; komisjon; tartu; osaühing; euroopa; ida-virumaa
+4,1,3,1,0,4,3,2,1,16,elering; üleeuroopaline; komisjon; eurole; tartu; osaühing; euroopa; ida-virumaa
+3,1,3,0,0,3,2,2,1,16,juurapiid; elering; üleeuroopaline; eurole; tartu; osaühing; euroopa; ida-virumaa
+2,2,2,0,0,3,1,2,1,16,elering; üleeuroopaline; eurole; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+2,2,3,0,0,3,1,3,1,16,elering; üleeuroopaline; eurole; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa

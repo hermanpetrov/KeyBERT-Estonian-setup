@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,1,2,1,0,0,0,11,amet; radar
-1,1,0,1,2,1,0,0,0,11,amet; radar
-1,1,0,1,2,1,0,0,0,11,amet; radar
-1,1,0,1,2,1,0,0,0,11,amet; radar
-1,0,0,1,2,1,0,0,0,11,amet; radar
-1,0,0,1,2,1,0,1,0,11,amet; radar
-0,0,0,1,1,0,1,1,0,11,amet; radar
-0,0,1,1,2,0,1,1,0,11,amet; radar
-1,0,1,1,2,0,0,1,1,11,amet; radar
-1,0,0,1,2,1,0,1,1,11,amet; radar
-0,0,0,1,2,0,0,0,1,11,amet; radar
+3,5,3,4,3,2,2,3,2,11,radar; meremees; merehariduskeskus; rannavalve; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,5,3,4,3,2,2,3,2,11,radar; meremees; merehariduskeskus; rannavalve; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,5,3,4,3,2,2,3,2,11,radar; meremees; merehariduskeskus; rannavalve; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,5,3,4,3,2,2,3,1,11,radar; meremees; merehariduskeskus; rannavalve; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,4,4,4,3,2,2,4,1,11,radar; meremees; kiirkaater; merehariduskeskus; rannavalve; päästeoperatsioon; liikluskontroll; veetee; amet
+4,4,7,3,3,4,3,5,2,11,radar; meremees; merehariduskeskus; rannavalve; territoriaalvesi; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,4,7,3,2,1,4,4,2,11,meremees; radar; merehariduskeskus; kiirkaater; rannavalve; territoriaalvesi; päästeoperatsioon; liikluskontroll; veetee; amet
+2,3,7,2,3,5,6,3,1,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; liikluskontroll; veetee; amet
+3,3,7,3,2,4,5,4,3,11,meremees; radar; merehariduskeskus; rannavalve; territoriaalvesi; veetee; päästeoperatsioon; hüdrodünaamika; liikluskontroll; kiirkaater; amet
+4,3,4,3,2,2,5,3,2,11,radar; meremees; merehariduskeskus; territoriaalvesi; rannavalve; veetee; päästeoperatsioon; liikluskontroll; kiirkaater; amet
+3,1,4,3,2,1,4,1,2,11,meremees; radar; merehariduskeskus; rannavalve; territoriaalvesi; päästeoperatsioon; liikluskontroll; kiirkaater; amet

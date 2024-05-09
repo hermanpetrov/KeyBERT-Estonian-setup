@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,1,0,0,0,15,viktor; tootmisliin; kai; tallinn
-0,2,1,0,0,1,0,0,0,15,viktor; tootmisliin; tallinn
-0,2,1,0,0,0,0,0,0,15,viktor; tootmisliin; tallinn
-0,1,1,0,0,0,0,0,0,15,viktor; tallinn
-0,1,1,1,0,0,0,0,0,15,viktor; tallinn; resolutsioon
-0,1,1,0,0,0,0,0,0,15,viktor; tallinn
+0,3,2,0,0,0,1,0,0,15,tootmisliin; viktor; alatskivi; tallinn; lossipäev; viikingipäev
+0,3,2,0,0,0,1,0,0,15,tootmisliin; viktor; alatskivi; tallinn; lossipäev; viikingipäev
+0,3,2,0,0,0,1,0,0,15,tootmisliin; viktor; alatskivi; tallinn; lossipäev; viikingipäev
+0,3,2,0,0,0,1,0,0,15,tootmisliin; viktor; alatskivi; tallinn; lossipäev; viikingipäev
+0,3,3,0,0,0,1,0,0,15,tootmisliin; viktor; alatskivi; tallinn; lossipäev; viikingipäev
+0,3,2,0,0,1,0,0,0,15,tootmisliin; viktor; kai; tallinn; viikingipäev
+0,3,2,0,0,1,2,0,0,15,tootmisliin; viktor; alatskivi; janukovitš; tallinn; viikingipäev
+0,3,2,0,0,0,2,0,0,15,tootmisliin; viktor; alatskivi; janukovitš; tallinn; viikingipäev
+0,2,2,0,0,1,1,0,0,15,janukovitš; viikingipäev; tallinn; lossipäev; viktor
+0,2,2,1,0,1,1,2,0,15,alatskivi; resolutsioon; janukovitš; viikingipäev; tallinn; lossipäev; viktor
+0,2,2,0,0,1,1,2,0,15,alatskivi; janukovitš; viikingipäev; tallinn; lossipäev; viktor

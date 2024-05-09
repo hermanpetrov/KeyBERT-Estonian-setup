@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor
-0,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor
-0,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor
-0,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor
-0,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor
-3,1,1,1,0,1,0,0,1,16,ungari; tormis; õhtud; kammerkoor; needmine; veljo; raua
-1,1,0,0,0,1,0,0,1,16,kammerkoor; õhtud; veljo; ungari
-2,2,1,0,0,1,0,0,1,16,arvo; ungari; õhtud; kammerkoor; kaljuste; tõnu; folkloorifestival
-1,1,0,4,0,2,0,0,1,16,õhtud; kammerkoor; tõnu; folkloorifestival; arvo; ellerhein
-3,2,0,2,0,1,0,0,1,16,ungari; õhtud; kammerkoor; tõnu; veljo; folkloorifestival; ellerhein
-2,2,0,0,0,1,1,0,1,16,ungari; õhtud; ratassepp; kammerkoor; tõnu; ellerhein
+0,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; õhtud; tormis
+0,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; õhtud; tormis
+0,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; õhtud; tormis
+0,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; õhtud; tormis
+0,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; õhtud; tormis
+3,1,1,1,0,1,0,0,1,16,kammerkoor; ungari; needmine; õhtud; tormis; raua; veljo
+1,1,0,0,0,1,0,0,1,16,kammerkoor; ungari; veljo; õhtud
+2,2,1,0,0,1,0,0,1,16,kammerkoor; kaljuste; ungari; folkloorifestival; õhtud; arvo; tõnu
+1,1,0,4,0,2,0,0,1,16,kammerkoor; folkloorifestival; õhtud; ellerhein; arvo; tõnu
+3,2,0,2,0,1,0,0,1,16,kammerkoor; ungari; folkloorifestival; õhtud; ellerhein; veljo; tõnu
+2,2,0,0,0,1,1,0,1,16,kammerkoor; ungari; ratassepp; õhtud; ellerhein; tõnu

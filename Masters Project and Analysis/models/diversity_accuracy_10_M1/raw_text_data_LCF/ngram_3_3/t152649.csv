@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,1,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-3,0,3,0,1,1,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-2,0,3,0,1,2,1,1,1,12,facebook; karistus; kristjan; port; euroopa
-1,0,3,1,1,1,2,2,1,12,karistus; kristjan; port; euroopa
-1,0,3,1,1,2,2,1,1,12,karistus; kristjan; port; euroopa
-1,0,3,1,1,4,2,0,0,12,kristjan; trahv; port; karistus; euroopa
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+3,0,3,0,1,1,1,1,0,12,kristjan; euroopa; karistus; port; facebook
+2,0,3,0,1,1,1,1,0,12,kristjan; karistus; euroopa; port; facebook
+1,0,3,1,1,2,2,1,0,12,kristjan; euroopa; karistus; port
+1,0,3,1,1,2,1,1,0,12,kristjan; euroopa; karistus; port
+1,0,3,1,1,2,0,0,0,12,kristjan; euroopa; karistus; port

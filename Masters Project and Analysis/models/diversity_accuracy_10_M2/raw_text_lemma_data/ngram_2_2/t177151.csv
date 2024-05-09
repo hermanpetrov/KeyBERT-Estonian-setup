@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,1,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,0,1,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,0,1,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,0,1,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,1,1,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,1,2,1,3,4,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons
-4,0,3,0,3,3,3,5,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons; kaks
-3,0,2,1,3,3,3,5,0,21,festival; eurosonic; holland; erki; two; and; the; raadio; dragons; kaks
-3,1,2,1,3,3,2,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons; kaks
-2,0,2,3,3,3,3,4,0,21,festival; eurosonic; holland; two; and; the; raadio; dragons; kaks
-2,0,1,3,3,3,1,2,0,21,eurosonic; holland; two; and; the; raadio; dragons; kaks
+4,0,1,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,0,1,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,0,1,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,0,1,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,1,1,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,1,2,2,3,4,2,4,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; holland; festival
+4,0,3,1,3,3,3,5,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; kaks; holland; festival
+3,0,2,2,3,3,3,5,0,21,meisterjaan; holland; dragons; raadio; and; two; eurosonic; the; kaks; erki; festival
+3,1,2,1,3,3,2,4,0,21,dragons; raadio; and; two; eurosonic; the; kaks; holland; festival
+2,0,2,3,3,3,3,4,0,21,dragons; raadio; and; two; eurosonic; the; kaks; holland; festival
+2,0,1,3,3,4,1,2,0,21,meisterjaan; dragons; raadio; and; two; eurosonic; the; kaks; holland

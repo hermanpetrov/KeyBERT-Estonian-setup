@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,3,4,4,3,3,6,4,13,ema; kõrvalised; leib; isikud; tomusk; ilmar; martin; isa; pius
-5,3,3,4,4,3,3,6,4,13,ema; kõrvalised; leib; isikud; tomusk; ilmar; martin; isa; pius
-5,3,3,4,4,3,3,6,4,13,ema; kõrvalised; leib; isikud; tomusk; ilmar; martin; isa; pius
-5,3,3,4,4,3,3,6,4,13,ema; kõrvalised; leib; isikud; tomusk; ilmar; martin; isa; pius
-5,3,5,4,4,3,3,6,4,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
-5,3,5,4,4,3,3,6,4,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
-6,3,5,4,4,4,5,8,4,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; sool; isa; pius
-9,3,5,4,4,4,4,7,4,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
-9,3,7,4,4,4,4,7,4,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
-8,3,6,4,4,4,6,7,5,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
-8,3,6,5,4,4,7,6,8,13,ema; kõrvalised; leib; märt; isikud; tomusk; ilmar; martin; isa; pius
+5,3,3,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; isa; kõrvalised; ema; isikud; leib
+5,3,3,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; isa; kõrvalised; ema; isikud; leib
+5,3,3,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; isa; kõrvalised; ema; isikud; leib
+5,3,3,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; isa; kõrvalised; ema; isikud; leib
+5,3,5,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; ema; isikud; leib
+5,3,5,4,4,3,6,4,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; ema; isikud; leib
+6,3,5,4,4,5,8,4,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; sool; ema; isikud; leib
+9,3,5,4,4,4,7,4,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud; leib
+9,3,7,4,4,4,7,4,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud; leib
+8,3,6,4,4,6,7,5,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; ema; isikud; leib
+8,3,6,5,4,7,6,8,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; ema; isikud; leib

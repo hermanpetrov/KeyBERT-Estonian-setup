@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,2,0,2,0,15,baltika; majanduskriis; rahulolu; salme; rõivafirma
-0,1,2,0,0,1,1,4,0,15,baltika; majanduskriis; rahulolu; salme; janek; rõivafirma
-0,2,3,1,0,2,1,4,0,15,baltika; majanduskriis; salme; janek; rõivafirma; rahulolu; kultuurisõber
-0,2,3,0,0,3,1,2,0,15,baltika; majanduskriis; rahulolu; kultuurisõber; salme; rõivafirma
-0,2,4,0,0,2,0,4,0,15,baltika; majanduskriis; salme; janek; rõivafirma; rahulolu; kultuurisõber
-0,1,2,0,0,2,0,1,0,15,baltika; majanduskriis; rahulolu; rõivafirma
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,0,2,0,0,15,rõivafirma; rahulolu; majanduskriis; baltika
+0,1,2,0,0,1,4,0,0,15,rahulolu; majanduskriis; salme; janek; rõivafirma; baltika
+0,2,3,1,0,1,4,0,0,15,rahulolu; majanduskriis; salme; janek; kultuurisõber; rõivafirma; baltika
+0,2,3,0,0,1,2,0,0,15,rõivafirma; baltika; rahulolu; majanduskriis; salme; kultuurisõber
+0,2,4,0,0,0,4,0,0,15,rahulolu; majanduskriis; salme; janek; kultuurisõber; rõivafirma; baltika
+0,1,2,0,0,0,1,0,0,15,baltika; rõivafirma; majanduskriis; rahulolu

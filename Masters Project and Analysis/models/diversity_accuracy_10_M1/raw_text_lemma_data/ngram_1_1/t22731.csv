@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,14,saladus; näitus; mäng
-0,1,1,0,0,1,1,1,0,14,saladus; näitus; mäng
-0,1,1,0,0,1,1,1,0,14,saladus; näitus; mäng
-0,1,1,0,0,1,1,1,0,14,saladus; näitus; mäng
-0,1,1,0,0,1,1,1,0,14,saladus; näitus; mäng
-0,1,1,0,0,0,1,0,0,14,saladus; näitus; mäng
-0,1,1,0,0,0,0,0,0,14,saladus; mäng
-0,1,1,0,0,0,0,0,0,14,saladus; mäng
+0,1,1,1,0,1,2,2,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,1,2,2,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,1,2,2,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,1,2,2,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,1,2,2,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,0,2,1,0,14,mäng; näitus; saladus; kunstihoone
+0,1,1,1,0,0,1,0,0,14,kunstiõping; mäng; saladus; kunstihoone
+1,1,1,0,0,0,1,1,0,14,infotankist; mäng; läbielamine; kunstiõping; saladus
 0,0,1,0,0,0,0,0,0,14,saladus
-0,1,1,0,0,0,1,0,0,14,tallinn; saladus
-0,0,1,1,0,0,0,0,0,14,saladus; akvarell
+0,1,2,0,0,0,1,0,0,14,infotankist; tallinn; saladus
+0,0,1,1,0,0,1,0,0,14,infotankist; akvarell; saladus

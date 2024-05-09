@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,3,0,0,2,1,3,3,14,valitsus; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-1,3,3,0,0,2,1,5,3,14,valitsus; pätsi; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-1,3,3,0,0,2,1,4,3,14,valitsus; pätsi; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-0,3,3,0,0,2,1,4,3,14,valitsus; pätsi; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-0,2,2,0,0,1,1,4,2,14,valitsus; koostöö; välisministrite; pätsi; rahulolematus; sõda; partei
-0,2,2,2,1,1,2,3,2,14,valitsus; koostöö; välisministrite; pätsi; sõda; partei
-0,3,2,2,1,2,1,4,2,14,valitsus; pätsi; konverents; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-0,2,3,2,1,1,1,2,1,14,valitsus; konverents; koostöö; pätsi; rahulolematus; sõda; partei
-0,0,3,2,1,0,1,3,3,14,valitsus; välisministrite; kommunistlik; rahulolematus; sõda; partei
-1,0,2,2,1,2,2,2,1,14,valitsus; konverents; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-0,0,2,2,1,1,2,2,2,14,valitsus; konverents; välisministrite; kommunistlik; rahulolematus; sõda; partei
+1,3,3,0,0,1,3,3,0,14,välisministrite; partei; valitsus; koostöö; kommunistlik; sõda
+1,3,3,0,0,1,5,3,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+1,3,3,0,0,1,4,3,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+0,3,3,0,0,1,4,3,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+0,2,2,0,0,1,4,2,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; pätsi
+0,2,2,2,1,2,3,2,0,14,välisministrite; partei; valitsus; koostöö; pätsi; sõda
+0,3,2,2,1,1,4,2,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+0,2,3,2,1,1,2,1,0,14,rahulolematus; partei; valitsus; koostöö; pätsi; sõda
+0,0,3,2,1,1,3,3,0,14,rahulolematus; välisministrite; valitsus; partei; kommunistlik; sõda
+1,0,2,2,1,2,2,1,0,14,välisministrite; koostöö; sõda; rahulolematus; valitsus; partei; kommunistlik
+0,0,2,2,1,2,2,2,0,14,rahulolematus; välisministrite; valitsus; partei; kommunistlik; sõda

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,0,0,3,0,14,hiiumaa; hiiu; purjetamine; kärdla
-1,0,2,0,0,0,0,3,0,14,hiiumaa; hiiu; purjetamine; kärdla
-1,0,2,0,0,0,0,3,0,14,hiiumaa; hiiu; purjetamine; kärdla
-1,0,2,0,0,0,0,3,0,14,hiiumaa; hiidlane; hiiu; purjetamine; kärdla
-1,0,2,0,0,0,0,3,0,14,hiiumaa; hiiu; purjetamine; kärdla
-0,0,2,0,0,0,0,2,0,14,hiiu; hiiumaa
-1,0,1,0,0,0,0,2,0,14,hiiu; hiiumaa; kärdla; nõelakoda
-1,0,0,0,0,1,0,0,0,14,meresõit; nõelakoda
+1,0,2,0,0,0,3,0,0,14,hiiumaa; purjetamine; hiiu; kärdla
+1,0,2,0,0,0,3,0,0,14,hiiumaa; purjetamine; hiiu; kärdla
+1,0,2,0,0,0,3,0,0,14,hiiumaa; purjetamine; hiiu; kärdla
+1,0,2,0,0,0,3,0,0,14,hiiumaa; purjetamine; hiidlane; hiiu; kärdla
+1,0,2,0,0,0,3,0,0,14,hiiumaa; purjetamine; hiiu; kärdla
+0,0,2,0,0,0,2,0,0,14,hiiumaa; hiiu
+1,0,1,0,0,0,2,0,0,14,nõelakoda; hiiumaa; hiiu; kärdla
+1,0,0,0,0,0,0,0,0,14,nõelakoda
 0,0,1,0,0,0,0,0,0,14,hiiu
 0,0,1,0,0,0,0,0,0,14,hiiu
 0,0,1,1,0,0,0,0,0,14,hiiu; kärdla

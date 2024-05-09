@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,1,1,1,1,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-2,2,4,1,1,1,1,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-2,2,4,1,1,1,1,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-2,3,4,1,1,1,1,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-2,2,3,1,1,1,2,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-2,4,4,2,1,2,1,2,2,12,kirik; propaganda; aasta; aeg; hügieen
-4,4,3,2,1,2,2,2,2,12,kirik; propaganda; aeg; aasta; hügieen
-2,4,3,2,1,2,2,2,1,12,jessenin; kirik; propaganda; aasta; aeg
-2,4,3,2,1,3,3,3,2,12,jessenin; kirik; propaganda; aasta; aeg; hügieen
-2,3,2,2,2,2,2,2,2,12,aeg; propaganda; aasta; hügieen
-2,2,3,2,2,2,2,2,3,12,aeg; propaganda; kirik; aasta; hügieen
+3,4,5,1,1,2,4,4,2,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,4,5,1,1,2,4,4,2,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,4,5,1,1,2,4,4,3,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,5,5,1,1,2,4,4,3,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,4,4,1,1,2,5,4,3,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+2,7,5,2,1,3,3,4,3,12,aeg; kirik; kahekümnes; aasta; tervishoid; nõukogu; hügieen; propaganda
+6,6,5,3,1,3,5,4,3,12,aeg; kirik; kahekümnes; homoseksualism; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,5,5,2,1,3,4,4,2,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; propaganda
+4,7,4,4,1,5,5,5,3,12,aeg; kirik; kahekümnes; homoseksualism; aasta; jessenin; tervishoid; nõukogu; hügieen; propaganda
+3,5,5,4,3,5,4,4,3,12,aeg; kahekümnes; homoseksualism; aasta; tervishoid; nõukogu; hügieen; propaganda
+3,4,6,4,2,3,4,5,4,12,aeg; kirik; kahekümnes; homoseksualism; aasta; tervishoid; nõukogu; hügieen; propaganda

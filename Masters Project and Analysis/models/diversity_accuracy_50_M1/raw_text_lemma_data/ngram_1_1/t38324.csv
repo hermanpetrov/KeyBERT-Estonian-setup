@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,2,1,1,2,2,0,0,15,talv; raamat; mälestus; tegevus; ants; ilmar; põgenema; etnoloog
-1,1,2,1,1,2,1,1,0,15,põgenema; talv; tegevus; mälestus; ants; teaduslik; etnoloog; ilmar
-1,0,2,1,1,2,3,1,0,15,tegevus; mälestus; ants; raamat; teaduslik; ilmar; põgenema; etnoloog
-0,0,2,1,0,2,3,1,1,15,põgenema; raamat; ants; etnoloog; ilmar
-0,0,1,0,0,1,3,1,1,15,põgenema; raamat; ants; ilmar
-0,0,1,1,0,2,2,0,1,15,põgenema; töö; ants; mälestus; ilmar
-0,0,1,1,0,3,3,0,1,15,põgenema; töö; raamat; ants; teaduslik; ilmar
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,2,1,1,2,2,0,0,15,mälestus; põgenema; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,2,1,1,2,1,1,0,15,mälestus; ants; põgenema; teaduslik; talv; ilmar; tegevus; etnoloog
+1,0,2,1,1,2,3,1,0,15,mälestus; põgenema; teaduslik; ilmar; tegevus; etnoloog; raamat; ants
+0,0,2,1,0,2,3,1,1,15,raamat; põgenema; ants; ilmar; etnoloog
+0,0,1,0,0,1,3,1,1,15,raamat; põgenema; ants; ilmar
+0,0,1,1,0,2,2,0,1,15,mälestus; põgenema; ants; töö; ilmar
+0,0,1,1,0,3,3,0,1,15,raamat; põgenema; teaduslik; töö; ilmar; ants

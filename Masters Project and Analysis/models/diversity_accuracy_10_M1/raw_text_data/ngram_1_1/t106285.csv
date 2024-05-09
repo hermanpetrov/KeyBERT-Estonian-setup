@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,1,0,0,0,16,heinrich; luuleruum; prints
-0,0,1,0,1,1,0,0,0,16,heinrich; luuleruum; prints
-0,0,1,0,1,1,0,0,0,16,heinrich; luuleruum; prints
-0,0,1,0,1,1,0,0,0,16,heinrich; luuleruum; prints
-0,0,1,0,1,1,0,1,0,16,heinrich; luuleruum; prints
-0,0,2,0,1,1,0,1,0,16,heinrich; pille-riin; luuleruum; prints
-0,0,2,0,1,0,0,1,0,16,heinrich; pille-riin; luuleruum; prints
-1,0,1,0,1,0,0,1,0,16,heinrich; luuleruum; prints
-0,0,2,0,1,0,0,1,0,16,heinrich; pille-riin; luuleruum; prints
-0,0,1,0,1,0,0,1,0,16,heinrich; luuleruum; prints
-0,0,1,0,1,0,0,1,0,16,pille-riin; luuleruum; prints
+0,0,1,0,1,1,0,0,0,16,prints; luuleruum; heinrich
+0,0,1,0,1,1,0,0,0,16,prints; luuleruum; heinrich
+0,0,1,0,1,1,0,0,0,16,prints; luuleruum; heinrich
+0,0,1,0,1,1,0,0,0,16,prints; luuleruum; heinrich
+0,0,1,0,1,1,0,1,0,16,prints; luuleruum; heinrich
+0,0,2,0,1,1,0,1,0,16,prints; heinrich; pille-riin; luuleruum
+0,0,2,0,1,0,0,1,0,16,prints; luuleruum; heinrich; pille-riin
+1,0,1,0,1,0,0,1,0,16,prints; luuleruum; heinrich
+0,0,2,0,1,0,0,1,0,16,prints; luuleruum; heinrich; pille-riin
+0,0,1,0,1,0,0,1,0,16,prints; luuleruum; heinrich
+0,0,1,0,1,0,0,1,0,16,prints; luuleruum; pille-riin

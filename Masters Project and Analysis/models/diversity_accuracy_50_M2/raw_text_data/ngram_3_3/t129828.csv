@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,2,2,2,3,5,3,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara
-6,2,2,2,3,5,3,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara
-6,2,2,2,3,5,3,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara
-6,2,2,2,3,5,3,5,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara
-7,2,3,2,3,5,3,6,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-7,3,4,2,3,5,4,6,2,13,chapaev; stalin; prototüüp; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-6,2,5,4,2,6,3,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-6,2,6,3,2,6,5,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-3,3,5,3,2,5,5,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-2,2,3,5,2,5,5,4,2,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
-2,1,5,6,4,7,4,3,4,13,chapaev; prototüüp; stalin; tuhkatriinu; film; nõukogude; masnikova; varvara; propagandafilm
+6,2,2,2,3,5,3,4,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; chapaev
+6,2,2,2,3,5,3,4,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; chapaev
+6,2,2,2,3,5,3,4,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; chapaev
+6,2,2,2,3,5,3,5,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; chapaev
+7,2,3,2,3,5,3,6,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; propagandafilm; chapaev
+7,3,4,2,3,5,4,6,2,13,film; masnikova; prototüüp; stalin; tuhkatriinu; varvara; nõukogude; propagandafilm; chapaev
+6,2,5,4,2,6,3,4,2,13,film; masnikova; prototüüp; tuhkatriinu; stalin; varvara; nõukogude; propagandafilm; chapaev
+6,2,6,3,2,6,5,4,2,13,film; masnikova; prototüüp; tuhkatriinu; stalin; varvara; nõukogude; propagandafilm; chapaev
+3,3,5,3,2,5,5,4,2,13,film; masnikova; prototüüp; tuhkatriinu; stalin; nõukogude; varvara; propagandafilm; chapaev
+2,2,3,5,2,5,5,4,2,13,film; masnikova; prototüüp; tuhkatriinu; stalin; nõukogude; varvara; propagandafilm; chapaev
+2,1,5,6,4,7,4,3,4,13,film; masnikova; prototüüp; tuhkatriinu; stalin; nõukogude; varvara; propagandafilm; chapaev

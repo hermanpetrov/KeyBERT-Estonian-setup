@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,3,1,2,3,2,3,14,kanada; televisiooni; hääl; aasta; senjoriita; trump; donald
-1,2,2,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-1,2,2,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-1,2,2,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-1,2,1,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-1,2,1,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-1,2,1,3,1,2,3,2,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-2,2,1,2,1,2,2,3,2,14,donald; kanada; hääl; trump; televisiooni; aasta; senjoriita
-2,2,1,2,1,2,1,3,2,14,kanada; televisiooni; aasta; hääl; senjoriita; donald; trump; jäähoki
-2,2,1,1,1,2,1,2,2,14,donald; kanada; trump; jäähoki; aasta; senjoriita
-2,2,1,1,1,2,2,2,3,14,kanada; aasta; senjoriita; jäähoki; trump; donald
+1,2,2,3,1,2,3,2,3,14,senjoriita; televisiooni; kanada; donald; aasta; hääl; trump
+1,2,2,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+1,2,2,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+1,2,2,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+1,2,1,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+1,2,1,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+1,2,1,3,1,2,3,2,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+2,2,1,2,1,2,2,3,2,14,senjoriita; televisiooni; kanada; trump; donald; aasta; hääl
+2,2,1,2,1,2,1,3,2,14,senjoriita; televisiooni; kanada; donald; aasta; hääl; trump; jäähoki
+2,2,1,1,1,2,1,2,2,14,senjoriita; kanada; trump; donald; aasta; jäähoki
+2,2,1,1,1,2,2,2,3,14,senjoriita; kanada; donald; aasta; trump; jäähoki

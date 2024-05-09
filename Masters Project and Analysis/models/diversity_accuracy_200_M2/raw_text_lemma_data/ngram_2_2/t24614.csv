@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,4,3,5,4,4,4,2,12,eesti; mõtlemine; keel; tõlkima; hägusus; süsteem
-5,4,4,3,5,4,4,4,2,12,eesti; mõtlemine; keel; tõlkima; hägusus; süsteem
-5,4,4,3,4,4,4,4,2,12,eesti; mõtlemine; keel; tõlkima; hägusus; süsteem
-4,4,5,3,4,4,4,4,2,12,eesti; mõtlemine; keel; tõlkima; hägusus; süsteem
-5,4,3,3,4,4,4,4,2,12,eesti; mõtlemine; keel; tõlkima; hägusus; süsteem
-3,4,3,3,3,5,5,4,2,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
-3,3,4,3,3,4,3,3,2,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
-3,4,3,4,3,4,4,4,2,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
-3,2,4,3,4,4,4,4,2,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
-3,3,3,3,3,4,3,3,2,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
-3,3,4,3,4,3,4,4,3,12,eesti; mõtlemine; tõlkima; keel; hägusus; süsteem
+10,6,6,7,6,8,7,6,3,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima
+10,6,6,7,6,8,7,7,3,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima
+10,6,7,7,5,8,7,7,3,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima
+9,6,8,7,5,8,7,7,3,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima
+10,7,5,7,5,7,7,7,3,12,indoeuroopa; eesti; süsteem; kõnekeel; üldmõiste; isereguleeruv; keel; alaväärsustunne; hägusus; mõtlemine; tõlkima
+8,9,6,7,4,7,7,7,3,12,indoeuroopa; eesti; süsteem; kõnekeel; üldmõiste; isereguleeruv; keel; alaväärsustunne; hägusus; mõtlemine; tõlkima
+7,8,8,6,4,5,5,7,3,12,indoeuroopa; eesti; süsteem; kõnekeel; üldmõiste; isereguleeruv; keel; alaväärsustunne; hägusus; mõtlemine; tõlkima
+6,8,6,5,4,6,6,7,3,12,indoeuroopa; eesti; süsteem; kõnekeel; üldmõiste; isereguleeruv; keel; alaväärsustunne; hägusus; mõtlemine; tõlkima
+4,6,8,3,5,7,6,9,4,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima
+3,7,6,3,4,6,4,6,4,12,indoeuroopa; eesti; süsteem; üldmõiste; isereguleeruv; keel; alaväärsustunne; hägusus; mõtlemine; tõlkima
+3,7,7,3,5,5,6,9,5,12,süsteem; üldmõiste; isereguleeruv; mõtlemine; indoeuroopa; eesti; kõnekeel; keel; alaväärsustunne; hägusus; tõlkima

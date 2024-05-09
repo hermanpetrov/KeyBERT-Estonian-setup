@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,2,1,1,0,11,rannavalve; kiirkaater; meresaade
-1,0,1,1,0,2,1,1,0,11,rannavalve; kiirkaater; meresaade
-1,0,1,1,0,2,1,1,0,11,rannavalve; kiirkaater; meresaade
-1,0,0,1,0,2,1,1,0,11,rannavalve; kiirkaater; meresaade
-1,0,0,1,0,2,1,1,0,11,rannavalve; kiirkaater; meresaade
-1,0,0,0,0,1,1,2,0,11,kiirkaater; rannavalve; meresaade
+1,0,1,1,0,2,1,1,0,11,rannavalve; meresaade; kiirkaater
+1,0,1,1,0,2,1,1,0,11,rannavalve; meresaade; kiirkaater
+1,0,1,1,0,2,1,1,0,11,rannavalve; meresaade; kiirkaater
+1,0,0,1,0,2,1,1,0,11,rannavalve; meresaade; kiirkaater
+1,0,0,1,0,2,1,1,0,11,rannavalve; meresaade; kiirkaater
+1,0,0,0,0,1,1,2,0,11,meresaade; rannavalve; kiirkaater
 1,0,0,0,0,0,0,0,0,11,kiirkaater
-1,0,0,1,0,0,0,1,0,11,jüri; kiirkaater; meresaade
+1,0,0,1,0,0,0,1,0,11,jüri; meresaade; kiirkaater
 0,0,0,1,0,0,0,0,0,11,jüri
 0,0,0,1,0,0,0,1,0,11,jüri; tuukrikaater
 0,0,1,1,0,0,0,1,0,11,jüri; tuukrikaater

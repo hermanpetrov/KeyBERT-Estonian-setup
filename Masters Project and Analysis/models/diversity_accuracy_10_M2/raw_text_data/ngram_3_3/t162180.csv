@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,1,0,1,1,5,0,14,lehte; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-1,1,0,1,0,1,1,5,1,14,lehte; kirjanik; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-1,1,0,1,0,1,1,5,1,14,lehte; kirjanik; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-1,1,0,1,0,1,1,5,1,14,lehte; kirjanik; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-1,1,1,1,0,1,1,5,1,14,lehte; kirjanik; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-1,1,1,1,0,1,1,5,1,14,lehte; kirjanik; luuletaja; üheksavägine; hainsalu; elulugu; sõna; riigitegelane
-0,1,0,1,0,2,1,5,1,14,lehte; kirjanik; 40; luuletaja; hainsalu; elulugu; sõna; riigitegelane
-0,1,0,1,0,1,0,4,1,14,hainsalu; lehte; kirjanik; sõna; luuletaja; eesti; riigitegelane
-0,1,1,0,0,0,0,2,1,14,hainsalu; luuletaja; sõna; kirjanik
-1,1,0,1,0,1,1,1,1,14,hainsalu; kirjanik; keel; sõna; vägi
-0,1,1,0,0,0,1,1,0,14,keel; hainsalu; eesti; sõna
+1,1,0,1,0,1,1,5,0,14,luuletaja; elulugu; hainsalu; sõna; üheksavägine; lehte; riigitegelane
+1,1,0,1,0,1,1,5,1,14,luuletaja; kirjanik; elulugu; hainsalu; sõna; üheksavägine; lehte; riigitegelane
+1,1,0,1,0,1,1,5,1,14,luuletaja; kirjanik; elulugu; hainsalu; sõna; üheksavägine; lehte; riigitegelane
+1,1,0,1,0,1,1,5,1,14,luuletaja; kirjanik; elulugu; hainsalu; sõna; üheksavägine; lehte; riigitegelane
+1,1,1,1,0,1,1,5,1,14,luuletaja; kirjanik; elulugu; hainsalu; üheksavägine; sõna; lehte; riigitegelane
+1,1,1,1,0,1,1,5,1,14,luuletaja; kirjanik; elulugu; hainsalu; üheksavägine; sõna; lehte; riigitegelane
+0,1,0,1,0,2,1,5,1,14,luuletaja; 40; kirjanik; elulugu; hainsalu; sõna; lehte; riigitegelane
+0,1,0,1,0,1,0,4,1,14,luuletaja; eesti; kirjanik; hainsalu; sõna; lehte; riigitegelane
+0,1,1,0,0,0,0,2,1,14,luuletaja; hainsalu; sõna; kirjanik
+1,1,0,1,0,1,1,1,1,14,keel; kirjanik; hainsalu; sõna; vägi
+0,1,1,0,0,0,1,1,0,14,hainsalu; keel; sõna; eesti

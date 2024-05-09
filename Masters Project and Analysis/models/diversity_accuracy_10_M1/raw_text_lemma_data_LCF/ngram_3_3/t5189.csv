@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,1,1,0,0,2,0,17,probleem; laidoner; keedus; riina; eentalu; veiko
-3,2,2,1,1,0,0,2,0,17,probleem; laidoner; keedus; riina; eentalu; veiko
-3,2,2,1,1,0,0,2,0,17,probleem; laidoner; keedus; riina; eentalu; veiko
-3,2,2,1,1,0,0,2,0,17,probleem; laidoner; keedus; riina; eentalu; veiko
-3,3,2,1,1,0,0,2,0,17,riina; probleem; eentalu; laidoner; keedus; õunpuu; veiko
-3,4,2,1,1,0,0,2,0,17,riina; probleem; üürnik; eentalu; laidoner; keedus; õunpuu; veiko
-1,3,1,3,1,0,1,2,0,17,riina; probleem; üürnik; gruusia; eentalu; õunpuu; laidoner; keedus
-3,3,1,1,1,0,0,2,0,17,riina; probleem; eentalu; õunpuu; keedus; laidoner; sulev
-1,2,5,3,1,1,0,2,0,17,muuseum; riina; probleem; eentalu; laidoner; keedus; õunpuu
-0,1,2,2,1,0,0,2,0,17,laidoner; riina; probleem; eentalu
-0,0,1,1,1,0,0,0,0,17,probleem; laidoner
+4,3,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; probleem
+4,3,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; probleem
+4,3,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; probleem
+4,3,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; probleem
+4,4,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; õunpuu; probleem
+4,5,2,1,1,1,1,3,0,17,keedus; laidoner; eentalu; riina; veiko; konkurentsivõime; õunpuu; üürnik; probleem
+2,4,1,3,1,1,2,3,0,17,keedus; gruusia; laidoner; eentalu; riina; konkurentsivõime; õunpuu; üürnik; probleem
+4,4,1,1,1,0,0,3,0,17,keedus; sulev; eentalu; laidoner; riina; konkurentsivõime; õunpuu; probleem
+3,3,5,3,1,2,1,3,0,17,keedus; venemaa; laidoner; eentalu; riina; konkurentsivõime; õunpuu; muuseum; probleem
+0,2,2,3,1,1,1,3,0,17,konkurentsivõime; venemaa; laidoner; eentalu; riina; probleem
+0,1,1,2,1,0,0,0,0,17,probleem; konkurentsivõime; venemaa; laidoner

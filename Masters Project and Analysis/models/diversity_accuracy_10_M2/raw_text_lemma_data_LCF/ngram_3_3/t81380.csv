@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,2,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kõrgem; moeetendus
-0,1,3,2,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kõrgem; moeetendus
-0,1,3,2,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kõrgem; moeetendus
-0,1,3,1,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kõrgem; moeetendus
-0,1,2,1,0,1,3,2,0,18,disainer; performance; paju; mood; tants; kõrgem
-0,3,3,1,0,1,3,0,0,18,disainer; moeetendus; performance; mood; tants; kõrgem
-1,0,2,2,0,3,1,1,1,18,disainer; anatoomikum; paju; mood; tants; kollektsioon; moeetendus
-2,0,2,1,0,4,3,2,1,18,disainer; paju; moeetendus; lavastaja; performance; mood; tants; kollektsioon
-2,1,1,1,0,2,1,2,0,18,disainer; anatoomikum; mood; tants; kollektsioon; lavastaja
-3,1,1,0,0,2,2,2,1,18,disainer; paju; mood; kollektsioon; tants; moeetendus
-2,2,1,2,0,1,2,2,1,18,disainer; pelis; paju; kollektsioon; lavastaja; tants; moeetendus
+0,1,3,3,0,1,3,2,0,18,moeetendus; disainer; performance; mood; kunstikool; kõrgem; paju; tants
+0,1,3,3,0,1,3,2,0,18,moeetendus; disainer; performance; mood; kunstikool; kõrgem; paju; tants
+0,1,3,3,0,1,3,2,0,18,moeetendus; disainer; performance; mood; kunstikool; kõrgem; paju; tants
+0,1,3,2,0,1,3,2,0,18,moeetendus; disainer; performance; mood; kunstikool; kõrgem; paju; tants
+0,1,2,2,0,1,3,2,0,18,mood; kunstikool; kõrgem; performance; disainer; paju; tants
+0,3,3,2,0,1,3,0,0,18,moeetendus; disainer; performance; mood; kunstikool; kõrgem; tants
+1,0,2,2,0,3,1,1,1,18,mood; moeetendus; anatoomikum; disainer; kollektsioon; paju; tants
+2,0,2,1,0,4,3,2,1,18,moeetendus; kollektsioon; performance; disainer; mood; lavastaja; paju; tants
+2,1,1,1,0,2,1,2,0,18,mood; lavastaja; anatoomikum; disainer; kollektsioon; tants
+3,1,1,0,0,2,2,2,1,18,mood; moeetendus; disainer; kollektsioon; paju; tants
+2,2,1,2,0,1,2,2,1,18,lavastaja; kollektsioon; moeetendus; pelis; disainer; paju; tants

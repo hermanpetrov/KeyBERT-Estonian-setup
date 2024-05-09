@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,1,1,0,11,mikomägi; teatrikool
-0,1,1,0,0,1,2,1,0,11,mikomägi; rapla; teatrikool
-0,2,0,0,0,0,2,1,0,11,mikomägi; rapla; teater; teatrikool
-0,2,0,0,0,1,0,2,0,11,rapla; mikomägi; ugala; teatrikool
-0,1,0,0,0,0,0,2,0,11,mikomägi; ugala; rapla
-0,0,0,0,0,0,0,2,0,11,mikomägi; rapla
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
+0,1,1,0,0,2,1,0,0,11,mikomägi; rapla; teatrikool
+0,2,0,0,0,2,1,0,0,11,mikomägi; rapla; teatrikool; teater
+0,2,0,0,0,0,2,0,0,11,ugala; mikomägi; rapla; teatrikool
+0,1,0,0,0,0,2,0,0,11,mikomägi; rapla; ugala
+0,0,0,0,0,0,2,0,0,11,mikomägi; rapla

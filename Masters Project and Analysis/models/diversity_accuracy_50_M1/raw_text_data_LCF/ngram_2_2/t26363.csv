@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,4,3,0,3,3,3,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; asundus; kanakasvataja; hoolitsemine
-6,3,4,3,0,3,3,3,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; asundus; kanakasvataja; hoolitsemine
-6,3,4,3,0,3,3,3,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; asundus; kanakasvataja; hoolitsemine
-6,3,4,3,0,3,3,3,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; asundus; kanakasvataja; hoolitsemine
-6,3,4,3,0,3,3,3,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; asundus; kanakasvataja; hoolitsemine
-6,3,2,3,0,2,2,4,3,11,külaline; meeleliigutus; maastik; eesti; austraalia; ludwig; asundus; kanakasvataja
-3,3,3,2,0,2,2,4,3,11,külaline; meeleliigutus; eesti; austraalia; maastik; asundus; kanakasvataja
-4,3,3,2,0,3,2,2,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; ludwig; asundus; kanakasvataja; hoolitsemine
-4,3,3,1,0,3,2,4,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; ludwig; asundus; kanakasvataja; hoolitsemine
-4,2,0,1,0,4,3,4,4,11,külaline; meeleliigutus; maastik; eesti; austraalia; ludwig; asundus; kanakasvataja; hoolitsemine
-4,3,1,1,0,4,2,3,3,11,külaline; meeleliigutus; maastik; eesti; austraalia; ludwig; asundus; kanakasvataja; hoolitsemine
+6,3,4,3,0,3,3,4,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; asundus; külaline
+6,3,4,3,0,3,3,4,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; asundus; külaline
+6,3,4,3,0,3,3,4,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; asundus; külaline
+6,3,4,3,0,3,3,4,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; asundus; külaline
+6,3,4,3,0,3,3,4,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; asundus; külaline
+6,3,2,3,0,2,4,3,0,11,eesti; maastik; meeleliigutus; austraalia; kanakasvataja; ludwig; asundus
+3,3,3,2,0,2,4,3,0,11,eesti; kanakasvataja; austraalia; meeleliigutus; maastik; asundus
+4,3,3,2,0,2,2,4,0,11,eesti; hoolitsemine; maastik; austraalia; meeleliigutus; kanakasvataja; ludwig; asundus
+4,3,3,1,0,2,4,4,0,11,eesti; hoolitsemine; maastik; austraalia; meeleliigutus; kanakasvataja; ludwig; asundus; külaline
+4,2,0,1,0,3,4,4,0,11,eesti; hoolitsemine; maastik; austraalia; meeleliigutus; kanakasvataja; ludwig; asundus
+4,3,1,1,0,2,3,3,0,11,eesti; hoolitsemine; maastik; meeleliigutus; austraalia; kanakasvataja; ludwig; asundus; külaline

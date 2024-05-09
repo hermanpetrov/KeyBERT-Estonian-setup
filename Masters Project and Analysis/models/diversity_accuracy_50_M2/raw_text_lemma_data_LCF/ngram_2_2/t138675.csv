@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,2,0,0,1,1,11,loodus; kolhoos; jaanitul; austamine
-0,1,0,1,2,0,0,1,1,11,loodus; kolhoos; jaanitul; austamine
-0,1,0,1,2,0,0,1,1,11,loodus; kolhoos; jaanitul; austamine
-0,1,0,1,2,0,0,1,1,11,loodus; kolhoos; jaanitul; austamine
-0,1,0,1,2,0,0,1,1,11,loodus; kolhoos; jaanitul; austamine
-1,2,0,1,2,1,0,1,1,11,loodus; jaanitul; kolhoos; austamine
-0,2,1,1,2,1,1,1,1,11,loodus; jaanitul; kolhoos; austamine
-1,1,0,0,0,1,1,1,2,11,loodus; jaanitul; kolhoos; austamine
-3,2,0,1,0,1,1,1,2,11,loodus; kiik; jaanitul; kolhoos; austamine
-1,3,0,0,0,1,0,1,1,11,loodus; kiik; jaanitul; kolhoos; austamine
-1,1,0,0,0,0,0,1,1,11,loodus; jaanitul; kolhoos
+2,2,1,2,2,2,1,2,3,11,austamine; kolhoos; loodus; jaanipidu; jaanitul; lauluväljak; vanarahvas
+2,2,1,2,2,2,1,2,3,11,austamine; kolhoos; loodus; jaanipidu; jaanitul; lauluväljak; vanarahvas
+2,2,1,2,2,2,1,2,3,11,austamine; kolhoos; loodus; jaanipidu; jaanitul; lauluväljak; vanarahvas
+2,2,1,2,2,2,1,2,3,11,austamine; kolhoos; loodus; jaanipidu; jaanitul; lauluväljak; vanarahvas
+2,2,1,2,2,2,1,3,3,11,austamine; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; vanarahvas
+2,3,1,2,2,3,2,3,3,11,austamine; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; vanarahvas
+0,2,1,2,2,3,2,3,3,11,austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; vanarahvas
+1,2,0,1,0,2,2,2,4,11,austamine; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; vanarahvas
+3,3,1,2,0,2,3,2,3,11,austamine; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+3,5,1,1,0,2,2,3,1,11,viljasaak; austamine; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+2,1,2,1,0,1,2,1,2,11,viljasaak; lauluväljak; kolhoos; loodus; jaanipidu; jaanitul; vanarahvas

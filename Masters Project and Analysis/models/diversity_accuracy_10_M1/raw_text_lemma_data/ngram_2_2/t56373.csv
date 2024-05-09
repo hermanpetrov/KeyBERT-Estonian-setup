@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,1,12,kirik
-0,0,0,0,0,0,0,0,1,12,kirik
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,1,1,0,0,0,0,0,0,12,kirik; sõda
-0,1,1,1,0,0,0,0,0,12,kirik; sõda
-0,0,2,0,0,0,0,0,0,12,sõda; hein
-0,0,3,1,0,0,0,1,0,12,kirik; kriivan; sõda; hein
-0,0,0,0,0,0,0,0,1,12,kriivan
-0,0,0,0,0,0,0,0,0,12,
+0,0,1,1,0,1,0,0,1,12,pulmapidu; kirik; talupoeg
+0,0,1,1,0,1,0,0,1,12,pulmapidu; kirik; talupoeg
+0,0,1,1,0,1,0,0,0,12,pulmapidu; talupoeg
+0,0,1,1,0,1,0,0,0,12,pulmapidu; talupoeg
+0,0,1,1,0,1,0,0,0,12,pulmapidu; talupoeg
+0,1,2,1,0,1,0,1,0,12,kirik; talupoeg; pulmapidu; sõda
+0,1,1,2,0,1,0,0,0,12,pulmapidu; talupoeg; kirik; sõda
+0,0,2,0,0,1,0,0,0,12,pulmapidu; hein; sõda
+0,0,3,1,0,1,0,1,0,12,kirik; kriivan; pulmapidu; sõda; hein
+0,1,0,0,0,1,0,0,1,12,pulmapidu; kriivan; talupoeg
+0,1,0,0,0,1,0,0,0,12,pulmapidu; talupoeg

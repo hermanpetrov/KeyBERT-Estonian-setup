@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,0,0,1,2,1,2,13,kunst; elken; jaan; marco; eesti; näitus; meedia
-0,2,2,0,0,1,2,1,2,13,kunst; elken; jaan; marco; eesti; näitus; meedia
-0,2,2,0,0,1,2,1,2,13,kunst; elken; jaan; marco; eesti; näitus; meedia
-0,2,2,0,0,1,2,1,2,13,kunst; elken; jaan; marco; eesti; näitus; meedia
-0,2,1,0,0,1,2,1,2,13,kunst; elken; jaan; marco; eesti; näitus; meedia
-0,2,2,0,0,1,1,1,2,13,jaan; marco; eesti; näitus; meedia
-1,2,2,0,0,1,1,1,2,13,jaan; marco; eesti; näitus; meedia
-0,2,2,0,0,0,1,0,2,13,jaan; formaat; eesti; näitus; meedia
-0,2,0,1,0,2,1,0,2,13,jaan; tsensuur; marco; eesti; näitus; meedia
-0,0,1,0,0,1,1,0,2,13,marco; formaat; eesti; näitus; meedia
-0,0,1,2,0,1,1,0,2,13,näitus; formaat; eesti; meedia
+1,2,2,0,0,1,3,2,2,13,eesti; marco; elken; kunstimaailm; jaan; kunst; näitus; meedia
+1,2,2,0,0,1,3,2,2,13,eesti; marco; elken; kunstimaailm; jaan; kunst; näitus; meedia
+1,2,2,0,0,1,3,2,2,13,eesti; marco; elken; kunstimaailm; jaan; kunst; näitus; meedia
+1,2,2,0,0,1,3,2,2,13,eesti; marco; elken; kunstimaailm; jaan; kunst; näitus; meedia
+1,2,1,0,0,1,3,2,2,13,eesti; marco; elken; kunstimaailm; jaan; kunst; näitus; meedia
+1,2,2,0,0,1,2,1,2,13,jaan; eesti; marco; näitus; kunstimaailm; meedia
+1,2,2,0,0,1,2,1,2,13,jaan; eesti; marco; kunstiakadeemia; näitus; meedia
+0,2,3,0,0,0,2,0,2,13,jaan; eesti; kunstiakadeemia; näitus; formaat; meedia
+0,2,0,1,0,2,2,0,2,13,jaan; eesti; tsensuur; kunstiakadeemia; näitus; marco; meedia
+0,0,2,0,0,1,2,0,2,13,eesti; marco; kunstiakadeemia; formaat; näitus; meedia
+0,0,2,2,0,1,1,0,2,13,eesti; kunstiakadeemia; formaat; näitus; meedia

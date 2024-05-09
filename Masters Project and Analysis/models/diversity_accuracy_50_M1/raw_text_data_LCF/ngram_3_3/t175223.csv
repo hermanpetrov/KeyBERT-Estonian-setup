@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,6,5,5,6,5,6,4,13,admiral; kadri-ann; karl; sagrits; silver; hobune; väli; ükssilm; mereröövel
-7,4,6,5,5,6,5,6,5,13,admiral; kadri-ann; karl; sagrits; heino; silver; hobune; väli; ükssilm; mereröövel
-7,4,6,5,5,6,5,6,5,13,admiral; kadri-ann; karl; sagrits; heino; silver; hobune; väli; ükssilm; mereröövel
-7,4,6,5,5,6,5,6,5,13,admiral; kadri-ann; karl; sagrits; heino; silver; hobune; väli; ükssilm; mereröövel
-7,4,6,5,5,6,5,6,4,13,admiral; kadri-ann; karl; sagrits; heino; silver; hobune; väli; ükssilm; mereröövel
-6,4,5,5,5,6,5,6,4,13,kadri-ann; karl; sagrits; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
-6,5,5,5,5,6,6,7,4,13,kadri-ann; karl; sagrits; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
-7,4,5,7,5,5,7,7,4,13,kadri-ann; karl; sagrits; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
-8,4,6,8,5,5,6,7,5,13,kadri-ann; karl; sagrits; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
-10,4,6,8,5,7,6,7,5,13,kadri-ann; karl; sagrits; heino; mereröövel; silver; hobune; väli; ükssilm; admiral
-10,5,5,8,5,6,6,7,5,13,admiral; hobune; kadri-ann; karl; sagrits; silver; heino; väli; ükssilm; mereröövel
+7,4,6,5,5,5,6,4,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; kadri-ann; väli; karl
+7,4,6,5,5,5,6,5,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; heino; kadri-ann; väli; karl
+7,4,6,5,5,5,6,5,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; heino; kadri-ann; väli; karl
+7,4,6,5,5,5,6,5,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; heino; kadri-ann; väli; karl
+7,4,6,5,5,5,6,4,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; heino; kadri-ann; väli; karl
+6,4,5,5,5,5,6,4,0,13,admiral; ükssilm; väli; mereröövel; silver; sagrits; heino; kadri-ann; hobune; karl
+6,5,5,5,5,6,7,4,0,13,admiral; ükssilm; väli; mereröövel; silver; sagrits; heino; kadri-ann; hobune; karl
+7,4,5,7,5,7,7,4,0,13,admiral; ükssilm; väli; mereröövel; silver; sagrits; heino; kadri-ann; hobune; karl
+8,4,6,8,5,6,7,5,0,13,admiral; ükssilm; väli; mereröövel; silver; sagrits; heino; kadri-ann; hobune; karl
+10,4,6,8,5,6,7,5,0,13,admiral; ükssilm; väli; mereröövel; silver; sagrits; heino; kadri-ann; hobune; karl
+10,5,5,8,5,6,7,5,0,13,admiral; ükssilm; hobune; mereröövel; silver; sagrits; heino; kadri-ann; väli; karl

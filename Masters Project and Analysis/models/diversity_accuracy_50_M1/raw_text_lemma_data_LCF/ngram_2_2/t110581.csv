@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,2,4,3,2,2,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-5,2,2,4,3,2,2,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-5,2,2,4,3,2,2,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-5,2,2,4,3,2,2,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-5,2,2,4,3,3,2,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-4,2,1,5,3,3,3,4,2,12,villem; hobune; kristus; telling; kubi; proua; mõisnik; eduard
-1,2,3,3,3,3,3,3,2,12,villem; kristus; telling; kubi; proua; mõisnik; eduard
-1,4,2,2,3,1,4,3,2,12,villem; eduard; kristus; telling; kubi; proua; hobune; ilus
-1,2,2,3,2,2,5,3,2,12,villem; kristus; telling; kubi; proua; eduard; ilus
-2,0,2,4,2,2,4,3,1,12,villem; hobune; kristus; telling; proua; eduard; ilus
-2,3,1,4,2,2,5,2,1,12,villem; hobune; kristus; telling; proua; eduard; ilus
+5,2,2,5,3,2,3,5,3,12,villem; telling; kristus; karjapoiss; mõisavalitseja; kubi; proua; eduard; mõisnik; hobune
+5,2,2,5,3,2,3,5,3,12,villem; telling; kristus; karjapoiss; mõisavalitseja; kubi; proua; eduard; mõisnik; hobune
+5,2,2,5,3,2,3,5,3,12,villem; telling; kristus; karjapoiss; mõisavalitseja; kubi; proua; eduard; mõisnik; hobune
+5,2,2,5,3,2,3,5,3,12,villem; telling; kristus; karjapoiss; mõisavalitseja; kubi; proua; eduard; mõisnik; hobune
+5,2,2,5,3,3,3,5,3,12,villem; telling; kristus; karjapoiss; mõisavalitseja; kubi; proua; eduard; mõisnik; hobune
+4,2,1,6,3,3,4,5,3,12,kristus; villem; telling; karjapoiss; mõisavalitseja; kubi; proua; mõisnik; eduard; hobune
+2,2,3,4,3,3,4,4,3,12,kristus; telling; villem; kubi; proua; eduard; mõisnik; mõisavalitseja
+2,4,3,3,3,2,5,4,3,12,kristus; telling; villem; mõisavalitseja; karjapoiss; kubi; ilus; proua; eduard; hobune
+1,3,3,4,2,2,6,4,3,12,kristus; villem; telling; karjapoiss; kubi; ilus; proua; eduard; mõisavalitseja
+2,0,2,4,2,2,5,4,2,12,villem; kristus; telling; mõisavalitseja; ilus; proua; eduard; hobune
+2,3,1,4,2,2,6,3,2,12,kristus; villem; telling; mõisavalitseja; ilus; proua; eduard; hobune

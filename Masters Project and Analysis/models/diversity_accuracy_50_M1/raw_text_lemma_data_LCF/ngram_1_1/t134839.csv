@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,1,2,1,0,18,andrus; ott; komisjon; euroopa; saar
-0,0,2,0,1,1,2,1,1,18,andrus; ott; komisjon; euroopa; saar
-0,0,2,0,1,1,2,1,1,18,andrus; ott; komisjon; euroopa; saar
-0,0,2,0,1,1,2,1,1,18,andrus; ott; komisjon; euroopa; saar
-0,0,2,0,1,1,2,1,1,18,andrus; ott; komisjon; euroopa; saar
-0,0,2,0,1,2,2,0,1,18,andrus; ott; komisjon; euroopa; saar
-0,0,3,1,1,0,1,1,1,18,andrus; kristjan; ott; ansip; komisjon; euroopa; saar
-0,0,3,1,1,0,1,0,1,18,andrus; ott; indrek; regioon; komisjon; saar
-0,0,3,0,1,1,2,0,1,18,ott; indrek; karulin; ansip; komisjon; saar
-0,0,2,2,2,1,3,0,2,18,kristjan; regioon; karulin; saar; ott; ansip; komisjon; euroopa
-0,1,2,2,1,1,3,1,1,18,regioon; kristjan; ott; indrek; karulin; komisjon; euroopa; saar
+1,0,2,1,1,1,2,3,0,18,andrus; komisjon; ott; spordisõnum; päevakada; euroopa; saar
+1,0,2,1,1,1,2,3,1,18,andrus; komisjon; ott; spordisõnum; päevakada; euroopa; saar
+1,0,2,1,1,1,2,3,1,18,andrus; komisjon; ott; spordisõnum; päevakada; euroopa; saar
+1,0,2,1,1,1,2,3,1,18,andrus; komisjon; ott; spordisõnum; päevakada; euroopa; saar
+1,0,3,1,1,1,2,3,1,18,andrus; komisjon; ott; spordisõnum; abikaasa; päevakada; euroopa; saar
+1,0,3,1,1,2,2,2,1,18,andrus; komisjon; ott; spordisõnum; abikaasa; päevakada; euroopa; saar
+1,0,3,3,1,0,1,3,1,18,andrus; komisjon; ott; spordisõnum; ansip; kristjan; päevakada; euroopa; saar
+0,0,3,1,1,0,1,2,1,18,andrus; komisjon; ott; spordisõnum; päevakada; indrek; regioon; saar
+0,0,4,0,1,1,2,2,1,18,karulin; komisjon; ott; spordisõnum; ansip; päevakada; tulistamisjuhtum; indrek; saar
+0,0,2,2,2,1,3,2,2,18,karulin; komisjon; ott; spordisõnum; ansip; kristjan; tulistamisjuhtum; euroopa; regioon; saar
+1,1,2,2,1,1,3,3,2,18,karulin; komisjon; ott; spordisõnum; kristjan; abikaasa; tulistamisjuhtum; euroopa; indrek; regioon; saar

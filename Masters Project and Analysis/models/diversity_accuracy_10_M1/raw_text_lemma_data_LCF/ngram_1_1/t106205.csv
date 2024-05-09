@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,1,0,1,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,1,0,1,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,1,0,1,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,1,0,1,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,1,0,1,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,0,0,0,0,12,merivoo-parro; raadio; televiisor
-1,0,2,0,0,0,0,0,0,12,merivoo-parro; energia; raadio
-1,0,3,0,0,0,0,0,0,12,merivoo-parro; energia; raadio
-1,0,3,0,0,0,1,0,0,12,merivoo-parro; maarja; energia; raadio
-0,0,2,0,0,1,0,0,0,12,televiisor; merivoo-parro; raadio
-0,0,3,0,0,1,1,1,0,12,merivoo-parro; televiisor; maarja; raadio
+1,0,2,1,0,1,0,2,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,1,0,2,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,1,0,2,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,1,0,2,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,1,0,2,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,0,0,1,0,12,raadio; hommikuprogramm; merivoo-parro; televiisor; klassikokkutulek
+1,0,2,1,0,1,0,1,0,12,raadio; hommikuprogramm; merivoo-parro; energia; klassikokkutulek
+1,0,3,0,0,0,0,1,0,12,raadio; hommikuprogramm; merivoo-parro; energia
+1,0,3,0,0,0,1,1,0,12,raadio; hommikuprogramm; merivoo-parro; maarja; energia
+1,0,2,0,0,1,0,0,0,12,klassikokkutulek; raadio; merivoo-parro; televiisor
+0,0,3,0,0,1,1,1,0,12,raadio; merivoo-parro; maarja; televiisor

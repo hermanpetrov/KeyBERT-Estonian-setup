@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,1,2,2,2,1,13,följeton; tants; eesti
-1,0,1,0,1,2,2,2,1,13,följeton; tants; eesti
-1,0,1,0,1,2,2,2,1,13,följeton; tants; eesti
-1,0,1,0,1,2,2,2,1,13,följeton; tants; eesti
-1,0,1,0,1,2,2,2,1,13,följeton; tants; eesti
-1,0,1,0,1,2,2,2,0,13,följeton; tants; eesti
-1,0,1,0,1,2,2,3,0,13,följeton; otsa; tants; eesti
-1,0,1,2,1,3,2,3,0,13,följeton; otsa; prelüüd; eesti; tants
-2,0,0,1,1,3,2,3,0,13,följeton; otsa; tants; eesti
-3,0,0,0,1,2,2,3,0,13,följeton; otsa; tants; eesti
-2,0,0,0,1,1,2,3,0,13,följeton; otsa; tants; eesti
+1,0,1,1,1,3,2,2,1,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,3,2,2,1,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,3,2,2,1,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,3,2,2,1,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,3,2,2,1,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,3,2,2,0,13,eesti; följeton; sümfooniaorkester; tants
+1,0,1,1,1,2,2,3,0,13,otsa; eesti; följeton; sümfooniaorkester; tants
+1,0,1,2,1,3,2,3,0,13,otsa; prelüüd; eesti; följeton; tants
+2,1,0,1,1,3,2,3,0,13,otsa; eesti; följeton; sümfooniaorkester; tants
+3,1,0,0,1,2,2,3,0,13,otsa; eesti; följeton; sümfooniaorkester; tants
+2,1,0,0,1,1,2,3,0,13,otsa; eesti; följeton; sümfooniaorkester; tants

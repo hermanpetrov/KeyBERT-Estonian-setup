@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,7,6,5,3,5,5,7,2,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,7,6,5,3,5,5,7,2,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,7,7,5,3,5,5,6,2,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,6,6,5,2,5,5,5,2,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; joogiveemäärus
-2,7,7,4,2,4,5,4,3,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,2,5,4,2,5,4,4,3,11,vee; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-4,2,5,5,2,5,4,7,3,11,vee; veetöötlusjaam; hapnik; kvaliteet; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-4,5,5,4,2,6,4,6,3,11,vee; kvaliteet; hapnik; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,4,4,4,1,4,3,5,2,11,vee; kvaliteet; hapnik; veetöötlusjaam; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-4,5,3,3,2,4,2,5,2,11,vee; kvaliteet; veetöötlusjaam; hapnik; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
-3,4,3,3,2,3,3,5,2,11,vee; kvaliteet; hapnik; veevärk; joogivesi; veevarustussüsteem; raud; joogiveemäärus
+3,7,6,5,3,5,5,7,2,11,veetöötlusjaam; veevärk; vee; veevarustussüsteem; hapnik; joogiveemäärus; raud; joogivesi; kvaliteet
+3,7,6,5,3,5,5,7,2,11,veetöötlusjaam; veevärk; vee; veevarustussüsteem; hapnik; joogiveemäärus; raud; joogivesi; kvaliteet
+3,7,7,5,3,5,5,6,2,11,veetöötlusjaam; veevärk; vee; veevarustussüsteem; hapnik; joogiveemäärus; raud; joogivesi; kvaliteet
+3,6,6,5,2,5,5,5,2,11,veetöötlusjaam; veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; joogivesi; kvaliteet
+2,7,7,4,2,4,5,4,3,11,veetöötlusjaam; veevärk; vee; veevarustussüsteem; hapnik; joogiveemäärus; raud; joogivesi; kvaliteet
+3,2,5,4,2,5,4,4,3,11,veetöötlusjaam; veevärk; vee; veevarustussüsteem; joogiveemäärus; raud; joogivesi
+4,2,5,5,2,5,4,7,3,11,veetöötlusjaam; veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; raud; joogivesi; kvaliteet
+4,5,5,4,2,6,4,6,3,11,veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; raud; joogivesi; kvaliteet
+3,4,4,4,1,4,3,5,2,11,veetöötlusjaam; veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; raud; joogivesi; kvaliteet
+4,5,3,3,2,4,2,5,2,11,veetöötlusjaam; veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; raud; joogivesi; kvaliteet
+3,4,3,3,2,3,3,5,2,11,veevärk; vee; hapnik; veevarustussüsteem; joogiveemäärus; raud; joogivesi; kvaliteet

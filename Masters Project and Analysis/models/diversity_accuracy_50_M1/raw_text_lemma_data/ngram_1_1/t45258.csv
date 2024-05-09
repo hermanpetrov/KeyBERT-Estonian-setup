@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
-0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
-0,0,2,0,1,0,0,0,0,17,festival; viljandi; vare
-0,0,3,0,1,0,0,0,0,17,festival; jürgen; viljandi; vare
-0,0,3,0,1,0,0,0,0,17,viljandi; jürgen; vare; laen
-0,0,4,0,1,0,0,0,0,17,festival; viljandi; laen; jürgen; vare
-0,0,2,0,1,0,0,0,0,17,jürgen; vare; laen
-0,0,2,0,1,0,0,1,0,17,viljandi; jürgen; vare; kreeka
-0,0,3,0,1,0,0,1,0,17,viljandi; laen; jürgen; vare; kreeka
-0,0,3,0,1,0,0,1,0,17,viljandi; laen; jürgen; vare; kreeka
-0,0,1,1,2,0,0,1,0,17,kai; salme; jürgen; vare; kreeka
+3,0,4,1,1,0,0,0,0,17,vare; muinaslaev; põllumajandusprojekt; venemaa; viljandi; pärimusmuusika; festival; kosmosesüstik
+3,0,4,1,1,0,0,0,0,17,vare; muinaslaev; põllumajandusprojekt; venemaa; viljandi; pärimusmuusika; festival; kosmosesüstik
+3,0,4,1,1,0,0,0,0,17,vare; muinaslaev; põllumajandusprojekt; venemaa; viljandi; pärimusmuusika; festival; kosmosesüstik
+3,0,5,1,1,0,0,0,0,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; viljandi; jürgen; festival
+3,0,6,1,1,0,0,0,0,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; viljandi; jürgen; laen
+2,0,6,1,1,0,0,0,0,17,vare; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; viljandi; jürgen; laen; festival
+1,1,5,1,1,1,2,0,0,17,vare; muinaslaev; presidendivalimine; põllumajandusprojekt; jürgen; laen; kliimamuudatus
+3,1,4,2,1,1,2,1,0,17,vare; venemaa; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; kliimamuudatus
+2,1,4,0,1,1,2,1,0,17,vare; venemaa; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; kliimamuudatus
+2,1,5,0,1,1,2,3,0,17,vare; venemaa; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; kliimamuudatus
+1,1,2,1,2,2,2,1,0,17,vare; venemaa; salme; presidendivalimine; põllumajandusprojekt; kreeka; kai; jürgen; kliimamuudatus

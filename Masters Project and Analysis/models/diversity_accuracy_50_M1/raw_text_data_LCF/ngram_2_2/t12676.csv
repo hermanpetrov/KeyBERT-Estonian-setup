@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,1,0,3,3,3,0,10,ladina-ameerika; superstaar; kuuba; gloria
-2,1,3,1,0,3,3,3,0,10,ladina-ameerika; superstaar; kuuba; gloria
-2,1,3,1,0,3,3,3,0,10,ladina-ameerika; superstaar; kuuba; gloria
-2,1,4,1,0,3,3,3,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-2,1,4,1,0,3,3,3,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-2,1,4,2,0,3,3,4,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-2,3,5,2,0,3,3,3,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-2,3,3,2,0,4,3,4,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-3,3,3,0,0,3,2,4,0,10,ladina-ameerika; superstaar; muusika; kuuba; gloria
-1,4,2,1,0,4,0,3,0,10,ladina-ameerika; superstaar; tütar; räpp; kuuba; gloria
-1,1,2,0,1,3,2,3,1,10,ladina-ameerika; superstaar; konga; tütar; kuuba; gloria
+2,1,3,1,0,3,3,0,0,10,kuuba; superstaar; ladina-ameerika; gloria
+2,1,3,1,0,3,3,0,0,10,kuuba; superstaar; ladina-ameerika; gloria
+2,1,3,1,0,3,3,0,0,10,kuuba; superstaar; ladina-ameerika; gloria
+2,1,4,1,0,3,3,0,0,10,kuuba; muusika; superstaar; ladina-ameerika; gloria
+2,1,4,1,0,3,3,0,0,10,kuuba; muusika; superstaar; ladina-ameerika; gloria
+2,1,4,2,0,3,4,0,0,10,kuuba; muusika; superstaar; ladina-ameerika; gloria
+2,3,5,2,0,3,3,0,0,10,ladina-ameerika; gloria; kuuba; muusika; superstaar
+2,3,3,2,0,3,4,0,0,10,kuuba; superstaar; ladina-ameerika; gloria
+3,3,3,0,0,2,4,0,0,10,ladina-ameerika; gloria; muusika; kuuba; superstaar
+1,4,2,1,0,0,3,0,0,10,ladina-ameerika; gloria; tütar; kuuba; räpp; superstaar
+1,1,2,0,1,2,3,1,0,10,kuuba; superstaar; konga; ladina-ameerika; gloria; tütar

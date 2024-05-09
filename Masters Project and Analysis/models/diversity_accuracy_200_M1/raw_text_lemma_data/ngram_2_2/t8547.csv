@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,3,4,4,4,1,4,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-4,4,2,3,4,4,4,2,4,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-4,4,3,3,4,4,4,3,3,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-4,4,3,3,4,4,5,3,3,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-5,4,4,3,4,5,5,2,3,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-4,4,4,3,3,5,5,4,4,13,keskkond; margit; puhkus; vaim; poliitiline; otsus; liivia
-5,4,5,3,3,7,4,6,4,13,keskkond; margit; puhkus; poliitiline; vaim; otsus; liivia
-3,3,3,4,4,4,5,4,4,13,keskkond; margit; puhkus; vaim; poliitiline; otsus; liivia
-3,3,6,2,5,4,4,4,4,13,keskkond; margit; puhkus; vaim; poliitiline; otsus; liivia
-3,3,4,3,4,4,4,5,4,13,keskkond; puhkus; vaim; poliitiline; otsus; liivia
-3,4,4,3,5,5,4,4,4,13,keskkond; margit; puhkus; vaim; poliitiline; otsus; liivia
+7,8,2,6,5,8,6,4,5,13,otsus; puhkus; liivia; vaim; poliitiline; margit; vaimuinimene; moekateeder; moekunstnik; haapsalu; keskkond
+7,8,3,6,5,8,6,5,5,13,otsus; puhkus; liivia; vaim; poliitiline; margit; vaimuinimene; moekateeder; moekunstnik; haapsalu; keskkond
+7,8,4,6,5,8,6,6,4,13,otsus; puhkus; liivia; vaim; poliitiline; margit; vaimuinimene; moekateeder; moekunstnik; haapsalu; keskkond
+7,8,4,6,5,8,8,6,4,13,otsus; puhkus; liivia; vaim; poliitiline; margit; vaimuinimene; moekateeder; moekunstnik; haapsalu; keskkond
+8,8,5,7,5,6,7,6,4,13,otsus; puhkus; moekunstnik; vaimuinimene; liivia; vaim; poliitiline; haapsalu; keskkond; margit; moekateeder
+7,8,7,7,4,6,7,7,5,13,otsus; puhkus; moekunstnik; vaimuinimene; liivia; vaim; poliitiline; haapsalu; keskkond; margit; moekateeder
+9,7,9,6,4,8,6,8,6,13,otsus; puhkus; liivia; vaim; poliitiline; margit; moekateeder; vaimuinimene; moekunstnik; haapsalu; keskkond
+5,6,7,6,6,5,7,6,5,13,otsus; puhkus; moekunstnik; vaimuinimene; liivia; vaim; poliitiline; haapsalu; keskkond; margit; moekateeder
+5,6,9,4,7,5,5,6,5,13,otsus; puhkus; moekunstnik; vaimuinimene; liivia; vaim; poliitiline; haapsalu; keskkond; margit; moekateeder
+5,5,7,5,6,4,5,8,5,13,otsus; puhkus; moekunstnik; vaimuinimene; liivia; vaim; poliitiline; haapsalu; keskkond; moekateeder
+3,8,8,5,8,5,5,7,5,13,otsus; puhkus; liivia; vaim; poliitiline; margit; vaimuinimene; moekateeder; moekunstnik; haapsalu; keskkond

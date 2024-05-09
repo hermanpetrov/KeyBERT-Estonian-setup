@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,2,0,2,1,1,0,14,merivoo-parro; kristo; maarja; raadio
-1,0,2,2,0,2,1,1,0,14,merivoo-parro; kristo; maarja; raadio
-1,0,1,2,0,2,1,1,0,14,merivoo-parro; maarja; raadio
-1,0,1,2,0,2,1,1,0,14,merivoo-parro; maarja; raadio
-1,0,0,2,0,2,1,1,0,14,merivoo-parro; maarja; raadio
-1,0,0,2,0,2,0,1,0,14,merivoo-parro; maarja; raadio
-1,0,0,2,0,0,0,0,0,14,merivoo-parro; raadio
-1,0,0,1,0,0,0,0,0,14,merivoo-parro
-1,0,0,1,0,0,1,1,0,14,merivoo-parro; raadio; kristo
-1,0,1,2,0,0,1,1,0,14,merivoo-parro; singer; vinger; kristo
-1,1,1,2,1,0,2,1,0,14,merivoo-parro; singer; vinger; kristo; mart
+3,1,3,3,0,2,1,2,0,14,rajasaar; industriaalrokk; muusikanõukogu; merivoo-parro; raadio; kristo; maarja; kosmoseteadlane
+3,1,3,3,0,2,1,2,0,14,rajasaar; industriaalrokk; muusikanõukogu; merivoo-parro; raadio; kristo; maarja; kosmoseteadlane
+3,1,2,3,0,2,1,2,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; raadio; maarja; kosmoseteadlane; rajasaar
+3,1,2,3,0,2,1,2,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; raadio; maarja; kosmoseteadlane; rajasaar
+3,1,1,3,0,2,1,1,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; raadio; maarja; rajasaar
+3,1,1,3,0,2,0,1,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; raadio; maarja; rajasaar
+3,1,1,3,0,0,0,0,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; raadio; rajasaar
+2,1,1,1,0,0,1,0,0,14,industriaalrokk; muusikanõukogu; merivoo-parro; rajasaar
+2,1,1,1,0,0,2,4,0,14,rajasaar; industriaalrokk; muusikanõukogu; merivoo-parro; raadio; kristo; kosmoseteadlane
+1,1,2,2,0,0,2,3,0,14,vinger; rajasaar; industriaalrokk; muusikanõukogu; merivoo-parro; kristo; singer
+1,2,2,2,1,0,2,3,0,14,vinger; rajasaar; industriaalrokk; merivoo-parro; kristo; mart; singer

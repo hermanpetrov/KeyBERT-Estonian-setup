@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,15,ajaloomuuseum
-0,1,1,0,0,1,1,1,0,15,ajaloomuuseum
-0,1,1,0,0,1,1,1,0,15,ajaloomuuseum
-0,1,1,0,0,1,1,1,0,15,ajaloomuuseum
-0,1,1,0,0,1,1,1,0,15,ajaloomuuseum
-0,1,2,0,0,1,1,1,0,15,ajaloomuuseum; kelder
-0,1,3,0,0,0,0,1,0,15,ajaloomuuseum; ekspositsioon; kelder
-0,1,2,0,0,0,0,1,0,15,lübeck; ajaloomuuseum
-0,0,1,0,0,0,0,1,0,15,lübeck; ajaloomuuseum
+0,1,1,0,0,1,1,0,0,15,ajaloomuuseum
+0,1,1,0,0,1,1,0,0,15,ajaloomuuseum
+0,1,1,0,0,1,1,0,0,15,ajaloomuuseum
+0,1,1,0,0,1,1,0,0,15,ajaloomuuseum
+0,1,1,0,0,1,1,0,0,15,ajaloomuuseum
+0,1,2,0,0,1,1,0,0,15,kelder; ajaloomuuseum
+0,1,3,0,0,0,1,0,0,15,kelder; ekspositsioon; ajaloomuuseum
+0,1,2,0,0,0,1,0,0,15,lübeck; ajaloomuuseum
+0,0,1,0,0,0,1,0,0,15,lübeck; ajaloomuuseum
 0,0,1,1,0,0,0,0,0,15,lübeck; ajaloomuuseum
-0,0,1,0,0,0,0,1,0,15,lübeck; tõnis
+0,0,1,0,0,0,1,0,0,15,lübeck; tõnis

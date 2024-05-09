@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,2,2,1,1,15,auhind; eurolaul; õigemeel; birgit; eurovisioon; eesti
-2,0,2,0,0,2,2,1,1,15,auhind; eurolaul; õigemeel; birgit; eurovisioon; eesti
-2,0,2,0,0,2,2,1,1,15,auhind; eurolaul; õigemeel; birgit; eurovisioon; eesti
-2,0,2,0,0,2,2,0,1,15,auhind; eurolaul; õigemeel; birgit; eurovisioon; eesti
-2,1,2,0,0,2,1,1,1,15,auhind; eurolaul; birgit; eurovisioon; eesti
-2,1,1,0,0,2,1,1,1,15,auhind; eurolaul; birgit; eurovisioon; eesti
-1,0,1,1,0,2,1,2,1,15,auhind; otsib; eurolaul; birgit; eesti; eurovisioon; vaher
-2,0,0,1,0,2,1,1,1,15,vaher; auhind; eurolaul; birgit; eesti; eurovisioon; laul
-1,1,2,0,1,2,1,0,1,15,auhind; margus; birgit; eesti; eurovisioon; vaher
-1,0,1,0,1,1,0,0,1,15,birgit; kõiv; eesti; margus
-1,0,1,0,1,1,0,0,1,15,birgit; margus; eesti; õigemeel
+2,0,2,0,0,2,2,1,1,15,eurovisioon; eesti; birgit; õigemeel; auhind; eurolaul
+2,0,2,0,0,2,2,1,1,15,eurovisioon; eesti; birgit; õigemeel; auhind; eurolaul
+2,0,2,0,0,2,2,1,1,15,eurovisioon; eesti; birgit; õigemeel; auhind; eurolaul
+2,0,2,0,0,2,2,0,1,15,eurovisioon; eesti; birgit; õigemeel; auhind; eurolaul
+2,1,2,0,0,2,1,1,1,15,eurovisioon; eesti; birgit; auhind; eurolaul
+2,1,1,0,0,2,1,1,1,15,eurovisioon; eesti; birgit; auhind; eurolaul
+1,0,1,1,0,2,1,2,1,15,eurovisioon; eesti; birgit; vaher; otsib; auhind; eurolaul
+2,0,0,1,0,2,1,1,1,15,eurovisioon; eesti; auhind; birgit; vaher; laul; eurolaul
+1,1,2,0,1,2,1,0,1,15,eurovisioon; margus; eesti; birgit; vaher; auhind
+1,0,1,0,1,1,0,0,1,15,eesti; kõiv; margus; birgit
+1,0,1,0,1,1,0,0,1,15,eesti; õigemeel; margus; birgit

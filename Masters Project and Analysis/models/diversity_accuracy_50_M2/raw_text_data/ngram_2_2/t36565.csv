@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,2,1,15,jurist; reimo
-1,0,0,0,0,1,1,2,1,15,jurist; reimo
-1,0,0,0,0,1,1,2,1,15,jurist; reimo
-1,0,0,0,0,1,1,2,0,15,jurist; reimo
-1,0,0,0,0,1,1,2,0,15,jurist; reimo
+1,0,0,0,0,1,1,2,1,15,reimo; jurist
+1,0,0,0,0,1,1,2,1,15,reimo; jurist
+1,0,0,0,0,1,1,2,1,15,reimo; jurist
+1,0,0,0,0,1,1,2,0,15,reimo; jurist
+1,0,0,0,0,1,1,2,0,15,reimo; jurist
 0,0,0,0,0,1,1,1,0,15,reimo
-0,0,0,2,0,2,1,1,0,15,ööklubi; eesti; reimo
-2,1,0,0,0,1,2,0,0,15,ööklubi; geiaktivist; eesti; lukas; politsei
-3,0,0,0,0,0,1,1,1,15,abielu; mets; ööklubi; jurist; geiaktivist; eesti
-2,0,0,0,2,0,1,1,0,15,abielu; mets; ööklubi; jurist; geiaktivist
-2,1,0,1,0,0,2,0,2,15,abielu; kirik; mets; jurist; reimo; geiaktivist; haridus
+0,0,0,2,0,2,1,1,0,15,eesti; reimo; ööklubi
+2,1,0,0,0,1,2,0,0,15,lukas; geiaktivist; politsei; eesti; ööklubi
+3,0,0,0,0,0,1,1,1,15,abielu; geiaktivist; eesti; mets; ööklubi; jurist
+2,0,0,0,2,0,1,1,0,15,abielu; geiaktivist; mets; jurist; ööklubi
+2,1,0,1,0,0,2,0,2,15,abielu; haridus; geiaktivist; kirik; mets; reimo; jurist

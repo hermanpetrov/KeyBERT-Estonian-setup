@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,1,0,0,0,15,tallinna; viktor
-0,0,1,0,0,0,1,0,0,15,viktor; alatskivi
-0,0,1,0,0,1,0,0,0,15,viktor; üro
-0,1,1,0,0,0,0,0,0,15,tallinna; viktor
-1,1,1,0,0,0,0,0,0,15,tallinna; janukovitš; viktor
-0,1,1,0,0,0,0,0,0,15,tallinna; viktor
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,1,0,0,0,15,viktor; tallinna
+0,0,1,0,0,0,1,0,0,15,alatskivi; viktor
+0,0,1,0,0,1,0,0,0,15,üro; viktor
+0,1,1,0,0,0,0,0,0,15,viktor; tallinna
+1,1,1,0,0,0,0,0,0,15,janukovitš; viktor; tallinna
+0,1,1,0,0,0,0,0,0,15,viktor; tallinna

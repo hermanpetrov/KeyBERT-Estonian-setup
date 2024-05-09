@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
-2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
-2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
-2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
-2,0,1,0,0,0,0,0,1,15,lübeck; hoone; tõnis; ekspositsioon
-2,0,0,0,0,0,0,0,1,15,lübeck; hoone; tõnis
-0,0,1,0,0,0,0,0,1,15,hoone; ekspositsioon
-0,1,1,0,0,0,0,0,1,15,hoone; tõnis; ekspositsioon
-1,1,1,1,0,0,0,0,1,15,hoone; ekspositsioon; tõnis
-0,2,2,0,0,0,0,1,1,15,ekspositsioon; kelder; hoone; tõnis; muusik
-0,1,2,0,0,0,0,0,1,15,kelder; ekspositsioon; hoone; muusik
+2,1,2,0,0,1,1,1,2,15,lübeck; ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+2,1,2,0,0,1,1,1,2,15,lübeck; ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+2,1,2,0,0,1,1,1,2,15,lübeck; ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+2,1,2,0,0,1,1,1,2,15,lübeck; ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+2,1,2,0,0,1,1,1,2,15,lübeck; ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+2,1,1,0,0,1,1,1,2,15,lübeck; erakogu; tõnis; hoone; ajaloomuuseum
+0,1,2,1,0,1,1,1,2,15,erakogu; ekspositsioon; hoone; ajaloomuuseum
+0,1,1,0,0,1,1,1,2,15,ekspositsioon; tõnis; erakogu; ajaloomuuseum; hoone
+1,1,1,2,0,1,0,1,2,15,erakogu; ekspositsioon; tõnis; ajaloomuuseum; hoone; kaupmees
+0,2,2,0,0,0,0,2,2,15,ekspositsioon; tõnis; hoone; erakogu; kelder; muusik; suurgilt
+0,1,2,0,0,0,0,0,2,15,ekspositsioon; erakogu; hoone; kelder; muusik

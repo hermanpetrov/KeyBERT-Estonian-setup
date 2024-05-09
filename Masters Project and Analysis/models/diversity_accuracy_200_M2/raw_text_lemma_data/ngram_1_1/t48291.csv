@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,2,0,0,0,0,11,amet; radar
-0,1,0,0,2,0,0,0,0,11,amet; radar
-0,1,0,0,2,0,0,0,0,11,amet; radar
-0,1,0,0,2,1,0,0,0,11,amet; radar
-0,0,0,0,2,1,0,0,0,11,amet; radar
-0,1,0,0,2,2,0,0,0,11,amet; radar
-0,0,0,0,2,2,0,1,0,11,amet; radar
-0,0,0,2,2,0,0,1,0,11,amet; radar
-0,0,1,2,2,0,0,1,0,11,amet; radar
-0,0,1,1,1,0,0,1,0,11,amet; radar
-0,0,1,1,1,0,0,2,0,11,amet; radar
+7,5,8,5,3,4,6,4,4,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+7,5,8,5,3,4,6,5,5,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+7,5,7,5,3,3,6,5,5,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+7,5,7,5,3,6,7,6,4,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+7,3,7,5,2,5,8,5,4,11,meremees; radar; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+7,4,5,5,2,7,8,4,5,11,radar; meremees; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+5,3,5,4,2,5,7,7,6,11,radar; meremees; merehariduskeskus; kiirkaater; territoriaalvesi; rannavalve; päästeoperatsioon; hüdrodünaamika; liikluskontroll; veetee; amet
+3,3,4,3,3,3,7,4,4,11,radar; meremees; merehariduskeskus; rannavalve; territoriaalvesi; veetee; päästeoperatsioon; hüdrodünaamika; liikluskontroll; kiirkaater; amet
+4,5,5,3,3,3,6,5,4,11,meremees; radar; merehariduskeskus; rannavalve; territoriaalvesi; veetee; päästeoperatsioon; hüdrodünaamika; liikluskontroll; kiirkaater; amet
+3,6,6,3,2,3,5,4,5,11,meremees; radar; merehariduskeskus; territoriaalvesi; rannavalve; veetee; päästeoperatsioon; hüdrodünaamika; liikluskontroll; kiirkaater; amet
+4,7,4,2,2,2,4,5,4,11,meremees; radar; merehariduskeskus; territoriaalvesi; rannavalve; veetee; päästeoperatsioon; hüdrodünaamika; liikluskontroll; kiirkaater; amet

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,9,2,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-6,9,2,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-6,9,2,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-6,9,2,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-6,8,3,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-6,8,3,4,3,5,4,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-8,8,2,4,3,4,5,5,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-8,4,2,4,3,4,5,6,7,13,kunst; jõud; rumessen; muusika; vardo; kontsert; tegutsemine; sajand; vene; sonaat; tunnetamine
-7,5,4,4,2,4,5,6,8,13,rumessen; jõud; muusika; sajand; vene; kunst; kontsert; vardo; tegutsemine; sonaat; tunnetamine
-5,5,4,4,1,4,4,5,8,13,kunst; jõud; kontsert; muusika; rumessen; vardo; sajand; vene; sonaat; tunnetamine
-6,8,6,4,3,4,4,5,8,13,kunst; jõud; kontsert; muusika; rumessen; vardo; tegutsemine; sajand; vene; sonaat; tunnetamine
+6,9,2,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+6,9,2,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+6,9,2,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+6,9,2,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+6,8,3,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+6,8,3,4,3,5,4,5,7,13,sonaat; vene; rumessen; sajand; tunnetamine; muusika; kunst; jõud; tegutsemine; vardo; kontsert
+9,9,2,4,3,4,5,6,7,13,rumessen; sajand; kunst; jõud; tegutsemine; ümberkujundamine; kontsert; sonaat; vene; tunnetamine; muusika; vardo
+8,4,2,4,3,4,5,7,7,13,rumessen; sajand; kunst; jõud; tegutsemine; ümberkujundamine; kontsert; sonaat; vene; tunnetamine; muusika; vardo
+7,6,4,4,2,4,6,6,8,13,rumessen; sajand; kunst; jõud; tegutsemine; ümberkujundamine; kontsert; sonaat; vene; tunnetamine; muusika; vardo
+5,6,4,4,1,4,5,5,8,13,sonaat; vene; rumessen; sajand; vardo; tunnetamine; muusika; kunst; jõud; ümberkujundamine; kontsert
+6,9,6,4,3,4,5,5,8,13,sonaat; vene; rumessen; sajand; vardo; tunnetamine; muusika; kunst; jõud; tegutsemine; ümberkujundamine; kontsert

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,5,4,3,2,3,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-4,2,5,4,3,2,3,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-4,2,5,4,3,2,3,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-4,2,5,4,3,2,3,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-4,2,6,4,3,2,3,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda; mees
-5,2,6,4,3,3,4,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-3,2,7,4,3,3,4,4,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda; mees
-4,2,4,6,2,4,6,5,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda; mees
-6,1,4,2,3,5,6,4,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
-6,1,5,3,3,4,6,3,3,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda; mees
-6,2,4,3,2,3,4,5,4,10,ameerika; sport; naine; võit; võistlus; meedia; jalgpall; sõda
+4,2,5,4,3,3,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; sport; naine; meedia
+4,2,5,4,3,3,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; sport; naine; meedia
+4,2,5,4,3,3,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; sport; naine; meedia
+4,2,5,4,3,3,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; sport; naine; meedia
+4,2,6,4,3,3,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; mees; sport; naine; meedia
+5,2,6,4,3,4,3,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; sport; naine; meedia
+3,2,7,4,3,4,4,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; mees; sport; naine; meedia
+4,2,4,6,2,6,5,3,0,10,jalgpall; ameerika; võistlus; sõda; võit; mees; sport; naine; meedia
+6,1,4,2,3,6,4,3,0,10,jalgpall; ameerika; sõda; võistlus; võit; sport; naine; meedia
+6,1,5,3,3,6,3,3,0,10,jalgpall; ameerika; sõda; võistlus; võit; mees; sport; naine; meedia
+6,2,4,3,2,4,5,4,0,10,jalgpall; ameerika; sõda; võistlus; võit; sport; naine; meedia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,2,0,3,1,0,2,14,tallinna; mäng; probleem; näitus
-1,1,1,2,0,3,1,0,2,14,tallinna; mäng; probleem; näitus
-1,1,1,2,0,3,1,0,2,14,tallinna; mäng; probleem; näitus
-1,1,1,2,0,3,1,0,2,14,tallinna; mäng; probleem; näitus
-1,1,1,2,0,3,1,0,2,14,tallinna; mäng; probleem; näitus
-1,1,2,2,0,3,1,1,2,14,tallinna; saladus; mäng; probleem; näitus
-2,0,0,0,0,3,2,2,2,14,tallinna; mäng; infotankistid; näitus; akvarell
-1,0,2,1,0,2,2,2,1,14,tallinna; näitus; mäng; infotankistid; saladus
-1,1,1,1,0,3,0,3,1,14,anders; tallinna; mäng; kunstihoone; infotankistid; näitus
-1,0,1,0,0,2,3,1,1,14,tallinna; mäng; infotankistid; näitus; akvarell
-1,0,1,0,0,2,1,0,2,14,tallinna; mäng; näitus; akvarell
+1,1,1,2,0,3,1,0,2,14,mäng; näitus; tallinna; probleem
+1,1,1,2,0,3,1,0,2,14,mäng; näitus; tallinna; probleem
+1,1,1,2,0,3,1,0,2,14,mäng; näitus; tallinna; probleem
+1,1,1,2,0,3,1,0,2,14,mäng; näitus; tallinna; probleem
+1,1,1,2,0,3,1,0,2,14,mäng; näitus; tallinna; probleem
+1,1,2,2,0,3,1,1,2,14,mäng; näitus; saladus; tallinna; probleem
+2,0,0,0,0,3,2,2,2,14,akvarell; mäng; infotankistid; näitus; tallinna
+1,0,2,1,0,2,2,2,1,14,mäng; infotankistid; näitus; saladus; tallinna
+1,1,1,1,0,3,0,3,1,14,mäng; infotankistid; kunstihoone; näitus; tallinna; anders
+1,0,1,0,0,2,3,1,1,14,akvarell; mäng; infotankistid; näitus; tallinna
+1,0,1,0,0,2,1,0,2,14,akvarell; mäng; näitus; tallinna

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-2,0,1,1,0,2,2,1,1,13,christoph; pianiino; eesti; klavessiin
-0,0,0,1,0,1,1,1,1,13,eesti; klavessiin
-0,0,0,1,0,1,1,2,1,13,pianiino; eesti; klavessiin
-2,0,0,1,0,2,1,1,1,13,falck; radke; eesti; klavessiin
-2,1,1,0,0,2,0,1,1,13,christoph; radke; eesti; klavessiin
-0,0,1,0,1,0,0,1,0,13,christoph; eesti
+2,4,4,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+2,4,4,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+2,4,4,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+2,4,4,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+2,4,3,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+2,4,5,2,0,5,5,5,2,13,pianiino; eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+0,3,4,3,0,4,4,5,2,13,eesti; klaverivabrik; klaverimeister; klavessiin; muusikamuuseum; klaveriehitus; kontsertklaver
+0,2,2,1,0,2,5,4,2,13,pianiino; eesti; klavessiin; klaverimeister; klaverivabrik; muusikamuuseum; klaveriehitus; kontsertklaver
+3,3,4,3,0,3,4,4,1,13,falck; eesti; klavessiin; klaverimeister; radke; klaverivabrik; muusikamuuseum; klaveriehitus; kontsertklaver
+3,3,3,1,0,4,3,4,1,13,eesti; klavessiin; klaverimeister; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph; kontsertklaver
+0,2,3,0,1,2,4,3,0,13,eesti; klaverimeister; klaverivabrik; muusikamuuseum; klaveriehitus; christoph; kontsertklaver

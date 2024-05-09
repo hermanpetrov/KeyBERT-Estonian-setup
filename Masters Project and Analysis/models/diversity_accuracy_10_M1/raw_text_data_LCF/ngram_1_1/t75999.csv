@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,1,0,0,0,0,12,mass
 0,0,0,0,1,0,0,0,0,12,mass
 0,0,1,0,1,0,0,0,0,12,mass; ajakirjandus
-0,0,0,0,1,1,0,1,0,12,mass; ajakirjandus
-0,0,0,0,1,0,0,1,0,12,mass; ajakirjandus
+0,0,0,0,1,0,1,0,0,12,mass; ajakirjandus
+0,0,0,0,1,0,1,0,0,12,mass; ajakirjandus
 0,0,0,0,1,0,0,0,0,12,mass
 0,0,1,0,1,0,0,0,0,12,mass; ajakirjandus
-0,0,3,0,1,0,0,0,0,12,mass; ajakirjandus; aule; tasuline
-0,0,2,0,1,0,0,0,0,12,mass; ajakirjandus; tasuline
+0,0,3,0,1,0,0,0,0,12,aule; tasuline; mass; ajakirjandus
+0,0,2,0,1,0,0,0,0,12,tasuline; mass; ajakirjandus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,0,0,15,baltika
-0,0,0,0,0,1,1,1,0,15,baltika
-0,0,0,0,0,1,1,1,0,15,baltika
-0,0,0,0,0,1,1,1,0,15,baltika
-0,0,0,0,0,1,1,1,0,15,baltika
-0,0,1,0,0,1,1,1,0,15,baltika
-0,0,1,0,0,1,1,1,0,15,baltika
-0,0,2,1,0,2,1,1,0,15,janek; baltika; salme
-0,0,1,1,0,1,0,1,0,15,baltika; salme
-0,0,1,1,0,0,1,1,0,15,janek; baltika; volkov
-0,0,1,0,0,0,1,1,0,15,baltika; volkov
+2,2,3,1,0,2,3,2,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,3,1,0,2,3,3,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,3,1,0,2,3,3,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,2,1,0,2,3,3,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,3,1,0,2,3,2,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,4,1,0,1,3,2,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+2,2,4,0,0,1,2,3,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+3,2,5,1,0,4,3,2,0,15,rahulolu; majanduskriis; keskkonnarikkumine; salme; valgusinstallatsioon; gaasitarne; janek; rõivafirma; kalapüük; riigigümnaasium; baltika
+3,2,3,1,0,1,2,1,0,15,rahulolu; majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; rõivafirma; riigigümnaasium; baltika
+4,1,2,2,0,1,3,1,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; janek; valgusinstallatsioon; volkov; rõivafirma; kalapüük; riigigümnaasium; baltika
+3,2,2,0,0,2,5,2,0,15,rahulolu; majanduskriis; keskkonnarikkumine; valgusinstallatsioon; kultuurisõber; volkov; rõivafirma; kalapüük; riigigümnaasium; baltika

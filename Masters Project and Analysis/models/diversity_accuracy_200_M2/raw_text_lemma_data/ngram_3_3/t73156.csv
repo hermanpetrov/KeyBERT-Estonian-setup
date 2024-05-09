@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,5,4,7,7,5,5,5,7,15,ameerika; eric; pik; mill; rakse; power; edetab; singel; one; euroopa
-8,6,4,7,7,5,6,5,7,15,ameerika; eric; pik; mill; rakse; power; edetab; singel; one; euroopa
-8,6,4,6,7,5,5,6,7,15,ameerika; eric; pik; mill; rakse; power; edetab; singel; one; euroopa
-7,7,4,6,7,5,5,7,7,15,ameerika; eric; pik; mill; power; edetab; singel; one; euroopa
-7,8,6,6,6,6,6,8,7,15,ameerika; eric; pik; mill; rakse; power; edetab; singel; one; euroopa
-6,9,6,7,7,7,6,8,6,15,ameerika; eric; pik; mill; rakse; power; edetab; singel; one; euroopa
-9,8,9,10,8,7,6,10,5,15,pik; power; edetab; singel; ameerika; eric; mill; rakse; one; euroopa
-8,9,8,10,8,7,7,10,6,15,pik; power; singel; edetab; ameerika; eric; mill; rakse; one; euroopa
-9,9,10,9,8,6,8,9,7,15,pik; power; edetab; singel; ameerika; eric; mill; rakse; one; euroopa
-9,9,9,9,9,7,8,10,8,15,pik; power; edetab; singel; ameerika; eric; mill; rakse; one; euroopa
-8,8,9,9,8,7,8,10,8,15,pik; power; singel; edetab; ameerika; eric; mill; rakse; one; euroopa
+9,5,4,7,7,5,5,5,7,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+8,6,4,7,7,5,6,5,7,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+8,6,4,6,7,5,5,6,7,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+7,7,4,6,7,5,5,7,7,15,one; pik; power; singel; ameerika; mill; eric; euroopa; edetab
+7,8,6,6,6,6,6,8,7,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+6,9,6,7,7,7,6,8,6,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+9,8,9,10,8,7,6,10,5,15,one; ameerika; euroopa; edetab; pik; power; singel; rakse; mill; eric
+8,9,8,10,8,7,7,10,6,15,one; ameerika; euroopa; edetab; pik; power; singel; rakse; mill; eric
+9,9,10,9,8,6,8,9,7,15,one; ameerika; euroopa; edetab; pik; power; singel; rakse; mill; eric
+9,9,9,9,9,7,8,10,8,15,one; ameerika; euroopa; edetab; pik; power; singel; rakse; mill; eric
+8,8,9,9,8,7,8,10,8,15,one; ameerika; euroopa; edetab; pik; power; singel; rakse; mill; eric

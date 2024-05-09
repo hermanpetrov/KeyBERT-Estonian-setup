@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,5,2,2,4,5,2,1,15,andres; kanada; programm; kana; aasta; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,3,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,5,4,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,3,2,2,4,5,4,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,3,2,2,4,4,4,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
-1,2,5,2,2,4,4,4,1,15,andres; kanada; programm; kana; aasta; hääl; uus; trump; televisioon; senjorii
+2,4,7,2,2,5,5,2,1,15,kanada; aasta; kasekamp; kana; uus; programm; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,3,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,5,5,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,5,2,2,5,5,5,1,15,kanada; aasta; kasekamp; kana; programm; uus; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,5,2,2,5,4,5,1,15,kanada; aasta; kasekamp; kana; programm; uus; hääl; senjorii; andres; trump; televisioon; jäähoki
+2,4,7,2,2,5,4,5,1,15,kanada; aasta; kasekamp; kana; uus; programm; hääl; senjorii; andres; trump; televisioon; jäähoki

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,2,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,2,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,2,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,2,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,1,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,1,2,1,0,11,veetõus; orviku; kaarel
-0,0,0,0,0,1,1,0,0,11,orviku; kaarel
-0,0,0,0,0,1,1,0,0,11,orviku; kaarel
-0,0,0,0,0,1,1,1,0,11,orviku; kaarel; liivarand
-0,0,1,0,0,1,1,0,0,11,orviku; kaarel
-0,0,1,1,0,1,1,0,0,11,orviku; prognoos; kaarel
+0,0,0,0,0,2,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,2,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,2,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,2,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,1,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,1,2,1,0,11,kaarel; veetõus; orviku
+0,0,0,0,0,1,1,0,0,11,kaarel; orviku
+0,0,0,0,0,1,1,0,0,11,kaarel; orviku
+0,0,0,0,0,1,1,1,0,11,liivarand; kaarel; orviku
+0,0,1,0,0,1,1,0,0,11,kaarel; orviku
+0,0,1,1,0,1,1,0,0,11,kaarel; prognoos; orviku

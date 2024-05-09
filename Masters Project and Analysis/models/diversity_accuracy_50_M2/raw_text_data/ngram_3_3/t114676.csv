@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,1,8,1,2,3,3,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
-4,3,2,1,8,1,2,3,3,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
-4,3,2,1,8,1,2,3,3,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
-4,3,2,1,8,1,2,3,3,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
-4,2,2,1,8,1,2,3,3,16,uno; usa; aarne; kennedy; bob; nsv; john; naissoo; levimuusika; oit
-2,3,3,2,8,1,2,4,3,16,uno; usa; nsv; aarne; john; naissoo; levimuusika; kennedy; oit; bob
-5,1,3,4,8,3,2,4,3,16,uno; usa; nsv; aarne; john; naissoo; levimuusika; kennedy; oit; bob
-1,4,3,4,8,1,1,3,3,16,uno; usa; nsv; aarne; john; naissoo; levimuusika; kennedy; liit; bob
-0,6,4,4,8,3,1,4,5,16,uno; usa; nsv; aarne; john; naissoo; kennedy; levimuusika; liit; oit; bob
-1,2,2,2,6,3,0,3,4,16,uno; usa; nsv; john; naissoo; levimuusika; kennedy; bob
-2,2,2,3,6,3,1,2,2,16,uno; usa; nsv; john; naissoo; kennedy; levimuusika; bob
+4,3,2,1,8,1,2,3,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; liit; usa
+4,3,2,1,8,1,2,3,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; liit; usa
+4,3,2,1,8,1,2,3,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; liit; usa
+4,3,2,1,8,1,2,3,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; liit; usa
+4,2,2,1,8,1,2,3,3,16,nsv; levimuusika; oit; uno; bob; john; kennedy; aarne; naissoo; usa
+2,3,3,2,8,1,2,4,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; usa
+5,1,3,4,8,3,2,4,3,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; usa
+1,4,3,4,8,1,1,3,3,16,uno; nsv; levimuusika; bob; john; kennedy; aarne; naissoo; liit; usa
+0,6,4,4,8,3,1,4,5,16,uno; nsv; levimuusika; bob; oit; john; kennedy; aarne; naissoo; liit; usa
+1,2,2,2,6,3,0,3,4,16,uno; nsv; levimuusika; bob; john; kennedy; naissoo; usa
+2,2,2,3,6,3,1,2,2,16,uno; nsv; levimuusika; bob; john; kennedy; naissoo; usa

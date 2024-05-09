@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-2,1,1,1,0,4,1,2,1,11,polka; lõuna-eesti; maailmasõjajärgne; tants; pillimäng
-3,1,1,1,0,3,1,2,1,11,meloodia; polka; lõuna-eesti; tants; pillimäng
-2,2,1,2,0,3,2,2,1,11,lõuna-eesti; maailmasõjajärgne; meloodia; lõõtspill; tants; pillimäng
-1,2,2,1,0,2,2,2,1,11,meelelahutus; lõuna-eesti; lõõtspill; tants; pillimäng
-2,2,2,0,0,2,2,2,1,11,meelelahutus; lõuna-eesti; lõõtspill; tants; pillimäng
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+2,1,1,1,0,1,2,1,0,11,pillimäng; polka; lõuna-eesti; tants
+3,1,1,1,0,1,2,1,0,11,pillimäng; meloodia; polka; lõuna-eesti; tants
+2,2,1,2,0,2,2,1,0,11,lõõtspill; pillimäng; meloodia; maailmasõjajärgne; lõuna-eesti; tants
+1,2,2,1,0,2,2,1,0,11,lõõtspill; pillimäng; meelelahutus; lõuna-eesti; tants
+2,2,2,0,0,2,2,1,0,11,lõõtspill; pillimäng; lõuna-eesti; meelelahutus; tants

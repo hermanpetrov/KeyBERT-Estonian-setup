@@ -1,11 +1,11 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,1,0,13,hiiumaa
-0,0,0,0,0,0,0,1,0,13,hiiumaa
-0,0,0,0,0,0,0,1,0,13,hiiumaa
-0,0,0,0,0,0,0,1,0,13,hiiumaa
-0,0,1,0,0,0,0,1,0,13,hiiu; hiiumaa
-0,0,2,0,0,0,0,1,0,13,hiiu; hiiumaa
-0,0,1,1,0,0,0,2,0,13,hiiu; hiiumaa; rahvariided; kärdla
+0,0,0,0,0,0,1,0,0,13,hiiumaa
+0,0,0,0,0,0,1,0,0,13,hiiumaa
+0,0,0,0,0,0,1,0,0,13,hiiumaa
+0,0,0,0,0,0,1,0,0,13,hiiumaa
+0,0,1,0,0,0,1,0,0,13,hiiumaa; hiiu
+0,0,2,0,0,0,1,0,0,13,hiiumaa; hiiu
+0,0,1,1,0,0,2,0,0,13,hiiumaa; rahvariided; hiiu; kärdla
 0,0,0,0,0,0,0,0,0,13,
 0,0,1,0,0,0,0,0,0,13,hiiu
 0,0,0,0,0,0,0,0,0,13,

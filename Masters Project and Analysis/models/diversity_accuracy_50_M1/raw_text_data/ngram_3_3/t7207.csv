@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,5,2,4,7,6,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-4,3,4,5,2,4,7,6,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-4,3,4,5,2,4,7,6,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-4,4,4,5,2,4,7,6,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-4,4,3,5,2,4,7,6,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-4,4,3,5,2,4,7,7,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-3,4,5,5,2,4,7,7,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-1,4,3,6,2,5,7,7,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-2,4,5,4,2,5,7,7,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-2,5,4,4,2,5,7,7,3,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
-2,5,5,4,3,5,6,7,4,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; mati; viivi; kass
+4,4,4,5,2,4,7,6,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+4,3,4,5,2,4,7,6,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+4,3,4,5,2,4,7,6,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+4,4,4,5,2,4,7,6,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+4,4,3,5,2,4,7,6,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+4,4,3,5,2,4,7,7,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+3,4,5,5,2,4,7,7,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+1,4,3,6,2,5,7,7,3,12,iroonia; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass
+2,4,5,4,2,5,7,7,3,12,iroonia; viivi; intervjuu; raadioarhiiv; kollane; mati; unt; kass
+2,5,4,4,2,5,7,7,3,12,iroonia; intervjuu; viivi; raadioarhiiv; kollane; mati; unt; kass
+2,5,5,4,3,5,6,7,4,12,iroonia; intervjuu; viivi; raadioarhiiv; kollane; mati; unt; kass

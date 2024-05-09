@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,4,4,4,5,4,4,2,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-6,6,5,4,4,5,4,4,2,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-6,7,5,3,4,4,4,5,2,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-6,7,5,5,4,4,4,5,3,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-6,6,5,5,4,5,6,5,3,13,aivar; muusika; elektrooniline; alternatiiv; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-5,4,5,6,4,7,6,5,3,13,aivar; muusika; elektrooniline; alternatiiv; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-7,5,6,4,4,6,5,4,3,13,aivar; muusika; elektrooniline; alternatiiv; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-6,3,5,5,6,7,5,7,3,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-3,4,5,5,6,8,6,5,4,13,aivar; muusika; elektrooniline; alternatiiv; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-4,4,4,5,6,7,5,4,3,13,aivar; muusika; alternatiiv; elektrooniline; narkootikum; tõnson; sotsioloog; popkultuur; reiv
-4,4,4,4,8,7,6,6,6,13,aivar; muusika; elektrooniline; alternatiiv; narkootikum; tõnson; sotsioloog; popkultuur; reiv
+9,7,5,5,4,6,5,6,3,13,aivar; kommertsialiseerumine; narkootikum; sotsioloog; alternatiiv; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+8,7,6,5,4,6,5,6,3,13,aivar; kommertsialiseerumine; narkootikum; sotsioloog; alternatiiv; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+8,8,6,4,4,5,5,7,3,13,aivar; kommertsialiseerumine; narkootikum; sotsioloog; alternatiiv; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+8,8,6,6,4,5,6,7,4,13,aivar; kommertsialiseerumine; narkootikum; sotsioloog; alternatiiv; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+8,7,7,6,4,6,8,7,4,13,kommertsialiseerumine; alternatiiv; klubikultuur; reiv; aivar; narkootikum; sotsioloog; muusika; popkultuur; tõnson; elektrooniline
+6,5,6,7,4,8,7,7,4,13,aivar; narkootikum; sotsioloog; alternatiiv; kommertsialiseerumine; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+8,6,7,6,5,7,7,6,4,13,aivar; sotsioloog; narkootikum; kommertsialiseerumine; alternatiiv; klubikultuur; muusika; popkultuur; tõnson; elektrooniline; reiv
+7,5,6,6,7,8,7,9,4,13,alternatiiv; kommertsialiseerumine; klubikultuur; reiv; aivar; sotsioloog; narkootikum; muusika; popkultuur; tõnson; elektrooniline
+4,5,6,7,7,9,8,7,5,13,alternatiiv; kommertsialiseerumine; klubikultuur; reiv; aivar; sotsioloog; narkootikum; muusika; popkultuur; tõnson; elektrooniline
+5,6,5,6,7,8,6,6,4,13,alternatiiv; kommertsialiseerumine; klubikultuur; reiv; aivar; sotsioloog; narkootikum; muusika; popkultuur; tõnson; elektrooniline
+4,5,5,4,9,8,7,7,7,13,alternatiiv; klubikultuur; reiv; aivar; narkootikum; sotsioloog; muusika; popkultuur; tõnson; elektrooniline

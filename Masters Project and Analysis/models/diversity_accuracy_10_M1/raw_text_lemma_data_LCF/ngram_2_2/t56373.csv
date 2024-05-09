@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,0,0,0,0,0,0,1,12,kirik
-0,1,1,1,0,0,0,0,0,12,kirik; sõda
-0,0,1,1,0,0,0,0,0,12,kirik; sõda
-0,0,0,1,0,0,0,1,0,12,kriivan; kirik
-0,0,0,0,0,0,1,2,0,12,kriivan; hein; piret
-0,0,1,0,0,1,1,0,0,12,kriivan; kirik; piret
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,0,0,1,0,0,1,12,pulmapidu; kirik
+0,1,1,1,0,1,0,0,0,12,pulmapidu; kirik; sõda
+0,0,1,1,0,1,0,0,0,12,pulmapidu; kirik; sõda
+0,0,0,1,0,1,0,1,0,12,pulmapidu; kriivan; kirik
+0,0,0,1,0,1,1,2,0,12,pulmapidu; piret; kriivan; hein
+0,1,1,0,0,2,1,0,0,12,pulmapidu; piret; kirik; kriivan

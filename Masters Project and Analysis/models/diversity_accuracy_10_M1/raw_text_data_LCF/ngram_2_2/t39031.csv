@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,1,0,0,3,0,13,uno; eesti; austraalia; mees
-1,1,1,0,1,0,0,3,0,13,uno; eesti; austraalia; mees
-1,1,1,0,1,0,0,3,0,13,uno; eesti; austraalia; mees
-1,1,1,0,1,0,0,3,0,13,uno; eesti; austraalia; mees
-1,1,1,0,1,0,0,3,0,13,uno; eesti; austraalia; mees
-1,1,1,0,1,0,0,2,0,13,uno; eesti; austraalia
-0,1,1,1,1,0,0,2,0,13,uno; eesti; austraalia
-1,1,1,1,1,0,0,2,0,13,uno; eesti; austraalia
-2,0,1,2,1,0,0,2,0,13,uno; jalgpall; eesti; austraalia
-0,0,1,1,1,0,0,2,0,13,uno; eesti; mees
-2,1,1,0,1,0,0,2,0,13,uno; eesti
+1,1,1,0,1,0,3,0,0,13,uno; austraalia; mees; eesti
+1,1,1,0,1,0,3,0,0,13,uno; austraalia; mees; eesti
+1,1,1,0,1,0,3,0,0,13,uno; austraalia; mees; eesti
+1,1,1,0,1,0,3,0,0,13,uno; austraalia; mees; eesti
+1,1,1,0,1,0,3,0,0,13,uno; austraalia; mees; eesti
+1,1,1,0,1,0,2,0,0,13,uno; austraalia; eesti
+0,1,1,1,1,0,2,0,0,13,uno; austraalia; eesti
+1,1,1,1,1,0,2,0,0,13,uno; austraalia; eesti
+2,0,1,2,1,0,2,0,0,13,uno; austraalia; jalgpall; eesti
+0,0,1,1,1,0,2,0,0,13,uno; mees; eesti
+2,1,1,0,1,0,2,0,0,13,uno; eesti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,0,1,13,jansen; eesti
-0,0,1,0,0,1,1,0,1,13,jansen; eesti
-0,0,1,0,0,1,1,0,1,13,jansen; eesti
-0,0,1,0,0,1,1,0,1,13,jansen; eesti
-0,0,1,0,0,1,1,0,1,13,jansen; eesti
-0,0,0,0,0,1,1,1,1,13,jansen; eesti; kirjutama
-0,0,0,0,0,0,0,1,1,13,eesti; kirjutama
-0,0,0,1,0,0,0,0,1,13,saksa-vastane; eesti
-0,0,0,0,0,0,0,0,1,13,eesti
-0,0,0,0,0,0,0,0,2,13,saksa-vastane; eesti
-0,0,0,0,0,0,0,0,2,13,saksa-vastane; eesti
+0,0,1,1,0,1,1,0,1,13,lugemisoskus; jansen; eesti
+0,0,1,1,0,1,1,0,1,13,lugemisoskus; jansen; eesti
+0,0,1,1,0,1,1,0,1,13,lugemisoskus; jansen; eesti
+0,0,1,1,0,1,1,0,1,13,lugemisoskus; jansen; eesti
+0,0,2,1,0,1,1,0,1,13,lugemisoskus; jansen; eesti; põllumees
+0,0,1,1,0,1,1,1,1,13,eesti; kirjutama; lugemisoskus; jansen; põllumees
+0,0,0,1,0,0,0,1,1,13,lugemisoskus; eesti; kirjutama
+0,0,0,1,0,1,0,0,1,13,rahvapärane; eesti; saksa-vastane
+0,0,0,0,0,0,0,1,1,13,postimees; eesti
+0,0,0,0,0,0,0,1,2,13,postimees; eesti; saksa-vastane
+0,0,0,0,0,1,1,1,2,13,eesti; postimees; põllumees; saksa-vastane

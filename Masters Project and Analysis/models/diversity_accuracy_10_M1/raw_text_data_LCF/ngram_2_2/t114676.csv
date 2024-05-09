@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,1,2,0,1,17,levimuusika; kustas; aasta; laul
-0,1,0,1,0,1,2,0,1,17,levimuusika; kustas; aasta; laul
-0,1,0,1,0,1,2,0,0,17,levimuusika; kustas; aasta; laul
-0,1,0,1,0,1,2,0,0,17,levimuusika; kustas; aasta; laul
-0,1,0,1,0,1,2,0,0,17,levimuusika; kustas; aasta; laul
-0,1,0,1,0,1,2,0,0,17,levimuusika; kustas; aasta; laul
-0,1,1,0,0,1,1,0,0,17,bob; levimuusika; aasta; laul
-0,0,0,1,0,1,1,1,0,17,aasta; nsv
-0,0,1,2,0,1,0,2,0,17,bob; aasta; nsv
-0,0,1,1,0,1,1,1,0,17,laul; bob; aasta
-0,0,0,1,0,1,2,0,0,17,laul; bob; aasta
+0,1,0,1,0,2,0,1,0,17,levimuusika; laul; aasta; kustas
+0,1,0,1,0,2,0,1,0,17,levimuusika; laul; aasta; kustas
+0,1,0,1,0,2,0,0,0,17,kustas; aasta; laul; levimuusika
+0,1,0,1,0,2,0,0,0,17,kustas; aasta; laul; levimuusika
+0,1,0,1,0,2,0,0,0,17,kustas; aasta; laul; levimuusika
+0,1,0,1,0,2,0,0,0,17,kustas; aasta; laul; levimuusika
+0,1,1,0,0,1,0,0,0,17,aasta; laul; bob
+0,0,0,1,0,1,1,0,0,17,nsv; aasta
+0,0,1,2,0,0,2,0,0,17,nsv; aasta; bob
+0,0,1,1,0,1,1,0,0,17,aasta; laul; bob
+0,0,0,1,0,2,0,0,0,17,aasta; laul; bob

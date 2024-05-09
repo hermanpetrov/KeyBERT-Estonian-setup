@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,0,4,0,14,vaimuelu; tulviste; mäng; normet; ingo; peeter
-1,0,0,0,0,1,0,4,0,14,vaimuelu; tulviste; mäng; normet; ingo; peeter
-1,0,0,0,0,1,0,4,0,14,vaimuelu; tulviste; mäng; normet; ingo; peeter
-1,0,0,0,0,1,0,4,0,14,vaimuelu; tulviste; mäng; normet; ingo; peeter
-1,0,0,0,0,1,0,4,0,14,vaimuelu; tulviste; mäng; normet; ingo; peeter
-1,0,0,0,0,0,0,3,0,14,normet; peeter; ingo; mäng
-0,0,0,1,0,2,1,2,0,14,psühhiaater; vaimuelu; normet; ingo; peeter
-1,0,0,0,0,1,0,2,0,14,vaimuelu; peeter; pulmad; ingo
-0,0,2,0,0,2,2,1,0,14,vaimuelu; fantaasia; psühhiaater; normet; ingo
-0,1,2,0,0,0,3,5,0,14,marksism; peeter; ingo; normet; reaalsus; fantaasia
-0,0,0,0,0,1,2,3,0,14,fantaasia; normet; ingo; peeter
+1,0,0,0,0,1,0,4,0,14,peeter; mäng; ingo; vaimuelu; normet; tulviste
+1,0,0,0,0,1,0,4,0,14,peeter; mäng; ingo; vaimuelu; normet; tulviste
+1,0,0,0,0,1,0,4,0,14,peeter; mäng; ingo; vaimuelu; normet; tulviste
+1,0,0,0,0,1,0,4,0,14,peeter; mäng; ingo; vaimuelu; normet; tulviste
+1,0,0,0,0,1,0,4,0,14,peeter; mäng; ingo; vaimuelu; normet; tulviste
+1,0,0,0,0,0,0,3,0,14,peeter; ingo; mäng; normet
+0,0,0,1,0,2,1,2,0,14,peeter; ingo; psühhiaater; vaimuelu; normet
+1,0,0,0,0,1,0,2,0,14,peeter; ingo; vaimuelu; pulmad
+0,0,2,0,0,2,2,1,0,14,ingo; vaimuelu; normet; fantaasia; psühhiaater
+0,1,2,0,0,0,3,5,0,14,peeter; marksism; reaalsus; fantaasia; ingo; normet
+0,0,0,0,0,1,2,3,0,14,peeter; ingo; fantaasia; normet

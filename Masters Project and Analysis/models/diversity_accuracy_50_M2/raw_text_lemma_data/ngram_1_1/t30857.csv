@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg
-1,0,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg
-1,0,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg
-1,0,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg
-1,0,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg
-1,0,0,0,1,0,0,0,0,15,separaat; identiteet
-1,0,0,0,1,1,0,0,0,15,separaat; identiteet
-1,0,0,1,1,1,0,0,0,15,separaat; identiteet
-1,0,1,1,0,0,0,0,0,15,separaat; identiteet; vahing
-0,0,0,1,1,0,0,0,0,15,vahing
-0,0,0,2,0,0,0,0,0,15,juhan; vahing
+1,1,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg; nõukogu
+1,1,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg; nõukogu
+1,1,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg; nõukogu
+1,1,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg; nõukogu
+1,1,0,0,1,0,1,0,0,15,separaat; identiteet; dramaturg; nõukogu
+1,1,0,0,1,0,0,0,0,15,separaat; identiteet; nõukogu
+1,1,0,0,1,1,0,0,0,15,separaat; identiteet; nõukogu
+1,1,1,1,1,1,0,0,0,15,separaat; nõukogu; identiteet; üksikisik
+1,1,1,1,0,0,0,2,0,15,separaat; vahing; nõukogu; identiteet; üksikisik
+0,1,0,1,1,0,0,0,0,15,nõukogu; vahing
+0,1,0,2,0,0,0,0,0,15,nõukogu; vahing; juhan

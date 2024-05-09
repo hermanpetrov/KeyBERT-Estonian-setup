@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,3,4,2,6,7,4,5,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-6,6,3,4,2,6,7,4,5,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-8,6,6,4,2,6,7,5,5,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-7,5,6,4,2,6,7,6,4,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-7,4,5,4,2,7,7,6,4,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-8,5,8,5,2,6,9,7,5,14,muna; viljakusjumalus; nelipühad; püha; folklorist; kõivupuu; sümbol; marju; rituaalne
-4,4,8,5,3,6,7,6,5,14,muna; viljakusjumalus; nelipühad; püha; folklorist; kõivupuu; sümbol; marju; rituaalne
-4,7,7,8,3,4,7,5,4,14,muna; nelipühad; püha; viljakusjumalus; folklorist; sümbol; kõivupuu; marju; rituaalne
-4,7,6,8,5,4,6,2,4,14,muna; nelipühad; viljakusjumalus; püha; folklorist; kõivupuu; sümbol; marju; rituaalne
-4,7,6,8,6,2,5,5,4,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
-4,7,4,8,6,5,3,3,6,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju; rituaalne
+6,5,3,4,2,7,4,5,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+6,6,3,4,2,7,4,5,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+8,6,6,4,2,7,5,5,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+7,5,6,4,2,7,6,4,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+7,4,5,4,2,7,6,4,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+8,5,8,5,2,9,7,5,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+4,4,8,5,3,7,6,5,0,14,nelipühad; püha; sümbol; kõivupuu; muna; viljakusjumalus; marju; folklorist
+4,7,7,8,3,7,5,4,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+4,7,6,8,5,6,2,4,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+4,7,6,8,6,5,5,4,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+4,7,4,8,6,3,3,6,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist

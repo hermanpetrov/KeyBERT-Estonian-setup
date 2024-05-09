@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,1,1,1,0,0,1,11,vagun; jaam
 1,0,0,1,1,1,0,0,1,11,vagun; jaam
 1,0,0,1,1,1,0,0,1,11,vagun; jaam
-1,0,0,1,1,1,0,0,1,11,vagun; jaam
-1,0,0,1,1,1,0,0,1,11,vagun; jaam
-0,0,0,1,1,1,1,1,1,11,vagun; jaam
-1,1,1,1,1,0,2,0,1,11,vagun; jaam; laskma; ohvitser
-0,1,0,2,1,0,1,1,1,11,vagun; laager; pärnu
-1,1,0,2,1,0,0,1,1,11,pärnu; vagun; laager; ohvitser
-1,1,0,2,1,0,0,0,1,11,vagun; ohvitser
+1,0,0,1,1,1,0,1,1,11,punaarmee; vagun; jaam
+1,0,0,1,1,1,0,1,1,11,punaarmee; vagun; jaam
+0,0,0,1,1,1,1,2,1,11,punaarmee; vagun; jaam
+1,1,1,1,1,0,2,0,1,11,laskma; ohvitser; vagun; jaam
+0,1,1,2,1,0,1,1,1,11,vagun; pärnu; punaarmee; laager
+1,1,1,2,1,0,0,1,1,11,ohvitser; vagun; pärnu; punaarmee; laager
+1,1,0,2,1,0,0,0,1,11,ohvitser; vagun

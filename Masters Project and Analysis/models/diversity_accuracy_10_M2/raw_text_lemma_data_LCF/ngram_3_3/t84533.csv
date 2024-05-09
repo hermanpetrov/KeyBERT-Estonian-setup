@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,1,0,3,2,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-3,2,1,0,3,2,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-3,2,1,0,3,2,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-3,2,1,0,3,2,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-3,2,2,0,3,2,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-3,2,2,0,3,3,2,1,1,25,renn; roland; esimene; ludwig; remark; uus; realism; sõda
-6,2,2,2,3,3,3,2,1,25,renn; roland; esimene; remark; ludwig; uus; torsel; realism; ferdinand; sõda
-0,2,1,2,3,2,3,4,1,25,renn; esimene; ludwig; remark; uus; realism; ferdinand; sõda
-2,0,1,3,3,1,2,1,1,25,renn; esimene; remark; ludwig; uus; realism; sõda; jünger
-1,2,1,3,3,2,4,3,1,25,renn; esimene; ludwig; remark; uus; louis; realism; ferdinand; sõda; erich; jünger
-0,2,3,1,3,2,3,2,1,25,esimene; remark; uus; ludwig; louis; realism; ferdinand; maria; sõda; erich; jünger
+3,2,2,1,3,3,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+3,2,2,1,3,3,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+3,2,2,1,3,3,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+3,2,2,1,3,3,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+3,2,3,1,3,3,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+3,2,3,1,3,4,3,3,1,25,realism; sõjaromaan; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+7,2,3,3,3,4,5,4,1,25,läänerinne; realism; torsel; sõjaromaan; ferdinand; sõda; roland; uus; esimene; ludwig; renn; remark; maailmasõda
+0,3,3,3,3,4,4,6,1,25,läänerinne; realism; sõjaromaan; ferdinand; sõda; uus; esimene; ludwig; renn; remark; maailmasõda
+2,1,2,4,3,1,3,2,1,25,läänerinne; realism; sõjaromaan; sõda; uus; jünger; esimene; ludwig; renn; remark; maailmasõda
+1,2,2,4,3,2,4,4,1,25,realism; erich; sõjaromaan; ferdinand; maailmasõda; sõda; uus; esimene; ludwig; renn; louis; remark; jünger
+0,2,4,2,3,2,3,3,1,25,maria; realism; erich; sõjaromaan; ferdinand; maailmasõda; sõda; uus; esimene; ludwig; louis; remark; jünger

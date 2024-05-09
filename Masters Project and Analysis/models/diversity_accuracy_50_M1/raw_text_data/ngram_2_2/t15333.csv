@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,4,0,2,2,2,0,14,hiiu; hiidlane; kärdla; purjetamine; palmik; hiiumaa
-2,2,1,4,0,2,2,2,0,14,hiiu; hiidlane; kärdla; purjetamine; palmik; hiiumaa
-2,2,1,4,0,2,2,2,0,14,hiiu; hiidlane; kärdla; purjetamine; palmik; hiiumaa
-2,2,1,4,0,2,2,2,0,14,hiiu; hiidlane; kärdla; purjetamine; palmik; hiiumaa
-2,1,1,4,0,2,2,2,0,14,hiidlane; palmik; hiiu; hiiumaa; kärdla
-3,1,1,4,0,0,1,2,0,14,meresõit; hiidlane; palmik; hiiumaa; kärdla; purjetamine
-4,1,0,2,0,1,0,4,0,14,hiiu; hiidlane; kärdla; kirjandus; nõelakoda; hiiumaa; kalmus
-3,1,3,2,0,1,1,5,0,14,hiiu; hiidlane; tants; kärdla; kirjandus; hiiumaa; kalmus
-1,2,0,0,0,1,0,2,0,14,hiidlane; palmik; hiiu; hiiumaa
-0,2,0,1,0,0,0,3,0,14,hiidlane; palmik; hiiu; hiiumaa; kärdla
-0,1,2,1,0,0,2,3,0,14,hiiu; hiiumaa; kärdla; kalmus
+2,2,1,4,0,2,2,2,0,14,hiiumaa; hiiu; purjetamine; palmik; hiidlane; kärdla
+2,2,1,4,0,2,2,2,0,14,hiiumaa; hiiu; purjetamine; palmik; hiidlane; kärdla
+2,2,1,4,0,2,2,2,0,14,hiiumaa; hiiu; purjetamine; palmik; hiidlane; kärdla
+2,2,1,4,0,2,2,2,0,14,hiiumaa; hiiu; purjetamine; palmik; hiidlane; kärdla
+2,1,1,4,0,2,2,2,0,14,hiiumaa; palmik; hiidlane; hiiu; kärdla
+3,1,1,4,0,0,1,2,0,14,hiiumaa; purjetamine; palmik; meresõit; hiidlane; kärdla
+4,1,0,2,0,1,0,4,0,14,nõelakoda; hiiumaa; kalmus; hiiu; kirjandus; hiidlane; kärdla
+3,1,3,2,0,1,1,5,0,14,hiiumaa; kalmus; hiiu; tants; kirjandus; hiidlane; kärdla
+1,2,0,0,0,1,0,2,0,14,hiiumaa; palmik; hiidlane; hiiu
+0,2,0,1,0,0,0,3,0,14,hiiumaa; palmik; hiidlane; hiiu; kärdla
+0,1,2,1,0,0,2,3,0,14,hiiumaa; kalmus; hiiu; kärdla

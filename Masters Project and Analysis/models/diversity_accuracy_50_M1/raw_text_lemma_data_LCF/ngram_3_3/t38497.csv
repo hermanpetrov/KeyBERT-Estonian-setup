@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,5,4,1,5,5,4,3,14,keränen; johannes; õppimine; eesti; soome; keel; aavik; võimatu
-5,5,5,4,1,5,5,4,3,14,keränen; johannes; õppimine; eesti; soome; keel; aavik; võimatu
-5,5,5,4,1,5,5,4,3,14,keränen; johannes; õppimine; eesti; soome; keel; aavik; võimatu
-5,5,5,4,1,5,5,5,3,14,keränen; johannes; õppimine; eesti; soome; mika; keel; aavik; võimatu
-5,5,5,4,1,5,5,5,3,14,keränen; johannes; õppimine; eesti; soome; mika; keel; aavik; võimatu
-4,6,5,3,1,6,5,5,3,14,keränen; johannes; õppimine; eesti; soome; laen; mika; keel; aavik; võimatu
-7,6,3,2,1,6,4,5,3,14,keränen; johannes; õppimine; eesti; soome; laen; mika; keel; aavik; taristu
-4,5,4,6,1,5,5,4,3,14,keränen; tuletis; johannes; eesti; soome; mika; keel; aavik; taristu
-4,2,4,3,1,5,5,6,3,14,keränen; johannes; õppimine; eesti; soome; laen; mika; keel; aavik; taristu
-3,2,4,4,3,5,6,4,3,14,keränen; johannes; eesti; soome; laen; mika; keel; aavik; taristu
-4,3,6,5,2,5,5,3,4,14,keränen; johannes; õppimine; eesti; aavik; soome; mika; keel; võimatu; taristu
+5,6,5,5,1,5,5,6,3,14,õppimine; soome; eesti; johannes; sõnavõistlus; keel; keränen; võimatu; aavik; keelevõistlus
+5,6,5,5,1,5,5,6,3,14,õppimine; soome; eesti; johannes; sõnavõistlus; keel; keränen; võimatu; aavik; keelevõistlus
+5,6,5,5,1,5,5,6,3,14,õppimine; soome; eesti; johannes; sõnavõistlus; keel; keränen; võimatu; aavik; keelevõistlus
+5,6,5,5,1,5,5,7,3,14,õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; võimatu; aavik; keelevõistlus
+5,6,5,5,1,5,5,7,3,14,õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; võimatu; aavik; keelevõistlus
+4,7,5,4,1,6,5,7,3,14,õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; võimatu; keränen; aavik; keelevõistlus; laen
+7,7,5,2,1,6,6,6,3,14,taristu; õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; aavik; keelevõistlus; laen
+6,5,4,6,1,6,7,5,3,14,taristu; soome; eesti; tuletis; johannes; mika; sõnavõistlus; keel; keränen; aavik; keelevõistlus
+4,3,4,3,1,5,7,7,3,14,taristu; õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; aavik; keelevõistlus; laen
+5,3,4,4,3,6,7,5,3,14,taristu; soome; eesti; johannes; mika; sõnavõistlus; keel; keränen; aavik; keelevõistlus; laen
+4,4,6,5,2,6,5,4,4,14,taristu; õppimine; soome; eesti; johannes; mika; sõnavõistlus; keel; võimatu; keränen; aavik

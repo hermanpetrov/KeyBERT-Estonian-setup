@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,2,1,1,1,1,0,12,konstruktor; tikand; kollektsioon; berliin
-0,0,0,2,1,1,1,1,0,12,konstruktor; tikand; kollektsioon; berliin
-0,0,0,2,1,1,1,1,0,12,konstruktor; tikand; kollektsioon; berliin
-0,0,0,2,1,1,1,1,0,12,konstruktor; tikand; kollektsioon; berliin
-0,0,0,2,1,1,1,1,0,12,konstruktor; tikand; kollektsioon; berliin
-0,0,0,2,1,1,2,1,0,12,konstruktor; lill; kollektsioon; berliin
-0,0,1,1,1,1,2,1,0,12,konstruktor; lill; kollektsioon; berliin
-0,0,1,1,1,2,2,1,0,12,konstruktor; ateljee; lill; inspiratsioon; berliin
-1,1,2,0,1,1,2,2,0,12,konstruktor; ateljee; lill; kollektsioon; inspiratsioon; berliin
-1,1,2,0,1,3,1,1,0,12,konstruktor; ateljee; lill; kollektsioon; berliin
-0,1,0,2,1,2,1,2,0,12,konstruktor; ateljee; lill; kollektsioon; berliin
+0,3,1,4,1,1,1,3,0,12,berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon; tikand
+0,3,1,4,1,1,1,3,0,12,berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon; tikand
+0,3,1,4,1,1,1,3,0,12,berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon; tikand
+0,3,1,4,1,1,1,3,0,12,berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon; tikand
+0,3,1,4,1,1,1,3,0,12,berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon; tikand
+0,3,1,4,1,2,2,3,0,12,berliin; lill; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon
+0,2,2,3,1,2,2,4,0,12,lill; berliin; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; kollektsioon
+0,2,3,3,1,3,2,4,0,12,berliin; lill; ateljee; konstruktor; moekunstnik; moemaja; moenäda; moemaailm; inspiratsioon
+1,3,3,2,1,2,3,5,0,12,lill; berliin; ateljee; konstruktor; moekunstnik; moemaja; moenäda; inspiratsioon; moemaailm; kollektsioon
+1,1,3,1,1,3,1,3,0,12,lill; berliin; ateljee; konstruktor; moekunstnik; moenäda; moemaailm; kollektsioon
+0,1,1,3,1,2,2,4,0,12,berliin; lill; ateljee; konstruktor; moekunstnik; moenäda; moemaailm; kollektsioon

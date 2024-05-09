@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,1,1,0,2,2,2,11,kontsert; superstaar; plaat; lill; eurovisioon; laulma
-2,3,2,1,1,0,2,3,2,11,kontsert; superstaar; lill; eurovisioon; plaat; laulma
-2,3,2,1,1,0,3,3,2,11,kontsert; superstaar; lill; eurovisioon; plaat; laulma
-2,3,4,1,1,1,2,3,3,11,kontsert; superstaar; lill; eurovisioon; plaat; laulma
-2,1,3,1,1,1,2,2,3,11,kontsert; lill; superstaar; eurovisioon; plaat; laulma
-1,1,2,1,1,2,1,2,3,11,superstaar; lill; plaat; eurovisioon; laulma
-1,1,1,1,2,2,2,4,3,11,superstaar; lill; plaat; eurovisioon; laulma
-0,1,1,1,3,3,3,4,4,11,lill; kontsert; superstaar; eurovisioon; plaat; laulma
-0,1,1,1,2,3,3,4,4,11,lill; kontsert; superstaar; eurovisioon; plaat; laulma
-0,1,2,1,2,2,3,4,4,11,lill; superstaar; kontsert; eurovisioon; plaat; laulma
-0,1,1,1,2,3,3,3,4,11,superstaar; lill; kontsert; eurovisioon; plaat; laulma
+5,6,3,4,2,2,3,3,3,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+4,6,3,4,2,2,3,4,3,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+4,6,3,4,2,2,4,4,3,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+4,6,6,4,2,3,3,4,4,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+4,4,7,4,2,3,3,4,4,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+3,4,5,4,2,4,1,4,4,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,3,3,3,3,3,3,5,4,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,3,4,2,4,5,5,5,5,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+3,3,5,1,3,5,5,5,5,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+3,3,4,1,3,4,5,6,5,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+3,2,3,1,3,4,5,4,4,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert

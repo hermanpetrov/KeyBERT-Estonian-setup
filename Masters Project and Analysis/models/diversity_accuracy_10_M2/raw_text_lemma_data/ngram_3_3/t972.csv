@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,2,0,0,0,3,0,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,2,0,0,0,3,1,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,2,0,0,0,3,1,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,2,0,0,0,3,1,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,2,0,0,0,3,0,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,2,0,0,0,2,0,11,superstaar; plaat; eurovisioon; laulma
-2,1,0,0,0,1,1,0,0,11,eurovisioon; plaat; laulma
-0,1,1,2,0,0,1,2,0,11,superstaar; lill; kontsert; eurovisioon
-0,1,1,0,0,0,1,1,0,11,eurovisioon; superstaar
-0,0,2,2,0,0,1,1,0,11,eurovisioon; superstaar; kontsert; plaat
-0,0,1,3,1,0,1,1,0,11,eurovisioon; superstaar; plaat
+3,2,0,2,0,1,2,5,0,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,0,2,0,1,2,5,1,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,0,2,0,1,2,5,1,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,0,2,0,1,2,5,1,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,0,2,0,1,2,5,0,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,0,2,0,1,1,4,0,11,plaat; koostöö; eurovisioon; superstaar; laulma; õigemeel; auhind
+3,2,1,0,0,2,2,2,0,11,eurovisioon; plaat; koostöö; laulma; õigemeel; auhind
+1,1,2,3,0,1,2,3,0,11,lill; välismaa; eurovisioon; superstaar; õigemeel; auhind; kontsert
+0,1,2,0,0,2,2,2,0,11,eurovisioon; superstaar; õigemeel; auhind
+0,1,2,2,0,1,2,2,0,11,eurovisioon; plaat; superstaar; välismaa; õigemeel; auhind; kontsert
+0,0,2,3,1,1,2,2,0,11,eurovisioon; plaat; superstaar; õigemeel; auhind

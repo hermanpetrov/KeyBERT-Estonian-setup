@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,0,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; allik; mikomägi; kultuuripärl
-3,1,0,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; allik; mikomägi; kultuuripärl
-3,1,0,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; allik; mikomägi; kultuuripärl
-3,1,0,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; allik; mikomägi; kultuuripärl
-3,1,2,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; mikomägi; allik; kultuuripärl
-3,1,2,1,2,2,3,3,0,14,andres; ugala; tooming; jaak; margus; rapla; mikomägi; allik; kultuuripärl
-2,3,3,0,2,3,2,2,0,14,andres; ajakirjanik; tooming; näitleja; jaak; margus; rapla; mikomägi; allik
-2,2,2,0,0,2,2,3,0,14,andres; jaan; margus; mikomägi; kultuuripärl; tooming
-1,1,2,2,2,2,1,3,0,14,andres; jaak; margus; mikomägi; allik; rapla; ehin; kultuuripärl
-2,1,0,0,2,2,1,3,0,14,andres; jaak; margus; jaan; allik; mikomägi; rapla; kultuuripärl
-1,1,1,0,2,2,1,4,0,14,andres; ajakirjanik; jaak; margus; allik; mikomägi; rapla; kultuuripärl
+3,1,0,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+3,1,0,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+3,1,0,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+3,1,0,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+3,1,2,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+3,1,2,1,2,2,3,3,0,14,mikomägi; jaak; rapla; ugala; allik; kultuuripärl; margus; andres; tooming
+2,3,3,0,2,3,2,2,0,14,mikomägi; ajakirjanik; jaak; rapla; allik; näitleja; margus; andres; tooming
+2,2,2,0,0,2,2,3,0,14,jaan; mikomägi; margus; andres; tooming; kultuuripärl
+1,1,2,2,2,2,1,3,0,14,mikomägi; jaak; rapla; allik; kultuuripärl; ehin; margus; andres
+2,1,0,0,2,2,1,3,0,14,mikomägi; jaak; rapla; allik; kultuuripärl; jaan; margus; andres
+1,1,1,0,2,2,1,4,0,14,mikomägi; ajakirjanik; jaak; rapla; allik; kultuuripärl; margus; andres

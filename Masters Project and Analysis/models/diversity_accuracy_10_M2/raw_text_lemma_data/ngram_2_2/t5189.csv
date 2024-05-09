@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,1,0,1,15,aasta
-0,0,0,0,0,0,0,0,1,15,aasta
-0,1,0,1,0,0,0,0,1,15,aasta; laidoner
-0,0,0,0,0,0,0,0,1,15,aasta
-0,1,2,1,0,0,1,0,1,15,laidoner; muuseum; aasta; gruusia
-0,1,1,3,0,0,2,0,1,15,laidoner; aasta; sulev; gruusia
+1,1,1,0,0,0,0,1,1,15,konkurentsivõime; aasta
+1,1,1,0,0,0,0,1,1,15,konkurentsivõime; aasta
+1,1,1,0,0,0,0,1,1,15,konkurentsivõime; aasta
+1,1,1,0,0,0,0,1,1,15,konkurentsivõime; aasta
+1,1,1,0,0,0,0,1,1,15,konkurentsivõime; aasta
+1,1,1,0,0,0,2,1,1,15,konkurentsivõime; aasta; rahvusvaheline
+0,1,0,0,0,2,1,1,1,15,pakendiorganisatsioon; konkurentsivõime; rahvusvaheline; aasta
+1,1,1,2,0,2,1,0,1,15,pakendiorganisatsioon; konkurentsivõime; laidoner; filmiajakirjanik; rahvusvaheline; aasta
+0,0,1,0,0,0,0,0,1,15,filmiajakirjanik; aasta
+1,1,3,1,0,0,2,0,1,15,pakendiorganisatsioon; gruusia; laidoner; rahvusvaheline; aasta; muuseum
+1,1,2,4,0,0,2,0,1,15,pakendiorganisatsioon; konkurentsivõime; sulev; gruusia; laidoner; aasta

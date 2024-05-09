@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,2,1,12,akadeemia; gustav; hüpotees; naan
-1,0,0,0,0,0,0,2,1,12,akadeemia; gustav; hüpotees; naan
-1,0,0,0,0,0,0,2,1,12,akadeemia; gustav; hüpotees; naan
-1,0,0,0,0,0,0,2,1,12,akadeemia; gustav; hüpotees; naan
-1,0,0,0,0,0,0,2,1,12,akadeemia; gustav; hüpotees; naan
-0,0,0,0,0,0,0,2,1,12,akadeemia; gustav; naan
-1,0,1,0,0,1,2,2,1,12,gustav; hüpotees; naan; teadus; akadeemia
-0,0,0,1,0,2,2,3,1,12,gustav; hüpotees; naan; akadeemia
-0,0,0,0,0,2,2,3,1,12,gustav; hüpotees; naan; akadeemia
-0,0,0,0,0,2,2,2,1,12,akadeemia; gustav; naan
-0,0,0,0,0,2,2,2,1,12,akadeemia; gustav; naan
+2,0,0,1,0,0,0,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees
+2,0,0,1,0,0,0,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees
+2,0,0,1,0,0,0,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees
+2,0,1,1,0,0,0,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees; lapsepõlv
+2,0,1,1,0,0,0,2,1,12,akadeemia; gustav; ülikool; naan; hüpotees; lapsepõlv
+1,0,0,1,0,0,0,2,1,12,ülikool; naan; akadeemia; gustav
+2,0,2,1,0,1,2,2,1,12,teadus; gustav; akadeemia; ülikool; naan; hüpotees; lapsepõlv
+0,0,0,2,0,2,2,3,1,12,akadeemia; gustav; ülikool; naan; hüpotees
+1,0,0,1,0,2,2,3,1,12,akadeemia; gustav; ülikool; naan; hüpotees; elustrateegia
+1,0,0,1,0,2,2,2,1,12,gustav; ülikool; naan; akadeemia; elustrateegia
+0,0,0,1,0,2,2,2,1,12,gustav; ülikool; naan; akadeemia

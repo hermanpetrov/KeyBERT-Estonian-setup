@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,4,2,4,2,5,5,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-4,3,4,4,2,4,3,5,5,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-3,4,6,4,2,4,4,5,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-3,4,6,4,2,4,4,5,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-4,5,5,4,2,4,4,5,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-7,7,4,4,3,4,3,5,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-8,6,4,4,3,5,4,4,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-6,5,5,5,3,5,6,3,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-5,5,5,5,4,5,5,5,3,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-4,6,5,5,4,5,6,3,4,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
-4,5,5,5,5,4,6,4,5,10,mälestus; kirjanik; ermitaaž; üksindus; inimkond; volga; sõda; lend
+4,3,2,4,2,4,2,5,5,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+4,3,4,4,2,4,3,5,5,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+3,4,6,4,2,4,4,5,3,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga
+3,4,6,4,2,4,4,5,3,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga
+4,5,5,4,2,4,4,5,3,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+7,7,4,4,3,4,3,5,3,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+8,6,4,4,3,5,4,4,3,10,üksindus; mälestus; lend; kirjanik; inimkond; ermitaaž; sõda; volga
+6,5,5,5,3,5,6,3,3,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga
+5,5,5,5,4,5,5,5,3,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga
+4,6,5,5,4,5,6,3,4,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga
+4,5,5,5,5,4,6,4,5,10,üksindus; lend; mälestus; kirjanik; inimkond; ermitaaž; sõda; volga

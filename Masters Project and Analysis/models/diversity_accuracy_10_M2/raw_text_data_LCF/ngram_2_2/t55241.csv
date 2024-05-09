@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,1,2,2,1,0,11,vee; joogivesi; joogiveemäärus
-0,1,1,1,1,2,2,1,0,11,vee; joogivesi; joogiveemäärus
-0,1,1,1,1,2,2,1,0,11,vee; joogivesi; joogiveemäärus
-0,1,1,1,1,2,2,1,0,11,vee; joogivesi; joogiveemäärus
-0,1,2,1,1,2,2,1,0,11,vee; veevarustussüsteem; joogivesi; joogiveemäärus
-0,1,3,1,1,2,2,2,0,11,vee; veevarustussüsteem; joogivesi; joogiveemäärus
-0,1,1,0,1,0,1,3,0,11,vee; veevärk; joogivesi; joogiveemäärus
-0,1,2,0,1,2,0,2,0,11,vee; veevärk; joogivesi; joogiveemäärus
-0,1,2,0,1,2,1,1,0,11,vee; veetöötlusjaam; joogivesi; joogiveemäärus
-0,2,1,0,1,0,1,0,0,11,vee; joogiveemäärus; kvaliteet; joogivesi
-0,1,3,0,1,1,0,0,0,11,vee; veetöötlusjaam; veevärk; joogivesi; joogiveemäärus
+0,1,1,1,1,2,1,0,0,11,joogiveemäärus; vee; joogivesi
+0,1,1,1,1,2,1,0,0,11,joogiveemäärus; vee; joogivesi
+0,1,1,1,1,2,1,0,0,11,joogiveemäärus; vee; joogivesi
+0,1,1,1,1,2,1,0,0,11,joogiveemäärus; vee; joogivesi
+0,1,2,1,1,2,1,0,0,11,veevarustussüsteem; joogiveemäärus; vee; joogivesi
+0,1,3,1,1,2,2,0,0,11,veevarustussüsteem; joogiveemäärus; vee; joogivesi
+0,1,1,0,1,1,3,0,0,11,veevärk; joogiveemäärus; vee; joogivesi
+0,1,2,0,1,0,2,0,0,11,vee; veevärk; joogivesi; joogiveemäärus
+0,1,2,0,1,1,1,0,0,11,veetöötlusjaam; joogiveemäärus; vee; joogivesi
+0,2,1,0,1,1,0,0,0,11,vee; joogivesi; joogiveemäärus; kvaliteet
+0,1,3,0,1,0,0,0,0,11,veetöötlusjaam; veevärk; vee; joogivesi

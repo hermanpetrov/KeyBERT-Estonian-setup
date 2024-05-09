@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,2,0,0,0,1,1,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,3,2,0,0,0,1,0,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,3,2,0,0,0,1,0,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,3,2,0,0,0,1,1,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,2,2,0,0,0,1,0,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,2,2,0,0,0,1,0,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,2,2,0,0,0,1,0,14,lasteporno; vanglakaristus; pakkuja; internetiteenuse
-0,1,2,2,0,0,0,2,0,14,kodaniku; lasteporno; vanglakaristus; pakkuja; internetiteenuse
-1,1,2,4,0,0,0,1,0,14,kodaniku; kristjan; vanglakaristus; port; pakkuja; internetiteenuse
-0,1,3,1,0,1,0,3,0,14,tehnoloogia; kristjan; pedofiilia; vanglakaristus; port; internetiteenuse
-0,1,4,2,0,1,1,3,0,14,tehnoloogia; kristjan; lasteporno; port; pakkuja; internetiteenuse; pedofiilia; vanglakaristus
+0,1,3,2,0,0,1,1,0,14,internetiteenuse; lasteporno; vanglakaristus; pakkuja
+0,1,3,2,0,0,1,0,0,14,internetiteenuse; lasteporno; vanglakaristus; pakkuja
+0,1,3,2,0,0,1,0,0,14,internetiteenuse; lasteporno; vanglakaristus; pakkuja
+0,1,3,2,0,0,1,1,0,14,internetiteenuse; lasteporno; vanglakaristus; pakkuja
+0,1,2,2,0,0,1,0,0,14,vanglakaristus; internetiteenuse; lasteporno; pakkuja
+0,1,2,2,0,0,1,0,0,14,vanglakaristus; internetiteenuse; lasteporno; pakkuja
+0,1,2,2,0,0,1,0,0,14,vanglakaristus; internetiteenuse; lasteporno; pakkuja
+0,1,2,2,0,0,2,0,0,14,internetiteenuse; lasteporno; vanglakaristus; kodaniku; pakkuja
+1,1,2,4,0,0,1,0,0,14,kristjan; internetiteenuse; vanglakaristus; kodaniku; port; pakkuja
+0,1,3,1,0,0,3,0,0,14,kristjan; internetiteenuse; pedofiilia; vanglakaristus; tehnoloogia; port
+0,1,4,2,0,1,3,0,0,14,lasteporno; vanglakaristus; pedofiilia; port; pakkuja; kristjan; internetiteenuse; tehnoloogia

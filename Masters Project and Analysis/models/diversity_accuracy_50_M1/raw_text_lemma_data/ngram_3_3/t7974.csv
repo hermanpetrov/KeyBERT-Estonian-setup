@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,6,5,2,2,5,4,6,5,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-2,6,5,2,2,5,4,6,5,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-2,6,5,2,2,5,4,6,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-2,6,5,2,2,5,4,6,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-2,6,5,2,2,6,4,6,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-3,6,5,2,2,4,4,6,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-3,6,7,2,2,5,5,6,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna; tahv
-2,4,8,3,2,6,5,7,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna
-5,5,8,3,1,6,5,7,4,12,aabits; raha; kadakas; esimene; lugu; tarand; mari; sõna
-4,4,6,4,2,7,5,3,4,12,aabits; raha; kadakas; esimene; tarand; lugu; mari; sõna
-4,3,3,4,2,7,6,3,7,12,aabits; kadakas; esimene; tarand; lugu; mari; sõna
+2,7,7,2,3,5,4,8,5,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+2,7,7,2,3,5,4,8,5,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+2,7,7,2,3,5,4,8,4,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+2,7,7,2,3,5,4,8,4,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+2,7,7,2,3,6,4,8,4,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+3,7,7,2,3,4,4,8,4,12,esimene; sõna; raha; koolipäev; tarand; mari; aabits; kadakas; stiiliküsimus; lugu; tahv; õppevahend
+5,8,9,2,3,5,5,8,4,12,esimene; sõna; raha; koolipäev; mari; aabits; tahv; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+3,6,9,3,3,6,6,9,4,12,esimene; sõna; raha; koolipäev; mari; aabits; kadakas; stiiliküsimus; lugu; tarand; õppevahend
+7,8,9,4,2,6,6,9,4,12,esimene; raha; koolipäev; tarand; mari; aabits; kadakas; stiiliküsimus; lugu; sõna; õppevahend
+5,7,6,4,3,7,7,5,4,12,mari; aabits; õppevahend; kadakas; esimene; stiiliküsimus; raha; koolipäev; lugu; sõna; tarand
+5,5,5,4,2,7,7,4,7,12,mari; aabits; õppevahend; kadakas; esimene; stiiliküsimus; koolipäev; lugu; sõna; tarand

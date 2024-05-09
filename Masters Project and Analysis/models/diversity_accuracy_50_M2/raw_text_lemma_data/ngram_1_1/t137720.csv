@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,0,1,2,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,3,0,1,2,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,3,0,1,2,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,3,0,1,2,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,2,0,1,2,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,1,0,1,1,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,1,0,1,1,0,1,1,12,andmed; kuhjumine; internet; euroopa
-1,2,1,0,1,1,0,2,1,12,andmed; kuhjumine; internet; euroopa
-1,2,1,1,1,1,0,2,1,12,regulatsioon; andmed; kuhjumine; internet; euroopa
-1,2,1,1,1,1,0,1,1,12,regulatsioon; andmed; liit; internet; euroopa
-1,2,3,1,1,1,0,2,1,12,regulatsioon; andmed; kuhjumine; liit; internet; euroopa
+5,3,6,3,2,5,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,6,3,2,5,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,6,3,2,5,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,6,3,2,5,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,5,3,2,5,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,3,3,2,4,4,4,1,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,3,3,2,4,4,4,2,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,3,3,2,4,3,4,2,12,andmed; infoajastu; isikuandmed; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,3,5,2,4,3,5,2,12,andmed; infoajastu; isikuandmed; regulatsioon; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek
+5,3,3,5,2,3,3,3,2,12,andmed; infoajastu; isikuandmed; regulatsioon; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; nõusolek; liit
+5,3,5,6,2,3,3,4,2,12,andmed; infoajastu; isikuandmed; regulatsioon; andmevargus; tavakodanik; internet; euroopa; andmesubjekt; kuhjumine; nõusolek; liit

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,0,1,0,1,12,vene; screabin; protest
-1,0,0,1,0,0,1,0,1,12,vene; screabin; protest
-1,0,0,1,0,0,1,0,1,12,vene; screabin; protest
-1,0,0,1,0,0,1,0,1,12,vene; screabin; protest
-1,0,0,1,0,0,1,0,1,12,vene; screabin; protest
-1,0,0,1,0,1,0,0,1,12,vene; screabin; saatus; protest
+1,0,0,1,0,0,1,0,1,12,protest; vene; screabin
+1,0,0,1,0,0,1,0,1,12,protest; vene; screabin
+1,0,0,1,0,0,1,0,1,12,protest; vene; screabin
+1,0,0,1,0,0,1,0,1,12,protest; vene; screabin
+1,0,0,1,0,0,1,0,1,12,protest; vene; screabin
+1,0,0,1,0,1,0,0,1,12,vene; protest; saatus; screabin
 0,0,0,1,0,1,0,0,1,12,vene; protest; saatus
-0,0,0,1,0,0,0,0,1,12,vene; protest
-0,0,0,1,0,0,0,0,1,12,vene; protest
-0,0,0,1,0,1,0,0,1,12,vene; konservatoorium; protest
-0,0,0,1,0,1,1,0,0,12,konservatoorium; protest; screabin
+0,0,0,1,0,0,0,0,1,12,protest; vene
+1,0,0,1,0,0,0,0,1,12,noorusarmastus; vene; protest
+0,0,1,1,0,1,0,0,1,12,vene; helilooja; konservatoorium; protest
+0,0,0,1,0,1,1,0,0,12,protest; konservatoorium; screabin

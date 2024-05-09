@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,2,1,0,15,film; kangelane; liit
-0,1,1,0,0,1,2,1,0,15,film; kangelane; liit
-0,1,1,0,0,1,2,1,0,15,film; kangelane; liit
-0,1,1,0,0,1,2,1,0,15,film; kangelane; liit
-0,1,0,0,0,1,2,1,0,15,film; kangelane; liit
-0,0,0,0,0,0,2,1,0,15,film; kangelane; liit
-0,0,0,0,0,1,0,1,0,15,stalin; liit
-0,0,0,0,0,1,2,0,0,15,stalin; kangelane
-0,1,0,1,0,1,0,2,0,15,kangelane; liit; stalin; komandör
-0,1,0,0,0,1,1,1,0,15,stalin; komandör
-0,0,0,0,0,1,2,1,0,15,stalin; kangelane
+0,2,1,0,0,2,4,2,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,2,1,0,0,2,4,2,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,2,1,0,0,2,4,2,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,2,1,0,0,2,4,2,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,2,0,0,0,2,4,2,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,1,0,0,0,1,4,3,0,15,film; kangelane; liit; nõukogu; kosmodemjanskaja; naiskangelanna
+0,1,0,1,0,2,2,3,0,15,liit; nõukogu; stalin; kosmodemjanskaja; naiskangelanna
+0,1,0,0,0,2,2,2,0,15,kangelane; nõukogu; stalin; kosmodemjanskaja
+0,2,0,1,0,2,0,3,0,15,kangelane; komandör; liit; nõukogu; stalin; kosmodemjanskaja
+0,3,0,0,0,2,1,3,0,15,komandör; nõukogu; stalin; kosmodemjanskaja; naiskangelanna
+1,1,0,0,0,2,2,3,0,15,armukolmnurk; kangelane; nõukogu; stalin; kosmodemjanskaja

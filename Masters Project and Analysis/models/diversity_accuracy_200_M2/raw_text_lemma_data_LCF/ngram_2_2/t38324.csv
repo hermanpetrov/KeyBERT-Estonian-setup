@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,6,6,2,7,8,9,9,13,talv; kirjanik; reis; ilmar; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-5,6,6,5,2,9,9,9,9,13,talv; kirjanik; reis; ilmar; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-4,7,8,5,2,10,8,10,9,13,talv; kirjanik; ilmar; reis; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-4,7,10,6,2,10,8,9,8,13,talv; kirjanik; ilmar; reis; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-5,7,9,6,1,10,8,9,7,13,talv; kirjanik; ilmar; reis; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-4,9,7,9,3,11,8,8,6,13,talv; kirjanik; rahvas; ilmar; reis; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-7,9,9,7,5,9,8,9,7,13,talv; kirjanik; ilmar; reis; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-6,8,10,10,6,11,9,11,6,13,talv; kirjanik; reis; ilmar; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-7,7,10,9,6,7,7,11,6,13,talv; kirjanik; ilmar; rahvas; reis; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-8,7,9,9,6,6,7,9,6,13,talv; kirjanik; ilmar; rahvas; reis; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
-6,8,8,8,7,6,8,9,6,13,talv; kirjanik; ilmar; rahvas; juhanson; rootsi; ekspeditsioon; muuseum; soome; etnoloog
+5,7,6,7,2,8,9,9,9,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+5,7,6,6,2,10,10,9,9,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+4,8,8,6,2,11,9,10,9,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+4,8,10,7,2,11,9,9,8,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+5,8,10,7,1,11,9,9,7,13,rootsi; soome; juhanson; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+4,10,8,10,3,12,9,9,6,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+7,10,10,7,5,9,8,10,7,13,rootsi; soome; juhanson; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+6,9,11,10,6,11,9,12,6,13,rootsi; juhanson; soome; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+7,8,11,9,6,7,7,11,6,13,rootsi; soome; juhanson; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+8,8,10,9,6,6,7,10,6,13,rootsi; soome; juhanson; ilmar; ekspeditsioon; muuseum; reis; kirjanik; etnoloog; rahvas; maapagu; talv
+6,9,9,8,7,6,8,10,6,13,rootsi; soome; juhanson; ilmar; ekspeditsioon; muuseum; kirjanik; etnoloog; rahvas; maapagu; talv

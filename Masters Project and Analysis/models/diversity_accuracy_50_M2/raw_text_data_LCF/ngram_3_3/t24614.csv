@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,4,3,2,2,3,2,12,süsteem; isereguleeruv; eesti; indoeuroopa; keel; alaväärsustunne
-4,3,3,4,3,2,2,3,2,12,süsteem; isereguleeruv; eesti; indoeuroopa; keel; alaväärsustunne
-4,3,3,4,3,2,2,3,2,12,süsteem; isereguleeruv; eesti; indoeuroopa; keel; alaväärsustunne
-4,3,3,4,3,2,2,3,2,12,süsteem; isereguleeruv; eesti; indoeuroopa; keel; alaväärsustunne
-4,3,3,4,3,2,2,3,2,12,süsteem; isereguleeruv; eesti; indoeuroopa; keel; alaväärsustunne
-6,2,3,3,3,2,2,3,2,12,isereguleeruv; eesti; indoeuroopa; keel; hägusus; süsteem; alaväärsustunne
-3,2,3,2,3,4,3,4,2,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; süsteem; alaväärsustunne
-2,4,3,3,3,3,2,4,2,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; hägusus; süsteem; alaväärsustunne
-3,2,4,3,3,2,3,3,2,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; süsteem; alaväärsustunne
-2,3,4,1,3,3,2,4,2,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; süsteem; alaväärsustunne
-2,4,4,1,2,2,4,4,2,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; süsteem; alaväärsustunne
+4,3,3,4,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne
+4,3,3,4,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne
+4,3,3,4,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne
+4,3,3,4,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne
+4,3,3,4,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne
+6,2,3,3,3,2,3,2,0,12,indoeuroopa; eesti; süsteem; isereguleeruv; keel; alaväärsustunne; hägusus
+3,2,3,2,3,3,4,2,0,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel; alaväärsustunne
+2,4,3,3,3,2,4,2,0,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel; alaväärsustunne; hägusus
+3,2,4,3,3,3,3,2,0,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel; alaväärsustunne
+2,3,4,1,3,2,4,2,0,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel; alaväärsustunne
+2,4,4,1,2,4,4,2,0,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel; alaväärsustunne

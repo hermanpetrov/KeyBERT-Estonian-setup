@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,1,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,1,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,1,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,1,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,1,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
+0,0,0,0,1,1,0,0,1,13,loop; talv; eesti
+0,0,0,0,1,1,0,0,1,13,loop; talv; eesti
+0,0,0,0,1,1,0,0,1,13,loop; talv; eesti
+0,0,0,0,1,1,0,0,1,13,loop; talv; eesti
+0,0,0,0,1,1,0,0,1,13,loop; talv; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
 0,0,1,0,1,0,0,0,1,13,talv; eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
+0,0,0,0,1,0,0,0,1,13,loop; eesti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,3,5,4,6,2,5,3,13,uno; tammer; loop; eesti; austraalia; lava; enno; habe; mees
-3,3,3,5,4,6,2,5,3,13,uno; tammer; loop; eesti; austraalia; lava; enno; habe; mees
-3,3,3,5,4,6,2,5,3,13,uno; tammer; loop; eesti; austraalia; lava; enno; habe; mees
-3,4,3,5,4,6,2,4,3,13,uno; tammer; loop; eesti; austraalia; lava; enno; habe; mees
-4,4,3,5,4,6,2,4,3,13,talv; uno; tammer; eesti; loop; austraalia; lava; enno; habe; mees
-4,4,3,5,4,3,2,4,3,13,talv; uno; eesti; loop; austraalia; lava; enno; habe; mees
-5,4,4,7,4,3,1,6,3,13,talv; uno; tammer; sümpaatne; loop; eesti; austraalia; lava; enno; habe; mees
-5,4,5,7,5,2,0,3,3,13,talv; uno; tammer; sümpaatne; eesti; loop; austraalia; enno; habe; mees
-5,3,6,6,5,4,3,3,3,13,talv; uno; tammer; loop; eesti; austraalia; enno; pere; habe; mees
-8,3,3,6,3,3,4,4,5,13,talv; uno; tammer; lava; eesti; loop; austraalia; enno; habe; mees
-4,5,3,4,3,3,2,2,3,13,talv; uno; eesti; loop; lava; austraalia; pere; habe; mees
+3,3,3,5,4,6,2,5,3,13,uno; tammer; eesti; lava; loop; enno; austraalia; mees; habe
+3,3,3,5,4,6,2,5,3,13,uno; tammer; eesti; lava; loop; enno; austraalia; mees; habe
+3,3,3,5,4,6,2,5,3,13,uno; tammer; eesti; lava; loop; enno; austraalia; mees; habe
+3,4,3,5,4,6,2,4,3,13,uno; tammer; eesti; lava; loop; enno; austraalia; mees; habe
+4,4,3,5,4,6,2,4,3,13,uno; tammer; eesti; lava; loop; enno; austraalia; mees; habe; talv
+4,4,4,5,4,3,2,4,3,13,uno; jalgpall; eesti; lava; loop; enno; austraalia; mees; habe; talv
+5,4,5,8,4,3,1,6,3,13,uno; tammer; jalgpall; eesti; lava; loop; sümpaatne; enno; austraalia; mees; habe; talv
+6,4,5,7,5,2,0,3,3,13,uno; tammer; jalgpall; eesti; loop; sümpaatne; enno; austraalia; mees; habe; talv
+6,4,7,6,5,4,3,3,3,13,pere; uno; tammer; jalgpall; eesti; loop; enno; austraalia; mees; habe; talv
+8,4,3,6,3,3,4,4,5,13,uno; tammer; jalgpall; eesti; lava; loop; enno; austraalia; mees; habe; talv
+4,6,3,4,3,3,2,2,3,13,pere; uno; jalgpall; eesti; lava; loop; austraalia; mees; habe; talv

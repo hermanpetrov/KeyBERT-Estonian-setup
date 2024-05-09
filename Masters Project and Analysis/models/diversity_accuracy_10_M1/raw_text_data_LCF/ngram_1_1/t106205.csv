@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,0,1,1,1,0,12,merivoo-parro; televiisor; klassikokkutulek; raadio
-1,1,3,1,0,1,1,1,0,12,merivoo-parro; televiisor; klassikokkutulek; raadio
-1,1,3,1,0,1,1,1,0,12,merivoo-parro; televiisor; klassikokkutulek; raadio
-1,1,2,1,0,1,1,1,0,12,klassikokkutulek; merivoo-parro; raadio
-1,1,2,1,0,1,1,1,0,12,klassikokkutulek; merivoo-parro; raadio
-1,1,2,0,0,1,0,1,0,12,merivoo-parro; raadio
-1,1,3,1,0,1,0,1,0,12,merivoo-parro; klassikokkutulek; maarja; raadio
-1,1,3,0,0,1,0,0,0,12,merivoo-parro; maarja; raadio
-0,0,3,1,0,1,1,0,0,12,televiisor; merivoo-parro; ansambel; maarja; raadio
-0,0,2,0,0,1,1,0,0,12,televiisor; merivoo-parro; raadio
-0,0,3,0,0,1,1,0,0,12,merivoo-parro; maarja; raadio
+1,1,3,1,0,1,1,0,0,12,raadio; merivoo-parro; televiisor; klassikokkutulek
+1,1,3,1,0,1,1,0,0,12,raadio; merivoo-parro; televiisor; klassikokkutulek
+1,1,3,1,0,1,1,0,0,12,raadio; merivoo-parro; televiisor; klassikokkutulek
+1,1,2,1,0,1,1,0,0,12,raadio; merivoo-parro; klassikokkutulek
+1,1,2,1,0,1,1,0,0,12,raadio; merivoo-parro; klassikokkutulek
+1,1,2,0,0,0,1,0,0,12,raadio; merivoo-parro
+1,1,3,1,0,0,1,0,0,12,raadio; merivoo-parro; maarja; klassikokkutulek
+1,1,3,0,0,0,0,0,0,12,raadio; merivoo-parro; maarja
+0,0,3,1,0,1,0,0,0,12,raadio; ansambel; merivoo-parro; maarja; televiisor
+0,0,2,0,0,1,0,0,0,12,raadio; merivoo-parro; televiisor
+0,0,3,0,0,1,0,0,0,12,raadio; merivoo-parro; maarja

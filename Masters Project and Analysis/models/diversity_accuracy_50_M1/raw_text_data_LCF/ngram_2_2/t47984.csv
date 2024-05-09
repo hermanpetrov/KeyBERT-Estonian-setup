@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,4,4,0,5,5,5,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; võistkond; olde
-3,2,4,4,0,5,5,5,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; võistkond; olde
-3,2,4,4,0,5,5,5,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; võistkond; olde
-3,2,3,4,0,5,5,6,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; võistkond; olde
-3,2,3,4,0,6,5,6,0,15,paul; eesti; kilingi-nõmme; hendrik; maletaja; keres; võistkond; olde
-4,2,4,4,0,7,4,6,0,15,paul; keres; eesti; partii; kilingi-nõmme; hendrik; maletaja; malering; võistkond; olde
-3,1,4,1,0,6,6,6,0,15,paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; olde
-0,2,5,3,0,5,6,4,0,15,paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; malering; olde
-1,0,6,2,0,5,5,3,0,15,paul; keres; eesti; partii; kilingi-nõmme; hendrik; malering; olde
-1,2,5,3,1,4,6,3,0,15,paul; keres; eesti; partii; kilingi-nõmme; hendrik; maletaja; malering; olde
-1,2,3,3,0,4,3,4,0,15,paul; keres; eesti; partii; kilingi-nõmme; hendrik; maletaja; malering; olde
+3,2,4,4,0,5,5,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+3,2,4,4,0,5,5,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+3,2,4,4,0,5,5,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+3,2,3,4,0,5,6,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+3,2,3,4,0,5,6,0,0,15,olde; keres; eesti; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+4,2,4,4,0,4,6,0,0,15,olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+3,1,4,1,0,6,6,0,0,15,partii; olde; keres; eesti; kilingi-nõmme; hendrik; maletaja; paul
+0,2,5,3,0,6,4,0,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; maletaja; paul
+1,0,6,2,0,5,3,0,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; paul
+1,2,5,3,1,6,3,0,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; maletaja; paul
+1,2,3,3,0,3,4,0,0,15,partii; olde; keres; eesti; paul; kilingi-nõmme; hendrik; maletaja; malering

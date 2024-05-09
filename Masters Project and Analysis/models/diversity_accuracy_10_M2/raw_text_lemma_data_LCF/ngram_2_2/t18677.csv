@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,0,0,0,0,0,0,19,prius; kuninglik; stuart; stewart
-2,2,0,0,0,0,0,0,0,19,prius; kuninglik; stuart; stewart
-2,2,0,0,0,0,0,0,0,19,prius; kuninglik; stuart; stewart
-2,2,0,0,0,0,0,0,0,19,prius; kuninglik; stuart; stewart
-2,2,0,0,0,0,0,0,0,19,prius; kuninglik; stuart; stewart
-2,1,0,0,0,0,0,0,0,19,prius; stuart; kuninglik
-3,0,0,1,0,0,0,0,0,19,prius; margaret; stuart; stewart
-1,1,0,0,0,0,0,1,0,19,stuart; stewart
-0,1,0,0,0,0,0,1,0,19,stewart
-0,0,0,0,0,0,0,2,0,19,margaret; stewart
-0,0,0,0,0,0,0,3,0,19,margaret; robert; stewart
+3,3,1,1,0,1,1,1,1,19,šotimaa; kuninglik; prius; stuart; stewart
+3,3,1,1,0,1,1,1,1,19,šotimaa; kuninglik; prius; stuart; stewart
+3,3,1,1,0,1,1,1,1,19,šotimaa; kuninglik; prius; stuart; stewart
+3,3,1,1,0,1,1,1,1,19,šotimaa; kuninglik; prius; stuart; stewart
+3,3,1,1,0,0,1,1,1,19,šotimaa; kuninglik; prius; stuart; stewart
+3,2,1,0,0,1,1,1,1,19,šotimaa; kuninglik; prius; stuart
+4,1,1,2,0,0,1,1,1,19,margaret; šotimaa; prius; kindlusloss; stuart; stewart
+1,2,1,0,0,1,0,2,1,19,šotimaa; kindlusloss; stuart; stewart
+1,1,1,0,0,0,0,2,1,19,šotimaa; stewart
+0,1,1,0,0,0,1,3,1,19,šotimaa; margaret; kindlusloss; stewart
+0,0,1,0,0,1,1,4,1,19,šotimaa; margaret; robert; kindlusloss; stewart

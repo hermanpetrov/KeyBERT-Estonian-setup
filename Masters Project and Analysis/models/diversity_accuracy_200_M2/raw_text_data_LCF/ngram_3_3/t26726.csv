@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,7,5,8,6,6,7,7,5,13,komöödia; august; vigased; ärkamisaeg; pruudid; kitzberg; kosjasõit; kirjandus; realism; laulumäng; vilde; kriitiline
-8,8,4,9,6,6,7,8,5,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-7,8,6,8,5,6,6,9,5,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-7,8,6,8,4,7,6,9,5,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-7,8,7,8,4,6,6,10,4,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-7,4,9,9,6,6,5,9,5,13,august; vigased; pruudid; kosjasõit; kirjandus; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-9,6,7,8,6,7,7,10,5,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-5,4,7,8,7,5,6,6,6,13,komöödia; august; vigased; ärkamisaeg; pruudid; kitzberg; kosjasõit; kirjandus; realism; laulumäng; vilde; kriitiline
-5,7,6,5,7,5,7,8,6,13,august; vigased; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-1,7,7,5,7,7,4,6,6,13,vigased; august; pruudid; kosjasõit; kirjandus; laulumäng; kriitiline; komöödia; ärkamisaeg; kitzberg; realism; vilde
-3,8,6,6,7,4,5,6,6,13,komöödia; august; vigased; ärkamisaeg; pruudid; kitzberg; kosjasõit; kirjandus; realism; laulumäng; vilde; kriitiline
+8,7,5,8,6,7,7,5,0,13,vigased; kriitiline; realism; laulumäng; kitzberg; komöödia; august; ärkamisaeg; pruudid; vilde; kirjandus; kosjasõit
+8,8,4,9,6,7,8,5,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+7,8,6,8,5,6,9,5,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+7,8,6,8,4,6,9,5,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+7,8,7,8,4,6,10,4,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+7,4,9,9,6,5,9,5,0,13,realism; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+9,6,7,8,6,7,10,5,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+5,4,7,8,7,6,6,6,0,13,vigased; kriitiline; realism; laulumäng; kitzberg; komöödia; august; ärkamisaeg; pruudid; vilde; kirjandus; kosjasõit
+5,7,6,5,7,7,8,6,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+1,7,7,5,7,4,6,6,0,13,realism; laulumäng; ärkamisaeg; kirjandus; kosjasõit; vigased; kriitiline; kitzberg; komöödia; august; pruudid; vilde
+3,8,6,6,7,5,6,6,0,13,vigased; kriitiline; realism; laulumäng; kitzberg; komöödia; august; ärkamisaeg; pruudid; vilde; kirjandus; kosjasõit

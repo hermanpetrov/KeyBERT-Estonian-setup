@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,1,1,0,11,maaparandaja; polder
 0,0,0,0,0,0,1,1,0,11,maaparandaja; polder
 0,0,1,0,0,0,1,1,0,11,maaparandaja; polder; ekskavaator
-0,0,1,0,0,0,2,1,0,11,maaparandaja; polder; ekskavaator
+0,0,1,0,0,0,2,1,0,11,polder; maaparandaja; ekskavaator
 0,0,1,0,0,0,1,1,0,11,maaparandaja; ekskavaator
-1,0,1,0,0,0,0,2,0,11,maaparandaja; polder; ekskavaator
-0,0,1,0,0,1,1,2,0,11,polder; emajõgi; maaparandaja; ekskavaator
-0,0,1,0,0,0,1,2,0,11,maaparandaja; polder; ekskavaator
-1,0,1,1,0,0,1,1,0,11,uno; polder; emajõgi; maaparandaja; ekskavaator
+1,0,1,0,0,0,0,2,0,11,polder; maaparandaja; ekskavaator
+0,0,1,0,0,1,1,2,0,11,polder; ekskavaator; maaparandaja; emajõgi
+0,0,1,0,0,0,1,2,0,11,polder; maaparandaja; ekskavaator
+1,0,1,1,0,0,1,1,0,11,uno; polder; ekskavaator; maaparandaja; emajõgi

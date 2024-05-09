@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,1,17,arne
-0,0,0,0,0,0,0,0,1,17,arne
-0,0,0,0,0,0,0,0,1,17,arne
-0,0,0,0,0,0,0,0,1,17,arne
-0,0,0,0,0,0,0,0,1,17,arne
-0,0,0,0,0,3,0,0,1,17,janek; arne; urmas; vadi
-0,0,0,0,0,3,2,0,1,17,arne; nali; oidipus; krull; urmas; vadi
-0,0,0,0,0,3,2,2,1,17,arne; pehk; kraav; krull; urmas; vadi
-0,0,0,1,0,3,3,1,0,17,arne; krull; urmas; vadi
-0,0,1,1,0,4,2,2,0,17,arne; kraav; krull; urmas; merilai; vadi
-0,0,0,0,0,3,2,2,0,17,arne; hasso; krull; urmas; merilai; vadi
+0,0,0,0,0,1,1,1,1,17,arne; luulekogu
+0,0,0,0,0,1,1,1,1,17,arne; luulekogu
+0,0,0,0,0,1,1,1,1,17,arne; luulekogu
+0,0,0,0,0,1,1,1,1,17,arne; luulekogu
+0,0,0,0,0,1,1,0,1,17,arne; luulekogu
+0,0,0,0,0,3,0,0,1,17,janek; arne; vadi; urmas
+1,0,0,1,0,3,2,1,1,17,oidipus; nali; arne; urmas; krull; vadi; polüfoonilisus
+0,0,0,0,0,3,3,4,1,17,kraav; urmas; pehk; vadi; polüfoonilisus; arne; luulekogu; krull
+0,0,0,1,0,3,4,3,0,17,urmas; vadi; polüfoonilisus; arne; luulekogu; krull
+0,0,1,1,0,4,3,2,0,17,kraav; merilai; arne; luulekogu; urmas; krull; vadi
+0,0,0,0,0,3,3,2,0,17,merilai; arne; luulekogu; urmas; hasso; krull; vadi

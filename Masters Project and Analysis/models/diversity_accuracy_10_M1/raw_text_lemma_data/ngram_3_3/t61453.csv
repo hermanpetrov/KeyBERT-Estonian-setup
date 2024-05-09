@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,1,0,1,2,2,0,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-1,2,3,1,0,1,2,2,0,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-1,2,3,1,0,1,2,2,1,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-1,2,3,1,0,1,2,2,1,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-1,2,3,1,0,1,2,2,1,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-1,2,3,1,0,1,2,2,1,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-2,0,3,1,0,0,1,5,1,12,rütmika; muusika; nigeeria; popmuusika; kambja; lääne-aafrika
-1,0,2,1,0,2,2,3,1,12,kambja; rütmika; nigeeria; muusika; ansambel; lääne-aafrika
-0,1,1,2,0,0,0,3,1,12,kambja; muusika; nigeeria; lääne-aafrika
-0,1,2,4,0,0,0,3,1,12,kambja; muusika; nigeeria; popmuusika; lääne-aafrika
-0,0,2,2,0,0,0,3,1,12,kambja; nigeeria; muusika; ansambel; lääne-aafrika
+1,4,3,1,0,3,4,3,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+1,4,3,1,0,3,4,3,0,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+1,4,3,1,0,3,4,3,1,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+1,4,3,1,0,3,4,3,1,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+1,4,3,1,0,3,4,3,1,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+1,4,3,1,0,3,4,3,1,12,kambja; rahvamuusika; popmuusika; muusika; eikellegimaa; nigeeria; lääne-aafrika
+2,1,3,1,0,2,3,6,1,12,kambja; rahvamuusika; popmuusika; muusika; nigeeria; lääne-aafrika; eikellegimaa; rütmika
+1,0,2,1,0,3,4,4,1,12,kambja; rahvamuusika; ansambel; muusika; lääne-aafrika; eikellegimaa; nigeeria; rütmika
+0,2,2,2,0,1,1,5,1,12,kambja; rahvamuusika; muusika; eikellegimaa; lääne-aafrika; nigeeria
+0,2,2,4,0,1,1,4,1,12,kambja; rahvamuusika; popmuusika; muusika; lääne-aafrika; eikellegimaa; nigeeria
+0,0,2,2,0,1,1,3,1,12,ansambel; muusika; lääne-aafrika; eikellegimaa; nigeeria; kambja; rahvamuusika

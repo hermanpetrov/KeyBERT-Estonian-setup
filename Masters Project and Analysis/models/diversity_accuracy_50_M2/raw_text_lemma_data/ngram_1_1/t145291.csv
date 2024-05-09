@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,0,0,13,leho; saladus
-0,0,1,0,0,1,1,0,0,13,leho; saladus
-0,0,1,0,0,1,1,0,0,13,leho; saladus
-0,0,1,0,0,1,1,0,0,13,leho; saladus
-0,0,1,0,0,1,1,0,0,13,leho; saladus
-0,0,1,0,0,1,0,0,0,13,leho; saladus
-0,0,1,0,0,1,0,0,0,13,leho; saladus
-0,0,1,0,0,1,0,0,0,13,leho; saladus
-0,0,1,0,0,2,0,0,0,13,leho; suvi; saladus
-0,0,0,0,0,2,0,0,0,13,leho; suvi
-1,0,1,1,0,2,0,0,0,13,leho; kont; suvi; saladus
+2,0,1,0,0,1,2,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,2,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,2,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,2,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,2,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,1,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,0,1,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,0,1,0,0,1,0,0,0,13,õudusjutt; sõjalennuk; leho; saladus
+1,0,1,0,0,2,0,0,0,13,õudusjutt; leho; suvi; saladus
+1,0,0,0,0,3,0,0,0,13,õudusjutt; suvi; leho
+2,0,1,1,0,3,0,0,0,13,õudusjutt; suvi; kont; leho; saladus

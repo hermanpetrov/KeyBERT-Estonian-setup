@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,2,0,0,15,tark; jaroslav; institutsioon
-0,1,0,0,0,0,2,0,0,15,tark; jaroslav; institutsioon
-0,1,0,0,0,0,2,0,0,15,tark; jaroslav; institutsioon
-0,1,0,0,0,0,2,0,0,15,tark; jaroslav; institutsioon
-0,1,0,0,0,0,2,0,0,15,tark; jaroslav; institutsioon
-0,1,0,0,0,1,2,0,0,15,tark; jaroslav; institutsioon
-0,1,2,1,0,1,2,1,0,15,jaroslav; lääne-euroopa; institutsioon; tark; tartu; ordu
-0,2,1,0,0,2,1,1,0,15,institutsioon; tark; ordu
-0,1,1,1,0,1,1,1,0,15,jaroslav; institutsioon; tark; ordu
-0,1,1,1,0,1,0,1,0,15,jaroslav; institutsioon; tark; tartu; ordu
-0,1,0,1,0,0,0,0,0,15,tartu; jaroslav
+1,1,2,0,0,1,5,3,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; toomkirik; ametikoht
+1,1,2,0,0,1,5,3,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; toomkirik; ametikoht
+1,1,2,0,0,1,5,3,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; toomkirik; ametikoht
+1,1,3,0,0,1,5,3,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; toomkirik; ametikoht
+1,1,3,0,0,1,5,2,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; toomkirik; ametikoht
+1,1,2,0,0,1,4,2,1,15,toomhärra; institutsioon; ülikool; kloostrielu; tark; jaroslav; piiskopkond; ametikoht
+0,1,3,1,0,1,3,2,1,15,toomhärra; institutsioon; ülikool; lääne-euroopa; tark; tartu; jaroslav; piiskopkond; ordu; ametikoht
+0,2,2,1,0,2,1,1,1,15,toomhärra; ordu; institutsioon; ülikool; ametikoht; tark
+0,1,1,3,0,1,1,1,1,15,ordu; institutsioon; ülikool; jaroslav; tark; piiskopkond
+0,1,1,3,0,1,0,1,1,15,ordu; tark; institutsioon; ülikool; jaroslav; tartu; piiskopkond
+0,1,1,3,0,0,0,0,1,15,ülikool; ametikoht; jaroslav; tartu; piiskopkond

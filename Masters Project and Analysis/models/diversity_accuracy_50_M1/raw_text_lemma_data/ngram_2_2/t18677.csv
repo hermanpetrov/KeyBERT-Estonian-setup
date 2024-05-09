@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,1,2,0,0,1,1,16,henry; loss; esimene; elizabeth; sõda; robert
-2,3,1,1,2,0,0,1,1,16,henry; loss; esimene; elizabeth; sõda; robert
-2,3,1,1,2,0,0,1,1,16,henry; loss; esimene; elizabeth; sõda; robert
-2,3,2,1,2,0,0,1,1,16,henry; esimene; robert; loss; bob; elizabeth; sõda
-2,2,2,1,2,0,0,1,1,16,henry; loss; bob; esimene; sõda; robert
-2,2,2,1,2,1,0,3,1,16,henry; esimene; robert; loss; bob; sõda
-2,1,2,2,2,2,1,2,2,16,henry; esimene; robert; loss; bob; elizabeth; edward
-1,5,3,4,2,2,0,2,2,16,henry; esimene; robert; loss; elizabeth; bob; kolmas; dylan
-1,4,2,5,3,3,0,6,2,16,henry; esimene; robert; loss; bob; kolmas; elizabeth; dylan; sõda; edward
-1,2,1,4,3,2,0,3,4,16,esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; edward
-4,4,2,3,5,3,0,4,3,16,esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda; edward
+2,5,2,2,2,1,1,2,1,16,elizabeth; robert; mägismaa; sõda; sotimaa; loss; esimene; henry
+2,5,2,2,2,1,1,2,1,16,elizabeth; robert; mägismaa; sõda; sotimaa; loss; esimene; henry
+2,5,2,2,2,1,1,2,1,16,elizabeth; robert; mägismaa; sõda; sotimaa; loss; esimene; henry
+2,5,3,2,2,1,1,2,1,16,elizabeth; robert; mägismaa; bob; sõda; sotimaa; loss; esimene; henry
+2,4,2,2,2,1,1,2,1,16,robert; mägismaa; bob; sotimaa; sõda; loss; esimene; henry
+2,4,2,2,2,2,1,5,1,16,robert; mägismaa; bob; sotimaa; sõda; kaljukindlus; loss; esimene; henry
+2,2,2,2,2,5,1,3,2,16,elizabeth; mägismaa; robert; edward; bob; sotimaa; kaljukindlus; loss; esimene; henry
+1,6,4,4,2,3,0,4,2,16,elizabeth; mägismaa; robert; kolmas; bob; dylan; sotimaa; kaljukindlus; loss; esimene; henry
+2,5,2,5,3,4,1,6,2,16,elizabeth; robert; mägismaa; edward; kolmas; bob; sotimaa; kaljukindlus; dylan; sõda; esimene; loss; henry
+2,3,1,4,3,3,0,4,4,16,elizabeth; robert; mägismaa; edward; kolmas; bob; dylan; kaljukindlus; sotimaa; koloonia; loss; esimene
+5,6,2,3,5,4,0,4,3,16,elizabeth; mägismaa; robert; edward; kolmas; bob; sõda; kaljukindlus; dylan; sotimaa; koloonia; loss; esimene

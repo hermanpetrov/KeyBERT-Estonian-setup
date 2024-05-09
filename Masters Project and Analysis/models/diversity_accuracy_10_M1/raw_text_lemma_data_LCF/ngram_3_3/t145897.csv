@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,1,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,1,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,1,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,1,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,0,1,0,0,0,2,1,12,jõgis; andres; estonia; viiul; köster; näitleja
-2,1,1,0,0,0,0,3,1,12,jõgis; andres; estonia; teater; viiul; köster
-2,1,0,1,0,0,0,2,1,12,jõgis; andres; estonia; teater; viiul; köster
-2,3,0,1,0,0,0,2,1,12,jõgis; andres; estonia; teater; viiul; köster
-2,2,1,0,0,0,0,2,1,12,jõgis; andres; estonia; teater; viiul; köster
-4,2,1,1,1,0,0,5,1,12,andres; estonia; leib; teater; köster; näitleja; jõgis; teenima; viiul
+3,1,1,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+3,1,1,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+3,1,1,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+3,1,1,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+3,1,1,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+3,1,0,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; näitleja; estonia
+2,1,1,0,0,0,0,3,1,12,jõgis; andres; köster; viiul; teater; estonia
+3,1,0,1,0,0,0,2,1,12,jõgis; viiul; andres; köster; laulukoor; teater; estonia
+2,3,0,3,0,0,0,2,1,12,jõgis; viiul; loorberipärg; andres; köster; laulukoor; teater; estonia
+2,2,1,0,0,0,0,2,1,12,jõgis; andres; köster; viiul; teater; estonia
+4,2,1,1,1,0,0,5,1,12,köster; viiul; näitleja; teenima; jõgis; andres; leib; teater; estonia

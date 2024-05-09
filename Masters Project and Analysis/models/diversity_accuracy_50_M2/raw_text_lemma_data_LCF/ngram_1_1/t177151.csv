@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,1,4,2,3,3,1,21,festival; eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,3,2,1,4,2,3,3,1,21,festival; eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,3,2,1,4,2,3,3,1,21,festival; eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,3,2,1,4,2,3,3,1,21,festival; eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,3,2,1,4,3,3,3,1,21,festival; eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,2,2,1,4,1,2,3,1,21,eurosonic; rock; alter; holland; the; raadio; dragons; soonik; roll
-2,1,2,1,4,3,2,2,1,21,festival; eurosonic; alter; holland; the; raadio; dragons; roll
-1,0,2,0,4,3,3,1,1,21,festival; eurosonic; alter; erki; the; raadio; dragons; roll
-1,1,2,2,4,2,3,1,1,21,festival; eurosonic; rock; alter; erki; the; raadio; roll; kaks
-0,0,1,0,4,4,2,1,0,21,festival; eurosonic; alter; two; erki; the; raadio; roll
-0,0,1,0,4,4,2,1,0,21,festival; eurosonic; alter; two; the; raadio; roll
+2,3,2,1,4,2,3,3,1,21,roll; alter; rock; dragons; raadio; soonik; eurosonic; the; holland; festival
+2,3,2,1,4,2,3,3,1,21,roll; alter; rock; dragons; raadio; soonik; eurosonic; the; holland; festival
+2,3,2,1,4,2,3,3,1,21,roll; alter; rock; dragons; raadio; soonik; eurosonic; the; holland; festival
+2,3,2,1,4,2,3,3,1,21,roll; alter; rock; dragons; raadio; soonik; eurosonic; the; holland; festival
+2,3,2,1,4,3,3,3,1,21,roll; alter; rock; dragons; raadio; soonik; eurosonic; the; holland; festival
+2,2,2,1,4,1,2,3,1,21,roll; alter; rock; dragons; raadio; eurosonic; the; holland; soonik
+2,1,2,1,4,3,2,2,1,21,roll; alter; dragons; raadio; eurosonic; the; holland; festival
+1,0,2,1,4,3,3,1,1,21,meisterjaan; roll; alter; dragons; raadio; eurosonic; the; erki; festival
+1,1,2,2,4,2,3,1,1,21,roll; alter; rock; raadio; eurosonic; the; kaks; erki; festival
+0,0,1,0,4,4,2,1,0,21,roll; alter; raadio; eurosonic; two; the; erki; festival
+0,0,1,0,4,4,2,1,0,21,roll; alter; raadio; eurosonic; two; the; festival

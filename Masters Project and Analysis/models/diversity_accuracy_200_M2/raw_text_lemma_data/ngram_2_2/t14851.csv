@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,2,1,1,1,5,3,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-4,4,5,2,1,1,2,4,3,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-4,4,5,3,1,2,3,4,4,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-4,4,5,3,1,3,3,4,4,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-4,4,3,3,1,3,4,6,4,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-4,4,2,3,0,5,4,5,4,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-6,5,3,4,1,4,1,5,5,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-3,5,4,4,2,4,4,4,5,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-5,5,4,4,4,5,4,4,5,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-3,5,3,4,2,3,3,3,5,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
-3,5,2,4,4,4,4,4,7,12,akadeemia; füüsika; gustav; hüpotees; naan; teadus; sõda
+8,5,6,4,1,1,1,6,5,12,teadus; füüsika; ülikool; akadeemia; partisaniliikumine; hüpotees; lapsepõlv; naan; sõda; gustav; elustrateegia
+8,5,7,4,1,1,2,6,5,12,teadus; füüsika; ülikool; akadeemia; partisaniliikumine; hüpotees; lapsepõlv; naan; sõda; gustav; elustrateegia
+7,6,7,5,1,3,3,6,6,12,teadus; füüsika; ülikool; akadeemia; partisaniliikumine; hüpotees; lapsepõlv; naan; sõda; gustav; elustrateegia
+7,7,7,5,1,4,4,6,6,12,teadus; füüsika; ülikool; akadeemia; partisaniliikumine; hüpotees; lapsepõlv; naan; sõda; gustav; elustrateegia
+7,7,6,5,1,4,6,8,6,12,teadus; füüsika; ülikool; akadeemia; naan; lapsepõlv; sõda; gustav; partisaniliikumine; hüpotees; elustrateegia
+7,6,4,5,0,6,6,8,6,12,teadus; füüsika; ülikool; akadeemia; naan; lapsepõlv; sõda; gustav; partisaniliikumine; hüpotees; elustrateegia
+8,5,5,6,1,5,3,8,7,12,teadus; füüsika; ülikool; akadeemia; naan; lapsepõlv; sõda; gustav; hüpotees; partisaniliikumine; elustrateegia
+4,5,6,7,2,6,6,8,6,12,teadus; füüsika; ülikool; akadeemia; naan; lapsepõlv; sõda; gustav; hüpotees; partisaniliikumine; elustrateegia
+6,6,7,7,5,6,7,7,6,12,teadus; füüsika; ülikool; naan; akadeemia; hüpotees; lapsepõlv; partisaniliikumine; sõda; gustav; elustrateegia
+4,5,5,7,2,5,6,5,7,12,teadus; füüsika; ülikool; akadeemia; hüpotees; naan; lapsepõlv; partisaniliikumine; sõda; gustav; elustrateegia
+3,6,5,8,4,6,5,7,9,12,teadus; füüsika; ülikool; akadeemia; naan; lapsepõlv; sõda; gustav; hüpotees; partisaniliikumine; elustrateegia

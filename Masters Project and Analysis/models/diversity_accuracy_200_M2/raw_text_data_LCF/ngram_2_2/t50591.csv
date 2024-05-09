@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,9,6,7,6,7,4,8,5,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-10,9,6,7,6,7,5,8,6,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-10,9,8,7,6,7,5,8,6,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-10,9,9,7,6,7,6,8,6,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-9,9,9,7,6,7,6,8,6,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-9,9,9,7,5,7,7,9,7,12,võistlus; lauskmaa; naisekandmine; birgit; ulrich; strateegia; uusorg; margo; veetakistus; distants
-9,9,10,9,7,9,7,9,8,12,võistlus; naisekandmine; birgit; ulrich; strateegia; uusorg; distants; margo; veetakistus; lauskmaa
-8,9,10,8,6,10,8,8,8,12,võistlus; naisekandmine; birgit; ulrich; strateegia; uusorg; distants; margo; veetakistus; lauskmaa
-8,9,9,9,9,9,8,9,8,12,võistlus; naisekandmine; birgit; ulrich; strateegia; uusorg; distants; margo; veetakistus; lauskmaa
-4,7,9,9,9,7,8,8,9,12,võistlus; naisekandmine; birgit; ulrich; strateegia; uusorg; distants; margo; veetakistus; lauskmaa
-3,6,7,9,8,7,9,9,10,12,võistlus; naisekandmine; birgit; ulrich; strateegia; uusorg; distants; margo; veetakistus; lauskmaa
+10,9,6,7,6,4,8,5,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+10,9,6,7,6,5,8,6,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+10,9,8,7,6,5,8,6,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+10,9,9,7,6,6,8,6,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+9,9,9,7,6,6,8,6,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+9,9,9,7,5,7,9,7,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+9,9,10,9,7,7,9,8,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+8,9,10,8,6,8,8,8,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+8,9,9,9,9,8,9,8,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+4,7,9,9,9,8,8,9,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich
+3,6,7,9,8,9,9,10,0,12,veetakistus; lauskmaa; birgit; distants; strateegia; uusorg; margo; võistlus; naisekandmine; ulrich

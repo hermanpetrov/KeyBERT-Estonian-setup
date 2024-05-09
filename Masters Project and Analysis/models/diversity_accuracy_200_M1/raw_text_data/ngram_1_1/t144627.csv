@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,3,1,0,1,2,2,3,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul
-4,1,3,1,1,1,2,2,4,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul; viktor
-4,1,2,1,1,0,2,2,4,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul; viktor
-4,1,2,1,1,1,3,2,4,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul; viktor; marje
-4,1,2,1,1,3,4,2,4,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul; viktor; marje
-4,1,3,2,1,3,2,2,3,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; ebaõnnestumine; smuul; viktor; marje
-0,1,2,3,1,2,3,3,3,14,lenk; lavakunstikateeder; õpilane; kriitika; näitleja; smuul; viktor; marje; juhan
-0,1,4,1,1,3,3,1,3,14,lenk; lavakunstikateeder; õpilane; kriitika; ebaõnnestumine; smuul; viktor; marje; juhan
-0,0,2,2,2,2,0,2,3,14,lenk; lavakunstikateeder; kriitika; ebaõnnestumine; smuul; viktor; marje; juhan
-0,1,2,2,2,2,0,2,4,14,lenk; lavakunstikateeder; kriitika; ebaõnnestumine; smuul; viktor; marje; juhan
-0,1,1,3,3,1,0,2,4,14,lenk; lavakunstikateeder; näitleja; ebaõnnestumine; smuul; viktor; marje; juhan
+4,1,3,1,0,1,2,2,3,14,kriitika; näitleja; smuul; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+4,1,3,1,1,1,2,2,4,14,kriitika; viktor; näitleja; smuul; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+4,1,2,1,1,0,2,2,4,14,kriitika; viktor; näitleja; smuul; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+4,1,2,1,1,1,3,2,4,14,kriitika; viktor; näitleja; smuul; marje; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+4,1,2,1,1,3,4,2,4,14,kriitika; viktor; smuul; näitleja; marje; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+4,1,3,2,1,3,2,2,3,14,kriitika; viktor; näitleja; smuul; marje; ebaõnnestumine; õpilane; lavakunstikateeder; lenk
+0,1,2,3,1,2,3,3,3,14,kriitika; viktor; näitleja; smuul; marje; õpilane; juhan; lavakunstikateeder; lenk
+0,1,4,1,1,3,3,1,3,14,kriitika; viktor; smuul; marje; ebaõnnestumine; õpilane; juhan; lavakunstikateeder; lenk
+0,0,2,2,2,2,0,2,3,14,kriitika; viktor; smuul; marje; ebaõnnestumine; juhan; lavakunstikateeder; lenk
+0,1,2,2,2,2,0,2,4,14,kriitika; viktor; smuul; marje; ebaõnnestumine; juhan; lavakunstikateeder; lenk
+0,1,1,3,3,1,0,2,4,14,viktor; näitleja; smuul; marje; ebaõnnestumine; juhan; lavakunstikateeder; lenk

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,2,0,1,2,3,0,13,disainer; kristina; paju; tants; tartu; kõrgem; moeetendus
-0,1,2,2,0,1,2,3,0,13,disainer; kristina; paju; tants; tartu; kõrgem; moeetendus
-0,1,2,2,0,1,2,3,0,13,disainer; kristina; paju; tants; tartu; kõrgem; moeetendus
-0,1,2,1,0,1,2,3,0,13,disainer; kristina; paju; tants; tartu; kõrgem; moeetendus
-0,1,1,1,0,1,2,3,0,13,disainer; kristina; paju; tants; tartu; kõrgem
-0,1,2,1,0,1,2,2,0,13,disainer; kristina; tants; tartu; kõrgem; moeetendus
-0,0,2,2,0,3,2,3,1,13,disainer; anatoomikum; kristina; paju; tants; kollektsioon; tartu; moeetendus
-2,0,2,1,0,4,2,4,1,13,disainer; paju; moeetendus; lavastaja; kristina; tants; kollektsioon; tartu
-2,1,1,1,0,1,2,4,0,13,disainer; lavastaja; anatoomikum; kristina; tants; kollektsioon; tartu
-2,1,1,0,0,1,3,3,1,13,disainer; paju; tartu; kollektsioon; tants; moeetendus
-2,3,1,2,0,2,3,3,1,13,disainer; paju; moeetendus; lavastaja; kristina; tants; kollektsioon; tartu
+0,1,2,3,0,1,2,3,0,13,moeetendus; tartu; disainer; kristina; kunstikool; kõrgem; paju; tants
+0,1,2,3,0,1,2,3,0,13,moeetendus; tartu; disainer; kristina; kunstikool; kõrgem; paju; tants
+0,1,2,3,0,1,2,3,0,13,moeetendus; tartu; disainer; kristina; kunstikool; kõrgem; paju; tants
+0,1,2,2,0,1,2,3,0,13,moeetendus; tartu; disainer; kristina; kunstikool; kõrgem; paju; tants
+0,1,1,2,0,1,2,3,0,13,tartu; kunstikool; kristina; kõrgem; disainer; paju; tants
+0,1,2,2,0,1,2,2,0,13,tartu; moeetendus; kunstikool; kristina; kõrgem; disainer; tants
+0,0,2,2,0,3,2,3,1,13,tartu; moeetendus; anatoomikum; kristina; disainer; kollektsioon; paju; tants
+2,0,2,2,0,4,2,4,1,13,moeetendus; aksessuaar; tartu; kollektsioon; disainer; kristina; lavastaja; paju; tants
+2,1,1,1,0,1,2,4,0,13,tartu; disainer; kollektsioon; kristina; lavastaja; anatoomikum; tants
+2,1,1,0,0,1,3,3,1,13,tartu; moeetendus; disainer; kollektsioon; paju; tants
+2,3,1,2,0,2,3,3,1,13,moeetendus; tartu; kristina; disainer; kollektsioon; lavastaja; paju; tants

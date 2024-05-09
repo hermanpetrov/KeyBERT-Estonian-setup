@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,7,5,3,5,3,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-6,6,7,5,3,5,3,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-7,6,7,5,3,5,4,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-7,6,7,5,3,5,5,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-8,6,8,5,3,4,5,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-8,6,8,5,5,6,7,6,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-9,5,8,8,7,7,8,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-9,5,7,7,7,7,8,7,5,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-9,5,8,8,9,6,8,6,7,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-8,7,8,8,8,8,8,7,7,12,jooks; vaheoja; indrek; trepp; seljakott; madis; korrus; aesma; tuletõrje
-6,6,8,8,9,8,8,6,7,12,jooks; vaheoja; indrek; trepp; seljakott; korrus; madis; aesma; tuletõrje
+6,6,7,5,3,3,7,5,0,12,seljakott; madis; korrus; tuletõrje; vaheoja; jooks; aesma; indrek; trepp
+6,6,7,5,3,3,7,5,0,12,seljakott; madis; korrus; tuletõrje; vaheoja; jooks; aesma; indrek; trepp
+7,6,7,5,3,4,7,5,0,12,seljakott; trepp; madis; korrus; tuletõrje; vaheoja; aesma; indrek; jooks
+7,6,7,5,3,5,7,5,0,12,seljakott; trepp; madis; korrus; tuletõrje; vaheoja; aesma; indrek; jooks
+8,6,8,5,3,5,7,5,0,12,seljakott; trepp; madis; korrus; tuletõrje; vaheoja; aesma; indrek; jooks
+8,6,8,5,5,7,6,5,0,12,seljakott; trepp; madis; korrus; tuletõrje; vaheoja; aesma; indrek; jooks
+9,5,8,8,7,8,7,5,0,12,seljakott; madis; tuletõrje; korrus; jooks; vaheoja; aesma; indrek; trepp
+9,5,7,7,7,8,7,5,0,12,seljakott; madis; korrus; tuletõrje; jooks; vaheoja; aesma; indrek; trepp
+9,5,8,8,9,8,6,7,0,12,seljakott; madis; tuletõrje; korrus; jooks; vaheoja; aesma; indrek; trepp
+8,7,8,8,8,8,7,7,0,12,seljakott; madis; korrus; tuletõrje; jooks; vaheoja; aesma; indrek; trepp
+6,6,8,8,9,8,6,7,0,12,seljakott; madis; korrus; tuletõrje; jooks; vaheoja; aesma; indrek; trepp

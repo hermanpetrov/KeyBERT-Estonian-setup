@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,0,3,2,3,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,1,0,0,3,2,3,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,1,0,0,3,2,3,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,1,0,0,3,2,3,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,1,0,0,3,2,3,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,0,0,0,2,2,2,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,0,0,0,2,2,2,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-2,1,0,0,0,2,2,1,3,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-0,1,0,1,0,2,1,0,3,12,antoloogia; tõlgendus; luuletaja; eesti; luule; mõistatus
-3,1,0,1,0,1,1,0,2,12,mõistatus; tõlgendus; luuletaja; eesti; luule; antoloogia
-1,1,0,0,0,1,1,0,2,12,mõistatus; tõlgendus; eesti; antoloogia
+4,3,4,0,0,7,6,6,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,4,0,0,7,6,6,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,4,0,0,7,6,6,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,4,0,0,7,6,6,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,3,0,0,7,5,6,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,1,0,0,6,5,5,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+4,3,1,1,0,5,5,5,3,12,luuletaja; tõlgendus; luulemaailm; eesti; kunstiteos; antoloogia; mõistatus; lauluvihik; luulealbum; luule
+3,3,0,2,0,3,3,2,3,12,luuletaja; tõlgendus; luulemaailm; eesti; antoloogia; mõistatus; lauluvihik; luulealbum; luule; lillekimp
+0,3,0,2,0,3,2,1,3,12,luuletaja; tõlgendus; eesti; antoloogia; lauluvihik; mõistatus; luulealbum; lillekimp; luule
+3,3,0,2,0,2,3,1,2,12,luuletaja; tõlgendus; eesti; antoloogia; lauluvihik; mõistatus; luulealbum; luule; lillekimp
+4,2,0,0,0,2,2,1,2,12,tõlgendus; lauluvihik; mõistatus; eesti; luulealbum; kunstiteos; antoloogia; lillekimp

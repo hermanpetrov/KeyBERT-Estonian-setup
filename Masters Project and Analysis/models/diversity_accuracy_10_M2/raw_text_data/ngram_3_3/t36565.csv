@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,1,0,1,1,3,0,15,mets; jurist; reimo; geiaktivist
-0,0,0,1,0,1,1,3,0,15,mets; jurist; reimo; geiaktivist
-0,0,0,1,0,1,1,3,0,15,mets; jurist; reimo; geiaktivist
-0,0,0,1,0,1,1,3,0,15,mets; jurist; reimo; geiaktivist
-0,0,0,1,0,1,1,1,0,15,geiaktivist; reimo
-0,0,0,1,0,1,1,1,0,15,geiaktivist; reimo
+0,0,0,1,0,1,1,3,0,15,geiaktivist; mets; reimo; jurist
+0,0,0,1,0,1,1,3,0,15,geiaktivist; mets; reimo; jurist
+0,0,0,1,0,1,1,3,0,15,geiaktivist; mets; reimo; jurist
+0,0,0,1,0,1,1,3,0,15,geiaktivist; mets; reimo; jurist
+0,0,0,1,0,1,1,1,0,15,reimo; geiaktivist
+0,0,0,1,0,1,1,1,0,15,reimo; geiaktivist
 0,0,0,0,0,1,0,0,0,15,reimo
-0,0,0,2,0,1,1,0,0,15,eesti; demokraatia; reimo
-1,0,0,0,0,3,3,0,0,15,mets; ööklubi; reimo; tõnis; haridus
-0,0,1,0,0,2,1,0,0,15,tõnis; reimo
-0,0,0,1,0,1,1,1,0,15,ühiskond; ööklubi; reimo
+0,0,0,2,0,1,1,0,0,15,demokraatia; reimo; eesti
+1,0,0,0,0,3,3,0,0,15,haridus; tõnis; mets; reimo; ööklubi
+0,0,1,0,0,2,1,0,0,15,reimo; tõnis
+0,0,0,1,0,1,1,1,0,15,reimo; ööklubi; ühiskond

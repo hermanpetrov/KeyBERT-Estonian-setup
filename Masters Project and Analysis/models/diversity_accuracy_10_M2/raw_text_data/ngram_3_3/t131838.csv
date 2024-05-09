@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,2,3,0,1,15,ed; kuuekümnendad; kuumad; biitlid; epstein
-1,0,0,0,0,2,3,0,1,15,ed; kuuekümnendad; kuumad; biitlid; epstein
-1,0,0,0,0,2,3,0,1,15,ed; kuuekümnendad; kuumad; biitlid; epstein
-1,0,0,0,0,2,3,0,1,15,ed; kuuekümnendad; kuumad; biitlid; epstein
-1,0,0,0,0,2,3,0,1,15,ed; kuuekümnendad; kuumad; biitlid; epstein
-1,0,0,0,0,3,4,0,1,15,ed; kuuekümnendad; maania; kuumad; biitlid; epstein
-0,0,1,0,0,4,2,2,1,15,kuuekümnendad; maania; biitlid; brian; epstein; kuumad
-1,0,0,1,0,3,2,3,1,15,kuuekümnendad; maania; biitlid; epstein; kuumad
-2,1,0,0,0,2,2,3,1,15,kuuekümnendad; biitlid; brian; epstein; kuumad
-3,0,2,0,0,3,2,0,0,15,kuuekümnendad; maania; brian; epstein; kuumad
-0,0,3,0,1,2,2,2,0,15,ed; kuuekümnendad; kuumad; biitlid
+1,0,0,0,0,2,3,0,1,15,biitlid; kuuekümnendad; epstein; kuumad; ed
+1,0,0,0,0,2,3,0,1,15,biitlid; kuuekümnendad; epstein; kuumad; ed
+1,0,0,0,0,2,3,0,1,15,biitlid; kuuekümnendad; epstein; kuumad; ed
+1,0,0,0,0,2,3,0,1,15,biitlid; kuuekümnendad; epstein; kuumad; ed
+1,0,0,0,0,2,3,0,1,15,biitlid; kuuekümnendad; epstein; kuumad; ed
+1,0,0,0,0,3,4,0,1,15,biitlid; maania; kuuekümnendad; epstein; kuumad; ed
+0,0,1,0,0,4,2,2,1,15,biitlid; maania; kuuekümnendad; epstein; brian; kuumad
+1,0,0,1,0,3,2,3,1,15,biitlid; maania; kuuekümnendad; epstein; kuumad
+2,1,0,0,0,2,2,3,1,15,biitlid; kuuekümnendad; epstein; brian; kuumad
+3,0,2,0,0,3,2,0,0,15,maania; kuuekümnendad; epstein; brian; kuumad
+0,0,3,0,1,2,2,2,0,15,biitlid; kuuekümnendad; kuumad; ed

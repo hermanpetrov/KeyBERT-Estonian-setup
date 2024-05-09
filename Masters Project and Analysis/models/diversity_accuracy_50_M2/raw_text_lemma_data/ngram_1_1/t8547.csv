@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,0,0,0,2,13,president; muusika
-0,1,1,0,1,0,0,0,2,13,president; muusika
-0,1,1,0,1,0,0,0,2,13,president; muusika
-0,1,1,0,1,0,0,0,2,13,president; muusika
-0,1,1,0,1,0,1,1,2,13,muusika; puhkus; liivia; president
-1,1,1,0,1,1,1,1,2,13,muusika; puhkus; liivia; president
-0,0,1,0,1,2,1,1,2,13,muusika; puhkus; liivia; president
-0,0,1,0,1,2,1,1,2,13,muusika; puhkus; liivia; president
-0,1,1,0,1,2,2,1,2,13,muusika; liivia; puhkus; president
-0,0,1,1,1,2,2,0,2,13,muusika; puhkus; liivia; tindur; president
-0,1,0,0,1,1,2,0,2,13,muusika; puhkus; liivia; president
+0,2,1,0,1,0,0,0,2,13,muusika; moekunstnik; president
+0,2,1,0,1,0,0,0,2,13,muusika; moekunstnik; president
+0,2,1,0,1,0,0,0,2,13,muusika; moekunstnik; president
+0,2,1,0,1,0,0,0,2,13,muusika; moekunstnik; president
+0,2,1,0,1,0,1,1,2,13,muusika; puhkus; moekunstnik; liivia; president
+1,2,1,0,1,2,1,1,2,13,muusika; puhkus; moekunstnik; vastuvõtt; liivia; president
+0,1,1,0,1,2,1,1,2,13,muusika; puhkus; moekunstnik; liivia; president
+0,1,1,0,1,2,1,2,2,13,muusika; puhkus; moekunstnik; vastuvõtt; liivia; president
+0,2,1,0,1,2,2,2,2,13,puhkus; muusika; moekunstnik; vastuvõtt; liivia; president
+0,2,1,1,1,2,2,1,2,13,puhkus; moekunstnik; tindur; vastuvõtt; liivia; president; haapsalu; muusika
+0,1,0,0,1,1,2,1,2,13,puhkus; muusika; vastuvõtt; liivia; president

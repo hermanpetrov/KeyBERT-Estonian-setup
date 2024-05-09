@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,7,3,3,7,4,7,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-6,4,8,4,3,6,4,7,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-7,4,7,4,2,6,3,6,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-7,5,7,4,3,4,3,6,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-7,5,6,4,3,4,3,5,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-7,5,5,5,4,5,5,5,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-5,5,5,6,3,4,5,4,4,11,puhkama; külaline; maastik; eesti; austraalia; ludwig; asundus; hoolitsemine
-5,6,4,6,3,4,6,5,4,11,puhkama; külaline; maastik; eesti; austraalia; ludwig; asundus; hoolitsemine
-5,5,4,7,2,4,5,6,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-5,5,3,7,4,3,6,5,5,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
-6,5,3,7,4,4,5,4,4,11,puhkama; külaline; maastik; austraalia; eesti; ludwig; asundus; hoolitsemine
+7,6,9,6,4,10,6,10,5,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+7,6,10,7,4,9,6,10,5,11,külaline; austraalia; kanakasvataja; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+8,6,9,7,3,9,5,9,5,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+9,7,9,7,4,7,5,9,5,11,külaline; austraalia; kanakasvataja; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+9,7,9,7,4,7,5,8,5,11,külaline; austraalia; kanakasvataja; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+10,7,8,8,5,8,8,8,5,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+7,7,8,8,3,6,8,6,6,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+7,7,7,8,3,6,9,6,6,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+8,6,6,8,2,5,8,9,6,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+8,7,4,8,5,4,9,8,7,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane
+9,6,5,8,4,5,8,6,7,11,kanakasvataja; austraalia; külaline; ludwig; eesti; puhkama; hoolitsemine; maastik; meeleliigutus; asundus; väliseestlane

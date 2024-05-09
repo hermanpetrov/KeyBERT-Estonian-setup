@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,2,0,0,0,0,0,0,12,esimene; koht
-0,1,2,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,1,0,0,0,0,0,0,12,esimene; koht
-0,1,0,0,0,0,0,0,0,12,koht
-0,1,0,1,0,0,0,0,0,12,koht; euroopa
+0,1,1,0,0,0,0,0,0,12,koht; esimene
+0,1,1,0,0,0,0,0,0,12,koht; esimene
+0,1,1,0,0,0,0,0,0,12,koht; esimene
+0,1,2,0,0,0,0,0,0,12,koht; esimene
+0,1,2,0,0,0,0,0,0,12,koht; esimene
+0,1,1,0,0,0,0,0,0,12,koht; esimene
+0,1,2,0,0,0,0,0,0,12,koht; raadiojaam; esimene
+0,1,1,0,0,0,0,1,0,12,koht; raadiojaam; esimene
+0,1,2,0,0,0,0,1,0,12,koht; raadiojaam; esimene
+0,2,0,0,0,0,0,1,0,12,koht; raadiojaam
+0,2,1,1,0,0,0,1,0,12,koht; raadiojaam; euroopa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,2,1,0,0,12,kanton; šveits
-0,1,0,0,0,2,1,0,0,12,kanton; šveits
-0,1,1,0,0,2,1,0,0,12,kanton; šveits
-0,1,2,0,0,2,1,0,0,12,kanton; šveits; genf
-0,1,2,0,0,2,1,0,0,12,kanton; šveits; genf
-0,1,2,0,0,1,0,0,0,12,kanton; šveits; genf
-0,1,2,0,0,0,1,0,0,12,šveits; genf
-0,1,0,0,0,1,1,0,0,12,kanton; cern
-0,0,1,0,0,1,1,0,0,12,kanton; genf
-0,1,1,0,0,1,1,0,0,12,kanton; cern; suusatamine; šveits
-0,1,1,0,0,0,2,1,0,12,mägi; kanton; cern; keel
+1,1,0,0,0,2,1,0,0,12,šveits; neutraliteet; kanton
+1,1,0,0,0,2,1,0,0,12,šveits; neutraliteet; kanton
+1,1,1,0,0,2,1,0,0,12,šveits; neutraliteet; kanton
+1,1,2,0,0,2,1,0,0,12,neutraliteet; genf; kanton; šveits
+1,1,2,0,0,2,1,0,0,12,neutraliteet; genf; kanton; šveits
+1,1,2,0,0,1,0,0,0,12,šveits; neutraliteet; genf; kanton
+1,1,3,0,0,0,1,0,0,12,maksusüsteem; genf; šveits
+1,1,1,0,0,1,1,1,0,12,maksusüsteem; neutraliteet; kanton; cern
+0,0,2,0,0,1,1,0,0,12,maksusüsteem; genf; kanton
+0,1,1,0,0,1,1,1,0,12,neutraliteet; suusatamine; kanton; šveits; cern
+0,1,1,0,0,0,2,1,0,12,keel; kanton; mägi; cern

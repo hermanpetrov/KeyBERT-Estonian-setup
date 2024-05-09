@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,9,10,6,5,8,8,7,7,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-7,9,10,6,5,8,8,7,7,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-7,9,10,6,6,8,8,6,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-7,9,10,5,7,10,8,7,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-8,8,10,5,8,8,9,9,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-8,6,10,5,8,9,9,8,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-9,7,10,4,8,9,9,9,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-8,6,10,7,8,7,9,9,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-7,6,9,9,9,7,9,9,6,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-8,6,9,9,10,7,8,9,7,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
-7,6,9,9,10,8,8,9,8,14,aasta; jäähoki; andres; kanada; televisiooni; hääl; senjoriita; kasekamp; trump; donald
+8,9,10,6,5,8,7,7,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+7,9,10,6,5,8,7,7,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+7,9,10,6,6,8,6,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+7,9,10,5,7,8,7,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+8,8,10,5,8,9,9,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+8,6,10,5,8,9,8,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+9,7,10,4,8,9,9,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+8,6,10,7,8,9,9,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+7,6,9,9,9,9,9,6,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+8,6,9,9,10,8,9,7,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki
+7,6,9,9,10,8,9,8,0,14,senjoriita; televisiooni; kasekamp; hääl; andres; kanada; donald; aasta; trump; jäähoki

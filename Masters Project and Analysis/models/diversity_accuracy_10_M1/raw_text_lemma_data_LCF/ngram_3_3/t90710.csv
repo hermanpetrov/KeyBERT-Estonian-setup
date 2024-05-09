@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,2,1,0,13,nakkus; peeter; meditsiin; vitamiin
-0,1,0,0,1,1,3,2,0,13,nakkus; hellat; vitamiin; meditsiin; peeter
-0,1,0,0,1,1,3,1,0,13,nakkus; vitamiin; meditsiin; peeter
-1,1,0,2,1,1,3,4,0,13,hellat; lõpp; sajand; vitamiin; peeter; nakkus; meditsiin
-0,1,0,0,1,1,3,3,0,13,nakkus; hellat; vitamiin; meditsiin; peeter
-0,1,0,1,1,1,4,3,0,13,nakkus; meditsiin; vitamiin; hellat; peeter
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+2,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+1,2,0,1,1,1,4,2,0,13,peeter; hellat; arstiteadus; vitamiin; pidalitõbi; nakkus; meditsiin
+1,2,0,1,1,2,3,1,0,13,peeter; nakkus; arstiteadus; meditsiin; vitamiin; pidalitõbi
+1,3,0,2,1,2,3,4,0,13,lõpp; peeter; hellat; sajand; arstiteadus; vitamiin; pidalitõbi; nakkus; meditsiin
+0,3,1,0,1,2,3,3,0,13,peeter; hellat; arstiteadus; vitamiin; pidalitõbi; nakkus; meditsiin
+1,3,0,1,1,1,5,3,0,13,peeter; hellat; arstiteadus; vitamiin; pidalitõbi; nakkus; meditsiin

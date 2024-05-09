@@ -1,9 +1,9 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,0,0,15,kino; film; televisioon
-0,1,1,0,0,1,1,0,0,15,kino; film; televisioon
-0,1,1,0,0,1,1,0,0,15,kino; film; televisioon
-0,1,1,0,0,1,1,0,0,15,kino; film; televisioon
-0,1,1,0,0,1,1,0,0,15,kino; film; televisioon
+0,1,2,0,0,1,1,0,0,15,film; kino; televisioon; dokumentaalfilm
+0,1,2,0,0,1,1,0,0,15,film; kino; televisioon; dokumentaalfilm
+0,1,2,0,0,1,1,0,0,15,film; kino; televisioon; dokumentaalfilm
+0,1,2,0,0,1,1,0,0,15,film; kino; televisioon; dokumentaalfilm
+0,1,2,0,0,1,1,0,0,15,film; kino; televisioon; dokumentaalfilm
 0,0,0,0,0,2,1,0,0,15,kino; televisioon
 0,0,0,0,0,2,1,0,0,15,kino; televisioon
 0,0,1,0,0,2,1,0,0,15,kino; televisioon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,4,3,3,3,3,3,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-3,5,4,3,3,3,3,3,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-3,5,4,3,2,3,3,4,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-3,6,4,3,4,4,3,4,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-4,6,5,3,4,4,1,6,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-5,5,6,3,4,4,3,4,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-4,5,6,4,5,4,4,4,5,14,krista; kerge; rikas; inglise; keel; hajumine; tõlgendus
-3,4,5,5,5,3,4,5,5,14,krista; kerge; inglise; keel; hajumine; tõlgendus
-4,5,6,5,5,4,4,3,5,14,krista; kerge; rikas; inglise; keel; hajumine; tõlgendus
-4,5,6,6,4,6,5,4,3,14,krista; kerge; rikas; inglise; keel; hajumine; tõlgendus
-5,6,5,4,4,4,4,4,4,14,krista; kerge; rikas; inglise; keel; hajumine; tõlgendus
+8,9,7,5,3,8,6,6,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+9,9,7,5,3,8,6,6,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+9,10,7,5,2,8,6,7,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+9,11,7,5,4,9,6,8,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+10,11,8,5,4,9,4,11,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+10,10,10,4,4,8,6,9,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+5,8,8,8,5,9,6,9,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; rikas; inglise; keel
+4,7,8,8,5,5,6,9,8,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; inglise; keel
+5,7,8,8,5,6,6,6,7,14,noortekeel; fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; rikas; inglise; keel
+4,8,8,8,4,9,7,6,5,14,fikseerimine; koolikeel; keelekorraldus; krista; rakenduslingvistika; tõlgendus; kerge; hajumine; ilukirjandus; rikas; inglise; keel
+5,7,7,6,4,5,6,7,6,14,rakenduslingvistika; tõlgendus; kerge; noortekeel; hajumine; ilukirjandus; fikseerimine; rikas; inglise; keel; koolikeel; krista

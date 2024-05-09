@@ -1,9 +1,9 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,1,0,1,0,19,võistlussport; põllumees
-1,0,1,0,0,1,0,1,0,19,võistlussport; põllumees
-1,0,1,0,0,1,0,1,0,19,võistlussport; põllumees
-1,0,0,0,0,1,0,1,0,19,võistlussport; põllumees
-1,0,0,0,0,1,0,1,0,19,võistlussport; põllumees
+1,0,1,0,0,1,0,1,0,19,põllumees; võistlussport
+1,0,1,0,0,1,0,1,0,19,põllumees; võistlussport
+1,0,1,0,0,1,0,1,0,19,põllumees; võistlussport
+1,0,0,0,0,1,0,1,0,19,põllumees; võistlussport
+1,0,0,0,0,1,0,1,0,19,põllumees; võistlussport
 1,0,1,0,0,0,0,0,0,19,võistlussport; sulev
 1,0,1,0,0,0,1,0,0,19,põllumees; võistlussport; sulev
 0,0,0,0,0,0,1,0,0,19,põllumees

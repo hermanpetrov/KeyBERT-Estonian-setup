@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,0,0,2,2,2,1,13,komöödia; kirjandus; vilde; kitzberg
-2,2,2,0,0,2,2,2,1,13,komöödia; kirjandus; vilde; kitzberg
-2,2,2,0,0,2,2,2,1,13,komöödia; kirjandus; vilde; kitzberg
-2,2,2,0,0,2,2,2,1,13,komöödia; kirjandus; vilde; kitzberg
-2,2,1,0,0,2,2,1,1,13,komöödia; kirjandus; vilde; kitzberg
-2,2,1,0,0,2,2,1,1,13,komöödia; kirjandus; kitzberg
-2,2,1,1,0,2,1,1,1,13,kirjandus; vilde; kitzberg
-0,3,2,0,0,1,1,1,1,13,kirjandus; kriitiline; vilde; kitzberg
-1,2,2,0,0,1,0,2,1,13,komöödia; kirjandus; kitzberg
-0,1,1,0,0,1,0,1,1,13,kirjandus; kitzberg
-1,1,1,0,0,2,1,2,1,13,kirjandus; kitzberg; kriitiline
+2,2,2,0,0,2,2,2,1,13,vilde; kirjandus; kitzberg; komöödia
+2,2,2,0,0,2,2,2,1,13,vilde; kirjandus; kitzberg; komöödia
+2,2,2,0,0,2,2,2,1,13,vilde; kirjandus; kitzberg; komöödia
+2,2,2,0,0,2,2,2,1,13,vilde; kirjandus; kitzberg; komöödia
+2,2,1,0,0,2,2,1,1,13,vilde; kirjandus; kitzberg; komöödia
+2,2,1,0,0,2,2,1,1,13,kirjandus; kitzberg; komöödia
+2,2,1,2,0,3,1,1,1,13,ärkamisaeg; vilde; kirjandus; kitzberg; kosjasõit
+1,3,2,0,0,2,1,1,1,13,ärkamisaeg; kriitiline; vilde; kirjandus; kitzberg
+2,3,2,1,0,2,0,2,1,13,ärkamisaeg; laulumäng; kirjandus; kitzberg; kosjasõit; komöödia
+0,1,1,0,0,2,0,1,1,13,kirjandus; ärkamisaeg; kitzberg
+1,1,1,0,0,2,1,2,1,13,kriitiline; kirjandus; kitzberg

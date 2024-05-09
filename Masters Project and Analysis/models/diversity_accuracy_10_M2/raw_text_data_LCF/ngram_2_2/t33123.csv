@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,1,1,2,2,12,haridus; keelekorraldus; keele
-0,0,1,1,0,1,1,2,3,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,1,0,1,1,2,3,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,1,0,1,1,2,3,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,1,0,1,1,2,3,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,1,0,1,1,2,2,12,haridus; arengukava; keelekorraldus; keele
-1,0,0,0,0,0,2,2,2,12,haridus; arengukava; ühisosa; keelekorraldus; keele
-0,1,1,0,0,1,0,2,2,12,haridus; arengukava; keelekorraldus; keele
-0,0,1,2,0,0,0,1,2,12,haridus; arengukava; krista; keelekorraldus; meedia
-1,1,2,0,0,1,1,2,2,12,haridus; arengukava; krista; ühisosa; keelekorraldus; kerge; keele
-0,0,1,0,0,0,0,1,2,12,haridus; keelekorraldus; meedia
+0,0,1,1,0,1,2,2,0,12,keelekorraldus; haridus; keele
+0,0,1,1,0,1,2,3,0,12,haridus; keele; keelekorraldus; arengukava
+0,0,1,1,0,1,2,3,0,12,haridus; keele; keelekorraldus; arengukava
+0,0,1,1,0,1,2,3,0,12,haridus; keele; keelekorraldus; arengukava
+0,0,1,1,0,1,2,3,0,12,haridus; keele; keelekorraldus; arengukava
+0,0,1,1,0,1,2,2,0,12,keelekorraldus; haridus; arengukava; keele
+1,0,0,0,0,2,2,2,0,12,haridus; keele; keelekorraldus; ühisosa; arengukava
+0,1,1,0,0,0,2,2,0,12,keelekorraldus; haridus; arengukava; keele
+0,0,1,2,0,0,1,2,0,12,haridus; arengukava; keelekorraldus; krista; meedia
+1,1,2,0,0,1,2,2,0,12,haridus; kerge; keele; keelekorraldus; krista; ühisosa; arengukava
+0,0,1,0,0,0,1,2,0,12,keelekorraldus; haridus; meedia

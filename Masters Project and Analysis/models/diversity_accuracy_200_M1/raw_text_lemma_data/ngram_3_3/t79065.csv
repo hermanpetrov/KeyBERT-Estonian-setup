@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,5,3,5,4,5,4,5,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-7,6,3,5,5,6,6,5,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-8,6,4,5,5,6,6,6,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-8,6,5,5,5,6,6,7,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-8,6,6,4,5,6,6,7,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-7,5,5,5,4,5,6,7,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,7,6,5,6,7,8,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,4,8,7,5,7,7,8,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,8,7,6,8,7,8,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,8,7,6,7,8,8,6,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-5,6,7,7,8,7,7,8,7,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
+9,5,4,6,4,6,5,6,8,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+9,6,4,6,5,7,7,6,8,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+10,7,5,6,5,7,7,7,8,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+10,8,7,6,5,7,7,8,8,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+10,8,8,5,5,7,7,9,8,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+9,7,7,6,4,6,7,9,7,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+8,7,9,7,5,8,9,10,7,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+8,6,10,8,5,9,9,10,7,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+8,7,10,8,7,10,9,10,7,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+8,7,10,8,7,9,10,9,7,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+7,8,9,8,9,9,9,10,8,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn

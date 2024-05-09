@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,4,0,1,2,3,3,1,15,tühi-tähi; kõnekeel; isereguleeruv; keelevaist; eesti; hägusus; keel; kaplinski
-3,1,4,0,1,2,3,3,1,15,tühi-tähi; kõnekeel; isereguleeruv; keelevaist; eesti; hägusus; keel; kaplinski
-3,1,4,0,1,2,3,3,1,15,tühi-tähi; kõnekeel; isereguleeruv; keelevaist; eesti; hägusus; keel; kaplinski
-3,1,3,0,1,2,3,3,1,15,tühi-tähi; kõnekeel; isereguleeruv; keelevaist; eesti; hägusus; keel; kaplinski
-3,1,3,0,1,2,3,3,1,15,tühi-tähi; kõnekeel; isereguleeruv; keelevaist; eesti; hägusus; keel; kaplinski
-1,1,2,0,1,2,2,2,1,15,keelevaist; hägusus; kõnekeel; keel; isereguleeruv; eesti; kaplinski
-2,2,3,0,1,1,1,2,1,15,isereguleeruv; keelevaist; eesti; jaan; keel; hägusus; süsteem; kaplinski; alaväärsustunne
-2,2,2,1,1,1,2,2,1,15,süsteem; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; jaan; keel; kaplinski; alaväärsustunne
-1,1,1,1,1,1,2,1,1,15,jaan; tohuvabohu; keel; isereguleeruv; eesti; kaplinski; alaväärsustunne
-0,1,1,4,0,1,2,1,1,15,jaan; hägusus; tohuvabohu; keel; keelevaist; eesti; kaplinski
-0,1,1,3,0,1,2,1,1,15,jaan; hägusus; keel; keelevaist; eesti; kaplinski
+3,1,4,0,1,3,3,1,0,15,kaplinski; eesti; kõnekeel; isereguleeruv; tühi-tähi; keel; hägusus; keelevaist
+3,1,4,0,1,3,3,1,0,15,kaplinski; eesti; kõnekeel; isereguleeruv; tühi-tähi; keel; hägusus; keelevaist
+3,1,4,0,1,3,3,1,0,15,kaplinski; eesti; kõnekeel; isereguleeruv; tühi-tähi; keel; hägusus; keelevaist
+3,1,3,0,1,3,3,1,0,15,kaplinski; eesti; kõnekeel; isereguleeruv; tühi-tähi; keel; hägusus; keelevaist
+3,1,3,0,1,3,3,1,0,15,kaplinski; eesti; kõnekeel; isereguleeruv; tühi-tähi; keel; hägusus; keelevaist
+1,1,2,0,1,2,2,1,0,15,isereguleeruv; keel; kaplinski; eesti; hägusus; kõnekeel; keelevaist
+2,2,3,0,1,1,2,1,0,15,kaplinski; eesti; süsteem; jaan; keel; isereguleeruv; alaväärsustunne; hägusus; keelevaist
+2,2,2,1,1,2,2,1,0,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; jaan; keel; isereguleeruv; alaväärsustunne; keelevaist
+1,1,1,1,1,2,1,1,0,15,isereguleeruv; keel; jaan; alaväärsustunne; kaplinski; tohuvabohu; eesti
+0,1,1,4,0,2,1,1,0,15,jaan; keel; kaplinski; eesti; hägusus; tohuvabohu; keelevaist
+0,1,1,3,0,2,1,1,0,15,jaan; keel; kaplinski; eesti; hägusus; keelevaist

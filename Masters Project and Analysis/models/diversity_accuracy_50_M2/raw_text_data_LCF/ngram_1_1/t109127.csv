@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,0,5,3,5,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,1,0,0,5,3,5,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,1,0,0,5,3,5,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,1,0,0,5,3,5,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,1,0,0,5,3,5,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,1,0,0,3,3,3,3,12,rahvaluule; luuletaja; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-2,2,0,0,0,2,2,2,3,12,rahvaluule; eesti; luule; mõistatus; antoloogia; tõlgendus; luulealbum; lillekimp
-0,2,0,2,0,1,1,1,3,12,antoloogia; tõlgendus; eesti; luule; luulealbum; lillekimp
-0,2,0,1,0,0,1,2,3,12,antoloogia; luulealbum; rahvaluule; tõlgendus; eesti; luule; mõistatus; lillekimp
-0,2,0,2,0,0,1,1,2,12,antoloogia; mõistatus; tõlgendus; eesti; luulealbum; lillekimp
-0,0,0,2,1,0,1,2,2,12,luulealbum; tõlgendus; eesti; mõistatus
+2,2,1,0,0,3,5,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,1,0,0,3,5,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,1,0,0,3,5,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,1,0,0,3,5,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,1,0,0,3,5,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,1,0,0,3,3,3,0,12,luuletaja; tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; lillekimp; luule
+2,2,0,0,0,2,2,3,0,12,tõlgendus; eesti; rahvaluule; antoloogia; mõistatus; luulealbum; luule; lillekimp
+0,2,0,2,0,1,1,3,0,12,tõlgendus; eesti; luulealbum; luule; antoloogia; lillekimp
+0,2,0,1,0,1,2,3,0,12,tõlgendus; mõistatus; eesti; luulealbum; luule; rahvaluule; antoloogia; lillekimp
+0,2,0,2,0,1,1,2,0,12,tõlgendus; mõistatus; eesti; luulealbum; antoloogia; lillekimp
+0,0,0,2,1,1,2,2,0,12,tõlgendus; mõistatus; eesti; luulealbum

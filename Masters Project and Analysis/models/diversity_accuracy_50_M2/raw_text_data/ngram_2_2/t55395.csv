@@ -2,11 +2,11 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 3,2,1,0,1,1,1,3,1,13,pirgu; mõisaproua; concordia; mõis
 3,2,1,0,1,1,1,3,1,13,pirgu; mõisaproua; concordia; mõis
 3,2,1,0,1,1,1,3,1,13,pirgu; mõisaproua; concordia; mõis
-3,3,1,0,1,1,1,3,1,13,pirgu; mõisaproua; perekond; concordia; mõis
-3,3,0,0,1,1,1,3,1,13,pirgu; mõisaproua; perekond; concordia; mõis
-3,3,0,0,1,1,0,3,1,13,pirgu; mõisaproua; perekond; concordia; mõis
-3,1,0,5,1,2,0,4,1,13,majandusjuhtide; rektor; arenduskeskus; kolu; mõisaproua; perekond; concordia; pirgu; mõis
-2,3,1,2,2,2,1,3,1,13,rektor; arenduskeskus; kolu; mõisaproua; sidejaoskond; concordia; kursus; pirgu; mõis
-3,1,0,1,1,0,1,3,1,13,majandusjuhtide; mõisaproua; concordia; pirgu; mõis
-2,1,2,2,0,2,1,1,1,13,kolu; pirgu; mõisaproua; sidejaoskond; concordia; arenduskeskus; mõis
-2,2,2,3,0,2,0,2,1,13,majandusjuhtide; kolu; mõisaproua; sidejaoskond; concordia; arenduskeskus; mõis
+3,3,1,0,1,1,1,3,1,13,pirgu; mõisaproua; concordia; mõis; perekond
+3,3,0,0,1,1,1,3,1,13,pirgu; mõisaproua; concordia; mõis; perekond
+3,3,0,0,1,1,0,3,1,13,pirgu; mõisaproua; concordia; mõis; perekond
+3,1,0,5,1,2,0,4,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; mõis; perekond; concordia; kolu
+2,3,1,2,2,2,1,3,1,13,rektor; pirgu; mõisaproua; sidejaoskond; arenduskeskus; mõis; kursus; concordia; kolu
+3,1,0,1,1,0,1,3,1,13,pirgu; mõisaproua; majandusjuhtide; concordia; mõis
+2,1,2,2,0,2,1,1,1,13,pirgu; sidejaoskond; mõisaproua; arenduskeskus; concordia; mõis; kolu
+2,2,2,3,0,2,0,2,1,13,sidejaoskond; mõisaproua; arenduskeskus; majandusjuhtide; concordia; mõis; kolu

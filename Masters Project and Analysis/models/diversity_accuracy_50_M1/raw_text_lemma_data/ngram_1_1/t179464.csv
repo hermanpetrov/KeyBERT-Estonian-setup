@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,teater
-0,1,0,0,0,0,0,0,0,12,mäng
+0,2,0,0,0,0,0,0,0,12,nõukogu; teater
+0,2,0,0,0,0,0,0,0,12,nõukogu; teater
+0,2,0,0,0,0,0,0,0,12,nõukogu; teater
+0,2,1,0,0,0,0,0,0,12,nõukogu; teater
+0,2,1,0,0,0,0,0,0,12,nõukogu; teater
+0,2,0,0,0,0,0,0,0,12,nõukogu; teater
+0,2,0,0,0,0,0,0,0,12,nõukogu; mäng
 0,0,0,0,0,1,0,0,0,12,mäng
-0,0,0,2,0,0,0,0,1,12,iraan; moskva; afganistan
-0,0,0,2,0,1,1,0,1,12,iraan; moskva; afganistan; mäng
-0,0,0,2,0,1,0,0,0,12,iraan; moskva; mäng
+0,1,0,2,0,0,0,0,1,12,moskva; nõukogu; iraan; afganistan
+0,0,0,2,0,1,1,0,1,12,moskva; iraan; mäng; afganistan
+0,0,0,2,0,1,0,0,0,12,moskva; iraan; mäng

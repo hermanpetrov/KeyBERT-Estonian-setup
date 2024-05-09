@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,1,1,4,0,0,1,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
-4,2,1,1,4,0,0,1,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
-4,2,1,1,4,0,0,1,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
-4,2,1,1,4,0,0,1,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
-4,2,2,1,4,0,0,2,1,19,deckarty; washington; programm; kool; tervis; balti; trump; president
-4,2,1,1,4,0,0,2,1,19,deckarty; washington; programm; kool; tervis; balti; president
-3,2,1,0,4,0,0,2,1,19,deckarty; kool; tervis; balti; washington; programm; president
-5,0,1,3,4,1,0,0,1,19,deckarty; washington; programm; kool; balti; tervis; lahkumine; president
-3,1,1,4,4,1,0,0,1,19,washington; programm; jüri; kool; balti; tervis; lahkumine; trump; president
-4,3,1,2,5,1,0,0,3,19,washington; programm; luik; jüri; kool; tervis; lahkumine; trump; president
-1,2,0,4,5,2,0,3,3,19,luik; washington; programm; jüri; tervis; kool; balti; lahkumine; trump; president
+4,2,1,1,4,0,0,1,2,19,washington; kultuuripealinn; president; programm; kool; deckarty; balti; trump; tervis
+4,2,1,1,4,0,0,1,2,19,washington; kultuuripealinn; president; programm; kool; deckarty; balti; trump; tervis
+4,2,1,1,4,0,0,1,2,19,washington; kultuuripealinn; president; programm; kool; deckarty; balti; trump; tervis
+4,2,1,1,4,0,0,1,1,19,washington; president; programm; kool; deckarty; balti; trump; tervis
+4,2,3,1,4,0,0,2,1,19,washington; kultuuripealinn; president; programm; kool; deckarty; balti; trump; tervis
+4,2,1,1,4,0,0,2,1,19,washington; president; programm; kool; deckarty; balti; tervis
+3,2,1,0,4,0,0,2,1,19,kool; washington; deckarty; president; balti; tervis; programm
+5,0,1,3,4,1,0,0,2,19,washington; kultuuripealinn; lahkumine; president; programm; kool; deckarty; balti; tervis
+3,1,1,4,4,1,0,0,2,19,washington; kultuuripealinn; jüri; lahkumine; president; programm; kool; balti; trump; tervis
+4,3,1,2,5,1,0,0,3,19,washington; jüri; lahkumine; president; programm; luik; kool; trump; tervis
+1,2,0,4,5,2,0,3,3,19,washington; jüri; lahkumine; president; programm; luik; kool; balti; trump; tervis

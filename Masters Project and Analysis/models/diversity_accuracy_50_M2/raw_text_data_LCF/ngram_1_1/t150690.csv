@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,3,0,0,2,4,2,2,16,arengukava; haridus-; keelepoliitika; keel; eesti
-2,0,3,0,0,2,4,2,2,16,arengukava; haridus-; keelepoliitika; keel; eesti
-2,0,3,0,0,2,4,2,2,16,arengukava; haridus-; keelepoliitika; keel; eesti
-2,0,3,0,0,2,4,2,2,16,arengukava; haridus-; keelepoliitika; keel; eesti
-2,0,2,0,0,2,3,3,2,16,arengukava; haridus-; rahvusvaheline; keelepoliitika; keel; eesti
-1,0,1,0,0,1,3,2,2,16,haridus-; keelepoliitika; keel; eesti
-0,0,0,0,0,1,1,1,2,16,haridus-; eesti
-1,1,2,1,0,1,0,1,2,16,haridus-; põhialused; rahvusvaheline; keel; sotsiaalmeedia; eesti
-1,1,1,0,0,1,1,1,2,16,haridus-; põhialused; rahvusvaheline; keel; eesti
-1,1,2,0,0,1,1,1,2,16,haridus-; põhialused; rahvusvaheline; õpetaja; keel; eesti
-1,1,0,1,0,1,1,1,2,16,haridus-; põhialused; rahvusvaheline; eesti
+2,0,3,0,0,4,2,2,0,16,keelepoliitika; haridus-; keel; eesti; arengukava
+2,0,3,0,0,4,2,2,0,16,keelepoliitika; haridus-; keel; eesti; arengukava
+2,0,3,0,0,4,2,2,0,16,keelepoliitika; haridus-; keel; eesti; arengukava
+2,0,3,0,0,4,2,2,0,16,keelepoliitika; haridus-; keel; eesti; arengukava
+2,0,2,0,0,3,3,2,0,16,keelepoliitika; keel; haridus-; eesti; rahvusvaheline; arengukava
+1,0,1,0,0,3,2,2,0,16,keelepoliitika; keel; haridus-; eesti
+0,0,0,0,0,1,1,2,0,16,haridus-; eesti
+1,1,2,1,0,0,1,2,0,16,haridus-; keel; eesti; põhialused; rahvusvaheline; sotsiaalmeedia
+1,1,1,0,0,1,1,2,0,16,haridus-; keel; eesti; põhialused; rahvusvaheline
+1,1,2,0,0,1,1,2,0,16,haridus-; keel; õpetaja; eesti; põhialused; rahvusvaheline
+1,1,0,1,0,1,1,2,0,16,haridus-; eesti; põhialused; rahvusvaheline

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,0,2,0,14,jurist; urmas; reimo
-0,0,0,0,0,1,0,2,0,14,jurist; urmas; reimo
-0,0,0,0,0,1,0,2,0,14,jurist; urmas; reimo
-0,0,0,0,0,1,0,2,0,14,jurist; urmas; reimo
-0,0,0,0,0,1,0,1,0,14,urmas; reimo
-0,0,2,0,0,2,0,1,0,14,vaino; reimo; urmas
-0,0,2,0,0,2,1,1,0,14,vaino; reimo; urmas
-0,0,0,0,0,2,0,0,0,14,mets; reimo
-1,0,0,0,0,3,0,2,0,14,mets; reimo; geiaktivist; vaino; urmas
-0,0,0,0,0,0,0,3,0,14,abielu; vaino; urmas
-1,0,1,0,0,1,0,1,0,14,geiaktivist; urmas; abielu
+0,0,0,0,0,0,2,0,0,14,reimo; jurist
+0,0,0,0,0,0,2,0,0,14,reimo; jurist
+0,0,0,0,0,0,2,0,0,14,reimo; jurist
+0,0,0,0,0,0,2,0,0,14,reimo; jurist
+0,0,0,0,0,0,1,0,0,14,reimo
+0,0,2,0,0,0,1,0,0,14,reimo; vaino; urmas
+0,0,2,0,0,1,1,0,0,14,reimo; vaino; urmas
+0,0,0,0,0,0,0,0,0,14,
+1,0,0,0,0,0,2,0,0,14,geiaktivist; vaino; urmas
+0,0,0,0,0,0,3,0,0,14,abielu; vaino; urmas
+1,0,1,0,0,0,1,0,0,14,abielu; geiaktivist; urmas

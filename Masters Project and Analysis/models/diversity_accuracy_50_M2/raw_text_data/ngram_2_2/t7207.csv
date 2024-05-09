@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,3,3,2,4,3,4,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-6,5,3,3,2,4,3,3,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-6,5,3,3,2,4,3,3,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-6,5,3,3,2,4,3,3,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-6,5,2,3,2,4,3,4,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-7,5,3,3,2,4,3,3,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-5,5,5,4,2,4,4,3,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kirjutama
-5,5,5,2,2,3,5,2,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kirjutama
-5,5,3,3,2,4,4,2,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-4,5,4,4,2,5,4,1,0,12,kommunism; iroonia; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
-5,5,3,4,3,4,5,2,1,12,kommunism; unt; imelaps; kunstid; kirjandus; mati; klassik; kaunid; kirjutama
+6,5,3,3,2,4,3,4,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+6,5,3,3,2,4,3,3,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+6,5,3,3,2,4,3,3,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+6,5,3,3,2,4,3,3,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+6,5,2,3,2,4,3,4,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+7,5,3,3,2,4,3,3,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+5,5,5,4,2,4,4,3,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kommunism
+5,5,5,2,2,3,5,2,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kommunism
+5,5,3,3,2,4,4,2,0,12,kunstid; klassik; kirjutama; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+4,5,4,4,2,5,4,1,0,12,kunstid; kirjutama; klassik; iroonia; imelaps; mati; unt; kirjandus; kaunid; kommunism
+5,5,3,4,3,4,5,2,1,12,kunstid; kirjutama; klassik; imelaps; mati; unt; kirjandus; kaunid; kommunism

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,0,0,2,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,0,2,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,0,2,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,0,2,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,0,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,0,1,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,2,1,0,0,2,1,1,1,11,orkester; perekond; estonia; teater; viiul; näitleja
-0,2,1,0,0,1,1,1,1,11,orkester; perekond; estonia; teater; näitleja
-0,1,1,0,0,1,1,1,1,11,orkester; perekond; näitleja; estonia
-0,1,2,1,0,2,1,1,1,11,orkester; perekond; estonia; viiul; näitleja
-1,0,1,1,0,2,1,2,2,11,orkester; perekond; estonia; teater; viiul
+0,2,1,0,0,1,3,4,1,11,proovitöö; lilleäri; perekond; lapsepõlv; näitleja; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,3,4,1,11,proovitöö; lilleäri; perekond; lapsepõlv; näitleja; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,3,4,1,11,proovitöö; lilleäri; perekond; lapsepõlv; näitleja; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,3,4,1,11,proovitöö; lilleäri; perekond; lapsepõlv; näitleja; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,3,3,1,11,proovitöö; lilleäri; perekond; lapsepõlv; näitleja; estonia; kuuskemaa; teater; orkester
+0,2,1,0,0,1,5,3,1,11,proovitöö; lilleäri; laulukoor; näitleja; perekond; lapsepõlv; estonia; kuuskemaa; teater; orkester
+0,2,2,0,0,4,2,3,1,11,proovitöö; lilleäri; viiul; näitleja; perekond; lapsepõlv; estonia; kuuskemaa; teater; orkester
+0,2,2,1,0,4,4,4,1,11,proovitöö; lilleäri; laulukoor; näitleja; lapsepõlv; perekond; estonia; kuuskemaa; teater; orkester
+0,1,2,1,0,2,1,3,1,11,proovitöö; perekond; lapsepõlv; laulukoor; näitleja; estonia; orkester
+0,1,4,2,0,3,1,1,1,11,proovitöö; laulukoor; viiul; perekond; näitleja; lapsepõlv; estonia; kuuskemaa; orkester
+1,0,2,2,0,3,1,3,2,11,proovitöö; orkester; viiul; lapsepõlv; perekond; laulukoor; kuuskemaa; teater; estonia

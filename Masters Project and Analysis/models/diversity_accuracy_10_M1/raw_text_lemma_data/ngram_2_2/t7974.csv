@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,1,3,0,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,1,3,0,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,1,3,0,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,1,3,0,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,1,3,0,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,1,3,1,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,1,2,3,1,1,12,mari; kadakas; esimene; sõna
-0,0,1,0,1,2,2,1,1,12,mari; kadakas; esimene; sõna
-0,0,1,0,2,3,3,2,1,12,tarand; mari; kadakas; esimene; sõna
-0,1,1,1,0,3,4,2,1,12,tarand; mari; kadakas; esimene; sõna
-0,0,1,0,0,3,2,0,1,12,mari; kadakas; esimene; sõna
+0,0,2,0,1,1,3,1,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,2,0,1,1,3,1,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,2,0,1,1,3,1,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,2,0,1,1,3,1,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,1,0,1,1,3,1,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,1,0,1,1,3,2,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,1,0,1,2,3,2,2,12,mari; kadakas; esimene; koolipäev; sõna
+0,0,1,0,1,2,2,1,2,12,mari; kadakas; esimene; koolipäev; sõna
+0,0,2,0,2,3,3,2,2,12,mari; kadakas; esimene; tarand; koolipäev; sõna; õppevahend
+0,1,1,1,0,3,4,2,2,12,mari; kadakas; esimene; koolipäev; sõna; tarand
+0,0,2,0,0,3,2,0,2,12,mari; kadakas; esimene; koolipäev; sõna; õppevahend

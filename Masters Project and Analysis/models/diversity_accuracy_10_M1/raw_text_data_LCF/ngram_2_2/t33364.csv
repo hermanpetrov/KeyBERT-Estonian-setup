@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-1,0,2,0,1,1,1,2,0,10,kolhoos; vabadus; õigus
-0,0,2,0,1,1,2,2,0,10,vabadus; kolhoos; talu; õigus
-0,0,2,0,1,2,2,2,0,10,vabadus; kolhoos; talu; õigus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+1,0,2,0,1,1,2,0,0,10,kolhoos; õigus; vabadus
+0,0,2,0,1,2,2,0,0,10,kolhoos; õigus; talu; vabadus
+0,0,2,0,1,2,2,0,0,10,kolhoos; õigus; talu; vabadus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,0,0,0,0,0,14,küsimus; hermann; karl; johannes
-1,2,2,0,0,0,0,0,0,14,küsimus; hermann; karl; johannes
-1,2,2,0,0,0,0,0,0,14,küsimus; hermann; karl; johannes
-1,2,2,0,0,0,0,0,0,14,küsimus; hermann; karl; johannes
-1,2,2,0,0,0,0,0,0,14,küsimus; hermann; karl; johannes
-1,2,3,0,0,0,0,0,0,14,hermann; karl; johannes; küsimus
-1,2,3,0,0,0,1,0,0,14,hermann; karl; johannes; küsimus; hellitus
-1,2,2,1,0,0,1,1,0,14,august; hermann; karl; johannes; keel; hellitus
-1,1,2,1,0,1,2,0,1,14,salonen; hermann; karl; johannes; küsimus; hellitus
-1,0,1,2,0,1,2,0,0,14,salonen; karl; johannes; keel; küsimus; hellitus
-0,0,2,2,0,1,2,0,0,14,salonen; august; johannes; keel; küsimus; hellitus
+1,2,2,1,0,2,1,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,2,1,0,2,1,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,2,1,0,2,1,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,2,1,0,2,1,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,2,1,0,2,1,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,3,1,0,2,2,0,0,14,murdekeel; kantseleikeel; küsimus; karl; johannes; hermann
+1,2,3,0,0,1,1,0,0,14,murdekeel; küsimus; karl; hellitus; johannes; hermann
+1,2,2,1,0,0,1,1,0,14,keel; karl; hellitus; johannes; hermann; august
+1,1,2,1,0,1,2,0,1,14,salonen; küsimus; karl; hellitus; johannes; hermann
+2,0,1,2,0,1,2,0,0,14,salonen; küsimus; keel; hellitus; johannes; kantseleikeel; karl
+1,1,2,2,0,1,2,0,0,14,murdekeel; salonen; küsimus; hellitus; kantseleikeel; johannes; august; keel

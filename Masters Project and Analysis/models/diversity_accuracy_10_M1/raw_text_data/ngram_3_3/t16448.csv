@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,1,0,1,0,12,kino; dokumentaalfilm; eesti
-0,1,2,0,0,1,0,1,1,12,kino; dokumentaalfilm; eesti
-0,1,2,0,0,1,0,1,1,12,kino; dokumentaalfilm; eesti
-0,1,2,0,0,1,0,1,1,12,kino; dokumentaalfilm; eesti
+0,1,2,0,0,1,0,1,0,12,kino; eesti; dokumentaalfilm
+0,1,2,0,0,1,0,1,1,12,kino; eesti; dokumentaalfilm
+0,1,2,0,0,1,0,1,1,12,kino; eesti; dokumentaalfilm
+0,1,2,0,0,1,0,1,1,12,kino; eesti; dokumentaalfilm
 0,1,1,0,0,1,0,1,1,12,kino; eesti
-0,1,2,0,0,1,0,2,1,12,film; kino; sõprus; eesti
-0,0,1,0,0,0,2,3,1,12,film; kino; sõprus; eesti
-1,0,1,0,0,2,1,3,0,12,dokumentaalfilm; film; kino; sõprus; eesti
-1,0,1,0,0,1,0,3,0,12,film; kino; sõprus; eesti
-1,0,1,0,0,0,1,4,0,12,dokumentaalfilm; film; filmitegija; sõprus; eesti; eelarve
-1,1,1,0,0,0,1,2,1,12,sõprus; eesti; dokumentaalfilm
+0,1,2,0,0,1,0,2,1,12,film; kino; eesti; sõprus
+0,0,1,0,0,0,2,3,1,12,kino; film; eesti; sõprus
+1,0,1,0,0,2,1,3,0,12,kino; film; eesti; sõprus; dokumentaalfilm
+1,0,1,0,0,1,0,3,0,12,kino; film; eesti; sõprus
+1,0,1,0,0,0,1,4,0,12,film; eesti; filmitegija; sõprus; eelarve; dokumentaalfilm
+1,1,1,0,0,0,1,2,1,12,dokumentaalfilm; eesti; sõprus

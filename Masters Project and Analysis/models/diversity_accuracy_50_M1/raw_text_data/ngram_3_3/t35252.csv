@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,3,2,1,2,3,3,3,13,postimees; põllumeeste; eesti; vändra; jansen; koorilaul; selts; kirjutama
-5,2,2,2,1,2,3,3,3,13,postimees; põllumeeste; eesti; vändra; jansen; koorilaul; selts; kirjutama
-5,2,3,2,1,2,3,3,3,13,postimees; põllumeeste; eesti; vändra; jansen; koorilaul; selts; kirjutama
-5,2,3,2,1,2,3,3,3,13,postimees; põllumeeste; eesti; vändra; jansen; koorilaul; selts; kirjutama
-5,2,4,2,1,2,2,3,3,13,postimees; põllumeeste; eesti; vändra; jansen; koorilaul; selts; kirjutama
-5,1,3,2,1,2,3,3,3,13,põllumeeste; eesti; vändra; jansen; koorilaul; selts
-4,1,4,6,1,3,3,5,3,13,postimees; põllumeeste; eesti; jansen; vändra; koorilaul; selts; üldlaulupidu; kirjutama
-2,2,6,4,1,2,5,2,3,13,postimees; põllumeeste; eesti; jansen; vändra; selts; üldlaulupidu; kirjutama
-4,1,3,3,1,2,3,6,3,13,postimees; põllumeeste; eesti; jansen; selts; üldlaulupidu; kirjutama
-3,1,5,3,1,2,4,4,4,13,postimees; põllumeeste; eesti; jansen; vändra; selts; üldlaulupidu
-3,1,4,3,1,1,1,6,3,13,postimees; põllumeeste; eesti; vändra; jansen; selts; üldlaulupidu
+5,2,3,2,1,2,3,3,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; postimees; põllumeeste
+5,2,2,2,1,2,3,3,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; postimees; põllumeeste
+5,2,3,2,1,2,3,3,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; postimees; põllumeeste
+5,2,3,2,1,2,3,3,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; postimees; põllumeeste
+5,2,4,2,1,2,2,3,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; postimees; põllumeeste
+5,1,3,2,1,2,3,3,3,13,selts; eesti; jansen; koorilaul; vändra; põllumeeste
+4,1,4,6,1,3,3,5,3,13,selts; eesti; kirjutama; jansen; koorilaul; vändra; üldlaulupidu; postimees; põllumeeste
+2,2,6,4,1,2,5,2,3,13,selts; eesti; kirjutama; jansen; vändra; üldlaulupidu; postimees; põllumeeste
+4,1,3,3,1,2,3,6,3,13,selts; eesti; kirjutama; jansen; üldlaulupidu; postimees; põllumeeste
+3,1,5,3,1,2,4,4,4,13,selts; eesti; jansen; vändra; üldlaulupidu; postimees; põllumeeste
+3,1,4,3,1,1,1,6,3,13,selts; eesti; jansen; vändra; üldlaulupidu; postimees; põllumeeste

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-0,1,0,1,0,1,2,1,0,16,estonia; tiit; ooper
-1,0,0,0,0,1,2,1,0,16,estonia; ooper; ballett
-1,0,0,2,0,1,1,1,0,16,verdi; ooper; estonia
-0,0,0,1,0,2,3,1,0,16,ivo; eino; estonia; tiit; verdi
-0,0,0,0,0,3,3,1,0,16,ivo; eino; estonia; tiit; ooper
-0,0,1,0,0,3,4,1,0,16,ivo; eino; kuusk; estonia; verdi
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+0,1,0,1,0,2,1,0,0,16,ooper; tiit; estonia
+1,0,0,0,0,2,1,0,0,16,ballett; ooper; estonia
+1,0,0,2,0,1,1,0,0,16,ooper; verdi; estonia
+0,0,0,1,0,3,1,0,0,16,ivo; verdi; eino; estonia
+0,0,0,0,0,3,1,0,0,16,ooper; ivo; estonia
+0,0,1,0,0,4,1,0,0,16,estonia; verdi; kuusk; eino; ivo

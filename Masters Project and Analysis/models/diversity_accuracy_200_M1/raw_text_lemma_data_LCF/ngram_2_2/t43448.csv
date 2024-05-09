@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,5,1,3,2,3,1,13,leimus; interaktiivne; epp; näitus; ivar
-3,3,2,5,1,3,2,3,2,13,interaktiivne; epp; ivar; leimus; näitus
-3,3,4,5,2,3,2,4,2,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,3,6,5,2,3,2,4,2,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,3,6,5,2,5,3,4,2,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-5,4,3,4,3,5,4,4,2,13,interaktiivne; epp; ivar; leimus; näitus
-5,1,6,2,4,4,5,3,3,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,4,6,2,4,4,4,2,2,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,1,6,2,4,6,5,3,3,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,2,4,2,4,4,5,3,2,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
-4,2,5,1,4,6,6,3,3,13,interaktiivne; epp; ivar; leimus; kollektsioon; näitus
+6,7,5,10,1,5,5,6,3,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; epp; keldriruum; alatalu
+6,8,5,11,1,5,5,6,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; epp; keldriruum; alatalu
+6,8,7,11,2,5,5,8,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+7,9,9,11,2,5,5,10,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+7,9,10,10,2,8,6,10,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+8,9,7,10,3,8,7,10,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; epp; keldriruum; alatalu
+8,7,10,4,5,6,8,9,5,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+5,10,10,5,5,7,7,7,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+5,7,9,6,9,11,7,7,4,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+5,5,8,5,8,9,7,4,3,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu
+6,6,6,3,9,11,7,4,5,13,suurgild; leimus; mündikogu; ajaloomuuseum; näitus; interaktiivne; põhjarahvas; ivar; kaupmees; kollektsioon; epp; keldriruum; alatalu

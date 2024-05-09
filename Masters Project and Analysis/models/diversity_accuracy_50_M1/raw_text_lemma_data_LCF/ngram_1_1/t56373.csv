@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,0,0,1,12,hein; sõda
-0,0,2,0,0,1,0,0,1,12,hein; sõda
-0,0,2,0,0,1,0,0,1,12,hein; sõda
-0,0,2,0,0,1,0,0,1,12,hein; sõda
-0,0,2,0,0,1,0,0,1,12,hein; sõda
-0,0,2,0,0,0,0,0,1,12,hein; sõda
-0,0,1,0,0,0,0,0,1,12,hein; sõda
-0,0,2,1,0,0,0,0,1,12,kriivan; hein; sõda
-0,0,2,0,0,0,0,1,1,12,kriivan; hein
-0,1,1,0,0,0,0,1,1,12,kriivan; suu; hein
-0,1,1,0,1,0,0,1,0,12,kriivan; suu; hein
+0,0,2,0,0,1,0,0,1,12,sõda; hein
+0,0,2,0,0,1,0,0,1,12,sõda; hein
+0,0,2,0,0,1,0,0,1,12,sõda; hein
+0,0,2,0,0,1,0,0,1,12,sõda; hein
+0,0,2,0,0,1,0,0,1,12,sõda; hein
+0,0,2,0,0,0,0,0,1,12,sõda; hein
+0,0,1,0,0,0,0,0,1,12,sõda; hein
+0,0,2,1,0,1,0,0,1,12,hein; kriivan; talupoeg; sõda
+0,0,2,0,0,1,0,1,1,12,talupoeg; kriivan; hein
+0,1,1,0,0,1,0,1,1,12,suu; hein; kriivan; talupoeg
+0,1,1,0,1,1,0,2,0,12,kriivan; talupoeg; suu; hein

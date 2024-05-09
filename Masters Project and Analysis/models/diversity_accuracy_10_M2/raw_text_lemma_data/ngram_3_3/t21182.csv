@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,1,0,0,13,krull; oidipus
-1,0,0,0,0,0,1,0,0,13,krull; oidipus
-1,0,0,0,0,0,1,0,0,13,krull; oidipus
-1,0,0,0,0,0,1,0,0,13,krull; oidipus
-1,0,0,0,0,0,1,0,0,13,krull; oidipus
-1,0,0,0,0,1,0,0,0,13,krull; oidipus
-0,0,0,1,0,1,0,0,0,13,krull; pehk
-0,0,1,0,0,2,1,2,0,13,hasso; oidipus; bänd; krull; merilai
-0,0,0,1,0,2,0,1,0,13,hasso; krull; oidipus; bänd
-0,0,1,1,0,2,1,1,0,13,hasso; oidipus; bänd; krull
-0,0,0,1,0,0,0,1,0,13,oidipus; bänd
+1,0,0,1,0,1,2,1,0,13,oidipus; krull; luulekogu
+1,0,0,1,0,1,2,1,0,13,oidipus; krull; luulekogu
+1,0,0,1,0,1,2,1,0,13,oidipus; krull; luulekogu
+1,0,0,1,0,1,2,1,0,13,oidipus; krull; luulekogu
+1,0,0,1,0,1,2,1,0,13,oidipus; krull; luulekogu
+1,0,0,1,0,2,1,1,0,13,oidipus; krull; luulekogu
+0,0,0,2,0,2,1,0,0,13,pehk; krull; luulekogu
+0,0,1,1,0,2,2,2,0,13,oidipus; merilai; bänd; luulekogu; hasso; krull
+0,0,1,2,0,2,1,1,0,13,oidipus; bänd; luulekogu; hasso; krull
+0,0,1,2,0,2,2,1,0,13,oidipus; bänd; luulekogu; hasso; krull
+0,0,0,2,0,0,1,1,0,13,oidipus; bänd; luulekogu

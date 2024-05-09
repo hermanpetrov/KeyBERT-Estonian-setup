@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,0,0,0,0,11,jaanitul
-0,0,1,1,0,0,0,0,0,11,jaanitul
-0,0,1,1,0,0,0,0,0,11,jaanitul
-0,0,1,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,0,0,0,0,11,jaanitul
-0,0,0,1,0,1,0,0,0,11,kiik; jaanitul
-0,0,0,0,0,0,1,0,0,11,kolhoos
-0,1,0,0,0,0,1,0,0,11,loodus; kolhoos
-0,1,0,0,0,0,1,0,0,11,loodus; kolhoos
-0,1,0,0,0,0,0,1,0,11,loodus; kolhoos
+1,0,2,2,0,2,1,1,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,2,2,0,2,1,1,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,2,2,0,2,1,1,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,2,2,0,2,1,1,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,1,2,0,2,1,2,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,0,2,0,2,1,2,0,11,jaanipidu; jaanitul; lauluväljak; vanarahvas; õlletegu
+1,0,0,2,0,2,0,0,0,11,jaanitul; kiik; vanarahvas; õlletegu
+1,0,0,1,0,0,1,0,0,11,kolhoos; lauluväljak; õlletegu
+1,1,0,0,0,0,2,1,0,11,kolhoos; loodus; lauluväljak; vanarahvas; õlletegu
+1,1,0,0,0,0,2,1,0,11,viljasaak; kolhoos; loodus; lauluväljak; vanarahvas
+1,1,0,0,0,0,1,1,0,11,viljasaak; kolhoos; loodus; vanarahvas

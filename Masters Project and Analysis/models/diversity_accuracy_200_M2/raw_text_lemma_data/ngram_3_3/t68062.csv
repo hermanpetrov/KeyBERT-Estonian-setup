@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,2,2,2,5,4,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-5,3,4,3,1,4,5,4,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-5,3,5,3,1,4,6,4,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-4,5,5,3,1,4,6,4,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-4,3,5,4,4,6,6,5,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-3,3,5,6,4,6,7,5,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-4,4,5,6,4,6,4,6,2,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-3,5,5,6,4,5,3,3,2,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-4,4,5,5,4,5,2,5,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-3,2,4,6,4,3,4,4,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
-3,3,4,6,4,2,4,5,4,11,mors; vangla; põgenema; hanso; elmar; kamber; süüdistus
+6,6,4,5,4,4,8,6,7,11,vägivald; põgenema; julgeolek; süüdistus; metsavend; elmar; ülekuulamine; kamber; vangla; mors; hanso
+7,6,6,6,3,7,8,7,7,11,julgeolek; süüdistus; metsavend; ülekuulamine; kamber; vangla; vägivald; põgenema; elmar; mors; hanso
+7,7,7,6,3,7,9,7,7,11,julgeolek; süüdistus; metsavend; kamber; ülekuulamine; vangla; vägivald; põgenema; elmar; mors; hanso
+7,9,7,6,3,7,10,7,7,11,julgeolek; süüdistus; metsavend; kamber; ülekuulamine; vangla; vägivald; põgenema; elmar; mors; hanso
+7,7,7,7,6,9,10,7,7,11,julgeolek; süüdistus; metsavend; ülekuulamine; kamber; vangla; vägivald; põgenema; elmar; mors; hanso
+6,6,8,9,6,9,11,9,7,11,julgeolek; süüdistus; metsavend; ülekuulamine; vangla; kamber; vägivald; põgenema; elmar; mors; hanso
+8,7,8,9,6,10,8,10,4,11,julgeolek; süüdistus; metsavend; ülekuulamine; vangla; kamber; vägivald; põgenema; elmar; mors; hanso
+6,6,8,9,6,8,7,7,5,11,julgeolek; süüdistus; metsavend; kamber; vangla; ülekuulamine; vägivald; põgenema; elmar; mors; hanso
+6,6,8,8,6,9,6,9,7,11,julgeolek; süüdistus; metsavend; kamber; vangla; ülekuulamine; vägivald; põgenema; elmar; mors; hanso
+5,4,8,9,7,7,8,7,8,11,julgeolek; süüdistus; metsavend; kamber; vangla; ülekuulamine; vägivald; põgenema; elmar; mors; hanso
+5,5,8,10,5,5,8,9,8,11,julgeolek; süüdistus; metsavend; kamber; vangla; ülekuulamine; vägivald; põgenema; elmar; mors; hanso

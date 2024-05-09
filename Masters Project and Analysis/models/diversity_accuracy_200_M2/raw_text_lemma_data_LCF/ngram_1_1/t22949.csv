@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,5,2,2,3,3,3,2,13,kunst; eesti; meedia; jaan; tsensuur; marco; näitus; formaat
-4,1,5,2,2,3,3,3,2,13,kunst; eesti; meedia; jaan; tsensuur; marco; näitus; formaat
-4,1,3,2,3,3,3,3,2,13,kunst; eesti; meedia; jaan; tsensuur; marco; näitus; formaat
-4,1,5,2,2,2,4,2,2,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
-4,1,3,2,2,3,4,3,2,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
-1,2,3,2,2,2,3,3,3,13,kunst; eesti; elken; meedia; jaan; marco; näitus; formaat
-2,2,2,3,2,3,2,3,3,13,kunst; eesti; elken; meedia; jaan; marco; näitus; formaat
-1,3,3,6,2,2,3,4,3,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
-2,4,1,4,2,2,2,4,3,13,kunst; eesti; meedia; elken; jaan; tsensuur; marco; näitus; formaat
-3,2,3,2,3,1,2,4,3,13,kunst; marco; eesti; elken; meedia; jaan; tsensuur; formaat; näitus
-3,3,3,3,4,1,3,4,3,13,kunst; eesti; elken; meedia; jaan; tsensuur; marco; näitus; formaat
+5,1,7,2,2,4,5,5,3,13,eesti; tsensuur; marco; kunstiakadeemia; kunstimaailm; formaat; jaan; kunst; näitus; meedia
+5,1,7,2,2,4,5,5,3,13,eesti; tsensuur; marco; kunstiakadeemia; kunstimaailm; formaat; jaan; kunst; näitus; meedia
+5,1,5,2,3,4,5,5,3,13,eesti; tsensuur; marco; kunstiakadeemia; kunstimaailm; formaat; jaan; kunst; näitus; meedia
+5,1,7,2,2,2,6,4,3,13,eesti; tsensuur; elken; marco; kunstimaailm; kunstiakadeemia; formaat; jaan; kunst; näitus; meedia
+5,3,3,2,2,3,6,5,3,13,eesti; tsensuur; kunstiakadeemia; marco; kunstimaailm; elken; formaat; jaan; kunst; näitus; meedia
+2,4,3,2,2,2,5,4,4,13,eesti; marco; elken; kunstiakadeemia; kunstimaailm; formaat; jaan; kunst; näitus; meedia
+2,4,2,5,2,4,3,5,4,13,eesti; marco; elken; kunstiakadeemia; kunstimaailm; näitus; jaan; kunst; formaat; meedia
+1,5,4,7,3,2,4,5,4,13,eesti; marco; kunstiakadeemia; elken; kunstimaailm; tsensuur; näitus; jaan; kunst; formaat; meedia
+2,6,2,5,3,2,3,5,4,13,eesti; marco; elken; kunstiakadeemia; näitus; kunstimaailm; tsensuur; jaan; kunst; formaat; meedia
+3,4,4,3,4,2,2,5,4,13,eesti; tsensuur; kunstiakadeemia; elken; kunstimaailm; näitus; marco; jaan; kunst; formaat; meedia
+4,5,4,4,5,2,3,4,4,13,eesti; marco; kunstiakadeemia; elken; näitus; kunstimaailm; tsensuur; jaan; kunst; formaat; meedia

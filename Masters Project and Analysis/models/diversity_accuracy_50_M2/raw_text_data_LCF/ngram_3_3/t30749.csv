@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,1,1,0,1,0,1,1,14,porto; santana; madeira; bassein
-4,1,1,1,0,1,0,1,1,14,porto; santana; madeira; bassein
-4,1,1,1,0,1,0,1,1,14,porto; santana; madeira; bassein
-4,1,2,1,0,1,0,1,1,14,mägi; porto; santana; madeira; bassein
-4,1,2,1,0,1,0,1,1,14,mägi; porto; santana; madeira; bassein
-3,1,1,2,0,1,0,2,1,14,porto; santana; madeira; bassein; puuvili
-2,1,2,2,0,3,0,3,1,14,mägi; porto; kalju; vanalinn; santana; madeira; puuvili
-0,1,1,5,1,0,0,1,1,14,porto; vanalinn; santana; madeira; puuvili
-0,2,1,4,2,1,1,0,1,14,santana; madeira; bassein; puuvili
-3,2,2,4,2,1,1,0,0,14,porto; santana; madeira; bassein; puuvili
-3,1,1,4,1,1,0,0,0,14,porto; santana; madeira; bassein; puuvili
+4,1,1,1,0,0,1,1,0,14,madeira; santana; bassein; porto
+4,1,1,1,0,0,1,1,0,14,madeira; santana; bassein; porto
+4,1,1,1,0,0,1,1,0,14,madeira; santana; bassein; porto
+4,1,2,1,0,0,1,1,0,14,madeira; santana; mägi; bassein; porto
+4,1,2,1,0,0,1,1,0,14,madeira; santana; mägi; bassein; porto
+3,1,1,2,0,0,2,1,0,14,madeira; santana; puuvili; bassein; porto
+2,1,2,2,0,0,3,1,0,14,kalju; madeira; mägi; santana; puuvili; porto
+0,1,1,5,1,0,1,1,0,14,vanalinn; madeira; santana; puuvili; porto
+0,2,1,4,2,1,0,1,0,14,madeira; santana; puuvili; bassein
+3,2,2,4,2,1,0,0,0,14,madeira; santana; puuvili; bassein; porto
+3,1,1,4,1,0,0,0,0,14,madeira; santana; puuvili; bassein; porto

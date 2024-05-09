@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,4,4,3,3,4,5,5,11,superstaar; lill; kontsert; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-6,5,4,4,3,3,4,5,5,11,superstaar; lill; kontsert; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-6,5,4,4,3,3,4,5,5,11,superstaar; lill; kontsert; välismaa; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-6,5,4,4,2,3,4,5,5,11,superstaar; lill; kontsert; välismaa; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-6,4,3,5,3,3,6,6,5,11,superstaar; kontsert; lill; välismaa; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-5,4,2,5,3,7,4,5,5,11,superstaar; kontsert; lill; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-5,5,3,6,4,5,6,4,6,11,superstaar; lill; kontsert; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-7,4,2,6,5,5,8,5,6,11,lill; superstaar; kontsert; välismaa; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-6,5,6,4,6,5,8,5,6,11,lill; superstaar; kontsert; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat; laulma
-4,4,4,4,5,5,6,5,7,11,superstaar; lill; kontsert; välismaa; eurovisioon; auhind; koostöö; õigemeel; birgit; plaat
-6,5,6,5,7,5,8,4,9,11,lill; superstaar; birgit; laulma; kontsert; välismaa; eurovisioon; auhind; koostöö; õigemeel; plaat
+6,5,4,4,3,4,5,5,0,11,lill; plaat; koostöö; eurovisioon; laulma; birgit; superstaar; õigemeel; auhind; kontsert
+6,5,4,4,3,4,5,5,0,11,lill; plaat; koostöö; eurovisioon; laulma; birgit; superstaar; õigemeel; auhind; kontsert
+6,5,4,4,3,4,5,5,0,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+6,5,4,4,2,4,5,5,0,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+6,4,3,5,3,6,6,5,0,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+5,4,2,5,3,4,5,5,0,11,lill; plaat; koostöö; birgit; eurovisioon; superstaar; laulma; õigemeel; auhind; kontsert
+5,5,3,6,4,6,4,6,0,11,lill; plaat; koostöö; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+7,4,2,6,5,8,5,6,0,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+6,5,6,4,6,8,5,6,0,11,lill; plaat; koostöö; eurovisioon; superstaar; birgit; laulma; õigemeel; auhind; kontsert
+4,4,4,4,5,6,5,7,0,11,lill; plaat; koostöö; välismaa; eurovisioon; superstaar; birgit; õigemeel; auhind; kontsert
+6,5,6,5,7,8,4,9,0,11,lill; koostöö; superstaar; laulma; birgit; õigemeel; kontsert; plaat; välismaa; eurovisioon; auhind

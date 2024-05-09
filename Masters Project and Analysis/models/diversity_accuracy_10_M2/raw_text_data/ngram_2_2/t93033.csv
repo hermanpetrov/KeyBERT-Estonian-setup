@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
-1,1,1,0,0,1,1,1,0,18,nädal; restoranide; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
+1,1,1,0,0,1,1,1,0,18,restoranide; nädal; eesti
 0,1,1,1,0,1,1,1,0,18,restoranide; eesti
-0,1,1,1,0,1,1,0,0,18,hans; restoranide; eesti
-0,0,1,0,0,1,1,0,0,18,eesti; ülikool
+0,1,1,1,0,1,1,0,0,18,restoranide; hans; eesti
+0,0,1,0,0,1,1,0,0,18,ülikool; eesti
 0,0,0,0,0,0,0,0,0,18,
 0,0,0,0,0,0,0,0,0,18,

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,3,3,4,5,5,3,10,kogudus; rituaal; muna; kiikumine; peko; kask
-5,4,4,4,3,4,5,5,3,10,kogudus; rituaal; muna; kiikumine; peko; kask
-4,4,3,4,3,4,5,5,3,10,kogudus; muna; rituaal; kiikumine; peko; kask
-3,5,3,3,3,4,5,4,4,10,kogudus; muna; rituaal; kiikumine; peko; kask
-3,4,3,2,3,4,5,4,4,10,kogudus; muna; rituaal; kiikumine; peko
-3,3,4,2,4,3,4,3,4,10,kogudus; muna; rituaal; kiikumine; peko
-3,4,6,2,5,4,3,4,4,10,kogudus; muna; rituaal; kiikumine; peko; kask
-2,3,5,3,5,3,4,5,4,10,kogudus; muna; rituaal; kiikumine; peko; kask
-2,4,3,3,5,3,4,5,5,10,kogudus; muna; rituaal; kiikumine; peko; kask
-3,3,3,3,4,2,4,5,3,10,kogudus; muna; rituaal; kiikumine; peko; kask
-3,4,4,4,4,3,3,5,3,10,kogudus; muna; rituaal; kiikumine; peko; kask
+6,8,7,5,3,7,8,8,5,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+7,8,7,6,3,7,8,8,5,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+6,8,6,6,3,7,8,8,5,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+5,9,7,5,3,7,8,7,6,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+5,8,7,3,3,7,9,7,6,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; nelipüha; kiikumine; peko
+5,7,8,4,4,6,8,7,6,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; nelipüha; kiikumine; peko
+6,7,10,6,5,6,7,8,5,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+5,7,8,6,6,6,8,9,6,10,suvistepüha; misjonitöö; muna; rituaal; kogudus; kask; rahvakalender; nelipüha; kiikumine; peko
+4,8,7,6,6,3,5,8,7,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+5,7,7,6,6,2,6,7,5,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko
+5,8,8,7,5,4,5,7,6,10,suvistepüha; misjonitöö; muna; rituaal; rahvakalender; kogudus; kask; nelipüha; kiikumine; peko

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,10,12,9,9,7,6,10,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-9,10,12,9,9,7,7,10,9,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-10,10,12,9,10,8,7,11,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-10,11,11,9,10,9,9,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-10,11,12,9,12,9,9,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-10,11,10,10,11,10,9,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-9,11,11,12,11,11,10,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-8,10,12,12,12,11,12,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-7,10,11,12,12,10,10,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-7,10,11,12,12,10,11,12,10,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
-8,11,11,12,11,10,11,12,11,18,thomas; kristjan; watson; papadopolous; port; serveri; võrgustik; tehnoloogia; maailma; arvuti; google; kommentaar
+9,10,12,9,9,6,10,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+9,10,12,9,9,7,10,9,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+10,10,12,9,10,7,11,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+10,11,11,9,10,9,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+10,11,12,9,12,9,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+10,11,10,10,11,9,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+9,11,11,12,11,10,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+8,10,12,12,12,12,12,10,0,18,kommentaar; tehnoloogia; thomas; port; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; võrgustik
+7,10,11,12,12,10,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+7,10,11,12,12,11,12,10,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia
+8,11,11,12,11,11,12,11,0,18,võrgustik; kommentaar; port; thomas; papadopolous; serveri; arvuti; maailma; watson; kristjan; google; tehnoloogia

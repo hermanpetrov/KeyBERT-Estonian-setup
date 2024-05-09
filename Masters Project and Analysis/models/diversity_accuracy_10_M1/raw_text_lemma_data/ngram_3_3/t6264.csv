@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,0,1,1,0,0,1,0,17,adolf; hitler; berliin
-2,3,0,1,1,0,0,1,0,17,adolf; hitler; berliin
-2,3,0,1,1,0,0,1,0,17,adolf; hitler; berliin
-2,3,0,1,1,0,0,1,0,17,adolf; hitler; berliin
-2,3,0,1,1,0,0,1,0,17,adolf; hitler; berliin
-3,3,1,1,1,1,0,1,0,17,adolf; muusika; hitler; berliin
-3,3,1,1,1,1,1,1,0,17,adolf; muusika; hitler; berliin
-2,1,1,1,1,1,2,1,0,17,muusika; berliin
-1,1,2,2,1,2,2,1,0,17,adolf; muusika; hitler; berliin
-2,1,1,1,1,0,2,1,0,17,bismarck; muusika; berliin
-0,1,1,1,1,3,2,1,0,17,adolf; muusika; hitler; berliin
+2,4,1,1,1,2,2,2,0,17,berliin; adolf; saksamaa; hitler; raadiosaade
+2,4,1,1,1,2,2,2,0,17,berliin; adolf; saksamaa; hitler; raadiosaade
+2,4,1,1,1,2,2,2,0,17,berliin; adolf; saksamaa; hitler; raadiosaade
+2,4,1,1,1,2,2,2,0,17,berliin; adolf; saksamaa; hitler; raadiosaade
+2,4,1,1,1,2,2,2,0,17,berliin; adolf; saksamaa; hitler; raadiosaade
+3,4,3,1,1,3,2,2,0,17,berliin; saksamaa; raadiosaade; muusika; adolf; hitler
+3,3,3,1,1,2,3,1,0,17,berliin; saksamaa; raadiosaade; muusika; adolf; hitler
+2,2,3,1,1,2,4,3,0,17,berliin; muusika; saksamaa; raadiosaade
+1,1,4,2,1,3,4,2,0,17,berliin; saksamaa; raadiosaade; muusika; adolf; hitler
+2,3,3,1,1,0,4,3,0,17,berliin; valgustusajastu; saksamaa; raadiosaade; bismarck; muusika
+0,1,3,1,1,3,4,1,0,17,berliin; saksamaa; raadiosaade; muusika; adolf; hitler

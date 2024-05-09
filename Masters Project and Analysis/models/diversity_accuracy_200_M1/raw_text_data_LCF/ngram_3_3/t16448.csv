@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,4,3,2,4,4,5,5,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-6,6,4,4,2,4,5,5,5,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-6,6,4,4,2,5,5,6,6,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,6,5,4,3,5,6,6,6,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,6,5,4,4,5,6,6,6,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,5,5,4,5,7,6,5,6,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-3,4,3,4,5,6,6,5,5,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-5,4,3,4,5,5,5,5,5,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,3,4,4,6,4,5,3,5,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,2,3,3,6,4,4,3,4,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film; formaat
-4,2,3,3,4,3,4,2,4,12,dokumentaalfilm; filmitegija; kino; sõprus; eesti; eelarve; film
+6,6,4,3,2,4,5,5,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+6,6,4,4,2,5,5,5,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+6,6,4,4,2,5,6,6,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,6,5,4,3,6,6,6,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,6,5,4,4,6,6,6,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,5,5,4,5,6,5,6,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+3,4,3,4,5,6,5,5,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+5,4,3,4,5,5,5,5,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,3,4,4,6,5,3,5,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,2,3,3,6,4,3,4,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; formaat; dokumentaalfilm
+4,2,3,3,4,4,2,4,0,12,film; eesti; filmitegija; eelarve; kino; sõprus; dokumentaalfilm

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-2,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-2,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-2,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-2,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-3,4,2,4,5,6,7,6,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-4,4,5,4,5,6,7,7,6,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-5,5,4,7,6,6,7,7,6,12,iroonia; tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-6,5,6,7,6,7,7,8,6,12,iroonia; tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-5,3,7,5,4,7,7,8,6,12,iroonia; tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-9,3,7,3,4,6,6,8,5,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
+2,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+2,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+2,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+2,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+2,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+3,5,2,5,5,7,8,6,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+4,5,6,5,5,7,8,7,7,12,luuletaja; tulevik; viivi; raadioarhiiv; intervjuu; kollane; mati; unt; kass; romaan
+6,6,4,8,6,7,8,7,7,12,viivi; kollane; kass; luuletaja; tulevik; iroonia; intervjuu; raadioarhiiv; mati; unt; romaan
+7,6,6,8,6,8,8,8,7,12,viivi; kollane; kass; luuletaja; tulevik; iroonia; intervjuu; raadioarhiiv; mati; unt; romaan
+6,4,7,6,4,8,8,8,7,12,viivi; kollane; kass; luuletaja; tulevik; iroonia; intervjuu; raadioarhiiv; mati; unt; romaan
+10,4,7,4,4,7,7,9,6,12,viivi; kollane; kass; luuletaja; tulevik; intervjuu; raadioarhiiv; mati; unt; romaan

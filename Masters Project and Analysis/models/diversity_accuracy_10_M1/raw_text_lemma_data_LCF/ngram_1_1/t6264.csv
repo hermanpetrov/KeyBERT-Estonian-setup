@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,0,1,1,0,17,berliin; muusika
-0,0,1,0,0,1,2,0,0,17,von; berliin; hitler; muusika
-0,0,1,0,0,2,1,0,0,17,hitler; muusika
-0,0,1,0,0,2,1,0,0,17,hitler; muusika
-0,0,0,0,0,0,0,0,0,17,
-0,0,0,0,0,0,0,0,0,17,
+1,0,2,0,0,1,2,1,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,2,1,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,2,1,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,2,1,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,2,1,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,1,0,0,0,2,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,1,0,0,1,3,1,0,17,berliin; muusika; hitler; saksamaa; üliõpilasrahutus; von; raadiosaade
+0,0,1,0,0,2,2,0,0,17,muusika; hitler; raadiosaade
+0,0,1,2,0,2,1,0,0,17,muusika; saksamaa; hitler; börsikrahh
+0,0,0,0,0,0,0,1,0,17,raadiosaade
+0,0,0,0,0,1,0,0,0,17,natsionaalsotsialistlik

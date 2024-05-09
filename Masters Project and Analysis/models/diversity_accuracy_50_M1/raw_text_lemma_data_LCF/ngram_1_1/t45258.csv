@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,1,1,0,17,festival; jürgen; vare; kreeka
-0,0,2,0,0,2,1,1,0,17,festival; jürgen; vare; kreeka
-0,0,2,0,0,2,1,1,0,17,festival; jürgen; vare; kreeka
-0,0,3,0,0,2,1,1,0,17,festival; laen; jürgen; vare; kreeka
-0,0,2,0,0,1,1,1,0,17,jürgen; laen; kreeka
-0,0,2,0,0,1,1,1,0,17,jürgen; laen; kreeka
-0,0,2,0,0,2,2,0,0,17,laen; jürgen; vare; kreeka
-0,0,0,0,0,3,1,2,0,17,viljandi; jürgen; kreeka
-0,1,1,0,0,2,2,2,0,17,viljandi; salme; jürgen; kreeka
-0,1,2,0,0,3,1,1,0,17,viljandi; salme; jürgen; kreeka; steiner
-0,1,2,0,0,2,1,1,0,17,viljandi; kreeka; steiner
+3,1,4,1,0,2,1,1,1,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; festival
+3,1,4,1,0,2,1,1,1,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; festival
+3,1,4,1,0,2,1,1,1,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; festival
+3,1,6,1,0,2,1,1,1,17,vare; venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; laen; festival
+3,1,5,1,0,1,1,1,1,17,venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; laen
+2,1,5,1,0,1,1,1,1,17,venemaa; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; laen
+1,1,5,1,0,2,4,1,1,17,vare; venemaa; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; kliimamuudatus
+3,2,3,1,0,4,2,3,1,17,venemaa; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; kliimamuudatus
+2,3,2,0,0,3,4,3,1,17,venemaa; salme; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; kliimamuudatus
+2,2,4,0,0,4,3,3,1,17,steiner; venemaa; salme; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; kliimamuudatus
+1,3,4,0,0,3,3,1,1,17,steiner; venemaa; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; kliimamuudatus

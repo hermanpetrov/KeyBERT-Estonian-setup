@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,2,0,1,1,2,5,1,17,norra; psühholoog; pekk; pirgu; mõisaproua; ruth-kaja; majapidajanna; concordia; mõis
-6,3,2,0,1,1,2,5,1,17,norra; psühholoog; pekk; pirgu; mõisaproua; ruth-kaja; majapidajanna; concordia; mõis
-6,3,2,0,1,1,2,5,1,17,norra; psühholoog; pekk; pirgu; mõisaproua; ruth-kaja; majapidajanna; concordia; mõis
-6,2,2,0,1,1,2,5,1,17,norra; psühholoog; pekk; mõisaproua; ruth-kaja; majapidajanna; concordia; pirgu; mõis
-6,2,1,0,1,1,3,5,1,17,norra; psühholoog; pekk; mõisaproua; ruth-kaja; majapidajanna; concordia; pirgu; mõis
-5,3,1,0,1,2,3,6,1,17,norra; psühholoog; pekk; mõisaproua; ruth-kaja; majapidajanna; concordia; pirgu; mõis
-3,2,1,4,1,1,1,6,1,17,norra; psühholoog; kilumets; margit; mõisaproua; majapidajanna; ruth-kaja; concordia; pirgu; mõis
-2,3,1,0,1,1,3,6,1,17,psühholoog; kilumets; pekk; mõisaproua; majapidajanna; ruth-kaja; concordia; pirgu; mõis
-2,1,0,1,1,1,1,4,1,17,susi; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-1,1,1,2,0,4,2,4,1,17,norra; kilumets; pekk; mõisaproua; majapidajanna; ruth-kaja; concordia; pirgu; mõis
-1,1,0,2,1,4,2,1,1,17,norra; pekk; mõisaproua; majapidajanna; ruth-kaja; concordia; mõis
+6,3,2,0,1,1,2,5,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+6,3,2,0,1,1,2,5,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+6,3,2,0,1,1,2,5,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+6,2,2,0,1,1,2,5,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+6,2,1,0,1,1,3,5,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+5,3,1,0,1,2,3,6,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja; psühholoog
+3,2,1,4,1,1,1,6,1,17,norra; majapidajanna; pirgu; mõisaproua; mõis; kilumets; margit; concordia; ruth-kaja; psühholoog
+2,3,1,0,1,1,3,6,1,17,majapidajanna; pirgu; mõisaproua; pekk; mõis; kilumets; concordia; ruth-kaja; psühholoog
+2,1,0,1,1,1,1,4,1,17,pirgu; mõisaproua; susi; concordia; mõis; ruth-kaja
+1,1,1,2,0,4,2,4,1,17,norra; majapidajanna; pirgu; mõisaproua; pekk; mõis; kilumets; concordia; ruth-kaja
+1,1,0,2,1,4,2,1,1,17,norra; majapidajanna; mõisaproua; pekk; mõis; concordia; ruth-kaja

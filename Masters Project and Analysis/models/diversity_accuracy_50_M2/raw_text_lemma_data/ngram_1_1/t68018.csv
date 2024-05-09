@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,1,1,1,1,0,12,kontseptualism; kunst; kuraator; narratiivsus; redimed
-2,0,1,0,1,1,1,1,0,12,kontseptualism; kunst; kuraator; narratiivsus; redimed
-2,0,1,0,1,1,1,1,0,12,kontseptualism; kunst; kuraator; narratiivsus; redimed
-2,0,1,0,1,1,1,1,0,12,kontseptualism; kunst; kuraator; narratiivsus; redimed
-2,0,0,0,1,2,2,1,0,12,kontseptualism; kunst; kuraator; narratiivsus; meedium; redimed
-2,0,0,0,1,1,0,1,0,12,kontseptualism; kuraator; narratiivsus; redimed
-0,0,0,0,1,1,0,1,0,12,kuraator; kriitika; redimed
+2,0,2,0,1,2,2,1,0,12,kunst; narratiivsus; redimed; kuraator; kontseptualism; kunstiajalugu
+2,0,2,0,1,2,2,1,0,12,kunst; narratiivsus; redimed; kuraator; kontseptualism; kunstiajalugu
+2,0,2,0,1,2,2,1,0,12,kunst; narratiivsus; redimed; kuraator; kontseptualism; kunstiajalugu
+2,0,2,0,1,2,2,1,0,12,kunst; narratiivsus; redimed; kuraator; kontseptualism; kunstiajalugu
+2,0,1,0,1,2,2,1,0,12,redimed; narratiivsus; kunst; kuraator; kontseptualism; kunstiajalugu; meedium
+2,0,1,0,1,1,1,1,0,12,redimed; narratiivsus; kuraator; kaasaegne; kontseptualism; kunstiajalugu
+0,0,0,0,1,1,1,1,0,12,kriitika; redimed; kaasaegne; kuraator
 0,0,0,0,0,0,0,1,0,12,kuraator
-0,0,1,0,0,0,1,1,0,12,kuraator; kriitika
+0,0,1,0,0,0,1,1,0,12,kriitika; kuraator
 0,0,0,0,0,0,0,0,0,12,
 0,0,0,0,0,1,1,0,0,12,kriitika; redimed

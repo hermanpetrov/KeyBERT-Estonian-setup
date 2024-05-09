@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,0,2,1,2,0,19,riina; aasta; eesti; võistlussport; põllumees
-2,2,1,0,0,2,1,2,0,19,riina; aasta; eesti; võistlussport; põllumees
-2,2,1,0,0,2,1,2,0,19,riina; aasta; eesti; võistlussport; põllumees
-2,2,1,0,0,2,1,2,0,19,riina; aasta; eesti; võistlussport; põllumees
-2,2,1,0,0,2,1,2,0,19,riina; aasta; eesti; võistlussport; põllumees
-2,2,1,0,0,1,1,1,0,19,sulev; riina; aasta; eesti; võistlussport; põllumees
-1,1,2,0,0,2,1,2,0,19,tervisesport; aasta; sulev; põllumees
-1,0,2,0,0,1,2,2,0,19,sulev; aasta; võistlussport; põllumees
-2,0,3,1,0,1,1,1,0,19,aasta; võistlussport; sulev
-1,0,1,1,0,1,1,2,0,19,aasta; võistlussport; sulev
-1,1,2,2,0,1,1,2,0,19,tammsaar; eesti; heino; aasta; sulev; põllumees
+2,2,1,0,0,1,2,0,0,19,eesti; riina; võistlussport; aasta; põllumees
+2,2,1,0,0,1,2,0,0,19,eesti; riina; võistlussport; aasta; põllumees
+2,2,1,0,0,1,2,0,0,19,eesti; riina; võistlussport; aasta; põllumees
+2,2,1,0,0,1,2,0,0,19,eesti; riina; võistlussport; aasta; põllumees
+2,2,1,0,0,1,2,0,0,19,eesti; riina; võistlussport; aasta; põllumees
+2,2,1,0,0,1,1,0,0,19,sulev; eesti; riina; võistlussport; aasta; põllumees
+1,1,2,0,0,1,2,0,0,19,sulev; tervisesport; aasta; põllumees
+1,0,2,0,0,2,2,0,0,19,võistlussport; sulev; aasta; põllumees
+2,0,3,1,0,1,1,0,0,19,võistlussport; sulev; aasta
+1,0,1,1,0,1,2,0,0,19,võistlussport; sulev; aasta
+1,1,2,2,0,1,2,0,0,19,tammsaar; heino; eesti; sulev; aasta; põllumees

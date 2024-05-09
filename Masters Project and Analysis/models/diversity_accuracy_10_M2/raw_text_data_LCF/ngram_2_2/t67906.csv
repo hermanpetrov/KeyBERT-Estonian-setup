@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,1,0,3,0,12,tammsaare; elmo; teater; utoopia; nüganen
-0,0,1,1,0,1,0,3,0,12,tammsaare; elmo; teater; utoopia; nüganen
-0,0,1,1,0,1,0,3,0,12,tammsaare; elmo; teater; utoopia; nüganen
-0,0,1,1,0,1,0,3,0,12,tammsaare; elmo; teater; utoopia; nüganen
-0,0,1,1,0,1,0,3,0,12,tammsaare; elmo; teater; utoopia; nüganen
-0,0,3,1,0,1,0,3,0,12,tammsaare; elmo; kontsert; teater; utoopia; nüganen
-0,0,0,0,0,0,0,2,1,12,elmo; kontsert; nüganen
-0,0,0,0,0,0,2,2,1,12,tammsaare; elmo; kontsert; nüganen
-0,0,2,0,0,0,1,2,1,12,tammsaare; elmo; kontsert; nüganen
-0,0,1,0,0,1,1,2,2,12,tammsaare; elmo; kapitalism; kontsert; nüganen
-0,0,0,0,0,3,0,2,2,12,tammsaare; stoppard; elmo; kapitalism; kontsert; nüganen
+0,0,1,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater
+0,0,1,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater
+0,0,1,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater
+0,0,1,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater
+0,0,1,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater
+0,0,3,1,0,0,3,0,0,12,nüganen; utoopia; elmo; tammsaare; teater; kontsert
+0,0,0,0,0,0,2,1,0,12,elmo; nüganen; kontsert
+0,0,0,0,0,2,2,1,0,12,elmo; nüganen; tammsaare; kontsert
+0,0,2,0,0,1,2,1,0,12,nüganen; elmo; tammsaare; kontsert
+0,0,1,0,0,1,2,2,0,12,elmo; nüganen; kontsert; tammsaare; kapitalism
+0,0,0,0,0,0,2,2,0,12,elmo; nüganen; kontsert; kapitalism

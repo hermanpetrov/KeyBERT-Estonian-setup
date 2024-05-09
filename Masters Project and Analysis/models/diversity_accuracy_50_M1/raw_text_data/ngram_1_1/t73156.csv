@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,0,1,0,12,esimene; one
-0,0,1,0,1,0,0,1,0,12,esimene; one
-0,0,1,0,1,0,0,1,0,12,esimene; one
-0,0,2,0,1,0,0,1,0,12,esimene; one
-0,0,2,0,1,0,0,0,0,12,esimene; one
+0,0,1,0,1,0,0,1,0,12,one; esimene
+0,0,1,0,1,0,0,1,0,12,one; esimene
+0,0,1,0,1,0,0,1,0,12,one; esimene
+0,0,2,0,1,0,0,1,0,12,one; esimene
+0,0,2,0,1,0,0,0,0,12,one; esimene
 0,0,1,0,1,0,0,0,0,12,one
-0,0,0,1,1,0,0,0,0,12,andres; one
-0,0,2,2,1,0,0,1,0,12,ameerika; andres; lugu; one; edetabel; euroopa
-0,0,2,1,1,1,0,0,0,12,ameerika; one; edetabel; euroopa
-0,0,1,1,1,1,0,1,0,12,lugu; one; edetabel; jõesaar
-0,0,2,2,1,2,0,1,0,12,hitt; lugu; one; jõesaar; edetabel; euroopa
+0,0,0,1,1,0,0,0,0,12,one; andres
+0,0,2,2,1,0,0,1,0,12,one; euroopa; edetabel; andres; lugu; ameerika
+0,0,2,1,1,1,0,0,0,12,one; edetabel; euroopa; ameerika
+0,0,1,1,1,1,0,1,0,12,lugu; one; jõesaar; edetabel
+0,0,2,2,1,2,0,1,0,12,one; hitt; edetabel; euroopa; lugu; jõesaar

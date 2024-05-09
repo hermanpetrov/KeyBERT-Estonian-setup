@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,1,0,1,0,0,15,psühhiaater; identiteet; dramaturg
 0,1,0,0,1,0,1,0,0,15,psühhiaater; identiteet; dramaturg
 0,1,0,0,1,0,1,0,0,15,psühhiaater; identiteet; dramaturg
-0,1,0,0,1,0,1,2,0,15,psühhiaater; luiga; identiteet; dramaturg; juhan
-0,0,0,0,1,1,1,2,0,15,luiga; mati; identiteet; dramaturg; juhan
-1,0,0,0,2,0,1,2,0,15,luiga; liit; juhan; identiteet; dramaturg; vahing
-0,0,0,1,2,1,1,3,0,15,luiga; liit; juhan; identiteet; dramaturg; vahing
-0,0,0,0,2,1,1,0,0,15,dramaturg; identiteet; liit; vahing
-0,1,0,0,1,1,1,0,0,15,vahing; dramaturg; liit
+0,1,0,0,1,0,1,2,0,15,dramaturg; juhan; psühhiaater; identiteet; luiga
+0,0,0,0,1,1,1,3,0,15,mati; dramaturg; juhan; nõukogu; identiteet; luiga
+1,0,0,0,2,0,1,3,0,15,dramaturg; vahing; juhan; nõukogu; identiteet; luiga; liit
+0,0,0,1,2,1,1,3,0,15,dramaturg; vahing; juhan; identiteet; luiga; liit
+0,0,0,0,2,1,1,0,0,15,identiteet; dramaturg; vahing; liit
+0,2,0,0,1,1,1,0,0,15,dramaturg; vahing; nõukogu; liit

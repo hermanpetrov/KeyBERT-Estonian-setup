@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,0,1,0,0,19,orpheus; musicus; folkloor
-1,0,0,0,1,0,1,0,0,19,orpheus; musicus; folkloor
-1,0,0,0,1,0,1,0,0,19,orpheus; musicus; folkloor
-1,0,0,0,1,0,1,0,0,19,orpheus; musicus; folkloor
-1,0,2,0,1,0,1,0,0,19,orpheus; bach; musicus; folkloor; staak
-1,0,1,0,1,0,1,0,0,19,staak; orpheus; musicus; folkloor
-1,1,2,1,1,2,2,0,0,19,andres; lill; folkloor; orpheus; bach; musicus; staak; viiul; igor
-0,0,0,0,1,2,0,0,0,19,viiul; orpheus; bach
-0,0,1,2,1,1,0,0,0,19,musicus; orpheus; bach; viiul; igor
-0,0,2,3,2,1,0,0,0,19,bach; orpheus; musicus; folkloor; staak; viiul; mustonen; igor
-0,1,0,3,2,0,0,1,0,19,orpheus; musicus; staak; viiul; mustonen; igor
+1,0,0,0,1,0,1,0,0,19,musicus; folkloor; orpheus
+1,0,0,0,1,0,1,0,0,19,musicus; folkloor; orpheus
+1,0,0,0,1,0,1,0,0,19,musicus; folkloor; orpheus
+1,0,0,0,1,0,1,0,0,19,musicus; folkloor; orpheus
+1,0,2,0,1,0,1,0,0,19,folkloor; musicus; bach; staak; orpheus
+1,0,1,0,1,0,1,0,0,19,musicus; folkloor; orpheus; staak
+1,1,2,1,1,2,2,0,0,19,lill; musicus; bach; igor; viiul; staak; folkloor; andres; orpheus
+0,0,0,0,1,2,0,0,0,19,bach; viiul; orpheus
+0,0,1,2,1,1,0,0,0,19,musicus; bach; igor; viiul; orpheus
+0,0,2,3,2,1,0,0,0,19,folkloor; viiul; mustonen; musicus; bach; igor; staak; orpheus
+0,1,0,3,2,0,0,1,0,19,orpheus; mustonen; musicus; igor; viiul; staak

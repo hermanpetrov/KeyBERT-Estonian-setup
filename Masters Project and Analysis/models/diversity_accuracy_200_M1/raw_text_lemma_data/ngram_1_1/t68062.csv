@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,2,2,2,0,0,13,hoiatus; hanso; soldat; masing; auto; granaat; isa; elmar
-2,2,1,0,2,2,2,0,0,13,hoiatus; hanso; soldat; masing; auto; granaat; isa; elmar
-2,2,2,0,4,3,3,1,0,13,masing; hoiatus; hanso; viktor; soldat; auto; granaat; isa; elmar
-2,2,3,0,4,3,4,1,0,13,masing; hoiatus; hanso; soldat; auto; viktor; isa; granaat; elmar
-2,1,3,0,4,4,4,2,0,13,masing; hanso; soldat; auto; viktor; isa; granaat; elmar
-0,1,2,0,4,3,2,3,0,13,soldat; hanso; auto; viktor; isa; granaat; elmar
-0,1,3,2,4,4,1,2,1,13,masing; soldat; hanso; auto; viktor; isa; granaat; elmar
-0,2,2,4,3,4,4,2,1,13,masing; hanso; soldat; auto; viktor; isa; granaat; elmar
-0,1,3,5,4,3,1,2,1,13,masing; hoiatus; hanso; soldat; auto; viktor; isa; granaat; elmar
-1,0,4,4,3,3,1,2,1,13,mors; masing; hoiatus; hanso; soldat; auto; viktor; isa; granaat; elmar
-0,0,4,4,2,3,0,2,1,13,mors; masing; hanso; soldat; auto; viktor; isa; granaat
+4,2,2,2,2,3,5,1,1,13,julgeolek; masing; soldat; metsavend; elmar; ülekuulamine; isa; auto; hoiatus; hanso; granaat
+4,2,2,2,2,3,5,1,1,13,julgeolek; masing; soldat; metsavend; elmar; ülekuulamine; isa; auto; hoiatus; hanso; granaat
+4,2,3,2,4,4,6,2,1,13,julgeolek; masing; soldat; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso; granaat
+4,2,4,2,4,4,7,2,1,13,julgeolek; metsavend; viktor; ülekuulamine; isa; auto; granaat; masing; soldat; elmar; hoiatus; hanso
+4,1,4,2,4,4,7,3,1,13,julgeolek; masing; soldat; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; granaat
+1,1,3,2,5,4,5,4,1,13,julgeolek; soldat; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso; granaat
+0,1,4,2,4,4,2,3,2,13,masing; soldat; metsavend; viktor; elmar; isa; auto; hanso; granaat
+0,2,3,4,3,4,6,2,2,13,masing; soldat; julgeolek; metsavend; viktor; elmar; isa; auto; hanso; granaat
+0,1,4,5,4,3,1,2,2,13,masing; soldat; metsavend; viktor; elmar; isa; auto; hoiatus; hanso; granaat
+1,0,5,4,3,3,1,2,2,13,soldat; masing; metsavend; viktor; elmar; isa; auto; hoiatus; mors; hanso; granaat
+1,0,5,4,2,3,0,2,2,13,soldat; masing; metsavend; viktor; isa; auto; mors; hanso; granaat

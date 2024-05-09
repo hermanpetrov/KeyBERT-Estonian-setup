@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
-1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
-1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
-1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
-1,1,1,0,0,2,1,1,0,14,ani; spinning; esinemine; teater; näitleja
-1,1,1,0,0,1,0,0,0,14,teater; ani; spinning
-1,1,0,0,0,1,0,1,0,14,teater; ani; spinning; esinemine
-1,0,1,0,0,0,1,0,0,14,elmar; spinning; endel
-1,0,0,1,0,0,1,0,0,14,ani; spinning; endel
-0,0,1,1,0,0,0,0,0,14,elmar; ani
+2,1,1,0,0,2,1,1,0,14,esinemine; spinning; ani; salulaht; näitleja; teater
+2,1,1,0,0,2,1,1,0,14,esinemine; spinning; ani; salulaht; näitleja; teater
+2,1,1,0,0,2,1,1,0,14,esinemine; spinning; ani; salulaht; näitleja; teater
+2,1,1,0,0,2,1,1,0,14,esinemine; spinning; ani; salulaht; näitleja; teater
+2,1,1,0,0,2,1,1,0,14,esinemine; spinning; ani; salulaht; näitleja; teater
+2,1,1,0,0,1,0,0,0,14,salulaht; ani; teater; spinning
+2,1,0,0,0,1,0,1,0,14,esinemine; ani; spinning; salulaht; teater
+2,0,1,0,0,0,1,0,0,14,salulaht; elmar; endel; spinning
+2,0,0,1,0,0,1,0,0,14,salulaht; ani; spinning; endel
+0,0,1,1,0,0,0,0,0,14,ani; elmar
 0,0,1,0,0,0,0,0,0,14,elmar

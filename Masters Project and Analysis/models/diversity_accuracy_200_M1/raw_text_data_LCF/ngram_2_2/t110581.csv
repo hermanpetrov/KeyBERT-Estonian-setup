@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,6,6,2,4,6,6,5,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-6,7,6,7,2,4,6,6,5,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-6,7,4,7,1,4,7,5,5,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-6,6,6,7,1,4,7,7,5,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-5,5,6,7,4,6,7,7,5,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-4,4,6,5,5,5,7,7,6,12,villem; hobune; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-3,4,5,6,5,4,4,6,6,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
-2,1,4,7,4,3,4,4,7,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
-2,1,2,7,4,3,4,6,6,12,villem; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; eduard; ilus
-3,1,6,6,6,4,3,4,8,12,villem; eduard; kristus; kubjas; proua; mõisavalitseja; mimmi; mõisnik; hobune; ilus
-4,1,6,6,6,4,3,6,6,12,hobune; villem; kristus; kubjas; proua; mimmi; mõisnik; eduard; ilus
+6,7,6,6,2,6,6,5,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+6,7,6,7,2,6,6,5,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+6,7,4,7,1,7,5,5,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+6,6,6,7,1,7,7,5,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+5,5,6,7,4,7,7,5,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+4,4,6,5,5,7,7,6,0,12,mimmi; villem; kristus; hobune; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+3,4,5,6,5,4,6,6,0,12,mimmi; villem; kristus; mõisavalitseja; ilus; proua; mõisnik; eduard; hobune; kubjas
+2,1,4,7,4,4,4,7,0,12,kristus; villem; mõisavalitseja; ilus; kubjas; proua; mõisnik; eduard; hobune; mimmi
+2,1,2,7,4,4,6,6,0,12,mimmi; kristus; villem; ilus; proua; mõisnik; eduard; mõisavalitseja; kubjas
+3,1,6,6,6,3,4,8,0,12,kristus; villem; mõisavalitseja; kubjas; ilus; proua; mõisnik; eduard; hobune; mimmi
+4,1,6,6,6,3,6,6,0,12,kristus; villem; ilus; kubjas; proua; mõisnik; eduard; hobune; mimmi

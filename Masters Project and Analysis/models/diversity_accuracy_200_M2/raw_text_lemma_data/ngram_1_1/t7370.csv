@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,7,4,5,5,6,5,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,5,7,4,5,5,6,5,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,5,7,4,5,6,6,6,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,6,7,4,4,6,7,7,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,4,6,5,4,7,7,6,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,4,6,6,4,8,5,7,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-4,3,6,4,6,6,5,6,2,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-4,5,7,6,6,5,5,6,3,12,eero; juubel; hääl; raadio; sepling; veike; ferdinand; buratino; televisioon
-5,3,7,7,5,5,6,5,2,12,eero; juubel; hääl; raadio; sepling; ferdinand; veike; buratino; televisioon
-4,3,8,7,5,6,6,5,3,12,eero; juubel; hääl; raadio; sepling; buratino; veike; ferdinand; televisioon
-3,3,7,6,7,5,5,6,6,12,eero; juubel; hääl; raadio; sepling; ferdinand; veike; buratino; televisioon
+7,8,10,7,6,7,9,8,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+7,7,10,7,6,8,9,8,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+8,6,9,7,6,8,9,9,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+8,7,8,7,5,8,10,10,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+8,5,7,8,5,9,10,9,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+8,5,7,9,5,10,8,10,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+7,4,8,7,8,7,8,9,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+7,6,8,8,8,6,7,8,3,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+8,4,8,9,7,7,8,7,2,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+7,4,9,9,6,8,8,6,4,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike
+6,4,8,8,8,7,6,7,7,12,juubel; nukuteater; eero; hääl; televisioon; buratino; ferdinand; raadio; kultuuriminister; kuuldemäng; sepling; veike

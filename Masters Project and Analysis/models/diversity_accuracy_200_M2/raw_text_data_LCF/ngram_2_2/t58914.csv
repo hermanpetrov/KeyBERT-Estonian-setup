@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,1,2,2,3,0,1,0,12,rand; liiv; torm; mageveehorisont; sadam; prognoos; veetõus
-4,1,0,3,2,2,0,1,0,12,elukvaliteet; rand; liiv; torm; mageveehorisont; sadam; prognoos; veetõus
-4,2,0,3,2,2,0,1,0,12,elukvaliteet; rand; liiv; torm; mageveehorisont; sadam; prognoos; veetõus
-4,1,0,2,2,2,0,2,0,12,elukvaliteet; liiv; torm; mageveehorisont; sadam; prognoos; veetõus
-5,1,0,2,3,1,0,3,1,12,elukvaliteet; rand; liiv; torm; mageveehorisont; sadam; prognoos; veetõus; tamm
-2,2,0,1,3,2,0,4,1,12,elukvaliteet; rand; liiv; torm; mageveehorisont; prognoos; sadam; veetõus; tamm
-1,3,1,3,3,2,0,6,1,12,elukvaliteet; rand; liiv; torm; mageveehorisont; prognoos; sadam; veetõus; tamm
-2,1,3,2,3,1,1,3,3,12,elukvaliteet; liiv; torm; sadam; prognoos; veetõus; tamm
-1,1,3,4,3,2,3,4,2,12,elukvaliteet; rand; liiv; torm; sadam; prognoos; veetõus; tamm
-2,0,3,4,3,0,1,3,2,12,elukvaliteet; rand; liiv; torm; sadam; mageveehorisont; prognoos; veetõus; tamm
-1,1,2,3,3,1,1,4,1,12,elukvaliteet; liiv; torm; sadam; prognoos; veetõus; tamm
+4,1,1,2,2,0,1,0,0,12,torm; veetõus; prognoos; mageveehorisont; sadam; liiv
+4,1,0,3,2,0,1,0,0,12,torm; elukvaliteet; veetõus; prognoos; mageveehorisont; sadam; liiv
+4,2,0,3,2,0,1,0,0,12,elukvaliteet; mageveehorisont; liiv; torm; rand; veetõus; prognoos; sadam
+4,1,0,2,2,0,2,0,0,12,elukvaliteet; mageveehorisont; liiv; torm; veetõus; prognoos; sadam
+5,1,0,2,3,0,3,1,0,12,elukvaliteet; tamm; mageveehorisont; liiv; torm; rand; veetõus; prognoos; sadam
+2,2,0,1,3,0,4,1,0,12,elukvaliteet; tamm; mageveehorisont; liiv; torm; rand; veetõus; prognoos; sadam
+1,3,1,3,3,0,6,1,0,12,elukvaliteet; tamm; mageveehorisont; liiv; torm; rand; veetõus; prognoos; sadam
+2,1,3,2,3,1,3,3,0,12,torm; veetõus; prognoos; tamm; sadam; liiv
+1,1,3,4,3,3,4,2,0,12,elukvaliteet; tamm; liiv; torm; rand; veetõus; prognoos; sadam
+2,0,3,4,3,1,3,2,0,12,elukvaliteet; tamm; mageveehorisont; liiv; torm; rand; veetõus; prognoos; sadam
+1,1,2,3,3,1,4,1,0,12,elukvaliteet; tamm; liiv; torm; veetõus; prognoos; sadam

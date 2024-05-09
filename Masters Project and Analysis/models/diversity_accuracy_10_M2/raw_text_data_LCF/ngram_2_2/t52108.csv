@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,0,0,2,2,2,0,12,berliini; konstruktor; moenädal; moekunstnik
-0,2,2,0,0,2,2,2,0,12,berliini; konstruktor; moenädal; moekunstnik
-0,2,2,0,0,2,2,2,0,12,berliini; konstruktor; moenädal; moekunstnik
-0,2,2,0,0,2,2,2,0,12,berliini; konstruktor; moenädal; moekunstnik
-0,2,3,0,0,2,1,2,0,12,konstruktor; berliini; kollektsioon; moekunstnik
-0,2,1,0,0,2,1,2,0,12,berliini; konstruktor; moekunstnik
-0,2,2,1,0,2,2,2,0,12,berliini; konstruktor; kollektsioon; moekunstnik
-0,2,1,0,0,2,2,3,0,12,berliini; moemaja; moekunstnik
-0,1,1,1,0,0,2,2,0,12,berliini; ateljee; kollektsioon; moekunstnik
-0,1,1,1,0,2,1,2,0,12,berliini; ateljee; moekunstnik
-0,1,2,1,0,1,1,2,0,12,lilli; berliini; ateljee; moekunstnik
+0,2,2,0,0,2,2,0,0,12,berliini; konstruktor; moekunstnik; moenädal
+0,2,2,0,0,2,2,0,0,12,berliini; konstruktor; moekunstnik; moenädal
+0,2,2,0,0,2,2,0,0,12,berliini; konstruktor; moekunstnik; moenädal
+0,2,2,0,0,2,2,0,0,12,berliini; konstruktor; moekunstnik; moenädal
+0,2,3,0,0,1,2,0,0,12,berliini; konstruktor; moekunstnik; kollektsioon
+0,2,1,0,0,1,2,0,0,12,berliini; konstruktor; moekunstnik
+0,2,2,1,0,2,2,0,0,12,berliini; konstruktor; moekunstnik
+0,2,1,0,0,2,3,0,0,12,berliini; moekunstnik; moemaja
+0,1,1,1,0,2,2,0,0,12,ateljee; berliini; moekunstnik; kollektsioon
+0,1,1,1,0,1,2,0,0,12,ateljee; berliini; moekunstnik
+0,1,2,1,0,1,2,0,0,12,berliini; lilli; moekunstnik

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-1,1,0,0,0,1,1,1,1,11,meeleliigutus; austraalia
-0,1,0,0,0,1,1,1,1,11,austraalia
-0,1,0,0,0,1,1,1,1,11,austraalia
-0,1,0,0,0,1,1,1,1,11,austraalia
-0,2,0,0,0,0,1,1,1,11,meeleliigutus; austraalia
-0,2,0,0,0,1,1,2,1,11,meeleliigutus; eesti; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+1,1,0,0,0,1,1,1,0,11,meeleliigutus; austraalia
+0,1,0,0,0,1,1,1,0,11,austraalia
+0,1,0,0,0,1,1,1,0,11,austraalia
+0,1,0,0,0,1,1,1,0,11,austraalia
+0,2,0,0,0,1,1,1,0,11,austraalia; meeleliigutus
+0,2,0,0,0,1,2,1,0,11,meeleliigutus; austraalia; eesti

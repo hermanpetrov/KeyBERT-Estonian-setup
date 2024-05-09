@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,0,3,3,4,2,2,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-2,3,2,0,3,3,4,2,2,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-2,3,2,0,3,3,4,2,1,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-2,3,3,0,3,3,4,2,1,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-2,3,2,0,3,3,4,2,1,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-2,3,2,0,3,4,3,2,1,13,eino; muusika; institutsioon; eesti; steinway; publik; tamberg; noor
-3,3,2,1,3,4,3,3,2,13,eino; muusika; institutsioon; eesti; steinway; traditsioon; publik; tamberg; noor
-3,3,2,3,3,6,3,3,2,13,eino; muusika; institutsioon; eesti; steinway; traditsioon; publik; tamberg; noor
-3,3,3,2,3,6,3,2,2,13,eino; muusika; institutsioon; eesti; steinway; traditsioon; publik; tamberg; noor
-3,2,1,4,3,5,3,2,3,13,eino; muusika; eesti; steinway; publik; tamberg; noor
-1,1,1,4,3,4,4,1,2,13,muusika; eesti; steinway; traditsioon; publik; tamberg; noor
+2,6,3,3,3,5,6,4,3,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+2,6,3,3,3,5,6,4,3,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+2,6,3,3,3,5,6,4,2,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+2,6,4,3,3,5,6,4,2,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+2,6,3,3,3,5,6,4,2,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja
+3,6,3,3,3,5,5,3,2,13,eesti; mammutkontsert; institutsioon; noor; tamberg; steinway; eino; nüüdismuusika; publik; muusika; helilooja; uudisteos
+4,5,3,2,3,6,4,4,3,13,eesti; traditsioon; institutsioon; noor; tamberg; mammutkontsert; steinway; eino; nüüdismuusika; publik; muusika; helilooja; uudisteos
+3,4,3,4,3,7,5,6,3,13,tamberg; eesti; institutsioon; traditsioon; noor; mammutkontsert; steinway; eino; nüüdismuusika; publik; muusika; helilooja; uudisteos
+3,4,4,3,3,8,4,4,2,13,tamberg; eesti; institutsioon; traditsioon; noor; mammutkontsert; steinway; eino; publik; muusika; helilooja; uudisteos
+4,3,2,5,3,6,4,4,4,13,eesti; tamberg; noor; steinway; eino; publik; muusika; helilooja; uudisteos
+2,2,2,5,3,5,4,3,4,13,eesti; tamberg; traditsioon; noor; steinway; publik; muusika; helilooja; uudisteos

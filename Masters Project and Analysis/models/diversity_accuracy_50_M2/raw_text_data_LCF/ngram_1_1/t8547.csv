@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,1,2,1,13,muusika; haapsalu; presidendi; liivia; moekunstnik
-0,1,1,0,0,0,1,2,1,13,muusika; haapsalu; presidendi; liivia; moekunstnik
-0,1,0,0,0,0,1,2,1,13,haapsalu; presidendi; liivia; moekunstnik
-1,2,0,0,0,0,1,2,1,13,muusika; haapsalu; presidendi; liivia; moekunstnik
-1,2,0,0,0,0,1,2,1,13,muusika; haapsalu; presidendi; liivia; moekunstnik
-1,1,1,0,0,1,1,2,2,13,muusika; haapsalu; presidendi; liivia; moekunstnik
-1,1,1,0,0,1,1,0,1,13,muusika; presidendi; liivia; moekunstnik
-1,0,0,0,0,1,1,0,2,13,muusika; haapsalu; presidendi; liivia
-0,0,0,0,0,0,1,0,2,13,presidendi; muusika
-0,0,0,1,0,0,0,1,2,13,presidendi; julgus; muusika
-0,1,1,2,0,0,2,1,2,13,muusika; haapsalu; presidendi; julgus; liivia
+0,1,1,0,0,1,2,1,0,13,muusika; haapsalu; presidendi; moekunstnik; liivia
+0,1,1,0,0,1,2,1,0,13,muusika; haapsalu; presidendi; moekunstnik; liivia
+0,1,0,0,0,1,2,1,0,13,haapsalu; presidendi; moekunstnik; liivia
+1,2,0,0,0,1,2,1,0,13,muusika; haapsalu; presidendi; moekunstnik; liivia
+1,2,0,0,0,1,2,1,0,13,muusika; haapsalu; presidendi; moekunstnik; liivia
+1,1,1,0,0,1,2,2,0,13,muusika; haapsalu; presidendi; moekunstnik; liivia
+1,1,1,0,0,1,0,1,0,13,muusika; presidendi; moekunstnik; liivia
+1,0,0,0,0,1,0,2,0,13,muusika; haapsalu; presidendi
+0,0,0,0,0,1,0,2,0,13,muusika; presidendi
+0,0,0,1,0,0,1,2,0,13,muusika; presidendi; julgus
+0,1,1,2,0,2,1,2,0,13,haapsalu; muusika; presidendi; julgus; liivia

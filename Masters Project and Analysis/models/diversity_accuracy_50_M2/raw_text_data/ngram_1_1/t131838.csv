@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,1,1,1,0,15,ed; kuuekümnendad
-0,1,0,1,0,1,1,1,0,15,ed; kuuekümnendad
-0,1,0,1,0,1,1,1,0,15,ed; kuuekümnendad
-0,1,0,1,0,1,1,2,0,15,ed; kuuekümnendad; maania
-0,1,0,1,0,1,1,2,0,15,ed; kuuekümnendad; maania
-0,1,0,1,0,2,2,1,0,15,ed; kuuekümnendad; maania; kuumad
-1,0,1,1,0,2,2,2,0,15,kuuekümnendad; maania; kuumad; biitlid
-0,0,1,0,0,2,1,1,0,15,kuumad; kuuekümnendad; maania; harrison
-0,0,0,0,0,1,1,1,2,15,harrison; kuuekümnendad; maania; kuumad
-0,0,1,0,0,2,2,1,1,15,kuuekümnendad; maania; kuumad; mccartney
-0,0,0,1,0,1,1,1,1,15,kuumad; kuuekümnendad; maania
+0,1,0,1,0,1,1,1,0,15,kuuekümnendad; ed
+0,1,0,1,0,1,1,1,0,15,kuuekümnendad; ed
+0,1,0,1,0,1,1,1,0,15,kuuekümnendad; ed
+0,1,0,1,0,1,1,2,0,15,maania; kuuekümnendad; ed
+0,1,0,1,0,1,1,2,0,15,maania; kuuekümnendad; ed
+0,1,0,1,0,2,2,1,0,15,maania; kuuekümnendad; kuumad; ed
+1,0,1,1,0,2,2,2,0,15,biitlid; maania; kuuekümnendad; kuumad
+0,0,1,0,0,2,1,1,0,15,maania; harrison; kuumad; kuuekümnendad
+0,0,0,0,0,1,1,1,2,15,maania; harrison; kuuekümnendad; kuumad
+0,0,1,0,0,2,2,1,1,15,maania; mccartney; kuuekümnendad; kuumad
+0,0,0,1,0,1,1,1,1,15,maania; kuumad; kuuekümnendad

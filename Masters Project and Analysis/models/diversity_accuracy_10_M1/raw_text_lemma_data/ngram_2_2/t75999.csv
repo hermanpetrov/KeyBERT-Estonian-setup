@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,eriline; mass; näitleja
-0,1,0,0,1,0,0,1,0,12,mass; näitleja; raha
-1,1,0,1,1,0,0,1,0,12,mass; raha; julgus; näitleja
-1,1,0,0,1,0,0,3,0,12,eriline; kristi; mass; raha; aule; näitleja
-1,1,1,0,1,1,0,3,0,12,eriline; kristi; aule; näitleja
-1,0,1,0,2,0,0,1,0,12,eriline; mass; raha; näitleja
+0,1,1,1,1,0,0,1,0,12,mass; ajakirjandus; näitleja; ülikool; eriline
+0,1,1,1,1,0,0,1,0,12,mass; ajakirjandus; näitleja; ülikool; eriline
+0,1,1,1,1,0,0,1,0,12,mass; ajakirjandus; näitleja; ülikool; eriline
+0,1,1,1,1,0,0,1,0,12,mass; ajakirjandus; näitleja; ülikool; eriline
+0,1,0,1,1,0,0,1,0,12,näitleja; mass; eriline; ajakirjandus
+0,1,1,1,1,0,0,1,0,12,mass; ajakirjandus; näitleja; ülikool; eriline
+0,1,1,1,1,1,0,1,0,12,mass; raha; ajakirjandus; ülikool; näitleja
+1,1,1,2,1,0,0,1,0,12,mass; julgus; raha; ajakirjandus; näitleja
+1,1,1,0,1,0,1,3,0,12,aule; mass; raha; ajakirjandus; näitleja; ülikool; eriline; kristi
+1,1,1,0,1,1,1,3,0,12,aule; eriline; ülikool; näitleja; kristi
+1,0,1,0,2,0,0,2,0,12,mass; raha; ajakirjandus; näitleja; eriline

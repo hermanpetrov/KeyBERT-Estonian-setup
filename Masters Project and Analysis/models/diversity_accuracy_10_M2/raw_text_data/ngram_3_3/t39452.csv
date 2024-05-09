@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,1,1,1,1,13,erakondade
 0,1,0,0,0,1,1,1,1,13,erakondade
 0,1,0,0,0,1,1,1,1,13,erakondade
-0,1,1,0,0,1,1,1,1,13,erakondade; sõidusoodustus
-0,1,1,1,0,1,1,1,1,13,erakondade; sõidusoodustus
-0,0,0,1,0,1,2,1,1,13,erakondade; tagatisraha
-0,0,1,0,0,1,2,1,1,13,erakondade; tagatisraha; sõidusoodustus
-0,0,1,0,0,1,2,1,1,13,erakondade; tagatisraha; sõidusoodustus
-0,0,1,1,0,2,2,1,1,13,avo; sõidusoodustus; erakondade; tagatisraha
+0,1,1,0,0,1,1,1,1,13,sõidusoodustus; erakondade
+0,1,1,1,0,1,1,1,1,13,sõidusoodustus; erakondade
+0,0,0,1,0,1,2,1,1,13,tagatisraha; erakondade
+0,0,1,0,0,1,2,1,1,13,sõidusoodustus; tagatisraha; erakondade
+0,0,1,0,0,1,2,1,1,13,sõidusoodustus; tagatisraha; erakondade
+0,0,1,1,0,2,2,1,1,13,sõidusoodustus; erakondade; avo; tagatisraha

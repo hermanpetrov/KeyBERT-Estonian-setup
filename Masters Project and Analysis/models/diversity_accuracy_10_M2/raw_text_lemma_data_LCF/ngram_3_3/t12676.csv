@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,3,0,2,2,3,2,1,13,emilio; crossover; artist; stefan; gloria
-2,3,3,0,2,2,3,2,1,13,emilio; crossover; artist; stefan; gloria
-2,3,3,0,2,2,3,2,1,13,emilio; crossover; artist; stefan; gloria
-2,3,3,0,2,2,3,2,1,13,emilio; crossover; artist; stefan; gloria
-2,2,3,0,2,2,3,2,1,13,emilio; crossover; artist; stefan; gloria
-2,3,3,0,2,2,3,2,0,13,emilio; crossover; artist; stefan; gloria
-1,2,4,0,2,4,4,2,0,13,crossover; artist; emilio; stefan; gloria
-3,2,4,0,3,3,4,3,0,13,crossover; artist; emilio; stefan; gloria; ballaad
-3,2,4,0,3,4,4,3,0,13,estefan; crossover; artist; emilio; grammy; stefan; gloria; ballaad
-2,2,4,0,3,3,4,4,1,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria
-1,2,3,0,3,3,3,3,2,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria
+2,3,3,0,2,2,3,2,1,13,artist; emilio; gloria; stefan; crossover
+2,3,3,0,2,2,3,2,1,13,artist; emilio; gloria; stefan; crossover
+2,3,3,0,2,2,3,2,1,13,artist; emilio; gloria; stefan; crossover
+2,3,3,0,2,2,3,2,1,13,artist; emilio; gloria; stefan; crossover
+2,2,3,0,2,2,3,2,1,13,artist; emilio; gloria; stefan; crossover
+2,3,3,0,2,2,3,2,0,13,artist; emilio; gloria; stefan; crossover
+1,2,4,0,2,4,4,2,0,13,emilio; gloria; stefan; artist; crossover
+3,2,4,0,3,3,4,3,0,13,emilio; gloria; stefan; artist; ballaad; crossover
+3,2,4,0,3,4,4,3,0,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; crossover
+2,2,4,0,3,3,4,4,1,13,grammy; emilio; gloria; stefan; artist; estefan; kuub; crossover
+1,2,3,0,3,3,3,3,2,13,grammy; emilio; gloria; stefan; artist; estefan; kuub; crossover

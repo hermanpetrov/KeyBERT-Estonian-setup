@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,0,0,0,0,17,akustika
-0,0,1,0,0,1,0,0,0,17,annika; akustika
-0,0,1,0,0,1,0,0,0,17,annika; akustika
-0,0,1,0,0,1,0,0,0,17,festival; akustika
+0,1,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester; linnaorkester
+0,1,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester; linnaorkester
+0,1,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester; linnaorkester
+0,1,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester; linnaorkester
+0,1,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester; linnaorkester
+0,0,1,0,0,0,1,0,0,17,akustika; sümfooniaorkester
+0,0,1,0,0,1,0,0,0,17,akustika; sümfooniaorkester
+0,0,1,1,0,0,0,0,0,17,akustika; läänemeri
+0,1,1,0,0,1,0,0,0,17,akustika; linnaorkester; annika
+0,1,1,0,0,1,0,0,0,17,akustika; linnaorkester; annika
+0,1,1,0,0,2,0,0,0,17,akustika; linnaorkester; kontserdisaal; festival

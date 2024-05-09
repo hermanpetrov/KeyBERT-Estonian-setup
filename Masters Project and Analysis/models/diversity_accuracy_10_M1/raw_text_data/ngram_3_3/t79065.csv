@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 2,2,1,1,0,1,1,1,0,12,amazonas; inka; surnute; linn
 2,2,1,1,0,1,1,1,0,12,amazonas; inka; surnute; linn
 3,1,1,1,0,1,1,1,0,12,amazonas; inka; surnute; linn
-0,1,1,1,0,1,2,1,0,12,amazonas; inka; salapärane
-0,1,1,0,1,1,2,0,0,12,amazonas; inka; vihm; kaupo
-0,1,1,0,1,1,2,0,0,12,amazonas; inka; vihm; kaupo
+0,1,1,1,0,1,2,1,0,12,salapärane; amazonas; inka
+0,1,1,0,1,1,2,0,0,12,amazonas; inka; kaupo; vihm
+0,1,1,0,1,1,2,0,0,12,amazonas; inka; kaupo; vihm

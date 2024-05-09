@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,4,0,0,2,3,0,1,15,soome; kirjutamine; mika; keel; õppimine; eesti
-0,0,4,0,0,2,3,0,1,15,soome; kirjutamine; mika; keel; õppimine; eesti
-0,0,3,0,0,2,3,0,1,15,soome; mika; keel; õppimine; eesti
-0,0,2,0,0,2,3,0,1,15,soome; mika; keel; eesti
-0,0,1,0,0,2,3,1,1,15,soome; mika; keel; eesti
-0,0,1,0,0,2,3,1,1,15,mika; keel; eesti; kullo
-0,0,1,0,1,1,1,0,1,15,soome; keel; vend; eesti
-0,0,3,1,1,0,3,0,1,15,soome; kirjutamine; johannes; keel; vend; eesti; kullo
-0,1,0,1,1,1,2,0,1,15,mika; johannes; õppimine; aavik; vend; eesti
-0,0,0,2,1,1,2,0,1,15,raamat; keränen; mika; johannes; vend; eesti
-0,0,0,1,1,2,2,0,1,15,raamat; mika; johannes; vend; eesti
+2,1,4,0,0,4,4,2,1,15,õppimine; sõnaloome; soome; eesti; mika; sõnavõistlus; võõrsõna; keel; kirjutamine
+2,1,4,0,0,4,4,2,1,15,õppimine; sõnaloome; soome; eesti; mika; sõnavõistlus; võõrsõna; keel; kirjutamine
+2,1,3,0,0,4,4,2,1,15,õppimine; sõnaloome; soome; eesti; mika; sõnavõistlus; võõrsõna; keel
+2,1,2,0,0,4,4,2,1,15,sõnaloome; soome; eesti; mika; sõnavõistlus; võõrsõna; keel
+2,1,1,0,0,4,4,3,1,15,sõnaloome; soome; eesti; mika; sõnavõistlus; võõrsõna; keel
+2,1,1,0,0,2,4,2,1,15,keel; sõnaloome; eesti; kullo; mika; sõnavõistlus
+2,1,2,0,1,1,2,1,1,15,keel; sõnaloome; vend; soome; eesti; sõnavõistlus; võõrsõna
+2,1,3,1,1,0,4,0,1,15,vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; keel; kirjutamine; kullo
+2,2,0,1,1,1,3,0,1,15,õppimine; vend; sõnaloome; eesti; johannes; mika; sõnavõistlus; aavik
+1,1,0,2,1,1,2,0,1,15,vend; keränen; sõnaloome; raamat; eesti; johannes; mika
+1,1,0,1,1,2,2,0,1,15,vend; sõnaloome; raamat; eesti; johannes; mika

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,5,3,1,4,2,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,4,5,3,1,4,2,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,4,5,3,1,4,2,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,4,5,3,1,4,2,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,3,3,3,1,4,2,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-3,4,5,3,1,5,2,6,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,5,5,5,1,4,1,6,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-3,2,5,4,1,5,3,6,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,3,5,6,1,6,4,3,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,2,4,5,0,5,4,4,4,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
-4,2,5,5,0,5,5,4,5,10,töö; raha; lavakas; tele; näitleja; raadio; armastus
+4,6,7,3,1,6,4,6,6,10,keskkool; tele; töö; eriala; armastus; näitleja; raadio; raha; lavakas
+4,6,7,3,1,6,4,6,6,10,keskkool; tele; töö; eriala; armastus; näitleja; raadio; raha; lavakas
+4,6,7,3,1,6,4,6,6,10,keskkool; tele; töö; eriala; armastus; näitleja; raadio; raha; lavakas
+4,6,7,3,1,6,4,6,6,10,keskkool; tele; töö; eriala; armastus; näitleja; raadio; raha; lavakas
+4,5,5,3,1,6,4,6,6,10,keskkool; tele; töö; eriala; armastus; näitleja; raadio; raha; lavakas
+3,6,7,3,1,7,4,8,6,10,keskkool; tele; eriala; töö; armastus; näitleja; raadio; raha; lavakas
+6,7,7,5,1,6,3,8,6,10,keskkool; eriala; tele; töö; armastus; näitleja; raadio; raha; lavakas
+5,4,7,5,1,7,5,8,6,10,keskkool; eriala; töö; tele; armastus; näitleja; raadio; raha; lavakas
+6,5,7,7,2,8,6,4,6,10,keskkool; eriala; tele; töö; armastus; näitleja; raadio; raha; lavakas
+6,4,6,6,0,7,6,4,6,10,keskkool; eriala; tele; töö; armastus; näitleja; raadio; raha; lavakas
+6,3,7,7,0,7,7,4,7,10,keskkool; tele; eriala; töö; armastus; näitleja; raadio; raha; lavakas

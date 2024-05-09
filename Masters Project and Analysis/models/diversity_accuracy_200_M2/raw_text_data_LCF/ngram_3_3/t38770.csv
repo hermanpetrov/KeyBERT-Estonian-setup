@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,4,4,4,4,3,5,6,12,majandus; eesti; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-6,7,4,4,5,5,3,5,6,12,majandus; eesti; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-7,6,3,4,5,4,3,5,5,12,majandus; eesti; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-8,6,4,4,5,3,4,6,5,12,majandus; eesti; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-8,7,3,5,5,5,6,6,6,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-7,7,6,5,4,5,6,7,6,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-7,5,6,4,4,3,4,5,6,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-5,2,6,4,2,5,3,5,6,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-4,3,5,3,2,4,2,5,4,12,majandus; eesti; intressimäär; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-4,3,6,4,1,6,2,4,4,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
-4,2,5,3,2,6,2,4,4,12,majandus; eesti; intressimäär; eelarvepoliitika; rahaliit; eurotsoon; kroon; föderatsioon; heaolu; sotsiaalne
+6,7,4,4,4,3,5,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+6,7,4,4,5,3,5,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+7,6,3,4,5,3,5,5,0,12,majandus; eesti; sotsiaalne; eurotsoon; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+8,6,4,4,5,4,6,5,0,12,majandus; eesti; sotsiaalne; eurotsoon; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+8,7,3,5,5,6,6,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+7,7,6,5,4,6,7,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+7,5,6,4,4,4,5,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+5,2,6,4,2,3,5,6,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+4,3,5,3,2,2,5,4,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; heaolu; föderatsioon; kroon
+4,3,6,4,1,2,4,4,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon
+4,2,5,3,2,2,4,4,0,12,majandus; eesti; eurotsoon; intressimäär; rahaliit; eelarvepoliitika; heaolu; föderatsioon; kroon

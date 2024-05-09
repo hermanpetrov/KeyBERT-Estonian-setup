@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,1,0,0,1,1,1,1,1,13,helin-mari; arder; muusika
 1,1,0,0,1,1,1,1,1,13,helin-mari; arder; muusika
 1,1,0,0,1,1,1,1,1,13,helin-mari; arder; muusika
-1,1,1,0,1,2,1,1,1,13,arder; muusika; helin-mari
-2,0,2,0,1,2,1,1,1,13,muusikakool; muusika; arder; helin-mari; õpingud; unistus
-2,1,0,0,1,0,2,2,1,13,helilooja; arder; muusika; helin-mari; õpingud
-1,1,2,0,0,2,2,1,1,13,helilooja; kontsert; arder; muusika; helin-mari; õpingud
-1,0,1,0,0,0,2,1,1,13,muusika; unistus; helin-mari; õpingud
+1,1,1,0,1,2,1,1,1,13,helin-mari; muusika; arder
+2,0,2,0,1,2,1,1,1,13,helin-mari; muusika; õpingud; unistus; arder; muusikakool
+2,1,0,0,1,0,2,2,1,13,õpingud; muusika; helilooja; helin-mari; arder
+1,1,2,0,0,2,2,1,1,13,õpingud; muusika; helilooja; helin-mari; arder; kontsert
+1,0,1,0,0,0,2,1,1,13,helin-mari; õpingud; muusika; unistus

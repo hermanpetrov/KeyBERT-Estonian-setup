@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,0,0,1,1,0,12,mutso; liit; margit; eetika; arhitektuur
-0,1,3,0,0,0,1,1,0,12,mutso; liit; margit; eetika; arhitektuur
-0,1,3,0,0,0,1,1,0,12,mutso; liit; margit; eetika; arhitektuur
-0,1,2,0,0,0,1,1,0,12,margit; eetika; mutso; liit
-0,1,2,0,0,1,1,1,0,12,mutso; liit; margit; eetika; kritiseerima
-0,1,2,0,0,0,0,1,0,12,margit; eetika; mutso; liit
-0,1,3,0,0,0,0,1,0,12,arhitekt; mutso; liit; margit; arhitektuur
-0,0,3,0,0,1,1,1,0,12,margit; eetika; mutso; liit
-1,0,3,0,0,1,2,1,0,12,arendaja; mutso; liit; margit; eetika; kritiseerima
-1,0,4,1,0,2,2,1,0,12,arhitekt; arendaja; keskkond; mutso; margit; eetika
-1,1,2,1,0,2,1,1,0,12,arendaja; arhitekt; keskkond; mutso; margit; eetika
+0,1,4,0,1,1,2,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; arhitektuur; mutso
+0,1,4,0,1,1,2,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; arhitektuur; mutso
+0,1,4,0,1,1,2,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; arhitektuur; mutso
+0,1,3,0,1,1,2,2,0,12,liit; detailplaneering; eetika; kultuurifoorum; margit; mutso
+0,1,2,0,1,2,2,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; kritiseerima; mutso
+0,1,2,0,1,1,1,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; mutso
+0,1,3,0,1,1,0,2,0,12,liit; detailplaneering; margit; kultuurifoorum; arhitektuur; arhitekt; mutso
+0,0,3,0,1,2,1,2,0,12,liit; detailplaneering; eetika; margit; kultuurifoorum; mutso
+1,0,3,0,1,2,2,2,0,12,liit; detailplaneering; kritiseerima; eetika; margit; kultuurifoorum; arendaja; mutso
+1,0,4,2,1,3,2,2,0,12,detailplaneering; eetika; keskkond; margit; kultuurifoorum; arendaja; arhitekt; mutso
+1,1,2,2,0,3,1,2,0,12,detailplaneering; eetika; keskkond; margit; kultuurifoorum; arendaja; arhitekt; mutso

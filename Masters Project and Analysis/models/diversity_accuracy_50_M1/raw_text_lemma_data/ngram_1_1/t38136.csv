@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,0,0,1,3,2,0,12,muusika; sildvee; elektrooniline; massikultuur; sotsioloog; popkultuur
-2,1,3,0,0,1,3,2,0,12,muusika; sildvee; elektrooniline; massikultuur; sotsioloog; popkultuur
-2,1,3,0,0,1,3,2,0,12,muusika; sildvee; elektrooniline; massikultuur; sotsioloog; popkultuur
-2,1,3,0,0,1,3,2,0,12,muusika; sildvee; elektrooniline; massikultuur; sotsioloog; popkultuur
-2,1,2,0,0,1,3,2,0,12,muusika; sildvee; elektrooniline; massikultuur; sotsioloog; popkultuur
-1,1,2,0,0,1,3,2,0,12,sotsioloog; popkultuur; muusika; sildvee; elektrooniline; massikultuur
-0,1,3,1,0,1,2,1,0,12,sotsioloog; popkultuur; muusika; sildvee; elektrooniline
-1,0,3,0,0,0,2,1,0,12,sotsioloog; popkultuur; sildvee; elektrooniline
-1,0,2,0,0,1,3,1,0,12,sotsioloog; popkultuur; sildvee; elektrooniline; massikultuur
-2,0,3,1,0,1,1,1,0,12,sotsioloog; popkultuur; sildvee; elektrooniline; narkootikum
-2,1,1,1,0,1,2,1,1,12,sotsioloog; popkultuur; muusika; sildvee; elektrooniline; narkootikum
+3,1,4,0,0,2,4,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+3,1,4,0,0,2,4,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+3,1,4,0,0,2,4,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+3,1,4,0,0,2,4,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+3,1,2,0,0,1,4,3,0,12,sotsioloog; klubikultuur; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+3,1,2,0,0,1,4,3,0,12,sotsioloog; klubikultuur; piraatkoopia; muusika; sildvee; popkultuur; elektrooniline; massikultuur
+1,1,3,1,0,1,2,1,0,12,muusika; sildvee; popkultuur; sotsioloog; elektrooniline; klubikultuur
+1,0,3,0,0,0,2,1,0,12,sildvee; popkultuur; sotsioloog; elektrooniline
+1,0,3,0,0,1,3,1,0,12,bakalaureusetötö; sildvee; popkultuur; sotsioloog; elektrooniline; massikultuur
+2,0,4,1,0,1,1,2,0,12,sotsioloog; bakalaureusetötö; sildvee; popkultuur; narkootikum; elektrooniline
+3,1,2,2,0,1,2,2,1,12,sotsioloog; bakalaureusetötö; sildvee; muusika; popkultuur; narkootikum; elektrooniline

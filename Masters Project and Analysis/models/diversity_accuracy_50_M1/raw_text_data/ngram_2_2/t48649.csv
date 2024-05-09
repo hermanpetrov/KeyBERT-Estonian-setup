@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,4,2,2,2,1,3,0,12,jooks; vaheoja; indrek; trepp; madis; korrus; aesma; tuletõrje
-5,3,4,2,2,2,1,3,0,12,jooks; vaheoja; indrek; trepp; madis; korrus; aesma; tuletõrje
-5,3,4,2,2,2,1,3,0,12,jooks; vaheoja; indrek; trepp; madis; korrus; aesma; tuletõrje
-5,3,3,2,2,2,1,3,0,12,jooks; vaheoja; indrek; trepp; madis; aesma; tuletõrje
-5,3,3,2,2,2,1,3,0,12,jooks; vaheoja; indrek; trepp; madis; aesma; tuletõrje
-5,3,3,1,2,1,1,3,0,12,vaheoja; indrek; trepp; madis; aesma; tuletõrje
-5,3,4,2,2,0,1,4,0,12,vaheoja; indrek; trepp; madis; korrus; aesma; tuletõrje
-5,3,3,2,2,0,1,3,0,12,vaheoja; indrek; madis; korrus; aesma; tuletõrje
-4,2,3,2,2,0,0,1,0,12,madis; korrus; aesma; tuletõrje
-1,4,2,2,2,1,1,2,0,12,seljakott; vaheoja; madis; aesma; tuletõrje; trepp
-1,4,3,4,1,0,1,5,0,12,jooks; vaheoja; trepp; seljakott; madis; korrus; aesma; tuletõrje
+5,3,4,2,2,2,1,3,0,12,madis; tuletõrje; korrus; vaheoja; jooks; aesma; indrek; trepp
+5,3,4,2,2,2,1,3,0,12,madis; tuletõrje; korrus; vaheoja; jooks; aesma; indrek; trepp
+5,3,4,2,2,2,1,3,0,12,madis; tuletõrje; korrus; vaheoja; jooks; aesma; indrek; trepp
+5,3,3,2,2,2,1,3,0,12,trepp; madis; tuletõrje; vaheoja; aesma; indrek; jooks
+5,3,3,2,2,2,1,3,0,12,trepp; madis; tuletõrje; vaheoja; aesma; indrek; jooks
+5,3,3,1,2,1,1,3,0,12,madis; tuletõrje; vaheoja; aesma; indrek; trepp
+5,3,4,2,2,0,1,4,0,12,madis; tuletõrje; korrus; vaheoja; aesma; indrek; trepp
+5,3,3,2,2,0,1,3,0,12,madis; korrus; tuletõrje; vaheoja; aesma; indrek
+4,2,3,2,2,0,0,1,0,12,tuletõrje; madis; aesma; korrus
+1,4,2,2,2,1,1,2,0,12,seljakott; madis; aesma; tuletõrje; trepp; vaheoja
+1,4,3,4,1,0,1,5,0,12,seljakott; madis; tuletõrje; korrus; vaheoja; jooks; aesma; trepp

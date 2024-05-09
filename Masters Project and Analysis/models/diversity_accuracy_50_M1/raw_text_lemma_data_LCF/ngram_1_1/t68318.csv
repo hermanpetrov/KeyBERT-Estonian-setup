@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,0,0,2,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,3,0,0,2,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,3,0,0,2,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,3,0,0,2,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,2,0,0,2,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,1,0,0,1,1,2,0,12,kool; eestlane; uuring; euroopa
-0,2,1,0,0,1,1,2,0,12,kool; kersti; eestlane; uuring; euroopa
-0,1,2,0,0,0,1,2,0,12,kool; kersti; eestlane; euroopa
-1,1,2,0,0,1,1,3,0,12,sõstar; kool; kersti; eestlane; subtiiter; euroopa
-1,0,0,1,0,2,1,1,0,12,sõstar; subtiiter; kersti; eestlane
-1,0,1,0,0,2,1,0,0,12,sõstar; subtiiter; kersti
+2,2,5,1,0,6,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+2,2,5,1,0,6,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+2,2,5,1,0,6,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+2,2,4,1,0,6,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+2,2,3,1,0,6,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+2,2,2,1,0,5,5,5,0,12,võõrkeel; uuring; eestlane; kolmkeelsus; kool; keelepoliitika; euroopa; keeleoskus
+1,2,2,1,0,2,4,4,0,12,võõrkeel; kersti; uuring; eestlane; kool; kolmkeelsus; keelepoliitika; euroopa
+1,1,2,0,0,1,3,2,0,12,kool; kolmkeelsus; keelepoliitika; kersti; euroopa; eestlane
+3,1,2,0,0,1,2,3,0,12,võõrkeel; kersti; eestlane; kolmkeelsus; kool; keelepoliitika; sõstar; subtiiter; euroopa
+2,0,0,1,0,2,1,1,0,12,võõrkeel; sõstar; subtiiter; kersti; eestlane
+2,0,2,0,0,2,1,0,0,12,võõrkeel; sõstar; subtiiter; kersti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,2,1,1,1,2,2,2,10,laps; toetama; kontsertorkester
-0,3,2,1,1,1,2,2,2,10,laps; toetama; kontsertorkester
-1,3,2,1,2,1,2,2,2,10,laps; toetama; kontsertorkester
-1,3,2,1,2,1,2,2,2,10,laps; toetama; kontsertorkester
-1,3,2,1,2,1,2,3,2,10,laps; toetama; kontsertorkester
-1,3,3,2,2,3,2,3,2,10,laps; toetama; kontsertorkester
-2,3,3,2,2,3,3,2,2,10,laps; toetama; kontsertorkester
-2,3,3,3,2,3,1,2,1,10,laps; toetama; kontsertorkester
-2,2,3,3,2,2,2,2,1,10,laps; toetama; kontsertorkester
-2,1,2,3,2,2,2,2,1,10,laps; toetama; kontsertorkester
-2,2,2,3,2,2,2,2,1,10,laps; toetama; kontsertorkester
+6,9,5,6,2,6,7,6,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+5,9,6,6,2,6,7,6,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+6,9,7,5,3,6,7,6,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+6,9,7,5,3,6,7,6,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+6,9,7,5,3,6,7,7,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+6,8,9,7,3,7,8,7,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+7,8,8,6,3,8,6,6,5,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+7,8,7,5,3,7,4,5,4,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+8,7,7,4,4,5,4,5,3,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+7,6,5,4,3,4,3,3,3,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; lapsevanem; virumaa
+6,5,4,4,5,4,3,3,4,10,laps; muusikaõpetaja; toetama; kontsertorkester; sümfooniaorkester; muusikakool; noorteorkester; virumaa

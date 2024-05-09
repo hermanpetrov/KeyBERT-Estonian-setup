@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,0,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-2,1,2,0,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-2,1,2,0,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-2,1,2,0,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-2,1,2,0,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-2,1,1,0,0,1,1,0,2,13,kirik; urmas; poliitika
-0,1,1,0,0,2,1,1,2,13,kirik; poliitika; luterlik
-2,1,1,1,0,2,2,2,2,13,kirik; poliitika; viilm; urmas; luterlik
-1,2,1,1,0,3,2,2,2,13,kirik; poliitika; viilm; urmas; ordineerimine; luterlik
-0,2,2,1,0,1,1,1,2,13,kirik; poliitika; urmas; luterlik
-1,2,2,1,0,1,0,2,1,13,kirik; konservatiivsus; poliitika; urmas; luterlik
+2,2,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,2,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,2,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,2,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,2,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; luterlik; abielu; kirikukogu
+2,2,2,1,0,3,3,3,2,13,poliitika; peapiiskop; kirik; urmas; kirikuelu; abielu; kirikukogu
+0,1,3,1,0,3,3,4,2,13,poliitika; peapiiskop; kirikuelu; kirik; luterlik; abielu; kirikukogu
+2,2,5,2,0,4,3,2,2,13,poliitika; peapiiskop; kirik; kirikuelu; viilm; luterlik; urmas; abielu; kirikukogu
+1,2,1,1,0,3,2,2,3,13,poliitika; abielu; kirik; urmas; viilm; luterlik; ordineerimine
+0,3,2,2,0,1,1,1,4,13,poliitika; peapiiskop; kirik; urmas; luterlik; abielu; kirikukogu
+1,2,2,1,0,1,1,3,3,13,poliitika; peapiiskop; kirik; urmas; luterlik; abielu; konservatiivsus; kirikukogu

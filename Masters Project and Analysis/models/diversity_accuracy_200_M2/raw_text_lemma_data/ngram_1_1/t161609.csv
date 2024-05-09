@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,6,3,4,5,7,4,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-6,4,5,3,4,4,7,4,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-6,4,6,3,4,4,7,4,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-6,4,7,3,5,5,7,4,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-6,4,6,3,5,5,6,4,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-6,4,6,2,5,4,6,5,3,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-5,6,6,4,5,5,4,5,3,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-4,5,5,3,5,5,5,5,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-3,5,4,6,5,5,4,6,4,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-3,5,6,5,5,4,4,4,5,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
-5,5,6,6,5,4,4,4,5,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
+9,5,9,6,5,8,10,7,6,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+9,5,8,6,5,7,10,7,6,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+9,6,9,6,5,7,10,7,6,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+9,7,10,6,6,8,10,6,6,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+9,6,9,6,6,8,9,6,6,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+9,6,9,5,6,7,9,7,5,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+8,7,9,7,6,8,7,7,5,10,sihtrühm; fbi; strateegia; viirus; hirm; mõjutamine; küberkurjategija; pettur; enesekindlus; ahnus
+7,6,8,5,6,7,8,7,6,10,mõjutamine; hirm; küberkurjategija; pettur; strateegia; sihtrühm; fbi; enesekindlus; viirus; ahnus
+6,6,7,8,6,8,7,8,5,10,mõjutamine; hirm; küberkurjategija; pettur; strateegia; sihtrühm; fbi; enesekindlus; viirus; ahnus
+6,6,9,6,6,7,7,7,7,10,mõjutamine; hirm; küberkurjategija; pettur; strateegia; sihtrühm; fbi; enesekindlus; viirus; ahnus
+8,7,9,7,7,7,7,6,6,10,hirm; mõjutamine; küberkurjategija; pettur; strateegia; sihtrühm; fbi; enesekindlus; viirus; ahnus

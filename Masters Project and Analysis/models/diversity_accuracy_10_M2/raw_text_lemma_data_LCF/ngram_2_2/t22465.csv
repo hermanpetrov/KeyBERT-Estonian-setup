@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,0,1,1,1,0,12,kanton; šveits; genf
-3,1,1,1,0,1,1,1,0,12,kanton; šveits; genf
-3,1,1,1,0,1,1,1,0,12,kanton; šveits; genf
-3,1,1,1,0,1,1,1,0,12,kanton; šveits; genf
-3,1,1,1,0,1,1,1,0,12,kanton; šveits; genf
-3,1,2,1,0,1,1,1,0,12,šveits; kanton; genf
-1,1,1,1,0,1,1,2,0,12,mägi; šveits; genf
+3,1,1,1,0,1,1,1,0,12,šveits; genf; kanton
+3,1,1,1,0,1,1,1,0,12,šveits; genf; kanton
+3,1,1,1,0,1,1,1,0,12,šveits; genf; kanton
+3,1,1,1,0,1,1,1,0,12,šveits; genf; kanton
+3,1,1,1,0,1,1,1,0,12,šveits; genf; kanton
+3,1,2,1,0,1,1,1,0,12,genf; kanton; šveits
+1,1,1,1,0,1,1,2,0,12,šveits; genf; mägi
 0,1,1,1,0,1,2,2,0,12,šveits; genf
 0,0,0,1,0,1,1,2,0,12,šveits; genf
-0,1,2,2,0,2,1,1,1,12,mägi; šveits; keel; kanton; genf
-0,1,2,2,0,1,1,1,1,12,šveits; keel; kanton; järv; genf
+0,1,2,2,0,2,1,1,1,12,genf; keel; kanton; mägi; šveits
+0,1,2,2,0,1,1,1,1,12,genf; keel; kanton; järv; šveits

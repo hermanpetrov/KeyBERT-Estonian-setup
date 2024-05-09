@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,1,0,0,0,0,0,0,17,festival; jürgen
-0,1,0,0,0,1,0,0,0,17,jürgen
-0,0,0,0,0,2,0,0,0,17,jürgen; kreeka
-0,0,2,0,0,1,0,0,0,17,viljandi; jürgen; festival
-0,0,1,0,0,1,0,0,0,17,viljandi; jürgen
-0,0,0,0,0,1,0,0,0,17,jürgen
+0,2,4,1,0,0,0,0,0,17,muinaslaev; venemaa; jürgen; pärimusmuusika; festival
+0,2,4,1,0,0,0,0,0,17,muinaslaev; venemaa; jürgen; pärimusmuusika; festival
+0,2,4,1,0,0,0,0,0,17,muinaslaev; venemaa; jürgen; pärimusmuusika; festival
+0,2,4,1,0,0,0,0,1,17,muinaslaev; venemaa; põllumajandusprojekt; jürgen; pärimusmuusika; festival
+0,2,4,1,0,0,0,0,1,17,muinaslaev; venemaa; põllumajandusprojekt; jürgen; pärimusmuusika; festival
+0,2,4,1,0,0,0,0,1,17,muinaslaev; presidendivalimine; venemaa; põllumajandusprojekt; jürgen; pärimusmuusika; festival
+0,2,1,2,0,1,0,0,1,17,presidendivalimine; venemaa; põllumajandusprojekt; jürgen; pärimusmuusika
+1,1,2,2,0,2,1,0,1,17,presidendivalimine; venemaa; põllumajandusprojekt; kreeka; jürgen; kliimamuudatus
+2,1,5,0,0,1,1,0,1,17,venemaa; presidendivalimine; põllumajandusprojekt; festival; viljandi; jürgen; kliimamuudatus
+1,1,3,0,0,1,0,0,1,17,põllumajandusprojekt; venemaa; viljandi; jürgen
+1,0,3,0,0,1,0,0,1,17,presidendivalimine; põllumajandusprojekt; venemaa; jürgen

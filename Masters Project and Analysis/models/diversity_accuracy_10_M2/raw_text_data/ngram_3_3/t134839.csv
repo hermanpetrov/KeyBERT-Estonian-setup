@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,1,0,3,1,0,0,15,kultuuripoliitika; liit; eesti; euroopa
-0,0,3,1,0,3,1,0,0,15,kultuuripoliitika; liit; eesti; euroopa
-0,0,3,1,0,3,1,0,0,15,kultuuripoliitika; liit; eesti; euroopa
-0,0,3,1,0,3,1,0,0,15,kultuuripoliitika; liit; eesti; euroopa
-0,0,2,1,0,3,1,0,0,15,liit; eesti; euroopa
-0,0,2,0,0,3,1,0,0,15,liit; eesti; euroopa
-1,0,2,0,0,2,2,1,0,15,kultuuripoliitika; liit; eesti; euroopa
-2,1,1,0,0,3,3,1,0,15,rahapesu; euroopa; abikaasade; eesti; eelarve
+0,0,3,1,0,3,1,0,0,15,eesti; kultuuripoliitika; euroopa; liit
+0,0,3,1,0,3,1,0,0,15,eesti; kultuuripoliitika; euroopa; liit
+0,0,3,1,0,3,1,0,0,15,eesti; kultuuripoliitika; euroopa; liit
+0,0,3,1,0,3,1,0,0,15,eesti; kultuuripoliitika; euroopa; liit
+0,0,2,1,0,3,1,0,0,15,eesti; euroopa; liit
+0,0,2,0,0,3,1,0,0,15,eesti; euroopa; liit
+1,0,2,0,0,2,2,1,0,15,eesti; kultuuripoliitika; euroopa; liit
+2,1,1,0,0,3,3,1,0,15,abikaasade; eesti; euroopa; eelarve; rahapesu
 1,1,1,0,0,2,2,0,0,15,eesti; euroopa
-1,0,2,0,0,3,3,1,0,15,euroopa; liit; eesti; eelarve
+1,0,2,0,0,3,3,1,0,15,eesti; euroopa; eelarve; liit
 1,0,1,0,0,2,2,2,0,15,eesti; euroopa

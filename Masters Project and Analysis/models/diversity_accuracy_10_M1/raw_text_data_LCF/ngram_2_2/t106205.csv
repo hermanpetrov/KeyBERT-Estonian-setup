@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,12,maarja; raadio
-0,1,1,0,0,1,1,1,0,12,maarja; raadio
-0,1,1,0,0,1,1,1,0,12,maarja; raadio
-0,1,1,0,0,1,1,1,0,12,maarja; raadio
-0,1,1,0,0,1,1,1,0,12,maarja; raadio
-0,1,2,0,0,1,1,1,0,12,merivoo-parro; maarja; raadio
-0,2,2,0,0,1,2,2,0,12,aeg; merivoo-parro; maarja; raadio
-0,0,2,0,0,1,2,2,0,12,merivoo-parro; maarja; raadio
-0,2,1,0,0,2,2,1,0,12,merivoo-parro; televiisor; maarja; raadio
-0,0,1,1,0,3,2,2,0,12,maarja; merivoo-parro; ansambel; album; energia; raadio
-0,0,1,1,0,2,3,3,0,12,merivoo-parro; aeg; maarja; raadio; album; energia
+0,1,1,0,0,1,1,0,0,12,raadio; maarja
+0,1,1,0,0,1,1,0,0,12,raadio; maarja
+0,1,1,0,0,1,1,0,0,12,raadio; maarja
+0,1,1,0,0,1,1,0,0,12,raadio; maarja
+0,1,1,0,0,1,1,0,0,12,raadio; maarja
+0,1,2,0,0,1,1,0,0,12,raadio; merivoo-parro; maarja
+0,2,2,0,0,2,2,0,0,12,raadio; merivoo-parro; maarja; aeg
+0,0,2,0,0,2,2,0,0,12,raadio; merivoo-parro; maarja
+0,2,1,0,0,2,1,0,0,12,raadio; merivoo-parro; maarja
+0,0,1,1,0,2,2,0,0,12,raadio; merivoo-parro; maarja; album; energia
+0,0,1,1,0,3,3,0,0,12,raadio; merivoo-parro; album; energia; maarja; aeg

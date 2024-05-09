@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,3,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-1,0,1,0,0,1,0,2,0,14,religioon; püha; üliintellekt
-2,1,4,0,0,1,0,2,0,14,religioon; vaim; usklik; püha; arrak; üliintellekt
-0,1,0,0,0,1,0,2,0,14,religioon; püha; usutunne; vaim
-0,1,2,0,0,1,0,1,2,14,religioon; vaim; usklik; teadus; püha
-0,0,2,0,0,2,0,1,2,14,religioon; püha; teadus; usklik; teadvus; arrak
-0,0,0,0,0,1,0,1,1,14,religioon; püha; teadus
+2,0,2,1,0,2,2,0,0,14,üliintellekt; püha; religioon
+2,0,2,1,0,2,2,0,0,14,üliintellekt; püha; religioon
+2,0,2,1,0,2,2,0,0,14,üliintellekt; püha; religioon
+2,0,2,1,0,2,2,0,0,14,üliintellekt; püha; religioon
+2,0,3,1,0,2,2,0,0,14,üliintellekt; püha; usklik; religioon
+1,0,1,0,0,0,2,0,0,14,üliintellekt; religioon; püha
+2,1,4,0,0,0,2,0,0,14,üliintellekt; arrak; püha; usklik; religioon; vaim
+0,1,0,0,0,0,2,0,0,14,usutunne; religioon; vaim
+0,1,2,0,0,0,1,2,0,14,teadus; püha; usklik; religioon; vaim
+0,0,2,0,0,0,1,2,0,14,teadus; arrak; usklik; religioon
+0,0,0,0,0,0,1,1,0,14,teadus; religioon

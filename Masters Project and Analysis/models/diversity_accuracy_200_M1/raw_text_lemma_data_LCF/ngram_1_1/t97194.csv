@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,5,0,1,6,6,3,3,16,estonia; klaver; teater; alo; tomson; eesti; pianiino
-2,1,5,0,1,6,6,3,4,16,estonia; klaver; teater; alo; tomson; eesti; pianiino
-2,1,4,0,1,6,6,3,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
-1,1,5,0,1,7,6,2,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
-1,1,4,0,2,6,6,1,4,16,estonia; alo; teater; klaver; tomson; eesti; pianiino
-1,1,5,0,3,4,7,3,4,16,estonia; alo; teater; klaver; tomson; eesti; pianiino
-1,1,5,1,3,4,3,3,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
-2,1,3,2,3,3,3,6,4,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
-2,0,5,4,2,3,2,3,3,16,estonia; alo; teater; klaver; tomson; eesti; pianiino
-2,0,4,5,3,3,1,4,2,16,estonia; alo; teater; klaver; tomson; eesti; pianiino
-2,0,3,4,2,2,2,4,2,16,estonia; alo; teater; tomson; eesti; pianiino; klaver
+7,4,9,5,2,10,10,9,5,16,pianiino; tiibklaver; kultuuripilt; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+7,4,9,5,2,11,11,9,6,16,pianiino; tiibklaver; kultuuripilt; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+7,4,10,5,1,11,11,9,6,16,pianiino; tiibklaver; kultuuripilt; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+6,4,10,5,1,11,11,8,6,16,pianiino; tiibklaver; kultuuripilt; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+5,4,9,5,2,11,11,7,6,16,pianiino; tiibklaver; kultuuripilt; alo; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; estonia; klaveriehitus; põldmäe
+5,5,10,5,3,7,12,9,7,16,pianiino; tiibklaver; kultuuripilt; alo; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; estonia; klaveriehitus; põldmäe
+7,5,8,5,4,7,8,9,7,16,pianiino; tiibklaver; kultuuripilt; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+7,3,6,5,4,5,5,10,6,16,pianiino; kultuuripilt; tiibklaver; alo; põldmäe; teater; tomson; klaver; tsentraliseerimine; eesti; klaverimeister; muusikamuuseum; klaveriehitus; estonia
+4,3,8,5,3,5,4,6,5,16,pianiino; klaver; tsentraliseerimine; eesti; klaverimeister; kultuuripilt; tiibklaver; tomson; muusikamuuseum; alo; estonia; klaveriehitus; teater; põldmäe
+4,3,7,6,4,4,3,6,3,16,pianiino; klaver; tsentraliseerimine; eesti; tiibklaver; kultuuripilt; tomson; muusikamuuseum; alo; põldmäe; teater; estonia
+4,1,6,5,3,4,4,6,5,16,pianiino; klaver; tsentraliseerimine; eesti; klaverimeister; kultuuripilt; tiibklaver; tomson; alo; muusikamuuseum; põldmäe; teater; estonia

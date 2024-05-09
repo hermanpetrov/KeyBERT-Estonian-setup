@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,4,7,5,3,3,3,8,5,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-9,4,7,5,3,3,3,8,6,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-9,4,7,5,3,3,3,8,6,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-9,4,7,5,3,3,3,8,7,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-9,4,7,5,3,3,3,8,7,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-9,4,7,5,3,4,3,8,6,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-8,4,8,4,3,3,3,8,6,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-5,4,8,5,3,3,4,8,6,13,tehnoloogia; thomas; kristjan; blogi; watson; port; mõtle; suurelt; arvuti; arvutipark; google
-7,4,8,4,3,2,5,6,6,13,tehnoloogia; thomas; kristjan; blogi; watson; port; mõtle; suurelt; arvuti; arvutipark; google
-8,6,10,5,3,3,4,6,8,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
-7,7,10,4,4,2,5,7,8,13,thomas; blogi; kristjan; watson; port; mõtle; arvutipark; tehnoloogia; suurelt; arvuti; google
+9,4,7,5,3,3,8,5,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+9,4,7,5,3,3,8,6,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+9,4,7,5,3,3,8,6,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+9,4,7,5,3,3,8,7,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+9,4,7,5,3,3,8,7,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+9,4,7,5,3,3,8,6,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+8,4,8,4,3,3,8,6,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+5,4,8,5,3,4,8,6,0,13,arvuti; arvutipark; watson; port; thomas; blogi; kristjan; google; tehnoloogia; mõtle; suurelt
+7,4,8,4,3,5,6,6,0,13,arvuti; arvutipark; watson; port; thomas; blogi; kristjan; google; tehnoloogia; mõtle; suurelt
+8,6,10,5,3,4,6,8,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle
+7,7,10,4,4,5,7,8,0,13,arvutipark; port; thomas; blogi; suurelt; arvuti; watson; kristjan; google; tehnoloogia; mõtle

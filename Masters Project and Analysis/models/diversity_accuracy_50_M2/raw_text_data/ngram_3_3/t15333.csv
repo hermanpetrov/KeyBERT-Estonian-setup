@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,1,3,1,1,1,3,1,13,hiidlane; hiiu; hiiumaa; rahvariided; kärdla
-4,3,1,3,1,1,1,3,2,13,hiidlane; kirjandus; hiiu; hiiumaa; rahvariided; kärdla
-4,3,1,3,1,1,1,3,2,13,hiidlane; kirjandus; hiiu; hiiumaa; rahvariided; kärdla
-4,3,1,3,1,1,1,3,2,13,hiidlane; kirjandus; hiiu; hiiumaa; rahvariided; kärdla
-4,3,1,3,1,1,1,4,2,13,hiiu; hiidlane; kärdla; kirjandus; hiiumaa; rahvariided
-5,2,2,3,1,2,1,3,2,13,hiiu; hiidlane; meri; kärdla; purjetamine; kirjandus; hiiumaa; rahvariided
-3,2,3,2,0,2,1,4,2,13,hiiu; hiidlane; meri; tants; kärdla; kirjandus; hiiumaa; rahvariided
-4,3,2,3,0,1,1,4,2,13,hiiu; hiidlane; tants; kärdla; kirjandus; hiiumaa; rahvariided
-4,2,2,1,1,1,3,3,2,13,hiiu; hiidlane; meri; tants; kärdla; kirjandus; ain; hiiumaa; rahvariided; kalmus
-2,1,1,3,3,1,0,3,0,13,hiiu; hiidlane; meri; tants; kärdla; kirjandus; ain; hiiumaa; kalmus
-4,1,3,2,2,1,1,3,1,13,kirjandus; hiidlane; hiiu; hiiumaa; tants
+4,3,1,3,1,1,1,3,1,13,hiiumaa; rahvariided; hiidlane; hiiu; kärdla
+4,3,1,3,1,1,1,3,2,13,hiiumaa; rahvariided; kirjandus; hiidlane; hiiu; kärdla
+4,3,1,3,1,1,1,3,2,13,hiiumaa; rahvariided; kirjandus; hiidlane; hiiu; kärdla
+4,3,1,3,1,1,1,3,2,13,hiiumaa; rahvariided; kirjandus; hiidlane; hiiu; kärdla
+4,3,1,3,1,1,1,4,2,13,hiiumaa; hiiu; rahvariided; kirjandus; hiidlane; kärdla
+5,2,2,3,1,2,1,3,2,13,hiiumaa; meri; hiiu; rahvariided; purjetamine; kirjandus; hiidlane; kärdla
+3,2,3,2,0,2,1,4,2,13,hiiumaa; meri; hiiu; tants; rahvariided; kirjandus; hiidlane; kärdla
+4,3,2,3,0,1,1,4,2,13,hiiumaa; kärdla; hiiu; rahvariided; kirjandus; hiidlane; tants
+4,2,2,1,1,1,3,3,2,13,hiiumaa; meri; kalmus; kärdla; hiiu; ain; rahvariided; kirjandus; hiidlane; tants
+2,1,1,3,3,1,0,3,0,13,hiiumaa; meri; kalmus; kärdla; hiiu; ain; kirjandus; hiidlane; tants
+4,1,3,2,2,1,1,3,1,13,hiiumaa; kirjandus; hiidlane; hiiu; tants

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,2,3,4,2,4,0,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener; võistkond
-3,4,3,3,4,2,3,0,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener; võistkond
-3,4,2,3,4,3,3,1,1,11,male; olümpia; kere; paul; paide; naiskond; treener; võistkond
-3,4,3,3,4,1,3,1,1,11,male; olümpia; kere; paul; paide; naiskond; treener; võistkond
-2,2,4,2,4,2,4,2,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener; võistkond
-1,2,3,2,4,3,1,3,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener; võistkond
-0,2,1,4,5,3,2,3,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener
-1,2,3,3,4,3,2,3,1,11,male; olümpia; paul; paide; partii; naiskond; treener
-1,1,6,4,5,3,2,4,1,11,male; kere; olümpia; paul; paide; partii; naiskond; treener
-0,2,4,4,5,3,2,5,1,11,male; olümpia; kere; paul; paide; partii; naiskond; treener
-0,1,4,4,5,3,2,6,0,11,male; olümpia; paul; paide; partii; naiskond; treener
+5,6,3,5,4,2,4,2,2,11,partii; naiskond; olümpia; paide; treener; male; maleföderatsioon; maleklubi; kere; võistkond; paul
+5,6,4,5,4,2,3,2,2,11,partii; naiskond; olümpia; paide; treener; male; maleföderatsioon; maleklubi; kere; võistkond; paul
+5,6,3,5,4,3,3,3,2,11,naiskond; olümpia; paide; treener; male; maleföderatsioon; maleklubi; kere; võistkond; paul
+5,6,4,5,4,1,3,3,2,11,naiskond; olümpia; paide; treener; male; maleföderatsioon; maleklubi; kere; võistkond; paul
+4,4,5,4,4,2,5,4,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; võistkond; kere; maleföderatsioon; paul
+3,4,4,4,4,4,2,5,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; võistkond; kere; maleföderatsioon; paul
+1,4,3,6,5,4,3,4,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; kere; maleföderatsioon; paul
+1,4,4,4,4,3,3,3,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; maleföderatsioon; paul
+1,3,8,4,5,3,3,4,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; kere; maleföderatsioon; paul
+1,4,5,4,5,3,3,5,2,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; kere; maleföderatsioon; paul
+0,2,5,4,5,3,3,6,1,11,partii; naiskond; olümpia; paide; treener; male; maleklubi; maleföderatsioon; paul

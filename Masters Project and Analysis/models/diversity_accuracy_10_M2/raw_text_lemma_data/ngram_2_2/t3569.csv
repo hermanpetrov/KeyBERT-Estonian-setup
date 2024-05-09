@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,1,0,3,3,1,0,15,erakond; kriis; liit; suure-jaan; euroopa
-0,1,3,1,0,3,3,1,0,15,erakond; kriis; liit; suure-jaan; euroopa
-0,1,3,1,0,3,3,1,0,15,erakond; kriis; liit; suure-jaan; euroopa
-0,1,3,1,0,3,3,1,0,15,erakond; kriis; liit; suure-jaan; euroopa
-0,1,3,1,0,3,3,1,0,15,erakond; kriis; liit; suure-jaan; euroopa
-0,1,2,1,0,3,3,1,0,15,erakond; euroopa; kriis; liit; suure-jaan
-0,1,2,0,0,3,3,1,0,15,erakond; kriis; liit; euroopa
-2,1,2,0,0,3,3,1,0,15,erakond; kirik; kriis; liit; tartu; euroopa
-1,0,2,0,0,2,3,2,0,15,erakond; kriis; liit; tartu; euroopa
-1,0,2,0,0,2,3,0,0,15,erakond; kriis; liit; euroopa
-1,0,3,0,0,3,3,0,0,15,erakond; kriis; liit; tartu; euroopa
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,3,2,0,4,4,1,0,15,eelarve; erakond; kriis; euroopa; liit; suure-jaan
+0,2,2,0,0,5,4,1,0,15,sotsiaaldemokraatlik; eelarve; erakond; kriis; euroopa; liit
+3,2,3,0,0,3,5,1,0,15,sotsiaaldemokraatlik; kirik; eelarve; erakond; kriis; tartu; lennupäev; euroopa; liit
+2,0,3,0,0,2,4,2,0,15,eelarve; erakond; kriis; tartu; lennupäev; euroopa; liit
+1,0,2,1,0,2,4,0,0,15,lennupäev; euroopa; eelarve; erakond; kriis; liit
+1,0,3,0,0,3,4,0,0,15,sotsiaaldemokraatlik; erakond; kriis; tartu; euroopa; liit

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,1,0,1,16,esimene; koloonia; dylan; loss
-0,0,1,0,1,0,1,0,1,16,esimene; koloonia; dylan; loss
-0,0,1,0,1,0,1,0,2,16,loss; koloonia; dylan; sõda; esimene
-0,0,1,0,1,0,1,0,2,16,loss; koloonia; dylan; sõda; esimene
-0,0,1,0,1,0,1,0,2,16,loss; koloonia; dylan; sõda; esimene
-0,0,0,0,1,1,1,0,2,16,esimene; dylan; sõda; loss
-0,0,0,0,1,1,1,0,2,16,esimene; dylan; sõda; loss
-0,0,0,0,1,1,1,1,2,16,kolmas; loss; koloonia; dylan; sõda
-0,0,1,0,1,1,1,1,1,16,kolmas; koloonia; dylan; loss
-0,0,1,1,1,2,2,1,1,16,kolmas; koloonia; loss; bob; esimene; dylan
-0,0,1,1,1,1,2,2,1,16,kolmas; koloonia; loss; bob; esimene; dylan
+0,1,1,1,1,1,2,1,1,16,koloonia; mereriik; loss; mägismaa; esimene; dylan
+0,1,1,1,1,1,2,1,1,16,koloonia; mereriik; loss; mägismaa; esimene; dylan
+0,1,1,1,1,1,2,1,2,16,koloonia; mereriik; loss; mägismaa; esimene; sõda; dylan
+0,1,1,1,1,1,2,1,2,16,koloonia; mereriik; loss; mägismaa; esimene; sõda; dylan
+0,1,1,1,1,1,1,1,2,16,koloonia; mereriik; loss; mägismaa; esimene; sõda; dylan
+0,1,0,1,1,3,2,1,2,16,mereriik; kaljukindlus; loss; mägismaa; esimene; sõda; dylan
+1,1,0,1,1,3,1,1,2,16,mereriik; kaljukindlus; loss; mägismaa; esimene; sõda; dylan
+0,1,0,0,1,1,1,1,2,16,koloonia; loss; mägismaa; kolmas; sõda; dylan
+0,1,1,0,1,1,1,1,1,16,koloonia; loss; mägismaa; kolmas; dylan
+1,1,1,1,1,2,2,1,1,16,kaljukindlus; koloonia; esimene; mägismaa; loss; kolmas; bob; dylan
+1,1,1,1,1,1,2,2,1,16,mägismaa; kolmas; bob; dylan; kaljukindlus; koloonia; esimene; loss

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-1,2,1,0,0,0,0,0,1,20,sostumus; kristuse; johannes; gregorius; efesose
-2,2,1,0,0,0,0,0,1,20,sostumus; konstantinoopoli; kristuse; johannes; gregorius; efesose
-2,2,2,0,0,0,1,0,1,20,sostumus; konstantinoopoli; kristuse; johannes; gregorius; efesose
-2,2,2,0,0,0,1,0,1,20,sostumus; konstantinoopoli; kristuse; johannes; gregorius; efesose
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+1,2,1,0,0,0,0,1,0,20,sostumus; efesose; gregorius; kristuse; johannes
+2,2,1,0,0,0,0,1,0,20,konstantinoopoli; sostumus; efesose; gregorius; kristuse; johannes
+2,2,2,0,0,1,0,1,0,20,konstantinoopoli; sostumus; efesose; gregorius; kristuse; johannes
+2,2,2,0,0,1,0,1,0,20,konstantinoopoli; sostumus; efesose; gregorius; kristuse; johannes

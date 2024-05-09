@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-2,0,2,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-2,0,2,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-2,0,2,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-2,0,3,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-2,0,4,3,2,5,4,5,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-3,0,5,3,2,5,5,6,0,14,virro; keiu; võõras; probleem; peeter; urmas; lavastaja; vadi; isiklik
-4,1,4,3,3,6,5,6,0,14,virro; keiu; võõras; probleem; peeter; kloun; komme; urmas; lavastaja; vadi; isiklik
-4,2,3,4,3,5,4,6,0,14,keiu; võõras; probleem; lavastaja; peeter; komme; urmas; virro; vadi; isiklik
-5,3,4,6,3,5,5,5,0,14,virro; keiu; võõras; probleem; peeter; kloun; komme; urmas; lavastaja; vadi; isiklik
-2,2,2,6,3,7,5,5,0,14,virro; keiu; võõras; probleem; peeter; kloun; komme; urmas; lavastaja; vadi; isiklik
+2,0,2,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+2,0,2,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+2,0,2,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+2,0,2,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+2,0,3,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+2,0,4,3,2,5,4,5,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+3,0,5,3,2,5,5,6,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; probleem
+4,1,4,3,3,6,5,6,0,14,peeter; urmas; kloun; keiu; isiklik; vadi; virro; võõras; lavastaja; komme; probleem
+4,2,3,4,3,5,4,6,0,14,peeter; urmas; keiu; isiklik; vadi; virro; võõras; lavastaja; komme; probleem
+5,3,4,6,3,5,5,5,0,14,peeter; urmas; kloun; keiu; isiklik; vadi; virro; võõras; lavastaja; komme; probleem
+2,2,2,6,3,7,5,5,0,14,peeter; urmas; kloun; keiu; isiklik; vadi; virro; lavastaja; võõras; komme; probleem

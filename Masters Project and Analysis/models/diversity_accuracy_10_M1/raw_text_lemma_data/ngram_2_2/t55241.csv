@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,0,0,1,0,13,kvaliteet; filter; jaak
-0,1,0,0,1,0,0,1,0,13,kvaliteet; filter; jaak
-0,1,0,0,1,0,0,1,0,13,kvaliteet; filter; jaak
-0,1,0,0,1,0,0,1,0,13,kvaliteet; filter; jaak
-0,0,0,0,1,0,0,1,0,13,filter; jaak
-0,0,0,0,1,0,0,0,0,13,filter
-0,0,0,0,1,0,0,0,0,13,filter
-0,0,0,1,1,0,0,0,0,13,hapnik; filter
-0,0,0,0,1,0,0,0,0,13,filter
-0,0,0,0,1,0,0,0,0,13,filter
-0,0,1,0,1,0,0,0,0,13,filter; jaak
+0,1,0,1,1,0,0,1,0,13,jaak; filter; joogiveemäärus; kvaliteet
+0,1,0,1,1,0,0,1,0,13,jaak; filter; joogiveemäärus; kvaliteet
+0,1,0,1,1,0,0,1,0,13,jaak; filter; joogiveemäärus; kvaliteet
+0,1,0,1,1,0,0,1,0,13,jaak; filter; joogiveemäärus; kvaliteet
+0,0,0,1,1,0,0,1,0,13,jaak; filter; joogiveemäärus
+0,0,0,1,1,0,0,1,0,13,mürkkemikaal; filter; joogiveemäärus
+0,0,0,0,1,0,0,3,0,13,mürkkemikaal; filter; joogiveemäärus; keskkonnakeemia
+0,0,0,1,1,0,0,3,0,13,hapnik; filter; joogiveemäärus; mürkkemikaal; keskkonnakeemia
+0,0,0,0,1,0,1,1,0,13,filter; joogiveemäärus; keskkonnakeemia
+0,0,0,0,1,0,0,2,0,13,mürkkemikaal; filter; joogiveemäärus
+0,0,1,0,2,0,0,1,0,13,jaak; filter; joogiveemäärus

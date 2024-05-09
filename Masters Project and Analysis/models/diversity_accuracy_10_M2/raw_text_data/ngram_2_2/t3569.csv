@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-0,1,2,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-0,1,2,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-0,1,2,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-0,1,1,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-0,1,1,2,0,2,2,1,0,15,euroopa; suure-jaani; liit; eelarve
-1,1,1,1,0,2,1,1,0,15,kirik; euroopa; sotsiaaldemokraatlik; eelarve
-0,0,1,0,0,2,2,1,1,15,sotsiaaldemokraatlik; suure-jaani; euroopa
-0,1,1,0,0,2,2,1,0,15,kirik; sotsiaaldemokraatlik; euroopa
+0,1,2,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+0,1,2,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+0,1,2,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+0,1,2,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+0,1,1,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+0,1,1,2,0,2,2,1,0,15,suure-jaani; euroopa; eelarve; liit
+1,1,1,1,0,2,1,1,0,15,sotsiaaldemokraatlik; kirik; euroopa; eelarve
+0,0,1,0,0,2,2,1,1,15,suure-jaani; sotsiaaldemokraatlik; euroopa
+0,1,1,0,0,2,2,1,0,15,sotsiaaldemokraatlik; kirik; euroopa
 0,1,1,0,0,1,2,1,0,15,kirik; euroopa
-0,0,1,0,0,4,2,1,0,15,erakond; sotsiaaldemokraatlik; liit; euroopa
+0,0,1,0,0,4,2,1,0,15,sotsiaaldemokraatlik; euroopa; erakond; liit

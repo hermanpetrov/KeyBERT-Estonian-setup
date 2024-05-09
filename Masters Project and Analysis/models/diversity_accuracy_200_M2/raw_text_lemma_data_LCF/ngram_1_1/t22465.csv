@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,3,1,1,0,12,šveits; kanton; suusatamine; genf
-0,1,2,0,0,3,2,1,0,12,šveits; kanton; suusatamine; genf
-0,1,2,0,0,3,2,1,0,12,šveits; kanton; suusatamine; järv; genf
-0,1,3,0,0,3,1,1,0,12,cern; šveits; kanton; suusatamine; järv; genf
-0,1,2,0,1,3,2,0,0,12,cern; šveits; kanton; suusatamine; järv
-0,0,2,0,1,3,2,1,0,12,cern; šveits; kanton; järv
-0,0,1,1,1,1,3,0,0,12,cern; šveits; kanton
-0,0,2,3,2,3,3,1,0,12,cern; šveits; kanton; järv
-0,0,1,2,2,2,2,1,0,12,cern; kanton; järv
-0,0,1,3,2,2,2,2,1,12,cern; šveits; kanton; suusatamine; järv; genf
-0,0,1,3,2,1,2,2,1,12,cern; šveits; kanton; järv; genf
+2,1,3,0,1,3,1,1,0,12,maksusüsteem; neutraliteet; suusatamine; genf; kanton; šveits
+2,1,3,0,1,3,2,1,0,12,maksusüsteem; neutraliteet; suusatamine; genf; kanton; šveits
+2,1,3,0,1,3,2,1,0,12,genf; maksusüsteem; neutraliteet; suusatamine; kanton; järv; šveits
+2,1,4,0,1,3,2,2,0,12,genf; maksusüsteem; neutraliteet; suusatamine; kanton; järv; šveits; cern
+2,1,3,0,2,3,2,1,0,12,maksusüsteem; neutraliteet; suusatamine; kanton; järv; šveits; cern
+2,0,3,0,1,4,3,2,0,12,maksusüsteem; neutraliteet; kanton; järv; šveits; cern
+2,0,3,1,1,2,6,1,0,12,rahvahääletus; maksusüsteem; neutraliteet; kanton; šveits; cern
+2,0,4,3,2,5,4,2,0,12,rahvahääletus; maksusüsteem; neutraliteet; kanton; järv; šveits; cern
+1,0,2,2,2,3,3,2,0,12,rahvahääletus; neutraliteet; maksusüsteem; kanton; järv; cern
+1,0,3,3,2,4,4,2,1,12,genf; rahvahääletus; maksusüsteem; neutraliteet; suusatamine; kanton; järv; šveits; cern
+1,0,3,3,2,3,4,2,1,12,genf; rahvahääletus; maksusüsteem; neutraliteet; kanton; järv; šveits; cern

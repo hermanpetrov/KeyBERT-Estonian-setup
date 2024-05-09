@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
+0,0,0,0,1,2,1,1,0,17,hasso; vadi; luulekogu
+0,0,0,0,1,2,1,1,0,17,hasso; vadi; luulekogu
+0,0,0,0,1,2,1,1,0,17,hasso; vadi; luulekogu
+0,0,1,0,1,2,1,1,0,17,hasso; vadi; luulekogu
+0,0,1,0,1,2,1,1,0,17,hasso; vadi; luulekogu
 0,0,0,0,1,1,0,0,0,17,hasso; vadi
-0,0,0,0,1,1,0,0,0,17,hasso; vadi
-0,0,0,0,1,1,0,0,0,17,hasso; vadi
-0,0,1,0,1,1,0,0,0,17,hasso; vadi
-0,0,1,0,1,1,0,0,0,17,hasso; vadi
-0,0,0,0,1,1,0,0,0,17,hasso; vadi
-0,0,0,0,1,2,1,0,0,17,hasso; nali; oidipus; krull
-0,0,1,0,1,2,0,0,0,17,hasso; nali; vadi; krull
-0,0,1,0,1,1,0,0,0,17,hasso; urmas; krull
+1,0,0,1,1,2,1,0,0,17,oidipus; nali; polüfoonilisus; hasso; krull
+0,0,1,0,1,2,1,0,0,17,nali; luulekogu; hasso; krull; vadi
+0,0,1,0,1,1,0,0,0,17,hasso; krull; urmas
 0,0,0,0,1,0,0,0,0,17,hasso
-0,0,0,0,1,1,0,0,0,17,hasso
+0,0,0,0,1,1,1,0,0,17,hasso; luulekogu

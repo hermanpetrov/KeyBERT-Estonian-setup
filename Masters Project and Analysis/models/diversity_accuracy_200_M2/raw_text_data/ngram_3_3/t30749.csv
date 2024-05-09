@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,3,7,2,2,1,2,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-6,6,3,7,2,2,1,2,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-6,6,5,7,3,2,1,2,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-5,6,4,6,3,2,1,3,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; loodus; mägi; kalju; santana
-6,5,3,4,3,2,1,3,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-5,3,6,6,3,4,1,3,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-6,2,6,5,5,3,3,2,3,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; loodus; kalju; santana
-3,3,6,6,5,2,5,2,3,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-2,5,5,5,6,3,3,3,3,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
-4,4,7,5,5,2,2,4,4,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; loodus; mägi; kalju; santana
-3,4,4,5,5,2,5,3,3,14,porto; vanalinn; madeira; bassein; õhutramm; puuvili; mägi; loodus; kalju; santana
+6,5,3,7,2,2,1,2,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+6,6,3,7,2,2,1,2,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+6,6,5,7,3,2,1,2,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+5,6,4,6,3,2,1,3,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+6,5,3,4,3,2,1,3,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+5,3,6,6,3,4,1,3,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+6,2,6,5,5,3,3,2,3,14,kalju; santana; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+3,3,6,6,5,2,5,2,3,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+2,5,5,5,6,3,3,3,3,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto
+4,4,7,5,5,2,2,4,4,14,kalju; santana; mägi; puuvili; bassein; õhutramm; vanalinn; loodus; madeira; porto
+3,4,4,5,5,2,5,3,3,14,kalju; mägi; santana; puuvili; bassein; õhutramm; vanalinn; madeira; loodus; porto

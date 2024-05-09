@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,5,1,5,2,2,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
-5,4,6,1,4,1,3,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
-5,4,8,1,4,0,4,2,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
-5,4,8,2,5,1,6,3,3,16,aprill; õppimine; armastus; ballaad; sisemine; festival; rituaal; kompromiss; laul; medell; sirje; kaklema; varietee
-5,3,7,2,6,2,5,3,3,16,sisemine; festival; rituaal; kompromiss; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
-4,3,5,3,6,1,5,5,3,16,sisemine; festival; rituaal; kompromiss; laps; aprill; laul; medell; sirje; kaklema; õppimine; varietee; armastus; ballaad
-4,3,2,5,6,2,4,9,3,16,laps; aprill; õppimine; armastus; ballaad; sisemine; festival; rituaal; kompromiss; laul; medell; sirje; varietee
-3,4,2,4,3,4,4,7,3,16,festival; sisemine; rituaal; kompromiss; laps; aprill; laul; medell; sirje; õppimine; varietee; armastus; ballaad
-3,2,2,4,6,4,2,6,3,16,festival; sisemine; rituaal; laps; kompromiss; aprill; laul; sirje; õppimine; varietee; armastus; ballaad
-4,2,0,5,4,4,2,5,2,16,festival; rituaal; kompromiss; laps; aprill; laul; sirje; õppimine; varietee; armastus; ballaad
-3,2,2,5,4,4,2,5,2,16,festival; sisemine; rituaal; kompromiss; laps; aprill; laul; sirje; õppimine; varietee; armastus; ballaad
+8,4,7,3,5,2,3,4,4,16,õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+7,4,8,3,4,1,4,4,4,16,õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+7,4,10,3,4,0,5,4,4,16,õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+7,4,10,4,5,2,7,5,4,16,õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+7,3,9,4,6,3,6,5,4,16,õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+5,3,6,5,6,2,6,6,4,16,laps; õppimine; kaklema; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+5,3,2,6,6,3,5,9,4,16,laps; õppimine; sisemine; muusikakool; armastus; saaremaa; rituaal; kompromiss; laul; festival; medell; varietee; ballaad; aprill; sirje
+3,4,2,4,3,5,5,8,4,16,laps; õppimine; sisemine; armastus; muusikakool; saaremaa; kompromiss; rituaal; laul; festival; medell; varietee; ballaad; aprill; sirje
+3,2,2,4,6,5,3,6,3,16,laps; õppimine; sisemine; armastus; saaremaa; rituaal; kompromiss; laul; festival; varietee; ballaad; aprill; sirje
+4,2,0,5,5,5,3,5,2,16,laps; õppimine; varietee; muusikakool; armastus; saaremaa; kompromiss; ballaad; rituaal; aprill; sirje; laul; festival
+3,2,2,5,5,5,3,5,3,16,laps; õppimine; varietee; sisemine; muusikakool; armastus; saaremaa; kompromiss; rituaal; ballaad; aprill; sirje; laul; festival

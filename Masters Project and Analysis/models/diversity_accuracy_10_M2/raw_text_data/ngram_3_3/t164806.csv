@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-3,2,2,0,0,1,1,1,0,12,tantsupidu; mait; soomaa; tänutunne; agu
-2,2,2,0,0,1,1,1,0,12,tantsupidu; mait; tänutunne; agu
-1,1,1,0,0,1,1,2,0,12,tantsupidu; agu; vaike
-4,1,1,0,1,1,1,2,0,12,tantsupidu; isetegemine; soomaa; tänutunne; agu; vaike
-3,1,2,1,1,3,1,2,0,12,heinamaa; isetegemine; agu; vaike; tantsupidu; mait; tänutunne
-3,1,2,1,1,3,2,1,0,12,heinamaa; agu; vaike; tantsupidu; mait; tänutunne; hing
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+3,2,2,0,0,1,1,1,0,12,tantsupidu; soomaa; tänutunne; agu; mait
+2,2,2,0,0,1,1,1,0,12,tantsupidu; tänutunne; agu; mait
+1,1,1,0,0,1,1,2,0,12,tantsupidu; vaike; agu
+4,1,1,0,1,1,1,2,0,12,tantsupidu; tänutunne; soomaa; isetegemine; vaike; agu
+3,1,2,1,1,3,1,2,0,12,tantsupidu; tänutunne; vaike; agu; isetegemine; heinamaa; mait
+3,1,2,1,1,3,2,1,0,12,tantsupidu; tänutunne; hing; vaike; agu; heinamaa; mait

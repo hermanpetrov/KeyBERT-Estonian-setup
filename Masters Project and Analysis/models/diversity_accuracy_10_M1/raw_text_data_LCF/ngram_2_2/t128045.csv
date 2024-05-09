@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,0,1,1,0,12,birma; panteon
-1,1,0,0,0,0,1,1,0,12,birma; panteon
-1,1,0,0,0,0,1,1,0,12,birma; panteon
-1,1,0,0,0,0,1,1,0,12,birma; panteon
-1,1,0,0,0,0,1,1,0,12,birma; panteon
-1,1,1,0,0,0,1,1,0,12,birma; panteon
-1,0,0,0,0,1,1,1,0,12,birma
-1,0,1,2,0,2,2,1,0,12,nukuteater; budism; birma
-1,0,1,0,0,2,2,1,0,12,trumm; birma; budism
-1,0,1,0,0,2,1,1,0,12,budism; birma
-1,0,0,0,0,2,1,1,0,12,budism; birma
+1,1,0,0,0,1,1,0,0,12,panteon; birma
+1,1,0,0,0,1,1,0,0,12,panteon; birma
+1,1,0,0,0,1,1,0,0,12,panteon; birma
+1,1,0,0,0,1,1,0,0,12,panteon; birma
+1,1,0,0,0,1,1,0,0,12,panteon; birma
+1,1,1,0,0,1,1,0,0,12,panteon; birma
+1,0,0,0,0,1,1,0,0,12,birma
+1,0,1,2,0,2,1,0,0,12,nukuteater; budism; birma
+1,0,1,0,0,2,1,0,0,12,birma; budism
+1,0,1,0,0,1,1,0,0,12,birma; budism
+1,0,0,0,0,1,1,0,0,12,birma; budism

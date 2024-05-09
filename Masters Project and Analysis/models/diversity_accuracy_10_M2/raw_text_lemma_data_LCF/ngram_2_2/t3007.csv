@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,0,0,0,0,0,15,bush; palts
-2,1,0,0,0,0,0,0,0,15,bush; palts
-2,1,0,0,0,0,0,0,0,15,bush; palts
-2,1,0,0,0,0,0,0,0,15,bush; palts
-2,1,0,0,0,0,0,0,0,15,bush; palts
-2,1,0,0,0,0,0,0,0,15,bush; palts
-0,1,0,1,0,0,0,0,0,15,bush
-1,1,0,1,0,0,0,0,0,15,bush
-0,1,0,0,0,0,0,0,0,15,bush
-0,1,0,0,0,1,0,0,0,15,bush; tõnis
-1,1,0,1,0,2,0,1,0,15,tõnis; hellar; palts; bush
+3,3,1,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+3,3,1,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+3,3,1,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+3,3,1,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+3,3,1,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+3,3,0,1,0,0,1,1,1,15,palts; venemaa; umbusaldamine; bush; linnapea
+1,3,0,1,0,0,1,2,1,15,venemaa; umbusaldamine; bush; linnapea
+1,3,0,1,0,0,1,2,1,15,venemaa; umbusaldamine; bush; linnapea
+0,2,0,1,0,0,1,1,1,15,umbusaldamine; bush; linnapea; venemaa
+0,3,0,1,0,1,1,0,1,15,venemaa; tõnis; umbusaldamine; bush; linnapea
+1,2,0,1,0,3,1,2,1,15,palts; haigekassa; hellar; tõnis; venemaa; umbusaldamine; bush; linnapea

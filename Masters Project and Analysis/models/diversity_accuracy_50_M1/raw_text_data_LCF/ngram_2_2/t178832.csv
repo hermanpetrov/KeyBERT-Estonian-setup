@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,2,0,1,2,3,3,13,kommunist; valitsus; nõukogude; sõda; partei
-1,1,2,2,0,1,2,3,3,13,kommunist; valitsus; nõukogude; sõda; partei
-1,1,2,2,0,1,2,3,3,13,kommunist; valitsus; nõukogude; sõda; partei
-1,1,2,2,0,1,2,4,3,13,kommunist; valitsus; nõukogude; sõda; partei
-1,2,3,3,0,1,2,3,3,13,valitsus; leedu; kommunist; nõukogude; sõda; partei
-2,3,1,3,0,1,1,3,3,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-2,2,2,2,0,1,2,3,3,13,valitsus; leedu; läti; poliitika; nõukogude; sõda; partei
-1,4,5,1,0,2,2,4,3,13,valitsus; leedu; läti; poliitika; kommunist; nõukogude; sõda; partei
-2,3,2,5,0,2,2,5,3,13,valitsus; läti; saarsen; poliitika; kommunist; nõukogude; jaakson; sõda; partei
-2,1,1,5,1,3,2,4,3,13,valitsus; leedu; läti; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-1,0,2,3,0,3,2,4,3,13,valitsus; leedu; läti; nõukogude; sõda; partei
+1,1,2,2,0,2,3,3,0,13,nõukogude; partei; valitsus; kommunist; sõda
+1,1,2,2,0,2,3,3,0,13,nõukogude; partei; valitsus; kommunist; sõda
+1,1,2,2,0,2,3,3,0,13,nõukogude; partei; valitsus; kommunist; sõda
+1,1,2,2,0,2,4,3,0,13,nõukogude; partei; valitsus; kommunist; sõda
+1,2,3,3,0,2,3,3,0,13,kommunist; leedu; sõda; nõukogude; partei; valitsus
+2,3,1,3,0,1,3,3,0,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+2,2,2,2,0,2,3,3,0,13,poliitika; leedu; läti; sõda; nõukogude; valitsus; partei
+1,4,5,1,0,2,4,3,0,13,poliitika; kommunist; leedu; läti; sõda; nõukogude; partei; valitsus
+2,3,2,5,0,2,5,3,0,13,poliitika; kommunist; saarsen; läti; jaakson; sõda; nõukogude; partei; valitsus
+2,1,1,5,1,2,4,3,0,13,kommunist; leedu; saarsen; läti; jaakson; sõda; nõukogude; partei; valitsus
+1,0,2,3,0,2,4,3,0,13,läti; sõda; nõukogude; partei; valitsus

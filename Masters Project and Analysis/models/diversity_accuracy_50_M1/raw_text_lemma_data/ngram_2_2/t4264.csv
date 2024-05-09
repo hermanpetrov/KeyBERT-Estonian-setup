@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,2,2,3,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-2,2,1,2,2,3,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-2,2,1,2,2,3,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-2,2,1,2,2,3,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-2,2,2,2,2,3,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-1,2,3,2,2,3,1,2,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor; üro
-2,2,2,2,2,2,1,3,2,15,tootmisliin; liibanon; resolutsioon; iisrael; kai; tallinn; viktor
-2,2,3,3,1,1,1,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; kai; tallinn; viktor
-2,1,4,2,1,3,2,3,2,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; kai; viktor
-2,1,2,2,1,2,2,1,2,15,tootmisliin; iisrael; tallinn; liibanon; viktor; vare; resolutsioon
-1,3,3,1,1,2,2,3,3,15,tootmisliin; liibanon; vare; resolutsioon; iisrael; tallinn; viktor
+4,4,4,5,3,4,2,7,2,15,tootmisliin; tallinn; viktor; alatskivi; resolutsioon; janukovitš; lossipäev; üro; vare; iisrael; liibanon; kai; viikingipäev
+4,4,4,5,3,4,2,7,2,15,tootmisliin; tallinn; viktor; alatskivi; resolutsioon; janukovitš; lossipäev; üro; vare; iisrael; liibanon; kai; viikingipäev
+4,4,4,5,3,4,2,7,2,15,tootmisliin; tallinn; viktor; alatskivi; resolutsioon; janukovitš; lossipäev; üro; vare; iisrael; liibanon; kai; viikingipäev
+4,4,4,5,3,4,2,7,2,15,tootmisliin; tallinn; viktor; alatskivi; resolutsioon; janukovitš; lossipäev; üro; vare; iisrael; liibanon; kai; viikingipäev
+4,4,5,5,3,5,4,7,2,15,tootmisliin; tallinn; viktor; alatskivi; resolutsioon; janukovitš; lossipäev; üro; vare; iisrael; liibanon; kai; viikingipäev
+3,4,6,6,3,4,4,6,2,15,üro; tootmisliin; iisrael; vare; tallinn; viktor; liibanon; janukovitš; alatskivi; resolutsioon; kai; lossipäev; viikingipäev
+5,4,5,5,3,3,3,6,2,15,tootmisliin; iisrael; tallinn; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; lossipäev; viikingipäev
+4,3,5,5,1,3,3,7,2,15,vare; tootmisliin; iisrael; tallinn; viktor; liibanon; janukovitš; alatskivi; resolutsioon; kai; lossipäev; viikingipäev
+4,2,7,3,1,6,4,6,2,15,vare; tootmisliin; iisrael; tallinn; viktor; liibanon; alatskivi; kai; resolutsioon; janukovitš; lossipäev; viikingipäev
+4,3,5,3,1,5,4,3,2,15,vare; tootmisliin; iisrael; tallinn; viktor; liibanon; alatskivi; resolutsioon; janukovitš; lossipäev; viikingipäev
+3,5,6,2,1,5,3,7,3,15,vare; tootmisliin; iisrael; tallinn; viktor; liibanon; alatskivi; resolutsioon; janukovitš; lossipäev; viikingipäev

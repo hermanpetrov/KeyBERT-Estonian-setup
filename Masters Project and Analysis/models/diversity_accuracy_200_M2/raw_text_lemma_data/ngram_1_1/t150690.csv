@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,4,0,1,2,4,3,1,15,õpetaja; keel; eesti; haridus
-1,0,4,0,1,2,3,3,1,15,õpetaja; keel; eesti; haridus
-1,0,4,0,2,2,3,3,1,15,õpetaja; keel; eesti; haridus
-0,0,3,0,2,2,3,3,1,15,õpetaja; keel; eesti
-0,0,1,0,2,2,3,3,1,15,õpetaja; keel; eesti
-0,0,1,0,2,1,3,2,1,15,õpetaja; keel; eesti
-0,0,1,1,1,1,2,0,1,15,õpetaja; eesti
-0,0,0,3,1,2,1,1,1,15,keel; õpetaja; eesti; haridus
-1,0,0,4,1,1,1,0,1,15,keel; õpetaja; eesti; haridus
-1,0,0,4,1,1,1,0,1,15,keel; õpetaja; eesti; haridus
-1,1,1,3,1,1,1,0,2,15,keel; õpetaja; eesti; haridus
+7,2,12,8,1,6,7,9,6,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; keelepoliitika; haridus; keel; teadusministeerium; tööturupoliitika; põhialune
+6,2,11,8,1,6,6,9,7,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; keelepoliitika; haridus; keel; teadusministeerium; tööturupoliitika; põhialune
+6,2,9,8,2,6,7,8,7,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; keelepoliitika; haridus; keel; teadusministeerium; tööturupoliitika; põhialune
+5,2,8,8,2,7,7,7,7,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune
+5,2,8,9,2,6,7,7,7,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; sotsiaalmeedia; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune
+4,2,5,7,3,6,7,6,8,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; sotsiaalmeedia; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune
+2,2,4,7,2,4,4,2,7,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; sotsiaalmeedia; õpetaja; teadusministeerium; tööturupoliitika; põhialune; arengukava
+1,1,3,6,3,5,8,4,8,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; sotsiaalmeedia; haridus; keel; teadusministeerium; tööturupoliitika; põhialune
+5,1,2,7,3,4,5,4,6,15,teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; arengukava; eesti; sotsiaalmeedia; haridus; keel; teadusministeerium; tööturupoliitika; põhialune
+4,0,3,6,3,2,4,1,6,15,eesti; teadustöö; ülikool; eestikeelne; sotsiaalmeedia; õpetaja; haridus; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+3,1,2,5,4,3,5,3,7,15,tööturupoliitika; eesti; teadustöö; ülikool; rahvusvaheline; sotsiaalmeedia; õpetaja; haridus; keel; teadusministeerium; eestikeelne; arengukava

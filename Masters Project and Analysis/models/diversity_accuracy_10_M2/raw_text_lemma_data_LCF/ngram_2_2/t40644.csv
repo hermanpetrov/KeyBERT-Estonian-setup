@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,1,19,eesti
 0,0,0,0,0,0,0,0,1,19,eesti
 0,0,0,0,0,0,0,0,1,19,eesti
-0,1,0,0,0,0,0,0,1,19,andres; eesti
-2,1,0,2,0,2,1,1,1,19,andres; phonyker; bach; mari; filharmoonia; eesti
-0,0,0,0,0,3,2,1,1,19,bach; filharmoonia; mari; eesti
+0,1,0,0,0,0,0,0,1,19,eesti; andres
+3,1,0,2,0,2,1,1,1,19,phonyker; mari; eesti; andres; bach; kooriühing; filharmoonia
+0,0,0,0,0,3,2,1,1,19,mari; eesti; bach; filharmoonia
 0,0,0,0,0,0,0,2,1,19,bach; eesti
-0,0,0,1,0,0,0,1,1,19,eesti
-0,0,1,1,0,0,1,1,1,19,bach; eesti; mari
+0,0,0,1,0,0,0,2,1,19,kooriühing; eesti
+0,0,1,1,0,0,1,2,1,19,mari; eesti; bach; kooriühing

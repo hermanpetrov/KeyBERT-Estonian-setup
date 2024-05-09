@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,2,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,2,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,2,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,2,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,1,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-1,1,0,0,0,1,1,2,1,12,luuletaja; luule; antoloogia
-2,0,0,0,0,2,2,2,1,12,luuletaja; eesti; luule; antoloogia
-2,1,0,1,0,3,1,1,1,12,luuletaja; eesti; luule; antoloogia
-1,2,0,1,0,2,0,1,0,12,luuletaja; luule; antoloogia
-0,1,0,2,0,2,0,0,0,12,luuletaja; luule; antoloogia
+1,2,3,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,2,3,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,2,3,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,2,3,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,2,3,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,2,1,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+2,2,1,2,0,2,3,4,1,12,luuletaja; luulemaailm; antoloogia; luulealbum; lillekimp; luule
+2,2,2,0,0,3,3,4,1,12,luuletaja; luulemaailm; eesti; antoloogia; luulealbum; lillekimp; luule
+2,2,0,2,0,5,2,4,1,12,luuletaja; eesti; luulemaailm; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+1,3,1,1,0,3,1,3,0,12,luuletaja; antoloogia; lauluvihik; luulealbum; lillekimp; luule
+0,1,0,3,0,3,2,1,0,12,luuletaja; lauluvihik; luule; luulealbum; antoloogia; lillekimp

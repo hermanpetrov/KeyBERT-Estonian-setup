@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,1,0,1,1,1,1,19,aasta; sulev; riina
-1,1,1,0,0,1,1,1,1,19,aasta; riina
-0,1,2,1,0,1,1,2,1,19,dekoratiivne; aasta; autoriteet; sulev
-0,0,1,0,0,1,3,2,1,19,riina; aasta; autoriteet; sulev
-1,1,1,1,0,2,3,2,1,19,dekoratiivne; riina; aasta; eesti; autoriteet; sulev
-0,1,0,2,0,1,2,2,1,19,aasta; autoriteet; sulev
+3,2,1,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,1,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,1,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,1,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,2,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,2,2,0,2,2,2,1,19,tammsaar; võistlussport; sulev; aasta; põllumees; riina; köögivili
+3,2,1,0,0,2,2,2,1,19,tammsaar; põllumees; võistlussport; aasta; riina
+3,2,3,3,0,2,2,3,1,19,võistlussport; sulev; tervisesport; aasta; põllumees; autoriteet; köögivili; dekoratiivne
+2,1,2,0,0,1,4,3,1,19,võistlussport; sulev; tervisesport; aasta; riina; põllumees; autoriteet
+3,2,2,2,0,3,4,2,1,19,eesti; võistlussport; sulev; tervisesport; aasta; põllumees; riina; autoriteet; dekoratiivne
+1,2,0,3,0,3,3,2,2,19,köögivili; lättemäe; võistlussport; sulev; aasta; põllumees; autoriteet

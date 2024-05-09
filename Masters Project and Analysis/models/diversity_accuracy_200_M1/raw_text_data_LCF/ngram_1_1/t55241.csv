@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,5,0,1,4,4,5,0,13,kvaliteet; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,3,5,0,1,4,4,4,0,13,kvaliteet; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,3,5,0,1,4,4,3,0,13,kvaliteet; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,3,5,0,1,3,4,4,0,13,kvaliteet; korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,2,3,0,1,3,4,3,0,13,korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-4,1,1,0,1,2,3,3,0,13,korrosioon; joogivesi; jaak; veevarustussüsteem; põhjavesi; joogiveemäärus
-0,2,1,0,0,0,0,2,0,13,kvaliteet; veevarustussüsteem; joogivesi; jaak
-0,2,1,1,1,0,0,1,0,13,kvaliteet; veevarustussüsteem; korrosioon; jaak
-0,1,1,0,0,0,0,1,0,13,jaak
-0,1,2,1,0,0,0,2,0,13,kvaliteet; hapnik; veevarustussüsteem; jaak
-0,2,1,1,0,0,0,2,0,13,kvaliteet; veevarustussüsteem; jaak
+4,2,5,0,1,4,5,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,3,5,0,1,4,4,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,3,5,0,1,4,3,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,3,5,0,1,4,4,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi; kvaliteet
+4,2,3,0,1,4,3,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi
+4,1,1,0,1,3,3,0,0,13,põhjavesi; jaak; veevarustussüsteem; joogiveemäärus; korrosioon; joogivesi
+0,2,1,0,0,0,2,0,0,13,veevarustussüsteem; jaak; joogivesi; kvaliteet
+0,2,1,1,1,0,1,0,0,13,veevarustussüsteem; jaak; korrosioon; kvaliteet
+0,1,1,0,0,0,1,0,0,13,jaak
+0,1,2,1,0,0,2,0,0,13,hapnik; jaak; veevarustussüsteem; kvaliteet
+0,2,1,1,0,0,2,0,0,13,veevarustussüsteem; jaak; kvaliteet

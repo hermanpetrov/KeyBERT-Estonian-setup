@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
-0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
-0,0,2,0,0,2,2,1,0,15,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester
-0,0,0,0,0,2,2,1,0,15,sümfooniaorkester; kontsertorkester
-0,0,1,0,0,2,2,0,0,15,sümfooniaorkester; kontsertorkester
-0,0,1,0,0,2,2,0,0,15,sümfooniaorkester; kontsertorkester
-0,0,0,0,0,1,2,0,0,15,muusikaõpetaja; dirigent
+0,0,2,0,0,2,2,1,0,15,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,2,2,1,0,15,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,2,0,0,2,2,1,0,15,muusikaõpetaja; kontsertorkester; sümfooniaorkester; muusikakool
+0,0,0,0,0,2,2,1,0,15,kontsertorkester; sümfooniaorkester
+0,0,1,0,0,2,2,0,0,15,kontsertorkester; sümfooniaorkester
+0,0,1,0,0,2,2,0,0,15,kontsertorkester; sümfooniaorkester
+0,0,0,0,0,1,2,0,0,15,dirigent; muusikaõpetaja
 0,0,0,0,0,0,1,0,0,15,dirigent
-0,0,0,1,0,2,1,0,0,15,eve; virumaa; muusikaõpetaja; dirigent
-0,0,0,1,0,2,1,0,0,15,eve; virumaa; hando; dirigent
-0,0,0,1,0,1,1,1,0,15,eve; hando; dirigent
+0,0,0,1,0,2,1,0,0,15,dirigent; eve; muusikaõpetaja; virumaa
+0,0,0,1,0,2,1,0,0,15,dirigent; eve; hando; virumaa
+0,0,0,1,0,1,1,1,0,15,dirigent; eve; hando

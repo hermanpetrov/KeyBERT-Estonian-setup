@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,3,2,1,2,2,3,4,12,jõud; maagiline; keel; sõna
-4,3,3,2,1,2,2,3,4,12,jõud; maagiline; keel; sõna
-4,3,4,2,2,2,3,3,2,12,jõud; maagiline; keel; sõna
-4,4,4,2,2,2,3,3,2,12,jõud; maagiline; keel; sõna
-4,4,4,2,2,4,3,3,2,12,jõud; maagiline; keel; sõna
-4,4,4,2,2,4,3,3,2,12,jõud; maagiline; keel; sõna
-2,4,4,2,1,4,4,3,2,12,jõud; maagiline; keel; sõna
-2,4,4,2,1,4,3,2,2,12,jõud; maagiline; keel; sõna
-2,3,2,2,2,4,2,2,2,12,jõud; maagiline; keel; sõna
-2,4,2,2,2,4,2,2,2,12,jõud; maagiline; keel; sõna
-2,4,2,2,2,4,2,2,2,12,jõud; maagiline; keel; sõna
+10,7,5,4,2,8,8,7,6,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+10,6,6,4,2,8,8,7,6,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+10,6,7,4,3,8,9,7,4,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+9,7,7,4,3,8,9,7,4,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+8,8,8,5,3,11,9,7,4,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+9,8,9,5,3,10,9,7,3,12,rahvakeel; maagiline; jõud; kirjakeel; murdekeel; indoeuroopa; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+6,7,7,6,2,8,8,7,3,12,rahvakeel; maagiline; jõud; kirjakeel; indoeuroopa; murdekeel; kantseleikeel; ilukirjandus; keeleteadlane; keel; sõna
+4,7,5,7,1,7,6,6,4,12,murdekeel; indoeuroopa; rahvakeel; kantseleikeel; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+4,6,6,6,4,6,6,7,5,12,murdekeel; indoeuroopa; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+3,7,5,7,3,5,5,5,4,12,murdekeel; indoeuroopa; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna
+3,7,3,6,3,5,5,5,5,12,murdekeel; indoeuroopa; rahvakeel; kantseleikeel; ilukirjandus; keeleteadlane; maagiline; keel; jõud; kirjakeel; sõna

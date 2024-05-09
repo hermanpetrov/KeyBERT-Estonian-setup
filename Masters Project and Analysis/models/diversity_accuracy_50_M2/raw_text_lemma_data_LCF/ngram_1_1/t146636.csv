@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,1,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,1,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,1,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,1,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,1,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,1,0,0,0,13,aegunud; tarbijalik; kõrkus
-2,0,1,0,0,0,0,0,0,13,tarbijalik; kõrkus
-2,0,1,0,0,0,1,0,0,13,aegunud; tarbijalik; kõrkus
-2,0,0,1,0,0,1,0,0,13,kiusatus; aegunud; tarbijalik; kõrkus
-2,0,0,1,0,0,0,1,0,13,kiusatus; tarbijalik; kõrkus
-2,0,0,1,0,1,0,1,0,13,kiusatus; aegunud; tarbijalik; kõrkus
+5,3,3,1,0,1,0,1,0,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; enesehinnang; tarbijalik
+5,3,3,1,0,1,0,1,0,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; enesehinnang; tarbijalik
+5,3,3,1,0,1,0,1,0,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; enesehinnang; tarbijalik
+5,3,3,1,0,1,0,1,0,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; enesehinnang; tarbijalik
+5,3,2,1,0,1,0,1,0,13,käegalöömine; enesehinnang; kõrkus; loomupärane; hüpertroofia; tarbijalik
+5,3,2,1,0,1,0,0,0,13,käegalöömine; enesehinnang; kõrkus; loomupärane; hüpertroofia; tarbijalik; aegunud
+5,3,1,1,0,0,0,0,0,13,käegalöömine; enesehinnang; kõrkus; loomupärane; hüpertroofia; tarbijalik
+5,3,2,1,0,0,1,0,1,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; enesehinnang; aegunud; tarbijalik
+4,3,0,1,0,0,1,0,0,13,käegalöömine; enesehinnang; kiusatus; kõrkus; loomupärane; hüpertroofia; tarbijalik; aegunud
+4,3,1,2,0,0,0,1,1,13,käegalöömine; enesehinnang; kiusatus; kõrkus; loomupärane; hüpertroofia; tarbijalik
+4,4,0,3,0,1,0,1,2,13,käegalöömine; kiusatus; kõrkus; loomupärane; hüpertroofia; enesehinnang; aegunud; tarbijalik

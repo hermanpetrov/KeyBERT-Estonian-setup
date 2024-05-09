@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,6,2,1,6,5,2,2,15,turniir; paul; keres; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; malering; võistkond
-3,2,5,2,1,6,5,2,2,15,turniir; paul; keres; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; malering; võistkond
-3,2,5,2,1,7,5,2,2,15,turniir; paul; keres; klubi; eesti; naiskond; hendrik; maletaja; meister; malering; võistkond
-3,2,4,2,1,7,5,3,2,15,turniir; paul; keres; klubi; eesti; naiskond; hendrik; maletaja; meister; malering; võistkond
-3,2,5,1,2,7,4,4,2,15,turniir; paul; keres; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; malering; võistkond
-1,1,5,1,4,4,5,6,2,15,turniir; paul; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; keres; malering
-2,0,5,4,5,5,4,6,3,15,turniir; paul; klubi; eesti; partii; naiskond; meister; maletaja; hendrik; keres; malering
-1,0,2,5,4,3,4,6,3,15,turniir; paul; klubi; eesti; partii; hendrik; meister; keres; malering
-2,1,4,4,4,4,3,5,3,15,turniir; paul; klubi; eesti; partii; naiskond; hendrik; maletaja; meister; keres; võistkond; malering
-1,0,2,5,4,6,4,6,4,15,turniir; paul; klubi; eesti; partii; naiskond; hendrik; meister; maletaja; keres; malering
-3,1,2,5,5,4,3,6,4,15,turniir; paul; klubi; eesti; partii; naiskond; meister; maletaja; hendrik; keres; võistkond; malering
+4,2,6,2,1,7,6,2,2,15,võistkond; lisalaeng; paul; turniir; partii; naiskond; meister; keres; eesti; hendrik; maletaja; klubi; malering
+4,2,5,2,1,7,6,2,2,15,võistkond; lisalaeng; paul; turniir; partii; naiskond; meister; keres; eesti; hendrik; maletaja; klubi; malering
+4,2,5,2,1,8,6,2,2,15,meister; naiskond; keres; eesti; paul; hendrik; võistkond; klubi; lisalaeng; malering; turniir; maletaja
+4,3,4,2,1,8,6,3,2,15,meister; naiskond; keres; eesti; paul; hendrik; võistkond; klubi; lisalaeng; malering; turniir; maletaja
+4,3,5,1,2,8,5,4,2,15,võistkond; lisalaeng; paul; turniir; partii; naiskond; meister; keres; eesti; hendrik; maletaja; klubi; malering
+2,2,5,1,4,5,6,6,2,15,meister; naiskond; partii; keres; eesti; malering; hendrik; maletaja; klubi; lisalaeng; paul; turniir
+3,1,5,4,5,6,5,6,3,15,partii; naiskond; meister; keres; eesti; paul; hendrik; maletaja; klubi; lisalaeng; malering; turniir
+2,1,2,5,4,4,4,7,3,15,partii; meister; keres; eesti; malering; hendrik; klubi; lisalaeng; paul; turniir
+3,2,4,4,4,5,3,5,3,15,partii; meister; naiskond; keres; eesti; malering; hendrik; võistkond; klubi; lisalaeng; paul; turniir; maletaja
+2,1,2,5,4,7,4,6,4,15,partii; meister; naiskond; keres; eesti; malering; hendrik; maletaja; klubi; lisalaeng; paul; turniir
+4,2,3,5,5,5,3,6,4,15,partii; meister; naiskond; keres; eesti; paul; hendrik; võistkond; klubi; lisalaeng; malering; turniir; maletaja

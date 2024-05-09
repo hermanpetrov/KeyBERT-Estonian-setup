@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,1,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,1,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,2,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,2,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,2,2,2,2,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-2,2,3,3,2,1,3,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-1,2,3,2,2,1,2,3,2,11,sihtrühm; kuritegevus; kristjan; epideemia; port
-0,2,5,0,2,1,3,4,2,11,kuritegevus; kristjan; epideemia; port; sihtrühm
-1,2,4,0,2,1,3,4,2,11,kuritegevus; kristjan; epideemia; port; sihtrühm
-0,2,3,0,2,1,3,4,1,11,sihtrühm; kuritegevus; kristjan; epideemia; port
+2,2,1,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,1,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,1,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,2,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,2,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,2,2,2,2,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+2,2,3,3,2,1,3,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+1,2,3,2,2,1,2,3,2,11,kristjan; epideemia; kuritegevus; sihtrühm; port
+0,2,5,0,2,1,3,4,2,11,epideemia; kuritegevus; port; kristjan; sihtrühm
+1,2,4,0,2,1,3,4,2,11,epideemia; kuritegevus; port; kristjan; sihtrühm
+0,2,3,0,2,1,3,4,1,11,kristjan; epideemia; kuritegevus; sihtrühm; port

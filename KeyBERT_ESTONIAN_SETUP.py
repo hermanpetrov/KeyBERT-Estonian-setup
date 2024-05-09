@@ -8,41 +8,44 @@ from keybert import KeyBERT
 from sklearn.feature_extraction.text import CountVectorizer
 import stanza
 
-
-
-
+# Initialize the Stanza pipeline for Estonian language processing
 nlp = stanza.Pipeline(lang="et", processors="tokenize,lemma")
 
 input_directory = "raw_text/"
 output_directory = "raw_text_lemma/"
 
+# Create the output directory if it does not exist
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
 def clean_text(text):
-
-    text = re.sub(r"[_=+]", "", text)
+    # Remove underscores, pluses, and equals signs that are incorrectly connecting parts of words
+    text = re.sub(r'(?<=\w)[_=+](?=\w)', '', text)
     return text
 
-
+# Process each text file in the input directory
 for entry in os.scandir(input_directory):
     if entry.is_file() and entry.name.endswith(".txt"):
         print("Processing file:", entry.name)
-
+        
+        # Set the path for the output file
         output_file_path = os.path.join(output_directory, entry.name)
 
         with open(entry.path, "r", encoding="utf-8") as input_file:
             text = input_file.read()
 
-        cleaned_text = clean_text(text)
-
-        doc = nlp(cleaned_text)
+        # Process the text with the NLP pipeline to extract lemmas
+        doc = nlp(text)
         lemmatized_text = " ".join(
             [word.lemma for sent in doc.sentences for word in sent.words]
         )
 
+        # Clean the lemmatized text to remove specified characters between words
+        cleaned_text = clean_text(lemmatized_text)
+
+        # Write the cleaned, lemmatized text to the output file
         with open(output_file_path, "w", encoding="utf-8") as output_file:
-            output_file.write(lemmatized_text)
+            output_file.write(cleaned_text)
 
         print("Finished processing file:", entry.name)
 

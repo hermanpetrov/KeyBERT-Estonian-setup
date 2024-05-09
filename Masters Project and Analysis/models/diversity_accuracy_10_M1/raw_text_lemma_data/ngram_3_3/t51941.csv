@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,1,0,0,0,0,0,15,baltika
-0,0,0,1,0,0,0,0,0,15,baltika
-0,0,0,1,0,0,0,0,0,15,baltika
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,1,0,0,0,0,0,15,baltika
-0,0,0,0,0,1,0,0,0,15,baltika
-0,0,1,0,0,1,1,0,0,15,baltika
-0,0,1,0,0,1,1,0,0,15,baltika
-0,0,1,1,0,1,1,1,0,15,baltika
-0,0,0,1,1,1,1,1,0,15,baltika; peeter
+1,2,0,3,0,0,1,1,0,15,klaasikunstnik; baltika; rõivafirma; rahulolu; keskkonnarikkumine; riigigümnaasium; kultuurisõber
+1,2,0,3,0,0,1,1,0,15,klaasikunstnik; baltika; rõivafirma; rahulolu; keskkonnarikkumine; riigigümnaasium; kultuurisõber
+1,2,0,3,0,0,1,1,0,15,klaasikunstnik; baltika; rõivafirma; rahulolu; keskkonnarikkumine; riigigümnaasium; kultuurisõber
+1,2,0,1,0,0,1,1,0,15,klaasikunstnik; rahulolu; keskkonnarikkumine; riigigümnaasium; kultuurisõber
+1,2,1,1,0,0,1,1,0,15,klaasikunstnik; rahulolu; majanduskriis; keskkonnarikkumine; riigigümnaasium; kultuurisõber
+1,1,2,3,0,0,1,1,0,15,klaasikunstnik; rõivafirma; rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; riigigümnaasium; baltika
+0,1,1,1,0,1,2,2,0,15,klaasikunstnik; rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; riigigümnaasium; baltika
+0,1,3,1,0,1,2,3,0,15,rahulolu; majanduskriis; keskkonnarikkumine; gaasitarne; kultuurisõber; klaasikunstnik; riigigümnaasium; baltika
+0,0,3,1,0,1,1,3,0,15,klaasikunstnik; rahulolu; kultuurisõber; majanduskriis; gaasitarne; baltika
+0,0,4,3,0,2,1,4,0,15,majanduskriis; gaasitarne; kultuurisõber; klaasikunstnik; rõivafirma; riigigümnaasium; baltika
+0,0,2,3,1,1,2,4,0,15,peeter; majanduskriis; keskkonnarikkumine; gaasitarne; kultuurisõber; klaasikunstnik; rõivafirma; riigigümnaasium; baltika

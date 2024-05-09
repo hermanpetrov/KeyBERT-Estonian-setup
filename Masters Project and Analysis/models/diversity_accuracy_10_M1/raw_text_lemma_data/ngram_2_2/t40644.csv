@@ -8,5 +8,5 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,0,0,1,0,0,0,19,bach; mari
 0,0,0,0,0,0,0,0,0,19,
 0,0,0,2,0,1,1,0,0,19,musicus; mari
-1,0,1,1,1,2,0,1,0,19,orpheus; musicus; kalkun; viiul; igor; robert
-1,1,1,0,1,2,1,0,0,19,orpheus; musicus; tšello; mustonen; igor; robert
+1,0,1,1,1,2,0,1,0,19,kalkun; robert; musicus; igor; viiul; orpheus
+1,1,1,0,1,2,1,0,0,19,robert; mustonen; musicus; tšello; igor; orpheus

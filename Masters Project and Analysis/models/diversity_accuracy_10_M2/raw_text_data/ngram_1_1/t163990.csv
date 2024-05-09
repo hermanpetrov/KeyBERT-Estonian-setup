@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,1,0,0,0,0,0,13,kesk-aasia
 1,0,0,1,0,0,0,0,0,13,kesk-aasia
 1,0,0,1,0,0,0,0,0,13,reisimine; kesk-aasia
-1,0,0,0,0,0,0,1,0,13,kesk-aasia; reaalsusest
-1,0,0,0,0,1,1,1,0,13,kesk-aasia; reaalsusest; autor
-1,0,0,1,0,0,1,1,0,13,reaalsusest; kesk-aasia; jevgeni; autor
+1,0,0,0,0,0,0,1,0,13,reaalsusest; kesk-aasia
+1,0,0,0,0,1,1,1,0,13,reaalsusest; autor; kesk-aasia
+1,0,0,1,0,0,1,1,0,13,autor; reaalsusest; jevgeni; kesk-aasia

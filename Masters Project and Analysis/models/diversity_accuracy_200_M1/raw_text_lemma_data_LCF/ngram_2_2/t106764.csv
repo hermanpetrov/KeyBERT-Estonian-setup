@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,3,7,2,2,3,5,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-6,6,3,7,2,2,3,6,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-6,6,3,7,1,2,3,5,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-6,6,5,8,1,4,3,7,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-6,7,4,8,1,5,5,8,7,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-6,7,5,9,2,5,6,8,7,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-5,7,7,8,2,5,7,6,7,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-5,7,6,7,6,5,5,6,6,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-4,6,7,5,5,5,6,7,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-3,7,7,4,6,4,7,7,6,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
-5,5,8,4,6,4,6,7,5,14,festival; merivoo-parro; singer; maarja; raadio; mart; vinger; kristo; lavastus
+10,9,5,9,2,3,4,8,6,14,vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; singer; kristo; kosmoseteadlane
+10,10,5,9,2,3,4,9,6,14,vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; singer; kristo; kosmoseteadlane
+9,10,5,9,1,3,3,8,6,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+9,10,8,10,1,5,4,11,6,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+9,11,8,10,1,6,7,11,8,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+9,11,8,11,2,7,8,11,8,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+8,11,10,11,3,5,9,9,8,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+8,9,9,10,7,7,6,8,7,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+6,7,10,8,6,7,8,9,5,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; muusikanõukogu; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer
+4,9,9,6,7,6,9,9,6,14,vinger; lavastus; industriaalrokk; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer; kosmoseteadlane
+6,6,10,6,7,6,8,9,6,14,kosmoseteadlane; vinger; lavastus; industriaalrokk; mart; festival; rajasaar; raadio; merivoo-parro; maarja; kristo; singer

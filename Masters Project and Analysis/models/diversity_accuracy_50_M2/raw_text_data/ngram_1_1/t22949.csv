@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,0,2,1,2,1,13,kunst; laimre; kunstiakadeemia; marco; eesti; näitus
-0,0,3,0,0,2,1,2,1,13,kunst; laimre; kunstiakadeemia; marco; eesti; näitus
-0,0,2,0,0,2,1,2,1,13,kunst; laimre; kunstiakadeemia; marco; eesti; näitus
-0,0,2,0,0,2,1,1,1,13,kunst; laimre; marco; eesti; näitus
-0,0,2,0,0,2,1,0,1,13,marco; kunst; laimre; eesti
-0,0,2,0,0,1,0,0,1,13,marco; laimre; eesti
-0,0,1,0,0,3,0,0,1,13,marco; laimre; eesti; näitus
-0,0,2,0,0,3,0,0,1,13,laimre; marco; eesti; näitus; formaat
-0,0,1,0,0,2,1,0,1,13,marco; laimre; kunstiakadeemia; eesti
-0,0,3,0,0,3,0,0,1,13,laimre; kunstiakadeemia; marco; eesti; näitus
+0,0,3,0,0,2,1,2,1,13,laimre; kunst; eesti; marco; kunstiakadeemia; näitus
+0,0,3,0,0,2,1,2,1,13,laimre; kunst; eesti; marco; kunstiakadeemia; näitus
+0,0,2,0,0,2,1,2,1,13,laimre; kunst; eesti; marco; kunstiakadeemia; näitus
+0,0,2,0,0,2,1,1,1,13,laimre; kunst; eesti; marco; näitus
+0,0,2,0,0,2,1,0,1,13,marco; eesti; kunst; laimre
+0,0,2,0,0,1,0,0,1,13,marco; eesti; laimre
+0,0,1,0,0,3,0,0,1,13,marco; eesti; näitus; laimre
+0,0,2,0,0,3,0,0,1,13,laimre; eesti; marco; formaat; näitus
+0,0,1,0,0,2,1,0,1,13,marco; kunstiakadeemia; eesti; laimre
+0,0,3,0,0,3,0,0,1,13,laimre; eesti; marco; kunstiakadeemia; näitus
 0,0,2,0,0,1,0,0,1,13,marco; kunstiakadeemia; eesti

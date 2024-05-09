@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,1,0,2,13,valitsus; sõda; poliitika
-0,1,0,0,0,1,1,0,2,13,valitsus; sõda; poliitika
-0,1,0,0,0,1,1,0,1,13,sõda; poliitika
-0,1,0,0,0,1,1,0,1,13,sõda; poliitika
-0,1,0,0,0,1,1,0,2,13,valitsus; sõda; poliitika
-1,1,0,0,0,1,1,1,2,13,valitsus; nõukogude; poliitika; sõda
-1,0,0,0,0,1,1,1,2,13,valitsus; nõukogude; läti; sõda
-0,0,1,0,0,2,1,1,1,13,valitsus; nõukogude; sõda
-1,0,0,1,0,2,1,0,1,13,nõukogude; sõda; leedu
-0,0,0,2,0,0,1,0,1,13,sõda; läti; saarsen
-2,1,0,1,0,0,1,2,1,13,valitsus; nõukogude; läti; sõda; partei
+0,1,0,0,0,1,1,0,2,13,poliitika; valitsus; sõda
+0,1,0,0,0,1,1,0,2,13,poliitika; valitsus; sõda
+0,1,0,0,0,1,1,0,1,13,poliitika; sõda
+0,1,0,0,0,1,1,0,1,13,poliitika; sõda
+0,1,0,0,0,1,1,0,2,13,poliitika; valitsus; sõda
+1,1,0,0,0,1,1,1,2,13,nõukogude; poliitika; valitsus; sõda
+1,0,0,0,0,1,1,1,2,13,nõukogude; valitsus; läti; sõda
+0,0,1,0,0,2,1,1,1,13,nõukogude; valitsus; sõda
+1,0,0,1,0,2,1,0,1,13,nõukogude; leedu; sõda
+0,0,0,2,0,0,1,0,1,13,saarsen; läti; sõda
+2,1,0,1,0,0,1,2,1,13,nõukogude; partei; valitsus; läti; sõda

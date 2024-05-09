@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,1,3,3,1,3,13,kunst; jõud; kontsert; muusika; vardo; sajand; vene; sonaat
-1,1,2,1,1,3,3,1,3,13,kunst; jõud; kontsert; muusika; vardo; sajand; vene; sonaat
-1,1,2,1,1,3,3,1,3,13,kunst; jõud; kontsert; muusika; vardo; sajand; vene; sonaat
-1,1,2,1,1,3,3,1,3,13,kunst; jõud; kontsert; muusika; vardo; tegutsemine; sajand; vene; sonaat
-1,1,0,1,1,2,3,1,3,13,kunst; jõud; kontsert; muusika; vardo; sajand; vene; sonaat
-1,1,1,1,1,1,1,1,3,13,kunst; jõud; kontsert; muusika; vardo; sajand; vene; sonaat
-1,1,1,1,1,0,1,0,4,13,kunst; jõud; muusika; vardo; vene; sonaat; tunnetamine
-0,1,1,1,1,0,1,1,3,13,vene; kunst; jõud; muusika; vardo; sonaat
-0,0,2,1,1,0,2,1,4,13,kunst; jõud; muusika; vardo; vene; sonaat; tunnetamine
-0,0,0,1,1,1,1,1,4,13,kunst; jõud; kontsert; muusika; vardo; vene; sonaat; tunnetamine
-0,0,1,1,1,0,1,1,2,13,vene; kunst; jõud; kontsert; muusika; vardo; sonaat
+2,1,2,1,1,3,3,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; jõud; ümberkujundamine; kontsert
+2,1,2,1,1,3,3,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; jõud; ümberkujundamine; kontsert
+2,1,2,1,1,3,3,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; jõud; ümberkujundamine; kontsert
+2,1,2,1,1,3,3,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; tegutsemine; jõud; ümberkujundamine; kontsert
+2,1,0,1,1,2,3,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; jõud; ümberkujundamine; kontsert
+2,1,1,1,1,2,1,1,3,13,sonaat; vene; sajand; vardo; muusika; kunst; jõud; ümberkujundamine; kontsert
+2,1,1,1,1,1,1,0,4,13,sonaat; vene; vardo; tunnetamine; muusika; kunst; jõud; ümberkujundamine
+1,1,1,1,1,1,1,1,3,13,muusika; kunst; sonaat; vene; jõud; ümberkujundamine; vardo
+1,0,2,1,1,1,2,1,4,13,sonaat; vene; vardo; tunnetamine; muusika; kunst; jõud; ümberkujundamine
+0,0,0,1,1,2,1,1,4,13,sonaat; vene; vardo; tunnetamine; muusika; kunst; jõud; ümberkujundamine; kontsert
+0,0,1,1,1,1,1,2,2,13,ümberkujundamine; kunst; vene; sonaat; muusika; jõud; vardo; kontsert

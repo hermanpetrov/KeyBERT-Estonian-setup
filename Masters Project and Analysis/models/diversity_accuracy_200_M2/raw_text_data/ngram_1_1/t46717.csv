@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,6,1,0,5,6,2,5,16,festival; kontsert; riiklik; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-3,1,3,1,0,5,5,2,5,16,kontsert; riiklik; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-3,1,1,1,0,4,4,2,5,16,kontsert; riiklik; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-1,0,1,1,0,5,3,1,5,16,paavo; kontsert; riiklik; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-0,1,2,1,1,4,3,1,5,16,festival; järvi; paavo; kontsert; stravinski; riiklik; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-0,1,3,1,1,2,2,1,4,16,festival; järvi; kontsert; stravinski; riiklik; eesti; läänemere; sümfooniaorkester; akustika; arvo
-0,1,2,1,1,2,2,1,3,16,festival; järvi; stravinski; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-1,1,1,1,1,3,2,2,4,16,festival; järvi; stravinski; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; arvo
-0,1,2,2,2,2,2,0,2,16,festival; järvi; stravinski; eesti; läänemere; kontserdisaal; akustika
-0,1,4,1,4,2,2,1,1,16,festival; järvi; paavo; stravinski; eesti; läänemere; akustika; helsingi
-0,1,1,1,1,3,2,2,1,16,festival; sümfooniaorkester; järvi; stravinski; eesti; akustika; läänemere
+3,1,6,1,0,5,6,2,5,16,riiklik; eesti; sümfooniaorkester; kontserdisaal; akustika; läänemere; arvo; festival; kontsert
+3,1,3,1,0,5,5,2,5,16,riiklik; eesti; sümfooniaorkester; kontserdisaal; akustika; läänemere; arvo; kontsert
+3,1,1,1,0,4,4,2,5,16,riiklik; eesti; sümfooniaorkester; kontserdisaal; akustika; läänemere; arvo; kontsert
+1,0,1,1,0,5,3,1,5,16,eesti; riiklik; sümfooniaorkester; kontserdisaal; paavo; akustika; läänemere; arvo; kontsert
+0,1,2,1,1,4,3,1,5,16,eesti; riiklik; järvi; sümfooniaorkester; kontserdisaal; stravinski; paavo; akustika; läänemere; arvo; festival; kontsert
+0,1,3,1,1,2,2,1,4,16,akustika; eesti; riiklik; järvi; sümfooniaorkester; stravinski; läänemere; arvo; festival; kontsert
+0,1,2,1,1,2,2,1,3,16,akustika; eesti; järvi; sümfooniaorkester; kontserdisaal; stravinski; läänemere; arvo; festival
+1,1,1,1,1,3,2,2,4,16,akustika; eesti; järvi; sümfooniaorkester; kontserdisaal; stravinski; läänemere; arvo; festival
+0,1,2,2,2,2,2,0,2,16,akustika; eesti; järvi; kontserdisaal; stravinski; läänemere; festival
+0,1,4,1,4,2,2,1,1,16,akustika; helsingi; eesti; järvi; paavo; stravinski; läänemere; festival
+0,1,1,1,1,3,2,2,1,16,järvi; stravinski; eesti; akustika; läänemere; sümfooniaorkester; festival

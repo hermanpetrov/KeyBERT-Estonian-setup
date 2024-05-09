@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,3,0,1,3,2,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-1,3,3,3,0,1,3,2,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-1,3,3,3,0,1,3,2,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-1,3,3,3,0,1,3,2,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-1,3,2,3,0,4,2,2,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-2,2,2,3,0,3,4,1,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
-1,2,3,2,0,4,2,3,1,17,festival; steiner; viljandi; laen; kai; jürgen; kreeka
-1,1,2,1,0,3,1,6,1,17,festival; salme; vare; steiner; viljandi; kai; jürgen; kreeka
-2,1,2,0,2,3,3,4,1,17,festival; salme; vare; steiner; viljandi; kai; jürgen; kreeka
-2,3,1,2,1,5,1,2,1,17,festival; vare; steiner; viljandi; laen; kai; jürgen; kreeka
-2,3,0,2,2,5,1,1,1,17,festival; salme; vare; steiner; viljandi; laen; jürgen; kreeka
+4,4,8,5,0,1,4,2,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+4,4,8,5,0,1,4,2,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+4,4,8,5,0,1,4,2,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+4,4,8,5,0,1,4,2,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+4,4,8,5,0,4,3,2,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+4,3,6,5,0,3,5,1,2,17,vare; steiner; venemaa; salme; pärimusmuusika; kosmosesüstik; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+2,3,7,6,0,5,3,3,2,17,steiner; venemaa; festival; pärimusmuusika; kosmosesüstik; presidendivalimine; põllumajandusprojekt; kreeka; kai; viljandi; jürgen; laen; kliimamuudatus
+3,2,7,3,0,4,3,8,2,17,steiner; salme; kosmosesüstik; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; kliimamuudatus; vare; venemaa; pärimusmuusika; presidendivalimine; kai
+4,2,6,0,2,5,5,4,2,17,vare; steiner; venemaa; salme; kosmosesüstik; jürgen; presidendivalimine; põllumajandusprojekt; kreeka; kai; viljandi; festival; kliimamuudatus
+4,4,3,3,1,8,3,3,2,17,steiner; kosmosesüstik; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival; kliimamuudatus; vare; venemaa; muinaslaev; presidendivalimine; kai
+4,3,4,3,2,6,2,2,2,17,vare; steiner; venemaa; kliimamuudatus; salme; kosmosesüstik; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival

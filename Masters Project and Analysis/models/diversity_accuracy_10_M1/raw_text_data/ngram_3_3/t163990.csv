@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,1,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,2,0,3,2,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; ülar
-1,4,4,0,3,3,2,4,0,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; vene; ülar; urmas; autor
-2,4,4,2,3,3,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; kompleks; vene; ülar; urmas; autor
-2,4,5,0,3,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; kompleks; vene; ülar; autor
-2,5,5,0,2,2,2,5,1,15,tõlge; jevgeni; reaalsusest; lauk; vikerraadio; kompleks; vene; ülar; urmas; autor
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,1,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,2,0,3,2,2,4,0,15,reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+1,4,4,0,3,3,2,4,0,15,autor; vene; urmas; reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+2,4,4,2,3,3,2,4,0,15,autor; vene; urmas; reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+2,4,5,0,3,2,2,4,0,15,autor; vene; reaalsusest; ülar; jevgeni; kompleks; tõlge; vikerraadio; lauk
+2,5,5,0,2,2,2,5,1,15,autor; vene; urmas; ülar; reaalsusest; jevgeni; kompleks; tõlge; vikerraadio; lauk

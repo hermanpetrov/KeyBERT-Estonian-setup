@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-1,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-3,1,2,0,0,1,0,2,1,13,lili; õpetamine; hiiu; käär; sõna
-4,1,2,1,0,1,1,2,1,13,lili; õpetamine; hiiu; käär; hiidlane; sõna
-2,1,2,1,0,1,1,2,1,13,lili; õpetamine; hiiu; käär; hiidlane; sõna
-0,1,2,2,0,1,1,2,1,13,merike; lili; õpetamine; sõna; hiiu; käär; aasta
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+1,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+3,2,2,1,0,1,0,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; lili
+4,2,2,2,0,1,1,3,2,13,õpetamine; käär; koolipõlv; hiiu; lasteraamat; sõna; hiidlane; lili
+3,2,2,1,0,1,1,3,2,13,õpetamine; koolipõlv; käär; hiiu; lasteraamat; sõna; hiidlane; lili
+0,2,2,2,0,1,1,3,2,13,merike; õpetamine; käär; koolipõlv; aasta; hiiu; lasteraamat; sõna; lili

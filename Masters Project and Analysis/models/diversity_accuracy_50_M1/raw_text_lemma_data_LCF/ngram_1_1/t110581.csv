@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,1,3,1,1,12,mõisnik; kristus; eduard; telling
-0,0,1,0,1,1,3,1,1,12,mõisnik; kristus; eduard; telling
-0,0,1,0,1,1,3,1,1,12,mõisnik; kristus; eduard; telling
-0,0,1,0,1,1,3,1,1,12,mõisnik; kristus; eduard; telling
-0,0,1,0,1,1,3,1,1,12,mõisnik; kristus; eduard; telling
-0,0,1,0,1,2,3,0,1,12,mõisnik; kristus; eduard; telling
-1,0,1,0,1,2,1,0,1,12,kristus; telling; mõisnik
-1,1,1,0,1,2,1,0,1,12,kristus; eduard; telling
-0,1,1,0,1,2,1,3,1,12,villem; kristus; eduard; telling
-0,0,2,1,1,2,0,2,1,12,kristus; eduard; telling
-0,0,2,0,1,3,0,2,1,12,villem; kristus; eduard; telling
+0,0,1,0,1,1,4,2,1,12,kristus; telling; eduard; mõisnik; mõisavalitseja
+0,0,1,0,1,1,4,2,1,12,kristus; telling; eduard; mõisnik; mõisavalitseja
+0,0,1,0,1,1,4,2,1,12,kristus; telling; eduard; mõisnik; mõisavalitseja
+0,0,1,0,1,1,4,2,1,12,kristus; telling; eduard; mõisnik; mõisavalitseja
+0,0,1,0,1,1,4,2,1,12,kristus; telling; eduard; mõisnik; mõisavalitseja
+0,0,1,0,1,2,5,1,1,12,kristus; telling; karjapoiss; eduard; mõisnik; mõisavalitseja
+1,0,1,0,1,2,1,1,1,12,kristus; telling; mõisnik; mõisavalitseja
+1,1,1,1,1,2,2,1,1,12,kristus; telling; eduard; mõisavalitseja; karjapoiss
+0,1,1,1,1,2,1,4,1,12,kristus; telling; villem; eduard; mõisavalitseja
+0,0,2,1,1,2,0,3,1,12,kristus; telling; eduard; mõisavalitseja
+0,0,2,0,1,3,0,3,1,12,kristus; telling; villem; eduard; mõisavalitseja

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,7,5,6,3,4,2,7,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-7,6,7,5,6,4,4,2,7,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-7,6,7,5,6,5,4,2,7,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-7,7,7,5,7,5,6,2,7,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-7,7,7,5,7,6,7,4,7,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-7,7,7,5,7,7,7,4,6,12,kristjan; john; port; lamar; tsensuur; mccain; tarkus
-6,6,7,5,7,7,7,7,6,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
-6,6,7,6,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
-6,5,7,6,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
-6,6,7,7,7,7,7,7,5,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
-6,6,7,7,7,7,7,7,6,12,kristjan; port; john; lamar; tsensuur; mccain; tarkus
+11,10,10,9,9,7,8,6,11,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+11,10,10,9,9,8,7,6,11,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+11,10,9,9,8,9,7,6,11,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+11,11,10,9,9,9,9,6,11,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+11,11,9,9,9,9,9,8,11,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+11,11,8,9,9,10,9,7,10,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+10,10,7,8,9,9,9,9,10,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+10,10,7,10,9,10,8,10,9,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+10,9,9,9,9,10,9,10,9,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+9,9,10,10,9,9,9,9,9,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar
+9,9,9,10,9,9,9,8,9,12,tsensuur; port; seadusalgatus; internetiteenus; mccain; jälitamiskohustus; lasteporno; tarkus; john; kristjan; lamar

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar
-1,0,3,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar
-1,0,3,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar
-1,0,3,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar
-1,0,2,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar
-2,2,3,0,0,3,2,3,0,11,hanso; metsavend; ülekuulamine; elmar; morse
-1,2,3,3,0,3,2,4,0,11,ülekuulamine; hanso; metsavend; elmar; süüdistus
-0,1,4,0,0,3,2,4,0,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-3,0,4,3,0,2,1,3,0,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-3,2,3,3,2,2,3,4,0,11,ülekuulamine; morse; hanso; metsavend; elmar; süüdistus
-3,0,3,3,2,2,0,3,0,11,hanso; metsavend; elmar; morse
+1,0,3,0,0,3,2,3,0,11,hanso; metsavend; elmar; ülekuulamine
+1,0,3,0,0,3,2,3,0,11,hanso; metsavend; elmar; ülekuulamine
+1,0,3,0,0,3,2,3,0,11,hanso; metsavend; elmar; ülekuulamine
+1,0,3,0,0,3,2,3,0,11,hanso; metsavend; elmar; ülekuulamine
+1,0,2,0,0,3,2,3,0,11,hanso; metsavend; elmar; ülekuulamine
+2,2,3,0,0,3,2,3,0,11,hanso; morse; metsavend; elmar; ülekuulamine
+1,2,3,3,0,3,2,4,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso
+0,1,4,0,0,3,2,4,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+3,0,4,3,0,2,1,3,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+3,2,3,3,2,2,3,4,0,11,süüdistus; metsavend; elmar; ülekuulamine; hanso; morse
+3,0,3,3,2,2,0,3,0,11,morse; hanso; metsavend; elmar

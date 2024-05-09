@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-12,11,9,11,10,11,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-12,11,11,11,10,11,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-11,11,11,11,10,11,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-11,11,11,11,11,11,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-12,11,12,11,10,12,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-10,11,12,13,10,11,11,11,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-9,11,12,13,11,13,12,13,11,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-10,11,13,10,12,12,13,13,11,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-11,12,13,11,11,12,11,13,11,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-10,12,12,11,13,12,12,13,11,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-9,12,12,10,12,12,12,12,10,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
+12,11,9,11,10,11,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+12,11,11,11,10,11,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+11,11,11,11,10,11,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+11,11,11,11,11,11,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+12,11,12,11,10,12,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+10,11,12,13,10,11,11,11,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+9,11,12,13,11,13,12,13,11,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+10,11,13,10,12,12,13,13,11,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; hernes; redel; kadri; poiss
+11,12,13,11,11,12,11,13,11,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; hernes; redel; kadri; poiss
+10,12,12,11,13,12,12,13,11,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+9,12,12,10,12,12,12,12,10,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss

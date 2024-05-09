@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,6,6,1,4,7,8,7,5,13,ema; laps; teater; õpetaja; õde; amanda; lapsepõlv; isa; piret
-7,6,6,2,4,7,8,7,5,13,ema; laps; teater; õpetaja; õde; amanda; lapsepõlv; isa; piret
-8,6,7,2,4,7,8,7,5,13,ema; laps; keemia; teater; õpetaja; õde; amanda; lapsepõlv; isa; piret
-7,6,6,2,4,7,7,7,5,13,ema; laps; teater; õpetaja; õde; amanda; keemia; lapsepõlv; isa; piret
-7,6,6,2,3,8,7,7,5,13,ema; laps; keemia; teater; õde; amanda; õpetaja; lapsepõlv; isa; piret
-7,5,5,2,5,5,8,6,5,13,ema; laps; keemia; õde; teater; amanda; õpetaja; lapsepõlv; isa; piret; kalda
-6,6,7,6,4,6,7,6,5,13,ema; laps; keemia; õde; teater; amanda; lapsepõlv; isa; piret; kalda
-4,7,5,5,4,6,6,8,4,13,ema; laps; õde; keemia; teater; amanda; lapsepõlv; isa; piret; kalda
-4,6,3,4,6,6,5,7,4,13,ema; laps; õde; balletikool; keemia; amanda; teater; lapsepõlv; isa; piret; kalda
-3,5,5,5,4,4,5,7,4,13,ema; laps; õde; keemia; teater; amanda; lapsepõlv; isa; piret; kalda
-3,2,7,5,6,3,5,9,4,13,ema; laps; amanda; piret; kalda; õde; keemia; teater; balletikool; lapsepõlv; isa
+9,6,6,1,4,7,8,7,5,13,laps; piret; lapsepõlv; isa; õpetaja; amanda; õde; ema; teater
+7,6,6,2,4,7,8,7,5,13,laps; piret; lapsepõlv; isa; õpetaja; amanda; õde; ema; teater
+8,6,7,2,4,7,8,7,5,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; amanda; õde; ema; teater
+7,6,6,2,4,7,7,7,5,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; amanda; õde; ema; teater
+7,6,6,2,3,8,7,7,5,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; amanda; õde; ema; teater
+7,5,5,2,5,5,8,6,5,13,laps; piret; kalda; lapsepõlv; isa; keemia; õpetaja; amanda; õde; ema; teater
+6,6,7,6,4,6,7,6,5,13,laps; piret; kalda; lapsepõlv; isa; keemia; amanda; õde; ema; teater
+4,7,5,5,4,6,6,8,4,13,laps; piret; kalda; lapsepõlv; isa; keemia; amanda; õde; ema; teater
+4,6,3,4,6,6,5,7,4,13,laps; piret; kalda; lapsepõlv; isa; keemia; amanda; õde; ema; balletikool; teater
+3,5,5,5,4,4,5,7,4,13,laps; piret; kalda; lapsepõlv; isa; keemia; amanda; õde; ema; teater
+3,2,7,5,6,3,5,9,4,13,laps; kalda; lapsepõlv; isa; keemia; ema; balletikool; teater; piret; amanda; õde

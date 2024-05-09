@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,2,6,3,3,2,4,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,5,4,6,3,4,2,4,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,5,5,6,3,5,2,4,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,5,4,5,3,5,2,5,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,5,6,5,3,5,2,6,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,4,6,5,3,4,5,6,2,13,falck; eesti; klavessiin; christoph; pianiino; radke
-6,5,6,6,4,5,2,6,3,13,falck; eesti; klavessiin; christoph; pianiino; radke
-5,4,6,6,4,6,3,5,4,13,falck; eesti; klavessiin; christoph; pianiino; radke
-3,4,3,5,4,6,4,4,4,13,falck; eesti; klavessiin; christoph; pianiino; radke
-4,4,4,4,4,5,2,4,6,13,falck; eesti; klavessiin; christoph; pianiino; radke
-1,4,3,4,6,3,2,5,5,13,falck; eesti; klavessiin; christoph; pianiino; radke
+10,10,7,11,5,8,7,9,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+11,10,9,11,5,9,7,9,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+11,10,10,11,5,10,7,9,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+11,10,9,10,5,10,7,10,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+11,10,11,10,5,10,7,11,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+11,9,11,10,5,9,10,11,5,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+9,10,10,10,6,9,7,11,6,13,pianiino; kontsertklaver; falck; eesti; klavessiin; klaverimeister; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+8,8,10,10,6,9,8,8,7,13,pianiino; kontsertklaver; falck; eesti; klaverimeister; klavessiin; radke; klaverivabrik; muusikamuuseum; klaveriehitus; christoph
+7,9,7,9,7,8,8,7,6,13,pianiino; kontsertklaver; falck; eesti; klavessiin; klaverivabrik; radke; klaverimeister; muusikamuuseum; klaveriehitus; christoph
+8,7,8,8,8,7,7,7,8,13,pianiino; kontsertklaver; falck; eesti; klaverivabrik; klavessiin; radke; klaverimeister; muusikamuuseum; klaveriehitus; christoph
+4,7,7,8,8,5,6,7,7,13,pianiino; kontsertklaver; falck; eesti; klaverivabrik; klaverimeister; klavessiin; radke; muusikamuuseum; klaveriehitus; christoph

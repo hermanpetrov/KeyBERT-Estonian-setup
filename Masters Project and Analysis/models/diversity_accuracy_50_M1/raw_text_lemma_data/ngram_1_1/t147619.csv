@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,0,0,0,0,0,12,bett; arseenik; rätsep; alver
-0,2,1,1,0,0,0,0,0,12,bett; arseenik; rätsep; alver
-0,2,1,1,0,0,0,0,0,12,bett; arseenik; rätsep; alver
-0,2,1,1,0,0,0,0,0,12,bett; arseenik; rätsep; alver
-0,2,1,1,0,0,0,0,0,12,bett; arseenik; rätsep; alver
-0,2,2,1,0,0,0,0,0,12,arseenik; kreem; bett; rätsep; alver
-0,2,3,1,0,0,0,1,0,12,arseenik; nooruk; kreem; bett; rätsep; alver
-0,2,2,0,0,0,0,1,0,12,nooruk; kreem; bett; rätsep; alver
-0,2,2,0,0,0,0,1,0,12,arseenik; kreem; bett; rätsep; alver
-0,1,3,0,0,0,0,2,0,12,arseenik; kreem; rätsep; alver
-0,1,3,0,0,0,0,2,0,12,arseenik; laps; kreem; rätsep; alver
+1,3,1,1,0,0,0,0,0,12,alver; meelõhnaline; rätsep; arseenik; bett
+1,3,1,1,0,0,0,0,0,12,alver; meelõhnaline; rätsep; arseenik; bett
+1,3,1,1,0,0,0,0,0,12,alver; meelõhnaline; rätsep; arseenik; bett
+1,3,1,1,0,0,0,0,0,12,alver; meelõhnaline; rätsep; arseenik; bett
+1,3,1,1,0,0,0,0,0,12,alver; meelõhnaline; rätsep; arseenik; bett
+1,3,2,1,0,0,0,0,0,12,kreem; alver; meelõhnaline; rätsep; arseenik; bett
+1,3,3,1,0,0,0,1,0,12,kreem; alver; meelõhnaline; rätsep; arseenik; nooruk; bett
+0,3,2,0,0,0,0,1,0,12,kreem; alver; meelõhnaline; rätsep; nooruk; bett
+0,3,2,0,0,0,0,1,0,12,kreem; alver; meelõhnaline; rätsep; arseenik; bett
+0,2,3,0,0,0,0,2,0,12,kreem; alver; meelõhnaline; rätsep; arseenik
+0,2,3,0,0,0,0,2,0,12,laps; kreem; alver; meelõhnaline; rätsep; arseenik

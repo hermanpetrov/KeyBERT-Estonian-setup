@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-2,0,0,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-2,0,0,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-2,0,0,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-2,0,1,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-2,0,1,0,0,1,2,2,0,13,vändra; põllumeeste; jansen; eesti
-1,0,1,1,0,1,2,2,0,13,vändra; jansen; põllumeeste; eesti
-2,0,2,1,0,1,1,1,0,13,põllumeeste; jansen; eesti; üldlaulupidu
+2,0,0,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,0,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,0,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,0,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,1,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,1,0,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+1,0,1,1,0,1,2,2,0,13,eesti; põllumeeste; jansen; vändra
+2,0,2,1,0,1,1,1,0,13,üldlaulupidu; eesti; põllumeeste; jansen
 0,0,0,0,0,1,1,2,0,13,jansen; kirjutama
-0,0,1,0,0,1,1,2,0,13,vändra; jansen
-0,0,0,0,0,0,1,2,0,13,vändra; jansen
+0,0,1,0,0,1,1,2,0,13,jansen; vändra
+0,0,0,0,0,0,1,2,0,13,jansen; vändra

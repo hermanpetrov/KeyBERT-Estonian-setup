@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea
-0,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea
-0,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea
-0,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea
-0,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea
-1,0,0,0,0,1,1,1,1,13,reformierakond; põhja-korea; swedbank
-1,0,0,0,0,1,0,1,1,13,reformierakond; põhja-korea; swedbank
-1,0,0,0,0,0,0,1,1,13,reformierakond; põhja-korea; swedbank
-0,0,0,0,0,0,0,1,1,13,reformierakond; põhja-korea
-0,0,0,0,0,0,0,1,1,13,reformierakond; põhja-korea
-0,0,0,0,1,0,0,0,1,13,põhja-korea; res
+0,0,0,0,0,1,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,0,1,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,0,1,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,0,1,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,0,1,1,1,0,13,põhja-korea; reformierakond
+1,0,0,0,0,1,1,1,0,13,swedbank; põhja-korea; reformierakond
+1,0,0,0,0,0,1,1,0,13,swedbank; põhja-korea; reformierakond
+1,0,0,0,0,0,1,1,0,13,swedbank; põhja-korea; reformierakond
+0,0,0,0,0,0,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,0,0,1,1,0,13,põhja-korea; reformierakond
+0,0,0,0,1,0,0,1,0,13,res; põhja-korea

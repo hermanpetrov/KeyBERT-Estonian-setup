@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,3,1,2,2,2,3,2,16,aleksejev; kirjanik; hemingway; tiit; film; sõda; sõjaromaan
-2,0,3,1,2,2,2,3,2,16,aleksejev; kirjanik; hemingway; tiit; film; sõda; sõjaromaan
-2,0,3,1,2,2,2,3,2,16,aleksejev; kirjanik; hemingway; tiit; film; sõda; sõjaromaan
-2,0,3,1,2,2,2,3,2,16,aleksejev; kirjanik; hemingway; tiit; film; sõda; sõjaromaan
-2,0,2,1,2,2,3,3,2,16,aleksejev; kirjanik; hemingway; tiit; film; sõda; sõjaromaan
-3,1,2,0,2,3,2,3,2,16,aleksejev; kirjanik; hemingway; tiit; peeter; film; sõda; sõjaromaan
-1,4,4,1,1,3,1,3,2,16,aleksejev; kirjanik; hemingway; helme; peeter; allik; film; sõda
-3,3,2,5,3,3,3,5,2,16,aleksejev; kirjanik; hemingway; tiit; helme; peeter; film; sõda; sõjaromaan
-2,1,5,2,3,4,4,5,3,16,aleksejev; kirjanik; hemingway; läänerindel; helme; tiit; peeter; film; sõda; sõjaromaan
-1,0,4,1,4,2,2,2,3,16,aleksejev; kirjanik; hemingway; tiit; helme; läänerindel; peeter; film; sõda; sõjaromaan
-1,0,2,0,4,1,3,3,3,16,aleksejev; kirjanik; hemingway; läänerindel; tiit; film; sõda; sõjaromaan
+2,0,3,1,2,2,2,3,2,16,film; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+2,0,3,1,2,2,2,3,2,16,film; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+2,0,3,1,2,2,2,3,2,16,film; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+2,0,3,1,2,2,2,3,2,16,film; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+2,0,2,1,2,2,3,3,2,16,film; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+3,1,2,0,2,3,2,3,2,16,film; peeter; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+1,4,4,1,1,3,1,3,2,16,film; peeter; helme; allik; kirjanik; sõda; aleksejev; hemingway
+3,3,2,5,3,3,3,5,2,16,film; peeter; helme; kirjanik; sõjaromaan; tiit; sõda; aleksejev; hemingway
+2,1,5,2,3,4,4,5,3,16,film; peeter; kirjanik; helme; sõjaromaan; tiit; sõda; läänerindel; aleksejev; hemingway
+1,0,4,1,4,2,2,2,3,16,film; peeter; kirjanik; helme; sõjaromaan; tiit; sõda; läänerindel; aleksejev; hemingway
+1,0,2,0,4,1,3,3,3,16,film; kirjanik; sõjaromaan; tiit; sõda; läänerindel; aleksejev; hemingway

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,13,leho; saladus
-0,1,1,0,0,1,1,1,0,13,leho; saladus
-0,1,1,0,0,1,1,1,0,13,leho; saladus
-0,1,1,0,0,1,1,1,0,13,leho; saladus
-0,1,1,0,0,1,0,1,0,13,leho; saladus
-0,1,1,0,0,1,1,1,0,13,leho; saladus
-0,1,1,0,0,1,0,1,0,13,leho; saladus
-0,1,0,0,0,1,0,1,0,13,leho
-0,1,1,1,0,1,1,0,0,13,leho; onn; saladus; boriss
-0,1,1,1,0,1,1,0,0,13,leho; saladus; boriss
-1,1,1,2,0,2,0,0,0,13,leho; suvi; kont; boriss; saladus
+2,1,1,0,0,1,2,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,2,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,2,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,2,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,1,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,2,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,1,0,0,1,0,2,0,13,õudusjutt; saladus; sõjalennuk; leho
+2,1,0,0,0,1,1,1,0,13,õudusjutt; sõjalennuk; leho
+1,1,1,1,0,2,1,0,0,13,õudusjutt; leho; boriss; onn; saladus
+1,1,1,1,0,2,1,0,0,13,õudusjutt; leho; boriss; saladus
+2,1,1,2,0,3,0,0,0,13,suvi; boriss; leho; õudusjutt; kont; saladus

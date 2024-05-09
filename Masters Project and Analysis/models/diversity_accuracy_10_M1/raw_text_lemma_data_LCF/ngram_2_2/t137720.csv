@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,1,3,0,12,andmed; portaal; liit; euroopa
-2,1,2,2,1,0,2,3,0,12,andmed; portaal; liit; euroopa
-1,1,2,2,1,1,2,3,0,12,andmed; portaal; liit; euroopa
-1,0,2,2,1,2,2,3,0,12,andmed; portaal; liit; port; euroopa
-1,0,1,3,1,2,1,2,0,12,andmed; kristjan; liit; port; euroopa
-3,0,3,3,1,3,2,2,0,12,andmed; portaal; kristjan; liit; port; euroopa
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,1,3,0,12,andmed; portaal; euroopa; liit
+2,1,2,2,1,0,2,3,0,12,andmed; portaal; euroopa; liit
+1,1,2,2,1,1,2,3,0,12,andmed; portaal; euroopa; liit
+1,0,3,2,1,2,2,3,0,12,andmed; portaal; euroopa; isikuandmed; port; liit
+2,0,2,3,1,2,1,2,0,12,andmed; kristjan; euroopa; isikuandmed; port; liit
+3,0,4,3,1,3,2,3,0,12,andmed; portaal; isikuandmed; port; kristjan; euroopa; liit

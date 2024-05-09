@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,1,1,1,15,türgi; islam; euroopa-mõjuline
-0,1,0,0,0,1,1,1,1,15,türgi; islam; euroopa-mõjuline
-0,1,0,0,0,1,1,1,1,15,türgi; islam; euroopa-mõjuline
-0,1,0,0,0,1,1,1,1,15,türgi; islam; euroopa-mõjuline
-0,1,0,0,0,1,1,1,1,15,türgi; islam; euroopa-mõjuline
-0,1,0,0,0,1,1,1,0,15,türgi; euroopa-mõjuline
-0,1,0,0,0,2,1,1,1,15,türgi; islam; nobel; euroopa-mõjuline
-0,1,1,1,0,2,1,1,1,15,türgi; andres; nobel; euroopa-mõjuline; islam
-0,1,1,0,0,2,0,1,1,15,türgi; islam; nobel; euroopa-mõjuline
-0,0,1,0,0,2,0,1,0,15,türgi; nobel; euroopa-mõjuline
-0,0,1,0,0,2,0,1,0,15,türgi; nobel; euroopa-mõjuline
+0,1,0,1,0,2,2,2,1,15,euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,0,1,0,2,2,2,1,15,euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,0,1,0,2,2,2,1,15,euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,0,1,0,2,2,2,1,15,euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,0,1,0,2,2,2,1,15,euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,0,1,0,2,2,2,0,15,euroopa-mõjuline; kirjanduspreemia; usukoolipoiss; türgi
+0,1,0,1,0,4,2,2,1,15,atatürk; nobel; euroopa-mõjuline; kirjanduspreemia; islam; usukoolipoiss; türgi
+0,1,2,1,0,3,2,2,1,15,nobel; andres; euroopa-mõjuline; kirjanduspreemia; islam; türgi
+0,1,2,0,0,3,1,2,1,15,nobel; euroopa-mõjuline; kirjanduspreemia; islam; türgi
+1,0,2,0,0,3,1,3,0,15,keeleuuendusliikumine; nobel; euroopa-mõjuline; kirjanduspreemia; türgi
+1,0,1,0,0,3,1,3,0,15,atatürk; keeleuuendusliikumine; nobel; euroopa-mõjuline; kirjanduspreemia; türgi

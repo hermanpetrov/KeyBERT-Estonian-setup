@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,0,0,0,0,12,margit; eetika; mutso
-0,1,2,0,0,0,0,0,0,12,margit; eetika; mutso
-0,1,2,0,0,0,0,0,0,12,margit; eetika; mutso
-0,1,2,0,0,0,0,0,0,12,margit; eetika; mutso
-0,1,2,0,0,0,0,0,0,12,margit; eetika; mutso
-0,1,2,0,0,0,0,1,0,12,margit; arhitektide; eetika; mutso
-0,0,1,0,0,1,0,0,0,12,margit; eetika
-0,1,1,0,0,0,1,3,0,12,mutso; liit; margit; arhitektide; eetika
-1,1,1,0,0,1,0,3,0,12,arendaja; mutso; liit; margit; arhitektide
-0,0,2,0,0,0,0,0,0,12,margit; arhitektide
-1,1,1,0,0,0,0,2,0,12,mutso; margit; liit; kritiseerima; arhitektide
+0,1,2,0,0,0,0,0,0,12,mutso; eetika; margit
+0,1,2,0,0,0,0,0,0,12,mutso; eetika; margit
+0,1,2,0,0,0,0,0,0,12,mutso; eetika; margit
+0,1,2,0,0,0,0,0,0,12,mutso; eetika; margit
+0,1,2,0,0,0,0,0,0,12,mutso; eetika; margit
+0,1,2,0,0,0,1,0,0,12,mutso; eetika; arhitektide; margit
+0,0,1,0,0,0,0,0,0,12,margit
+0,1,1,0,0,1,3,0,0,12,eetika; arhitektide; margit; liit; mutso
+1,1,1,0,0,0,3,0,0,12,arhitektide; margit; liit; arendaja; mutso
+0,0,2,0,0,0,0,0,0,12,arhitektide; margit
+1,1,1,0,0,0,2,0,0,12,arhitektide; margit; liit; kritiseerima; mutso

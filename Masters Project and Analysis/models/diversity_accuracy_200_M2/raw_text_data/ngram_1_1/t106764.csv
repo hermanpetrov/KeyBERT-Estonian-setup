@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,5,2,4,4,4,4,6,15,draiv; muusikanõunik; vinger; kristo; kaks; veiko; rock; kosmos; singer; café; raadio; rajasaare; onu
-5,7,6,2,4,4,4,4,6,15,draiv; muusikanõunik; vinger; kristo; kaks; veiko; rock; kosmos; singer; café; raadio; rajasaare; onu
-5,7,3,2,4,5,2,4,5,15,rock; kosmos; singer; kaks; café; draiv; raadio; rajasaare; muusikanõunik; vinger; kristo; onu; veiko
-4,6,2,2,4,3,1,2,4,15,rock; kosmos; singer; kaks; café; draiv; raadio; rajasaare; muusikanõunik; vinger; onu; veiko
-4,6,3,2,4,1,1,3,4,15,rock; kosmos; singer; kaks; café; draiv; raadio; rajasaare; muusikanõunik; vinger; kristo; onu; veiko
-2,6,1,2,4,2,1,4,3,15,rock; singer; kaks; café; raadio; rajasaare; muusikanõunik; vinger; onu; veiko
-2,7,1,4,6,4,2,4,2,15,rock; singer; café; draiv; raadio; rajasaare; veiko; muusikanõunik; vinger; kristo; onu; kaks
-1,4,3,2,7,3,2,6,3,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; veiko; muusikanõunik; vinger; onu; kaks
-0,3,2,4,8,3,2,4,4,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; veiko; muusikanõunik; vinger; kristo; onu; kaks
-0,2,3,3,7,4,2,5,2,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; muusikanõunik; vinger; kristo; onu; kaks
-0,2,2,5,7,4,3,5,2,15,rock; kosmos; singer; café; draiv; raadio; rajasaare; muusikanõunik; vinger; kristo; onu; kaks
+5,7,5,2,4,4,4,4,6,15,vinger; muusikanõunik; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café
+5,7,6,2,4,4,4,4,6,15,vinger; muusikanõunik; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café
+5,7,3,2,4,5,2,4,5,15,vinger; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+4,6,2,2,4,3,1,2,4,15,vinger; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; singer; kaks; café; muusikanõunik
+4,6,3,2,4,1,1,3,4,15,vinger; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+2,6,1,2,4,2,1,4,3,15,vinger; rock; veiko; raadio; rajasaare; onu; singer; kaks; café; muusikanõunik
+2,7,1,4,6,4,2,4,2,15,vinger; draiv; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+1,4,3,2,7,3,2,6,3,15,vinger; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; singer; kaks; café; muusikanõunik
+0,3,2,4,8,3,2,4,4,15,vinger; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+0,2,3,3,7,4,2,5,2,15,vinger; draiv; kosmos; rock; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+0,2,2,5,7,4,3,5,2,15,vinger; draiv; kosmos; rock; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,0,0,4,2,4,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; dramaturg; ingo
-2,4,2,0,0,4,2,4,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; dramaturg; ingo
-2,4,2,0,0,4,2,4,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; dramaturg; ingo
-2,4,2,0,0,4,2,4,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; dramaturg; ingo
-2,4,3,0,0,4,1,4,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; ingo
-3,4,3,1,0,6,3,5,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; mäng; normet; reaalsus; dramaturg; ingo
-0,4,5,1,0,5,5,5,0,14,psühhiaater; fantaasia; tulviste; vaimuelu; tänapäevane; peeter; mäng; normet; reaalsus; ingo
-0,4,5,1,0,5,1,7,0,14,psühhiaater; fantaasia; tulviste; vaimuelu; peeter; normet; reaalsus; ingo
-0,3,4,1,0,3,1,7,0,14,psühhiaater; vaimuelu; tulviste; fantaasia; peeter; normet; reaalsus; ingo
-0,3,1,1,0,5,2,2,1,14,psühhiaater; fantaasia; tulviste; peeter; normet; reaalsus; ingo
-0,1,3,1,0,5,2,3,1,14,psühhiaater; fantaasia; tulviste; peeter; mäng; normet; reaalsus; ingo
+2,4,2,0,0,2,4,0,0,14,peeter; dramaturg; psühhiaater; fantaasia; mäng; ingo; normet; tulviste
+2,4,2,0,0,2,4,0,0,14,peeter; dramaturg; psühhiaater; fantaasia; mäng; ingo; normet; tulviste
+2,4,2,0,0,2,4,0,0,14,peeter; dramaturg; psühhiaater; fantaasia; mäng; ingo; normet; tulviste
+2,4,2,0,0,2,4,0,0,14,peeter; dramaturg; psühhiaater; fantaasia; mäng; ingo; normet; tulviste
+2,4,3,0,0,1,4,0,0,14,peeter; psühhiaater; fantaasia; mäng; ingo; normet; tulviste
+3,4,3,1,0,3,5,0,0,14,peeter; reaalsus; psühhiaater; vaimuelu; fantaasia; mäng; ingo; normet; tulviste
+0,4,5,1,0,5,5,0,0,14,peeter; tänapäevane; psühhiaater; fantaasia; vaimuelu; mäng; ingo; normet; tulviste
+0,4,5,1,0,1,7,0,0,14,peeter; reaalsus; psühhiaater; vaimuelu; fantaasia; ingo; normet; tulviste
+0,3,4,1,0,1,7,0,0,14,peeter; reaalsus; psühhiaater; vaimuelu; fantaasia; ingo; normet; tulviste
+0,3,1,1,0,2,2,1,0,14,peeter; ingo; psühhiaater; normet; tulviste
+0,1,3,1,0,2,3,1,0,14,peeter; mäng; ingo; psühhiaater; normet; tulviste

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-6,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-6,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-6,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-6,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-6,6,4,2,3,4,4,5,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-7,6,4,2,3,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-5,7,4,4,5,4,5,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-8,7,4,6,5,4,4,4,4,12,maagia; lemm; vaimne; ehmatamine; uskumus; sümptom; stress; haigus; meditsiin
-7,5,5,5,4,4,3,4,6,12,maagia; lemm; vaimne; ehmatamine; sümptom; uskumus; stress; haigus; meditsiin
-6,5,4,5,5,4,4,4,8,12,maagia; lemm; vaimne; ehmatamine; sümptom; uskumus; stress; haigus; meditsiin
+6,7,4,2,3,4,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,7,4,2,3,4,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,7,4,2,3,4,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,7,4,2,3,4,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,7,4,2,3,4,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,7,4,2,3,4,4,5,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+7,7,4,2,3,5,4,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,8,4,4,5,5,5,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+9,8,4,6,5,5,5,4,4,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+8,6,5,5,4,5,4,4,6,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin
+6,5,4,5,5,5,5,4,8,12,stress; haigus; vaimne; maagia; uskumus; tasakaal; lemm; sümptom; ehmatamine; meditsiin

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,2,1,2,2,3,3,13,senjorii; kana; aasta; uus; iraan; trump; popiidol
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-2,2,2,2,1,2,2,3,2,13,uus; iraan; popiidol; kana; aasta; senjorii
-1,2,2,3,1,2,2,3,3,13,senjorii; kana; aasta; uus; iraan; trump; televisioon; popiidol
-1,3,3,3,1,2,2,3,3,13,senjorii; üksinda; kana; aasta; uus; iraan; trump; televisioon; popiidol
-2,2,3,3,1,2,2,3,2,13,üksinda; kana; aasta; uus; iraan; trump; televisioon; senjorii
-2,2,3,2,1,2,2,3,2,13,senjorii; kana; aasta; uus; iraan; televisioon; popiidol
+2,2,2,2,1,2,2,3,3,13,iraan; aasta; kana; popiidol; uus; senjorii; trump
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+2,2,2,2,1,2,2,3,2,13,senjorii; kana; iraan; aasta; popiidol; uus
+1,2,2,3,1,2,2,3,3,13,iraan; aasta; popiidol; uus; kana; senjorii; trump; televisioon
+1,3,3,3,1,2,2,3,3,13,iraan; aasta; popiidol; uus; kana; senjorii; üksinda; trump; televisioon
+2,2,3,3,1,2,2,3,2,13,iraan; aasta; kana; uus; senjorii; üksinda; trump; televisioon
+2,2,3,2,1,2,2,3,2,13,iraan; aasta; popiidol; uus; kana; senjorii; televisioon

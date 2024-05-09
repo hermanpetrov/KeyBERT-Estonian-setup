@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,0,2,2,1,2,3,12,krista; lingvistika; keel; meedia
-2,3,2,0,2,2,1,2,3,12,krista; lingvistika; keel; meedia
-2,3,2,0,2,2,1,2,3,12,krista; lingvistika; keel; meedia
-2,3,2,0,2,2,1,2,3,12,krista; lingvistika; keel; meedia
-2,3,3,0,2,2,1,2,3,12,krista; lingvistika; keel; meedia
-2,2,3,0,2,2,2,2,3,12,krista; lingvistika; keel; meedia
-2,3,6,1,2,4,5,2,4,12,krista; kerge; meedia; haridus; lingvistika; keel; hajumine
-3,2,4,2,2,3,4,2,4,12,krista; kerge; haridus; meedia; lingvistika; keel; hajumine
-2,6,4,4,0,3,2,4,3,12,krista; kerge; meedia; haridus; lingvistika; keel
-2,5,4,5,0,3,1,3,3,12,krista; kerge; haridus; meedia; lingvistika; keel; hajumine
-1,5,4,2,0,2,1,3,3,12,krista; kerge; meedia; haridus; lingvistika; keel; hajumine
+2,5,3,1,2,4,3,3,5,12,õiguskeel; meedia; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+2,5,3,1,2,4,3,4,5,12,õiguskeel; meedia; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+2,5,3,1,2,4,3,4,5,12,õiguskeel; meedia; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+2,5,3,1,2,4,3,4,5,12,õiguskeel; meedia; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+2,5,4,1,2,4,3,5,5,12,meedia; õiguskeel; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+2,4,5,1,2,5,4,5,5,12,meedia; õiguskeel; ühisosa; lingvistika; keel; keelekorraldus; krista; arengukava
+3,4,7,3,2,6,7,5,6,12,õiguskeel; kerge; arengukava; ühisosa; hajumine; lingvistika; keel; haridus; keelekorraldus; krista; meedia
+4,3,5,3,2,3,6,4,6,12,õiguskeel; kerge; arengukava; hajumine; ilukirjandus; ühisosa; lingvistika; keel; haridus; keelekorraldus; krista; meedia
+4,7,4,4,0,3,3,4,6,12,õiguskeel; kerge; arengukava; ühisosa; ilukirjandus; lingvistika; keel; haridus; krista; meedia
+3,7,5,5,0,3,3,3,5,12,kerge; arengukava; ühisosa; hajumine; lingvistika; keel; haridus; keelekorraldus; krista; meedia
+2,6,5,2,0,3,2,4,5,12,kerge; arengukava; ühisosa; hajumine; lingvistika; keel; haridus; krista; meedia

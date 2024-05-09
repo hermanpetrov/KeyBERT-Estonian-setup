@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,5,6,1,4,5,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-7,4,5,6,1,4,5,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-7,4,5,6,1,4,5,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-7,4,5,6,1,4,5,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-7,4,5,6,1,4,5,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-7,4,6,6,1,4,6,6,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; suurelt; globaalne; arvuti; mõtlema
-6,4,4,6,1,5,6,8,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; internet; suurelt; globaalne; arvuti; mõtlema
-6,3,6,7,1,4,5,8,6,13,thomas; tehnoloogia; blogi; kristjan; watson; port; internet; suurelt; globaalne; arvuti; mõtlema
-7,4,8,5,1,3,6,9,6,13,thomas; blogi; kristjan; watson; port; globaalne; mõtlema; tehnoloogia; internet; suurelt; arvuti
-4,5,7,7,2,3,6,8,6,13,tehnoloogia; thomas; blogi; kristjan; watson; port; internet; suurelt; globaalne; arvuti; mõtlema
-5,4,7,6,3,3,5,9,6,13,thomas; blogi; kristjan; watson; port; globaalne; mõtlema; tehnoloogia; internet; suurelt; arvuti
+7,4,5,6,2,4,5,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+7,4,5,6,2,4,5,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+7,4,5,6,2,4,5,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+7,4,5,6,2,4,5,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+7,4,5,6,2,4,5,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+7,4,7,6,2,4,6,7,6,13,arvuti; arvutipark; watson; thomas; port; blogi; kristjan; mõtlema; tehnoloogia; globaalne; suurelt
+6,4,5,6,2,5,6,9,6,13,arvutipark; port; thomas; blogi; internet; globaalne; suurelt; arvuti; watson; kristjan; mõtlema; tehnoloogia
+7,3,7,8,2,4,5,9,6,13,arvutipark; port; thomas; blogi; internet; globaalne; suurelt; arvuti; watson; kristjan; mõtlema; tehnoloogia
+8,4,9,5,2,3,6,10,6,13,arvutipark; port; thomas; blogi; internet; globaalne; suurelt; arvuti; watson; kristjan; mõtlema; tehnoloogia
+5,5,8,8,3,3,6,9,6,13,arvutipark; port; thomas; blogi; internet; globaalne; suurelt; arvuti; watson; kristjan; mõtlema; tehnoloogia
+6,4,8,7,4,3,5,10,6,13,arvutipark; port; thomas; blogi; internet; globaalne; suurelt; arvuti; watson; kristjan; mõtlema; tehnoloogia

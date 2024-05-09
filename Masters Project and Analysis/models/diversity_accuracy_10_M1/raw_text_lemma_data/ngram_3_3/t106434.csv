@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,2,3,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,2,3,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,2,3,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,2,3,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,2,2,2,1,3,3,3,0,15,töö; tants; ots; eesti; kirill
-0,3,3,3,1,2,3,3,0,15,töö; loominguline; ots; eesti; kirill; harri; tants
-2,4,2,3,1,2,2,4,0,15,töö; ots; eesti; tants; harri; fuu; prelüüd
-4,3,1,2,1,2,2,3,0,15,töö; ots; eesti; harri; fuu; prelüüd; tants
-4,1,2,2,1,2,2,2,0,15,töö; matti; ots; eesti; harri; reimann; tants
-4,2,3,4,2,2,2,3,0,15,töö; fuu; matti; loominguline; ots; eesti; harri; reimann; prelüüd; tants
+0,3,3,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,3,3,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,3,3,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,3,3,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,3,3,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,3,2,4,1,3,3,3,0,15,kirill; eesti; töö; sümfooniaorkester; klaverikontsert; ots; tants
+0,4,3,5,1,3,3,3,0,15,kirill; eesti; harri; töö; sümfooniaorkester; klaverikontsert; ots; loominguline; tants
+2,4,2,3,1,3,2,5,0,15,fuu; eesti; harri; töö; sümfooniaorkester; prelüüd; ots; tants
+4,3,2,2,1,3,3,3,0,15,fuu; eesti; harri; töö; sümfooniaorkester; klaverikontsert; prelüüd; ots; tants
+4,1,3,3,1,2,2,3,0,15,eesti; harri; töö; sümfooniaorkester; klaverikontsert; reimann; ots; matti; tants
+4,2,3,4,2,2,3,4,0,15,fuu; eesti; loominguline; harri; töö; sümfooniaorkester; reimann; prelüüd; ots; matti; tants

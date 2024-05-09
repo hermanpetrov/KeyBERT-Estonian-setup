@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,1,0,0,1,1,1,0,13,isolatsioon; arstiteadus; pidalitõbi; peeter
-1,3,1,0,0,1,1,1,1,13,arstiteadus; isolatsioon; sajandi; pidalitõbi; peeter
-1,3,1,0,0,1,1,1,1,13,arstiteadus; isolatsioon; sajandi; pidalitõbi; peeter
-1,3,1,0,0,1,1,1,1,13,arstiteadus; isolatsioon; sajandi; pidalitõbi; peeter
-1,3,1,0,0,1,1,1,1,13,arstiteadus; isolatsioon; sajandi; pidalitõbi; peeter
-1,3,2,0,0,1,1,1,1,13,arstiteadus; isolatsioon; sajandi; pidalitõbi; peeter
-0,2,1,0,0,1,1,1,0,13,isolatsioon; arstiteadus; peeter
-1,2,2,1,0,0,2,1,0,13,arstiteadus; isolatsioon; hellat; peeter
-2,1,2,0,0,1,2,3,0,13,arstiteadus; isolatsioon; hellat; peeter
-0,1,2,0,0,1,1,3,0,13,arstiteadus; isolatsioon; hellat; peeter
-1,1,2,0,0,1,2,2,0,13,arstiteadus; isolatsioon; hellat; peeter
+1,3,1,0,0,1,1,0,0,13,peeter; arstiteadus; isolatsioon; pidalitõbi
+1,3,1,0,0,1,1,1,0,13,peeter; arstiteadus; sajandi; isolatsioon; pidalitõbi
+1,3,1,0,0,1,1,1,0,13,peeter; arstiteadus; sajandi; isolatsioon; pidalitõbi
+1,3,1,0,0,1,1,1,0,13,peeter; arstiteadus; sajandi; isolatsioon; pidalitõbi
+1,3,1,0,0,1,1,1,0,13,peeter; arstiteadus; sajandi; isolatsioon; pidalitõbi
+1,3,2,0,0,1,1,1,0,13,peeter; arstiteadus; sajandi; isolatsioon; pidalitõbi
+0,2,1,0,0,1,1,0,0,13,peeter; arstiteadus; isolatsioon
+1,2,2,1,0,2,1,0,0,13,peeter; hellat; arstiteadus; isolatsioon
+2,1,2,0,0,2,3,0,0,13,peeter; hellat; arstiteadus; isolatsioon
+0,1,2,0,0,1,3,0,0,13,peeter; hellat; arstiteadus; isolatsioon
+1,1,2,0,0,2,2,0,0,13,peeter; hellat; arstiteadus; isolatsioon

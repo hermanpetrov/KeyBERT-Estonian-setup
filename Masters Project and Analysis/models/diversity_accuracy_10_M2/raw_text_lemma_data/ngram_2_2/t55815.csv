@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-1,0,0,0,0,0,0,0,0,13,süntesaator
-0,0,0,0,0,1,0,0,0,13,holland
-0,0,1,1,0,0,0,0,0,13,elektroonika; holland
-0,1,0,0,0,0,0,1,0,13,holland
-0,0,1,0,0,0,0,0,0,13,sampel
+2,3,2,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,3,2,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,3,2,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,3,2,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,3,1,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,3,1,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+2,2,1,0,0,0,1,2,0,13,sooloettevõtmine; elizabeth; esselink; süntesaator; populaarmuusika
+1,2,1,1,0,3,1,2,0,13,sooloettevõtmine; elizabeth; rokkansambel; esselink; populaarmuusika; holland
+1,1,1,1,0,2,1,3,0,13,elizabeth; populaarmuusika; elektroonika; rokkansambel; sooloettevõtmine; esselink; holland
+0,3,1,1,0,1,1,2,0,13,rokkansambel; elizabeth; esselink; populaarmuusika; holland
+0,1,3,1,0,1,1,1,0,13,sampel; elizabeth; esselink; populaarmuusika

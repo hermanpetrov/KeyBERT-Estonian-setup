@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,1,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,0,0,1,2,0,2,11,kunst; kirjandus; tallinn; tartu; rahvatants
-4,0,0,1,1,1,1,0,2,11,kunst; kirjandus; tallinn; tartu; arrak; rahvatants
-4,0,0,1,1,1,1,0,1,11,kunst; juur; kirjandus; tallinn; tartu; arrak; rahvatants
-4,0,0,1,1,1,2,1,1,11,kunst; juur; kirjandus; tallinn; tartu; arrak; rahvatants
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,5,3,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,0,4,4,2,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,1,1,0,4,5,2,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus
+6,0,2,2,1,4,4,2,2,11,rahvatants; kultuuriseminar; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus; arrak
+6,0,0,2,1,4,4,1,1,11,rahvatants; kultuuriseminar; juur; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus; arrak
+5,0,0,2,1,4,5,3,1,11,rahvatants; kultuuriseminar; juur; tallinn; tartu; kultuurisektor; kunst; väliseestlane; kirjandus; arrak

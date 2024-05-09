@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,1,0,2,1,2,0,14,merivoo-parro; muusikanõukogu; maarja; raadio; rajasaare; vinger; kristo
-2,2,2,1,0,2,1,2,0,14,merivoo-parro; muusikanõukogu; maarja; raadio; rajasaare; vinger; kristo
-2,2,3,1,0,2,1,2,0,14,merivoo-parro; muusikanõukogu; maarja; raadio; rajasaare; vinger; kristo
-2,2,2,1,0,2,1,2,0,14,rajasaare; merivoo-parro; vinger; muusikanõukogu; maarja; raadio
-2,2,2,1,0,2,1,2,0,14,merivoo-parro; muusikanõukogu; maarja; raadio; rajasaare; vinger; kristo
-2,2,1,1,0,0,0,2,0,14,rajasaare; merivoo-parro; vinger; muusikanõukogu; raadio
-2,2,1,2,0,0,0,0,0,14,rajasaare; merivoo-parro; vinger; muusikanõukogu; raadio
-2,1,1,0,0,0,0,0,0,14,rajasaare; muusikanõukogu; merivoo-parro
-1,2,2,1,0,0,0,1,0,14,rajasaare; merivoo-parro; kristo; muusikanõukogu; mart
-0,2,1,2,0,1,0,1,0,14,rajasaare; merivoo-parro; lavastus; muusikanõukogu; mart
-0,2,1,1,1,1,0,1,0,14,rajasaare; merivoo-parro; singer; vinger; muusikanõukogu; mart
+2,2,2,1,0,2,1,2,0,14,vinger; raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; maarja
+2,2,2,1,0,2,1,2,0,14,vinger; raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; maarja
+2,2,3,1,0,2,1,2,0,14,vinger; raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; maarja
+2,2,2,1,0,2,1,2,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; maarja; vinger
+2,2,2,1,0,2,1,2,0,14,vinger; raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; maarja
+2,2,1,1,0,0,0,2,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; vinger
+2,2,1,2,0,0,0,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; vinger
+2,1,1,0,0,0,0,0,0,14,muusikanõukogu; merivoo-parro; rajasaare
+1,2,2,1,0,0,0,1,0,14,muusikanõukogu; merivoo-parro; rajasaare; kristo; mart
+0,2,1,2,0,1,0,1,0,14,muusikanõukogu; rajasaare; merivoo-parro; mart; lavastus
+0,2,1,1,1,1,0,1,0,14,vinger; muusikanõukogu; rajasaare; merivoo-parro; mart; singer

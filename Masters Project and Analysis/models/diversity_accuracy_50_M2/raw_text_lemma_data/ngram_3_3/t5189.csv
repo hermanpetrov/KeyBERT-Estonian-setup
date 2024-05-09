@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,2,2,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; sulev; gruusia
-3,4,2,2,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; sulev; gruusia
-3,4,2,2,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; sulev; gruusia
-3,4,2,2,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; sulev; gruusia
-3,3,2,2,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; sulev; gruusia
-3,3,3,1,0,1,1,1,2,15,laidoner; keedus; muuseum; aasta; gruusia
-3,1,2,3,0,1,2,1,2,15,laidoner; keedus; aasta; gruusia
-3,1,4,4,0,2,2,2,2,15,muuseum; aasta; gruusia; laidoner; keedus; sulev
-3,2,3,3,0,2,3,1,2,15,muuseum; keedus; laidoner; aasta; sulev; gruusia
-2,4,4,2,1,2,2,2,2,15,muuseum; laidoner; keedus; aasta; gruusia
-2,3,4,2,1,2,3,2,2,15,muuseum; aasta; gruusia; laidoner; keedus; sulev
+4,8,5,4,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+4,8,5,4,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+4,8,5,4,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+4,8,5,4,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+4,6,6,4,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+5,5,7,3,0,3,3,3,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; rahvusvaheline; aasta; sundüürnik; konkurentsivõime; presidendivalimine; muuseum
+6,4,5,5,0,4,5,2,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; aasta; rahvusvaheline; konkurentsivõime; assotsiatsioonilepe; presidendivalimine; filmiajakirjanik
+8,2,8,7,0,6,6,3,2,15,pakendiorganisatsioon; keedus; gruusia; sulev; laidoner; rahvusvaheline; aasta; konkurentsivõime; assotsiatsioonilepe; presidendivalimine; filmiajakirjanik; muuseum
+6,5,4,4,0,6,7,2,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; rahvusvaheline; aasta; sundüürnik; konkurentsivõime; assotsiatsioonilepe; presidendivalimine; muuseum
+5,9,6,2,1,6,5,4,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; rahvusvaheline; aasta; sundüürnik; assotsiatsioonilepe; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum
+5,7,5,5,2,6,5,5,2,15,pakendiorganisatsioon; keedus; gruusia; laidoner; sulev; aasta; rahvusvaheline; sundüürnik; assotsiatsioonilepe; konkurentsivõime; presidendivalimine; filmiajakirjanik; muuseum

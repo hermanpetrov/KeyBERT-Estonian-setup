@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,3,4,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-1,0,2,0,0,3,4,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-1,0,2,0,0,3,4,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-1,0,1,0,0,3,4,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-1,0,1,0,0,3,4,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-1,0,0,0,0,1,3,2,0,14,viljakusjumalus; püha; nelipühad; folklorist; rituaalne
-0,0,1,0,0,0,2,2,0,14,viljakusjumalus; nelipühad; folklorist; marju; rituaalne
-1,0,2,0,0,2,2,2,0,14,nelipühad; kõivupuu; viljakusjumalus; marju; folklorist; sümbol; rituaalne
-1,0,2,0,0,1,2,0,1,14,kõivupuu; püha; marju; folklorist; sümbol; rituaalne
-0,1,1,0,0,1,2,0,0,14,marju; sümbol; kõivupuu
-1,1,1,1,0,2,2,0,0,14,sümbol; nelipühad; püha; marju; folklorist; kõivupuu
+1,0,2,0,0,4,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+1,0,2,0,0,4,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+1,0,2,0,0,4,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+1,0,1,0,0,4,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+1,0,1,0,0,4,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+1,0,0,0,0,3,2,0,0,14,viljakusjumalus; nelipühad; püha; rituaalne; folklorist
+0,0,1,0,0,2,2,0,0,14,viljakusjumalus; nelipühad; marju; rituaalne; folklorist
+1,0,2,0,0,2,2,0,0,14,nelipühad; marju; sümbol; kõivupuu; rituaalne; folklorist
+1,0,2,0,0,2,0,1,0,14,püha; sümbol; kõivupuu; rituaalne; folklorist
+0,1,1,0,0,2,0,0,0,14,kõivupuu; marju; sümbol
+1,1,1,1,0,2,0,0,0,14,nelipühad; marju; püha; sümbol; kõivupuu

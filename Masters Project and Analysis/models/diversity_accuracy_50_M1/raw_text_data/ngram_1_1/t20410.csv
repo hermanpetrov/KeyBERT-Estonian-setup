@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,1,1,0,1,0,14,ani; lava; näitleja; salulaht
-1,0,0,0,1,1,0,1,0,14,ani; lava; näitleja; salulaht
-1,0,1,0,1,1,0,1,0,14,ani; salulaht; lava; näitleja; endel
-1,0,2,0,1,1,0,1,0,14,ani; näitleja; elmar; lava; salulaht; endel
-1,0,2,0,1,1,0,1,0,14,ani; näitleja; elmar; lava; salulaht; endel
-1,1,2,0,1,1,1,0,0,14,ani; elmar; lava; salulaht; endel
-1,0,2,0,1,1,1,0,0,14,elmar; lava; salulaht; endel
-0,0,1,1,1,2,1,0,0,14,ani; elmar; paat; lava; endel
-0,0,0,1,1,3,0,0,0,14,ani; paat; lava; näitleja; endel
-0,0,1,0,1,2,0,0,0,14,elmar; lava; näitleja; endel
-0,0,1,0,1,2,0,1,0,14,elmar; nikerdamine; lava; näitleja; endel
+1,0,0,0,1,1,0,1,0,14,salulaht; näitleja; ani; lava
+1,0,0,0,1,1,0,1,0,14,salulaht; näitleja; ani; lava
+1,0,1,0,1,1,0,1,0,14,endel; ani; lava; salulaht; näitleja
+1,0,2,0,1,1,0,1,0,14,endel; ani; lava; salulaht; näitleja; elmar
+1,0,2,0,1,1,0,1,0,14,endel; ani; lava; salulaht; näitleja; elmar
+1,1,2,0,1,1,1,0,0,14,endel; ani; lava; salulaht; elmar
+1,0,2,0,1,1,1,0,0,14,endel; lava; salulaht; elmar
+0,0,1,1,1,2,1,0,0,14,endel; ani; lava; paat; elmar
+0,0,0,1,1,3,0,0,0,14,endel; ani; lava; paat; näitleja
+0,0,1,0,1,2,0,0,0,14,endel; näitleja; elmar; lava
+0,0,1,0,1,2,0,1,0,14,endel; lava; nikerdamine; näitleja; elmar

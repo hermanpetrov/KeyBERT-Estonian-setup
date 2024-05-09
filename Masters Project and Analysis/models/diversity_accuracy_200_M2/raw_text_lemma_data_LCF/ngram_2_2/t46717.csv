@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,4,2,5,6,5,7,16,festival; paavo; kontsert; riiklik; pärt; eesti; tõnu; akustika; arvo
-4,4,4,4,2,6,6,5,7,16,festival; paavo; kontsert; riiklik; pärt; eesti; tõnu; akustika; arvo
-5,4,4,4,2,6,7,5,7,16,festival; paavo; kontsert; riiklik; pärt; eesti; tõnu; akustika; arvo
-5,4,5,4,3,7,7,6,7,16,festival; paavo; kontsert; riiklik; pärt; eesti; tõnu; akustika; arvo
-4,4,5,4,3,7,8,6,7,16,festival; paavo; kontsert; riiklik; pärt; eesti; tõnu; akustika; arvo
-3,4,6,4,3,8,7,6,7,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
-5,4,7,5,5,7,4,7,5,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
-5,4,6,6,5,5,5,6,4,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
-4,3,6,6,7,3,4,5,3,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
-4,4,6,7,6,2,5,5,3,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
-4,5,7,7,7,2,4,5,3,16,festival; paavo; kontsert; pärt; eesti; tõnu; akustika; arvo
+6,6,6,7,2,7,9,8,10,16,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kontsert; eesti; pärt; akustika; arvo
+6,6,7,7,2,8,9,8,10,16,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kontsert; eesti; pärt; akustika; arvo
+7,6,7,7,2,9,10,8,10,16,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kontsert; eesti; pärt; akustika; arvo
+7,6,8,7,3,10,10,9,10,16,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo
+6,6,8,7,3,10,11,9,10,16,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo
+5,6,9,7,3,11,10,8,10,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kontsert; eesti; pärt; akustika; arvo
+7,6,10,7,5,10,7,10,8,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kontsert; eesti; pärt; akustika; arvo
+7,6,9,8,5,7,7,9,6,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo
+6,4,7,8,7,5,4,8,5,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo
+6,5,9,8,7,5,5,7,4,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo
+6,7,9,8,9,4,4,6,4,16,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; kontsert; tõnu; eesti; pärt; akustika; arvo

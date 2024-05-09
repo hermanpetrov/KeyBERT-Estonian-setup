@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,0,0,0,0,3,0,15,mandingo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-2,2,2,0,0,0,0,3,0,15,mandingo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-2,2,2,0,0,0,0,3,0,15,mandingo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-2,2,2,0,0,0,0,3,0,15,mandingo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-2,2,2,0,0,0,0,3,0,15,mandingo; popmuusika; sekk; mansour; maal; rahvamuusika; lääne-aafrika
-2,2,1,0,0,0,0,3,0,15,sekk; mansour; mandingo; maal; popmuusika; rahvamuusika; lääne-aafrika
-0,1,1,0,0,1,0,3,0,15,popmuusika; mandingo; maal; rahvamuusika; lääne-aafrika
-0,1,1,0,0,0,0,3,0,15,popmuusika; mandingo; rahvamuusika; lääne-aafrika
-0,0,1,0,0,1,0,1,0,15,popmuusika; maal; rahvamuusika
+2,2,2,0,0,0,0,3,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal
+2,2,2,0,0,0,0,3,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal
+2,2,2,0,0,0,0,3,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal
+2,2,2,0,0,0,0,3,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal
+2,2,2,0,0,0,0,3,0,15,rahvamuusika; mandingo; mansour; popmuusika; lääne-aafrika; sekk; maal
+2,2,1,0,0,0,0,3,0,15,mansour; popmuusika; lääne-aafrika; sekk; maal; rahvamuusika; mandingo
+0,1,1,0,0,1,0,3,0,15,popmuusika; lääne-aafrika; maal; rahvamuusika; mandingo
+0,1,1,0,0,0,0,3,0,15,popmuusika; lääne-aafrika; rahvamuusika; mandingo
+0,0,1,0,0,1,0,1,0,15,popmuusika; rahvamuusika; maal
 0,0,1,0,0,0,0,1,0,15,rahvamuusika; maal
-0,0,0,2,0,0,0,1,0,15,sekk; mansour; lääne-aafrika
+0,0,0,2,0,0,0,1,0,15,mansour; lääne-aafrika; sekk

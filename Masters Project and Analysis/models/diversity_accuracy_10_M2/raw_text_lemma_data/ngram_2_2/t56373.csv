@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,0,1,0,2,1,10,pulm; kirik; pidu
-1,1,2,0,0,1,0,2,1,10,pulm; kirik; pidu
-1,1,2,0,0,1,0,2,0,10,pulm; pidu
-1,1,2,0,0,1,0,2,0,10,pulm; pidu
-1,1,2,0,0,1,0,2,0,10,pulm; pidu
-1,1,3,0,0,1,0,1,0,10,pulm; kirik; sõda; pidu
-0,1,2,1,0,1,0,1,0,10,pulm; kirik; sõda
-0,1,2,0,0,1,1,1,0,10,pulm; sõda
-0,0,2,1,0,1,0,1,0,10,pulm; kirik; russow; sõda
-0,0,1,0,0,2,0,1,0,10,pulm; russow; pidu
-0,0,1,0,0,1,0,0,0,10,pulm; pidu
+1,1,2,1,0,1,0,2,1,10,kirik; talupoeg; pidu; pulm
+1,1,2,1,0,1,0,2,1,10,kirik; talupoeg; pidu; pulm
+1,1,2,1,0,1,0,2,0,10,talupoeg; pidu; pulm
+1,1,2,1,0,1,0,2,0,10,talupoeg; pidu; pulm
+1,1,2,1,0,1,0,2,0,10,talupoeg; pidu; pulm
+1,1,3,1,0,1,0,1,0,10,kirik; talupoeg; pidu; pulm; sõda
+0,1,2,2,0,1,0,1,0,10,kirik; talupoeg; pulm; sõda
+0,1,2,0,0,1,2,1,0,10,liivimaa; pulm; sõda
+0,0,2,1,0,1,0,1,0,10,kirik; russow; pulm; sõda
+0,1,1,0,0,2,0,1,0,10,talupoeg; russow; pidu; pulm
+0,1,1,0,0,1,0,0,0,10,pidu; pulm; talupoeg

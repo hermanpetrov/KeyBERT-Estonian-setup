@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,4,2,0,3,4,2,2,13,valitsus; leedu; läti; poliitika; saarsen; kommunist; nõukogude; sõda
-2,1,2,2,0,3,4,2,2,13,valitsus; leedu; läti; poliitika; saarsen; nõukogude; sõda
-1,2,5,2,0,3,4,2,2,13,valitsus; leedu; läti; poliitika; saarsen; nõukogude; sõda; partei
-1,2,6,2,0,4,4,2,2,13,valitsus; leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-1,2,3,2,0,4,5,1,2,13,valitsus; leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda
-1,1,4,5,2,1,3,2,3,13,leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-2,2,3,1,2,1,3,2,2,13,valitsus; leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-1,3,3,1,3,2,1,4,2,13,leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-1,3,3,1,3,2,1,3,2,13,leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-1,3,2,2,3,2,1,3,2,13,leedu; läti; poliitika; saarsen; kommunist; nõukogude; jaakson; sõda; partei
-0,3,1,2,2,2,1,4,2,13,leedu; läti; poliitika; saarsen; kommunist; jaakson; sõda; partei
+2,1,4,2,0,3,4,2,2,13,poliitika; kommunist; leedu; saarsen; läti; sõda; nõukogude; valitsus
+2,1,2,2,0,3,4,2,2,13,poliitika; leedu; saarsen; läti; sõda; nõukogude; valitsus
+1,2,5,2,0,3,4,2,2,13,poliitika; leedu; saarsen; läti; sõda; nõukogude; valitsus; partei
+1,2,6,2,0,4,4,2,2,13,poliitika; kommunist; leedu; saarsen; jaakson; läti; sõda; nõukogude; valitsus; partei
+1,2,3,2,0,4,5,1,2,13,poliitika; kommunist; leedu; saarsen; jaakson; läti; sõda; nõukogude; valitsus
+1,1,4,5,2,1,3,2,3,13,poliitika; kommunist; leedu; saarsen; jaakson; läti; sõda; nõukogude; partei
+2,2,3,1,2,1,3,2,2,13,poliitika; kommunist; leedu; saarsen; läti; jaakson; sõda; nõukogude; valitsus; partei
+1,3,3,1,3,2,1,4,2,13,poliitika; kommunist; leedu; saarsen; läti; jaakson; sõda; nõukogude; partei
+1,3,3,1,3,2,1,3,2,13,poliitika; kommunist; leedu; saarsen; läti; jaakson; sõda; nõukogude; partei
+1,3,2,2,3,2,1,3,2,13,poliitika; kommunist; leedu; saarsen; läti; jaakson; sõda; nõukogude; partei
+0,3,1,2,2,2,1,4,2,13,poliitika; kommunist; leedu; saarsen; läti; jaakson; sõda; partei

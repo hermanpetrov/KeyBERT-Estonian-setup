@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,1,4,4,4,4,6,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-3,4,2,4,4,6,4,6,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-3,4,3,4,4,5,5,5,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-4,4,4,4,4,5,4,5,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-5,5,5,4,4,5,6,6,5,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-5,5,7,4,5,4,5,6,7,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,7,7,5,5,6,7,8,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,7,8,6,6,6,8,8,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,7,8,7,6,6,5,6,8,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,6,6,6,5,6,6,8,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
-6,5,7,6,6,5,5,6,8,12,amazona; vihm; linn; kikkas; kaupo; ink; haigus; surnu
+5,6,2,5,4,5,5,7,5,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+5,6,3,5,4,7,5,7,5,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+5,6,4,5,4,6,6,7,5,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+6,6,5,5,4,6,5,7,5,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+7,7,6,5,4,6,8,8,5,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+7,7,9,6,5,5,7,8,7,12,haigus; kaupo; amazona; põllukultuur; ink; surnu; kikkas; vihm; salapärane; linn
+8,7,8,8,5,6,7,9,8,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+7,7,8,9,6,8,7,10,8,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+7,9,10,8,6,6,7,8,8,12,haigus; kaupo; põllukultuur; kikkas; vihm; salapärane; amazona; ink; surnu; linn
+6,7,7,7,7,5,8,8,8,12,haigus; kaupo; amazona; ink; põllukultuur; surnu; kikkas; vihm; salapärane; linn
+6,7,8,7,6,5,6,8,8,12,haigus; kaupo; amazona; ink; põllukultuur; surnu; kikkas; vihm; salapärane; linn

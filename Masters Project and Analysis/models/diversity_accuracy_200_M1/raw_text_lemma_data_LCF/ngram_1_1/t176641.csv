@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,4,1,3,2,3,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,5,4,1,3,2,2,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,5,4,2,4,3,1,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,5,4,2,4,3,1,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,5,5,2,4,3,3,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,5,5,2,4,3,3,3,4,11,sport; loeng; kihnu; saar; dünaamiline
-4,4,5,2,5,3,3,4,5,11,sport; loeng; kihnu; saar; dünaamiline
-5,3,4,3,5,3,5,4,5,11,sport; loeng; kihnu; saar; dünaamiline
-5,3,4,4,5,4,5,5,5,11,sport; loeng; kihnu; saar; dünaamiline
-5,3,4,4,5,4,5,4,5,11,sport; loeng; kihnu; saar; dünaamiline
-4,3,4,4,5,4,5,4,5,11,sport; loeng; kihnu; saar; dünaamiline
+10,11,10,6,4,8,9,9,7,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,11,10,6,4,8,8,8,7,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,11,10,7,5,9,7,8,6,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,11,10,7,5,8,7,9,6,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,10,11,7,5,7,9,8,6,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,10,11,8,5,7,9,8,6,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,9,11,8,6,7,9,7,8,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+11,6,8,8,6,7,10,9,9,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,7,10,8,6,8,11,10,9,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+10,7,7,8,9,8,10,8,9,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar
+8,7,8,7,8,8,9,8,10,11,loeng; kultuurisektor; rahvatantsupidu; sport; kultuuriseminar; kihnu; dünaamiline; esivanem; keeleteadlane; väliseestlane; saar

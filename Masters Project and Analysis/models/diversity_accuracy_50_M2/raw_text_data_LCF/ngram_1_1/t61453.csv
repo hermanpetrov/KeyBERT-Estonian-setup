@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,0,0,1,2,2,0,15,popmuusika; rahvamuusika; lääne-aafrika
-1,0,3,0,0,1,2,2,0,15,popmuusika; rahvamuusika; lääne-aafrika
-1,0,3,0,0,1,2,2,0,15,popmuusika; rahvamuusika; lääne-aafrika
-1,0,2,0,0,1,2,2,0,15,popmuusika; rahvamuusika; lääne-aafrika
-1,0,2,0,0,1,2,2,0,15,popmuusika; rahvamuusika; lääne-aafrika
-0,0,2,0,0,1,2,1,0,15,popmuusika; rahvamuusika; lääne-aafrika
-1,0,2,0,0,1,1,1,0,15,mandingo; popmuusika; rahvamuusika; lääne-aafrika
-1,1,2,0,0,1,0,1,0,15,mandingo; rahvamuusika; lääne-aafrika
-0,2,3,0,0,0,0,1,0,15,popmuusika; mandingo; rahvamuusika; lääne-aafrika
-0,1,2,0,0,0,0,2,0,15,mandingo; rahvamuusika; maal; lääne-aafrika
-1,2,2,0,0,0,0,0,0,15,mansour; mandingo; rahvamuusika; lääne-aafrika
+1,0,3,0,0,2,2,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+1,0,3,0,0,2,2,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+1,0,3,0,0,2,2,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+1,0,2,0,0,2,2,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+1,0,2,0,0,2,2,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+0,0,2,0,0,2,1,0,0,15,popmuusika; lääne-aafrika; rahvamuusika
+1,0,2,0,0,1,1,0,0,15,popmuusika; mandingo; lääne-aafrika; rahvamuusika
+1,1,2,0,0,0,1,0,0,15,rahvamuusika; mandingo; lääne-aafrika
+0,2,3,0,0,0,1,0,0,15,popmuusika; lääne-aafrika; rahvamuusika; mandingo
+0,1,2,0,0,0,2,0,0,15,rahvamuusika; mandingo; lääne-aafrika; maal
+1,2,2,0,0,0,0,0,0,15,mansour; lääne-aafrika; rahvamuusika; mandingo

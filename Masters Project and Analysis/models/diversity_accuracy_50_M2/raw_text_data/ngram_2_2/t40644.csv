@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,1,2,0,1,2,1,1,19,phonyker; bach; kammerkoor; kalkun; hortus; barokkmuusikafestival; eesti
-3,3,1,2,0,1,2,1,1,19,phonyker; bach; kammerkoor; kalkun; hortus; barokkmuusikafestival; eesti
-3,2,1,2,0,1,2,1,1,19,phonyker; bach; kalkun; hortus; barokkmuusikafestival; eesti
-3,2,1,2,0,1,2,1,1,19,phonyker; bach; kalkun; hortus; barokkmuusikafestival; eesti
-3,2,0,2,0,1,2,1,1,19,phonyker; bach; kalkun; hortus; barokkmuusikafestival; eesti
-3,1,0,2,0,1,2,2,1,19,phonyker; bach; kalkun; hortus; barokkmuusikafestival; eesti
-2,1,0,1,0,1,2,2,1,19,andres; bach; hortus; barokkmuusikafestival; eesti
-0,0,0,2,0,3,5,1,2,19,phonyker; frederik; sing; eesti; bach; filharmoonia; musicus; mari; hortus
-1,0,0,2,1,3,3,2,2,19,frederik; sing; mustonen; eesti; musicus; mari; bach; hortus
-0,0,1,4,1,5,4,2,2,19,phonyker; andres; frederik; mustonen; eesti; hortus; bach; filharmoonia; kammerkoor; mari; musicus
-0,0,2,1,1,4,3,1,2,19,andres; phonyker; frederik; sing; eesti; bach; filharmoonia; musicus; hortus
+3,3,1,2,0,1,2,1,1,19,kammerkoor; phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+3,3,1,2,0,1,2,1,1,19,kammerkoor; phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+3,2,1,2,0,1,2,1,1,19,phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+3,2,1,2,0,1,2,1,1,19,phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+3,2,0,2,0,1,2,1,1,19,phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+3,1,0,2,0,1,2,2,1,19,phonyker; hortus; eesti; bach; kalkun; barokkmuusikafestival
+2,1,0,1,0,1,2,2,1,19,hortus; eesti; andres; bach; barokkmuusikafestival
+0,0,0,2,0,3,5,1,2,19,mari; hortus; eesti; musicus; sing; bach; phonyker; frederik; filharmoonia
+1,0,0,2,1,3,3,2,2,19,mari; hortus; eesti; musicus; bach; sing; frederik; mustonen
+0,0,1,4,1,5,4,2,2,19,mari; hortus; eesti; musicus; bach; kammerkoor; phonyker; frederik; mustonen; andres; filharmoonia
+0,0,2,1,1,4,3,1,2,19,eesti; hortus; musicus; bach; sing; phonyker; frederik; andres; filharmoonia

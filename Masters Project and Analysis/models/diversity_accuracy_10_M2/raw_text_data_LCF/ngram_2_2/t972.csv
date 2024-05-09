@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,2,1,2,0,11,auhind; õigemeel; birgit
-2,0,2,0,0,2,1,2,0,11,auhind; õigemeel; birgit
-2,0,2,0,0,2,1,2,0,11,auhind; õigemeel; birgit
-2,0,2,0,0,2,1,2,0,11,auhind; õigemeel; birgit
-2,0,2,0,0,2,1,2,0,11,auhind; õigemeel; birgit
-2,0,1,0,0,2,1,2,0,11,birgit; õigemeel
-3,0,1,0,0,2,2,2,0,11,auhind; õigemeel; birgit; plaat
-2,0,1,0,0,2,3,2,0,11,auhind; õigemeel; birgit
-3,0,1,0,0,1,2,2,0,11,auhind; õigemeel; birgit; plaat
-2,0,1,0,0,1,1,2,0,11,birgit; õigemeel
-3,0,1,0,0,1,2,0,0,11,auhind; õigemeel; birgit; eurovisioon
+2,0,2,0,0,1,2,0,0,11,birgit; õigemeel; auhind
+2,0,2,0,0,1,2,0,0,11,birgit; õigemeel; auhind
+2,0,2,0,0,1,2,0,0,11,birgit; õigemeel; auhind
+2,0,2,0,0,1,2,0,0,11,birgit; õigemeel; auhind
+2,0,2,0,0,1,2,0,0,11,birgit; õigemeel; auhind
+2,0,1,0,0,1,2,0,0,11,õigemeel; birgit
+3,0,1,0,0,2,2,0,0,11,plaat; birgit; õigemeel; auhind
+2,0,1,0,0,3,2,0,0,11,birgit; õigemeel; auhind
+3,0,1,0,0,2,2,0,0,11,plaat; birgit; õigemeel; auhind
+2,0,1,0,0,1,2,0,0,11,õigemeel; birgit
+3,0,1,0,0,2,0,0,0,11,eurovisioon; birgit; õigemeel; auhind

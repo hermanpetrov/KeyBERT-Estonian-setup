@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,0,1,2,0,14,margus; rapla; jaan; lavakas
-0,0,1,1,0,0,1,2,0,14,margus; rapla; jaan; lavakas
-0,0,1,1,0,0,1,2,0,14,margus; rapla; jaan; lavakas
-0,0,1,1,0,0,1,2,0,14,margus; rapla; jaan; lavakas
-0,0,1,1,0,0,1,2,0,14,margus; rapla; jaan; lavakas
-0,0,1,1,0,2,3,1,0,14,margus; rapla; allik; lavakas
-0,0,1,1,0,3,2,2,0,14,margus; rapla; allik; lavakas; tooming
-0,0,1,0,0,3,4,3,0,14,margus; rapla; allik; jaan; tooming; näitleja; jaak
-0,0,1,0,0,2,2,2,0,14,margus; rapla; allik; tooming
-0,0,1,0,0,3,1,1,0,14,margus; rapla; tooming
-1,0,2,0,0,4,2,2,0,14,allik; margus; jaan; rapla; tooming
+0,0,3,2,0,1,2,3,0,14,mikomägi; ajakirjanik; rapla; kultuuripärl; jaan; margus; lavakas
+0,0,3,2,0,1,2,3,0,14,mikomägi; ajakirjanik; rapla; kultuuripärl; jaan; margus; lavakas
+0,0,3,2,0,1,2,3,0,14,mikomägi; ajakirjanik; rapla; kultuuripärl; jaan; margus; lavakas
+0,0,2,2,0,1,2,3,0,14,mikomägi; jaan; rapla; margus; kultuuripärl; lavakas
+0,0,2,2,0,1,2,3,0,14,mikomägi; jaan; rapla; margus; kultuuripärl; lavakas
+0,0,2,2,0,3,4,2,0,14,mikomägi; rapla; allik; kultuuripärl; margus; lavakas
+0,0,2,2,0,4,3,3,0,14,mikomägi; rapla; allik; kultuuripärl; margus; tooming; lavakas
+0,0,1,1,0,4,5,4,0,14,mikomägi; ajakirjanik; jaak; rapla; allik; näitleja; jaan; margus; tooming
+0,0,1,0,0,3,2,3,0,14,mikomägi; rapla; margus; allik; tooming
+0,0,1,0,0,4,1,2,0,14,mikomägi; rapla; margus; tooming
+1,0,2,1,0,5,2,3,0,14,mikomägi; rapla; allik; jaan; margus; tooming

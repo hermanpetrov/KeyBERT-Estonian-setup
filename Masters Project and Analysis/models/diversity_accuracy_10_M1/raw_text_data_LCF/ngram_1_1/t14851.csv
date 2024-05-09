@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,1,14,teaduste
-0,0,0,0,0,0,0,0,1,14,teaduste
-0,0,0,0,0,0,0,0,1,14,teaduste
-0,0,0,0,0,0,0,0,1,14,teaduste
-0,0,1,0,0,0,0,0,1,14,informatiivne; teaduste
-0,0,2,0,0,0,0,0,1,14,informatiivne; teaduste; gustav
-0,0,2,0,0,0,0,0,1,14,informatiivne; teaduste; gustav
-1,0,1,0,0,0,0,0,1,14,informatiivne; teaduste; fašism
-0,0,2,0,0,0,0,0,1,14,informatiivne; teaduste; gustav
-1,0,0,0,0,0,0,0,1,14,informatiivne; teaduste
-1,0,1,0,0,0,0,0,1,14,informatiivne; teaduste; gustav
+0,0,0,0,0,0,0,1,0,14,teaduste
+0,0,0,0,0,0,0,1,0,14,teaduste
+0,0,0,0,0,0,0,1,0,14,teaduste
+0,0,0,0,0,0,0,1,0,14,teaduste
+0,0,1,0,0,0,0,1,0,14,teaduste; informatiivne
+0,0,2,0,0,0,0,1,0,14,teaduste; gustav; informatiivne
+0,0,2,0,0,0,0,1,0,14,teaduste; gustav; informatiivne
+1,0,1,0,0,0,0,1,0,14,teaduste; fašism; informatiivne
+0,0,2,0,0,0,0,1,0,14,teaduste; gustav; informatiivne
+1,0,0,0,0,0,0,1,0,14,teaduste; informatiivne
+1,0,1,0,0,0,0,1,0,14,teaduste; gustav; informatiivne

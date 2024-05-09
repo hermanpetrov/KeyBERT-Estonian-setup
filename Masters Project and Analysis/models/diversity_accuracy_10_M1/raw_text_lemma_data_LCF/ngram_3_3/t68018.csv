@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,1,1,1,3,0,16,kontseptualism; kuraator; indrek; grigor; laura
-1,0,2,0,1,1,1,3,0,16,kontseptualism; kuraator; indrek; grigor; laura
-1,0,2,0,1,1,1,3,0,16,kontseptualism; kuraator; indrek; grigor; laura
-1,0,2,0,1,1,1,3,0,16,kontseptualism; kuraator; indrek; grigor; laura
-1,0,2,0,1,1,1,3,0,16,kontseptualism; kuraator; indrek; grigor; laura
-1,0,3,0,1,1,1,3,0,16,kunst; kuraator; kontseptualism; indrek; grigor; laura
-3,1,2,0,1,1,2,5,0,16,kontseptualism; indrek; narratiiv; meedium; laura; kuraator; kuusk; grigor
-0,2,3,3,1,0,2,3,0,16,kunst; kontseptualism; säde; indrek; margit; kuraator; grigor
-2,0,3,2,2,0,1,4,0,16,kontseptualism; kunst; säde; indrek; margit; laura; kuraator; kuusk; grigor
-3,0,5,2,2,2,1,2,0,16,kontseptualism; kunst; säde; indrek; margit; meedium; laura; kuraator; grigor
-1,0,2,1,3,0,2,1,0,16,kunst; kontseptualism; indrek; meedium; narratiiv; kriitika; kuraator; grigor
+1,0,3,1,1,1,1,3,0,16,kuraator; laura; indrek; kontseptualism; kunstiajalugu; grigor
+1,0,3,1,1,1,1,3,0,16,kuraator; laura; indrek; kontseptualism; kunstiajalugu; grigor
+1,0,3,1,1,1,1,3,0,16,kuraator; laura; indrek; kontseptualism; kunstiajalugu; grigor
+1,0,3,1,1,1,1,3,0,16,kuraator; laura; indrek; kontseptualism; kunstiajalugu; grigor
+1,0,3,1,1,1,1,3,0,16,kuraator; laura; indrek; kontseptualism; kunstiajalugu; grigor
+1,0,5,1,1,1,1,3,0,16,kontseptualism; kunstiajalugu; grigor; kunst; kaasaegne; laura; indrek; kuraator
+3,1,3,1,1,1,2,5,0,16,kuusk; kontseptualism; kunstiajalugu; meedium; grigor; kaasaegne; laura; narratiiv; indrek; kuraator
+0,2,3,3,1,0,2,3,0,16,kontseptualism; säde; grigor; kunst; margit; indrek; kuraator
+3,0,3,2,2,0,1,4,0,16,kuusk; säde; kontseptualism; grigor; kunst; kaasaegne; laura; margit; indrek; kuraator
+5,0,5,2,2,2,2,2,0,16,kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; kaasaegne; laura; margit; indrek; kuraator
+2,0,2,1,3,0,2,1,0,16,kriitika; kontseptualism; meedium; grigor; kunst; kaasaegne; narratiiv; indrek; kuraator

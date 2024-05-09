@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,1,3,1,2,0,2,2,12,teater; süda; moskva; nõukogude; iraan; liibüa; näitus
-4,4,1,3,1,2,0,3,3,12,teater; süda; moskva; nõukogude; iraan; liibüa; näitus
-4,4,1,2,1,2,1,3,2,12,teater; moskva; nõukogude; iraan; liibüa; näitus
-4,4,2,2,1,2,1,3,2,12,teater; moskva; nõukogude; liibüa; näitus
-4,4,4,2,1,2,1,2,2,12,teater; moskva; nõukogude; liibüa; näitus
-5,4,2,2,2,4,3,3,2,12,suitsetamine; teater; moskva; nõukogude; iraan; liibüa; liit; näitus
-2,3,3,3,2,3,4,4,4,12,suitsetamine; teater; süda; moskva; nõukogude; iraan; liibüa; näitus
-0,2,4,2,1,4,2,5,5,12,liit; teater; süda; moskva; nõukogude; iraan; liibüa; näitus
-0,3,3,2,2,3,3,4,3,12,teater; süda; moskva; nõukogude; iraan; liibüa; liit
-0,2,1,2,3,2,4,4,4,12,liit; teater; moskva; nõukogude; liibüa; näitus
-0,3,2,2,3,2,3,4,3,12,teater; moskva; nõukogude; liibüa; liit; näitus
+4,4,1,3,1,0,2,2,0,12,iraan; liibüa; nõukogude; moskva; süda; näitus; teater
+4,4,1,3,1,0,3,3,0,12,iraan; liibüa; nõukogude; moskva; süda; näitus; teater
+4,4,1,2,1,1,3,2,0,12,iraan; liibüa; nõukogude; moskva; näitus; teater
+4,4,2,2,1,1,3,2,0,12,liibüa; nõukogude; moskva; näitus; teater
+4,4,4,2,1,1,2,2,0,12,liibüa; nõukogude; moskva; näitus; teater
+5,4,2,2,2,3,3,2,0,12,iraan; teater; liibüa; nõukogude; moskva; näitus; suitsetamine; liit
+2,3,3,3,2,4,4,4,0,12,iraan; moskva; nõukogude; liibüa; süda; näitus; suitsetamine; teater
+0,2,4,2,1,2,5,5,0,12,iraan; moskva; liibüa; nõukogude; süda; näitus; teater
+0,3,3,2,2,3,4,3,0,12,iraan; moskva; nõukogude; liibüa; süda; liit; teater
+0,2,1,2,3,4,4,4,0,12,liibüa; nõukogude; moskva; liit; näitus; teater
+0,3,2,2,3,3,4,3,0,12,liibüa; nõukogude; moskva; näitus; teater

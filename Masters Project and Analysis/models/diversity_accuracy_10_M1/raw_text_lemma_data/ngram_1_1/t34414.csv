@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,2,0,0,2,2,0,0,13,euro; euroopa
 0,0,2,0,0,2,2,0,0,13,euro; euroopa
 0,0,0,0,0,2,2,0,0,13,euro; euroopa
-0,0,0,0,0,2,2,0,0,13,euro; euroopa
-0,0,1,0,0,0,3,0,0,13,janek; komisjon; euro; euroopa
+0,0,0,0,0,3,2,0,0,13,euroopa; üleminek; euro
+0,0,1,0,0,0,3,1,0,13,üleminek; euroopa; komisjon; janek; euro
 0,0,0,0,0,0,2,0,0,13,komisjon; euro
 0,0,0,0,0,0,2,0,0,13,komisjon; euro
-1,0,1,0,0,0,1,0,0,13,janek; tartu; komisjon
+1,0,1,0,0,0,1,0,0,13,komisjon; janek; tartu

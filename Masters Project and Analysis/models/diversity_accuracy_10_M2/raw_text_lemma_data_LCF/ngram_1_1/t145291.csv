@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,13,
 0,0,0,0,0,0,0,0,0,13,
 0,0,1,0,0,1,0,0,0,13,leho; saladus
-0,0,0,0,0,1,0,0,0,13,leho
+0,0,0,0,0,1,1,0,0,13,õudusjutt; leho
 0,0,1,0,0,1,0,0,0,13,leho; saladus
-0,1,1,0,0,1,1,0,0,13,leho; saladus
-0,1,1,1,0,1,0,0,0,13,leho; saladus; boriss
+1,1,1,0,0,1,1,0,0,13,õudusjutt; saladus; leho
+1,1,1,1,0,1,0,0,0,13,õudusjutt; leho; boriss; saladus

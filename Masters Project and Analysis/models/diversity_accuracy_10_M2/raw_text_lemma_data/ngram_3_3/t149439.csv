@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-0,3,3,0,1,0,0,0,2,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension; laur
-1,3,4,0,1,0,0,3,2,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur
-0,3,5,1,1,2,0,2,2,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur
-0,3,5,0,1,1,0,1,2,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur
-1,2,5,2,1,2,0,3,2,11,töö; tennis; jooksma; liikuma; pension; doktor; tervis; laur; noor
-0,2,3,0,0,1,2,3,1,11,doktor; töö; tervis; tennis; jooksma; liikuma; pension
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+0,3,3,0,1,0,0,0,2,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis; laur
+1,3,4,0,1,0,0,3,2,11,liikuma; doktor; töö; jooksma; tennis; pension; tervis; laur
+0,3,5,1,1,2,0,2,2,11,liikuma; doktor; töö; jooksma; tennis; pension; tervis; laur
+0,3,5,0,1,1,0,1,2,11,liikuma; doktor; töö; jooksma; tennis; pension; tervis; laur
+1,2,5,2,1,2,0,3,2,11,noor; liikuma; doktor; töö; jooksma; tennis; pension; tervis; laur
+0,2,3,0,0,1,2,3,1,11,jooksma; töö; tennis; pension; liikuma; doktor; tervis

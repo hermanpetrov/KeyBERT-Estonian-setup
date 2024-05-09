@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,1,1,0,11,raadiomaja
-0,1,0,0,0,0,1,1,0,11,raadiomaja
-0,1,0,0,0,0,1,1,0,11,raadiomaja
-0,1,0,0,0,0,1,1,0,11,raadiomaja
-0,1,0,0,0,0,1,1,0,11,raadiomaja
-0,1,2,0,0,0,1,1,0,11,raadiomaja; plaat; madis
-0,1,2,0,0,0,1,1,0,11,raadiomaja; plaat; madis
-0,1,2,0,0,0,0,1,0,11,raadiomaja; plaat; madis
-0,1,1,0,0,0,0,1,0,11,raadiomaja; madis
-1,1,2,0,0,0,0,1,0,11,tuletõrje; raadiomaja; madis
-2,1,1,0,0,0,0,1,0,11,tuletõrje; raadiomaja
+0,1,0,0,0,1,1,0,0,11,raadiomaja
+0,1,0,0,0,1,1,0,0,11,raadiomaja
+0,1,0,0,0,1,1,0,0,11,raadiomaja
+0,1,0,0,0,1,1,0,0,11,raadiomaja
+0,1,0,0,0,1,1,0,0,11,raadiomaja
+0,1,2,0,0,1,1,0,0,11,madis; plaat; raadiomaja
+0,1,2,0,0,1,1,0,0,11,madis; plaat; raadiomaja
+0,1,2,0,0,0,1,0,0,11,madis; plaat; raadiomaja
+0,1,1,0,0,0,1,0,0,11,madis; raadiomaja
+1,1,2,0,0,0,1,0,0,11,tuletõrje; madis; raadiomaja
+2,1,1,0,0,0,1,0,0,11,tuletõrje; raadiomaja

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,5,0,0,2,1,1,0,16,august; olesk; peeter; eesti; vilde; kitzberg
-1,2,5,0,0,2,1,1,0,16,august; olesk; peeter; eesti; vilde; kitzberg
-1,2,5,0,0,2,1,1,0,16,august; olesk; peeter; eesti; vilde; kitzberg
-1,2,5,0,0,2,1,1,0,16,august; olesk; peeter; eesti; vilde; kitzberg
-1,2,5,0,0,2,1,1,0,16,august; olesk; peeter; eesti; vilde; kitzberg
-1,2,4,0,0,0,1,2,1,16,olesk; peeter; eesti; vilde; kitzberg
-2,3,4,0,0,0,1,1,1,16,komöödia; olesk; tragöödia; ärkamisaeg; eesti; kitzberg; peeter; vilde
-0,2,2,0,0,2,1,1,0,16,ärkamisaeg; eesti; kitzberg
-0,1,3,0,0,1,2,1,0,16,olesk; eesti; kitzberg; mart
-0,1,3,0,0,1,3,2,0,16,kirjandus; olesk; eesti; kitzberg; mart
-1,1,1,0,0,1,2,2,1,16,kirjandus; eesti; kitzberg
+1,2,5,0,0,1,1,0,0,16,olesk; peeter; vilde; eesti; kitzberg; august
+1,2,5,0,0,1,1,0,0,16,olesk; peeter; vilde; eesti; kitzberg; august
+1,2,5,0,0,1,1,0,0,16,olesk; peeter; vilde; eesti; kitzberg; august
+1,2,5,0,0,1,1,0,0,16,olesk; peeter; vilde; eesti; kitzberg; august
+1,2,5,0,0,1,1,0,0,16,olesk; peeter; vilde; eesti; kitzberg; august
+1,2,4,0,0,1,2,1,0,16,olesk; peeter; vilde; eesti; kitzberg
+2,3,4,0,0,1,1,1,0,16,olesk; peeter; eesti; kitzberg; komöödia; ärkamisaeg; vilde; tragöödia
+0,2,2,0,0,1,1,0,0,16,ärkamisaeg; kitzberg; eesti
+0,1,3,0,0,2,1,0,0,16,olesk; mart; eesti; kitzberg
+0,1,3,0,0,3,2,0,0,16,olesk; mart; eesti; kirjandus; kitzberg
+1,1,1,0,0,2,2,1,0,16,kirjandus; kitzberg; eesti

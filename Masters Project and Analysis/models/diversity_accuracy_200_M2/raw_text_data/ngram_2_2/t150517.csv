@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,7,7,8,5,8,8,8,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,7,7,8,5,8,8,8,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,6,6,8,5,8,8,8,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,6,7,8,4,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,6,7,8,4,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,7,8,8,4,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-7,7,7,8,5,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-7,7,8,8,6,8,8,8,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-6,8,8,7,7,8,8,8,7,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-7,8,7,7,7,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
-8,7,7,7,7,8,8,7,8,11,polka; lõuna-eesti; maailmasõjajärgne; meloodia; meelelahutus; lõõtspill; tants; pillimäng
+8,7,7,8,5,8,8,8,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,7,7,8,5,8,8,8,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,6,6,8,5,8,8,8,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,6,7,8,4,8,8,7,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,6,7,8,4,8,8,7,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,7,8,8,4,8,8,7,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+7,7,7,8,5,8,8,7,8,11,meelelahutus; lõuna-eesti; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+7,7,8,8,6,8,8,8,8,11,lõuna-eesti; meelelahutus; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+6,8,8,7,7,8,8,8,7,11,lõuna-eesti; meelelahutus; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+7,8,7,7,7,8,8,7,8,11,lõuna-eesti; meelelahutus; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants
+8,7,7,7,7,8,8,7,8,11,lõuna-eesti; meelelahutus; lõõtspill; pillimäng; meloodia; maailmasõjajärgne; polka; tants

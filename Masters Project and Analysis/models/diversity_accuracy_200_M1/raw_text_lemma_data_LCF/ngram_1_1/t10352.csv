@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,2,1,3,3,2,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-0,2,2,2,0,2,3,2,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-0,2,3,2,0,0,3,3,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-0,2,1,2,0,2,3,3,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-0,2,1,2,0,2,1,3,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-1,2,5,2,0,3,1,2,3,13,paul; rahu; toomas; nälg; mastaap; kari; kartul; sõda
-2,0,3,0,0,3,1,6,4,13,paul; rahu; toomas; kliima; nälg; mastaap; sõda
-2,0,3,1,1,4,1,2,4,13,paul; rahu; toomas; kliima; mastaap; sõda
-2,1,4,0,1,4,3,2,3,13,paul; rahu; toomas; kliima; mastaap; kari; kartul
-2,0,4,1,0,4,3,1,2,13,paul; rahu; toomas; kliima; mastaap; kartul; sõda
-4,0,3,1,1,4,2,1,1,13,paul; rahu; toomas; kliima; mastaap; kartul
+2,2,4,3,2,5,5,4,3,13,inimloomus; mastaap; sõda; toomas; nälg; kari; usuteadus; rahu; kartul; paul
+2,2,3,3,1,4,5,4,3,13,inimloomus; mastaap; toomas; nälg; sõda; kari; usuteadus; rahu; kartul; paul
+2,2,4,3,1,2,5,5,3,13,inimloomus; mastaap; sõda; toomas; nälg; kari; usuteadus; rahu; kartul; paul
+2,2,2,3,1,4,5,5,3,13,inimloomus; mastaap; nälg; toomas; sõda; kari; usuteadus; rahu; kartul; paul
+2,2,1,3,1,4,3,5,3,13,inimloomus; mastaap; nälg; toomas; sõda; kari; usuteadus; rahu; kartul; paul
+2,3,5,3,1,5,3,4,3,13,inimloomus; mastaap; toomas; sõda; nälg; kari; usuteadus; rahu; kartul; paul
+3,1,3,0,0,4,3,7,4,13,inimloomus; kliima; mastaap; toomas; nälg; sõda; usuteadus; rahu; paul
+3,1,4,1,2,6,3,3,4,13,inimloomus; kliima; mastaap; toomas; sõda; usuteadus; rahu; paul
+3,2,4,0,1,6,4,2,3,13,inimloomus; kliima; mastaap; toomas; kari; usuteadus; rahu; kartul; paul
+2,1,5,1,0,4,3,1,2,13,inimloomus; kliima; mastaap; toomas; sõda; usuteadus; rahu; kartul; paul
+4,1,4,1,1,4,2,1,2,13,inimloomus; kliima; mastaap; toomas; usuteadus; rahu; kartul; paul

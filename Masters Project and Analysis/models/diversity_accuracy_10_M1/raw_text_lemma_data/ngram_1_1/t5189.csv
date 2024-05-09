@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-0,0,0,0,1,0,0,0,0,17,probleem
-1,0,1,0,1,0,0,0,0,17,jäätmed; probleem; laidoner
-1,0,0,1,1,0,0,0,0,17,jäätmed; probleem; sortimine
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,0,1,0,0,17,konkurentsivõime; probleem
+0,0,0,0,1,1,1,0,0,17,konkurentsivõime; venemaa; probleem
+0,0,0,0,1,1,1,0,0,17,konkurentsivõime; venemaa; probleem
+0,0,0,0,1,2,1,1,0,17,konkurentsivõime; venemaa; probleem
+2,0,1,0,1,2,1,2,0,17,konkurentsivõime; jäätmed; venemaa; laidoner; rahukõnelus; probleem
+2,0,0,1,1,1,1,2,0,17,konkurentsivõime; jäätmed; rahukõnelus; sortimine; probleem

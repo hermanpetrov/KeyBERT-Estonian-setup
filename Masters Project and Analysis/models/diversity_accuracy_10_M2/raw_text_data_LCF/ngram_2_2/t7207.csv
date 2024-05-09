@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,0,0,0,12,kirjandus; mati; iroonia
-1,0,0,1,0,1,1,0,0,12,klassik; kirjandus; mati; iroonia
-0,0,0,1,0,2,3,1,0,12,kommunism; kirjandus; mati; unt; klassik
-0,0,0,1,0,2,3,0,0,12,kirjandus; mati; unt; klassik
-0,0,0,0,0,1,3,1,0,12,klassik; kirjandus; kirjutama; unt
-1,0,1,1,0,1,3,0,0,12,kunstid; mati; iroonia; unt; imelaps; klassik
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,0,0,0,0,12,iroonia; mati
+1,0,0,1,0,1,0,0,0,12,iroonia; mati; klassik
+0,0,0,1,0,3,1,0,0,12,mati; unt; klassik; kirjandus; kommunism
+0,0,0,1,0,3,0,0,0,12,kirjandus; mati; unt; klassik
+0,0,0,0,0,3,1,0,0,12,kirjandus; kirjutama; unt; klassik
+1,0,1,1,0,3,0,0,0,12,kunstid; mati; unt; klassik; iroonia; imelaps

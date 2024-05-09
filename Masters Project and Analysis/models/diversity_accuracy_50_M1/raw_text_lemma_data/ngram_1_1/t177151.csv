@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,2,2,2,0,0,13,festival; eurosonic; jaan; artist; erik
-1,2,2,0,2,2,2,0,0,13,festival; eurosonic; jaan; artist; erik
-1,2,2,0,2,2,2,0,0,13,festival; eurosonic; jaan; artist; erik
-1,2,1,0,2,2,2,0,0,13,festival; eurosonic; jaan; artist
-1,2,1,0,2,1,2,0,0,13,festival; eurosonic; jaan; kristo; artist
-1,2,1,0,2,1,0,0,0,13,eurosonic; jaan; kristo; artist; intervjuu
-1,2,1,1,2,2,0,1,0,13,festival; eurosonic; jaan; kristo; artist; erik; intervjuu
-0,0,1,1,2,3,0,1,0,13,festival; eurosonic; kristo; artist; erik; intervjuu
-0,0,1,1,2,2,0,1,0,13,festival; eurosonic; kristo; artist; intervjuu
-0,0,1,1,2,2,1,1,0,13,festival; eurosonic; kristo; artist; intervjuu
-0,0,1,1,2,2,0,1,0,13,festival; eurosonic; kristo; artist; intervjuu
+1,2,2,0,2,2,2,1,0,13,artist; jaan; erik; eurosonic; otsesaade; festival
+1,2,2,0,2,2,2,1,0,13,artist; jaan; erik; eurosonic; otsesaade; festival
+1,2,2,0,2,2,2,1,0,13,artist; jaan; erik; eurosonic; otsesaade; festival
+1,2,1,0,2,2,2,1,0,13,artist; jaan; eurosonic; otsesaade; festival
+1,2,1,0,2,1,2,1,0,13,artist; jaan; eurosonic; kristo; otsesaade; festival
+1,2,1,0,2,1,0,1,0,13,artist; jaan; eurosonic; kristo; otsesaade; intervjuu
+1,2,1,1,2,2,0,2,0,13,erik; otsesaade; intervjuu; artist; jaan; eurosonic; kristo; festival
+0,0,1,1,2,3,0,2,0,13,artist; erik; eurosonic; kristo; otsesaade; intervjuu; festival
+1,0,1,1,2,2,0,1,0,13,artist; eurosonic; kristo; rajasaar; intervjuu; festival
+2,0,1,1,2,2,1,1,0,13,artist; parmupill; kristo; eurosonic; rajasaar; intervjuu; festival
+0,0,1,1,2,2,0,2,0,13,artist; eurosonic; kristo; otsesaade; intervjuu; festival

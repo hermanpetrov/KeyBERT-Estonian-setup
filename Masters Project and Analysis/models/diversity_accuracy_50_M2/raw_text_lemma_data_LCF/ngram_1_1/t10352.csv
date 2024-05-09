@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
-0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
-0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
-0,0,2,0,1,1,0,1,1,12,ühiskond; ökoloogiline; ressurss
-0,0,1,0,1,1,0,1,1,12,ühiskond; ressurss; ökoloogiline
-0,0,1,0,1,1,0,1,1,12,ühiskond; ressurss; ökoloogiline
-0,2,1,0,1,0,0,0,1,12,ühiskond; ressurss; konkurents; ökoloogiline
-0,2,1,2,1,0,0,0,1,12,ressurss; ühiskond; ökoloogiline; konkurents; sõda
-1,2,1,0,1,0,0,0,1,12,ressurss; ühiskond; ökoloogiline; konkurents; arheoloog
-1,1,2,0,2,0,0,0,1,12,ressurss; nappus; ökoloogiline; sõda; arheoloog
-1,1,2,0,2,0,0,0,0,12,nappus; ressurss; arheoloog; ökoloogiline
+0,0,2,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+0,0,2,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+0,0,2,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+0,0,2,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+0,0,1,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+0,0,1,0,1,2,0,3,1,12,ellujäämine; inimloomus; ressurss; ökoloogiline; ühiskond
+1,2,1,0,1,1,2,1,1,12,ellujäämine; inimloomus; ressurss; konkurents; ökoloogiline; ühiskond
+0,2,1,2,1,2,1,0,1,12,inimloomus; ühiskond; ressurss; konkurents; tasakaal; ökoloogiline; sõda
+1,2,1,0,1,2,1,0,1,12,arheoloog; ellujäämine; inimloomus; ressurss; konkurents; ökoloogiline; ühiskond
+1,1,2,0,2,1,0,0,1,12,arheoloog; ellujäämine; nappus; ressurss; ökoloogiline; sõda
+1,1,2,0,2,0,0,0,0,12,arheoloog; ressurss; nappus; ökoloogiline

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,6,2,1,4,5,4,3,16,komöödia; august; monopol; olesk; eesti; kitzberg; peeter; kirjandus; vilde
-4,3,6,2,1,4,5,4,3,16,komöödia; august; monopol; olesk; eesti; kitzberg; peeter; kirjandus; vilde
-4,3,6,2,1,4,5,4,3,16,komöödia; august; monopol; olesk; eesti; kitzberg; peeter; kirjandus; vilde
-4,3,6,2,1,4,5,4,3,16,komöödia; august; monopol; olesk; eesti; kitzberg; peeter; kirjandus; vilde
-4,4,6,2,1,3,4,6,3,16,komöödia; august; monopol; olesk; eesti; kitzberg; peeter; mart; kirjandus; vilde
-5,3,6,2,1,4,5,6,3,16,komöödia; monopol; olesk; tragöödia; eesti; kitzberg; peeter; mart; kirjandus; vilde
-5,3,4,5,1,7,4,3,3,16,komöödia; monopol; olesk; tragöödia; eesti; kitzberg; peeter; mart; kirjandus; vilde
-4,3,5,3,1,6,3,5,2,16,komöödia; monopol; olesk; tragöödia; eesti; kitzberg; mart; peeter; kirjandus; vilde
-1,3,4,4,1,6,3,5,4,16,komöödia; monopol; olesk; eesti; peeter; kitzberg; mart; kirjandus; vilde
-4,3,3,5,3,6,4,2,4,16,komöödia; august; monopol; olesk; tragöödia; eesti; kitzberg; mart; peeter; kirjandus; vilde
-4,4,4,6,2,7,4,3,2,16,komöödia; august; monopol; olesk; tragöödia; eesti; kitzberg; mart; peeter; kirjandus; vilde
+4,3,6,3,1,5,5,5,3,16,olesk; peeter; kuuldemäng; eesti; kitzberg; komöödia; august; monopol; draamakunst; vilde; kirjandus
+4,3,6,3,1,5,5,5,3,16,olesk; peeter; kuuldemäng; eesti; kitzberg; komöödia; august; monopol; draamakunst; vilde; kirjandus
+4,3,6,3,1,5,5,5,3,16,olesk; peeter; kuuldemäng; eesti; kitzberg; komöödia; august; monopol; draamakunst; vilde; kirjandus
+4,4,6,3,1,5,5,5,3,16,kuuldemäng; olesk; peeter; eesti; kitzberg; komöödia; august; monopol; draamakunst; vilde; kirjandus
+4,5,6,3,1,4,4,7,3,16,kuuldemäng; olesk; peeter; eesti; kitzberg; komöödia; august; monopol; draamakunst; vilde; mart; kirjandus
+5,4,6,3,1,4,6,7,3,16,kuuldemäng; olesk; peeter; eesti; kitzberg; komöödia; monopol; vilde; venestamisaeg; mart; kirjandus; tragöödia
+7,4,5,6,1,10,6,5,3,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; draamakunst; monopol; vilde; venestamisaeg; kuuldemäng; tragöödia
+6,5,6,3,1,8,4,6,2,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; draamakunst; monopol; vilde; venestamisaeg; kuuldemäng; tragöödia
+2,5,5,5,1,8,5,7,4,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; draamakunst; monopol; vilde; venestamisaeg
+4,4,4,6,3,7,6,4,4,16,peeter; olesk; kuuldemäng; eesti; kitzberg; komöödia; august; monopol; ärkamisaeg; vilde; mart; venestamisaeg; kirjandus; tragöödia
+6,5,5,7,2,7,6,5,2,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; draamakunst; monopol; august; vilde; venestamisaeg; kuuldemäng; tragöödia

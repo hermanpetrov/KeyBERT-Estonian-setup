@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,0,1,1,0,0,0,0,12,ink; ant; linn; surnu
-3,0,0,1,1,0,0,0,0,12,ink; ant; linn; surnu
-3,0,0,1,1,0,0,0,1,12,ink; chachapoyas; ant; linn; surnu
-3,0,0,1,1,0,0,0,1,12,ink; chachapoyas; ant; linn; surnu
-3,0,0,1,1,0,0,0,1,12,ink; kindlus; ant; linn; surnu
-3,0,0,1,1,0,0,0,0,12,ink; ant; linn; surnu
-3,0,0,1,1,0,0,0,0,12,ink; ant; linn; surnu
-3,0,0,0,1,0,0,0,1,12,ink; kindlus; surnu; linn
-3,0,0,0,1,0,0,1,0,12,ink; kindlus; surnu; linn
+3,0,0,1,1,0,0,0,0,12,ink; surnu; ant; linn
+3,0,0,1,1,0,0,0,0,12,ink; surnu; ant; linn
+3,0,0,1,1,0,0,0,1,12,ink; chachapoyas; surnu; ant; linn
+3,0,0,1,1,0,0,0,1,12,ink; chachapoyas; surnu; ant; linn
+3,0,0,1,1,0,0,0,1,12,ink; surnu; ant; kindlus; linn
+3,0,0,1,1,0,0,0,0,12,ink; surnu; ant; linn
+3,0,0,1,1,0,0,0,0,12,ink; surnu; ant; linn
+3,0,0,0,1,0,0,0,1,12,surnu; kindlus; ink; linn
+3,0,0,0,1,0,0,1,0,12,ink; kindlus; linn; surnu
 1,0,0,1,1,0,0,1,0,12,ink; kindlus
 1,0,1,0,0,0,0,0,0,12,ink; chachapoyas

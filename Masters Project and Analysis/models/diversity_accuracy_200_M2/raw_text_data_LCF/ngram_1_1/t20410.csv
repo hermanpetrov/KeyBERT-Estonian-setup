@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,4,1,0,2,2,2,1,12,ani; muusika; näitleja; salulaht; karu; elmar; nikerdamine; endel; vanemuine
-3,2,4,1,0,2,2,4,1,12,ani; muusika; näitleja; salulaht; karu; elmar; nikerdamine; endel; vanemuine
-3,2,4,1,0,2,5,4,1,12,ani; muusika; näitleja; salulaht; karu; elmar; nikerdamine; endel; vanemuine
-3,0,4,1,0,4,6,6,1,12,ani; muusika; näitleja; salulaht; elmar; nikerdamine; endel; vanemuine
-3,0,5,0,0,3,5,6,1,12,ani; muusika; näitleja; salulaht; elmar; nikerdamine; endel; vanemuine
-2,0,5,0,0,3,4,5,1,12,ani; muusika; salulaht; elmar; nikerdamine; endel; vanemuine
-1,0,5,1,0,3,3,3,1,12,ani; muusika; näitleja; salulaht; elmar; endel; vanemuine
-0,0,4,0,0,3,4,2,1,12,ani; muusika; näitleja; salulaht; elmar; nikerdamine; endel; vanemuine
-0,1,4,0,0,4,2,2,1,12,muusika; näitleja; salulaht; karu; elmar; endel
-0,1,3,1,1,3,2,1,2,12,ani; muusika; karu; elmar; endel; näitleja
-0,1,1,1,2,1,2,2,2,12,ani; muusika; karu; elmar; endel; salulaht
+3,2,4,1,0,2,2,1,0,12,vanemuine; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,2,4,1,0,2,4,1,0,12,vanemuine; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,2,4,1,0,5,4,1,0,12,vanemuine; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,0,4,1,0,6,6,1,0,12,vanemuine; ani; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,0,5,0,0,5,6,1,0,12,vanemuine; ani; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+2,0,5,0,0,4,5,1,0,12,vanemuine; ani; elmar; muusika; endel; nikerdamine; salulaht
+1,0,5,1,0,3,3,1,0,12,ani; näitleja; elmar; muusika; endel; vanemuine; salulaht
+0,0,4,0,0,4,2,1,0,12,vanemuine; elmar; muusika; endel; nikerdamine; salulaht
+0,1,4,0,0,2,2,1,0,12,muusika; endel; salulaht; karu; elmar
+0,1,3,1,1,2,1,2,0,12,muusika; endel; ani; karu; elmar
+0,1,1,1,2,2,2,2,0,12,muusika; endel; ani; salulaht; karu; elmar

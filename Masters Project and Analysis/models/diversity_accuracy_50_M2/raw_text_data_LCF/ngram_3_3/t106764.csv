@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,6,4,4,2,3,2,4,3,15,rock; singer; café; draiv; raadio; rajasaare; veiko; vinger; kristo; kaks
-8,6,4,4,2,3,2,4,3,15,rock; singer; café; draiv; raadio; rajasaare; veiko; vinger; kristo; kaks
-8,6,4,4,2,3,2,4,3,15,rock; singer; café; draiv; raadio; rajasaare; veiko; vinger; kristo; kaks
-8,6,4,4,2,3,2,4,3,15,rock; singer; café; draiv; raadio; rajasaare; veiko; vinger; kristo; kaks
-8,7,4,4,2,3,3,4,3,15,rock; singer; café; draiv; raadio; rajasaare; veiko; vinger; kristo; onu; kaks
-6,7,7,5,2,2,2,4,3,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; vinger; kristo; onu; kaks
-6,5,7,5,2,3,4,7,3,15,rock; singer; kosmos; café; raadio; rajasaare; muusikanõunik; vinger; kristo; onu; kaks
-5,4,5,5,3,5,4,8,3,15,rock; singer; kosmos; café; draiv; raadio; rajasaare; vinger; kristo; kaks
-6,3,5,4,2,6,3,6,3,15,rock; singer; kosmos; café; raadio; rajasaare; vinger; kristo; kaks
-7,2,6,7,3,5,3,10,6,15,draiv; muusikanõunik; vinger; kristo; veiko; kaks; rock; singer; kosmos; café; raadio; rajasaare; onu
-5,3,8,7,4,5,2,9,5,15,muusikanõunik; vinger; kristo; veiko; kaks; rock; singer; kosmos; café; raadio; rajasaare; onu
+8,6,4,4,2,2,4,3,0,15,vinger; draiv; rock; veiko; raadio; rajasaare; kristo; singer; kaks; café
+8,6,4,4,2,2,4,3,0,15,vinger; draiv; rock; veiko; raadio; rajasaare; kristo; singer; kaks; café
+8,6,4,4,2,2,4,3,0,15,vinger; draiv; rock; veiko; raadio; rajasaare; kristo; singer; kaks; café
+8,6,4,4,2,2,4,3,0,15,vinger; draiv; rock; veiko; raadio; rajasaare; kristo; singer; kaks; café
+8,7,4,4,2,3,4,3,0,15,vinger; draiv; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café
+6,7,7,5,2,2,4,3,0,15,vinger; draiv; kosmos; rock; raadio; rajasaare; onu; kristo; singer; kaks; café
+6,5,7,5,2,4,7,3,0,15,vinger; kosmos; rock; raadio; rajasaare; onu; kristo; singer; kaks; café; muusikanõunik
+5,4,5,5,3,4,8,3,0,15,vinger; draiv; kosmos; rock; raadio; rajasaare; kristo; singer; kaks; café
+6,3,5,4,2,3,6,3,0,15,vinger; kosmos; rock; raadio; rajasaare; kristo; singer; kaks; café
+7,2,6,7,3,3,10,6,0,15,vinger; muusikanõunik; draiv; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café
+5,3,8,7,4,2,9,5,0,15,vinger; muusikanõunik; kosmos; rock; veiko; raadio; rajasaare; onu; kristo; singer; kaks; café

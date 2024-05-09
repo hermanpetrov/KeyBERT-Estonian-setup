@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,4,4,4,2,2,5,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-7,7,3,4,5,2,2,5,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-7,7,4,4,5,2,2,6,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-7,7,5,6,5,2,2,7,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-8,7,6,6,5,3,2,7,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-7,6,7,8,5,6,6,7,5,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-6,7,6,7,7,8,7,7,6,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-7,7,7,8,7,8,7,7,7,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-6,7,7,7,8,8,7,7,8,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-6,8,7,8,8,8,6,8,8,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
-6,8,7,8,8,8,7,8,8,13,kohus; harry; usa; tony; swedbank; koalitsioon; blair; res
+9,8,5,6,4,3,3,7,6,13,liivrand; harry; blair; res; tony; reformierakond; swedbank; kohus; koalitsioon; usa
+9,8,4,6,6,3,3,7,6,13,liivrand; harry; blair; res; tony; reformierakond; swedbank; kohus; koalitsioon; usa
+9,8,5,6,6,3,3,8,6,13,liivrand; harry; blair; res; tony; reformierakond; swedbank; kohus; koalitsioon; usa
+9,8,6,8,6,3,3,9,5,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa
+10,8,8,8,6,4,3,9,5,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa
+9,7,9,10,6,7,8,9,5,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa
+8,9,8,9,8,9,9,9,7,13,liivrand; harry; blair; kohus; koalitsioon; res; tony; reformierakond; swedbank; usa
+8,9,9,10,8,10,9,9,9,13,liivrand; harry; blair; kohus; koalitsioon; res; tony; reformierakond; swedbank; usa
+7,9,8,9,10,9,9,9,10,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa
+7,10,9,10,10,10,8,10,10,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa
+7,10,9,10,10,10,8,10,10,13,liivrand; reformierakond; blair; kohus; koalitsioon; res; tony; harry; swedbank; usa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,4,3,2,5,5,4,4,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-2,4,4,3,2,5,5,4,4,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-2,4,4,3,2,5,5,4,3,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-2,4,4,3,2,5,5,4,4,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-2,4,4,3,2,5,5,5,3,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-2,4,4,3,2,4,5,4,3,15,kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
-4,5,3,5,2,4,4,5,3,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-7,4,8,4,3,4,3,4,4,15,turg; kino; sõprus; eesti; film; dokk; formaat; televisioon; produtsent
-5,2,7,4,3,3,4,5,4,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-3,1,4,2,3,1,3,5,4,15,sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
-5,4,3,4,3,3,2,4,3,15,kino; sõprus; eesti; film; dokk; turg; televisioon; produtsent; formaat
+3,6,5,5,2,5,6,5,5,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; kino; dokk; turg; sõprus; televisioon; dokumentaalfilm
+3,6,5,5,2,5,6,5,5,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; kino; dokk; turg; sõprus; televisioon; dokumentaalfilm
+3,6,5,5,2,5,6,5,5,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; kino; dokk; turg; sõprus; televisioon; dokumentaalfilm
+3,6,6,5,2,5,6,5,6,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; kino; dokk; turg; sõprus; televisioon; dokumentaalfilm
+3,6,6,5,2,5,6,7,5,15,film; eelarve; rahvusvaheline; kino; dokk; turg; sõprus; formaat; televisioon; dokumentaalfilm; produtsent; eesti
+4,6,6,5,2,5,6,6,6,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; dokk; kino; sõprus; televisioon; dokumentaalfilm
+8,8,5,7,2,5,7,7,6,15,film; eelarve; rahvusvaheline; kino; dokk; turg; sõprus; formaat; televisioon; dokumentaalfilm; produtsent; eesti; autoridokk
+10,5,10,5,3,6,5,5,5,15,film; eelarve; rahvusvaheline; dokk; kino; turg; sõprus; formaat; televisioon; dokumentaalfilm; produtsent; eesti; autoridokk
+8,4,9,5,3,4,6,7,5,15,film; eelarve; rahvusvaheline; dokk; kino; turg; sõprus; formaat; televisioon; dokumentaalfilm; produtsent; eesti
+6,2,5,3,3,2,5,6,5,15,film; produtsent; eesti; eelarve; rahvusvaheline; formaat; dokk; turg; sõprus; televisioon; dokumentaalfilm
+7,5,4,5,3,4,3,6,4,15,produtsent; film; eesti; eelarve; formaat; dokk; kino; turg; sõprus; televisioon; dokumentaalfilm

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,1,1,2,1,15,soome-ugri; ossinovski; toomas; kultuuripealinn
-0,1,2,0,0,1,1,2,1,15,soome-ugri; ossinovski; toomas; kultuuripealinn
-0,1,2,0,0,1,1,2,1,15,soome-ugri; ossinovski; toomas; kultuuripealinn
-0,1,2,0,0,1,1,2,1,15,soome-ugri; ossinovski; toomas; kultuuripealinn
-0,1,1,0,0,1,1,2,1,15,ossinovski; soome-ugri; toomas
-0,1,2,0,0,1,1,3,1,15,soome-ugri; jevgeni; ossinovski; toomas
-0,1,4,0,0,2,1,3,1,15,soome-ugri; jevgeni; ossinovski; toomas; kultuuripealinn
-0,1,3,0,0,1,1,4,1,15,soome-ugri; jevgeni; ossinovski; karjatse; tõnu; toomas; kultuuripealinn
-1,1,2,1,0,2,1,3,1,15,soome-ugri; jevgeni; sildam; ossinovski; toomas; kultuuripealinn
-0,1,2,0,0,2,2,3,1,15,soome-ugri; jevgeni; ossinovski; karjatse; tõnu; toomas; kultuuripealinn
-0,1,1,0,0,2,2,2,1,15,soome-ugri; jevgeni; ossinovski; toomas
+0,1,2,0,0,1,2,1,0,15,kultuuripealinn; soome-ugri; ossinovski; toomas
+0,1,2,0,0,1,2,1,0,15,kultuuripealinn; soome-ugri; ossinovski; toomas
+0,1,2,0,0,1,2,1,0,15,kultuuripealinn; soome-ugri; ossinovski; toomas
+0,1,2,0,0,1,2,1,0,15,kultuuripealinn; soome-ugri; ossinovski; toomas
+0,1,1,0,0,1,2,1,0,15,soome-ugri; ossinovski; toomas
+0,1,2,0,0,1,3,1,0,15,jevgeni; soome-ugri; ossinovski; toomas
+0,1,4,0,0,1,3,1,0,15,jevgeni; kultuuripealinn; soome-ugri; ossinovski; toomas
+0,1,3,0,0,1,4,1,0,15,karjatse; jevgeni; kultuuripealinn; soome-ugri; ossinovski; tõnu; toomas
+1,1,2,1,0,1,3,1,0,15,kultuuripealinn; toomas; soome-ugri; ossinovski; sildam
+0,1,2,0,0,2,3,1,0,15,karjatse; jevgeni; kultuuripealinn; soome-ugri; ossinovski; tõnu; toomas
+0,1,1,0,0,2,2,1,0,15,jevgeni; soome-ugri; ossinovski; toomas

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,0,2,0,0,1,1,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-1,1,3,1,0,1,2,3,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-2,0,2,2,1,2,3,2,2,11,rapla; mikomägi; teater; näitleja; intervjuu
-2,1,2,0,2,0,1,2,2,11,rapla; mikomägi; teater; kriitika; näitleja; intervjuu
-1,2,0,0,2,1,1,3,2,11,rapla; mikomägi; teater; voldemar; näitleja; intervjuu
-2,0,1,2,2,2,1,3,1,11,rapla; mikomägi; teater; kriitika; näitleja; intervjuu
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,0,2,0,0,1,1,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+1,1,3,1,0,1,2,3,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+2,0,2,2,1,2,3,2,2,11,mikomägi; rapla; intervjuu; näitleja; teater
+2,1,2,0,2,0,1,2,2,11,mikomägi; kriitika; rapla; intervjuu; näitleja; teater
+1,2,0,0,2,1,1,3,2,11,mikomägi; rapla; voldemar; intervjuu; näitleja; teater
+2,0,1,2,2,2,1,3,1,11,mikomägi; kriitika; rapla; intervjuu; näitleja; teater

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,0,0,0,0,12,võistlus; uusorg; veetakistus
-2,0,2,0,0,0,0,0,0,12,võistlus; uusorg; veetakistus
-2,0,2,0,0,0,0,0,0,12,võistlus; uusorg; veetakistus
-2,0,2,0,0,0,0,0,0,12,võistlus; uusorg; veetakistus
-2,0,3,0,0,0,0,0,0,12,uusorg; veetakistus; margo; võistlus
-2,0,2,0,0,0,0,0,0,12,margo; võistlus; uusorg; veetakistus
-2,0,3,0,0,0,0,1,0,12,uusorg; naisekandmine; veetakistus; margo; võistlus; ulrich
-1,0,3,0,0,0,0,0,0,12,margo; uusorg; ulrich; veetakistus
-1,0,3,0,0,0,0,0,0,12,margo; uusorg; ulrich; veetakistus
-1,0,3,0,0,0,0,1,0,12,uusorg; veetakistus; margo; ulrich
-1,0,2,0,0,0,0,1,0,12,uusorg; ulrich; veetakistus
+2,0,2,0,0,0,0,0,0,12,veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,0,0,12,veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,0,0,12,veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,0,0,12,veetakistus; uusorg; võistlus
+2,0,3,0,0,0,0,0,0,12,margo; veetakistus; uusorg; võistlus
+2,0,2,0,0,0,0,0,0,12,veetakistus; margo; uusorg; võistlus
+2,0,3,0,0,0,0,1,0,12,naisekandmine; ulrich; margo; veetakistus; uusorg; võistlus
+1,0,3,0,0,0,0,0,0,12,margo; veetakistus; ulrich; uusorg
+1,0,3,0,0,0,0,0,0,12,margo; veetakistus; ulrich; uusorg
+1,0,3,0,0,0,0,1,0,12,margo; ulrich; veetakistus; uusorg
+1,0,2,0,0,0,0,1,0,12,veetakistus; ulrich; uusorg

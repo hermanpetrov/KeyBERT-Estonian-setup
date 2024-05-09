@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,1,0,0,1,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,1,0,0,1,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,2,0,0,1,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,1,0,0,1,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,0,0,0,0,1,1,2,13,saksa-vastane; jansen; eesti; kirjutama
-0,0,0,0,0,1,0,1,2,13,saksa-vastane; eesti; kirjutama
-0,0,1,1,0,1,0,0,2,13,saksa-vastane; eesti; kirjutama
-0,0,0,0,0,2,0,0,2,13,saksa-vastane; vändra; eesti
-1,0,1,0,0,1,0,0,2,13,vändra; saksa-vastane; eesti
-1,0,1,0,0,1,0,0,2,13,vändra; saksa-vastane; eesti
+1,0,2,2,0,3,2,2,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,2,2,0,3,2,2,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,2,2,0,3,2,2,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,3,2,0,3,2,2,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,2,2,0,2,2,2,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,1,2,0,1,1,3,2,13,eesti; kirjutama; lugemisoskus; jansen; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,1,2,0,2,1,2,2,13,eesti; kirjutama; lugemisoskus; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+2,0,1,2,0,2,1,1,2,13,eesti; kirjutama; lugemisoskus; põllumees; koorilaul; saksa-vastane; üldlaulupidu; rahvapärane
+1,0,0,0,0,2,1,1,2,13,üldlaulupidu; eesti; põllumees; vändra; saksa-vastane
+2,0,1,0,0,1,1,1,2,13,üldlaulupidu; eesti; põllumees; vändra; saksa-vastane
+3,0,1,0,0,2,0,1,2,13,eesti; põllumees; koorilaul; vändra; üldlaulupidu; saksa-vastane; postimees

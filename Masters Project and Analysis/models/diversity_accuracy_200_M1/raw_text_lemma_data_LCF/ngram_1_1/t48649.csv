@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,5,4,2,6,6,5,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,7,5,4,4,5,5,5,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,7,5,4,4,4,5,6,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,7,6,4,4,5,5,7,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,6,6,4,4,6,5,7,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,6,7,4,6,6,4,7,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-7,5,7,5,6,7,4,6,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,5,7,6,7,6,5,7,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,5,8,8,7,7,6,7,6,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,6,7,7,8,7,5,7,7,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
-8,6,8,8,8,7,5,7,7,12,jooks; varustus; sport; indrek; trepp; korrus; madis; aesma
+11,8,7,7,4,7,9,8,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,10,7,7,6,6,8,8,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,10,7,7,6,7,8,9,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,10,8,7,6,8,8,10,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,8,9,7,6,9,8,10,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,8,10,7,8,9,7,10,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+10,8,10,8,8,10,7,9,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,7,10,9,9,9,8,10,7,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,7,11,11,9,10,9,10,9,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+11,7,10,9,10,10,8,10,9,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek
+10,7,11,10,10,10,8,10,10,12,seljakott; sangpomm; madis; varustus; tuletõrje; sport; jooks; trepp; korrus; aesma; indrek

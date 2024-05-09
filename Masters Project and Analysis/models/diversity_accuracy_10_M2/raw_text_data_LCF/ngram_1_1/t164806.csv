@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,1,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,1,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,1,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,0,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,0,0,0,1,1,1,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,0,0,0,0,1,0,1,12,tantsupidu; tänutunne; agu; metsamaa
-1,1,0,0,0,0,1,1,1,12,tantsupidu; metsamaa; soomaa; tänutunne; agu
-1,0,0,0,0,0,1,1,1,12,tantsupidu; tänutunne; metsamaa; soomaa
-0,0,0,0,0,0,0,0,1,12,metsamaa
-1,0,0,0,0,0,0,1,1,12,metsamaa; tänutunne; rajaste
+1,1,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,1,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,0,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,0,0,0,1,1,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,0,0,0,1,0,1,0,12,tantsupidu; tänutunne; metsamaa; agu
+1,1,0,0,0,1,1,1,0,12,tantsupidu; tänutunne; soomaa; metsamaa; agu
+1,0,0,0,0,1,1,1,0,12,tantsupidu; tänutunne; soomaa; metsamaa
+0,0,0,0,0,0,0,1,0,12,metsamaa
+1,0,0,0,0,0,1,1,0,12,metsamaa; tänutunne; rajaste

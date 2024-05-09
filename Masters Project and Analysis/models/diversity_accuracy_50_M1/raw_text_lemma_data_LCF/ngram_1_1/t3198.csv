@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,1,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,0,1,0,0,14,mälberg; koalitsioon; aktsia
-0,0,2,0,0,0,1,0,0,14,mälberg; aktsia
-0,0,2,0,0,0,0,0,0,14,mälberg; aktsia
-0,0,3,1,0,1,0,0,0,14,parts; aktsia; mälberg; juhan
-0,0,3,0,1,1,1,1,0,14,parts; koalitsioon; mälberg; juhan; mall
-0,0,3,0,1,1,2,0,0,14,parts; koalitsioon; mälberg; mall
+2,0,3,1,0,2,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+2,0,3,1,0,2,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+2,0,3,1,0,2,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+2,0,3,1,0,2,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+2,0,3,1,0,2,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+2,0,4,1,0,1,1,0,0,14,hansapank; liivrand; aktsia; läbirääkimine; mälberg; enesetapuplahvatus; koalitsioon
+3,0,3,1,0,0,3,0,0,14,võimuvõitlus; hansapank; mälberg; enesetapuplahvatus; välisminister; läbirääkimine; aktsia
+0,0,3,1,0,1,1,1,0,14,võimuvõitlus; hansapank; välisminister; aktsia; mälberg
+1,0,4,1,0,2,3,2,0,14,võimuvõitlus; hansapank; parts; liivrand; mälberg; enesetapuplahvatus; välisminister; juhan; aktsia
+1,0,4,0,1,1,4,2,0,14,võimuvõitlus; hansapank; parts; liivrand; mälberg; enesetapuplahvatus; mall; välisminister; juhan; läbirääkimine; koalitsioon
+1,0,4,0,1,1,5,0,0,14,võimuvõitlus; hansapank; parts; liivrand; mälberg; enesetapuplahvatus; mall; läbirääkimine; koalitsioon

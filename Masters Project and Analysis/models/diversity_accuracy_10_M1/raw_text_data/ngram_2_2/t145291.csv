@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,1,0,10,leho
 0,1,0,0,0,0,0,1,0,10,leho
 0,1,0,0,0,0,0,1,0,10,leho
-0,0,1,0,0,1,0,1,0,10,leho; sõnum; poiss
-1,1,1,0,0,1,0,1,0,10,leho; sõnum; poiss
+0,0,1,0,0,1,0,1,0,10,leho; poiss; sõnum
+1,1,1,0,0,1,0,1,0,10,poiss; leho; sõnum
 0,1,0,0,0,1,1,1,0,10,leho; poiss
-0,0,0,1,0,0,1,0,0,10,sülitama; poiss
-0,0,0,2,0,1,1,0,0,10,sülitama; poiss; puu
+0,0,0,1,0,0,1,0,0,10,poiss; sülitama
+0,0,0,2,0,1,1,0,0,10,puu; poiss; sülitama
 0,0,1,1,0,0,1,0,0,10,leho; poiss; puu

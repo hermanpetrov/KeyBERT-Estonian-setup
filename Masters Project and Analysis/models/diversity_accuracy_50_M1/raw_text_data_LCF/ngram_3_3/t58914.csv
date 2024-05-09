@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,0,1,4,3,4,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus; tamm
-2,4,2,0,1,4,3,4,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus; tamm
-2,4,2,0,1,4,3,4,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus; tamm
-2,4,2,0,1,4,3,4,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus; tamm
-2,3,2,0,1,4,3,4,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus
-1,3,1,0,1,5,4,2,0,11,kaarel; rand; orviku; geoloogia; sadam; prognoos; veetõus
-1,1,2,3,1,4,2,4,0,11,kaarel; liivarand; orviku; geoloogia; sadam; prognoos; veetõus
-2,2,2,3,1,3,2,2,0,11,kaarel; rand; orviku; sadam; prognoos; geoloogia; veetõus
-2,2,2,0,1,3,2,2,0,11,sadam; prognoos; kaarel; orviku; liivarand; veetõus; tamm
-1,1,3,0,2,2,3,3,0,11,kaarel; liivarand; orviku; sadam; prognoos; veetõus
-2,1,2,0,2,2,2,3,0,11,kaarel; orviku; geoloogia; sadam; prognoos; veetõus; tamm
+2,4,2,0,1,3,4,0,0,11,tamm; geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+2,4,2,0,1,3,4,0,0,11,tamm; geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+2,4,2,0,1,3,4,0,0,11,tamm; geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+2,4,2,0,1,3,4,0,0,11,tamm; geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+2,3,2,0,1,3,4,0,0,11,geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+1,3,1,0,1,4,2,0,0,11,geoloogia; orviku; rand; kaarel; veetõus; sadam
+1,1,2,3,1,2,4,0,0,11,liivarand; geoloogia; orviku; kaarel; veetõus; prognoos; sadam
+2,2,2,3,1,2,2,0,0,11,geoloogia; orviku; rand; kaarel; veetõus; prognoos; sadam
+2,2,2,0,1,2,2,0,0,11,kaarel; veetõus; tamm; prognoos; sadam; orviku
+1,1,3,0,2,3,3,0,0,11,liivarand; orviku; kaarel; veetõus; prognoos; sadam
+2,1,2,0,2,2,3,0,0,11,tamm; geoloogia; orviku; kaarel; veetõus; prognoos; sadam

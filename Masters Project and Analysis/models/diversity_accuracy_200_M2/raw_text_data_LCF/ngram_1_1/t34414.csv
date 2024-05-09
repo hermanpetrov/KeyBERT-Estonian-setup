@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,3,10,3,1,8,6,5,5,16,eurole; laevaliiklus; rahvakultuurifestival; ida-virumaa; üleeuroopaline; elering; osaühing; juurapiid; tartu; komisjon; euroopa
-8,4,8,3,1,7,6,7,5,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
-8,4,7,3,1,6,5,7,5,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
-8,4,5,3,2,5,5,6,5,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
-8,4,7,1,2,5,6,6,5,16,eurole; laevaliiklus; rahvakultuurifestival; osaühing; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
-7,3,5,2,2,5,5,4,5,16,eurole; laevaliiklus; osaühing; rahvakultuurifestival; euroopa; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; elering
-6,4,6,5,2,5,5,5,5,16,eurole; elering; laevaliiklus; osaühing; rahvakultuurifestival; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
-3,3,6,6,3,3,4,3,5,16,eurole; elering; laevaliiklus; rahvakultuurifestival; osaühing; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
-5,3,5,4,5,4,4,4,4,16,eurole; elering; laevaliiklus; osaühing; rahvakultuurifestival; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
-5,3,5,3,3,4,4,4,4,16,eurole; elering; laevaliiklus; rahvakultuurifestival; osaühing; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
-5,3,5,3,4,4,2,5,3,16,eurole; elering; laevaliiklus; rahvakultuurifestival; osaühing; ida-virumaa; juurapiid; tartu; komisjon; üleeuroopaline; euroopa
+8,3,10,3,1,6,5,5,0,16,üleeuroopaline; eurole; komisjon; tartu; osaühing; euroopa; ida-virumaa; juurapiid; elering; rahvakultuurifestival; laevaliiklus
+8,4,8,3,1,6,7,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; eurole; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+8,4,7,3,1,5,7,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; eurole; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+8,4,5,3,2,5,6,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; eurole; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+8,4,7,1,2,6,6,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; eurole; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+7,3,5,2,2,5,4,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; eurole; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+6,4,6,5,2,5,5,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; komisjon; eurole; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+3,3,6,6,3,4,3,5,0,16,juurapiid; elering; üleeuroopaline; rahvakultuurifestival; komisjon; eurole; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+5,3,5,4,5,4,4,4,0,16,juurapiid; elering; eurole; üleeuroopaline; rahvakultuurifestival; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+5,3,5,3,3,4,4,4,0,16,juurapiid; elering; eurole; üleeuroopaline; rahvakultuurifestival; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa
+5,3,5,3,4,2,5,3,0,16,juurapiid; elering; eurole; üleeuroopaline; rahvakultuurifestival; komisjon; tartu; osaühing; laevaliiklus; euroopa; ida-virumaa

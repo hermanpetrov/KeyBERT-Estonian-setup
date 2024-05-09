@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,0,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,0,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,0,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,0,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,1,0,1,2,12,iraan; moskva; afganistan
-0,0,0,0,0,1,0,1,2,12,iraan; moskva; afganistan
-1,0,0,0,0,1,0,2,2,12,iraan; afganistan; teater; moskva
-0,0,0,1,0,1,0,0,2,12,teater; moskva; afganistan
-1,0,0,0,0,1,0,0,3,12,afganistan; liit; teater; süda; moskva
-0,0,0,0,0,0,1,1,2,12,teater; afganistan; liit
+0,0,0,0,0,0,0,1,2,12,moskva; iraan; afganistan
+0,0,0,0,0,0,0,1,2,12,afganistan; moskva; iraan
+0,0,0,0,0,0,0,1,2,12,afganistan; moskva; iraan
+0,0,0,0,0,0,0,1,2,12,afganistan; moskva; iraan
+0,0,0,0,0,0,0,1,2,12,afganistan; moskva; iraan
+0,0,1,0,0,1,0,1,2,12,moskva; afganistan; nõukogu; iraan
+0,0,0,0,0,1,0,1,2,12,moskva; iraan; afganistan
+1,0,0,0,0,1,0,2,2,12,moskva; afganistan; iraan; teater
+0,0,0,1,0,1,0,0,2,12,moskva; teater; afganistan
+1,0,0,0,0,1,0,0,3,12,afganistan; moskva; süda; liit; teater
+0,0,0,0,0,0,1,1,2,12,afganistan; teater; liit

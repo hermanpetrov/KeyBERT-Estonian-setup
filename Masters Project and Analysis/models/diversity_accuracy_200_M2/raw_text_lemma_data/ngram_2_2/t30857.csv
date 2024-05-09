@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,1,4,4,3,3,3,5,15,separaat; psühhiaater; vaino; luiga; liit; identiteet; dramaturg; vahing
-5,6,1,4,5,3,3,3,5,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
-5,6,1,5,5,4,3,3,5,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
-6,7,1,6,6,4,3,5,5,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
-6,6,3,7,6,3,3,4,4,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
-6,5,3,6,5,6,3,5,2,15,separaat; psühhiaater; vaino; luiga; šbiil; mati; liit; identiteet; dramaturg; vahing
-5,4,5,3,7,2,4,6,2,15,psühhiaater; separaat; juhan; vaino; luiga; mati; liit; identiteet; dramaturg; vahing
-5,3,7,5,7,4,3,8,2,15,psühhiaater; separaat; juhan; vaino; luiga; mati; liit; identiteet; dramaturg; vahing
-5,2,6,4,8,3,5,9,2,15,mati; dramaturg; psühhiaater; separaat; vaino; vahing; luiga; liit; identiteet; juhan
-5,5,3,4,7,2,5,7,3,15,psühhiaater; separaat; juhan; vaino; luiga; mati; šbiil; liit; identiteet; dramaturg; vahing
-4,4,8,5,5,2,6,8,2,15,psühhiaater; separaat; juhan; vaino; luiga; mati; šbiil; liit; identiteet; dramaturg; vahing
+6,6,2,4,4,3,3,3,6,15,dramaturg; vahing; psühhiaater; luiga; separaat; vaino; nõukogu; identiteet; üksikisik; liit
+6,7,2,4,5,3,3,3,6,15,dramaturg; vahing; šbiil; psühhiaater; luiga; separaat; mati; vaino; nõukogu; identiteet; üksikisik; liit
+6,7,1,5,5,4,3,3,6,15,dramaturg; vahing; šbiil; psühhiaater; luiga; separaat; mati; vaino; nõukogu; identiteet; liit
+7,8,2,6,6,4,3,6,6,15,dramaturg; vahing; šbiil; psühhiaater; luiga; separaat; mati; vaino; nõukogu; identiteet; üksikisik; liit
+7,7,4,7,6,3,3,6,5,15,dramaturg; vahing; šbiil; psühhiaater; luiga; separaat; mati; vaino; nõukogu; identiteet; üksikisik; liit
+7,6,4,6,5,7,4,7,3,15,dramaturg; vahing; šbiil; psühhiaater; luiga; separaat; mati; vaino; nõukogu; identiteet; üksikisik; liit
+5,5,6,4,8,2,5,7,3,15,dramaturg; vahing; psühhiaater; luiga; separaat; mati; vaino; juhan; nõukogu; identiteet; liit
+5,4,8,6,8,5,4,9,3,15,vahing; psühhiaater; separaat; vaino; juhan; nõukogu; liit; dramaturg; luiga; mati; identiteet
+5,4,7,5,9,4,6,10,3,15,vahing; psühhiaater; separaat; vaino; juhan; nõukogu; liit; dramaturg; luiga; mati; identiteet; üksikisik
+5,7,4,5,8,3,6,8,4,15,vahing; psühhiaater; separaat; vaino; juhan; nõukogu; liit; dramaturg; šbiil; luiga; mati; identiteet; üksikisik
+4,6,9,6,6,3,7,9,3,15,vahing; psühhiaater; separaat; vaino; juhan; nõukogu; liit; dramaturg; šbiil; luiga; mati; identiteet; üksikisik

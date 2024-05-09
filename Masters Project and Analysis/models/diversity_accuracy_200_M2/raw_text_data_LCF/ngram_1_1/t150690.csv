@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,8,1,1,4,7,6,3,16,põhialused; ülikool; õpetaja; eesti; haridus; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-3,1,8,1,1,4,7,6,3,16,põhialused; ülikool; õpetaja; eesti; haridus; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-3,1,7,1,1,3,6,6,3,16,põhialused; ülikool; õpetaja; eesti; haridus; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-3,1,6,0,1,3,5,3,3,16,põhialused; ülikool; õpetaja; eesti; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-3,1,2,0,1,4,3,3,3,16,põhialused; ülikool; eesti; arengukava; haridus-; rahvusvaheline; keelepoliitika; keel
-2,1,2,1,1,2,4,3,3,16,põhialused; ülikool; sotsiaalmeedia; eesti; haridus-; rahvusvaheline; keelepoliitika; keel
-2,2,0,1,1,2,2,2,3,16,põhialused; ülikool; ja; sotsiaalmeedia; eesti; haridus-
-1,1,2,3,1,3,1,2,3,16,põhialused; ülikool; ja; sotsiaalmeedia; eesti; haridus-; rahvusvaheline; keel
-3,1,1,2,1,2,2,4,3,16,põhialused; ülikool; ja; sotsiaalmeedia; eesti; haridus-; rahvusvaheline; keel
-3,2,3,2,1,2,1,2,3,16,põhialused; ülikool; õpetaja; ja; sotsiaalmeedia; eesti; haridus-; rahvusvaheline; keel
-3,3,0,2,0,3,2,2,3,16,põhialused; ülikool; õpetaja; ja; sotsiaalmeedia; eesti; haridus; haridus-; rahvusvaheline
+3,1,8,1,1,7,6,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; keel; haridus; õpetaja; arengukava
+3,1,8,1,1,7,6,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; keel; haridus; õpetaja; arengukava
+3,1,7,1,1,6,6,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; keel; haridus; õpetaja; arengukava
+3,1,6,0,1,5,3,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; keel; õpetaja; arengukava
+3,1,2,0,1,3,3,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; keelepoliitika; keel; arengukava
+2,1,2,1,1,4,3,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; sotsiaalmeedia; keelepoliitika; keel
+2,2,0,1,1,2,2,3,0,16,haridus-; eesti; põhialused; ülikool; ja; sotsiaalmeedia
+1,1,2,3,1,1,2,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; ja; sotsiaalmeedia; keel
+3,1,1,2,1,2,4,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; ja; sotsiaalmeedia; keel
+3,2,3,2,1,1,2,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; ja; sotsiaalmeedia; keel; õpetaja
+3,3,0,2,0,2,2,3,0,16,haridus-; eesti; põhialused; ülikool; rahvusvaheline; ja; sotsiaalmeedia; haridus; õpetaja

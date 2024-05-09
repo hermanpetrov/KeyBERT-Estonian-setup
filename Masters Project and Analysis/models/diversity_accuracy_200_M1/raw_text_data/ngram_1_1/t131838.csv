@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,2,0,1,2,1,17,ameerika; ivo; linna; maania; biitlid; bbc; lennon
-1,1,1,1,3,0,1,2,1,17,ameerika; ivo; linna; maania; biitlid; bbc; lennon
-1,1,2,1,3,0,1,1,1,17,ivo; linna; maania; biitlid; mccartney; bbc; lennon
-1,3,3,1,3,1,2,1,1,17,ivo; linna; mccartney; lennon; bbc; maania; biitlid; epstein
-1,3,3,1,3,2,2,2,1,17,ivo; linna; mccartney; lennon; bbc; vello; maania; biitlid; epstein
-1,3,3,2,4,2,4,1,1,17,ameerika; ivo; linna; ringo; brian; mccartney; bbc; lennon; vello; fänn; maania; biitlid; epstein
-2,3,5,2,5,2,3,2,1,17,ringo; ivo; linna; brian; vello; mccartney; bbc; lennon; maania; biitlid; epstein
-1,4,3,4,7,2,4,2,0,17,ameerika; ivo; linna; ringo; brian; mccartney; bbc; john; vello; lennon; maania; epstein
-2,3,3,4,7,2,3,4,2,17,ringo; linna; brian; vello; bbc; mccartney; john; lennon; salumets; maania; epstein
-1,3,2,3,7,3,4,1,2,17,ringo; linna; brian; mccartney; vello; bbc; lennon; john; salumets; maania; epstein
-1,2,2,5,7,2,4,3,3,17,ringo; linna; brian; mccartney; bbc; john; lennon; salumets; maania; epstein
+1,1,1,1,2,0,1,2,1,17,biitlid; maania; lennon; linna; bbc; ameerika; ivo
+1,1,1,1,3,0,1,2,1,17,biitlid; maania; lennon; linna; bbc; ameerika; ivo
+1,1,2,1,3,0,1,1,1,17,biitlid; maania; mccartney; lennon; linna; bbc; ivo
+1,3,3,1,3,1,2,1,1,17,biitlid; maania; lennon; epstein; linna; mccartney; bbc; ivo
+1,3,3,1,3,2,2,2,1,17,biitlid; maania; lennon; epstein; linna; mccartney; vello; bbc; ivo
+1,3,3,2,4,2,4,1,1,17,biitlid; maania; lennon; fänn; epstein; linna; brian; ameerika; ringo; mccartney; vello; bbc; ivo
+2,3,5,2,5,2,3,2,1,17,biitlid; maania; lennon; epstein; linna; brian; ringo; mccartney; vello; bbc; ivo
+1,4,3,4,7,2,4,2,0,17,maania; lennon; epstein; linna; brian; ameerika; john; ringo; mccartney; vello; bbc; ivo
+2,3,3,4,7,2,3,4,2,17,maania; lennon; epstein; linna; brian; john; ringo; mccartney; salumets; vello; bbc
+1,3,2,3,7,3,4,1,2,17,maania; lennon; epstein; linna; brian; john; ringo; mccartney; salumets; vello; bbc
+1,2,2,5,7,2,4,3,3,17,maania; lennon; epstein; linna; brian; john; ringo; mccartney; salumets; bbc

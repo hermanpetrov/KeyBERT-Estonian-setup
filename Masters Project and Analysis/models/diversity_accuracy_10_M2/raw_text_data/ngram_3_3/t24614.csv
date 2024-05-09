@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,3,2,1,1,2,2,2,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,3,2,1,1,2,2,3,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-0,2,2,2,1,2,2,4,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-1,2,2,0,1,2,1,3,2,12,indoeuroopa; keel; eesti; alaväärsustunne
-1,1,2,1,1,2,3,4,2,12,indoeuroopa; kõnekeel; keel; eesti; alaväärsustunne
+0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,3,3,1,1,2,2,2,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,3,2,1,1,2,2,2,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,3,2,1,1,2,2,3,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+0,2,2,2,1,2,2,4,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+1,2,2,0,1,2,1,3,2,12,indoeuroopa; keel; alaväärsustunne; eesti
+1,1,2,1,1,2,3,4,2,12,indoeuroopa; keel; alaväärsustunne; eesti; kõnekeel
 0,1,3,1,1,2,2,3,2,12,indoeuroopa; keel; eesti
-2,1,2,0,3,3,2,3,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; keel; süsteem
+2,1,2,0,3,3,2,3,1,12,indoeuroopa; eesti; süsteem; kõnekeel; isereguleeruv; keel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,0,0,0,1,15,aasta
-0,1,1,0,0,0,0,0,1,15,aasta
-0,0,1,0,0,1,0,0,1,15,aasta; laidoner
-0,1,0,1,0,0,0,0,1,15,aasta; muuseum
-0,1,0,0,0,0,0,1,1,15,aasta; laidoner
-0,0,0,0,0,0,0,1,1,15,aasta; laidoner
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+1,1,1,0,0,1,1,0,1,15,konkurentsivõime; aasta; rahvusvaheline
+0,2,1,0,0,0,0,0,1,15,konkurentsivõime; aasta
+1,1,2,0,0,1,1,1,1,15,pakendiorganisatsioon; konkurentsivõime; laidoner; filmiajakirjanik; aasta
+0,2,1,1,0,0,1,0,1,15,pakendiorganisatsioon; konkurentsivõime; filmiajakirjanik; aasta; muuseum
+1,2,1,1,0,0,1,1,1,15,pakendiorganisatsioon; konkurentsivõime; laidoner; filmiajakirjanik; aasta
+1,1,1,0,0,0,0,1,1,15,pakendiorganisatsioon; konkurentsivõime; laidoner; filmiajakirjanik; aasta

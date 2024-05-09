@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa
-0,1,1,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa
-0,1,1,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa
-0,1,1,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa
-0,1,2,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa; saar
-0,1,3,2,3,2,1,0,1,18,regioon; andrus; ansip; indrek; ilves; komisjon; euroopa; saar
-0,1,3,2,3,1,1,0,1,18,andrus; ansip; indrek; ilves; komisjon; euroopa; saar
-3,3,1,2,3,1,2,0,2,18,ansip; indrek; regioon; saar; andrus; ilves; komisjon; euroopa
-3,3,1,1,3,1,1,0,2,18,indrek; ilves; saar; andrus; ansip; komisjon; euroopa
-0,4,3,1,3,1,2,0,2,18,indrek; regioon; ilves; saar; andrus; ansip; komisjon; euroopa
-0,6,4,3,3,1,2,0,2,18,indrek; karulin; regioon; ilves; saar; andrus; ott; ansip; komisjon; euroopa
+0,2,3,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon
+0,2,3,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon
+0,2,3,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon
+0,2,3,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon
+0,2,4,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon; saar
+0,2,5,4,3,2,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; regioon; saar
+0,2,4,5,3,1,1,2,1,18,andrus; eelarve; komisjon; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; saar
+3,4,1,4,3,1,2,1,2,18,andrus; eelarve; komisjon; spordisõnum; ansip; ilves; päevakada; euroopa; indrek; regioon; saar
+3,4,2,3,4,2,1,2,2,18,andrus; komisjon; eelarve; spordisõnum; ansip; abikaasa; ilves; päevakada; euroopa; indrek; saar
+0,5,3,3,4,1,2,2,2,18,andrus; komisjon; eelarve; spordisõnum; ansip; ilves; abikaasa; päevakada; euroopa; indrek; regioon; saar
+0,7,5,5,3,1,2,2,2,18,andrus; karulin; komisjon; eelarve; ott; spordisõnum; ansip; ilves; päevakada; euroopa; indrek; regioon; saar

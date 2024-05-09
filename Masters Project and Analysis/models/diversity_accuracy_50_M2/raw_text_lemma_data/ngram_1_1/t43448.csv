@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,1,1,1,1,0,15,lübeck; ekspositsioon; hoone; ivar; kelder
-0,1,3,0,1,1,1,1,0,15,lübeck; ekspositsioon; hoone; ivar; kelder
-0,1,3,0,1,1,1,1,0,15,lübeck; ekspositsioon; hoone; ivar; kelder
-0,1,2,0,1,1,1,1,0,15,lübeck; hoone; ivar; kelder
-0,1,2,0,1,1,1,1,0,15,lübeck; hoone; ivar; kelder
-0,1,2,0,1,0,1,1,0,15,lübeck; hoone; ivar; kelder
-0,1,1,0,1,0,2,1,0,15,lübeck; hoone; ivar; kelder
-0,1,1,1,1,1,1,1,0,15,lübeck; hoone; ivar; kelder
-1,0,3,0,1,1,1,0,0,15,lübeck; ekspositsioon; muusik; ivar; kelder
-1,0,1,1,1,1,1,0,0,15,lübeck; ekspositsioon; ivar; kelder
-1,0,1,1,0,0,1,0,0,15,lübeck; ekspositsioon; kelder
+1,2,4,0,1,3,3,2,2,15,lübeck; kelder; ivar; ekspositsioon; erakogu; hoone; ajaloomuuseum
+1,2,4,0,1,3,3,2,2,15,lübeck; kelder; ivar; ekspositsioon; erakogu; hoone; ajaloomuuseum
+1,2,4,0,1,3,3,2,2,15,lübeck; kelder; ivar; ekspositsioon; erakogu; hoone; ajaloomuuseum
+1,2,3,0,1,3,3,2,2,15,lübeck; kelder; ivar; erakogu; hoone; ajaloomuuseum
+1,2,3,0,1,3,2,2,2,15,lübeck; erakogu; hoone; ajaloomuuseum; kelder; ivar
+0,2,3,0,1,0,2,1,2,15,lübeck; erakogu; hoone; ajaloomuuseum; kelder; ivar
+0,1,2,0,1,1,2,1,2,15,lübeck; erakogu; hoone; ajaloomuuseum; kelder; ivar
+0,1,2,2,1,2,1,1,1,15,lübeck; erakogu; hoone; ajaloomuuseum; kelder; ivar
+1,0,4,0,1,1,1,1,2,15,lübeck; kelder; ivar; ekspositsioon; erakogu; ajaloomuuseum; muusik
+1,0,2,1,1,1,1,1,2,15,lübeck; ekspositsioon; erakogu; ajaloomuuseum; kelder; ivar
+1,0,2,1,0,0,1,1,1,15,lübeck; ekspositsioon; erakogu; ajaloomuuseum; kelder

@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,13,marco
 0,0,1,0,0,0,0,0,1,13,marco; eesti
 0,0,1,0,0,1,0,0,1,13,marco; eesti
-0,0,1,0,0,1,0,0,1,13,marco; laimre; eesti
-0,0,1,0,0,3,0,0,1,13,marco; laimre; eesti; näitus
-0,0,1,0,0,3,0,0,1,13,marco; laimre; eesti; näitus
-0,0,1,0,0,2,0,0,1,13,marco; laimre; eesti
-0,0,2,0,0,3,0,0,1,13,laimre; marco; eesti; näitus
+0,0,1,0,0,1,0,0,1,13,marco; eesti; laimre
+0,0,1,0,0,3,0,0,1,13,marco; eesti; näitus; laimre
+0,0,1,0,0,3,0,0,1,13,marco; eesti; näitus; laimre
+0,0,1,0,0,2,0,0,1,13,marco; eesti; laimre
+0,0,2,0,0,3,0,0,1,13,laimre; eesti; marco; näitus
 0,0,1,0,0,1,0,0,1,13,marco; eesti

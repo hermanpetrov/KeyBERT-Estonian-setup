@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,1,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,1,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,1,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,0,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,0,0,1,1,1,1,0,16,tantsupidu; agu; arm
-0,1,0,0,1,0,1,0,0,16,tantsupidu; agu; arm
-0,1,0,0,1,0,1,0,0,16,tantsupidu; agu; arm
-0,0,0,0,1,0,1,0,0,16,tantsupidu; arm
+0,1,1,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,1,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,1,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,1,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,0,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,0,0,1,1,1,0,0,16,tantsupidu; arm; agu
+0,1,0,0,1,1,0,0,0,16,tantsupidu; arm; agu
+0,1,0,0,1,1,0,0,0,16,tantsupidu; arm; agu
+0,0,0,0,1,1,0,0,0,16,tantsupidu; arm
 0,0,0,0,1,0,0,0,0,16,arm
-0,1,0,0,1,0,0,1,0,16,maa; rajaste; arm
+0,1,0,0,1,0,1,0,0,16,rajaste; arm; maa

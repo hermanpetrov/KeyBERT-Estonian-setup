@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,1,1,11,moskva; kongress
-0,0,1,0,0,0,0,1,1,11,moskva; kongress
-0,0,1,0,0,0,0,1,1,11,moskva; kongress
-0,0,1,0,0,0,0,1,1,11,moskva; kongress
-0,0,0,0,0,0,0,1,1,11,moskva
-0,0,0,0,0,0,0,1,1,11,moskva
-0,0,1,0,0,0,0,0,1,11,teater; moskva
-1,1,0,1,0,1,0,0,0,11,teater; moskva; usa
+0,0,1,0,0,0,0,1,2,11,moskva; nõukogu; kongress
+0,0,1,0,0,0,0,1,2,11,moskva; nõukogu; kongress
+0,0,1,0,0,0,0,1,2,11,moskva; nõukogu; kongress
+0,0,1,0,0,0,0,1,2,11,moskva; nõukogu; kongress
+0,0,0,0,0,0,0,1,2,11,moskva; nõukogu
+0,0,0,0,0,0,0,1,2,11,moskva; nõukogu
+0,0,1,0,0,0,0,0,2,11,moskva; nõukogu; teater
+1,1,0,1,0,1,0,0,1,11,moskva; nõukogu; teater; usa
 1,0,0,1,0,1,0,0,0,11,moskva; kongress
-0,0,0,0,0,1,0,0,0,11,teater
+0,0,1,0,0,1,0,0,0,11,nõukogu; teater
 1,1,0,0,0,0,0,0,0,11,moskva; kongress

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; vene; ülar; autor
-1,3,3,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; ülar
-2,3,5,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; vene; ülar; autor
-0,5,5,0,2,2,2,4,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; vene; ülar; autor
-0,5,5,0,2,2,2,6,0,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; vene; ülar; autor
-3,5,5,0,1,3,2,6,1,15,tõlge; jevgeni; lauk; reaalsusest; vikerraadio; vene; ülar; autor
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,autor; vene; reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+1,3,3,0,2,2,4,0,0,15,reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+2,3,5,0,2,2,4,0,0,15,autor; vene; reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+0,5,5,0,2,2,4,0,0,15,autor; vene; reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+0,5,5,0,2,2,6,0,0,15,autor; vene; reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk
+3,5,5,0,1,2,6,1,0,15,autor; vene; reaalsusest; ülar; jevgeni; tõlge; vikerraadio; lauk

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,3,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kliimamuudatused
-0,2,3,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kliimamuudatused
-0,2,3,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kliimamuudatused
-0,2,3,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kliimamuudatused
-0,2,3,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kliimamuudatused
-0,2,4,0,0,0,0,0,0,17,presidendivalimised; muinaslaev; venemaa; kreeka; kliimamuudatused
-0,2,4,0,0,2,0,0,0,17,presidendivalimised; muinaslaev; jürgen; venemaa; kreeka; kliimamuudatused
-0,3,4,3,0,3,1,0,0,17,festival; ligi; pärimusmuusika; venemaa; kliimamuudatused; presidendivalimised; muinaslaev; jürgen; kreeka
-0,2,4,3,0,1,1,0,0,17,festival; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; presidendivalimised; jürgen; kreeka
-1,3,4,1,0,1,3,1,0,17,venemaa; kosmosesüstik; kliimamuudatused; viljandi; presidendivalimised; jürgen; kreeka
-1,3,3,0,0,1,2,1,0,17,viljandi; presidendivalimised; jürgen; venemaa; kreeka; kliimamuudatused
+0,2,3,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised
+0,2,3,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised
+0,2,3,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised
+0,2,3,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised
+0,2,3,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised
+0,2,4,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; kreeka; presidendivalimised
+0,2,4,0,0,0,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; presidendivalimised; jürgen
+0,3,4,3,0,1,0,0,0,17,kliimamuudatused; muinaslaev; venemaa; kreeka; presidendivalimised; jürgen; pärimusmuusika; festival
+0,2,4,3,0,1,0,0,0,17,kliimamuudatused; venemaa; presidendivalimised; pärimusmuusika; kosmosesüstik; kreeka; jürgen; festival
+1,3,4,1,0,3,1,0,0,17,kliimamuudatused; venemaa; presidendivalimised; kosmosesüstik; kreeka; viljandi; jürgen
+1,3,3,0,0,2,1,0,0,17,kliimamuudatused; venemaa; kreeka; presidendivalimised; viljandi; jürgen

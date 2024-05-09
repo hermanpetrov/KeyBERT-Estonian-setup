@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,10,6,6,8,4,4,6,9,16,bob; dylan; kolmas; henry; koloonia; esimene; robert; loss; elizabeth; sõda; edward
-7,9,7,6,8,5,4,6,9,16,bob; dylan; kolmas; henry; koloonia; esimene; robert; loss; elizabeth; sõda; edward
-7,9,8,6,8,5,4,6,9,16,bob; dylan; kolmas; henry; koloonia; esimene; robert; loss; elizabeth; sõda; edward
-7,9,8,6,8,5,4,6,9,16,bob; dylan; kolmas; henry; koloonia; esimene; robert; loss; elizabeth; sõda; edward
-8,9,8,6,8,5,4,7,7,16,bob; kolmas; dylan; henry; koloonia; esimene; robert; loss; elizabeth; sõda; edward
-10,9,9,8,8,8,6,9,7,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
-7,7,9,8,8,9,5,10,8,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
-7,7,9,9,7,9,7,9,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
-8,7,7,8,8,9,5,9,9,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
-6,8,7,8,8,8,8,10,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
-5,9,5,7,8,8,9,10,6,16,bob; kolmas; dylan; henry; esimene; koloonia; robert; loss; elizabeth; sõda; edward
+9,13,8,7,8,6,5,7,10,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+9,12,9,7,8,7,5,7,10,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+9,12,10,7,8,7,5,7,10,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+9,12,10,8,8,7,5,7,10,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+9,12,9,8,8,7,5,8,8,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+12,12,10,10,8,10,7,12,9,16,elizabeth; robert; mägismaa; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+8,10,11,10,8,10,6,13,10,16,elizabeth; robert; mägismaa; edward; sõda; koloonia; dylan; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+10,9,12,9,8,10,9,12,8,16,elizabeth; mägismaa; robert; edward; sõda; dylan; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+8,8,10,8,9,10,7,10,11,16,elizabeth; robert; mägismaa; edward; sõda; dylan; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+6,11,8,8,9,9,10,12,7,16,elizabeth; robert; mägismaa; edward; sõda; dylan; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+5,11,7,7,9,9,11,11,7,16,elizabeth; robert; mägismaa; edward; dylan; koloonia; sõda; loss; esimene; mereriik; kolmas; bob; sotimaa; henry

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,0,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,0,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,0,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,0,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,1,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,1,0,1,0,0,0,1,14,detail; töö; jääma
-0,1,1,0,1,0,1,0,1,14,detail; töö; ülo; jääma
-0,0,1,0,1,0,1,0,1,14,detail; töö; ülo
-0,0,1,1,1,0,0,0,1,14,detail; töö; suitsetamine; ülo
-0,0,1,0,1,0,1,0,0,14,detail; ülo
+0,1,1,1,1,1,1,0,1,14,töö; detail; vanaisa; jääma
+0,1,1,1,1,1,1,0,1,14,töö; detail; vanaisa; jääma
+0,1,1,1,1,1,1,0,1,14,töö; detail; vanaisa; jääma
+0,1,1,1,1,1,1,0,1,14,töö; detail; vanaisa; jääma
+0,1,1,1,1,1,1,1,1,14,töö; detail; vanaisa; jääma
+0,1,2,1,1,1,1,1,1,14,jääma; töö; detail; vanaisa
+0,1,2,1,1,1,1,1,1,14,töö; detail; vanaisa; jääma
+0,1,1,1,1,1,2,0,1,14,ülo; jääma; töö; detail; vanaisa
+0,0,1,1,1,1,2,0,1,14,töö; ülo; detail; vanaisa
+0,0,1,2,1,2,1,0,1,14,videvikupidamine; ülo; töö; suitsetamine; detail; vanaisa
+0,0,1,1,1,1,2,0,0,14,ülo; detail; vanaisa

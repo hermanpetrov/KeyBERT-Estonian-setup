@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,1,1,1,2,1,12,ujumine; triatlon; sport; täispikk; ain; üheksa
-1,2,1,1,1,1,1,2,1,12,ujumine; triatlon; sport; täispikk; ain; üheksa
-1,2,1,1,1,1,1,2,1,12,ujumine; triatlon; sport; täispikk; ain; üheksa
-1,2,1,1,1,1,1,2,1,12,ujumine; triatlon; sport; täispikk; ain; üheksa
-1,2,3,1,1,1,1,1,1,12,ujumine; triatlon; sport; täispikk; ain; üheksa
-1,1,1,1,1,1,1,2,1,12,ujumine; triatlon; sport; rattasõit; ain
-2,0,1,0,2,1,1,2,0,12,ujumine; triatlon; sport; rattasõit; ain; jooksma; üheksa
-2,0,0,3,1,0,1,2,1,12,ujumine; triatlon; rattasõit; ain; üheksa
-2,0,0,2,1,1,2,1,1,12,ujumine; triatlon; sport; ain; jooksma; üheksa
-2,0,0,1,1,1,1,2,0,12,ujumine; triatlon; rattasõit; ain; jooksma; üheksa
-2,0,2,1,1,1,1,3,0,12,ujumine; rattasõit; ain; jooksma; üheksa
+1,2,1,1,1,1,1,2,1,12,ain; ujumine; üheksa; täispikk; sport; triatlon
+1,2,1,1,1,1,1,2,1,12,ain; ujumine; üheksa; täispikk; sport; triatlon
+1,2,1,1,1,1,1,2,1,12,ain; ujumine; üheksa; täispikk; sport; triatlon
+1,2,1,1,1,1,1,2,1,12,ain; ujumine; üheksa; täispikk; sport; triatlon
+1,2,3,1,1,1,1,1,1,12,ain; ujumine; üheksa; täispikk; sport; triatlon
+1,1,1,1,1,1,1,2,1,12,ain; ujumine; sport; rattasõit; triatlon
+2,0,1,0,2,1,1,2,0,12,ain; ujumine; üheksa; jooksma; sport; rattasõit; triatlon
+2,0,0,3,1,0,1,2,1,12,ain; ujumine; üheksa; rattasõit; triatlon
+2,0,0,2,1,1,2,1,1,12,ain; ujumine; jooksma; üheksa; sport; triatlon
+2,0,0,1,1,1,1,2,0,12,ain; ujumine; jooksma; üheksa; rattasõit; triatlon
+2,0,2,1,1,1,1,3,0,12,ain; ujumine; jooksma; üheksa; rattasõit

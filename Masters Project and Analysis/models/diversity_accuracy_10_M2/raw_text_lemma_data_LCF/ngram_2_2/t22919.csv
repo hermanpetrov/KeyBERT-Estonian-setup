@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,0,0,0,1,0,15,tartu; poliitiline
-0,0,1,1,0,0,0,1,0,15,tartu; poliitiline
-0,0,1,1,0,0,0,1,0,15,tartu; poliitiline
-0,0,1,1,0,0,0,1,0,15,tartu; poliitiline
-0,0,2,1,0,0,0,1,0,15,tartu; härm; poliitiline
-0,0,1,1,0,0,0,1,0,15,tartu; poliitiline
-0,0,0,1,0,1,1,1,0,15,tartu; poliitiline
-0,0,0,2,0,0,1,3,0,15,poliitiline; tartu; kumu
-1,0,1,2,0,1,1,1,0,15,tartu; poliitiline; kumu
-0,0,1,1,0,1,0,0,0,15,kuraator; poliitiline
-1,1,0,1,0,1,0,0,0,15,poeetiline; tartu; poliitiline
+0,1,1,1,0,2,2,3,0,15,poliitiline; graafikatriennaal; tartu; kunstihoone
+0,1,1,1,0,2,2,3,0,15,poliitiline; graafikatriennaal; tartu; kunstihoone
+0,1,1,1,0,2,2,3,0,15,poliitiline; graafikatriennaal; tartu; kunstihoone
+0,1,1,1,0,2,2,3,0,15,poliitiline; graafikatriennaal; tartu; kunstihoone
+0,1,2,1,0,2,2,3,0,15,poliitiline; härm; graafikatriennaal; tartu; kunstihoone
+0,1,1,2,0,2,2,3,0,15,poliitiline; tudengifilm; graafikatriennaal; tartu; kunstihoone
+0,1,0,1,0,2,3,3,0,15,poliitiline; graafikatriennaal; tartu; kunstihoone
+0,1,1,3,0,2,2,5,0,15,tartu; graafikatraditsioon; poliitiline; kumu; graafikatriennaal; kunstihoone
+1,1,1,4,0,3,2,4,0,15,tudengifilm; tartu; graafikatraditsioon; poliitiline; kumu; graafikatriennaal; kunstihoone
+0,1,2,2,0,2,2,1,0,15,graafikatraditsioon; poliitiline; kunstihoone; graafikatriennaal; kuraator
+1,2,0,1,0,2,2,2,0,15,poliitiline; poeetiline; graafikatriennaal; tartu; kunstihoone

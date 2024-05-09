@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,3,1,0,1,1,2,0,14,rajasaare; merivoo-parro; singer; kristo; muusikanõukogu; raadio
-2,2,3,1,0,1,1,2,0,14,rajasaare; merivoo-parro; singer; kristo; muusikanõukogu; raadio
-2,2,2,1,0,1,1,2,0,14,rajasaare; merivoo-parro; singer; muusikanõukogu; raadio
-2,2,3,1,0,1,1,2,0,14,rajasaare; merivoo-parro; singer; kristo; muusikanõukogu; raadio
-2,2,2,1,0,1,1,2,0,14,rajasaare; merivoo-parro; singer; muusikanõukogu; raadio
-2,2,2,1,0,0,0,2,0,14,rajasaare; merivoo-parro; singer; kristo; muusikanõukogu; raadio
-2,3,2,0,0,0,0,2,0,14,rajasaare; merivoo-parro; singer; muusikanõukogu; maarja; raadio
-1,1,2,2,0,0,0,1,1,14,rajasaare; merivoo-parro; kristo; noorma; raadio
-1,3,2,1,0,0,0,1,1,14,rajasaare; merivoo-parro; vinger; muusikanõukogu; noorma; maarja; raadio
-0,2,1,1,0,2,0,1,0,14,rajasaare; merivoo-parro; vinger; lavastus; muusikanõukogu; maarja
-0,0,2,0,0,2,1,1,0,14,rajasaare; muusikanõukogu; merivoo-parro; singer
+2,2,3,1,0,1,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; singer
+2,2,3,1,0,1,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; singer
+2,2,2,1,0,1,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; singer
+2,2,3,1,0,1,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; singer
+2,2,2,1,0,1,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; singer
+2,2,2,1,0,0,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; rajasaare; kristo; singer
+2,3,2,0,0,0,2,0,0,14,raadio; muusikanõukogu; merivoo-parro; maarja; rajasaare; singer
+1,1,2,2,0,0,1,1,0,14,raadio; merivoo-parro; rajasaare; kristo; noorma
+1,3,2,1,0,0,1,1,0,14,raadio; muusikanõukogu; merivoo-parro; maarja; rajasaare; vinger; noorma
+0,2,1,1,0,0,1,0,0,14,rajasaare; maarja; merivoo-parro; vinger; lavastus
+0,0,2,0,0,1,1,0,0,14,muusikanõukogu; rajasaare; merivoo-parro; singer

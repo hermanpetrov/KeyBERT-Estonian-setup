@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,2,0,1,1,4,3,14,kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuuriajalugu; kultuur; naisliit
-2,2,2,2,0,1,1,4,3,14,kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuuriajalugu; kultuur; naisliit
-2,2,1,2,0,1,1,4,3,14,kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuuriajalugu; kultuur; naisliit
-3,2,0,2,1,2,1,4,3,14,kõnekoosolek; estonia; vanemuise; teater; eesti; vene; kultuuriajalugu; kultuur; naisliit
-2,1,3,1,1,1,1,2,3,14,kõnekoosolek; rakvere; estonia; teater; vanemuise; eesti; vene; kultuuriajalugu; naisliit
-2,1,3,1,2,2,0,2,3,14,kõnekoosolek; rakvere; estonia; vanemuise; eesti; vene; kultuuriajalugu; kultuur; naisliit
-2,0,2,1,2,1,0,2,3,14,kõnekoosolek; rakvere; estonia; vanemuise; eesti; vene; kultuuriajalugu
-1,1,1,2,2,2,0,1,3,14,kõnekoosolek; estonia; vanemuise; teater; rakvere; eesti; vene; laen; kultuuriajalugu
-2,2,1,2,1,1,0,1,2,14,vene; laen; kõnekoosolek; kultuuriajalugu; rakvere; estonia; teater; eesti
-4,3,2,1,2,1,0,0,2,14,kõnekoosolek; rakvere; estonia; teater; vanemuise; eesti; vene; laen; kultuuriajalugu
-1,2,0,2,1,2,0,0,2,14,vene; laen; kõnekoosolek; kultuuriajalugu; rakvere; estonia; teater; eesti
+2,2,2,2,0,1,4,3,0,14,vene; eesti; kõnekoosolek; vanemuise; naisliit; kultuuriajalugu; kultuur; teater; estonia
+2,2,2,2,0,1,4,3,0,14,vene; eesti; kõnekoosolek; vanemuise; naisliit; kultuuriajalugu; kultuur; teater; estonia
+2,2,1,2,0,1,4,3,0,14,vene; eesti; kõnekoosolek; vanemuise; naisliit; kultuuriajalugu; kultuur; teater; estonia
+3,2,0,2,1,1,4,3,0,14,vene; eesti; kõnekoosolek; vanemuise; naisliit; kultuuriajalugu; kultuur; teater; estonia
+2,1,3,1,1,1,2,3,0,14,vene; eesti; kõnekoosolek; rakvere; vanemuise; naisliit; kultuuriajalugu; teater; estonia
+2,1,3,1,2,0,2,3,0,14,vene; eesti; kõnekoosolek; rakvere; vanemuise; naisliit; kultuuriajalugu; kultuur; estonia
+2,0,2,1,2,0,2,3,0,14,vene; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; estonia
+1,1,1,2,2,0,1,3,0,14,vene; eesti; kõnekoosolek; rakvere; vanemuise; kultuuriajalugu; teater; estonia
+2,2,1,2,1,0,1,2,0,14,vene; kultuuriajalugu; eesti; kõnekoosolek; rakvere; teater; estonia
+4,3,2,1,2,0,0,2,0,14,rakvere; vene; eesti; kõnekoosolek; vanemuise; kultuuriajalugu; teater; estonia
+1,2,0,2,1,0,0,2,0,14,vene; kultuuriajalugu; eesti; kõnekoosolek; rakvere; teater; estonia

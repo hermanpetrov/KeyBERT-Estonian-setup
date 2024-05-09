@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
-3,3,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
-3,3,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
-3,3,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
-3,3,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa; stewart
-3,2,1,0,0,1,1,1,0,19,prius; edinburghi; šotimaa
-1,2,1,0,0,0,1,1,0,19,prius; edinburghi; šotimaa
-2,3,1,0,0,0,3,1,0,19,prius; marie; edinburghi; stewart; šotimaa
-1,2,1,0,0,0,0,2,0,19,prius; edinburghi; šotimaa
-2,2,0,0,0,0,0,1,0,19,prius; edinburghi; šotimaa
-1,2,0,0,0,0,0,2,0,19,prius; edinburghi; šotimaa
+3,3,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi; stewart
+3,3,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi; stewart
+3,3,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi; stewart
+3,3,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi; stewart
+3,3,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi; stewart
+3,2,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi
+1,2,1,0,0,1,1,0,0,19,šotimaa; prius; edinburghi
+2,3,1,0,0,3,1,0,0,19,šotimaa; marie; prius; edinburghi; stewart
+1,2,1,0,0,0,2,0,0,19,šotimaa; prius; edinburghi
+2,2,0,0,0,0,1,0,0,19,šotimaa; prius; edinburghi
+1,2,0,0,0,0,2,0,0,19,šotimaa; prius; edinburghi

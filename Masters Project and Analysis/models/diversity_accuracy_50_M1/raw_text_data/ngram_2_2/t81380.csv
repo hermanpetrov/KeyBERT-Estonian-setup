@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,2,1,3,3,6,2,13,moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tants; kollektsioon; tartu
-3,2,2,2,1,3,3,6,2,13,moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tants; kollektsioon; tartu
-3,2,2,2,1,3,3,6,2,13,moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tants; kollektsioon; tartu
-3,2,2,2,1,3,3,6,2,13,moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tants; kollektsioon; tartu
-3,3,2,2,1,3,3,6,2,13,moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tants; kollektsioon; tartu
-3,2,3,1,1,3,3,6,2,13,moeetendus; anatoomikum; kristina; tants; lavastaja; tartu
-3,2,3,1,1,3,3,4,2,13,disainer; tants; moeetendus; kristina; kunstikool; tartu; lavastaja; kõrgem
-2,1,2,1,0,2,2,2,2,13,anatoomikum; kristina; tants; lavastaja; tartu
-2,2,3,1,1,1,3,1,2,13,tants; moeetendus; lavastaja; anatoomikum; kristina; kunstikool; tartu; kollektsioon
-2,1,3,2,1,2,1,2,2,13,disainer; paju; kristina; tants; lavastaja; tartu; moeetendus
-1,1,0,1,1,1,4,1,1,13,disainer; paju; tants; anatoomikum; kunstikool; tartu; lavastaja; kõrgem
+3,2,2,2,1,3,3,6,2,13,moeetendus; tartu; kollektsioon; kristina; lavastaja; kunstikool; anatoomikum; tants
+3,2,2,2,1,3,3,6,2,13,moeetendus; tartu; kollektsioon; kristina; lavastaja; kunstikool; anatoomikum; tants
+3,2,2,2,1,3,3,6,2,13,moeetendus; tartu; kollektsioon; kristina; lavastaja; kunstikool; anatoomikum; tants
+3,2,2,2,1,3,3,6,2,13,moeetendus; tartu; kollektsioon; kristina; lavastaja; kunstikool; anatoomikum; tants
+3,3,2,2,1,3,3,6,2,13,moeetendus; kollektsioon; tartu; kristina; lavastaja; kunstikool; anatoomikum; tants
+3,2,3,1,1,3,3,6,2,13,moeetendus; kristina; tartu; lavastaja; anatoomikum; tants
+3,2,3,1,1,3,3,4,2,13,moeetendus; disainer; tartu; kristina; lavastaja; kunstikool; kõrgem; tants
+2,1,2,1,0,2,2,2,2,13,lavastaja; anatoomikum; kristina; tartu; tants
+2,2,3,1,1,1,3,1,2,13,moeetendus; tartu; kristina; kollektsioon; lavastaja; kunstikool; anatoomikum; tants
+2,1,3,2,1,2,1,2,2,13,lavastaja; moeetendus; kristina; disainer; tartu; paju; tants
+1,1,0,1,1,1,4,1,1,13,disainer; tartu; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants

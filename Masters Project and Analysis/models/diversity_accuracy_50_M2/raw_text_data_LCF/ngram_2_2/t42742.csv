@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,2,0,4,3,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-2,4,3,2,0,4,3,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-2,4,3,2,0,4,3,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-2,4,3,2,0,4,3,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-2,3,3,2,0,4,3,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-1,3,3,2,0,3,4,4,1,10,muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-2,2,3,2,0,2,3,3,1,10,sümfooniaorkester; muusikaõpetaja; muusikakool; kontsertorkester; virumaa
-1,2,4,2,0,1,0,3,1,10,muusikaõpetaja; muusikakool; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-1,3,0,3,0,1,0,1,1,10,laps; muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa
-0,3,2,3,0,0,0,3,1,10,laps; muusikaõpetaja; noorteorkester; rakvere; kontsertorkester; virumaa; sümfooniaorkester
-0,2,0,1,0,0,0,2,2,10,muusikaõpetaja; rakvere; kontsertorkester; virumaa
+2,4,3,2,0,3,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+2,4,3,2,0,3,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+2,4,3,2,0,3,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+2,4,3,2,0,3,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+2,3,3,2,0,3,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+1,3,3,2,0,4,4,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+2,2,3,2,0,3,3,1,0,10,muusikaõpetaja; virumaa; kontsertorkester; sümfooniaorkester; muusikakool
+1,2,4,2,0,0,3,1,0,10,muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; muusikakool; virumaa
+1,3,0,3,0,0,1,1,0,10,noorteorkester; laps; muusikaõpetaja; virumaa; kontsertorkester; rakvere
+0,3,2,3,0,0,3,1,0,10,laps; muusikaõpetaja; kontsertorkester; rakvere; sümfooniaorkester; noorteorkester; virumaa
+0,2,0,1,0,0,2,2,0,10,muusikaõpetaja; virumaa; kontsertorkester; rakvere

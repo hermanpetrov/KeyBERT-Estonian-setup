@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,4,4,2,2,2,2,0,12,isamaa; regilaul; hõff; eelarve; sammas; jaapan; pevkur; haigekassa; euroopa
-0,2,4,2,3,2,2,2,0,12,isamaa; hõff; eelarve; sammas; jaapan; hanno; pevkur; haigekassa; euroopa
-0,2,4,2,3,2,2,1,0,12,isamaa; hõff; eelarve; sammas; jaapan; hanno; pevkur; haigekassa; euroopa
-0,2,4,1,2,1,2,1,0,12,isamaa; regilaul; hõff; eelarve; sammas; hanno; pevkur; haigekassa; euroopa
-0,1,3,2,2,1,1,2,1,12,isamaa; hõff; sammas; jaapan; hanno; pevkur; haigekassa
-0,1,3,1,2,1,2,3,1,12,isamaa; hõff; sammas; gruusia; jaapan; hanno; pevkur; haigekassa
-1,1,3,3,2,1,1,4,2,12,isamaa; regilaul; hõff; eelarve; sammas; gruusia; jaapan; hanno; pevkur; haigekassa; euroopa
-0,2,4,3,2,1,2,3,2,12,isamaa; regilaul; hõff; sammas; gruusia; jaapan; hanno; pevkur; haigekassa; euroopa
-0,1,1,3,2,0,1,4,2,12,isamaa; regilaul; hõff; gruusia; hanno; pevkur; haigekassa; euroopa
-0,0,1,2,4,0,1,3,4,12,isamaa; hõff; gruusia; sammas; jaapan; hanno; pevkur; haigekassa; euroopa
-2,0,3,2,3,0,1,2,5,12,isamaa; regilaul; hõff; gruusia; sammas; jaapan; hanno; pevkur; haigekassa; euroopa
+0,1,4,4,2,2,2,2,0,12,hõff; pevkur; eelarve; jaapan; haigekassa; regilaul; isamaa; euroopa; sammas
+0,2,4,2,3,2,2,2,0,12,hõff; pevkur; eelarve; jaapan; hanno; haigekassa; isamaa; euroopa; sammas
+0,2,4,2,3,2,2,1,0,12,hõff; pevkur; eelarve; jaapan; hanno; haigekassa; isamaa; euroopa; sammas
+0,2,4,1,2,1,2,1,0,12,hõff; pevkur; eelarve; hanno; haigekassa; regilaul; isamaa; euroopa; sammas
+0,1,3,2,2,1,1,2,1,12,hõff; pevkur; jaapan; hanno; haigekassa; isamaa; sammas
+0,1,3,1,2,1,2,3,1,12,hõff; pevkur; gruusia; jaapan; hanno; haigekassa; isamaa; sammas
+1,1,3,3,2,1,1,4,2,12,hõff; pevkur; gruusia; eelarve; jaapan; hanno; haigekassa; regilaul; isamaa; euroopa; sammas
+0,2,4,3,2,1,2,3,2,12,hõff; pevkur; gruusia; jaapan; hanno; haigekassa; regilaul; isamaa; euroopa; sammas
+0,1,1,3,2,0,1,4,2,12,hõff; pevkur; gruusia; hanno; haigekassa; regilaul; isamaa; euroopa
+0,0,1,2,4,0,1,3,4,12,hõff; pevkur; gruusia; jaapan; hanno; haigekassa; isamaa; euroopa; sammas
+2,0,3,2,3,0,1,2,5,12,hõff; pevkur; gruusia; jaapan; hanno; haigekassa; regilaul; isamaa; euroopa; sammas

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,6,1,1,1,5,3,1,12,mereparaad; merekultuur; mereriik; mereakadeemia; meremees; sadam; järvelaid; kapten; admiral
-2,0,6,1,1,1,5,3,1,12,mereparaad; merekultuur; mereriik; mereakadeemia; meremees; sadam; järvelaid; kapten; admiral
-2,0,6,1,1,1,5,3,1,12,mereparaad; merekultuur; mereriik; mereakadeemia; meremees; sadam; järvelaid; kapten; admiral
-2,0,6,1,1,1,5,3,1,12,mereparaad; merekultuur; mereriik; mereakadeemia; meremees; sadam; järvelaid; kapten; admiral
-2,0,5,1,1,1,5,1,1,12,merekultuur; mereriik; mereakadeemia; meremees; peeter; sadam; järvelaid; kapten; admiral
-2,1,2,1,1,2,4,2,1,12,mereparaad; merekultuur; mereriik; meremees; peeter; mereakadeemia; sadam; järvelaid; admiral
-1,1,3,1,1,1,2,2,1,12,piirivalve; mereriik; meremees; peeter; mereakadeemia; sadam; järvelaid; admiral
-0,1,1,0,1,1,1,0,1,12,mereparaad; sadam; mereakadeemia; järvelaid; admiral
-1,1,2,0,1,1,1,0,1,12,mereparaad; sadam; mereakadeemia; järvelaid; admiral
-0,1,1,0,0,1,0,0,1,12,mereparaad; mereakadeemia; admiral
-0,0,0,0,0,1,1,0,1,12,mereakadeemia; järvelaid; admiral
+2,0,6,1,1,1,5,3,1,12,mereriik; admiral; meremees; järvelaid; mereakadeemia; kapten; mereparaad; sadam; merekultuur
+2,0,6,1,1,1,5,3,1,12,mereriik; admiral; meremees; järvelaid; mereakadeemia; kapten; mereparaad; sadam; merekultuur
+2,0,6,1,1,1,5,3,1,12,mereriik; admiral; meremees; järvelaid; mereakadeemia; kapten; mereparaad; sadam; merekultuur
+2,0,6,1,1,1,5,3,1,12,mereriik; admiral; meremees; järvelaid; mereakadeemia; kapten; mereparaad; sadam; merekultuur
+2,0,5,1,1,1,5,1,1,12,mereriik; admiral; peeter; meremees; järvelaid; mereakadeemia; kapten; sadam; merekultuur
+2,1,2,1,1,2,4,2,1,12,mereriik; admiral; peeter; meremees; järvelaid; mereakadeemia; mereparaad; sadam; merekultuur
+1,1,3,1,1,1,2,2,1,12,mereriik; admiral; peeter; meremees; järvelaid; mereakadeemia; piirivalve; sadam
+0,1,1,0,1,1,1,0,1,12,admiral; mereparaad; sadam; järvelaid; mereakadeemia
+1,1,2,0,1,1,1,0,1,12,admiral; mereparaad; sadam; järvelaid; mereakadeemia
+0,1,1,0,0,1,0,0,1,12,admiral; mereakadeemia; mereparaad
+0,0,0,0,0,1,1,0,1,12,admiral; järvelaid; mereakadeemia

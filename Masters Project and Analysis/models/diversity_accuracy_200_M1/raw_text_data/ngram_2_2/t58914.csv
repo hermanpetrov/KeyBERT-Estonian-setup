@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,2,3,2,6,3,1,0,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus
-2,3,2,3,2,5,3,1,0,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus
-3,3,1,3,2,4,3,2,0,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus
-3,3,2,4,2,4,3,4,0,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus
-4,1,1,4,2,2,3,2,1,11,kaarel; liivarand; orviku; torm; sadam; prognoos; geoloogia; veetõus
-3,4,2,4,2,2,3,2,1,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus; tamm
-1,2,3,3,3,5,3,3,1,11,kaarel; liivarand; rand; orviku; torm; sadam; geoloogia; prognoos; veetõus; tamm
-1,0,1,3,3,3,1,2,2,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; veetõus; tamm
-0,1,1,4,3,3,2,2,3,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; veetõus; tamm
-0,0,3,6,4,1,2,2,2,11,kaarel; liivarand; rand; orviku; torm; geoloogia; prognoos; sadam; veetõus; tamm
-1,1,3,4,5,1,3,3,2,11,kaarel; liivarand; rand; orviku; torm; sadam; prognoos; geoloogia; veetõus; tamm
+3,3,2,3,2,6,3,1,0,11,liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+2,3,2,3,2,5,3,1,0,11,liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+3,3,1,3,2,4,3,2,0,11,liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+3,3,2,4,2,4,3,4,0,11,liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+4,1,1,4,2,2,3,2,1,11,liivarand; geoloogia; orviku; torm; kaarel; veetõus; prognoos; sadam
+3,4,2,4,2,2,3,2,1,11,tamm; liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+1,2,3,3,3,5,3,3,1,11,tamm; liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+1,0,1,3,3,3,1,2,2,11,tamm; liivarand; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+0,1,1,4,3,3,2,2,3,11,tamm; liivarand; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+0,0,3,6,4,1,2,2,2,11,tamm; liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam
+1,1,3,4,5,1,3,3,2,11,tamm; liivarand; geoloogia; orviku; torm; rand; kaarel; veetõus; prognoos; sadam

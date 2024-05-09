@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,1,0,1,1,1,1,14,kaks; raadio
-0,1,2,1,0,1,1,1,1,14,kaks; raadio
-0,1,2,1,0,1,1,1,1,14,kaks; raadio
-0,1,2,1,0,1,1,1,1,14,kaks; raadio
-0,1,3,1,0,1,2,1,1,14,muusika; draiv; raadio; kaks
-0,1,3,1,0,1,1,1,1,14,kaks; muusika; raadio
-1,1,2,1,0,1,1,1,1,14,tmw; muusika; kaks; eesti; raadio
-0,0,1,0,0,2,3,1,1,14,merivoo-parro; laul; raadio; maarja; kaks
-0,0,2,2,0,1,2,1,1,14,merivoo-parro; tmw; muusika; ansambel; kaks; draiv; raadio
-0,0,2,1,0,1,1,2,0,14,merivoo-parro; ansambel; maarja; raadio
-0,0,3,0,0,1,1,3,0,14,merivoo-parro; kaks; maarja; raadio
+0,1,2,1,0,1,1,1,1,14,raadio; kaks
+0,1,2,1,0,1,1,1,1,14,raadio; kaks
+0,1,2,1,0,1,1,1,1,14,raadio; kaks
+0,1,2,1,0,1,1,1,1,14,raadio; kaks
+0,1,3,1,0,1,2,1,1,14,raadio; muusika; kaks; draiv
+0,1,3,1,0,1,1,1,1,14,raadio; muusika; kaks
+1,1,2,1,0,1,1,1,1,14,raadio; muusika; eesti; kaks; tmw
+0,0,1,0,0,2,3,1,1,14,raadio; merivoo-parro; maarja; kaks; laul
+0,0,2,2,0,1,2,1,1,14,raadio; ansambel; muusika; merivoo-parro; kaks; draiv; tmw
+0,0,2,1,0,1,1,2,0,14,raadio; ansambel; merivoo-parro; maarja
+0,0,3,0,0,1,1,3,0,14,raadio; merivoo-parro; maarja; kaks

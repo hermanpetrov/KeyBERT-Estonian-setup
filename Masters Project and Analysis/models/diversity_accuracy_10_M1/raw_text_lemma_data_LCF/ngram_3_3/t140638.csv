@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,6,3,2,5,2,1,14,katus; ema; katariina; eva; redel; dieet; hernes; koldits
-1,1,3,6,3,2,5,2,1,14,katus; ema; katariina; eva; redel; dieet; hernes; koldits
-1,1,3,6,3,2,5,2,1,14,katus; ema; katariina; eva; redel; dieet; hernes; koldits
-1,1,3,6,3,2,5,2,1,14,katus; ema; katariina; eva; redel; dieet; hernes; koldits
-1,1,3,6,3,2,5,2,2,14,katus; ema; katariina; eva; redel; dieet; hernes; koldits
-1,2,3,6,3,2,5,2,2,14,katus; ema; katariina; eva; redel; kohvik; dieet; hernes; koldits
-0,2,3,7,3,2,5,2,2,14,katus; ema; katariina; eva; redel; kohvik; dieet; hernes; koldits
-0,2,3,4,3,5,6,4,1,14,katus; ema; katariina; eva; hinrik; redel; kohvik; kadri; dieet; hernes; koldits
-3,1,3,4,3,5,6,5,1,14,katus; ema; katariina; eva; hinrik; redel; poiss; kadri; hernes
-2,1,3,4,3,5,7,5,2,14,katus; ema; katariina; eva; hinrik; redel; poiss; kadri; hernes; koldits
-1,2,3,6,2,5,6,7,2,14,katus; ema; katariina; eva; hinrik; poiss; kadri; dieet; hernes; koldits
+1,1,3,6,3,2,5,2,1,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema
+1,1,3,6,3,2,5,2,1,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema
+1,1,3,6,3,2,5,2,1,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema
+1,1,3,6,3,2,5,2,1,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema
+1,1,3,6,3,2,5,2,2,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema
+1,2,3,6,3,2,5,2,2,14,eva; katariina; koldits; redel; hernes; dieet; katus; ema; kohvik
+0,2,3,7,3,2,5,2,2,14,eva; katariina; koldits; hernes; dieet; redel; katus; ema; kohvik
+0,2,3,4,3,5,6,4,1,14,hinrik; eva; katariina; koldits; hernes; dieet; redel; katus; ema; kadri; kohvik
+3,1,3,4,3,5,6,5,1,14,hinrik; eva; katariina; redel; hernes; katus; ema; kadri; poiss
+2,1,3,4,3,5,7,5,2,14,hinrik; eva; katariina; koldits; hernes; redel; katus; kadri; ema; poiss
+1,2,3,6,2,5,6,7,2,14,hinrik; eva; katariina; koldits; hernes; dieet; katus; ema; kadri; poiss

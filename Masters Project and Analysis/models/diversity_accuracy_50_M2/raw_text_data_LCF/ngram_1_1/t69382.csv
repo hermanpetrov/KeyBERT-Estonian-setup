@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,0,1,1,0,11,medell; kuressaare
-1,0,1,0,0,0,1,1,0,11,medell; kuressaare
-1,0,1,0,0,0,1,1,0,11,medell; kuressaare
-1,0,2,0,0,0,1,1,0,11,sirje; medell; kuressaare
-1,0,2,0,0,0,0,0,0,11,sirje; medell; kuressaare
-1,0,2,0,0,0,0,0,0,11,sirje; medell; kuressaare
-0,0,2,0,0,1,0,0,0,11,sirje; laulma; medell
-0,0,1,0,0,0,0,1,0,11,õpetaja; sirje
-0,0,1,0,0,0,0,1,0,11,õpetaja; kuressaare
-0,0,2,0,0,0,0,1,0,11,õpetaja; sirje; kuressaare
-0,0,2,0,0,0,0,3,0,11,sirje; õpetaja; medell; kuressaare
+1,0,1,0,0,1,1,0,0,11,medell; kuressaare
+1,0,1,0,0,1,1,0,0,11,medell; kuressaare
+1,0,1,0,0,1,1,0,0,11,medell; kuressaare
+1,0,2,0,0,1,1,0,0,11,medell; kuressaare; sirje
+1,0,2,0,0,0,0,0,0,11,medell; kuressaare; sirje
+1,0,2,0,0,0,0,0,0,11,medell; kuressaare; sirje
+0,0,2,0,0,0,0,0,0,11,medell; sirje
+0,0,1,0,0,0,1,0,0,11,õpetaja; sirje
+0,0,1,0,0,0,1,0,0,11,õpetaja; kuressaare
+0,0,2,0,0,0,1,0,0,11,õpetaja; kuressaare; sirje
+0,0,2,0,0,0,3,0,0,11,medell; õpetaja; kuressaare; sirje

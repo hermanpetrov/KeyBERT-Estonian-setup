@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,2,0,1,1,1,1,2,13,loss; ehitamine; napoleon; esimene; kuningas; pariis
-1,4,2,0,1,1,1,1,1,13,loss; ehitamine; napoleon; esimene; kuningas; pariis
-1,4,2,0,1,1,1,1,1,13,loss; ehitamine; napoleon; esimene; kuningas; pariis
-1,4,2,0,1,1,1,1,1,13,loss; ehitamine; napoleon; esimene; kuningas; pariis
-1,4,3,0,1,1,1,1,1,13,renessanss; loss; ehitamine; napoleon; esimene; kuningas; pariis
-1,3,4,0,1,1,1,1,2,13,renessanss; loss; napoleon; esimene; kuningas; pariis
-3,3,3,2,1,1,1,2,2,13,loss; napoleon; esimene; kuningas; pariis
-1,4,4,3,1,3,2,3,2,13,esimene; luksuslik; pariis; loss; napoleon; kuningas
-3,3,3,4,2,2,2,3,1,13,esimene; luksuslik; pariis; françois; loss; napoleon; kuningas
-3,3,1,4,2,3,2,5,2,13,esimene; mürk; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
-4,4,2,3,1,2,2,3,1,13,esimene; mürk; luksuslik; pariis; françois; renessanss; loss; napoleon; kuningas
+1,4,2,0,1,1,1,1,2,13,loss; ehitamine; kuningas; napoleon; pariis; esimene
+1,4,2,0,1,1,1,1,1,13,loss; ehitamine; kuningas; napoleon; pariis; esimene
+1,4,2,0,1,1,1,1,1,13,loss; ehitamine; kuningas; napoleon; pariis; esimene
+1,4,2,0,1,1,1,1,1,13,loss; ehitamine; kuningas; napoleon; pariis; esimene
+1,4,3,0,1,1,1,1,1,13,loss; ehitamine; kuningas; napoleon; pariis; esimene; renessanss
+1,3,4,0,1,1,1,1,2,13,loss; kuningas; napoleon; pariis; esimene; renessanss
+3,3,3,2,1,1,1,2,2,13,loss; kuningas; napoleon; pariis; esimene
+1,4,4,3,1,3,2,3,2,13,pariis; kuningas; napoleon; luksuslik; loss; esimene
+3,3,3,4,2,2,2,3,1,13,napoleon; kuningas; pariis; françois; luksuslik; loss; esimene
+3,3,1,4,2,3,2,5,2,13,napoleon; kuningas; mürk; pariis; françois; luksuslik; loss; esimene; renessanss
+4,4,2,3,1,2,2,3,1,13,pariis; kuningas; napoleon; mürk; françois; luksuslik; loss; esimene; renessanss

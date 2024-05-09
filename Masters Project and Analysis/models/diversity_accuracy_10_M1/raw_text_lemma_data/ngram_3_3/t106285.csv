@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-0,2,0,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-1,2,1,0,0,0,0,2,2,16,heinrich; pille-riin; hoffmann; purje
-2,2,2,0,0,2,0,2,2,16,heinrich; pille-riin; purje; hoffmann
-2,2,1,2,0,0,0,2,2,16,heinrich; pille-riin; purje; hoffmann
-1,2,1,4,0,2,0,2,2,16,heinrich; pille-riin; purje; hoffmann
-0,2,1,0,0,0,0,0,0,16,heinrich; hoffmann
-0,3,1,0,1,0,0,0,3,16,heinrich; piits; pille-riin; purje; hoffmann
+0,3,1,0,0,1,0,3,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; lastekirjandus; luuleruum
+0,3,1,0,0,1,0,3,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; lastekirjandus; luuleruum
+0,3,1,0,0,1,0,3,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; lastekirjandus; luuleruum
+0,3,1,0,0,1,0,3,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; lastekirjandus; luuleruum
+0,3,1,0,0,1,0,3,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; lastekirjandus; luuleruum
+1,2,1,0,0,1,0,4,2,16,heinrich; kahupea; pille-riin; hoffmann; purje; luuleruum
+2,2,3,1,0,2,0,4,2,16,jahimees; heinrich; purje; kahupea; hoffmann; lastekirjandus; pille-riin
+2,2,1,2,0,1,0,3,2,16,heinrich; purje; pille-riin; hoffmann; lastekirjandus; luuleruum
+1,3,1,4,0,2,0,3,2,16,jahimees; heinrich; pille-riin; purje; hoffmann; lastekirjandus
+0,2,1,0,0,0,0,2,0,16,hoffmann; lastekirjandus; heinrich; luuleruum
+0,3,1,0,1,0,0,2,3,16,luuleruum; heinrich; pille-riin; purje; hoffmann; lastekirjandus; piits

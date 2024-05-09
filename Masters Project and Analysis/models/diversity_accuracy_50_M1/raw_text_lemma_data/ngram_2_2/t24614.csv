@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,2,2,2,2,2,2,15,süsteem; keel; eesti
-1,1,2,2,2,2,2,2,2,15,süsteem; keel; eesti
-1,1,2,2,2,2,2,2,2,15,süsteem; keel; eesti
-1,1,2,2,2,2,2,2,2,15,süsteem; keel; eesti
-1,1,2,2,2,2,2,2,2,15,süsteem; keel; eesti
-1,1,2,4,2,2,2,2,2,15,jaan; süsteem; keel; eesti; kaplinski
-1,1,2,5,2,2,2,2,2,15,laen; jaan; süsteem; keel; eesti; kaplinski
-1,0,2,3,3,2,3,2,2,15,laen; süsteem; jaan; keel; eesti
-1,3,2,3,3,2,2,3,2,15,eesti; laen; jaan; keel; süsteem; kaplinski
-2,4,3,3,2,2,2,3,2,15,eesti; laen; jaan; keel; süsteem; kaplinski
-3,3,3,2,2,4,2,5,2,15,eesti; laen; jaan; keel; hägusus; süsteem; kaplinski
+2,2,4,2,3,3,3,2,3,15,eesti; sõnapaar; süsteem; kõnekeel; isereguleeruv; keel
+2,2,4,2,3,3,3,2,3,15,eesti; sõnapaar; süsteem; kõnekeel; isereguleeruv; keel
+2,2,4,2,3,3,3,2,3,15,eesti; sõnapaar; süsteem; kõnekeel; isereguleeruv; keel
+2,2,4,2,3,3,3,2,3,15,eesti; sõnapaar; süsteem; kõnekeel; isereguleeruv; keel
+2,2,4,3,3,3,3,2,3,15,eesti; sõnapaar; süsteem; kõnekeel; isereguleeruv; keel
+2,3,3,5,3,3,3,3,3,15,kaplinski; eesti; sõnapaar; süsteem; kõnekeel; jaan; keel; isereguleeruv; alaväärsustunne
+4,3,4,7,3,4,3,5,3,15,tõlkimisvahend; kaplinski; eesti; sõnapaar; süsteem; kõnekeel; jaan; keel; isereguleeruv; alaväärsustunne; laen
+6,2,2,4,4,4,5,5,3,15,tõlkimisvahend; eesti; sõnapaar; tohuvabohu; süsteem; kõnekeel; isereguleeruv; keel; jaan; alaväärsustunne; laen
+3,5,5,4,4,4,3,7,3,15,tõlkimisvahend; sõnapaar; süsteem; tohuvabohu; isereguleeruv; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne
+5,8,5,3,2,3,4,6,3,15,tõlkimisvahend; kaplinski; eesti; sõnapaar; tohuvabohu; süsteem; jaan; keel; alaväärsustunne; laen
+5,6,3,2,2,5,4,9,3,15,tõlkimisvahend; tohuvabohu; süsteem; sõnapaar; laen; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus

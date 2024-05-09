@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-0,1,0,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-0,1,0,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-0,1,0,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-0,1,0,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-0,1,1,1,0,0,1,1,0,11,ingeli; orkester; repertuaar
-1,1,1,0,0,0,1,2,0,11,orkester; ingeli; oboe; repertuaar
-2,1,1,0,0,0,2,1,0,11,orkester; oboe; repertuaar
-1,0,0,1,0,0,2,0,0,11,oboe; orkester; repertuaar; ingeli
-1,1,1,2,0,0,2,0,0,11,orkester; sport; oboe; repertuaar
-2,1,0,0,1,0,1,0,0,11,oboe; orkester; repertuaar; sport
+1,2,1,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; muusikakeskkool
+1,2,1,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; muusikakeskkool
+1,2,1,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; muusikakeskkool
+1,2,1,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; muusikakeskkool
+1,2,1,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; muusikakeskkool
+2,2,2,4,0,2,4,2,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; inglissarv; ingeli; muusikakeskkool
+2,1,2,3,0,2,4,3,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; ingeli; oboe; muusikakeskkool
+3,1,2,3,0,2,4,4,1,11,saksamaa; orkester; repertuaar; klassikatäht; oboe; muusikakeskkool
+3,0,0,4,0,2,3,3,1,11,saksamaa; repertuaar; klassikatäht; muusikakeskkool; ingeli; oboe; orkester
+1,1,2,4,0,2,5,2,1,11,naisoboemängija; saksamaa; repertuaar; klassikatäht; sport; muusikakeskkool; oboe; orkester
+2,1,2,1,1,0,5,3,1,11,naisoboemängija; saksamaa; orkester; repertuaar; klassikatäht; sport; oboe; muusikakeskkool

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,2,2,3,3,4,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,3,3,4,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,3,3,4,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,3,3,4,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,3,3,4,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,3,3,5,3,12,ivo; kinni; poeg; uukkivi; torm; käsi; isa
-3,2,0,2,2,2,5,4,3,12,ivo; kinni; poeg; uukkivi; tuisk; torm; käsi; isa
-1,2,0,3,2,2,2,4,3,12,kinni; poeg; torm; käsi; isa
-1,2,0,2,2,4,2,6,3,12,kinni; ivo; poeg; uukkivi; torm; käsi; isa
-3,2,1,4,2,4,2,7,3,12,ivo; kinni; poeg; uukkivi; tuisk; torm; käsi; isa
-3,3,1,2,2,4,2,6,3,12,kinni; ivo; poeg; uukkivi; tuisk; torm; käsi; isa
+3,2,0,2,2,3,3,4,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,3,3,4,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,3,3,4,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,3,3,4,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,3,3,4,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,3,3,5,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,0,2,2,2,5,4,3,12,uukkivi; kinni; tuisk; isa; torm; poeg; käsi; ivo
+1,2,0,3,2,2,2,4,3,12,kinni; isa; torm; poeg; käsi
+1,2,0,2,2,4,2,6,3,12,uukkivi; kinni; isa; torm; poeg; käsi; ivo
+3,2,1,4,2,4,2,7,3,12,uukkivi; kinni; tuisk; isa; torm; poeg; käsi; ivo
+3,3,1,2,2,4,2,6,3,12,uukkivi; kinni; tuisk; isa; torm; poeg; käsi; ivo

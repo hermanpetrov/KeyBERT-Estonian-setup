@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,9,9,10,7,9,7,9,6,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-8,10,9,10,7,9,8,9,6,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-8,10,9,10,7,8,9,9,6,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-8,10,10,10,7,8,9,9,6,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-8,10,10,10,7,9,10,9,7,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-10,10,10,10,7,9,10,9,7,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-10,10,10,10,7,10,10,10,7,11,jooksma; aeg; seljakott; madis; sportlane; korrus; raadiomaja; aesma; tuletõrje; plaat
-10,10,10,10,8,10,10,10,7,11,jooksma; aeg; seljakott; madis; korrus; sportlane; raadiomaja; aesma; tuletõrje; plaat
-9,9,10,9,10,9,10,10,9,11,jooksma; aeg; seljakott; madis; korrus; sportlane; raadiomaja; aesma; tuletõrje; plaat
-9,9,9,9,10,10,10,10,9,11,jooksma; aeg; seljakott; madis; korrus; sportlane; raadiomaja; aesma; tuletõrje; plaat
-9,10,10,9,10,10,10,10,10,11,jooksma; aeg; seljakott; madis; korrus; sportlane; raadiomaja; aesma; tuletõrje; plaat
+8,9,9,10,7,7,9,6,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+8,10,9,10,7,8,9,6,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+8,10,9,10,7,9,9,6,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+8,10,10,10,7,9,9,6,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+8,10,10,10,7,10,9,7,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+10,10,10,10,7,10,9,7,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+10,10,10,10,7,10,10,7,0,11,seljakott; aeg; madis; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+10,10,10,10,8,10,10,7,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+9,9,10,9,10,10,10,9,0,11,seljakott; aeg; madis; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+9,9,9,9,10,10,10,9,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma
+9,10,10,9,10,10,10,10,0,11,seljakott; madis; aeg; raadiomaja; sportlane; tuletõrje; jooksma; plaat; korrus; aesma

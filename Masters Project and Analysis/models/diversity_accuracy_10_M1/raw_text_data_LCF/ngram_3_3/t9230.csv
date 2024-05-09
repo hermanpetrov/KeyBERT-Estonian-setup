@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,1,2,2,1,1,15,marko; alfa; alam-pedja; hunt; territoorium
-1,2,1,1,1,2,2,1,1,15,marko; alfa; alam-pedja; hunt; territoorium
-1,2,1,1,1,2,2,1,2,15,marko; alfa; alam-pedja; hunt; territoorium
-1,2,0,1,1,2,2,1,2,15,marko; alfa; alam-pedja; hunt; territoorium
-1,2,0,1,1,2,2,1,2,15,marko; alfa; alam-pedja; hunt; territoorium
-1,3,0,1,1,2,3,1,2,15,marko; looduskaitseala; alfa; alam-pedja; hunt; territoorium
-0,2,0,1,1,4,2,1,2,15,marko; territoorium; looduskaitseala; alfa; alam-pedja; hunt
-1,1,0,3,1,3,2,3,2,15,marko; kübarsepp; territoorium; looduskaitseala; alfa; alam-pedja; hunt
-1,1,1,2,2,2,2,3,2,15,marko; alfa; rootsi; hunt; territoorium; ilmar; alam-pedja
-0,2,1,3,2,1,1,2,2,15,marko; territoorium; ilmar; alam-pedja; looduskaitseala; alfa; hunt
-0,1,2,2,1,1,1,1,2,15,marko; looduskaitseala; rootsi; hunt; territoorium; alam-pedja
+1,2,1,1,1,2,1,1,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,2,1,1,1,2,1,1,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,2,1,1,1,2,1,2,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,2,0,1,1,2,1,2,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,2,0,1,1,2,1,2,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,3,0,1,1,3,1,2,0,15,looduskaitseala; marko; alam-pedja; territoorium; hunt; alfa
+0,2,0,1,1,2,1,2,0,15,marko; alam-pedja; territoorium; hunt; alfa
+1,1,0,3,1,2,3,2,0,15,kübarsepp; marko; alam-pedja; territoorium; hunt; alfa
+1,1,1,2,2,2,3,2,0,15,rootsi; territoorium; ilmar; alam-pedja; marko; hunt; alfa
+0,2,1,3,2,1,2,2,0,15,territoorium; ilmar; hunt; looduskaitseala; alam-pedja; marko; alfa
+0,1,2,2,1,1,1,2,0,15,rootsi; looduskaitseala; marko; alam-pedja; territoorium; hunt

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-3,1,1,1,1,1,1,1,1,13,christoph; falck; pianiino; eesti
-5,0,2,1,1,2,2,1,1,13,christoph; muusikamuuseum; falck; klaverimeister; pianiino; eesti; klaveriehitus
-2,2,2,1,1,2,2,1,1,13,christoph; muusikamuuseum; klaverimeister; pianiino; eesti
-2,2,2,2,1,1,1,1,1,13,christoph; klaverimeister; pianiino; eesti; klavessiin
-4,2,1,1,1,2,1,1,1,13,christoph; klaverimeister; pianiino; eesti; klaveriehitus
-2,1,1,1,1,2,2,0,1,13,christoph; pianiino; eesti
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+3,1,1,1,1,1,1,1,1,13,pianiino; falck; eesti; christoph
+5,0,2,1,1,2,2,1,1,13,pianiino; falck; eesti; klaverimeister; klaveriehitus; christoph; muusikamuuseum
+2,2,2,1,1,2,2,1,1,13,pianiino; eesti; klaverimeister; christoph; muusikamuuseum
+2,2,2,2,1,1,1,1,1,13,pianiino; eesti; klaverimeister; klavessiin; christoph
+4,2,1,1,1,2,1,1,1,13,pianiino; klaveriehitus; eesti; klaverimeister; christoph
+2,1,1,1,1,2,2,0,1,13,pianiino; eesti; christoph

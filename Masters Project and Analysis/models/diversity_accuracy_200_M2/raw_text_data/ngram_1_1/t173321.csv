@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,4,3,4,4,4,4,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-2,0,4,3,4,4,4,4,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-2,0,4,3,4,4,4,3,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-2,0,5,3,4,3,3,4,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-2,0,4,3,4,4,3,2,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-1,0,4,2,4,4,3,4,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-0,0,3,2,4,4,1,3,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-0,0,4,4,4,3,1,2,1,11,uno; polder; emajõgi; maaparandaja; pauts; ekskavaator
-2,0,2,4,4,3,1,3,1,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-2,0,1,4,3,3,1,4,2,11,uno; polder; emajõgi; maaparandaja; veehoidla; pauts; ekskavaator
-1,0,1,4,3,3,1,4,2,11,uno; polder; emajõgi; maaparandaja; pauts; ekskavaator
+3,0,4,3,4,4,4,4,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,4,3,4,4,4,4,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,4,3,4,4,4,3,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,5,3,4,3,3,4,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,4,3,4,4,3,2,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+1,0,4,2,4,4,3,4,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+0,0,3,2,4,4,1,3,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+0,0,4,4,4,3,1,2,1,11,uno; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,2,4,4,3,1,3,1,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+2,0,1,4,3,3,1,4,2,11,uno; veehoidla; pauts; polder; ekskavaator; maaparandaja; emajõgi
+1,0,1,4,3,3,1,4,2,11,uno; pauts; polder; ekskavaator; maaparandaja; emajõgi

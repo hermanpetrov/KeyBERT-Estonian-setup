@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,1,0,0,15,biitel; kuum
-0,0,0,0,1,0,1,0,0,15,biitel; kuum
-0,0,0,0,1,0,1,0,0,15,biitel; kuum
-0,0,0,0,1,0,1,0,0,15,biitel; kuum
-0,0,0,0,1,0,1,0,0,15,biitel; kuum
-0,0,0,0,1,1,1,1,0,15,sullivan; biitel; epstein; kuum
-1,0,0,0,1,1,0,1,0,15,biitel; epstein; kuum
-0,0,0,1,1,1,0,1,0,15,biitel; epstein; kuum
-0,2,1,0,1,0,1,1,0,15,mccartney; maania; biitel; lennon; epstein; kuum
+0,0,0,0,1,0,2,0,0,15,biitel; kuum; kuuekümnes
+0,0,0,0,1,0,2,0,0,15,biitel; kuum; kuuekümnes
+0,0,0,0,1,0,2,0,0,15,biitel; kuum; kuuekümnes
+0,0,0,0,1,0,2,0,0,15,biitel; kuum; kuuekümnes
+0,0,0,0,1,0,2,0,0,15,biitel; kuum; kuuekümnes
+0,0,0,0,1,1,2,1,0,15,epstein; biitel; kuum; sullivan; kuuekümnes
+1,0,0,0,1,2,1,1,0,15,biitel; epstein; kuum; kuuekümnes
+0,0,0,2,1,2,1,1,0,15,epstein; biitel; kuum; kuuekümnes
+0,2,2,0,1,0,1,2,0,15,maania; mccartney; lennon; epstein; biitel; kuum; kuuekümnes
 0,0,0,1,1,0,0,1,0,15,biitel; epstein
-0,0,0,0,1,0,0,1,0,15,biitel; epstein
+0,0,1,0,1,0,0,1,0,15,biitel; epstein; kuuekümnes

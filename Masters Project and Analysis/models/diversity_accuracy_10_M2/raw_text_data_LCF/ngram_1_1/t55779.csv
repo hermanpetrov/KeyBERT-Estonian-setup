@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,1,0,10,nelipühad; suvistepühad
-0,1,0,0,0,0,0,1,0,10,nelipühad; suvistepühad
-0,1,0,0,0,0,0,1,0,10,nelipühad; suvistepühad
-0,1,0,0,0,0,0,1,0,10,nelipühad; suvistepühad
-0,1,0,0,0,0,0,1,0,10,nelipühad; suvistepühad
-0,0,0,0,0,0,0,1,0,10,nelipühad
-0,0,1,0,0,0,0,1,0,10,nelipühad; kogudus
-0,0,0,0,0,0,0,1,0,10,nelipühad
+0,1,0,0,0,0,1,0,0,10,nelipühad; suvistepühad
+0,1,0,0,0,0,1,0,0,10,nelipühad; suvistepühad
+0,1,0,0,0,0,1,0,0,10,nelipühad; suvistepühad
+0,1,0,0,0,0,1,0,0,10,nelipühad; suvistepühad
+0,1,0,0,0,0,1,0,0,10,nelipühad; suvistepühad
+0,0,0,0,0,0,1,0,0,10,nelipühad
+0,0,1,0,0,0,1,0,0,10,nelipühad; kogudus
+0,0,0,0,0,0,1,0,0,10,nelipühad
 0,0,0,0,0,0,0,0,0,10,
 0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,1,0,0,10,misjonitöö
+0,0,0,0,0,1,0,0,0,10,misjonitöö

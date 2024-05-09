@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,1,0,0,0,14,detail; töö; ülo
-0,1,0,0,1,1,0,0,0,14,detail; töö; ülo
-0,1,0,0,1,1,0,0,0,14,detail; töö; ülo
-0,1,1,0,1,1,0,0,0,14,detail; töö; ülo
-0,1,0,0,1,1,0,0,0,14,detail; töö; ülo
-0,1,0,0,1,1,0,0,0,14,detail; töö; ülo
-0,2,0,0,1,0,0,0,0,14,detail; töö; usaldus
-0,0,1,1,1,0,0,0,0,14,detail; sõda
-0,0,1,0,1,0,0,0,0,14,detail
-1,1,1,0,1,0,0,1,0,14,detail; ülo; suitsetamine
-0,0,1,1,1,0,0,1,0,14,detail; suitsetamine
+0,2,1,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+0,2,1,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+0,2,1,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+0,2,2,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+1,2,1,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+1,2,0,3,1,2,1,0,0,14,videvikupidamine; kivisõda; õlletegu; ülo; töö; detail; vanaisa
+1,3,0,3,1,1,1,0,0,14,videvikupidamine; kivisõda; õlletegu; usaldus; töö; detail; vanaisa
+1,0,1,1,1,1,1,0,0,14,detail; vanaisa; sõda; õlletegu
+2,0,1,0,1,0,1,0,0,14,videvikupidamine; detail; vanaisa; õlletegu
+1,2,1,0,1,0,1,1,0,14,ülo; suitsetamine; detail; vanaisa
+1,0,1,1,1,0,1,2,0,14,videvikupidamine; õlletegu; suitsetamine; detail; vanaisa

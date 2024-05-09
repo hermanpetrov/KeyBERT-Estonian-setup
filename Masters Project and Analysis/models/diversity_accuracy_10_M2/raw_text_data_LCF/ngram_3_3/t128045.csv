@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,1,0,15,birma
-0,1,1,0,0,1,1,1,0,15,birma
-0,1,1,0,0,1,1,1,0,15,birma
-0,1,1,0,0,1,1,1,0,15,birma
-0,1,1,0,0,1,1,1,0,15,birma
-0,1,1,0,0,1,1,1,0,15,birma
-3,0,1,0,0,1,1,1,0,15,nukuteater; birma; ansambel
-1,1,1,0,0,1,1,1,0,15,nukuteater; sain; birma
-0,1,2,2,0,3,1,2,0,15,nukuteater; muusikaline; trumm; birma
-0,0,2,1,1,0,1,1,0,15,tants; birma; muusikaline
-1,0,1,1,1,1,1,2,0,15,nukuteater; nati; muusikaline; vain; birma
+0,1,1,0,0,1,1,0,0,15,birma
+0,1,1,0,0,1,1,0,0,15,birma
+0,1,1,0,0,1,1,0,0,15,birma
+0,1,1,0,0,1,1,0,0,15,birma
+0,1,1,0,0,1,1,0,0,15,birma
+0,1,1,0,0,1,1,0,0,15,birma
+3,0,1,0,0,1,1,0,0,15,ansambel; nukuteater; birma
+1,1,1,0,0,1,1,0,0,15,sain; nukuteater; birma
+0,1,2,2,0,1,2,0,0,15,nukuteater; muusikaline; birma
+0,0,2,1,1,1,1,0,0,15,birma; tants; muusikaline
+1,0,1,1,1,1,2,0,0,15,nukuteater; vain; birma; nati

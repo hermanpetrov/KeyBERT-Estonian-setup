@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,3,3,0,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,0,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,0,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,0,0,16,eurole; üleeuroopaline; euroopa
-0,0,3,0,0,3,3,0,0,16,eurole; üleeuroopaline; euroopa
-0,0,3,0,0,3,3,0,0,16,euroopa; eurole; üleeuroopaline; elering
-0,0,3,0,0,2,3,0,0,16,euroopa; eurole; üleeuroopaline; elering
+0,0,2,0,0,3,3,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,3,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,3,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,3,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,3,0,0,3,3,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,3,0,0,3,3,0,0,16,üleeuroopaline; elering; euroopa; eurole
+0,0,3,0,0,2,3,0,0,16,üleeuroopaline; elering; euroopa; eurole
 0,0,3,0,0,0,0,0,0,16,eurole; üleeuroopaline; elering
-1,0,3,1,0,0,0,0,0,16,eurole; ida-virumaa; üleeuroopaline; elering
-2,0,2,0,0,1,0,0,0,16,eurole; tartu; üleeuroopaline; elering
-2,0,2,0,0,1,0,0,0,16,juurapiid; eurole; üleeuroopaline; elering
+1,0,3,1,0,0,0,0,0,16,üleeuroopaline; ida-virumaa; elering; eurole
+2,0,2,0,0,1,0,0,0,16,elering; eurole; üleeuroopaline; tartu
+2,0,2,0,0,1,0,0,0,16,juurapiid; elering; eurole; üleeuroopaline

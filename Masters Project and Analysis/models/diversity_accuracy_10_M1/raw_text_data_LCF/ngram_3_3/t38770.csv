@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,5,1,1,0,1,1,1,1,15,majandus; poolamets; eurotsoon; heaolu; vaino; sotsiaalne; eesti; eelarve
-0,5,1,1,0,1,1,1,1,15,majandus; poolamets; eurotsoon; heaolu; vaino; sotsiaalne; eesti; eelarve
-0,5,1,1,0,1,1,1,1,15,majandus; poolamets; eurotsoon; heaolu; vaino; sotsiaalne; eesti; eelarve
-0,5,1,1,0,1,1,1,1,15,majandus; poolamets; eurotsoon; heaolu; vaino; sotsiaalne; eesti; eelarve
-0,5,2,1,0,1,1,1,1,15,majandus; poolamets; eurotsoon; heaolu; vaino; sotsiaalne; eesti; eelarve
-0,3,2,1,0,2,1,3,1,15,majandus; reimo; sildvee; eurotsoon; vaino; eesti; eelarve; urmas
-0,1,3,0,0,1,1,3,1,15,majandus; eurotsoon; urmas; föderatsioon; vaino; eesti; eelarve
-1,1,0,1,0,1,1,3,1,15,majandus; eurotsoon; urmas; föderatsioon; vaino; eesti; eelarve
-0,2,1,0,0,2,0,2,1,15,majandus; poolamets; anti; vaino; eesti; eelarve; urmas
-1,1,2,0,0,0,0,5,1,15,majandus; vaino; eesti; eelarve; eurotsoon; urmas; sotsiaalne
-0,1,2,0,0,0,0,1,1,15,majandus; kroon; eesti; eelarve
+0,5,1,1,0,1,1,1,0,15,majandus; poolamets; eesti; vaino; eelarve; heaolu; sotsiaalne; eurotsoon
+0,5,1,1,0,1,1,1,0,15,majandus; poolamets; eesti; vaino; eelarve; heaolu; sotsiaalne; eurotsoon
+0,5,1,1,0,1,1,1,0,15,majandus; poolamets; eesti; vaino; eelarve; heaolu; sotsiaalne; eurotsoon
+0,5,1,1,0,1,1,1,0,15,majandus; poolamets; eesti; vaino; eelarve; heaolu; sotsiaalne; eurotsoon
+0,5,2,1,0,1,1,1,0,15,majandus; poolamets; eesti; vaino; eelarve; heaolu; sotsiaalne; eurotsoon
+0,3,2,1,0,1,3,1,0,15,majandus; sildvee; eesti; vaino; urmas; eelarve; reimo; eurotsoon
+0,1,3,0,0,1,3,1,0,15,majandus; eesti; vaino; urmas; eelarve; eurotsoon
+1,1,0,1,0,1,3,1,0,15,majandus; eesti; vaino; urmas; eelarve; eurotsoon
+0,2,1,0,0,0,2,1,0,15,majandus; poolamets; eesti; vaino; urmas; eelarve
+1,1,2,0,0,0,5,1,0,15,majandus; eesti; urmas; eelarve; sotsiaalne; eurotsoon; vaino
+0,1,2,0,0,0,1,1,0,15,majandus; eesti; eelarve; kroon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,9,3,1,2,3,4,3,19,tervisesport; riina; köögiviljaaed; võistlussport; olümpiakomitee; aasta; lättemäe; köögiviljad; sulev; eesti; tammsaar; laiapea; autoriteet; põllumees
-4,5,10,3,1,2,4,7,2,19,riina; aasta; võistlussport; köögiviljaaed; tammsaar; sulev; tervisesport; dekoratiivne; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; autoriteet; põllumees
-4,5,8,3,1,2,6,7,3,19,riina; aasta; võistlussport; köögiviljaaed; tammsaar; sulev; tervisesport; dekoratiivne; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; autoriteet; põllumees
-4,4,9,2,1,3,6,7,3,19,riina; aasta; võistlussport; tammsaar; sulev; tervisesport; dekoratiivne; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; autoriteet; põllumees
-4,4,8,2,0,5,7,8,4,19,riina; aasta; võistlussport; tammsaar; sulev; tervisesport; dekoratiivne; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; põllumees
-4,4,10,3,3,5,5,8,4,19,riina; aasta; võistlussport; tammsaar; sulev; tervisesport; dekoratiivne; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; autoriteet; põllumees
-3,4,10,1,3,4,4,10,3,19,riina; aasta; võistlussport; tammsaar; sulev; dekoratiivne; tervisesport; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; laiapea; autoriteet; põllumees
-2,4,7,3,3,3,5,8,3,19,riina; aasta; võistlussport; tammsaar; sulev; dekoratiivne; tervisesport; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; autoriteet; põllumees
-4,4,7,4,6,3,6,5,3,19,riina; aasta; võistlussport; tammsaar; sulev; tervisesport; dekoratiivne; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; autoriteet
-2,5,7,5,7,4,5,5,3,19,riina; aasta; võistlussport; tammsaar; sulev; dekoratiivne; tervisesport; silja; eesti; olümpiakomitee; köögiviljad; lättemäe; heino; autoriteet
-2,3,7,5,8,5,5,5,3,19,dekoratiivne; tervisesport; riina; silja; aasta; olümpiakomitee; võistlussport; köögiviljad; lättemäe; eesti; tammsaar; heino; sulev
+5,5,9,3,1,3,4,3,0,19,tammsaar; lättemäe; eesti; võistlussport; sulev; tervisesport; aasta; autoriteet; köögiviljaaed; põllumees; riina; köögiviljad; laiapea; olümpiakomitee
+4,5,10,3,1,4,7,2,0,19,lättemäe; võistlussport; autoriteet; põllumees; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljaaed; köögiviljad
+4,5,8,3,1,6,7,3,0,19,lättemäe; võistlussport; autoriteet; põllumees; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljaaed; köögiviljad
+4,4,9,2,1,6,7,3,0,19,lättemäe; silja; võistlussport; autoriteet; põllumees; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+4,4,8,2,0,7,8,4,0,19,lättemäe; silja; võistlussport; põllumees; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+4,4,10,3,3,5,8,4,0,19,lättemäe; silja; võistlussport; põllumees; autoriteet; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+3,4,10,1,3,4,10,3,0,19,lättemäe; silja; võistlussport; põllumees; autoriteet; dekoratiivne; laiapea; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+2,4,7,3,3,5,8,3,0,19,lättemäe; silja; võistlussport; autoriteet; põllumees; dekoratiivne; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+4,4,7,4,6,6,5,3,0,19,lättemäe; silja; võistlussport; autoriteet; dekoratiivne; heino; olümpiakomitee; tammsaar; eesti; sulev; tervisesport; aasta; riina; köögiviljad
+2,5,7,5,7,5,5,3,0,19,lättemäe; silja; võistlussport; autoriteet; dekoratiivne; heino; olümpiakomitee; tammsaar; sulev; tervisesport; aasta; riina; köögiviljad
+2,3,7,5,8,5,5,3,0,19,tammsaar; lättemäe; silja; eesti; võistlussport; sulev; tervisesport; aasta; riina; köögiviljad; dekoratiivne; heino; olümpiakomitee

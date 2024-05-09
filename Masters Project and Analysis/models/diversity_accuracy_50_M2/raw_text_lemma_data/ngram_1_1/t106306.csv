@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,3,3,3,2,13,põgenik; süüria; eurovisioon; eesti; kreeka
-1,0,2,0,0,3,3,3,2,13,põgenik; süüria; eurovisioon; eesti; kreeka
-1,0,3,0,0,3,3,3,2,13,põgenik; keel; eurovisioon; eesti; kreeka; süüria
-1,0,3,0,0,3,3,4,2,13,põgenik; süüria; eurovisioon; eesti; keel; kreeka; tolmeldaja
-1,0,3,0,0,2,3,3,2,13,keel; eurovisioon; eesti; kreeka; süüria
-1,0,2,0,0,2,3,3,2,13,keel; eurovisioon; eesti; kreeka; süüria
-1,0,1,1,0,4,2,2,2,13,põgenik; keel; eurovisioon; eesti; kreeka; süüria
-1,0,0,2,0,3,1,3,2,13,süüria; eurovisioon; eesti; kreeka
-1,0,2,1,0,3,1,2,2,13,keel; eurovisioon; eesti; kreeka; süüria
-0,0,1,1,0,3,1,3,2,13,keel; eesti; eurovisioon; süüria; kreeka
-0,0,1,1,0,2,2,3,2,13,regi; keel; süüria; eurovisioon; eesti; kreeka
+3,0,2,0,0,3,3,3,2,13,süüria; eesti; murdesõnastik; põgenik; eurovisioon; kreeka; tööjõupuudus
+3,0,2,0,0,3,3,3,2,13,süüria; eesti; murdesõnastik; põgenik; eurovisioon; kreeka; tööjõupuudus
+3,0,3,0,0,3,3,3,2,13,süüria; eesti; murdesõnastik; põgenik; keel; eurovisioon; kreeka; tööjõupuudus
+3,0,3,0,0,3,3,4,2,13,süüria; eesti; tolmeldaja; murdesõnastik; põgenik; keel; eurovisioon; kreeka; tööjõupuudus
+3,0,3,0,0,2,3,3,2,13,süüria; eesti; murdesõnastik; keel; eurovisioon; kreeka; tööjõupuudus
+3,0,2,0,0,2,3,3,2,13,süüria; eesti; murdesõnastik; keel; eurovisioon; kreeka; tööjõupuudus
+2,0,1,1,0,4,2,2,2,13,süüria; eesti; põgenik; keel; eurovisioon; kreeka; tööjõupuudus
+2,0,0,2,0,3,1,4,2,13,süüria; eurovisioon; eesti; kreeka; murdesõnastik
+1,0,3,1,0,3,1,3,2,13,süüria; eesti; murdesõnastik; keel; eurovisioon; kreeka; tööjõupuudus
+1,0,1,1,0,3,1,4,2,13,süüria; eesti; murdesõnastik; keel; eurovisioon; kreeka
+0,0,2,2,0,2,2,4,2,13,süüria; regi; eesti; murdesõnastik; keel; eurovisioon; kreeka; tööjõupuudus

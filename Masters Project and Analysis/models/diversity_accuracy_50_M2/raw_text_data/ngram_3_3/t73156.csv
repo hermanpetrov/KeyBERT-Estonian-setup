@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,4,2,2,2,3,2,15,ameerika; eric; rakset; power; singel; one; euroopa
-2,4,2,4,2,2,2,3,2,15,ameerika; eric; rakset; power; singel; one; euroopa
-2,4,2,4,2,2,2,3,2,15,ameerika; eric; rakset; power; singel; one; euroopa
-2,4,2,4,2,2,2,3,2,15,ameerika; eric; rakset; power; singel; one; euroopa
-2,4,2,4,2,2,2,3,2,15,ameerika; eric; rakset; power; singel; one; euroopa
-2,5,3,4,2,2,2,4,2,15,ameerika; eric; rakset; edetabel; power; singel; one; euroopa
-6,6,2,5,2,2,2,4,2,15,ameerika; eric; rakset; pik; edetabel; power; singel; one; euroopa
-7,6,4,6,3,3,3,5,2,15,vanilli; ameerika; rakset; pik; edetabel; power; singel; one; euroopa
-9,3,5,6,2,3,3,3,2,15,vanilli; ameerika; eric; rakset; pik; milli; edetabel; power; singel; one; euroopa
-4,2,5,5,3,3,1,5,1,15,vanilli; ameerika; pik; milli; edetabel; power; singel; one; euroopa
-4,2,5,5,3,3,2,4,1,15,ameerika; eric; milli; pik; edetabel; power; singel; one; euroopa
+2,4,2,4,2,2,2,3,2,15,one; rakset; power; ameerika; singel; eric; euroopa
+2,4,2,4,2,2,2,3,2,15,one; rakset; power; ameerika; singel; eric; euroopa
+2,4,2,4,2,2,2,3,2,15,one; rakset; power; ameerika; singel; eric; euroopa
+2,4,2,4,2,2,2,3,2,15,one; rakset; power; ameerika; singel; eric; euroopa
+2,4,2,4,2,2,2,3,2,15,one; rakset; power; ameerika; singel; eric; euroopa
+2,5,3,4,2,2,2,4,2,15,one; edetabel; rakset; power; ameerika; singel; eric; euroopa
+6,6,2,5,2,2,2,4,2,15,one; pik; edetabel; rakset; power; ameerika; singel; eric; euroopa
+7,6,4,6,3,3,3,5,2,15,one; pik; edetabel; rakset; vanilli; power; singel; ameerika; euroopa
+9,3,5,6,2,3,3,3,2,15,one; pik; edetabel; rakset; vanilli; power; singel; ameerika; milli; eric; euroopa
+4,2,5,5,3,3,1,5,1,15,one; pik; edetabel; vanilli; power; singel; ameerika; milli; euroopa
+4,2,5,5,3,3,2,4,1,15,one; pik; edetabel; power; singel; ameerika; milli; eric; euroopa

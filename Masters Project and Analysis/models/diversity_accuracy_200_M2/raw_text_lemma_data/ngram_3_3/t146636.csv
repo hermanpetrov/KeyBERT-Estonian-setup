@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,3,5,4,3,4,3,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,5,4,3,4,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,5,3,3,4,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,5,3,4,4,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,4,3,4,4,5,4,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,4,3,4,5,5,4,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,5,3,5,5,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,4,5,5,4,5,5,5,5,13,aegunud; mõõdukus; kõrkus; kiusatus; tarbijalik
-5,4,5,5,4,5,5,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,5,5,4,4,5,5,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
-5,5,5,4,4,5,5,5,5,13,mõõdukus; aegunud; kõrkus; kiusatus; tarbijalik
+10,8,6,9,6,5,6,7,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,9,9,6,5,6,8,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,9,9,5,6,6,9,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,9,9,5,7,6,10,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,10,8,5,7,6,10,9,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,10,8,5,9,10,10,9,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,8,10,10,5,10,10,10,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,9,10,10,6,9,10,10,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,9,10,10,6,10,10,10,10,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,10,10,9,9,9,10,10,9,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik
+10,10,10,9,9,10,10,9,9,13,surmapate; loomupärane; hüpertroofia; mõõdukus; käegalöömine; kiusatus; kõrkus; enesehinnang; aegunud; tarbijalik

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
-0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
-0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
-0,1,2,0,0,1,1,0,1,18,hindper; isis; eesti
-0,1,2,0,0,1,2,0,1,18,hindper; konverents; isis; eesti
-0,1,2,0,0,1,1,0,1,18,hindper; konverents; isis; eesti
-0,1,2,1,0,1,1,2,1,18,hindper; konverents; eesti
-0,0,1,1,0,1,1,2,1,18,hindper; konverents; eesti
-0,1,1,0,0,2,1,2,1,18,hindper; konverents; nädal; kontsert; laager; eesti
-0,0,0,0,0,2,0,1,1,18,konverents; eesti
-0,0,3,1,0,2,0,0,1,18,hindper; konverents; nädal; kontsert; laager; eesti
+1,1,3,0,0,3,2,1,1,18,eesti; isis; koolitulistamine; usuäärmuslus; hindper
+1,1,3,0,0,3,2,1,2,18,eesti; isis; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,1,3,0,0,3,2,1,2,18,eesti; isis; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,1,3,0,0,3,2,1,2,18,eesti; isis; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,1,3,0,0,3,3,1,2,18,konverents; eesti; isis; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,1,3,0,0,2,2,1,2,18,konverents; eesti; isis; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,1,2,1,0,2,1,2,2,18,konverents; eesti; koolitulistamine; usuäärmuslus; hindper; ülikool
+1,0,1,1,0,1,1,2,2,18,eesti; koolitulistamine; konverents; hindper; ülikool
+0,1,1,1,0,2,2,2,2,18,eesti; ülikool; konverents; nädal; laager; hindper; kontsert
+1,0,1,1,0,2,1,1,2,18,konverents; eesti; koolitulistamine; usuäärmuslus; ülikool
+1,0,3,2,0,2,1,0,2,18,eesti; koolitulistamine; konverents; ülikool; nädal; kontsert; hindper; laager

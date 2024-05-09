@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,0,0,1,1,1,0,14,parts; koalitsioon; harry; liivrand; välisminister; hansapanga; juhan
-2,1,3,0,0,1,1,1,0,14,parts; koalitsioon; harry; liivrand; välisminister; hansapanga; juhan
-2,1,3,0,0,1,1,1,0,14,parts; koalitsioon; harry; liivrand; välisminister; hansapanga; juhan
-2,1,3,0,0,1,1,1,0,14,parts; koalitsioon; harry; liivrand; välisminister; hansapanga; juhan
-2,1,6,0,0,1,1,1,0,14,harry; välisminister; mall; parts; koalitsioon; liivrand; mälberg; hansapanga; juhan
-2,1,5,0,0,1,1,3,0,14,harry; välisminister; parts; koalitsioon; liivrand; mälberg; hansapanga; juhan
-1,0,4,1,0,2,2,2,0,14,tuumarelv; harry; välisminister; parts; koalitsioon; hansapanga; juhan
-0,0,4,0,0,2,1,3,0,14,parts; koalitsioon; välisminister; hansapanga; juhan
-0,1,2,2,0,2,1,2,0,14,parts; koalitsioon; harry; välisminister; juhan
-0,0,5,0,0,2,2,3,0,14,mall; parts; koalitsioon; mälberg; hansapanga; juhan
-0,0,2,0,0,3,2,3,0,14,parts; koalitsioon; välisminister; mälberg; mall; juhan
+2,1,3,0,0,1,1,0,0,14,parts; hansapanga; liivrand; juhan; välisminister; harry; koalitsioon
+2,1,3,0,0,1,1,0,0,14,parts; hansapanga; liivrand; juhan; välisminister; harry; koalitsioon
+2,1,3,0,0,1,1,0,0,14,parts; hansapanga; liivrand; juhan; välisminister; harry; koalitsioon
+2,1,3,0,0,1,1,0,0,14,parts; hansapanga; liivrand; juhan; välisminister; harry; koalitsioon
+2,1,6,0,0,1,1,0,0,14,parts; liivrand; mälberg; hansapanga; mall; välisminister; juhan; harry; koalitsioon
+2,1,5,0,0,1,3,0,0,14,parts; liivrand; mälberg; hansapanga; välisminister; juhan; harry; koalitsioon
+1,0,4,1,0,2,2,0,0,14,parts; tuumarelv; harry; hansapanga; välisminister; juhan; koalitsioon
+0,0,4,0,0,1,3,0,0,14,parts; hansapanga; välisminister; juhan; koalitsioon
+0,1,2,2,0,1,2,0,0,14,parts; juhan; harry; koalitsioon
+0,0,5,0,0,2,3,0,0,14,parts; mälberg; hansapanga; mall; juhan; koalitsioon
+0,0,2,0,0,2,3,0,0,14,parts; mall; juhan; mälberg; koalitsioon

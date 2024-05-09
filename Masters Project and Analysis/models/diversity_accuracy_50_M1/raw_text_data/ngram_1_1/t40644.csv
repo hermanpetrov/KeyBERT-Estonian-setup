@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,1,1,1,1,0,19,barokkmuusikafestival; orpheus; folkloor
-1,1,1,0,1,1,1,1,0,19,barokkmuusikafestival; orpheus; folkloor
-1,1,1,0,1,1,1,1,0,19,barokkmuusikafestival; orpheus; folkloor
-1,1,1,0,1,1,1,1,0,19,barokkmuusikafestival; orpheus; folkloor
-1,0,0,0,1,1,1,1,0,19,barokkmuusikafestival; orpheus; folkloor
-0,0,3,0,1,0,2,1,0,19,orpheus; bach; musicus; barokkmuusikafestival; irene; staak
-0,0,1,0,1,1,1,0,0,19,staak; orpheus; bach; folkloor
-0,0,0,1,1,1,0,0,0,19,barokkmuusikafestival; orpheus; bach
-0,0,0,1,1,2,0,0,0,19,orpheus; mustonen; bach; folkloor
-0,0,0,1,0,2,0,0,0,19,mustonen; bach; folkloor
-1,0,1,1,1,2,0,1,0,19,musicus; bach; folkloor; barokkmuusikafestival; mustonen; igor
+1,1,1,0,1,1,1,1,0,19,folkloor; barokkmuusikafestival; orpheus
+1,1,1,0,1,1,1,1,0,19,folkloor; barokkmuusikafestival; orpheus
+1,1,1,0,1,1,1,1,0,19,folkloor; barokkmuusikafestival; orpheus
+1,1,1,0,1,1,1,1,0,19,folkloor; barokkmuusikafestival; orpheus
+1,0,0,0,1,1,1,1,0,19,folkloor; barokkmuusikafestival; orpheus
+0,0,3,0,1,0,2,1,0,19,irene; musicus; bach; staak; barokkmuusikafestival; orpheus
+0,0,1,0,1,1,1,0,0,19,bach; staak; orpheus; folkloor
+0,0,0,1,1,1,0,0,0,19,bach; barokkmuusikafestival; orpheus
+0,0,0,1,1,2,0,0,0,19,bach; folkloor; orpheus; mustonen
+0,0,0,1,0,2,0,0,0,19,bach; folkloor; mustonen
+1,0,1,1,1,2,0,1,0,19,folkloor; mustonen; musicus; bach; igor; barokkmuusikafestival

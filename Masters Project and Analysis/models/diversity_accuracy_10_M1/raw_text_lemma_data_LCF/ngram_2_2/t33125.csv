@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-3,0,1,1,1,0,1,1,0,16,rüütel; roheline; arnold; poliitika; valimine; voldemar; neeme; partei
-1,0,2,0,1,0,0,1,0,16,partei; roheline; neeme; valimine
-1,1,1,1,1,1,0,1,0,16,rüütel; roheline; valimine; neeme; strandberg
-0,1,2,0,1,2,1,1,0,16,valimine; voldemar; neeme; strandberg; partei
-0,1,1,0,0,1,2,1,0,16,valimine; voldemar; neeme; strandberg
-0,0,1,0,0,1,3,1,1,16,rüütel; valimine; voldemar; neeme; partei
+3,0,1,1,1,0,1,2,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+3,0,1,2,1,0,1,2,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+3,0,1,2,1,0,1,2,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+3,0,1,1,1,0,1,2,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+3,0,1,1,1,0,1,2,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+3,0,1,1,1,0,1,1,1,16,poliitika; arnold; valimine; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+1,0,2,0,1,0,0,1,1,16,partei; rahvaliit; valimine; neeme; roheline
+1,1,1,1,1,1,0,2,1,16,rahvaliit; strandberg; valimine; neeme; rüütel; roheline
+0,1,2,0,1,2,1,2,1,16,partei; rahvaliit; strandberg; voldemar; valimine; neeme
+0,2,1,0,0,1,2,1,1,16,rahvaliit; strandberg; kohtuots; valimine; voldemar; neeme
+0,1,1,0,0,1,3,1,2,16,rüütel; partei; voldemar; valimine; rahvaliit; neeme

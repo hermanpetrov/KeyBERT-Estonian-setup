@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,1,1,1,0,16,saaremaa; varietee; medell
-1,0,2,0,0,1,1,1,0,16,saaremaa; varietee; medell
-1,0,2,0,0,1,1,1,0,16,saaremaa; varietee; medell
-1,0,3,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee
-1,0,3,0,0,1,1,1,0,16,sirje; saaremaa; medell; varietee
-1,0,3,0,0,0,0,1,0,16,sirje; saaremaa; medell; varietee
-1,0,2,0,0,0,0,0,0,16,sirje; medell; varietee
+1,0,2,0,0,1,1,0,0,16,medell; saaremaa; varietee
+1,0,2,0,0,1,1,0,0,16,medell; saaremaa; varietee
+1,0,2,0,0,1,1,0,0,16,medell; saaremaa; varietee
+1,0,3,0,0,1,1,0,0,16,medell; sirje; varietee; saaremaa
+1,0,3,0,0,1,1,0,0,16,medell; sirje; varietee; saaremaa
+1,0,3,0,0,0,1,0,0,16,medell; sirje; varietee; saaremaa
+1,0,2,0,0,0,0,0,0,16,medell; sirje; varietee
 1,0,1,0,0,0,0,0,0,16,sirje; varietee
 1,0,0,1,0,0,0,0,0,16,varietee
-0,0,1,1,0,0,0,1,0,16,sisemine; sirje; varietee
-0,0,1,0,0,0,0,4,0,16,sisemine; sirje; medell; ballaad
+0,0,1,1,0,0,1,0,0,16,sisemine; varietee; sirje
+0,0,1,0,0,0,4,0,0,16,medell; ballaad; sirje; sisemine

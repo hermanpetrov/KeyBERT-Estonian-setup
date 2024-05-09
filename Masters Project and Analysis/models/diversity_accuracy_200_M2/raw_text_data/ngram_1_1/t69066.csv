@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,1,2,1,3,1,11,keskkond; detailplaneering; tellija; kritiseerima; arhitektide; eetika
-0,1,1,0,1,2,1,2,1,11,detailplaneering; tellija; kritiseerima; arhitektide; eetika
-0,1,1,0,1,2,1,1,1,11,detailplaneering; tellija; kritiseerima; arhitektide; eetika
-0,1,0,0,1,0,1,1,1,11,arhitektide; eetika; detailplaneering; tellija
-0,2,0,0,1,0,1,0,1,11,arendaja; keskkond; detailplaneering; tellija; eetika
-0,1,1,0,1,1,1,0,1,11,arendaja; keskkond; tellija; detailplaneering; eetika
-1,0,0,0,1,1,0,0,1,11,kritiseerima; detailplaneering; tellija
+0,2,1,0,1,2,1,3,1,11,detailplaneering; keskkond; arhitektide; eetika; tellija; kritiseerima
+0,1,1,0,1,2,1,2,1,11,detailplaneering; arhitektide; eetika; tellija; kritiseerima
+0,1,1,0,1,2,1,1,1,11,detailplaneering; eetika; arhitektide; tellija; kritiseerima
+0,1,0,0,1,0,1,1,1,11,tellija; arhitektide; detailplaneering; eetika
+0,2,0,0,1,0,1,0,1,11,detailplaneering; keskkond; eetika; tellija; arendaja
+0,1,1,0,1,1,1,0,1,11,detailplaneering; eetika; keskkond; tellija; arendaja
+1,0,0,0,1,1,0,0,1,11,tellija; detailplaneering; kritiseerima
 0,1,0,0,1,0,2,1,0,11,arendaja; detailplaneering
-2,2,2,1,1,0,1,3,0,11,arendaja; detailplaneering; looming; liit; kritiseerima; eetika
-1,1,1,1,1,0,0,0,0,11,arendaja; looming; kritiseerima; detailplaneering; eetika
-1,0,0,1,0,1,2,1,0,11,arendaja; kritiseerima; detailplaneering; eetika
+2,2,2,1,1,0,1,3,0,11,detailplaneering; eetika; liit; looming; arendaja; kritiseerima
+1,1,1,1,1,0,0,0,0,11,detailplaneering; eetika; looming; arendaja; kritiseerima
+1,0,0,1,0,1,2,1,0,11,detailplaneering; eetika; arendaja; kritiseerima

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,1,1,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; kunst
-2,0,1,0,0,1,1,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; kunst
-2,0,1,0,0,1,1,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; kunst
-2,0,2,0,0,1,1,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; kunst; margit
-2,0,3,0,0,0,1,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; indrek; margit; grigor
-2,0,4,0,0,0,0,0,0,16,kontseptualism; žestipõhine; kunstiajalugu; indrek; margit; grigor
-2,0,3,0,0,0,0,1,0,16,kontseptualism; žestipõhine; indrek; margit; grigor
-0,0,4,0,0,0,0,1,0,16,indrek; margit; grigor; laura
-0,0,2,0,0,1,0,0,0,16,margit; grigor; indrek
-0,0,3,1,0,3,0,0,0,16,indrek; margit; kriitika; grigor; laura
-0,0,2,1,0,1,0,0,0,16,margit; grigor
+2,0,1,0,0,1,0,0,0,16,kunstiajalugu; kontseptualism; žestipõhine
+2,0,1,0,0,1,0,0,0,16,kunstiajalugu; kontseptualism; žestipõhine
+2,0,1,0,0,1,0,0,0,16,kunstiajalugu; kontseptualism; žestipõhine
+2,0,2,0,0,1,0,0,0,16,margit; žestipõhine; kontseptualism; kunstiajalugu
+2,0,3,0,0,1,0,0,0,16,kunstiajalugu; margit; indrek; kontseptualism; žestipõhine; grigor
+2,0,4,0,0,0,0,0,0,16,kunstiajalugu; margit; indrek; kontseptualism; žestipõhine; grigor
+2,0,3,0,0,0,1,0,0,16,margit; indrek; kontseptualism; žestipõhine; grigor
+0,0,4,0,0,0,1,0,0,16,laura; margit; indrek; grigor
+0,0,2,0,0,0,0,0,0,16,margit; grigor
+0,0,3,1,0,0,0,0,0,16,laura; margit; grigor
+0,0,2,1,0,0,0,0,0,16,margit; grigor

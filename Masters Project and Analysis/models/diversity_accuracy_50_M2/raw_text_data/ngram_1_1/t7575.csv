@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,1,0,1,1,2,0,12,toomhärra; kirik; piiskopkond; vaimulik; liivimaa
-1,0,2,1,0,1,1,2,1,12,toomhärra; kirik; piiskopkond; vaimulik; ülikool; liivimaa
-1,0,2,1,0,1,1,2,1,12,toomhärra; kirik; piiskopkond; vaimulik; ülikool; liivimaa
-1,0,3,1,0,1,1,1,1,12,toomhärra; kirik; piiskopkond; vaimulik; ülikool; liivimaa; katoliku
-1,0,3,1,0,0,1,0,1,12,toomhärra; kirik; piiskopkond; ülikool; liivimaa; katoliku
-1,0,3,1,0,0,1,0,1,12,toomhärra; kirik; piiskopkond; ülikool; liivimaa; katoliku
-0,0,2,1,0,1,0,0,1,12,toomhärra; kirik; katoliku; ülikool
-0,0,2,2,0,1,0,1,1,12,toomhärra; kirik; ülikool; ordu; katoliku
-0,0,1,2,0,0,0,0,1,12,kirik; ordu; ülikool
-0,0,1,2,0,0,0,1,1,12,toomhärra; kirik; ülikool; liivimaa; ordu
-1,1,1,2,0,1,0,0,1,12,toomhärra; kirik; ülikool; tartu; ordu; katoliku
+1,0,2,1,0,1,1,2,0,12,toomhärra; vaimulik; kirik; liivimaa; piiskopkond
+1,0,2,1,0,1,1,2,1,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; piiskopkond
+1,0,2,1,0,1,1,2,1,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; piiskopkond
+1,0,3,1,0,1,1,1,1,12,toomhärra; katoliku; vaimulik; kirik; ülikool; liivimaa; piiskopkond
+1,0,3,1,0,0,1,0,1,12,toomhärra; katoliku; kirik; ülikool; liivimaa; piiskopkond
+1,0,3,1,0,0,1,0,1,12,toomhärra; katoliku; kirik; ülikool; liivimaa; piiskopkond
+0,0,2,1,0,1,0,0,1,12,toomhärra; ülikool; katoliku; kirik
+0,0,2,2,0,1,0,1,1,12,toomhärra; ordu; katoliku; kirik; ülikool
+0,0,1,2,0,0,0,0,1,12,ordu; ülikool; kirik
+0,0,1,2,0,0,0,1,1,12,toomhärra; ordu; kirik; ülikool; liivimaa
+1,1,1,2,0,1,0,0,1,12,toomhärra; ordu; katoliku; kirik; ülikool; tartu

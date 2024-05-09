@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,4,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,4,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,4,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,4,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,3,3,1,0,2,2,2,2,16,põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-1,3,4,1,0,3,2,3,2,16,põhialused; ja; õpetaja; eesti; arengukava; haridus-; keelepoliitika; keel
-1,1,4,2,0,3,3,3,2,16,arengukava; põhialused; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,1,3,2,0,2,3,3,2,16,põhialused; keel; haridus-; õpetaja; keelepoliitika; ja; eesti
-2,2,3,1,0,3,2,3,2,16,põhialused; õpetaja; ja; eesti; arengukava; haridus-; keelepoliitika
-1,3,2,0,0,2,3,1,2,16,arengukava; põhialused; keel; haridus-; õpetaja; keelepoliitika; ja; eesti
+2,4,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+2,4,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+2,4,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+2,4,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+2,4,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+2,3,3,1,0,2,2,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja
+1,3,4,1,0,2,3,2,0,16,haridus-; eesti; põhialused; ja; keelepoliitika; keel; õpetaja; arengukava
+1,1,4,2,0,3,3,2,0,16,keelepoliitika; haridus-; õpetaja; eesti; põhialused; ja; arengukava
+2,1,3,2,0,3,3,2,0,16,keelepoliitika; keel; haridus-; eesti; õpetaja; põhialused; ja
+2,2,3,1,0,2,3,2,0,16,haridus-; keelepoliitika; õpetaja; eesti; põhialused; ja; arengukava
+1,3,2,0,0,3,1,2,0,16,keelepoliitika; keel; haridus-; eesti; õpetaja; põhialused; ja; arengukava

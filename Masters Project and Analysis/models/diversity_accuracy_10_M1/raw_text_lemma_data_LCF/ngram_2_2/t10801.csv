@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,0,0,0,10,abort
-0,0,0,0,1,0,0,0,0,10,abort
-0,0,0,0,1,0,0,0,0,10,abort
-0,0,0,0,1,0,0,1,0,10,abort; ivanov
-0,0,0,0,1,0,0,1,0,10,abort; ivanov
-0,0,0,0,1,0,0,1,0,10,abort; ivanov
-0,0,0,0,1,0,0,1,0,10,abort; ivanov
-0,0,0,0,1,0,1,1,0,10,abort; ivanov
-0,0,0,0,1,0,1,1,0,10,abort; ivanov
-0,1,0,0,1,0,1,0,0,10,abort; ristimine; ivanov
-0,0,0,0,1,0,1,0,0,10,abort; ivanov
+1,0,0,0,1,1,1,1,0,10,abort; homoseksualism; nõukogu
+1,0,0,0,1,1,1,1,0,10,abort; homoseksualism; nõukogu
+1,0,0,0,1,1,1,1,0,10,abort; homoseksualism; nõukogu
+1,0,0,0,1,1,1,2,1,10,abort; nõukogu; homoseksualism; ivanov
+1,0,0,0,1,1,1,2,1,10,abort; nõukogu; homoseksualism; ivanov
+1,0,0,0,1,1,1,2,1,10,abort; nõukogu; homoseksualism; ivanov
+1,1,0,0,1,1,1,2,1,10,abort; tervishoid; nõukogu; homoseksualism; ivanov
+0,2,0,0,1,2,2,2,1,10,abort; tervishoid; nõukogu; ivanov
+1,1,0,0,1,2,2,2,1,10,abort; tervishoid; nõukogu; homoseksualism; ivanov
+0,2,0,1,1,0,2,0,0,10,abort; nõukogu; ivanov; ristimine
+0,1,0,0,1,1,2,0,0,10,nõukogu; abort; ivanov

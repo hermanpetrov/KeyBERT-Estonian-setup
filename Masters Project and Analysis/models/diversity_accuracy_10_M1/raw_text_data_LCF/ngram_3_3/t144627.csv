@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,0,0,0,2,0,14,lenk; viktor; marje; näitleja
-2,0,0,0,0,0,0,2,0,14,lenk; viktor; marje; näitleja
-2,0,0,0,0,0,0,2,0,14,lenk; viktor; marje; näitleja
-2,0,0,0,0,0,0,2,0,14,lenk; viktor; marje; näitleja
-2,0,0,0,0,0,0,2,1,14,lenk; viktor; marje; näitleja
-2,0,0,0,0,0,0,2,1,14,lenk; viktor; marje; näitleja
-0,0,1,1,0,0,1,2,1,14,viktor; näitleja
-1,0,0,0,0,0,0,2,0,14,viktor; näitleja
-1,0,0,0,0,0,0,0,1,14,lenk; näitleja
-1,0,0,0,0,1,0,1,1,14,lenk; viktor; marje; näitleja
-0,0,0,0,0,1,2,1,1,14,lavakunstikateeder; viktor; marje; näitleja
+2,0,0,0,0,0,2,0,0,14,näitleja; viktor; lenk; marje
+2,0,0,0,0,0,2,0,0,14,näitleja; viktor; lenk; marje
+2,0,0,0,0,0,2,0,0,14,näitleja; viktor; lenk; marje
+2,0,0,0,0,0,2,0,0,14,näitleja; viktor; lenk; marje
+2,0,0,0,0,0,2,1,0,14,viktor; näitleja; lenk; marje
+2,0,0,0,0,0,2,1,0,14,viktor; näitleja; lenk; marje
+0,0,1,1,0,1,2,1,0,14,viktor; näitleja
+1,0,0,0,0,0,2,0,0,14,viktor; näitleja
+1,0,0,0,0,0,0,1,0,14,näitleja; lenk
+1,0,0,0,0,0,1,1,0,14,näitleja; viktor; lenk
+0,0,0,0,0,2,1,1,0,14,lavakunstikateeder; viktor; näitleja; marje

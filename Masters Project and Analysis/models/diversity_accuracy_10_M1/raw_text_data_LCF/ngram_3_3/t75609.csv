@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,0,0,1,0,2,14,religioon; filosoofia; teadus; püha; teadvus; üliintellekt
-1,2,1,1,0,0,1,0,2,14,religioon; filosoofia; teadus; püha; teadvus; üliintellekt
-1,2,1,1,0,0,1,0,2,14,religioon; filosoofia; teadus; püha; teadvus; üliintellekt
-1,2,1,1,0,0,1,0,2,14,religioon; filosoofia; teadus; püha; teadvus; üliintellekt
-1,1,1,1,0,0,1,1,2,14,filosoofia; teadus; püha; teadvus; üliintellekt
-1,3,0,1,0,0,1,1,2,14,filosoofia; vaim; teadus; püha; teadvus; üliintellekt
-0,2,0,0,0,1,1,1,2,14,püha; teadvus; vaim; filosoofia
-0,1,0,0,0,1,2,1,2,14,religioon; vaim; filosoofia; püha; teadvus
-1,0,0,0,0,3,1,0,1,14,religioon; tehnoloogiline; teadus; püha; filosoofia
-1,1,2,1,2,2,1,0,1,14,religioon; tehnoloogiline; püha; filosoofia; teadvus; vaim; teadus; usutunne
-0,0,0,0,0,1,0,1,2,14,religioon; usklik; arrak
+1,2,1,1,0,1,0,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia; religioon
+1,2,1,1,0,1,0,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia; religioon
+1,2,1,1,0,1,0,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia; religioon
+1,2,1,1,0,1,0,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia; religioon
+1,1,1,1,0,1,1,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia
+1,3,0,1,0,1,1,2,0,14,teadus; üliintellekt; püha; teadvus; filosoofia; vaim
+0,2,0,0,0,1,1,2,0,14,filosoofia; teadvus; püha; vaim
+0,1,0,0,0,2,1,2,0,14,püha; teadvus; filosoofia; religioon; vaim
+1,0,0,0,0,1,0,1,0,14,filosoofia; teadus; püha
+1,1,2,1,2,1,0,1,0,14,tehnoloogiline; teadus; teadvus; filosoofia; usutunne; religioon; vaim
+0,0,0,0,0,0,1,2,0,14,usklik; religioon; arrak

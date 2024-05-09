@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,tegutsemisaeg; vaba; süsteem; jõulud; jõulurõõmud; aeg
-2,1,2,2,2,2,2,1,0,11,vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,2,2,2,2,1,0,11,vaba; süsteem; jõulud; jõulurõõmud; aeg
-3,1,2,0,2,2,1,1,0,11,vaba; süsteem; jõulud; jõulurõõmud; aeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; jõulurõõmud; süsteem; vaba; tegutsemisaeg
+2,1,2,2,2,2,1,0,0,11,jõulud; aeg; süsteem; jõulurõõmud; vaba
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; süsteem; jõulurõõmud; vaba
+3,1,2,2,2,2,1,0,0,11,jõulud; aeg; süsteem; jõulurõõmud; vaba
+3,1,2,0,2,1,1,0,0,11,jõulud; aeg; süsteem; jõulurõõmud; vaba

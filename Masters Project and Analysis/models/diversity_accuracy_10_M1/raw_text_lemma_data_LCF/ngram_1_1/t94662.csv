@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,0,18,petser; ukraina
-0,0,1,0,0,0,1,0,0,18,petser; ukraina
-0,0,1,0,0,0,1,0,0,18,petser; ukraina
-0,0,1,0,0,0,1,0,0,18,petser; ukraina
-0,0,1,0,0,0,1,0,0,18,petser; ukraina
-0,0,1,0,0,1,1,1,0,18,petser; kalev; ukraina
-0,0,1,0,0,1,1,1,0,18,petser; kalev
-0,0,1,0,0,0,1,0,0,18,petser; kalev
+1,0,1,0,0,0,1,0,0,18,ukraina; ühisgümnaasium; petser
+1,0,1,0,0,0,1,0,0,18,ukraina; ühisgümnaasium; petser
+1,0,1,0,0,0,1,0,0,18,ukraina; ühisgümnaasium; petser
+1,0,1,0,0,0,1,0,0,18,ukraina; ühisgümnaasium; petser
+1,0,1,0,0,0,1,0,0,18,ukraina; ühisgümnaasium; petser
+1,0,1,0,0,1,1,1,0,18,ukraina; kalev; petser; ühisgümnaasium
+1,0,1,0,0,1,1,1,0,18,kalev; ühisgümnaasium; petser
+1,0,1,0,0,0,1,0,0,18,kalev; ühisgümnaasium; petser
+1,0,1,0,0,0,0,0,0,18,ühisgümnaasium; petser
 0,0,1,0,0,0,0,0,0,18,petser
-0,0,1,0,0,0,0,0,0,18,petser
-0,0,1,0,0,1,1,0,0,18,petser; kalev; staadion
+0,0,1,0,0,1,1,0,0,18,staadion; kalev; petser

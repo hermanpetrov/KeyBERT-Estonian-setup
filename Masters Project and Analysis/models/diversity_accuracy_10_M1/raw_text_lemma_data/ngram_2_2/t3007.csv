@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-1,0,0,0,0,0,0,1,0,15,edgar; palts
-0,0,0,0,0,0,0,1,0,15,edgar
-0,0,0,0,0,0,0,1,0,15,edgar
-0,0,0,0,0,0,0,1,0,15,edgar
-0,0,1,1,0,0,0,0,0,15,tõnis; välis-eesti
-2,1,0,0,0,0,0,0,0,15,tõnis; edgar; eentalu
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+1,1,0,1,0,0,0,2,0,15,palts; edgar; savisaar; perearst
+0,1,0,0,0,0,1,1,0,15,edgar; savisaar
+0,1,0,0,0,0,0,1,0,15,edgar; savisaar
+1,1,0,0,0,0,0,2,0,15,umbusaldamine; edgar; savisaar
+0,0,1,2,0,0,0,1,0,15,umbusaldamine; tõnis; välis-eesti
+2,1,0,0,0,0,0,1,0,15,eentalu; umbusaldamine; edgar; tõnis

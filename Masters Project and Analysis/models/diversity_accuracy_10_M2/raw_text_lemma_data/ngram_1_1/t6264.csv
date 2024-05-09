@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,1,1,0,14,monumentalism; brandenburg; berliin
-1,0,0,0,0,0,1,1,0,14,monumentalism; brandenburg; berliin
-1,0,0,0,0,0,1,1,0,14,monumentalism; brandenburg; berliin
-1,0,0,0,0,0,1,1,0,14,monumentalism; brandenburg; berliin
-1,0,0,0,0,0,1,1,0,14,monumentalism; brandenburg; berliin
-1,0,0,0,0,0,1,0,0,14,monumentalism; brandenburg
-1,0,0,0,0,0,0,0,0,14,monumentalism
-1,0,0,0,0,1,0,0,0,14,von; monumentalism
-0,1,0,0,0,1,0,0,0,14,von; bismarck
-0,1,0,0,0,0,0,0,0,14,bismarck
-0,2,0,0,0,0,0,0,0,14,monumentalism; bismarck
+2,0,1,0,0,1,2,2,0,14,berliin; brandenburg; monumentalism; tööstusrevolutsioon; saksamaa
+2,0,1,0,0,1,2,2,0,14,berliin; brandenburg; monumentalism; tööstusrevolutsioon; saksamaa
+2,0,1,0,0,1,2,2,0,14,berliin; brandenburg; monumentalism; tööstusrevolutsioon; saksamaa
+2,0,1,0,0,1,2,2,0,14,berliin; brandenburg; monumentalism; tööstusrevolutsioon; saksamaa
+2,0,2,0,0,1,2,2,0,14,berliin; brandenburg; monumentalism; tööstusrevolutsioon; saksamaa; maailmasõda
+2,0,2,0,0,0,2,1,0,14,brandenburg; monumentalism; tööstusrevolutsioon; saksamaa; maailmasõda
+2,0,2,0,0,0,0,0,0,14,saksamaa; maailmasõda; monumentalism; tööstusrevolutsioon
+2,0,2,0,0,1,0,0,0,14,monumentalism; tööstusrevolutsioon; saksamaa; maailmasõda; von
+1,1,1,0,0,1,0,0,0,14,saksamaa; tööstusrevolutsioon; von; bismarck
+1,1,1,0,0,0,0,0,0,14,saksamaa; tööstusrevolutsioon; bismarck
+0,2,1,0,0,0,0,0,0,14,saksamaa; monumentalism; bismarck

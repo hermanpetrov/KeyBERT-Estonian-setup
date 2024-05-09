@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,0,0,14,purjetamine
-1,0,0,0,0,0,0,0,0,14,purjetamine
-1,0,0,0,0,0,0,0,0,14,purjetamine
-1,0,0,0,0,0,0,0,0,14,purjetamine
-1,0,0,0,0,0,0,0,0,14,purjetamine
-0,0,0,0,0,0,0,0,0,14,
-0,0,0,0,0,0,0,0,0,14,
-0,0,0,1,0,0,0,0,0,14,purjetamine
-0,0,0,0,0,0,0,1,0,14,hiidlane
-0,0,0,0,0,0,0,1,0,14,hiidlane
-0,0,0,0,0,0,0,1,0,14,purjetamine
+1,0,1,1,0,0,0,1,0,14,hiiumaa; rahvariie; purjetamine; keskväljak
+1,0,1,1,0,0,0,1,0,14,hiiumaa; rahvariie; purjetamine; keskväljak
+1,0,1,1,0,0,0,1,0,14,hiiumaa; rahvariie; purjetamine; keskväljak
+1,0,1,1,0,0,0,1,0,14,hiiumaa; rahvariie; purjetamine; keskväljak
+1,0,1,1,0,0,0,1,0,14,hiiumaa; rahvariie; purjetamine; keskväljak
+0,0,1,1,0,1,1,1,0,14,hiiumaa; rahvariie; keskväljak
+1,0,1,1,0,0,1,0,0,14,nõelakoda; keskväljak
+1,0,1,1,0,0,0,0,0,14,nõelakoda; purjetamine; keskväljak
+1,0,0,0,0,0,0,1,0,14,nõelakoda; hiidlane
+0,0,1,0,0,0,1,1,0,14,hiiumaa; hiidlane; keskväljak
+0,0,2,0,0,0,0,1,0,14,hiiumaa; purjetamine; keskväljak

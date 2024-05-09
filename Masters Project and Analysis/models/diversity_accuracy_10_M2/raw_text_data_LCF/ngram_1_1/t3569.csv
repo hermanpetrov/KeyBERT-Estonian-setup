@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,0,0,0,15,euroopa
-0,0,1,0,0,1,0,0,0,15,euroopa
-0,0,1,0,0,1,0,0,0,15,euroopa
-0,0,1,0,0,1,0,0,0,15,euroopa
-0,0,1,0,0,1,0,0,0,15,euroopa
-0,1,1,0,0,1,0,0,0,15,euroopa
+0,0,1,0,0,0,0,0,0,15,euroopa
+0,0,1,0,0,0,0,0,0,15,euroopa
+0,0,1,0,0,0,0,0,0,15,euroopa
+0,0,1,0,0,0,0,0,0,15,euroopa
+0,0,1,0,0,0,0,0,0,15,euroopa
+0,1,1,0,0,0,0,0,0,15,euroopa
 0,1,0,0,0,0,0,0,0,15,euroopa
-0,1,0,0,0,0,1,0,0,15,erakond; euroopa
-0,0,0,1,0,0,1,1,0,15,muusikafestival; erakond; liit
-0,0,0,1,0,0,1,0,0,15,muusikafestival; erakond
-0,0,0,0,0,0,1,0,0,15,erakond
+0,1,0,0,0,1,0,0,0,15,erakond; euroopa
+0,0,0,1,0,1,1,0,0,15,erakond; muusikafestival; liit
+0,0,0,1,0,1,0,0,0,15,erakond; muusikafestival
+0,0,0,0,0,1,0,0,0,15,erakond

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,7,5,6,7,6,7,7,7,17,petrov; uno; nsv; andrei; biitel; laul; aasta; liit; bob; dylan
-7,7,4,6,7,7,7,7,7,17,petrov; uno; nsv; andrei; biitel; laul; aasta; liit; bob; dylan
-7,7,5,5,7,7,8,7,7,17,petrov; uno; nsv; andrei; kustas; biitel; laul; aasta; liit; bob; dylan
-7,6,6,6,7,8,6,7,8,17,petrov; uno; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-8,5,7,5,6,8,8,6,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-6,6,8,6,6,9,7,7,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-7,5,9,7,6,7,6,9,9,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-7,5,9,7,8,8,8,7,7,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-5,3,9,8,7,7,8,7,6,17,uno; petrov; nsv; andrei; kustas; biitel; laul; aasta; liit; bob; dylan
-5,4,8,8,9,4,6,9,6,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
-5,6,8,8,8,5,7,8,6,17,uno; petrov; andrei; kustas; aasta; bob; dylan; nsv; biitel; laul; liit
+9,8,6,8,8,7,9,8,9,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; uno; biitel; petrov; aasta; bob; transpordilennuk; luurelennuk; andrei
+8,8,5,9,8,8,9,8,9,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; uno; biitel; petrov; aasta; bob; transpordilennuk; luurelennuk; andrei
+8,8,6,8,8,8,10,8,9,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; petrov; aasta; bob; transpordilennuk; luurelennuk; andrei
+8,7,7,8,8,9,8,8,10,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; petrov; aasta; bob; transpordilennuk; luurelennuk; andrei
+9,6,9,7,7,9,10,8,11,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei
+7,8,11,9,7,10,9,9,11,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei
+8,7,11,9,7,8,8,11,10,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei
+8,8,11,10,10,9,10,10,8,17,nsv; levimuusika; dylan; kikerpuu; kustas; laul; liit; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei
+5,6,11,11,9,8,10,9,8,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei
+5,7,9,10,11,5,7,10,8,17,nsv; levimuusika; dylan; kikerpuu; kustas; laul; liit; uno; biitel; aasta; petrov; bob; transpordilennuk; andrei
+5,8,11,10,10,6,9,9,8,17,nsv; levimuusika; dylan; kikerpuu; laul; liit; kustas; uno; biitel; aasta; petrov; bob; transpordilennuk; luurelennuk; andrei

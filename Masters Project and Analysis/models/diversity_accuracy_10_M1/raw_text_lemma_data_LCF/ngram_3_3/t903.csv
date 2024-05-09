@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,3,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,3,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,3,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,3,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,4,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,4,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,3,1,0,2,1,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-3,2,1,1,0,2,2,1,2,10,ameerika; sport; naine; võistlus; meedia; mees
-1,3,1,4,0,2,2,2,2,10,ameerika; sport; gladiaator; naine; võistlus; meedia; sõda; mees
-3,2,1,2,0,2,2,5,2,10,ameerika; sport; gladiaator; võistlus; meedia; sõda; mees
-2,1,3,3,0,3,3,2,2,10,ameerika; sport; gladiaator; võistlus; meedia; sõda; mees
+3,3,4,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,4,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,4,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,4,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,5,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,4,2,0,2,1,1,2,10,jalgpall; ameerika; võistlus; mees; sport; naine; meedia
+3,3,3,2,0,2,1,1,2,10,meedia; jalgpall; mees; sport; naine; ameerika; võistlus
+4,2,1,2,0,2,2,1,2,10,meedia; jalgpall; mees; sport; naine; ameerika; võistlus
+2,3,1,5,0,2,2,2,2,10,jalgpall; gladiaator; ameerika; sõda; võistlus; mees; sport; naine; meedia
+4,3,1,3,0,2,3,5,2,10,jalgpall; gladiaator; ameerika; võistlus; sõda; mees; sport; meedia
+3,1,4,4,0,3,4,2,2,10,jalgpall; gladiaator; ameerika; võistlus; sõda; mees; sport; meedia

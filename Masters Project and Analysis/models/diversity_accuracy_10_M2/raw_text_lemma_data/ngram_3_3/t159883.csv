@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,0,1,0,11,looming; ülo
-0,0,0,0,1,0,0,1,0,11,looming; ülo
-0,0,0,0,1,0,0,1,0,11,looming; ülo
-0,0,0,0,1,0,0,1,0,11,looming; ülo
-0,0,0,0,1,0,0,1,0,11,looming; ülo
-0,0,0,0,1,0,0,2,0,11,laps; looming; ülo
-1,0,0,0,1,0,0,2,0,11,laps; looming; ülo
-1,0,0,0,1,0,1,1,0,11,laps; looming; ülo; õppima
-2,1,0,0,1,0,2,0,0,11,laps; looming; ülo
-2,1,0,0,1,0,0,1,0,11,looming; ülo; õppima
-0,1,0,1,1,1,1,0,0,11,looming; granaat; laps; ülo
+0,0,1,1,1,1,1,1,0,11,looming; ülo; vanaisa
+0,0,1,1,1,1,1,1,0,11,looming; ülo; vanaisa
+0,0,1,1,1,1,1,1,0,11,looming; ülo; vanaisa
+0,0,1,1,1,1,1,1,0,11,looming; ülo; vanaisa
+0,0,1,1,1,1,1,1,0,11,looming; ülo; vanaisa
+0,1,1,1,1,1,1,2,0,11,laps; looming; ülo; vanaisa
+1,0,1,1,1,1,1,2,0,11,laps; ülo; looming; vanaisa
+1,1,1,1,1,1,2,1,0,11,laps; ülo; õppima; looming; vanaisa
+2,1,1,1,1,1,3,0,0,11,laps; ülo; looming; vanaisa
+2,1,1,1,1,1,1,1,0,11,ülo; õppima; looming; vanaisa
+0,1,0,2,1,2,2,0,0,11,laps; ülo; looming; granaat; vanaisa

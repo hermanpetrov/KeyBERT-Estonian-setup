@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
-0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
-0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
-0,1,1,0,0,1,3,0,0,14,teater; klassika; kontsert
-0,1,0,0,0,1,2,0,0,14,teater; kontsert
-0,1,0,0,0,0,0,0,0,14,teater
-1,1,0,0,0,0,0,0,0,14,teater; kapitalism
-1,1,0,0,0,1,0,0,0,14,teater; kapitalism; elmo
-0,0,1,1,0,1,2,2,1,14,revolutsionäär; stoppard; elmo; kaja
-0,0,1,1,0,1,2,1,1,14,revolutsionäär; stoppard; elmo; kaja
-0,0,1,2,0,1,2,0,1,14,stoppard; elmo; klassika; kaja
+0,1,1,0,0,1,3,1,0,14,kontsert; tammsaare; teater; klassika
+0,1,1,0,0,1,3,1,0,14,kontsert; tammsaare; teater; klassika
+0,1,1,0,0,1,3,1,0,14,kontsert; tammsaare; teater; klassika
+0,1,2,0,0,1,3,1,0,14,iseseisvuspäev; kontsert; tammsaare; teater; klassika
+0,1,1,0,0,1,2,1,0,14,iseseisvuspäev; tammsaare; teater; kontsert
+0,1,2,0,0,0,1,1,0,14,iseseisvuspäev; tammsaare; teater
+1,1,2,0,0,0,1,0,0,14,iseseisvuspäev; tammsaare; teater; kapitalism
+1,1,2,0,0,2,1,1,0,14,elmo; iseseisvuspäev; tammsaare; teater; kapitalism
+0,0,2,1,0,2,3,3,1,14,revolutsionäär; stoppard; kaja; elmo; iseseisvuspäev; tammsaare
+1,0,1,1,0,2,3,2,1,14,revolutsionäär; stoppard; kaja; elmo; iseseisvuspäev; tammsaare
+0,0,1,2,0,2,3,1,1,14,stoppard; kaja; elmo; iseseisvuspäev; tammsaare; klassika

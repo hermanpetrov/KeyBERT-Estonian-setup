@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,0,0,0,3,2,0,0,16,estonia; klaver; teater; pianiino; eesti
-0,1,1,0,0,1,1,0,0,16,teater; estonia
-0,1,1,0,0,1,1,0,0,16,teater; estonia
-0,1,1,0,0,0,1,0,0,16,teater; estonia
-0,0,0,1,0,0,1,1,0,16,pianiino; klaver; estonia
-0,0,2,0,0,0,0,0,1,16,teater; tomson; eesti
+1,3,3,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,3,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,3,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,3,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,2,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,1,0,0,4,2,1,1,16,pianiino; klaver; eesti; klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,1,0,0,2,4,3,1,16,klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; klaveriehitus; teater; estonia
+1,3,1,0,0,1,1,2,1,16,klaverimeister; tiibklaver; kultuuripilt; muusikamuuseum; teater; estonia
+1,3,1,0,0,0,1,0,1,16,tiibklaver; kultuuripilt; muusikamuuseum; teater; estonia
+0,2,0,1,0,0,1,1,1,16,pianiino; klaver; tiibklaver; muusikamuuseum; estonia
+0,0,2,0,0,0,0,1,1,16,klaverimeister; eesti; teater; tomson

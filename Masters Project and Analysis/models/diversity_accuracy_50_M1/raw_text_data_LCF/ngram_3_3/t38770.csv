@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,8,2,1,3,1,1,4,1,15,majandus; reimo; sildvee; vaino; poolamets; eesti; eelarve; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-4,8,2,1,3,1,1,4,1,15,majandus; reimo; sildvee; vaino; poolamets; eesti; eelarve; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-4,8,2,1,3,1,1,4,1,15,majandus; reimo; sildvee; vaino; poolamets; eesti; eelarve; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-4,8,2,1,3,1,1,5,1,15,majandus; reimo; sildvee; vaino; poolamets; eesti; eelarve; rahaliit; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-5,7,2,1,3,1,1,4,1,15,majandus; reimo; sildvee; vaino; poolamets; eesti; eelarve; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-2,6,3,2,3,4,4,7,1,15,majandus; reimo; sildvee; vaino; eesti; poolamets; kroon; eelarve; rahaliit; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-5,5,3,1,3,3,5,7,1,15,majandus; reimo; sildvee; vaino; eesti; poolamets; eelarve; rahaliit; eurotsoon; anti; föderatsioon; urmas; sotsiaalne
-3,3,2,2,4,4,2,4,1,15,majandus; reimo; vaino; poolamets; eesti; eelarve; eurotsoon; anti; föderatsioon; heaolu; urmas; sotsiaalne
-2,2,1,1,1,3,2,9,1,15,rahaliit; kroon; anti; urmas; majandus; vaino; poolamets; eesti; eelarve; eurotsoon; heaolu
-5,2,4,0,0,1,2,7,2,15,majandus; anti; vaino; poolamets; eesti; eelarve; eurotsoon; kroon; heaolu; urmas; sotsiaalne
-3,2,2,0,2,3,0,6,2,15,majandus; reimo; sildvee; eesti; poolamets; kroon; eelarve; rahaliit; anti; föderatsioon; urmas
+4,8,2,1,3,1,4,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; heaolu; föderatsioon
+4,8,2,1,3,1,4,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; heaolu; föderatsioon
+4,8,2,1,3,1,4,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; heaolu; föderatsioon
+4,8,2,1,3,1,5,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; rahaliit; heaolu; föderatsioon
+5,7,2,1,3,1,4,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; heaolu; föderatsioon
+2,6,3,2,3,4,7,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; rahaliit; heaolu; föderatsioon; kroon
+5,5,3,1,3,5,7,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; sildvee; vaino; rahaliit; föderatsioon
+3,3,2,2,4,2,4,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; reimo; sotsiaalne; eurotsoon; vaino; heaolu; föderatsioon
+2,2,1,1,1,2,9,1,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; eurotsoon; vaino; rahaliit; heaolu; kroon
+5,2,4,0,0,2,7,2,0,15,majandus; poolamets; eesti; anti; urmas; eelarve; sotsiaalne; eurotsoon; vaino; heaolu; kroon
+3,2,2,0,2,0,6,2,0,15,majandus; poolamets; anti; eesti; urmas; eelarve; reimo; sildvee; rahaliit; kroon

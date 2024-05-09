@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,1,0,0,0,0,18,teater; peebo; mälberg; mall
-0,1,3,0,1,0,0,0,0,18,teater; peebo; mälberg; mall
-0,1,3,0,1,0,0,0,0,18,teater; peebo; mälberg; mall
-0,1,2,0,1,0,0,0,0,18,teater; peebo; mälberg; mall
-0,1,2,0,1,0,0,0,0,18,teater; peebo; mälberg; mall
-0,0,2,0,1,0,0,0,0,18,mälberg; peebo; mall
-0,0,2,0,1,2,0,0,0,18,peebo; annely; mälberg; mall
-0,0,1,1,1,2,0,1,0,18,peebo; annely; andres; mälberg; mall
-0,0,1,1,1,1,0,1,0,18,annely; uibo; mälberg; mall
-0,0,2,0,1,2,2,1,0,18,peebo; annely; uibo; hele; mälberg; lamp
-0,0,2,0,1,2,1,1,1,18,peebo; annely; uibo; hele; mälberg; lamp
+0,2,4,0,1,0,1,1,0,18,ooperilaulja; mall; mälberg; teater; peebo
+0,2,4,0,1,0,1,1,0,18,ooperilaulja; mall; mälberg; teater; peebo
+0,2,4,0,1,0,1,1,0,18,ooperilaulja; mall; mälberg; teater; peebo
+0,2,3,0,1,0,1,1,0,18,ooperilaulja; mall; mälberg; teater; peebo
+0,2,3,0,1,1,1,1,0,18,ooperilaulja; mall; mälberg; teater; peebo
+0,1,2,0,1,1,0,0,0,18,ooperilaulja; mall; mälberg; peebo
+1,1,2,0,1,3,0,0,0,18,ooperilaulja; kettaheide; mall; annely; mälberg; peebo
+0,1,1,1,1,2,0,1,0,18,ooperilaulja; annely; mall; andres; mälberg; peebo
+0,1,1,1,1,1,0,1,0,18,ooperilaulja; mall; annely; mälberg; uibo
+0,0,2,0,1,2,2,1,0,18,hele; lamp; annely; mälberg; uibo; peebo
+0,0,2,0,1,2,1,1,1,18,hele; lamp; annely; mälberg; uibo; peebo

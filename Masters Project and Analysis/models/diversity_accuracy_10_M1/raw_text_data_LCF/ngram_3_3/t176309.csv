@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,2,1,2,2,8,3,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-5,3,3,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,2,2,0,2,2,8,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
-4,3,3,2,0,2,2,7,2,13,ema; kõrvalised; märt; isikud; ilmar; martin; isa; pius
-6,3,2,3,1,1,2,7,2,13,ema; kõrvalised; märt; isikud; ilmar; martin; sool; isa; pius
-4,3,3,3,2,1,2,7,2,13,ema; kõrvalised; märt; isikud; tomusk; ilmar; martin; isa; pius
+4,3,3,2,1,2,8,3,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+5,3,3,2,0,2,8,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,2,2,0,2,8,2,0,13,martin; pius; tomusk; ilmar; märt; isa; kõrvalised; ema; isikud
+4,3,3,2,0,2,7,2,0,13,martin; pius; ilmar; märt; isa; kõrvalised; ema; isikud
+6,3,2,3,1,2,7,2,0,13,martin; pius; ilmar; märt; isa; kõrvalised; sool; ema; isikud
+4,3,3,3,2,2,7,2,0,13,martin; tomusk; pius; ilmar; märt; isa; kõrvalised; ema; isikud

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,6,4,5,4,3,6,5,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-5,5,6,4,5,4,4,6,6,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-5,5,5,4,5,5,5,6,6,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-5,5,3,4,6,5,5,6,6,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-5,4,6,4,5,4,4,6,6,10,ants; elu; pavel; signe; tartu; identiteet; daniel
-6,6,6,5,6,6,7,5,6,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-7,6,6,6,7,7,6,6,6,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-5,5,7,6,7,7,6,5,5,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
-8,5,8,6,7,8,7,7,4,10,konflikt; ants; elu; pavel; signe; tartu; identiteet; daniel
-7,5,8,6,7,8,7,6,4,10,konflikt; ants; elu; pavel; signe; tartu; identiteet; daniel
-5,6,8,6,6,8,6,7,3,10,ants; konflikt; elu; pavel; signe; tartu; identiteet; daniel
+5,6,6,5,5,4,3,6,5,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+5,6,6,5,5,4,4,7,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+5,6,5,5,5,5,5,7,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+5,6,3,5,6,5,5,7,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+5,5,7,5,5,4,4,7,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet
+6,7,6,6,6,6,7,6,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+8,7,7,6,7,8,7,7,6,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+6,6,8,6,7,8,6,6,5,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+9,5,9,6,7,8,8,8,4,10,elu; daniel; tartu; pavel; ants; heinküla; signe; identiteet; konflikt
+8,5,9,6,8,8,8,7,4,10,daniel; tartu; pavel; signe; ants; heinküla; elu; identiteet; konflikt
+6,6,9,6,7,8,7,8,3,10,daniel; tartu; pavel; signe; ants; heinküla; elu; identiteet; konflikt

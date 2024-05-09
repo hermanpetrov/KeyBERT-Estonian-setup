@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,2,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,2,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,2,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,2,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,3,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,3,0,2,2,4,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-2,3,2,3,0,2,2,5,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-0,3,2,3,0,3,2,6,2,12,tulevik; unt; luuletaja; kollane; intervjuu; romaan; mati; viivi; kass
-2,1,2,3,0,2,2,5,2,12,tulevik; unt; luuletaja; kollane; romaan; mati; viivi; kass
-3,1,2,4,0,3,3,4,2,12,unt; luuletaja; kollane; intervjuu; romaan; mati; viivi
-2,1,2,1,0,3,2,4,2,12,unt; luuletaja; kollane; romaan; mati; viivi; kass
+2,3,2,3,0,2,2,4,2,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,3,0,2,2,4,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,3,0,2,2,4,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,3,0,2,2,4,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,4,0,2,2,4,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,4,0,2,2,4,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+2,3,2,4,0,2,2,5,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+0,3,2,4,0,4,2,6,3,12,luuletaja; tulevik; intervjuu; raadioarhiiv; viivi; kollane; mati; unt; kass; romaan
+2,1,2,4,0,3,2,5,3,12,luuletaja; tulevik; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan
+3,1,2,5,0,4,3,4,3,12,luuletaja; intervjuu; raadioarhiiv; viivi; kollane; mati; unt; romaan
+2,1,2,2,0,4,2,4,3,12,luuletaja; viivi; raadioarhiiv; kollane; mati; unt; kass; romaan

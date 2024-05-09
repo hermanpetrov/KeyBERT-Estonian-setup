@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-8,5,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-8,5,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-8,4,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-8,4,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-8,4,7,2,2,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-7,3,8,2,2,7,6,7,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-7,5,8,3,3,7,6,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-5,3,8,4,3,7,6,7,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-5,2,6,5,3,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
-5,3,6,6,3,7,5,8,2,12,uusorg; margo; võistlus; eesti; soome; naisekandmine; vesi; birgit; ulrich
+8,5,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+8,5,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+8,5,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+8,4,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+8,4,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+8,4,7,2,2,5,8,2,0,12,soome; margo; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+7,3,8,2,2,6,7,2,0,12,soome; eesti; margo; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+7,5,8,3,3,6,8,2,0,12,margo; soome; eesti; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+5,3,8,4,3,6,7,2,0,12,soome; eesti; margo; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+5,2,6,5,3,5,8,2,0,12,soome; eesti; margo; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg
+5,3,6,6,3,5,8,2,0,12,soome; eesti; margo; vesi; võistlus; naisekandmine; ulrich; birgit; uusorg

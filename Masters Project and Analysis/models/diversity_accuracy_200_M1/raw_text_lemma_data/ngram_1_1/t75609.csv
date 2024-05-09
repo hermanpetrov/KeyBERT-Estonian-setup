@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,5,1,1,3,3,2,1,14,religioon; tehnoloogiline; püha; usklik; teadvus; filosoofia; jüri; vaim
-3,5,3,1,1,3,3,2,2,14,religioon; püha; usklik; teadvus; filosoofia; jüri; vaim; teadus
-3,5,4,1,1,3,3,2,3,14,religioon; püha; usklik; teadvus; filosoofia; jüri; vaim; teadus
-3,4,4,0,1,3,2,2,3,14,religioon; püha; usklik; filosoofia; teadvus; jüri; vaim; teadus
-1,3,2,0,1,4,2,2,3,14,religioon; usklik; püha; filosoofia; jüri; teadus
-1,2,3,0,1,4,2,0,3,14,religioon; tehnoloogiline; usklik; püha; filosoofia; kunstnik; jüri; teadus
-1,2,0,0,1,3,1,0,4,14,religioon; jüri; usklik; teadus; püha; filosoofia; kunstnik
-1,2,1,1,1,3,2,3,3,14,religioon; tehnoloogiline; püha; usklik; filosoofia; kunstnik; jüri; teadus; arrak
-1,2,0,0,2,2,1,3,1,14,jüri; püha; teadus; usklik; filosoofia; arrak; kunstnik
-1,2,1,0,1,3,2,2,1,14,jüri; püha; teadvus; teadus; usklik; filosoofia; arrak
-1,2,1,0,3,2,1,1,2,14,religioon; jüri; püha; teadus; usklik; filosoofia; arrak
+5,7,7,3,2,5,5,4,1,14,üliintellekt; püha; filosoofia; jüri; tehnoloogiline; jõuluaeg; vaim; teadvus; usutunne; usklik; religioon
+5,5,5,3,2,5,5,4,2,14,üliintellekt; teadus; püha; filosoofia; jüri; jõuluaeg; vaim; teadvus; usutunne; usklik; religioon
+5,5,5,3,2,5,5,4,3,14,üliintellekt; teadus; püha; filosoofia; jüri; jõuluaeg; vaim; teadvus; usutunne; usklik; religioon
+5,4,6,2,2,5,4,4,3,14,üliintellekt; teadus; püha; filosoofia; jüri; jõuluaeg; vaim; teadvus; usutunne; usklik; religioon
+3,3,4,2,2,6,4,4,3,14,üliintellekt; teadus; püha; filosoofia; jüri; jõuluaeg; usutunne; usklik; religioon
+3,2,5,2,2,5,3,1,3,14,üliintellekt; teadus; püha; jüri; filosoofia; tehnoloogiline; jõuluaeg; usutunne; usklik; religioon; kunstnik
+3,2,1,1,2,3,1,1,5,14,üliintellekt; teadus; püha; jüri; filosoofia; jõuluaeg; usutunne; usklik; religioon; kunstnik
+4,2,3,1,1,3,2,3,5,14,üliintellekt; teadus; püha; jüri; filosoofia; tehnoloogiline; jõuluaeg; religioon; usutunne; usklik; arrak; kunstnik
+2,3,1,0,2,2,1,3,2,14,üliintellekt; teadus; püha; filosoofia; jüri; jõuluaeg; usklik; arrak; kunstnik
+2,2,2,0,1,3,2,2,2,14,teadus; püha; filosoofia; jüri; jõuluaeg; teadvus; usutunne; usklik; arrak
+2,2,2,0,3,2,1,1,4,14,teadus; üliintellekt; püha; filosoofia; jüri; jõuluaeg; arrak; usutunne; usklik; religioon

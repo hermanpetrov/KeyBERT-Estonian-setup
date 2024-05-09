@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,0,1,13,eesti
-0,0,0,0,0,1,1,2,1,13,keel; eesti
-0,0,0,0,0,1,1,1,1,13,eesti
-0,0,0,0,0,2,1,0,1,13,keel; eesti
-0,0,0,0,0,1,1,0,1,13,eesti
+0,1,1,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,1,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,1,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,1,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,1,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,0,0,0,2,2,1,1,13,keelepoliitika; eesti; koolisüsteem
+0,1,0,0,0,1,1,0,1,13,eesti; koolisüsteem
+0,1,0,0,0,1,2,3,1,13,keel; eesti; koolisüsteem; arengukava
+1,1,0,0,0,1,2,1,1,13,eesti; arengukava; koolisüsteem
+0,1,0,0,0,2,1,0,1,13,keel; eesti; koolisüsteem
+1,0,0,0,0,1,1,1,1,13,rahvusvahelisus; eesti; arengukava

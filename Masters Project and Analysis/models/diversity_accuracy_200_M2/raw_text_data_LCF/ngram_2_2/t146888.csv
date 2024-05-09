@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,5,5,4,6,6,5,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-5,5,6,5,4,5,6,5,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-5,5,6,5,4,5,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-6,5,6,5,5,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-6,5,5,5,6,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-6,5,6,6,6,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-6,5,6,6,6,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-6,5,6,5,6,5,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-5,5,6,5,6,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-5,5,6,5,6,6,6,6,6,13,ema; johan; torm; kon-tiki; isa; ütlemata
-5,5,6,5,5,6,5,6,5,13,ema; johan; torm; kon-tiki; isa; ütlemata
+5,5,5,5,4,6,5,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+5,5,6,5,4,6,5,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+5,5,6,5,4,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+6,5,6,5,5,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+6,5,5,5,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+6,5,6,6,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+6,5,6,6,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+6,5,6,5,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+5,5,6,5,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+5,5,6,5,6,6,6,6,0,13,johan; isa; torm; ütlemata; ema; kon-tiki
+5,5,6,5,5,5,6,5,0,13,johan; isa; torm; ütlemata; ema; kon-tiki

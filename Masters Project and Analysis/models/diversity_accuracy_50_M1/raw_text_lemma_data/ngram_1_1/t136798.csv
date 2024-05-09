@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,0,0,15,liikumine
-0,0,0,0,0,0,1,0,0,15,liikumine
-0,0,0,0,0,0,1,0,0,15,liikumine
-0,0,0,0,0,0,1,0,0,15,liikumine
-0,0,0,0,0,1,1,0,0,15,liikumine; vladimir
-0,0,0,0,0,0,1,0,0,15,liikumine
-0,0,0,0,0,0,2,0,0,15,liikumine; vladimir
-0,0,0,1,0,0,1,0,0,15,vladimir; jevgeni
-0,0,0,0,0,0,2,0,0,15,liikumine; vladimir
-0,0,0,0,0,0,2,0,0,15,liikumine; vladimir
-0,1,0,1,1,0,2,0,0,15,bashar; liikumine; vladimir; toomas
+1,0,0,2,0,1,1,0,0,15,kultuuripealinn; keemiarelvarünnak; töövisiit; liikumine
+1,0,0,2,0,1,1,0,0,15,kultuuripealinn; keemiarelvarünnak; töövisiit; liikumine
+1,0,0,2,0,1,1,0,0,15,kultuuripealinn; keemiarelvarünnak; töövisiit; liikumine
+1,0,0,2,0,1,1,0,0,15,kultuuripealinn; keemiarelvarünnak; töövisiit; liikumine
+1,0,0,2,0,2,1,0,0,15,keemiarelvarünnak; kultuuripealinn; vladimir; liikumine; töövisiit
+1,0,0,2,0,1,1,0,0,15,kultuuripealinn; keemiarelvarünnak; töövisiit; liikumine
+1,0,0,2,0,1,2,1,0,15,keemiarelvarünnak; kultuuripealinn; vladimir; liikumine; töövisiit
+0,0,0,2,0,0,1,1,0,15,keemiarelvarünnak; jevgeni; töövisiit; vladimir
+0,0,0,1,0,0,2,1,0,15,keemiarelvarünnak; töövisiit; vladimir; liikumine
+1,0,0,0,0,0,2,1,0,15,keemiarelvarünnak; töövisiit; vladimir; liikumine
+0,1,1,1,1,0,2,0,0,15,vladimir; kultuuripealinn; liikumine; bashar; toomas

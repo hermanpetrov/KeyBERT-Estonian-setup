@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,5,7,4,4,5,2,5,11,kristi; keemia; koolitus; pidu; ilves; naturaalne; kohv
-5,3,5,7,4,4,5,2,5,11,kristi; keemia; koolitus; pidu; ilves; naturaalne; kohv
-5,3,5,7,4,4,5,4,5,11,kristi; keemia; koolitus; pidu; ilves; naturaalne; kohv
-6,3,6,7,4,5,5,4,5,11,kristi; keemia; ilves; koolitus; pidu; naturaalne; kohv
-6,3,7,7,5,5,5,5,5,11,kristi; keemia; ilves; koolitus; pidu; naturaalne; kohv
-6,3,7,7,5,5,7,5,4,11,kristi; keemia; ilves; koolitus; pidu; naturaalne; kohv
-6,4,7,6,6,7,7,7,4,11,kristi; keemia; ilves; koolitus; pidu; naturaalne; kohv
-7,3,7,6,6,7,7,6,4,11,kristi; keemia; koolitus; ilves; pidu; naturaalne; kohv
-7,5,7,5,7,7,7,7,6,11,kristi; keemia; koolitus; ilves; pidu; naturaalne; kohv
-7,5,7,5,7,7,7,6,7,11,kristi; keemia; koolitus; ilves; pidu; naturaalne; kohv
-7,5,7,6,7,7,7,7,7,11,kristi; keemia; koolitus; ilves; pidu; naturaalne; kohv
+7,5,7,9,6,5,7,3,7,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+7,5,7,9,6,5,7,3,7,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+7,5,7,9,6,5,7,5,7,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+8,5,8,9,6,6,7,5,7,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+8,5,9,9,7,6,7,6,7,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+8,5,9,9,7,6,8,6,6,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+8,6,8,8,8,8,9,8,6,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+9,5,9,7,8,8,9,7,6,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+9,7,9,7,9,8,9,8,8,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+9,7,9,7,9,8,9,7,9,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi
+9,7,9,7,9,8,9,9,9,11,kohv; koolitus; naturaalne; turismitalu; kodukohvik; keemia; ilves; pidu; kristi

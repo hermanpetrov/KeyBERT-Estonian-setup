@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,3,2,1,4,5,4,1,11,raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
-2,3,3,2,1,4,5,4,1,11,raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
-2,3,3,2,1,4,5,4,1,11,raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
-2,3,3,2,1,4,5,4,1,11,raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
-2,3,4,2,1,4,5,4,1,11,raamat; kirjanik; furby; võõras; olme; lavastus; urmas; vadi
-4,2,5,2,1,4,5,4,1,11,raamat; kirjanik; furby; sotsiaalmeedia; võõras; olme; lavastus; urmas; vadi
-4,1,4,3,2,5,5,6,1,11,raamat; kirjanik; sotsiaalmeedia; võõras; furby; olme; lavastus; urmas; vadi
-4,1,5,0,2,6,6,5,1,11,raamat; kirjanik; furby; sotsiaalmeedia; võõras; olme; lavastus; urmas; vadi
-3,1,2,2,1,4,5,6,1,11,raamat; kirjanik; furby; sotsiaalmeedia; võõras; olme; lavastus; urmas; vadi
-3,0,2,4,2,4,2,5,1,11,raamat; kirjanik; sotsiaalmeedia; võõras; olme; urmas; vadi
-2,0,2,4,2,7,2,5,3,11,raamat; kirjanik; furby; sotsiaalmeedia; võõras; olme; lavastus; urmas; vadi
+2,3,3,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; võõras; raamat
+2,3,3,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; võõras; raamat
+2,3,3,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; võõras; raamat
+2,3,3,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; võõras; raamat
+2,3,4,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; võõras; raamat
+4,2,5,2,1,5,4,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; sotsiaalmeedia; võõras; raamat
+4,1,4,3,2,5,6,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; sotsiaalmeedia; võõras; raamat
+4,1,5,0,2,6,5,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; sotsiaalmeedia; võõras; raamat
+3,1,2,2,1,5,6,1,0,11,furby; kirjanik; urmas; lavastus; olme; vadi; sotsiaalmeedia; võõras; raamat
+3,0,2,4,2,2,5,1,0,11,kirjanik; urmas; olme; vadi; sotsiaalmeedia; võõras; raamat
+2,0,2,4,2,2,5,3,0,11,furby; kirjanik; urmas; olme; vadi; sotsiaalmeedia; võõras; raamat

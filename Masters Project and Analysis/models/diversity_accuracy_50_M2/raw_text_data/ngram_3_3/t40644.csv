@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,1,2,1,1,2,3,2,19,phonyker; frederik; kalkun; eesti; musicus; mari; kammerkoor; hortus; barokkmuusikafestival
-5,4,1,2,1,1,2,3,2,19,phonyker; frederik; kalkun; eesti; musicus; mari; kammerkoor; hortus; barokkmuusikafestival
-5,4,1,2,1,1,2,3,0,19,phonyker; frederik; kalkun; eesti; musicus; mari; kammerkoor; hortus; barokkmuusikafestival
-5,4,1,2,1,1,2,3,0,19,phonyker; frederik; kalkun; eesti; musicus; mari; kammerkoor; hortus; barokkmuusikafestival
-5,4,2,2,1,1,2,3,0,19,phonyker; frederik; kalkun; eesti; musicus; mari; kammerkoor; hortus; barokkmuusikafestival
-7,4,1,2,1,2,5,3,2,19,phonyker; frederik; sing; kalkun; eesti; musicus; bach; kammerkoor; filharmoonia; hortus; mari; barokkmuusikafestival
-4,3,1,4,1,2,3,4,2,19,phonyker; frederik; sing; kalkun; eesti; bach; mari; lauto; musicus; hortus; kammerkoor; filharmoonia; barokkmuusikafestival
-1,7,1,3,1,3,4,6,2,19,andres; phonyker; frederik; sing; eesti; musicus; filharmoonia; kammerkoor; mari; hortus
-0,4,1,3,2,5,4,3,4,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; bach; musicus; lauto; mari; hortus; filharmoonia
-1,3,4,3,2,1,6,3,3,19,andres; phonyker; frederik; sing; kalkun; mustonen; eesti; bach; mari; lauto; musicus; hortus; kammerkoor; filharmoonia
-2,2,0,3,2,3,2,4,4,19,phonyker; andres; sing; kalkun; mustonen; eesti; bach; musicus; lauto; filharmoonia; hortus
+5,4,1,2,1,1,2,3,2,19,mari; hortus; eesti; musicus; kammerkoor; phonyker; frederik; kalkun; barokkmuusikafestival
+5,4,1,2,1,1,2,3,2,19,mari; hortus; eesti; musicus; kammerkoor; phonyker; frederik; kalkun; barokkmuusikafestival
+5,4,1,2,1,1,2,3,0,19,mari; hortus; eesti; musicus; kammerkoor; phonyker; frederik; kalkun; barokkmuusikafestival
+5,4,1,2,1,1,2,3,0,19,mari; hortus; eesti; musicus; kammerkoor; phonyker; frederik; kalkun; barokkmuusikafestival
+5,4,2,2,1,1,2,3,0,19,mari; hortus; eesti; musicus; kammerkoor; phonyker; frederik; kalkun; barokkmuusikafestival
+7,4,1,2,1,2,5,3,2,19,mari; hortus; eesti; musicus; bach; sing; kammerkoor; phonyker; frederik; filharmoonia; kalkun; barokkmuusikafestival
+4,3,1,4,1,2,3,4,2,19,barokkmuusikafestival; mari; eesti; hortus; musicus; bach; sing; kammerkoor; phonyker; frederik; lauto; kalkun; filharmoonia
+1,7,1,3,1,3,4,6,2,19,mari; eesti; hortus; musicus; sing; kammerkoor; phonyker; frederik; andres; filharmoonia
+0,4,1,3,2,5,4,3,4,19,mari; hortus; eesti; musicus; bach; sing; phonyker; frederik; mustonen; andres; lauto; kalkun; filharmoonia
+1,3,4,3,2,1,6,3,3,19,mari; eesti; hortus; musicus; bach; sing; kammerkoor; phonyker; frederik; mustonen; andres; lauto; kalkun; filharmoonia
+2,2,0,3,2,3,2,4,4,19,eesti; hortus; musicus; bach; sing; phonyker; mustonen; andres; lauto; kalkun; filharmoonia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,2,2,0,3,4,0,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,2,0,3,4,0,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,2,0,3,4,0,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,2,0,3,4,0,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,3,2,2,0,3,4,0,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,1,2,2,0,3,4,2,0,16,kontsert; eesti; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,2,2,0,0,3,3,0,0,16,kontsert; eesti; läänemere; sümfooniaorkester; kontserdisaal; akustika; helsingi
-0,2,3,0,0,2,2,0,0,16,sümfooniaorkester; kontsert; kontserdisaal; eesti; läänemere; helsingi
-0,1,0,0,1,1,3,0,0,16,sümfooniaorkester; paavo; kontsert; eesti; arvo; helsingi
-1,1,1,0,0,1,3,3,0,16,paavo; kontsert; stravinski; eesti; läänemere; sümfooniaorkester; kontserdisaal; helsingi
-0,1,0,0,0,1,2,0,1,16,sümfooniaorkester; kontsert; eesti; helsingi
+0,3,2,2,0,3,4,0,0,16,helsingi; eesti; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,3,2,2,0,3,4,0,0,16,helsingi; eesti; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,3,2,2,0,3,4,0,0,16,helsingi; eesti; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,3,2,2,0,3,4,0,0,16,helsingi; eesti; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,3,2,2,0,3,4,0,0,16,helsingi; eesti; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,1,2,2,0,3,4,2,0,16,eesti; helsingi; sümfooniaorkester; kontserdisaal; akustika; kontsert
+0,2,2,0,0,3,3,0,0,16,eesti; helsingi; sümfooniaorkester; kontserdisaal; akustika; läänemere; kontsert
+0,2,3,0,0,2,2,0,0,16,helsingi; eesti; läänemere; sümfooniaorkester; kontserdisaal; kontsert
+0,1,0,0,1,1,3,0,0,16,helsingi; eesti; paavo; sümfooniaorkester; arvo; kontsert
+1,1,1,0,0,1,3,3,0,16,eesti; helsingi; sümfooniaorkester; kontserdisaal; paavo; stravinski; läänemere; kontsert
+0,1,0,0,0,1,2,0,1,16,eesti; helsingi; sümfooniaorkester; kontsert

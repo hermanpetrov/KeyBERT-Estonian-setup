@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,4,3,0,0,4,4,11,muuseum; kirjanik; vaenlane; eesti; sõdur; volga; piloot
-3,3,3,4,3,0,0,4,4,11,muuseum; kirjanik; vaenlane; eesti; sõdur; volga; piloot
-3,3,5,4,3,0,1,4,4,11,muuseum; kirjanik; vaenlane; eesti; sõdur; volga; piloot
-3,4,5,5,3,1,1,5,4,11,muuseum; kirjanik; vaenlane; eesti; sõdur; volga; piloot
-3,4,5,5,3,2,1,5,4,11,muuseum; kirjanik; vaenlane; eesti; sõdur; volga; piloot
-4,4,3,5,4,2,2,5,4,11,kirjanik; muuseum; vaenlane; eesti; sõdur; volga; piloot
-3,4,3,5,3,2,4,6,3,11,kirjanik; muuseum; vaenlane; eesti; sõdur; volga; piloot
-3,4,4,6,2,2,5,3,3,11,kirjanik; vaenlane; eesti; sõdur; volga; piloot
-3,5,4,6,2,3,3,4,3,11,kirjanik; muuseum; vaenlane; eesti; sõdur; volga; piloot
-4,4,4,6,2,5,6,3,3,11,kirjanik; muuseum; vaenlane; eesti; sõdur; volga; piloot
-4,5,4,6,4,4,5,3,3,11,kirjanik; muuseum; vaenlane; eesti; sõdur; volga; piloot
+6,5,2,6,4,0,0,5,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+5,5,3,6,4,0,0,5,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+5,5,5,6,4,1,1,5,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+5,6,6,7,4,2,1,6,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+5,5,6,7,4,4,1,6,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+6,5,4,6,5,4,2,5,4,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+5,5,4,5,4,3,6,7,3,11,töölisnaine; eesti; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+4,5,5,8,3,4,6,3,3,11,eesti; töölisnaine; kirjanik; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga
+3,7,6,7,3,4,5,5,3,11,eesti; kirjanik; töölisnaine; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+4,6,4,6,4,7,7,5,3,11,eesti; kirjanik; töölisnaine; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum
+4,7,5,6,5,6,6,5,3,11,eesti; kirjanik; töölisnaine; sõjakoledus; sõdur; piloot; hingekell; vaenlane; volga; muuseum

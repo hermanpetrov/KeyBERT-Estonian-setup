@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,3,0,0,1,1,0,0,14,parts; koalitsioon; liivrand; aktsia; mälberg
-1,0,3,0,0,1,1,0,0,14,parts; koalitsioon; liivrand; aktsia; mälberg
-1,0,2,0,0,1,1,0,0,14,parts; koalitsioon; liivrand; mälberg
-1,0,2,0,0,1,1,0,0,14,parts; koalitsioon; liivrand; mälberg
-1,0,2,0,0,1,1,0,0,14,parts; koalitsioon; liivrand; mälberg
-2,0,2,0,0,0,0,0,0,14,tuumarelv; liivrand; mälberg; parts
-1,0,1,0,0,0,1,1,0,14,tuumarelv; hansapanga; mälberg; välisminister
-0,0,1,0,0,1,0,1,0,14,mälberg; hansapanga; parts
-0,1,3,0,0,0,0,1,0,14,parts; liivrand; aktsia; mälberg; hansapanga
-0,1,1,0,1,1,2,1,0,14,parts; liivrand; mälberg; hansapanga
-0,1,3,0,1,1,1,1,0,14,parts; liivrand; mälberg; hansapanga
+1,0,3,0,0,1,0,0,0,14,parts; liivrand; aktsia; mälberg; koalitsioon
+1,0,3,0,0,1,0,0,0,14,parts; liivrand; aktsia; mälberg; koalitsioon
+1,0,2,0,0,1,0,0,0,14,koalitsioon; mälberg; liivrand; parts
+1,0,2,0,0,1,0,0,0,14,koalitsioon; mälberg; liivrand; parts
+1,0,2,0,0,1,0,0,0,14,koalitsioon; mälberg; liivrand; parts
+2,0,2,0,0,0,0,0,0,14,mälberg; liivrand; tuumarelv; parts
+1,0,1,0,0,1,1,0,0,14,mälberg; hansapanga; välisminister; tuumarelv
+0,0,1,0,0,0,1,0,0,14,mälberg; hansapanga
+0,1,3,0,0,0,1,0,0,14,parts; hansapanga; liivrand; aktsia; mälberg
+0,1,1,0,1,2,1,0,0,14,parts; hansapanga; liivrand; mälberg
+0,1,3,0,1,1,1,0,0,14,parts; hansapanga; liivrand; mälberg

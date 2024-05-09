@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,4,1,1,1,0,3,0,12,toomhärra; vaimulik; piiskopkond; euroopa; tartu; katoliku
-1,2,4,1,1,1,0,3,0,12,toomhärra; vaimulik; piiskopkond; euroopa; tartu; katoliku
-1,2,4,1,1,1,0,3,0,12,toomhärra; vaimulik; piiskopkond; euroopa; tartu; katoliku
-1,2,4,1,1,1,0,3,0,12,toomhärra; vaimulik; piiskopkond; euroopa; tartu; katoliku
-1,1,4,1,1,1,1,2,0,12,toomhärra; vaimulik; kirik; piiskopkond; tartu; euroopa
-2,1,4,1,0,1,2,2,0,12,toomhärra; vaimulik; katoliku; tartu; euroopa
-2,1,2,1,0,0,3,2,0,12,toomhärra; vaimulik; piiskopkond; katoliku; tartu; euroopa
-1,0,3,2,1,1,1,3,0,12,piiskopkond; ülikool; ordu; toomhärra; vaimulik; tartu; katoliku
-2,1,1,1,0,3,1,2,0,12,vaimulik; kirik; toomhärra; katoliku; liivimaa; tartu; euroopa
-1,0,2,1,0,3,1,2,2,12,kirik; ordu; toomhärra; vaimulik; katoliku; liivimaa; tartu; euroopa
-3,1,1,0,1,2,1,1,0,12,toomhärra; vaimulik; kirik; katoliku; tartu; euroopa
+1,2,4,1,1,1,0,3,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu; piiskopkond
+1,2,4,1,1,1,0,3,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu; piiskopkond
+1,2,4,1,1,1,0,3,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu; piiskopkond
+1,2,4,1,1,1,0,3,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu; piiskopkond
+1,1,4,1,1,1,1,2,0,12,toomhärra; vaimulik; kirik; euroopa; tartu; piiskopkond
+2,1,4,1,0,1,2,2,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu
+2,1,2,1,0,0,3,2,0,12,toomhärra; katoliku; vaimulik; euroopa; tartu; piiskopkond
+1,0,3,2,1,1,1,3,0,12,toomhärra; vaimulik; ülikool; tartu; piiskopkond; ordu; katoliku
+2,1,1,1,0,3,1,2,0,12,toomhärra; katoliku; vaimulik; kirik; euroopa; liivimaa; tartu
+1,0,2,1,0,3,1,2,2,12,toomhärra; vaimulik; kirik; liivimaa; tartu; ordu; katoliku; euroopa
+3,1,1,0,1,2,1,1,0,12,toomhärra; katoliku; vaimulik; kirik; euroopa; tartu

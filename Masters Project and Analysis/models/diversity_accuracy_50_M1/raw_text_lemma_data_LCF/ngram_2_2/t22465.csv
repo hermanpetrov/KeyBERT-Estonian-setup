@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,2,1,0,1,1,1,0,11,šveits; kanton; mägine; genf
-4,2,2,1,0,1,1,1,0,11,šveits; kanton; mägine; genf
-4,2,2,1,0,1,1,1,0,11,šveits; kanton; mägine; genf
-4,2,2,1,0,1,1,1,0,11,šveits; kanton; mägine; genf
-4,2,2,1,0,1,1,2,0,11,šveits; kanton; mägine; genf
-5,3,2,2,0,2,2,2,0,11,šveits; tunnel; juust; kanton; mägine; genf
-4,2,2,1,0,2,2,2,0,11,šveits; kanton; mägine; genf
-2,3,2,2,1,3,2,2,1,11,tunnel; genf; šveits; kanton; mägine; järv
-1,1,2,5,1,2,2,2,0,11,juust; genf; tunnel; šveits; kanton; mägine; suusatamine; järv
-3,3,3,5,1,3,1,1,0,11,tunnel; genf; šveits; kanton; mägine; suusatamine; järv
-2,3,4,5,1,2,1,2,1,11,tunnel; genf; šveits; kanton; suusatamine; järv
+4,2,2,1,0,1,1,1,0,11,genf; kanton; šveits; mägine
+4,2,2,1,0,1,1,1,0,11,genf; kanton; šveits; mägine
+4,2,2,1,0,1,1,1,0,11,genf; kanton; šveits; mägine
+4,2,2,1,0,1,1,1,0,11,genf; kanton; šveits; mägine
+4,2,2,1,0,1,1,2,0,11,genf; kanton; šveits; mägine
+5,3,2,2,0,2,2,2,0,11,juust; genf; kanton; šveits; mägine; tunnel
+5,3,2,2,0,2,2,2,0,11,genf; maksusüsteem; kanton; šveits; mägine; rahvahääletus
+2,3,2,3,1,3,2,2,1,11,genf; mägine; tunnel; neutraliteet; kanton; järv; šveits
+1,1,2,5,1,2,2,2,0,11,juust; genf; mägine; tunnel; suusatamine; kanton; järv; šveits
+3,4,3,6,1,3,1,1,0,11,genf; mägine; tunnel; rahvahääletus; suusatamine; kanton; järv; šveits
+3,3,4,5,1,2,1,2,1,11,genf; tunnel; maksusüsteem; suusatamine; kanton; järv; šveits

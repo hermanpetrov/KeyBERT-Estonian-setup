@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
 0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
 0,1,1,0,0,1,1,0,0,11,mikomägi; teatrikool
-0,2,1,0,0,1,1,0,0,11,teater; mikomägi; teatrikool
-0,2,0,0,0,1,2,1,0,11,mikomägi; rapla; teater; teatrikool
-0,2,0,0,0,1,1,1,0,11,rapla; mikomägi; teater; teatrikool
+0,2,1,0,0,1,1,0,0,11,mikomägi; teatrikool; teater
+0,2,0,0,0,1,2,1,0,11,mikomägi; rapla; teatrikool; teater
+0,2,0,0,0,1,1,1,0,11,mikomägi; rapla; teatrikool; teater
 0,1,0,0,0,0,1,0,0,11,mikomägi; teatrikool
 0,1,0,0,0,0,1,0,0,11,mikomägi; teatrikool
 0,0,0,0,0,0,1,0,0,11,mikomägi

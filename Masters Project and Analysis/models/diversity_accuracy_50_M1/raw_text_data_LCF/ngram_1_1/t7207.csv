@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,0,1,1,2,0,12,raadioarhiiv; viivi; iroonia
-2,0,1,1,0,1,1,2,0,12,raadioarhiiv; viivi; iroonia
-2,0,1,1,0,1,1,2,0,12,raadioarhiiv; viivi; iroonia
-2,0,1,1,0,1,1,2,0,12,raadioarhiiv; viivi; iroonia
-2,0,1,1,0,1,1,2,0,12,raadioarhiiv; viivi; iroonia
-2,0,3,1,0,1,1,2,0,12,raadioarhiiv; iroonia; viivi; intervjuu
-2,0,3,1,0,1,1,2,0,12,raadioarhiiv; iroonia; viivi; intervjuu
-1,0,3,0,0,1,1,2,0,12,raadioarhiiv; viivi; intervjuu
-2,0,3,1,0,2,1,2,0,12,raadioarhiiv; iroonia; viivi; intervjuu
-2,1,2,2,0,3,1,2,0,12,raadioarhiiv; iroonia; viivi; kollane; intervjuu
-2,1,3,3,0,4,1,2,0,12,raadioarhiiv; iroonia; unt; kollane; intervjuu; viivi; kass
+2,0,1,1,0,1,2,0,0,12,iroonia; viivi; raadioarhiiv
+2,0,1,1,0,1,2,0,0,12,iroonia; viivi; raadioarhiiv
+2,0,1,1,0,1,2,0,0,12,iroonia; viivi; raadioarhiiv
+2,0,1,1,0,1,2,0,0,12,iroonia; viivi; raadioarhiiv
+2,0,1,1,0,1,2,0,0,12,iroonia; viivi; raadioarhiiv
+2,0,3,1,0,1,2,0,0,12,viivi; iroonia; intervjuu; raadioarhiiv
+2,0,3,1,0,1,2,0,0,12,viivi; iroonia; intervjuu; raadioarhiiv
+1,0,3,0,0,1,2,0,0,12,viivi; intervjuu; raadioarhiiv
+2,0,3,1,0,1,2,0,0,12,viivi; iroonia; intervjuu; raadioarhiiv
+2,1,2,2,0,1,2,0,0,12,kollane; viivi; iroonia; intervjuu; raadioarhiiv
+2,1,3,3,0,1,2,0,0,12,kollane; unt; viivi; iroonia; intervjuu; raadioarhiiv

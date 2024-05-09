@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,4,2,0,1,1,2,1,15,rock; kosmos; kontsert; kaks; raadio; kristo; onu; veiko
-0,3,4,2,0,1,1,2,1,15,rock; kosmos; kontsert; kaks; raadio; kristo; onu; veiko
-0,3,3,2,0,1,1,2,1,15,rock; kosmos; kontsert; kaks; raadio; onu; veiko
-0,3,3,2,0,1,1,2,1,15,rock; kosmos; kontsert; kaks; raadio; onu; veiko
-0,3,2,2,0,1,1,1,1,15,rock; kosmos; kontsert; kaks; raadio; onu; veiko
-0,3,0,2,0,1,0,2,1,15,rock; kontsert; kaks; raadio; onu; veiko
-1,2,0,2,0,1,0,0,1,15,rock; kosmos; kaks; draiv; raadio; veiko
-1,2,1,0,0,1,0,1,1,15,rock; kosmos; kaks; draiv; veiko
-0,0,2,1,0,1,1,0,0,15,rock; raadio; kosmos; kristo
-0,0,1,2,0,0,1,0,0,15,singer; vinger; kristo
-0,0,1,2,2,0,1,0,0,15,singer; vinger; kristo; onu
+0,3,5,2,0,1,2,2,1,15,rajasaar; kosmos; rock; veiko; raadio; onu; kristo; kaks; muusikanõunik; kontsert
+0,3,5,2,0,1,2,2,1,15,rajasaar; kosmos; rock; veiko; raadio; onu; kristo; kaks; muusikanõunik; kontsert
+0,3,4,2,0,1,2,2,1,15,rajasaar; kosmos; rock; veiko; raadio; onu; kaks; muusikanõunik; kontsert
+0,3,4,2,0,1,2,2,1,15,rajasaar; kosmos; rock; veiko; raadio; onu; kaks; muusikanõunik; kontsert
+0,3,3,2,0,1,2,1,1,15,rajasaar; kosmos; rock; veiko; raadio; onu; kaks; muusikanõunik; kontsert
+0,3,1,2,0,1,1,2,1,15,raadio; onu; kaks; rajasaar; kontsert; rock; muusikanõunik; veiko
+1,2,1,2,0,1,1,1,1,15,raadio; rajasaar; kaks; draiv; kosmos; rock; muusikanõunik; veiko
+1,2,2,0,0,1,0,2,1,15,rajasaar; kaks; draiv; kosmos; rock; muusikanõunik; veiko
+0,0,3,1,0,1,1,2,0,15,raadio; kristo; rajasaar; kosmos; rock; muusikanõunik
+0,0,2,2,0,0,1,1,0,15,vinger; kristo; singer; rajasaar
+0,0,2,2,2,0,1,1,0,15,onu; kristo; singer; vinger; rajasaar

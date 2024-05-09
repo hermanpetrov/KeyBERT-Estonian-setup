@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,0,1,1,1,1,3,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-4,0,0,1,1,1,1,3,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-4,0,0,1,1,1,1,3,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-4,0,0,1,1,1,1,3,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-4,0,1,1,1,1,1,3,0,17,norra; pekk; mõisaproua; ruth-kaja; concordia; pirgu; mõis
-2,1,1,1,1,1,1,3,0,17,norra; mõisaproua; ruth-kaja; concordia; pirgu; pekk; mõis
-4,1,1,0,1,2,3,3,0,17,norra; pekk; ruth-kaja; concordia; pirgu; mõis
-1,0,0,0,1,2,1,4,0,17,norra; pirgu; mõisaproua; concordia; mõis
-1,1,0,1,1,2,2,6,0,17,norra; pekk; ruth-kaja; majapidajanna; concordia; pirgu; mõis
-1,0,0,2,1,2,2,5,0,17,norra; pekk; pirgu; ruth-kaja; concordia; mõis
-1,0,0,1,1,1,1,4,1,17,norra; ruth-kaja; kilumets; concordia; mõis; pekk
+4,0,0,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja
+4,0,0,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja
+4,0,0,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja
+4,0,0,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja
+4,0,1,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; mõis; concordia; ruth-kaja
+2,1,1,1,1,1,3,0,0,17,norra; pirgu; mõisaproua; pekk; concordia; mõis; ruth-kaja
+4,1,1,0,1,3,3,0,0,17,norra; pirgu; pekk; mõis; concordia; ruth-kaja
+1,0,0,0,1,1,4,0,0,17,norra; pirgu; mõisaproua; concordia; mõis
+1,1,0,1,1,2,6,0,0,17,norra; majapidajanna; pirgu; pekk; mõis; concordia; ruth-kaja
+1,0,0,2,1,2,5,0,0,17,norra; pirgu; pekk; mõis; concordia; ruth-kaja
+1,0,0,1,1,1,4,1,0,17,norra; pekk; concordia; mõis; ruth-kaja; kilumets

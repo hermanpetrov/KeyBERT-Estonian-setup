@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,2,0,0,1,2,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-0,3,2,0,0,1,2,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-0,3,2,0,0,1,2,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-0,3,2,0,0,1,2,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-0,3,2,0,0,1,2,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-0,3,2,0,0,0,4,2,1,13,talve; rahva; rootsi; etnoloog; ilmar
-1,1,2,0,0,3,4,2,1,13,rahva; ilmar; soome; talve; rootsi; etnoloog
-0,1,2,1,0,2,2,2,1,13,talve; rootsi; etnoloog; ilmar
-0,0,2,0,0,0,1,2,1,13,talve; ilmar; rootsi
-0,1,2,0,0,4,1,2,1,13,talve; juhansoni; reisid; rootsi; ilmar
-1,2,2,1,0,4,2,3,1,13,juhansoni; rahva; reisid; ilmar; talve; rootsi; etnoloog; maapagu
+0,3,2,0,0,2,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+0,3,2,0,0,2,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+0,3,2,0,0,2,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+0,3,2,0,0,2,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+0,3,2,0,0,2,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+0,3,2,0,0,4,2,1,0,13,rootsi; rahva; ilmar; talve; etnoloog
+1,1,2,0,0,4,2,1,0,13,rootsi; soome; ilmar; talve; etnoloog; rahva
+0,1,2,1,0,2,2,1,0,13,rootsi; ilmar; talve; etnoloog
+0,0,2,0,0,1,2,1,0,13,rootsi; ilmar; talve
+0,1,2,0,0,1,2,1,0,13,rootsi; ilmar; talve
+1,2,2,1,0,2,3,1,0,13,rootsi; maapagu; rahva; ilmar; talve

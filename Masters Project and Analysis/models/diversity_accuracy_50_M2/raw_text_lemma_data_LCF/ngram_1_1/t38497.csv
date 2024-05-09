@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,4,0,1,2,3,0,2,15,kirjutamine; johannes; eesti; soome; keel; õppimine; vend
-0,0,4,0,1,2,3,0,2,15,kirjutamine; johannes; eesti; soome; keel; õppimine; vend
-0,0,3,0,1,2,3,0,2,15,soome; johannes; keel; õppimine; vend; eesti
-0,0,2,0,1,2,3,0,2,15,soome; johannes; keel; vend; eesti
-0,0,1,0,1,2,3,0,2,15,soome; johannes; keel; vend; eesti
-0,0,2,0,1,4,2,1,2,15,soome; kirjutamine; johannes; keel; aavik; vend; eesti
-0,0,2,0,1,3,3,2,2,15,kirjutamine; johannes; eesti; soome; mika; keel; aavik; vend
-0,0,1,1,1,2,2,2,2,15,keränen; johannes; eesti; soome; mika; keel; aavik; vend
-0,1,1,1,1,2,2,1,2,15,raamat; keränen; johannes; õppimine; eesti; soome; aavik; vend
-0,0,2,2,1,0,2,1,2,15,raamat; kirjutamine; keränen; johannes; eesti; soome; keel; vend
-0,0,0,1,1,0,2,2,2,15,kirjutamine; keränen; johannes; vend; eesti; kullo
+1,1,4,0,1,4,4,2,2,15,õppimine; vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; kirjutamine
+1,1,4,0,1,4,4,2,2,15,õppimine; vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; kirjutamine
+1,1,3,0,1,4,4,2,2,15,õppimine; vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel
+1,1,2,0,1,4,4,2,2,15,vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel
+1,1,1,0,1,4,4,1,2,15,vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel
+2,1,2,0,1,4,3,3,2,15,vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; keel; kirjutamine; aavik
+2,1,2,0,1,3,4,4,2,15,vend; sõnaloome; soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; kirjutamine; aavik
+2,1,1,1,1,2,3,3,2,15,vend; sõnaloome; soome; eesti; johannes; mika; sõnavõistlus; võõrsõna; keel; keränen; aavik
+2,2,1,1,1,2,3,2,2,15,õppimine; vend; sõnaloome; soome; eesti; johannes; sõnavõistlus; võõrsõna; raamat; keränen; aavik
+1,1,2,2,1,0,2,1,2,15,vend; sõnaloome; soome; eesti; johannes; keel; raamat; keränen; kirjutamine
+1,1,0,1,1,0,2,2,2,15,vend; sõnaloome; keränen; eesti; kirjutamine; johannes; kullo

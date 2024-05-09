@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-1,0,0,0,0,1,0,0,0,13,näitus; interaktiivne
-0,0,0,0,0,1,1,0,0,13,näitus
-0,0,1,0,0,2,0,0,0,13,ivar; näitus; interaktiivne
-0,0,0,1,0,0,2,0,0,13,leimus; näitus; interaktiivne
-0,0,0,0,0,2,1,0,0,13,leimus; näitus
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+0,2,1,0,0,1,1,1,0,13,alatalu; ajaloomuuseum
+1,1,1,1,0,2,1,1,0,13,näitus; interaktiivne; ajaloomuuseum
+0,1,0,0,0,2,2,2,0,13,näitus; alatalu; ajaloomuuseum
+0,0,1,1,0,3,0,1,0,13,ajaloomuuseum; näitus; ivar; kaupmees; interaktiivne
+0,0,0,1,0,1,2,0,0,13,näitus; interaktiivne; leimus; ajaloomuuseum
+1,1,1,0,0,3,1,0,0,13,keldriruum; alatalu; ajaloomuuseum; näitus; kaupmees; leimus

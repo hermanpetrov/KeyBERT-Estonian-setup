@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
-2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
-2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
-2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
-2,2,5,0,0,3,1,2,3,14,rakenduslingvistika; krista; noortekeel; inglise; keel; keelekorraldus; koolikeel
-2,2,6,0,0,3,1,4,3,14,rakenduslingvistika; krista; kerge; noortekeel; inglise; keel; keelekorraldus; koolikeel
-0,1,6,1,0,6,3,5,3,14,rakenduslingvistika; krista; kerge; noortekeel; inglise; keel; keelekorraldus; koolikeel
-1,1,6,3,1,5,3,3,2,14,rakenduslingvistika; krista; ilukirjandus; kerge; noortekeel; inglise; keel; koolikeel
-1,1,2,3,0,4,2,1,2,14,rakenduslingvistika; krista; ilukirjandus; noortekeel; inglise; keel
-0,3,4,1,0,3,1,3,1,14,rakenduslingvistika; krista; kerge; noortekeel; inglise; keel; koolikeel
-1,3,4,2,3,2,1,2,0,14,rakenduslingvistika; krista; kerge; noortekeel; inglise; keel; koolikeel
+2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,2,4,0,0,3,1,2,3,14,rakenduslingvistika; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,2,5,0,0,3,1,2,3,14,rakenduslingvistika; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,2,6,0,0,3,1,4,3,14,rakenduslingvistika; kerge; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+0,1,6,1,0,6,3,5,3,14,rakenduslingvistika; kerge; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+1,1,6,3,1,5,3,3,2,14,rakenduslingvistika; kerge; noortekeel; ilukirjandus; inglise; keel; koolikeel; krista
+1,1,2,3,0,4,2,1,2,14,rakenduslingvistika; noortekeel; ilukirjandus; inglise; keel; krista
+0,3,4,1,0,3,1,3,1,14,rakenduslingvistika; kerge; noortekeel; inglise; keel; koolikeel; krista
+1,3,4,2,3,2,1,2,0,14,rakenduslingvistika; kerge; noortekeel; inglise; keel; koolikeel; krista

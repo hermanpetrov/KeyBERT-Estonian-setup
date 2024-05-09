@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,2,1,15,keel; eesti
-0,0,2,0,0,2,2,2,1,15,keel; eesti
-0,0,2,0,0,2,2,2,1,15,keel; eesti
-0,0,2,0,0,2,2,2,1,15,keel; eesti
-0,0,1,0,0,2,2,2,1,15,keel; eesti
-0,0,1,0,0,1,2,1,1,15,keel; eesti
-0,0,1,0,0,1,2,0,1,15,õpetaja; eesti
-0,0,0,0,0,2,1,1,1,15,keel; eesti
-0,0,0,0,0,1,1,0,1,15,eesti
-0,0,0,0,0,1,1,0,1,15,eesti
-0,0,1,0,0,1,1,0,1,15,eesti
+2,1,6,2,0,4,5,5,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+2,1,6,2,0,4,5,5,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+2,1,6,2,0,4,5,5,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+2,1,6,2,0,4,5,5,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+2,1,5,2,0,4,5,5,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+2,1,3,2,0,3,5,4,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keelepoliitika; keel; teadusministeerium; tööturupoliitika; põhialune; arengukava
+1,1,3,0,0,3,4,1,2,15,eesti; arengukava; teadustöö; ülikool; rahvusvaheline; õpetaja; eestikeelne; tööturupoliitika
+1,0,1,2,0,3,4,3,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; keel; tööturupoliitika; põhialune; arengukava
+2,0,2,2,0,2,3,2,2,15,eesti; teadustöö; eestikeelne; ülikool; rahvusvaheline; sotsiaalmeedia; teadusministeerium; tööturupoliitika; põhialune; arengukava
+1,0,1,1,0,1,1,0,2,15,eesti; teadusministeerium; teadustöö; ülikool; sotsiaalmeedia
+0,0,1,2,0,2,2,2,3,15,eesti; eestikeelne; ülikool; rahvusvaheline; sotsiaalmeedia; teadusministeerium; tööturupoliitika; arengukava

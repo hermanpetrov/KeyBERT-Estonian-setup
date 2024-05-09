@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; president
-7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; president
-7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; president
-7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; president
-7,0,4,3,2,2,3,5,1,20,obinitsa; tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; president
-3,2,3,3,2,5,4,5,1,20,obinitsa; tervise; jevgeni; kultuuripealinna; deckarty; jüri; kool; balti; ametist; ossinovski; trump; president
-5,1,2,2,2,4,4,5,1,20,obinitsa; jevgeni; kultuuripealinna; deckarty; luik; jüri; kool; balti; ametist; ossinovski; trump; president
-6,3,4,2,3,4,4,5,1,20,luik; kultuuripealinna; jüri; kool; ossinovski; obinitsa; tervise; jevgeni; deckarty; balti; ametist; trump; donald; president
-3,3,2,7,3,5,5,2,1,20,luik; kultuuripealinna; jüri; kool; ossinovski; obinitsa; tervise; jevgeni; deckarty; edendus; balti; ametist; trump; donald; president
-2,2,1,8,4,5,2,2,1,20,tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; donald; president
-4,1,3,5,3,4,4,1,1,20,tervise; jevgeni; deckarty; kultuuripealinna; edendus; kool; balti; ametist; ossinovski; trump; donald; president
+7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+7,0,3,3,2,2,2,5,1,20,obinitsa; tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+7,0,4,3,2,2,3,5,1,20,obinitsa; tervise; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+3,2,3,3,2,5,4,5,1,20,obinitsa; tervise; jüri; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+5,1,2,2,2,4,4,5,1,20,obinitsa; jüri; president; ametist; luik; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+6,3,4,2,3,4,4,5,1,20,jüri; ametist; luik; obinitsa; tervise; donald; president; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+3,3,2,7,3,5,5,2,1,20,jüri; ametist; luik; edendus; obinitsa; tervise; donald; president; kool; deckarty; jevgeni; balti; trump; ossinovski; kultuuripealinna
+2,2,1,8,4,5,2,2,1,20,tervise; donald; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna
+4,1,3,5,3,4,4,1,1,20,tervise; donald; president; ametist; kool; deckarty; jevgeni; balti; trump; ossinovski; edendus; kultuuripealinna

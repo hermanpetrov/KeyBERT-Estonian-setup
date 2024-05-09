@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,2,0,0,1,14,kontsert; interpreet; gerretz; mozart
-1,0,1,1,0,2,0,0,1,14,kontsert; interpreet; gerretz; mozart
-1,0,1,1,0,2,0,0,1,14,kontsert; interpreet; gerretz; mozart
-1,0,1,1,0,2,0,0,1,14,kontsert; interpreet; gerretz; mozart
-1,0,1,1,0,2,0,0,1,14,kontsert; interpreet; gerretz; mozart
-1,0,0,1,0,2,0,0,0,14,mozart; interpreet; gerretz
-2,0,0,1,0,2,0,1,1,14,kontsert; interpreet; gerretz
-0,1,0,1,0,2,0,1,1,14,jüri; kontsert; interpreet; gerretz
-0,0,1,3,0,2,0,2,1,14,jüri; kontsert; interpreet; gerretz; leibur; arvo
-0,0,2,0,0,2,0,1,0,14,interpreet; gerretz
-1,0,2,0,0,3,1,0,0,14,interpreet; gerretz; dirigent
+1,0,1,1,0,2,0,0,1,14,mozart; gerretz; interpreet; kontsert
+1,0,1,1,0,2,0,0,1,14,mozart; gerretz; interpreet; kontsert
+1,0,1,1,0,2,0,0,1,14,mozart; gerretz; interpreet; kontsert
+1,0,1,1,0,2,0,0,1,14,mozart; gerretz; interpreet; kontsert
+1,0,1,1,0,2,0,0,1,14,mozart; gerretz; interpreet; kontsert
+1,0,0,1,0,2,0,0,0,14,gerretz; mozart; interpreet
+2,0,0,1,0,2,0,1,1,14,kontsert; gerretz; interpreet
+0,1,0,1,0,2,0,1,1,14,jüri; kontsert; gerretz; interpreet
+0,0,1,3,0,2,0,2,1,14,leibur; gerretz; jüri; arvo; interpreet; kontsert
+0,0,2,0,0,2,0,1,0,14,gerretz; interpreet
+1,0,2,0,0,3,1,0,0,14,gerretz; dirigent; interpreet

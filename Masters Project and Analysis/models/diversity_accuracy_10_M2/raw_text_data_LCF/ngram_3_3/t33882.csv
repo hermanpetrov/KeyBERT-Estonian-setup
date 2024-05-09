@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,0,1,1,2,2,14,kõnekoosolek; estonia; vanemuise; selts; kultuur; eesti
-2,2,1,0,0,1,1,2,2,14,kõnekoosolek; estonia; vanemuise; selts; kultuur; eesti
-2,2,1,0,0,1,1,2,2,14,kõnekoosolek; estonia; vanemuise; selts; kultuur; eesti
-2,2,1,0,0,1,1,2,2,14,kõnekoosolek; estonia; vanemuise; selts; kultuur; eesti
-2,2,2,0,0,1,1,2,2,14,kõnekoosolek; estonia; vanemuise; selts; kultuur; eesti
-2,2,2,0,0,1,1,3,2,14,kõnekoosolek; estonia; vanemuise; eesti; selts; kultuur
-1,1,1,0,0,0,0,2,2,14,estonia; selts; kultuur; eesti
-2,0,2,0,0,0,0,3,2,14,estonia; selts; eesti
-1,1,0,0,0,0,0,5,2,14,rakvere; estonia; selts; eesti; teater
-2,1,1,0,0,0,0,3,2,14,rakvere; estonia; selts; eesti
-1,0,1,0,0,0,0,2,2,14,selts; eesti; estonia
+2,2,1,0,0,1,2,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+2,2,1,0,0,1,2,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+2,2,1,0,0,1,2,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+2,2,1,0,0,1,2,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+2,2,2,0,0,1,2,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+2,2,2,0,0,1,3,2,0,14,selts; eesti; kõnekoosolek; vanemuise; kultuur; estonia
+1,1,1,0,0,0,2,2,0,14,selts; eesti; kultuur; estonia
+2,0,2,0,0,0,3,2,0,14,selts; eesti; estonia
+1,1,0,0,0,0,5,2,0,14,selts; eesti; rakvere; teater; estonia
+2,1,1,0,0,0,3,2,0,14,selts; eesti; rakvere; estonia
+1,0,1,0,0,0,2,2,0,14,selts; eesti; estonia

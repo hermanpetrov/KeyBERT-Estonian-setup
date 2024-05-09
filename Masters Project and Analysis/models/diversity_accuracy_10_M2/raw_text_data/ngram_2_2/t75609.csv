@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,11,püha
 0,0,2,0,0,0,0,0,0,11,religioon; püha
 0,0,1,0,0,0,0,0,0,11,püha
-1,0,0,0,0,1,1,2,0,11,religioon; püha; üliintellekt
+1,0,0,0,0,1,1,2,0,11,üliintellekt; religioon; püha
 0,0,2,0,0,2,1,0,0,11,religioon; tehnoloogiline; püha
-0,1,1,0,0,3,2,1,0,11,religioon; tehnoloogiline; püha; sekularism
-1,1,1,0,0,0,1,0,0,11,religioon; vaim; teadus
-1,0,1,0,0,4,2,0,0,11,religioon; tehnoloogiline; vaim; teadus; püha
+0,1,1,0,0,3,2,1,0,11,religioon; püha; tehnoloogiline; sekularism
+1,1,1,0,0,0,1,0,0,11,teadus; religioon; vaim
+1,0,1,0,0,4,2,0,0,11,tehnoloogiline; teadus; püha; religioon; vaim

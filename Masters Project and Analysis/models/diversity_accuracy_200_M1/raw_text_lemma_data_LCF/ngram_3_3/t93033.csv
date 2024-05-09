@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,3,5,2,4,4,4,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-6,6,4,5,2,4,5,4,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-6,5,5,5,2,4,5,5,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-6,5,5,5,3,3,5,4,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-4,5,5,5,3,4,6,5,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-4,4,5,5,3,4,6,6,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-4,5,6,4,4,4,6,6,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-5,3,6,5,5,5,6,6,5,16,hans; nädal; restoran; tõnu; ukraina; üro
-6,5,5,5,5,5,5,6,3,16,hans; nädal; restoran; tõnu; ukraina; üro
-4,5,5,5,4,5,5,5,3,16,hans; nädal; restoran; tõnu; ukraina; üro
-5,5,5,5,5,5,5,5,4,16,hans; nädal; restoran; tõnu; ukraina; üro
+11,10,6,7,2,8,9,6,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+12,10,7,7,2,8,10,6,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+12,8,8,7,2,8,10,7,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+12,8,8,8,4,7,11,7,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+10,8,8,7,4,9,12,9,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+10,7,9,7,4,9,12,11,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran
+9,8,9,9,6,9,11,12,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran
+9,9,11,10,7,11,11,9,8,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran
+10,11,10,10,7,10,11,11,5,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran
+8,12,11,10,7,10,11,10,5,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran
+7,10,10,10,10,10,10,11,7,16,ukraina; hans; julgeolekunõukogu; õhurünnak; tõnu; üro; jalgpall; kooliturvalisus; koolitulistamine; käsipall; nädal; meistrivõistlus; restoran

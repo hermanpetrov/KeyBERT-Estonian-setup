@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,0,0,12,muusika
-0,1,0,0,0,0,0,0,0,12,muusika
-0,1,0,0,0,0,0,0,0,12,muusika
-0,1,0,0,0,0,0,0,0,12,muusika
-0,1,0,0,0,0,0,0,0,12,muusika
-0,1,1,0,0,0,0,1,0,12,elektrooniline; sotsioloog; muusika
-0,1,1,0,0,0,1,1,0,12,elektrooniline; sotsioloog; muusika
-0,1,1,0,0,1,2,1,0,12,sotsioloog; popkultuur; muusika; elektrooniline
-0,0,2,0,0,1,2,1,0,12,elektrooniline; sotsioloog; popkultuur
-0,0,1,0,0,1,1,1,0,12,elektrooniline; sotsioloog; popkultuur
-0,0,3,0,0,1,2,1,0,12,sotsioloog; popkultuur; sildvee; elektrooniline
+0,1,1,0,0,1,1,1,0,12,muusika; klubikultuur
+0,1,1,0,0,1,1,1,0,12,muusika; klubikultuur
+0,1,1,0,0,1,1,1,0,12,muusika; klubikultuur
+0,1,1,0,0,1,1,1,0,12,muusika; klubikultuur
+0,1,0,0,0,0,1,1,0,12,muusika; klubikultuur
+0,1,1,0,0,0,1,2,0,12,muusika; sotsioloog; elektrooniline; klubikultuur
+0,1,1,0,0,0,1,1,0,12,sotsioloog; muusika; elektrooniline
+0,1,1,0,0,1,2,1,0,12,muusika; popkultuur; sotsioloog; elektrooniline
+0,0,2,0,0,1,2,1,0,12,popkultuur; sotsioloog; elektrooniline
+0,0,1,0,0,1,1,2,0,12,bakalaureusetötö; popkultuur; sotsioloog; elektrooniline
+0,0,3,0,0,1,2,1,0,12,sildvee; popkultuur; sotsioloog; elektrooniline

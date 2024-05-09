@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,1,1,1,1,1,2,0,0,13,riidaja; soots; konkurent; koolitus
-0,0,1,0,1,0,1,0,0,13,soots; riidaja; konkurent
-1,0,1,0,1,0,2,1,0,13,soots; marika; riidaja; konkurent; mõis
-1,0,1,0,1,0,2,1,0,13,soots; marika; riidaja; konkurent; mõis
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,1,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+1,2,2,1,1,1,2,2,1,13,kodukohvik; konkurent; soots; koolitus; valgamaa; riidaja; turismitalu
+0,1,2,1,1,0,1,2,1,13,kodukohvik; konkurent; soots; valgamaa; riidaja; turismitalu
+2,1,2,1,1,1,2,4,1,13,soots; valgamaa; mõis; turismitalu; konkurent; kodukohvik; piimaköök; marika; riidaja
+2,1,2,0,1,1,2,4,1,13,soots; valgamaa; mõis; turismitalu; konkurent; kodukohvik; piimaköök; marika; riidaja

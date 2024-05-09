@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,1,0,13,ilmar; kirjanik
 0,1,0,0,0,0,0,1,0,13,ilmar; kirjanik
 0,1,1,0,0,1,1,1,0,13,ilmar; etnoloog; kirjanik
-0,1,1,0,0,1,1,1,0,13,kirjanik; muuseum; etnoloog; ilmar
-0,1,2,0,0,0,1,2,0,13,kirjanik; muuseum; ekspeditsioon; ilmar
-0,1,2,0,0,1,1,1,0,13,kirjanik; muuseum; ekspeditsioon; ilmar
-0,1,2,0,0,1,1,0,0,13,ekspeditsioon; ilmar; kirjanik; muuseum
+0,1,1,0,0,1,1,1,0,13,kirjanik; ilmar; muuseum; etnoloog
+0,1,2,0,0,0,1,2,0,13,ekspeditsioon; kirjanik; ilmar; muuseum
+0,1,2,0,0,1,1,1,0,13,ekspeditsioon; kirjanik; ilmar; muuseum
+0,1,2,0,0,1,1,0,0,13,ekspeditsioon; ilmar; muuseum; kirjanik

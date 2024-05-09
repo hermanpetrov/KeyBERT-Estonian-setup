@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,8,6,9,7,7,9,7,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; jaan; rapla
-10,8,6,9,7,7,9,7,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; rapla; jaan
-9,9,7,9,7,7,9,7,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; rapla; jaan
-9,9,5,9,7,7,8,8,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; rapla; jaan
-9,9,8,9,7,7,8,8,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; rapla; jaan
-7,10,8,9,7,6,7,6,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; jaan; rapla
-7,7,8,9,8,8,7,8,5,14,lavakas; margus; allik; ehin; andres; näitleja; tooming; jaak; jaan; rapla
-6,10,7,8,7,9,6,8,5,14,lavakas; allik; margus; ehin; andres; tooming; näitleja; jaak; jaan; rapla
-6,10,8,8,6,7,6,7,5,14,lavakas; allik; margus; ehin; andres; näitleja; tooming; jaak; jaan; rapla
-6,9,8,7,8,7,6,7,5,14,andres; lavakas; näitleja; tooming; jaak; margus; jaan; rapla; allik; ehin
-5,9,10,7,8,6,7,7,6,14,lavakas; margus; allik; ehin; andres; näitleja; tooming; jaak; jaan; rapla
+11,10,7,12,7,9,11,10,7,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+11,10,8,12,7,8,11,10,7,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+10,11,9,12,7,8,11,10,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+10,12,7,12,7,8,10,11,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+10,12,10,12,7,8,10,11,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+8,13,10,12,7,7,9,9,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+9,9,9,11,8,10,9,11,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+8,12,9,10,7,12,8,11,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+8,13,9,9,6,10,8,10,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+8,10,10,8,8,9,8,9,8,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas
+7,11,11,8,8,8,9,9,9,14,rapla; allik; näitleja; ehin; andres; mikomägi; ajakirjanik; jaak; kultuuripärl; jaan; margus; tooming; lavakas

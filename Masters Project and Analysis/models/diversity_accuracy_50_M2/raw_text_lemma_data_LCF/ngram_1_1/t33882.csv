@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,0,0,0,2,14,teater; kultuur; eesti; vene
-0,2,0,0,0,0,0,0,2,14,teater; kultuur; eesti; vene
-0,2,0,0,0,0,0,0,2,14,teater; kultuur; eesti; vene
-0,2,1,0,0,0,0,0,2,14,vene; estonia; teater; kultuur; eesti
-0,2,1,0,0,0,0,1,2,14,vene; estonia; teater; kultuur; eesti
-0,1,1,0,0,0,0,1,2,14,vene; kultuur; eesti; estonia
-0,0,1,0,0,0,0,0,2,14,vene; eesti; estonia
-0,0,0,0,0,1,0,0,2,14,vene; eesti; estonia
-0,0,1,0,0,0,0,0,2,14,vene; eesti
-0,0,1,0,0,1,0,0,1,14,eesti; estonia
-0,0,0,0,0,1,0,0,1,14,eesti; estonia
+1,2,0,1,0,1,1,1,2,14,vene; eesti; kõnekoosolek; naisliit; kultuur; teater
+1,2,0,1,0,1,1,1,2,14,vene; eesti; kõnekoosolek; naisliit; kultuur; teater
+1,2,0,1,0,1,1,1,2,14,vene; eesti; kõnekoosolek; naisliit; kultuur; teater
+1,2,1,1,0,1,1,1,2,14,vene; eesti; kõnekoosolek; naisliit; kultuur; teater; estonia
+1,2,1,1,0,1,1,2,2,14,vene; eesti; kõnekoosolek; naisliit; kultuur; teater; estonia
+2,1,1,1,0,1,1,2,2,14,kultuuripäev; vene; eesti; kõnekoosolek; naisliit; kultuur; estonia
+1,0,1,0,0,1,1,1,2,14,estonia; vene; eesti; kõnekoosolek
+0,0,1,0,0,2,1,0,2,14,estonia; vene; eesti; kõnekoosolek
+1,0,2,0,0,1,1,0,2,14,vene; eesti; kõnekoosolek; kultuuriajalugu
+1,0,1,0,0,2,1,0,1,14,kultuuriajalugu; kõnekoosolek; eesti; estonia
+1,0,0,0,0,2,1,0,1,14,kultuuriajalugu; kõnekoosolek; eesti; estonia

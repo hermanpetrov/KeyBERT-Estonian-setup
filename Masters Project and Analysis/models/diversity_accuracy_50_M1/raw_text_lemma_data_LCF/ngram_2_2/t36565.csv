@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,0,0,1,1,0,3,3,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,4,0,0,1,1,0,3,2,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,4,0,0,1,1,0,3,2,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,4,1,0,1,1,0,3,3,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,4,2,0,1,1,0,4,3,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,4,3,1,1,2,0,3,3,14,kirik; reimo; õigus; geiaktivine; ühiskond; jurist; urmas
-1,3,1,1,1,3,1,4,3,14,kirik; mets; reimo; vaino; õigus; geiaktivine; ühiskond; jurist; urmas
-2,2,1,3,1,2,1,5,3,14,kirik; mets; reimo; vaino; õigus; ühiskond; jurist; urmas
-0,1,0,1,1,2,1,5,2,14,mets; kirik; reimo; vaino; õigus; ühiskond; jurist; urmas
-1,1,2,0,2,2,3,3,2,14,mets; kirik; reimo; vaino; võim; õigus; ühiskond; jurist; urmas
-2,0,2,1,2,2,2,3,3,14,mets; kirik; reimo; vaino; võim; õigus; jurist; urmas
+1,4,0,0,1,1,0,3,4,14,kirik; urmas; reimo; jurist; õigus; ühiskond; abielu; geiaktivine
+1,4,0,0,1,1,0,3,3,14,kirik; urmas; reimo; jurist; õigus; ühiskond; abielu; geiaktivine
+1,4,0,0,1,1,0,3,3,14,kirik; urmas; reimo; jurist; õigus; ühiskond; abielu; geiaktivine
+1,4,1,0,1,1,0,3,4,14,kirik; urmas; reimo; jurist; õigus; ühiskond; abielu; geiaktivine
+1,4,3,0,1,1,0,4,4,14,kirik; urmas; reimo; jurist; õigus; ühiskond; abielu; perekonnaprobleem; geiaktivine
+1,4,3,1,1,2,0,3,4,14,kirik; urmas; reimo; õigus; jurist; ühiskond; abielu; geiaktivine
+1,3,2,1,1,3,1,4,4,14,mets; kirik; urmas; reimo; õigus; jurist; ühiskond; abielu; vaino; perekonnaprobleem; geiaktivine
+2,2,1,4,1,2,1,6,4,14,kirik; urmas; samasooline; perekonnaprobleem; reimo; jurist; õigus; ühiskond; abielu; vaino; mets
+0,1,1,2,2,2,1,5,2,14,kirik; urmas; samasooline; perekonnaprobleem; reimo; õigus; jurist; ühiskond; vaino; mets
+1,1,3,0,3,2,3,3,2,14,kirik; urmas; samasooline; perekonnaprobleem; reimo; õigus; jurist; ühiskond; vaino; mets; võim
+3,0,2,1,3,2,2,3,3,14,kirik; urmas; samasooline; reimo; jurist; õigus; abielu; vaino; mets; võim

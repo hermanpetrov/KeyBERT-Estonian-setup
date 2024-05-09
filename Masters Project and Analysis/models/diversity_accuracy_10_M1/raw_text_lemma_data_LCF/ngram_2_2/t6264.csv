@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,0,0,1,1,17,muusika; berliin
-1,1,1,1,0,0,0,1,1,17,muusika; berliin
-1,1,1,1,0,0,0,1,1,17,muusika; berliin
-1,1,1,1,0,0,0,1,1,17,muusika; berliin
-1,1,1,1,0,0,0,1,1,17,muusika; berliin
-1,1,1,1,0,0,1,1,1,17,muusika; berliin
-1,1,0,0,0,2,1,1,1,17,muusika; berliin
-1,1,1,0,0,0,2,1,1,17,muusika; berliin
-1,1,0,1,0,0,2,3,1,17,bismarck; muusika; hitler; sõda; berliin
-0,1,2,0,0,0,1,2,1,17,bismarck; muusika; hitler; berliin
-1,1,0,1,0,0,1,2,0,17,bismarck; berliin
+1,2,2,2,0,2,3,1,1,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,2,2,0,2,3,1,1,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,2,2,0,2,3,1,1,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,2,2,0,2,3,1,1,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,2,2,0,2,3,1,2,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,2,2,0,2,4,1,1,17,berliin; muusika; valgustusajastu; saksamaa; raadiosaade
+1,2,1,0,0,4,3,2,2,17,berliin; muusika; saksamaa; raadiosaade
+2,2,2,0,0,2,4,4,2,17,berliin; muusika; natsionaalsotsialistlik; saksamaa; raadiosaade
+1,2,1,1,0,0,2,3,2,17,bismarck; berliin; muusika; saksamaa; hitler; sõda
+0,1,3,0,0,0,1,3,2,17,bismarck; berliin; muusika; saksamaa; hitler; natsionaalsotsialistlik
+1,1,1,1,0,0,1,4,1,17,berliin; natsionaalsotsialistlik; saksamaa; bismarck

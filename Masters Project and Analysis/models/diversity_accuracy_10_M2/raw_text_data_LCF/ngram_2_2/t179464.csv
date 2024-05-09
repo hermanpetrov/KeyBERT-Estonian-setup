@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,11,
 0,0,0,0,0,0,0,0,0,11,
 1,0,0,0,0,0,0,0,0,11,nõukogude
-1,0,0,0,0,1,0,0,0,11,teater; moskva
-0,0,0,0,0,1,0,0,0,11,nõukogude
+1,0,0,0,0,0,0,0,0,11,teater
+0,0,0,0,0,0,0,0,0,11,
 0,0,1,0,0,0,0,0,0,11,kongress
-1,0,0,0,0,0,0,0,1,11,kunst; nõukogude
-0,0,0,0,0,0,0,0,1,11,nõukogude
+1,0,0,0,0,0,0,1,0,11,nõukogude; kunst
+0,0,0,0,0,0,0,1,0,11,nõukogude

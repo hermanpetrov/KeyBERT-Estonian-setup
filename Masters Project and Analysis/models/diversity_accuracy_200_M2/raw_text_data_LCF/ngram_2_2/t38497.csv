@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,8,6,4,2,5,6,8,8,16,keränen; kirjutamine; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-8,8,6,4,2,5,6,8,8,16,keränen; kirjutamine; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-8,8,9,3,2,5,6,8,8,16,keränen; kirjutamine; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-11,8,12,3,3,7,6,8,8,16,kirjutamine; raamatute; keränen; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-10,8,12,5,3,8,8,8,7,16,kirjutamine; raamatute; keränen; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-8,9,11,5,4,8,10,9,7,16,kirjutamine; raamatute; keränen; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-8,10,7,10,5,10,12,7,7,16,vende; kirjutamine; raamatute; keränen; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-6,8,9,9,5,8,9,7,7,16,vende; keränen; raamatute; kirjutamine; johannes; keel; õppimine; sõnaloome; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-5,7,9,9,7,5,6,9,5,16,vende; keränen; raamatute; kirjutamine; johannes; keel; õppimine; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-5,7,7,10,11,6,5,6,9,16,vende; keränen; raamatute; kirjutamine; johannes; keel; õppimine; keele; eesti; soome; mika; aavik; kullo; võõrsõna
-5,6,8,11,10,5,6,8,7,16,vende; kirjutamine; raamatute; keränen; johannes; keel; õppimine; keele; eesti; soome; mika; aavik; kullo; võõrsõna
+9,8,6,4,2,6,8,8,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; kullo
+8,8,6,4,2,6,8,8,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; kullo
+8,8,9,3,2,6,8,8,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; kullo
+11,8,12,3,3,6,8,8,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+10,8,12,5,3,8,8,7,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+8,9,11,5,4,10,9,7,0,16,õppimine; sõnaloome; soome; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+8,10,7,10,5,12,7,7,0,16,õppimine; sõnaloome; soome; vende; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+6,8,9,9,5,9,7,7,0,16,õppimine; sõnaloome; soome; vende; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+5,7,9,9,7,6,9,5,0,16,õppimine; soome; vende; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+5,7,7,10,11,5,6,9,0,16,õppimine; soome; vende; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo
+5,6,8,11,10,6,8,7,0,16,õppimine; soome; vende; johannes; mika; keränen; aavik; eesti; keele; võõrsõna; keel; kirjutamine; raamatute; kullo

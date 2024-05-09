@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,3,3,4,8,6,6,9,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-7,3,3,4,8,6,7,9,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-7,4,5,5,8,6,7,9,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-7,4,6,5,8,10,7,9,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-6,5,7,5,8,9,9,10,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-7,6,8,4,8,9,8,10,5,14,tulviste; peeter; normet; dramaturg; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-6,4,8,5,7,8,8,7,4,14,tulviste; peeter; normet; ingo; psühhiaater; vaimuelu; marksism; tänapäevane; pulmad; mäng; reaalsus; fantaasia
-4,3,9,1,5,9,6,8,4,14,tulviste; peeter; normet; ingo; psühhiaater; vaimuelu; marksism; pulmad; mäng; reaalsus; fantaasia
-4,4,8,2,7,10,6,8,4,14,tulviste; peeter; normet; ingo; vaimuelu; psühhiaater; marksism; pulmad; mäng; reaalsus; fantaasia
-4,3,8,2,5,6,5,8,4,14,tulviste; peeter; normet; ingo; psühhiaater; vaimuelu; marksism; pulmad; mäng; reaalsus; fantaasia
-4,3,7,3,4,7,3,6,6,14,psühhiaater; tulviste; marksism; pulmad; peeter; mäng; normet; ingo; reaalsus; fantaasia
+7,3,3,4,8,6,6,9,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+7,3,3,4,8,6,7,9,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+7,4,5,5,8,6,7,9,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+7,4,6,5,8,10,7,9,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+6,5,7,5,8,9,9,10,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+7,6,8,4,8,9,8,10,5,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; dramaturg; tänapäevane; fantaasia; mäng
+6,4,8,5,7,8,8,7,4,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; tänapäevane; fantaasia; mäng
+4,3,9,1,5,9,6,8,4,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; fantaasia; mäng
+4,4,8,2,7,10,6,8,4,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; fantaasia; mäng
+4,3,8,2,5,6,5,8,4,14,marksism; reaalsus; psühhiaater; vaimuelu; pulmad; ingo; normet; tulviste; peeter; fantaasia; mäng
+4,3,7,3,4,7,3,6,6,14,peeter; marksism; reaalsus; fantaasia; psühhiaater; mäng; pulmad; ingo; normet; tulviste

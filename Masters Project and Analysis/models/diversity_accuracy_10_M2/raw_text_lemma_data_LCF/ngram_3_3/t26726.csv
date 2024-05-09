@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,1,1,2,2,3,1,13,kirjandus; realism; vilde; kitzberg
-2,2,1,1,1,2,2,3,1,13,kirjandus; realism; vilde; kitzberg
-2,2,1,1,1,2,2,3,1,13,kirjandus; realism; vilde; kitzberg
-2,2,1,1,1,2,2,3,1,13,kirjandus; realism; vilde; kitzberg
-2,2,2,1,1,2,2,3,1,13,kirjandus; realism; vilde; kitzberg
-2,3,2,1,1,2,3,3,1,13,kirjandus; realism; vilde; kitzberg
-2,2,1,1,1,1,2,3,1,13,kirjandus; realism; vilde; kitzberg
-0,2,2,1,1,3,2,2,1,13,komöödia; kirjandus; realism; kriitiline; vilde; kitzberg
-1,2,1,2,1,2,2,1,1,13,komöödia; kirjandus; realism; vilde; kitzberg
-0,2,2,2,1,1,2,1,0,13,kirjandus; realism; pruut; vilde; kitzberg
-0,2,2,2,1,1,1,1,1,13,kirjandus; realism; pruut; vilde; kitzberg
+2,2,1,3,1,3,2,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,2,1,3,1,3,2,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,2,1,3,1,3,2,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,2,1,3,1,3,2,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,2,2,3,1,3,2,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,3,2,3,1,3,3,4,2,13,realism; laulumäng; kitzberg; vilde; kirjandus; kosjasõit
+2,2,1,1,1,2,2,4,2,13,realism; kitzberg; vilde; kirjandus; kosjasõit
+0,2,2,1,1,4,2,3,2,13,kriitiline; realism; kitzberg; komöödia; ärkamisaeg; vilde; kirjandus; kosjasõit
+1,2,1,3,1,3,2,2,2,13,realism; kitzberg; komöödia; ärkamisaeg; vilde; kirjandus; kosjasõit
+0,2,2,2,1,2,2,1,1,13,pruut; ärkamisaeg; vilde; realism; kirjandus; kitzberg; kosjasõit
+0,2,2,2,1,1,1,1,1,13,pruut; vilde; realism; kirjandus; kitzberg

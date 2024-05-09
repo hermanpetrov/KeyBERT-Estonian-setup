@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,4,4,2,4,5,4,2,10,ladina-ameerika; superstaar; muusika; tütar; konga; kuuba; gloria
-2,5,5,4,3,4,5,4,2,10,ladina-ameerika; superstaar; muusika; tütar; konga; kuuba; gloria
-2,6,5,4,4,5,5,4,2,10,ladina-ameerika; superstaar; muusika; tütar; konga; kuuba; gloria
-3,6,5,4,4,5,5,4,3,10,ladina-ameerika; superstaar; muusika; tütar; konga; kuuba; gloria
-3,6,5,4,4,5,5,4,3,10,ladina-ameerika; superstaar; muusika; tütar; konga; kuuba; gloria
-3,6,5,4,5,4,6,5,3,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
-2,6,5,6,4,5,4,5,3,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
-2,6,3,5,4,6,4,6,3,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
-5,6,4,5,4,6,4,6,3,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
-4,5,3,4,5,5,2,6,4,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
-5,3,3,4,4,5,5,5,5,10,ladina-ameerika; superstaar; muusika; tütar; räpp; konga; kuuba; gloria
+2,5,4,4,2,5,4,2,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; superstaar; konga
+2,5,5,4,3,5,4,2,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; superstaar; konga
+2,6,5,4,4,5,4,2,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; superstaar; konga
+3,6,5,4,4,5,4,3,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; superstaar; konga
+3,6,5,4,4,5,4,3,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; superstaar; konga
+3,6,5,4,5,6,5,3,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; räpp; superstaar; konga
+2,6,5,6,4,4,5,3,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; räpp; superstaar; konga
+2,6,3,5,4,4,6,3,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; räpp; superstaar; konga
+5,6,4,5,4,4,6,3,0,10,ladina-ameerika; gloria; tütar; muusika; kuuba; räpp; superstaar; konga
+4,5,3,4,5,2,6,4,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; räpp; superstaar; konga
+5,3,3,4,4,5,5,5,0,10,ladina-ameerika; gloria; tütar; kuuba; muusika; räpp; superstaar; konga

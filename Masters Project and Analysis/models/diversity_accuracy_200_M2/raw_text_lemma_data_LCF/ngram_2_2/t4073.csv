@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,4,3,0,4,4,2,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,5,4,3,0,4,4,3,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,5,4,3,0,4,4,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,4,4,3,0,4,4,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,4,5,4,0,5,4,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-5,4,6,5,1,5,4,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-5,5,5,6,4,5,5,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,5,5,5,4,6,5,4,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,6,6,5,4,6,5,5,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,6,5,4,4,6,6,5,4,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
-4,5,6,4,5,5,6,5,3,12,majandus; gaudeamus; afganistan; inflatsioon; eesti; euro
+7,7,5,5,2,7,7,4,4,12,majandus; gaudeamus; venemaa; eesti; üleminek; vasaktsenter; euro; afganistan; välireklaam; ettevõte; inflatsioon
+7,7,5,5,2,7,7,5,4,12,majandus; gaudeamus; venemaa; eesti; üleminek; vasaktsenter; euro; afganistan; välireklaam; ettevõte; inflatsioon
+7,7,6,5,2,7,8,6,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; venemaa; eesti; üleminek; inflatsioon
+7,7,5,5,2,6,8,6,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; venemaa; eesti; üleminek; inflatsioon
+7,7,6,6,2,7,8,6,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; venemaa; eesti; üleminek; inflatsioon
+6,6,9,7,2,9,6,6,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; eesti; venemaa; üleminek; inflatsioon
+6,8,7,10,6,8,8,5,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; eesti; venemaa; üleminek; inflatsioon
+5,7,8,8,6,7,8,6,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; eesti; venemaa; üleminek; inflatsioon
+5,8,8,7,6,10,8,8,4,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; eesti; venemaa; üleminek; inflatsioon
+6,8,7,6,6,10,8,8,6,12,majandus; vasaktsenter; euro; afganistan; välireklaam; ettevõte; gaudeamus; venemaa; eesti; inflatsioon
+6,7,8,6,6,8,8,8,5,12,majandus; gaudeamus; eesti; venemaa; vasaktsenter; euro; afganistan; välireklaam; ettevõte; inflatsioon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,13,graafika; jüri
-1,0,0,0,0,0,0,1,0,13,graafika; jüri
-1,0,0,0,0,0,0,1,0,13,graafika; jüri
-1,0,0,0,0,0,0,1,0,13,graafika; jüri
-1,0,1,0,0,0,0,1,0,13,graafika; jüri; andrus
-1,0,1,0,0,0,0,1,0,13,graafika; jüri; andrus
-1,0,1,0,0,0,0,1,0,13,graafika; jüri; andrus
-1,0,1,0,0,0,1,0,0,13,graafika; andrus; poola
-0,0,1,0,1,0,1,1,0,13,jüri; ansip; andrus; poola
-0,0,1,0,2,1,1,0,1,13,jüri; andrus; poola; graafika; ansip
-0,0,1,0,2,1,1,0,1,13,jüri; andrus; poola; graafika; ansip
+1,0,0,0,0,0,1,0,0,13,jüri; graafika
+1,0,0,0,0,0,1,0,0,13,jüri; graafika
+1,0,0,0,0,0,1,0,0,13,jüri; graafika
+1,0,0,0,0,0,1,0,0,13,jüri; graafika
+1,0,1,0,0,0,1,0,0,13,andrus; graafika; jüri
+1,0,1,0,0,0,1,0,0,13,andrus; graafika; jüri
+1,0,1,0,0,0,1,0,0,13,andrus; graafika; jüri
+1,0,1,0,0,1,0,0,0,13,andrus; graafika; poola
+0,0,1,0,1,1,1,0,0,13,andrus; poola; ansip; jüri
+0,0,1,0,2,1,0,1,0,13,andrus; graafika; poola; ansip
+0,0,1,0,2,1,0,1,0,13,andrus; graafika; poola; ansip

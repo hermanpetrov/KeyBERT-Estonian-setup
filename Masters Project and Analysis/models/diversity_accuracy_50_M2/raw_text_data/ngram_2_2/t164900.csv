@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,3,3,1,4,3,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; helilooja; arder
-3,3,3,3,1,4,3,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; helilooja; arder
-3,3,3,3,1,4,3,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; helilooja; arder
-3,3,3,3,1,4,3,3,2,13,kontsert; muusika; muusikakool; unistus; helin-mari; helilooja; arder
-3,3,3,3,1,4,3,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; soome; helilooja; arder
-4,2,3,3,1,5,4,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; õpingud; soome; helilooja; arder
-3,1,3,1,2,5,3,4,2,13,muusikakool; muusika; unistus; helin-mari; õpingud; soome; esinemine; helilooja; arder
-3,2,2,1,3,4,3,3,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; õpingud; helilooja; arder
-5,2,1,0,1,2,4,2,2,13,muusikakool; muusika; unistus; helin-mari; õpingud; helilooja; arder
-4,2,4,2,2,4,3,2,2,13,muusikakool; muusika; unistus; kontsert; helin-mari; õpingud; helilooja; arder; armastus
-4,1,2,2,2,1,3,1,2,13,muusikakool; muusika; unistus; helin-mari; õpingud; arder; armastus
+3,3,3,3,1,4,3,3,2,13,arder; muusikakool; helin-mari; muusika; helilooja; unistus; kontsert
+3,3,3,3,1,4,3,3,2,13,arder; muusikakool; helin-mari; muusika; helilooja; unistus; kontsert
+3,3,3,3,1,4,3,3,2,13,arder; muusikakool; helin-mari; muusika; helilooja; unistus; kontsert
+3,3,3,3,1,4,3,3,2,13,arder; muusikakool; helin-mari; muusika; helilooja; unistus; kontsert
+3,3,3,3,1,4,3,3,2,13,soome; arder; muusikakool; helin-mari; muusika; helilooja; unistus; kontsert
+4,2,3,3,1,5,4,3,2,13,soome; arder; muusikakool; helin-mari; muusika; õpingud; helilooja; unistus; kontsert
+3,1,3,1,2,5,3,4,2,13,esinemine; soome; arder; muusikakool; muusika; õpingud; helin-mari; helilooja; unistus
+3,2,2,1,3,4,3,3,2,13,arder; muusikakool; muusika; õpingud; helin-mari; helilooja; unistus; kontsert
+5,2,1,0,1,2,4,2,2,13,arder; muusikakool; õpingud; muusika; helin-mari; helilooja; unistus
+4,2,4,2,2,4,3,2,2,13,arder; muusikakool; armastus; helin-mari; õpingud; muusika; helilooja; unistus; kontsert
+4,1,2,2,2,1,3,1,2,13,arder; armastus; muusikakool; helin-mari; õpingud; muusika; unistus

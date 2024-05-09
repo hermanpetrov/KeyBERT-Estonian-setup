@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,0,1,1,1,17,festival; laen; jürgen; kreeka
-0,2,1,0,0,0,1,1,1,17,festival; laen; jürgen; kreeka
-0,2,1,0,0,0,1,1,1,17,festival; laen; jürgen; kreeka
-0,2,1,0,0,0,1,1,1,17,festival; laen; jürgen; kreeka
-0,2,2,0,0,0,1,1,1,17,viljandi; festival; laen; jürgen; kreeka
-0,1,2,0,0,0,1,1,1,17,viljandi; laen; festival; jürgen; kreeka
-0,1,1,0,0,0,1,1,1,17,festival; laen; kreeka
-3,1,0,2,0,1,1,2,1,17,festival; laen; jürgen; kreeka; steiner
-2,1,0,0,0,2,1,2,1,17,festival; laen; jürgen; kreeka
-3,3,0,2,0,2,2,1,1,17,festival; vare; steiner; viljandi; laen; kai; jürgen; kreeka
-1,3,1,2,0,3,1,0,1,17,festival; steiner; viljandi; laen; jürgen; kreeka
+0,4,4,1,0,0,1,1,1,17,venemaa; pärimusmuusika; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; festival
+0,4,4,1,0,0,1,1,1,17,venemaa; pärimusmuusika; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; festival
+0,4,4,1,0,0,1,1,1,17,venemaa; pärimusmuusika; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; festival
+0,4,4,1,0,0,1,1,1,17,venemaa; pärimusmuusika; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; festival
+0,4,6,1,0,0,1,1,1,17,venemaa; pärimusmuusika; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+0,3,6,1,0,0,1,1,1,17,venemaa; pärimusmuusika; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; viljandi; jürgen; laen; festival
+0,3,5,1,0,0,1,1,1,17,venemaa; pärimusmuusika; muinaslaev; presidendivalimine; põllumajandusprojekt; kreeka; laen; festival
+3,1,2,4,0,1,1,2,1,17,steiner; venemaa; pärimusmuusika; presidendivalimine; põllumajandusprojekt; kreeka; jürgen; laen; festival
+2,1,3,0,0,2,1,2,1,17,muinaslaev; venemaa; kreeka; jürgen; laen; festival; kosmosesüstik
+3,4,2,4,0,2,2,1,1,17,vare; steiner; venemaa; presidendivalimine; kreeka; kai; viljandi; jürgen; laen; festival
+1,3,3,4,0,3,1,0,1,17,steiner; venemaa; presidendivalimine; kreeka; viljandi; jürgen; laen; festival

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,5,1,5,5,4,0,13,erakond; talv; kriis; luksemburg; tanel; valimine; brüssel
-1,2,3,5,1,5,5,4,0,13,erakond; talv; kriis; luksemburg; tanel; valimine; brüssel
-1,2,3,5,1,5,5,4,0,13,erakond; talv; kriis; luksemburg; tanel; valimine; brüssel
-1,2,3,5,1,5,5,4,0,13,erakond; talv; kriis; luksemburg; tanel; valimine; brüssel
-1,2,3,5,1,5,5,3,0,13,erakond; talv; kriis; luksemburg; tanel; valimine; brüssel
-1,2,5,4,1,5,6,3,0,13,erakond; talv; kriis; luksemburg; sügav; tanel; valimine; brüssel
-2,1,4,3,1,7,5,3,0,13,erakond; talv; kriis; valimine; luksemburg; 4000; tanel; kroon; brüssel
-1,1,4,3,1,8,5,4,0,13,talv; kriis; sügav; kroon; brüssel; erakond; luksemburg; 4000; tanel; valimine
-2,1,7,3,0,8,5,4,0,13,erakond; talv; kriis; luksemburg; kroon; sügav; 4000; tanel; valimine; brüssel
-3,1,7,2,0,8,7,5,0,13,erakond; talv; kriis; luksemburg; kroon; sügav; 4000; tanel; valimine; brüssel
-2,1,8,1,0,7,6,5,0,13,erakond; talv; kriis; valimine; luksemburg; sügav; 4000; tanel; kroon; brüssel
+2,3,4,7,2,6,6,4,0,13,valimine; eelarve; erakond; kriis; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,3,4,7,2,6,6,4,0,13,valimine; eelarve; erakond; kriis; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,3,4,7,2,6,6,4,0,13,valimine; eelarve; erakond; kriis; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,3,4,7,2,6,6,4,0,13,valimine; eelarve; erakond; kriis; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,3,4,7,2,6,6,3,0,13,valimine; eelarve; erakond; kriis; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,3,6,6,2,6,7,4,0,13,valimine; eelarve; erakond; kriis; sügav; brüssel; talv; miinimumpalk; tanel; luksemburg
+2,2,5,4,2,8,6,5,0,13,valimine; eelarve; tanel; erakond; kriis; brüssel; miinimumpalk; 4000; talv; luksemburg; kroon
+1,2,5,3,1,9,6,6,0,13,valimine; eelarve; tanel; erakond; kriis; sügav; brüssel; miinimumpalk; 4000; talv; luksemburg; kroon
+3,2,7,3,1,9,6,6,0,13,valimine; eelarve; kriis; brüssel; miinimumpalk; kroon; tanel; erakond; sügav; 4000; talv; luksemburg
+4,2,7,2,0,9,9,6,0,13,valimine; eelarve; kriis; brüssel; miinimumpalk; kroon; tanel; erakond; sügav; 4000; talv; luksemburg
+3,2,8,1,0,8,7,6,0,13,valimine; eelarve; kriis; brüssel; talv; miinimumpalk; kroon; erakond; sügav; 4000; tanel; luksemburg

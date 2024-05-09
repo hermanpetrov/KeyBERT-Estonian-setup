@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,1,0,1,1,0,19,anatoomikum; performance; tants; moeetendus
-1,2,1,0,1,0,1,1,0,19,anatoomikum; performance; tants; moeetendus
-1,2,1,0,1,0,1,1,0,19,anatoomikum; performance; tants; moeetendus
-1,2,0,0,1,0,1,1,0,19,anatoomikum; performance; tants; moeetendus
-1,2,0,0,1,0,1,0,0,19,anatoomikum; performance; tants
-1,2,1,0,1,1,2,1,0,19,anatoomikum; performance; mood; tants
-1,2,1,0,1,2,3,2,0,19,anatoomikum; performance; mood; kunstikool; tants
-0,1,1,0,1,2,1,1,0,19,tants; performance; anatoomikum; mood
-0,1,0,0,1,2,1,3,0,19,anatoomikum; performance; mood; kunstikool; tants
-0,1,1,1,1,3,2,1,0,19,performance; kristina; mood; kunstikool; tants; lavastaja
-0,0,0,1,1,3,2,2,0,19,anatoomikum; performance; kristina; mood; kunstikool; lavastaja
+1,2,1,0,1,1,1,0,0,19,performance; moeetendus; anatoomikum; tants
+1,2,1,0,1,1,1,0,0,19,performance; moeetendus; anatoomikum; tants
+1,2,1,0,1,1,1,0,0,19,performance; moeetendus; anatoomikum; tants
+1,2,0,0,1,1,1,0,0,19,performance; moeetendus; anatoomikum; tants
+1,2,0,0,1,1,0,0,0,19,performance; anatoomikum; tants
+1,2,1,0,1,2,1,0,0,19,mood; anatoomikum; performance; tants
+1,2,1,0,1,3,2,0,0,19,mood; kunstikool; anatoomikum; performance; tants
+0,1,1,0,1,1,1,0,0,19,anatoomikum; performance; tants
+0,1,0,0,1,1,3,0,0,19,anatoomikum; kunstikool; performance; tants
+0,1,1,1,1,2,1,0,0,19,mood; kunstikool; kristina; performance; tants
+0,0,0,1,1,2,2,0,0,19,mood; kunstikool; anatoomikum; kristina; performance

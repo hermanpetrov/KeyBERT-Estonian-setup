@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,2,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-4,3,3,1,2,1,1,4,1,18,thomas; tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-0,3,2,1,2,1,1,4,1,18,tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-2,3,1,0,2,1,1,3,1,18,tehnoloogia; watson; papadopolous; port; maailma; arvuti; google
-0,3,1,3,2,1,1,3,1,18,tehnoloogia; watson; papadopolous; maailma; arvuti; google; kommentaar
-0,5,2,2,2,1,1,0,1,18,watson; papadopolous; serveri; maailma; võrgustik; arvuti; google; kommentaar
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,2,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+4,3,3,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; thomas; google; tehnoloogia; papadopolous
+0,3,2,1,2,1,1,4,1,18,arvuti; maailma; kommentaar; watson; google; tehnoloogia; papadopolous
+2,3,1,0,2,1,1,3,1,18,arvuti; maailma; watson; port; google; tehnoloogia; papadopolous
+0,3,1,3,2,1,1,3,1,18,arvuti; maailma; kommentaar; watson; google; tehnoloogia; papadopolous
+0,5,2,2,2,1,1,0,1,18,arvuti; maailma; kommentaar; watson; google; võrgustik; papadopolous; serveri

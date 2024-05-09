@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,4,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,4,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,4,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,4,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,3,1,0,0,0,1,2,1,11,liikluskontroll; amet; veeteede; merehariduskeskus; rannavalve
-1,2,1,0,0,1,1,2,1,11,merehariduskeskus; rannavalve; amet; veeteede
-0,2,1,0,0,0,1,3,1,11,amet; veeteede; merehariduskeskus; rannavalve
-0,2,1,0,0,2,1,3,0,11,veeteede; merehariduskeskus; rannavalve
-0,1,1,0,0,1,2,2,0,11,merehariduskeskus; rannavalve; veeteede
-0,1,0,0,0,2,1,2,0,11,veeteede; merehariduskeskus; rannavalve
+1,4,1,0,0,1,2,1,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll; amet
+1,4,1,0,0,1,2,1,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll; amet
+1,4,1,0,0,1,2,1,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll; amet
+1,4,1,0,0,1,2,1,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll; amet
+1,4,1,0,0,1,2,1,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll; amet
+1,3,1,0,0,1,2,1,0,11,liikluskontroll; merehariduskeskus; veeteede; rannavalve; amet
+1,2,1,0,0,1,2,1,0,11,merehariduskeskus; veeteede; rannavalve; amet
+0,2,1,0,0,1,3,1,0,11,merehariduskeskus; veeteede; rannavalve; amet
+0,2,1,0,0,1,3,0,0,11,merehariduskeskus; veeteede; rannavalve
+0,1,1,0,0,2,2,0,0,11,merehariduskeskus; veeteede; rannavalve
+0,1,0,0,0,1,2,0,0,11,merehariduskeskus; veeteede; rannavalve

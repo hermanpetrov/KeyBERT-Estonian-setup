@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,0,2,1,1,3,1,14,esimene; õukond; trepp; pariis; françois; monogramm; loss; kuninglik; napoleon
-4,4,2,0,2,1,1,3,0,14,esimene; õukond; trepp; pariis; françois; monogramm; loss; kuninglik; napoleon
-4,4,2,0,2,1,1,3,0,14,esimene; õukond; trepp; pariis; françois; monogramm; loss; kuninglik; napoleon
-4,4,2,0,2,1,1,3,0,14,esimene; õukond; trepp; pariis; françois; monogramm; loss; kuninglik; napoleon
-4,4,3,0,2,1,1,3,0,14,esimene; õukond; trepp; pariis; françois; monogramm; loss; kuninglik; napoleon
-3,3,2,0,2,2,1,2,0,14,trepp; esimene; pariis; françois; monogramm; loss; napoleon
-3,3,1,1,2,5,1,3,0,14,esimene; õukond; pariis; françois; renessanss; monogramm; kuninglik; loss; napoleon
-2,2,3,4,3,4,2,2,2,14,trepp; esimene; pariis; françois; renessanss; monogramm; loss; kuninglik; napoleon
-2,2,3,2,3,4,2,0,0,14,trepp; esimene; õukond; françois; renessanss; monogramm; loss; napoleon
-1,1,4,2,3,2,0,1,1,14,trepp; esimene; õukond; pariis; françois; renessanss; monogramm; loss; napoleon
-2,0,3,3,3,3,1,1,1,14,trepp; õukond; françois; renessanss; monogramm; loss; napoleon
+4,4,2,0,2,1,1,3,1,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; trepp
+4,4,2,0,2,1,1,3,0,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; trepp
+4,4,2,0,2,1,1,3,0,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; trepp
+4,4,2,0,2,1,1,3,0,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; trepp
+4,4,3,0,2,1,1,3,0,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; trepp
+3,3,2,0,2,2,1,2,0,14,napoleon; pariis; monogramm; françois; loss; esimene; trepp
+3,3,1,1,2,5,1,3,0,14,õukond; napoleon; pariis; monogramm; françois; kuninglik; loss; esimene; renessanss
+2,2,3,4,3,4,2,2,2,14,napoleon; pariis; monogramm; françois; kuninglik; esimene; loss; trepp; renessanss
+2,2,3,2,3,4,2,0,0,14,õukond; napoleon; monogramm; françois; esimene; loss; trepp; renessanss
+1,1,4,2,3,2,0,1,1,14,õukond; pariis; napoleon; monogramm; françois; esimene; loss; trepp; renessanss
+2,0,3,3,3,3,1,1,1,14,õukond; napoleon; monogramm; françois; loss; trepp; renessanss

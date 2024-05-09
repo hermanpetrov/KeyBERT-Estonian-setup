@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,1,0,0,1,13,solex; holland; sampel; elektroonika
-2,0,0,1,0,0,0,1,1,13,solex; süntesaator; holland; elektroonika
-2,0,0,2,0,0,0,2,1,13,elektroonika; holland; sampel; solex; süntesaator
-2,0,1,2,0,1,1,1,0,13,elektroonika; holland; sampel; solex; süntesaator
-1,0,1,1,0,1,1,0,0,13,elektroonika; süntesaator; holland
-1,0,1,1,0,1,1,0,0,13,elektroonika; holland; sampel
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,2,1,4,2,3,3,13,elizabeth; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,3,1,1,2,4,3,13,elizabeth; süntesaator; populaarmuusika; elektroonika; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,1,2,4,1,1,2,4,3,13,elizabeth; süntesaator; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+3,0,2,3,1,3,4,3,3,13,elizabeth; süntesaator; populaarmuusika; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland; solex
+2,0,2,3,1,4,4,2,2,13,elizabeth; süntesaator; populaarmuusika; elektroonika; rokkansambel; sooloettevõtmine; esselink; holland
+1,1,2,3,1,3,3,2,3,13,elizabeth; elektroonika; sampel; rokkansambel; sooloettevõtmine; esselink; holland

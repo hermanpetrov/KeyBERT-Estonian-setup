@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,1,1,1,1,0,15,eurotsoon; anti; föderatsioon; eesti
-1,0,2,0,1,1,1,1,0,15,eurotsoon; anti; föderatsioon; eesti
-1,0,2,0,1,1,1,1,0,15,eurotsoon; anti; föderatsioon; eesti
-1,0,3,0,1,1,1,1,0,15,majandus; eurotsoon; anti; föderatsioon; eesti
-1,0,1,0,1,1,1,1,0,15,föderatsioon; eurotsoon; anti
-1,0,1,0,1,0,1,1,0,15,föderatsioon; eurotsoon; anti
-0,0,2,0,1,0,0,1,0,15,vaino; eurotsoon; anti
-1,0,2,0,1,1,0,2,0,15,eurotsoon; anti; föderatsioon; vaino; poolamets
-0,1,3,0,0,1,0,2,0,15,anti; eurotsoon; urmas; föderatsioon; vaino; poolamets
-0,1,3,0,0,2,0,1,0,15,anti; eurotsoon; urmas; föderatsioon; heaolu; vaino; poolamets
-0,1,3,0,0,1,0,2,0,15,eurotsoon; urmas; anti; heaolu; vaino; sildvee; poolamets
+1,0,2,0,1,1,1,0,0,15,anti; eesti; föderatsioon; eurotsoon
+1,0,2,0,1,1,1,0,0,15,anti; eesti; föderatsioon; eurotsoon
+1,0,2,0,1,1,1,0,0,15,anti; eesti; föderatsioon; eurotsoon
+1,0,3,0,1,1,1,0,0,15,majandus; eesti; anti; föderatsioon; eurotsoon
+1,0,1,0,1,1,1,0,0,15,föderatsioon; anti; eurotsoon
+1,0,1,0,1,1,1,0,0,15,föderatsioon; anti; eurotsoon
+0,0,2,0,1,0,1,0,0,15,anti; vaino; eurotsoon
+1,0,2,0,1,0,2,0,0,15,poolamets; anti; vaino; eurotsoon
+0,1,3,0,0,0,2,0,0,15,poolamets; vaino; urmas; föderatsioon; eurotsoon
+0,1,3,0,0,0,1,0,0,15,poolamets; vaino; urmas; heaolu; eurotsoon
+0,1,3,0,0,0,2,0,0,15,poolamets; sildvee; vaino; urmas; heaolu; eurotsoon

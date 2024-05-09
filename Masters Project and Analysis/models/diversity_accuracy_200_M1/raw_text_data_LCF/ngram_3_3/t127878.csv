@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,6,7,1,8,8,8,5,14,keiu; rästas; võõras; peeter; lavastaja; urmas; virro; vadi
-7,7,6,7,1,8,8,8,5,14,rästas; keiu; võõras; peeter; lavastaja; urmas; virro; vadi
-7,7,8,7,1,8,8,8,5,14,rästas; keiu; võõras; peeter; lavastaja; urmas; virro; vadi
-8,7,8,7,1,8,8,8,5,14,keiu; rästas; võõras; peeter; lavastaja; urmas; virro; vadi
-8,8,8,7,2,8,8,8,5,14,keiu; rästas; võõras; peeter; lavastaja; urmas; virro; vadi
-8,8,8,8,4,8,8,8,5,14,keiu; rästas; võõras; peeter; lavastaja; urmas; virro; vadi
-6,8,8,8,5,8,8,8,7,14,virro; rästas; keiu; võõras; peeter; urmas; lavastaja; vadi
-4,7,8,7,6,8,8,8,7,14,virro; rästas; keiu; võõras; peeter; urmas; lavastaja; vadi
-4,8,8,6,8,8,8,8,7,14,virro; rästas; keiu; võõras; peeter; urmas; lavastaja; vadi
-3,8,8,7,7,8,6,8,8,14,virro; rästas; keiu; võõras; peeter; urmas; lavastaja; vadi
-4,8,8,7,8,8,7,8,8,14,virro; rästas; keiu; võõras; peeter; urmas; lavastaja; vadi
+7,7,6,7,1,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+7,7,6,7,1,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+7,7,8,7,1,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+8,7,8,7,1,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+8,8,8,7,2,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+8,8,8,8,4,8,8,5,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+6,8,8,8,5,8,8,7,0,14,peeter; urmas; keiu; vadi; virro; võõras; lavastaja; rästas
+4,7,8,7,6,8,8,7,0,14,peeter; urmas; keiu; vadi; virro; lavastaja; võõras; rästas
+4,8,8,6,8,8,8,7,0,14,peeter; urmas; keiu; vadi; virro; lavastaja; võõras; rästas
+3,8,8,7,7,6,8,8,0,14,peeter; urmas; keiu; vadi; virro; lavastaja; võõras; rästas
+4,8,8,7,8,7,8,8,0,14,peeter; urmas; keiu; vadi; virro; lavastaja; võõras; rästas

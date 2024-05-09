@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,3,7,7,4,4,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,3,7,7,4,4,8,5,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,3,7,7,4,4,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,3,7,7,4,4,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,3,7,7,4,4,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,4,7,7,5,5,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-7,7,5,7,7,7,5,8,6,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-8,7,5,7,6,9,6,8,6,13,ema; raamat; johan; saar; torm; jääma; kon-tiki; lugema; isa; pisar
-7,7,5,8,6,9,8,8,6,13,ema; raamat; johan; saar; torm; jääma; kon-tiki; lugema; isa; pisar
-7,7,5,6,6,9,8,9,6,13,ema; raamat; johan; saar; torm; jääma; kon-tiki; lugema; isa; pisar
-5,7,5,5,6,8,9,7,6,13,ema; raamat; johan; saar; torm; jääma; kon-tiki; lugema; isa; pisar
+7,7,3,7,7,4,4,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,3,7,7,4,4,8,5,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,3,7,7,4,4,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,3,7,7,4,4,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,3,7,7,4,4,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,4,7,7,5,5,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+7,7,5,7,7,7,5,8,6,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+8,7,5,7,6,9,6,8,6,13,pisar; jääma; isa; torm; ema; lugema; kon-tiki; johan; raamat; saar
+7,7,5,8,6,9,8,8,6,13,pisar; jääma; isa; torm; ema; lugema; kon-tiki; johan; raamat; saar
+7,7,5,6,6,9,8,9,6,13,pisar; jääma; isa; torm; ema; lugema; kon-tiki; johan; raamat; saar
+5,7,5,5,6,8,9,7,6,13,pisar; jääma; isa; torm; ema; lugema; kon-tiki; johan; raamat; saar

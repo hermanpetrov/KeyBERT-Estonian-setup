@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,0,0,12,baltika; euroopa
-0,0,2,0,0,2,2,0,0,12,baltika; euroopa
-0,0,2,0,0,2,2,0,0,12,baltika; euroopa
-0,0,1,0,0,2,2,0,0,12,baltika; euroopa
-0,0,1,0,0,2,2,0,0,12,baltika; euroopa; liit
-0,0,1,0,0,1,2,0,0,12,baltika; euroopa
-0,0,0,0,0,1,1,0,0,12,baltika
-0,0,0,1,0,1,1,1,0,12,baltika; kreeka
-0,0,1,2,1,1,1,1,0,12,baltika; enn; gazprom; kreeka
-0,0,1,2,1,1,0,1,0,12,baltika; liit; enn; gazprom; kreeka
-0,0,1,1,0,0,0,1,0,12,baltika; gazprom; kreeka
+0,1,2,0,0,3,3,1,0,12,rahulolu; keskkonnarikkumine; euroopa; baltika
+0,1,2,0,0,3,3,1,0,12,rahulolu; keskkonnarikkumine; euroopa; baltika
+0,1,2,0,0,3,3,1,0,12,rahulolu; keskkonnarikkumine; euroopa; baltika
+0,1,1,0,0,3,3,1,0,12,rahulolu; euroopa; keskkonnarikkumine; baltika
+0,1,1,0,0,3,3,1,0,12,rahulolu; euroopa; keskkonnarikkumine; baltika; liit
+0,1,1,0,0,2,3,1,0,12,rahulolu; euroopa; keskkonnarikkumine; baltika
+0,1,0,0,0,3,1,1,0,12,baltika; kultuurisõber; rahulolu; keskkonnarikkumine
+0,1,0,1,0,1,2,2,0,12,rahulolu; baltika; kreeka; keskkonnarikkumine
+0,1,2,2,1,1,2,1,0,12,klaasikunstnik; rahulolu; gazprom; kreeka; keskkonnarikkumine; enn; baltika
+1,1,1,2,1,1,1,2,0,12,rahulolu; gazprom; keskkonnarikkumine; enn; kultuurisõber; kreeka; baltika; liit
+1,1,1,1,0,1,0,2,0,12,rahulolu; gazprom; kultuurisõber; keskkonnarikkumine; kreeka; baltika

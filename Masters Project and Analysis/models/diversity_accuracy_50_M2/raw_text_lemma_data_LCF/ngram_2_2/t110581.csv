@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,2,4,4,1,3,5,7,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,4,4,1,3,5,7,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,4,4,1,3,5,7,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,4,4,1,3,5,7,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,5,4,1,4,5,7,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,4,5,1,3,6,6,6,13,lutsifer; villem; kirik; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-5,2,5,7,1,3,7,6,6,13,lutsifer; kirik; villem; sakslane; stackelberg; kristus; eesti; kaarli; fresko
-4,3,4,3,1,4,4,6,6,13,kirik; villem; sakslane; stackelberg; kristus; eesti; kaarli; ilus
-2,2,4,4,1,4,5,7,6,13,kirik; villem; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus
-4,0,2,3,1,2,4,6,4,13,kirik; villem; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus
-4,2,4,4,1,2,5,5,3,13,kirik; villem; sakslane; stackelberg; kristus; köler; eesti; kaarli; ilus
+5,2,4,4,1,3,6,8,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,2,4,4,1,3,6,8,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,2,4,4,1,3,6,8,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,2,4,4,1,3,6,8,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,2,5,4,1,4,6,8,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,2,4,5,1,3,7,7,7,13,villem; fresko; kristus; eesti; kirik; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+6,2,5,8,1,3,8,7,7,13,kristus; fresko; villem; kirik; eesti; lutsifer; stackelberg; kaarli; mõisavalitseja; sakslane
+5,3,5,4,1,4,5,7,7,13,kristus; villem; eesti; kirik; stackelberg; ilus; kaarli; mõisavalitseja; sakslane
+2,2,4,5,1,4,6,8,7,13,kristus; villem; eesti; kirik; stackelberg; ilus; kaarli; köler; mõisavalitseja; sakslane
+4,0,2,3,1,2,5,7,5,13,kristus; villem; eesti; kirik; stackelberg; ilus; kaarli; köler; mõisavalitseja; sakslane
+4,2,4,4,1,2,6,6,4,13,kristus; villem; eesti; kirik; stackelberg; ilus; kaarli; köler; mõisavalitseja; sakslane

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,3,4,3,5,4,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-4,4,3,4,3,5,4,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-4,4,3,4,3,5,4,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-4,4,3,4,3,5,4,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-4,5,6,4,3,5,4,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-4,5,6,4,3,5,5,6,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-6,5,4,4,4,6,5,6,3,13,estefan; crossover; artist; emilio; grammy; stefan; gloria; ballaad
-4,3,6,4,4,5,7,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-5,4,5,4,4,7,6,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-2,2,5,4,4,7,7,5,3,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
-1,4,4,4,5,7,5,4,5,13,estefan; crossover; artist; kuub; emilio; grammy; stefan; gloria; ballaad
+4,4,3,4,3,5,4,5,3,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+4,4,3,4,3,5,4,5,3,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+4,4,3,4,3,5,4,5,3,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+4,4,3,4,3,5,4,5,3,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+4,5,6,4,3,5,4,5,3,13,grammy; emilio; gloria; stefan; artist; estefan; ballaad; kuub; crossover
+4,5,6,4,3,5,5,6,3,13,grammy; emilio; gloria; stefan; artist; estefan; ballaad; kuub; crossover
+6,5,4,4,4,6,5,6,3,13,grammy; emilio; gloria; stefan; artist; ballaad; estefan; crossover
+4,3,7,4,4,5,7,6,3,13,lauljatar; grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+5,4,5,4,4,8,6,5,3,13,lauljatar; grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover
+2,2,5,4,4,8,7,5,3,13,lauljatar; grammy; emilio; gloria; stefan; artist; estefan; ballaad; kuub; crossover
+1,4,4,4,5,8,5,4,5,13,lauljatar; grammy; emilio; gloria; stefan; artist; ballaad; estefan; kuub; crossover

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,3,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon
-0,1,4,0,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon; port
-0,1,4,1,1,0,1,1,2,11,viirus; kristjan; epideemia; informatsioon; port
-0,1,4,1,1,0,1,1,1,11,viirus; kristjan; epideemia; informatsioon; port
-0,1,4,2,1,0,1,1,1,11,viirus; kristjan; epideemia; informatsioon; port
-0,0,4,1,0,0,1,2,1,11,viirus; kristjan; epideemia; informatsioon; port
+3,3,3,1,1,0,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,3,1,1,0,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,3,1,1,0,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,3,1,1,0,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,3,1,1,0,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,3,1,1,1,2,2,2,11,epideemia; kriisivalmidus; kuritegevus; kristjan; sihtrühm; informatsioon; viirus
+3,3,4,1,1,1,2,4,2,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+3,3,4,2,1,1,2,3,2,11,epideemia; kriisivalmidus; kuritegevus; port; kristjan; sihtrühm; informatsioon; viirus
+2,3,4,3,1,1,2,3,1,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+2,3,5,5,1,1,2,3,1,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+1,2,5,4,0,1,2,5,1,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus

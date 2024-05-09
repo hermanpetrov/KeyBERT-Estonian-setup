@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,1,3,0,2,3,6,1,13,rütm; oidipus; krull; arvumaagia; jaan; pehk; merilai; luulekogu
-3,1,1,3,0,3,3,7,1,13,arne; oidipus; krull; arvumaagia; jaan; pehk; merilai; luulekogu
-3,1,1,3,0,4,3,7,1,13,arne; oidipus; krull; arvumaagia; jaan; pehk; merilai; luulekogu
-1,2,1,3,0,5,3,7,1,13,arne; oidipus; krull; arvumaagia; jaan; pehk; merilai; luulekogu
-0,1,2,3,0,7,3,7,1,13,arne; oidipus; krull; arvumaagia; hasso; jaan; pehk; merilai; luulekogu
-0,1,3,3,2,4,3,6,1,13,arne; rütm; oidipus; krull; arvumaagia; hasso; jaan; pehk; merilai; luulekogu
-1,1,4,1,3,4,3,4,1,13,arne; rütm; krull; hasso; jaan; merilai; luulekogu
-0,1,5,1,2,3,3,2,1,13,arne; krull; hasso; pehk; jaan; merilai; luulekogu
-1,2,4,1,2,6,2,1,1,13,arne; krull; hasso; pehk; jaan; merilai; luulekogu
-1,2,3,1,4,4,3,4,2,13,rütm; krull; hasso; pehk; jaan; merilai; luulekogu
-1,2,3,1,4,2,3,3,2,13,krull; hasso; pehk; jaan; merilai; luulekogu
+3,2,1,3,0,3,6,1,0,13,merilai; pehk; oidipus; jaan; luulekogu; arvumaagia; rütm; krull
+3,1,1,3,0,3,7,1,0,13,merilai; pehk; oidipus; jaan; arne; luulekogu; arvumaagia; krull
+3,1,1,3,0,3,7,1,0,13,merilai; pehk; oidipus; jaan; arne; luulekogu; arvumaagia; krull
+1,2,1,3,0,3,7,1,0,13,merilai; pehk; oidipus; jaan; arne; luulekogu; arvumaagia; krull
+0,1,2,3,0,3,7,1,0,13,merilai; hasso; pehk; oidipus; jaan; arne; luulekogu; arvumaagia; krull
+0,1,3,3,2,3,6,1,0,13,merilai; hasso; pehk; oidipus; jaan; luulekogu; arvumaagia; rütm; krull
+1,1,4,1,3,3,4,1,0,13,merilai; hasso; jaan; arne; luulekogu; rütm; krull
+0,1,5,1,2,3,2,1,0,13,merilai; hasso; pehk; jaan; arne; luulekogu; krull
+1,2,4,1,2,2,1,1,0,13,jaan; merilai; arne; luulekogu; hasso; pehk; krull
+1,2,3,1,4,3,4,2,0,13,merilai; hasso; pehk; jaan; luulekogu; rütm; krull
+1,2,3,1,4,3,3,2,0,13,merilai; hasso; pehk; jaan; luulekogu; krull

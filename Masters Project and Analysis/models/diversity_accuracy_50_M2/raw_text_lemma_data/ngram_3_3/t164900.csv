@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,3,2,3,6,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,6,3,2,3,6,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,6,3,2,3,6,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,5,3,2,3,6,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,5,3,2,3,6,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,3,3,2,4,5,7,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-3,5,4,2,2,5,6,5,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-7,4,6,4,3,7,6,4,8,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-5,3,6,6,2,6,6,6,6,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-4,2,4,4,2,5,4,7,6,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
-4,3,3,3,2,5,4,4,6,13,kontsert; muusika; unistus; helin-mari; õping; soome; esinemine; arder; armastus
+3,7,4,3,3,7,8,4,8,13,esinemine; soome; arder; õping; muusikakool; armastus; muusika; helin-mari; helilooja; unistus; kontsert
+3,8,4,3,3,7,8,4,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helin-mari; helilooja
+3,8,4,3,3,7,8,4,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helin-mari; helilooja
+3,7,4,3,3,7,8,5,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helin-mari; helilooja
+3,7,4,3,3,7,8,5,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helin-mari; helilooja
+3,5,5,4,4,6,8,5,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helilooja; helin-mari
+4,7,6,4,2,6,8,7,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; helin-mari; muusika; helilooja
+8,6,7,4,3,8,7,5,8,13,esinemine; soome; arder; õping; muusikakool; armastus; unistus; kontsert; muusika; helilooja; helin-mari
+6,5,6,6,2,7,7,6,6,13,esinemine; soome; arder; õping; muusikakool; armastus; muusika; helilooja; helin-mari; unistus; kontsert
+5,3,4,4,2,6,5,8,6,13,esinemine; soome; arder; õping; muusikakool; armastus; muusika; helilooja; helin-mari; unistus; kontsert
+4,4,3,3,2,5,5,5,6,13,esinemine; soome; arder; õping; muusikakool; armastus; muusika; helin-mari; helilooja; unistus; kontsert

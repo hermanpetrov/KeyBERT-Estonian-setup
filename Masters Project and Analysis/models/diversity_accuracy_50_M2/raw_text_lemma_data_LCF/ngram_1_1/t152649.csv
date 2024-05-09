@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,1,1,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,1,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,1,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,1,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,1,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,0,0,3,1,11,facebook; andmed; trahv; börs; karistus; aktsia
-1,1,3,1,1,0,0,3,2,11,facebook; andmed; leping; trahv; börs; karistus; aktsia
-1,1,3,1,1,0,0,3,1,11,facebook; andmed; leping; trahv; börs; karistus; aktsia
-1,1,3,1,1,0,1,2,1,11,facebook; andmed; leping; trahv; börs; karistus; aktsia
-2,1,3,2,1,0,1,2,2,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-2,2,3,1,1,0,1,2,3,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
+2,1,3,1,1,1,1,5,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,3,1,1,1,1,5,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,3,1,1,1,1,5,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,3,1,1,1,1,5,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,3,1,1,1,1,5,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,5,1,1,1,1,4,1,11,trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,4,1,1,1,0,4,2,11,leping; trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,5,1,1,1,0,4,1,11,leping; trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+2,1,5,2,1,1,1,3,1,11,leping; trahv; andmed; suhkrutrahv; karistus; börs; facebook; ettevõte; aktsia
+3,1,5,3,1,1,1,3,2,11,leping; trahv; andmed; suhkrutrahv; aktsia; karistus; facebook; börs; ettevõte; skandaal
+3,2,5,2,1,1,1,3,3,11,leping; trahv; andmed; suhkrutrahv; aktsia; karistus; börs; facebook; ettevõte; skandaal

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,8,3,8,2,5,7,5,5,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-7,7,3,8,2,5,7,5,5,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-6,7,3,8,2,4,8,5,5,14,eks; oma; saar; saaremaa; hint; autor; aadu; kanada; raamatukogu; käekiri; liibris
-6,7,4,8,3,5,6,5,5,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-5,8,5,9,4,5,8,6,5,14,eks; oma; saar; saaremaa; hint; autor; aadu; kanada; raamatukogu; käekiri; liibris
-5,8,7,10,4,5,6,8,5,14,eks; oma; saar; saaremaa; hint; autor; aadu; kanada; raamatukogu; käekiri; liibris
-4,7,6,6,5,7,6,8,4,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-8,7,7,6,5,5,6,7,4,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-6,8,8,4,5,5,7,6,6,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-7,6,6,4,5,5,7,8,8,14,aadu; kanada; eks; raamatukogu; oma; saar; käekiri; saaremaa; liibris; hint; autor
-6,8,7,4,7,5,5,8,8,14,eks; oma; saar; saaremaa; hint; autor; aadu; kanada; raamatukogu; käekiri; liibris
+7,8,3,8,2,7,5,5,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+7,7,3,8,2,7,5,5,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+6,7,3,8,2,8,5,5,0,14,autor; saaremaa; liibris; kanada; hint; aadu; raamatukogu; eks; käekiri; oma; saar
+6,7,4,8,3,6,5,5,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+5,8,5,9,4,8,6,5,0,14,autor; saaremaa; liibris; kanada; hint; aadu; raamatukogu; eks; käekiri; oma; saar
+5,8,7,10,4,6,8,5,0,14,autor; saaremaa; liibris; kanada; hint; aadu; raamatukogu; eks; käekiri; oma; saar
+4,7,6,6,5,6,8,4,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+8,7,7,6,5,6,7,4,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+6,8,8,4,5,7,6,6,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+7,6,6,4,5,7,8,8,0,14,autor; kanada; hint; aadu; saaremaa; liibris; raamatukogu; eks; käekiri; oma; saar
+6,8,7,4,7,5,8,8,0,14,autor; saaremaa; liibris; kanada; hint; aadu; raamatukogu; eks; käekiri; oma; saar

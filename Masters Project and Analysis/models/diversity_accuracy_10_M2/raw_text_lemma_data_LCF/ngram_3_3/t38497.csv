@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,6,4,1,0,2,2,3,3,15,kirjutamine; raamat; aavik; eesti; soome; keel; õppimine
-1,6,4,1,0,2,2,3,3,15,kirjutamine; raamat; aavik; eesti; soome; keel; õppimine
-1,6,4,1,0,2,2,3,3,15,kirjutamine; raamat; aavik; eesti; soome; keel; õppimine
-1,6,4,1,0,2,2,3,3,15,kirjutamine; raamat; aavik; eesti; soome; keel; õppimine
-1,6,3,1,0,2,2,4,3,15,kirjutamine; raamat; keränen; aavik; eesti; soome; keel; õppimine
-1,5,3,1,0,2,2,3,3,15,kirjutamine; raamat; keränen; aavik; eesti; soome; keel; õppimine
-0,6,2,1,0,4,3,3,3,15,kirjutamine; raamat; keränen; eesti; soome; keel; õppimine
-0,4,2,2,0,4,3,3,3,15,raamat; keränen; eesti; soome; mika; keel; kullo
-0,2,2,2,0,4,3,3,3,15,kirjutamine; raamat; keränen; eesti; soome; mika; keel
-0,3,1,0,0,4,2,4,3,15,kirjutamine; raamat; keränen; eesti; soome; mika; keel
-2,3,2,1,0,6,2,3,3,15,raamat; keränen; eesti; soome; mika; keel; õppimine; vend; kullo
+1,7,4,1,0,2,2,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; aavik; kirjutamine
+1,7,4,2,0,2,2,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; aavik; kirjutamine
+1,7,4,2,0,2,2,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; aavik; kirjutamine
+1,7,4,2,0,2,2,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; aavik; kirjutamine
+1,7,3,2,0,2,2,5,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; keränen; aavik; kirjutamine
+1,6,3,2,0,2,2,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; keränen; aavik; kirjutamine
+0,7,2,2,0,4,4,4,4,15,õppimine; soome; eesti; sõnavõistlus; võõrsõna; keel; raamat; keränen; kirjutamine
+0,4,2,2,0,4,3,3,4,15,soome; eesti; mika; võõrsõna; keel; raamat; keränen; kullo
+0,2,2,2,0,4,4,3,4,15,soome; eesti; mika; sõnavõistlus; võõrsõna; keel; raamat; keränen; kirjutamine
+1,3,1,0,0,5,2,6,4,15,soome; eesti; mika; sõnavõistlus; võõrsõna; keel; raamat; keränen; kirjutamine
+2,3,2,1,0,7,2,5,4,15,õppimine; vend; soome; eesti; mika; sõnavõistlus; võõrsõna; keel; raamat; keränen; kullo

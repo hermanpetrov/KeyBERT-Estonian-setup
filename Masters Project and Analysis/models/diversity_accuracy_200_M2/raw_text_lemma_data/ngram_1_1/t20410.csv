@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,6,1,2,3,5,3,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-2,5,5,1,2,3,5,3,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-2,5,5,1,2,3,5,3,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-2,5,5,1,2,4,6,3,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-2,5,4,0,2,4,6,3,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-1,4,3,1,2,5,4,2,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-1,2,2,2,2,3,2,2,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-2,4,2,3,2,0,2,0,1,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel
-2,2,0,4,2,1,1,1,1,12,ani; muusika; näitleja; spinning; karu; endel; vanemuine
-1,2,1,2,4,1,2,2,2,12,ani; muusika; näitleja; spinning; karu; elmar; endel; vanemuine
-0,0,1,2,4,1,2,2,2,12,ani; muusika; näitleja; spinning; karu; elmar; endel; vanemuine
+4,5,6,2,2,4,6,3,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+4,5,5,2,2,4,6,4,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+4,5,5,2,2,4,6,4,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+4,5,5,2,2,5,7,4,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+4,5,4,1,2,5,6,4,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+2,4,3,2,2,5,4,3,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+2,2,3,2,2,3,2,3,3,12,esinemine; vanemuine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,4,3,4,2,0,2,1,1,12,esinemine; spinning; ani; karu; näitleja; elmar; muusika; endel; nikerdamine; salulaht
+3,2,2,5,2,1,1,1,1,12,spinning; ani; karu; näitleja; muusika; endel; vanemuine; salulaht; nikerdamine
+1,2,1,2,4,1,2,2,2,12,ani; spinning; karu; näitleja; elmar; muusika; endel; vanemuine
+0,0,1,2,5,1,2,2,2,12,ani; spinning; karu; näitleja; elmar; muusika; endel; vanemuine; salulaht

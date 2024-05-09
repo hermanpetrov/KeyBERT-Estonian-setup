@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,2,2,2,2,14,muusika; eesti; raadio; laul; kaks
-0,0,3,2,0,3,2,2,2,14,muusika; ansambel; draiv; raadio; eesti; kaks
-0,1,3,3,0,2,1,2,2,14,tmw; muusika; kaks; bänd; eesti; maarja; raadio
-1,1,4,0,0,1,2,4,2,14,merivoo-parro; draiv; laul; maarja; eesti; raadio; bänd; kaks
-3,2,2,3,0,1,2,3,1,14,merivoo-parro; kontsert; eesti; laul; maarja; raadio; bänd; kaks
-6,0,2,1,0,1,2,4,2,14,merivoo-parro; kontsert; draiv; eesti; laul; 2015; raadio; maarja; tmw; kaks
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,3,0,2,2,2,2,14,raadio; klassikokkutulek; muusika; eesti; kaks; laul
+0,0,3,2,0,3,2,2,2,14,raadio; ansambel; muusika; eesti; kaks; draiv
+0,1,3,3,0,2,1,2,2,14,raadio; muusika; maarja; eesti; bänd; kaks; tmw
+1,1,4,0,0,1,2,4,2,14,eesti; bänd; draiv; raadio; merivoo-parro; maarja; kaks; laul
+3,2,2,3,0,1,2,3,1,14,eesti; bänd; raadio; merivoo-parro; maarja; kaks; laul; kontsert
+6,0,2,1,0,1,2,4,2,14,2015; eesti; draiv; tmw; raadio; merivoo-parro; maarja; kaks; laul; kontsert

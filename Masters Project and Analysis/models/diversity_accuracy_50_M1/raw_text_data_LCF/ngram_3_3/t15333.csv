@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,1,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; kirjandus; palmik; hiiumaa
-3,5,1,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; kirjandus; palmik; hiiumaa
-3,5,2,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; kirjandus; palmik; hiiumaa
-3,5,2,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; kirjandus; palmik; hiiumaa
-3,5,2,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; kirjandus; palmik; hiiumaa
-5,4,2,3,1,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; hiiumaa
-3,4,2,1,0,3,1,4,2,14,hiiu; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; hiiumaa
-4,4,3,4,0,0,1,3,2,14,hiiu; hiidlane; kärdla; purjetamine; hiiumaa; kirjandus; palmik; tants
-5,3,3,5,1,2,1,4,2,14,hiiu; hiidlane; tants; kärdla; purjetamine; kirjandus; palmik; ain; hiiumaa
-4,3,5,4,2,1,1,2,2,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; palmik; hiiumaa
-1,1,3,6,1,1,1,4,3,14,hiiu; hiidlane; tants; kärdla; purjetamine; meresõit; kirjandus; hiiumaa
+3,5,1,3,1,1,2,2,0,14,hiiumaa; hiiu; tants; palmik; kirjandus; hiidlane; kärdla
+3,5,1,3,1,1,2,2,0,14,hiiumaa; hiiu; tants; palmik; kirjandus; hiidlane; kärdla
+3,5,2,3,1,1,2,2,0,14,hiiumaa; hiiu; tants; palmik; kirjandus; hiidlane; kärdla
+3,5,2,3,1,1,2,2,0,14,hiiumaa; hiiu; tants; palmik; kirjandus; hiidlane; kärdla
+3,5,2,3,1,1,2,2,0,14,hiiumaa; hiiu; tants; palmik; kirjandus; hiidlane; kärdla
+5,4,2,3,1,1,2,2,0,14,hiiumaa; meresõit; kärdla; hiiu; purjetamine; palmik; kirjandus; hiidlane; tants
+3,4,2,1,0,1,4,2,0,14,hiiumaa; meresõit; tants; hiiu; purjetamine; palmik; kirjandus; kärdla
+4,4,3,4,0,1,3,2,0,14,hiiumaa; kärdla; hiiu; purjetamine; palmik; kirjandus; hiidlane; tants
+5,3,3,5,1,1,4,2,0,14,hiiumaa; hiiu; tants; ain; purjetamine; palmik; kirjandus; hiidlane; kärdla
+4,3,5,4,2,1,2,2,0,14,hiiumaa; meresõit; hiiu; tants; purjetamine; palmik; kirjandus; hiidlane; kärdla
+1,1,3,6,1,1,4,3,0,14,hiiumaa; meresõit; hiiu; tants; purjetamine; kirjandus; hiidlane; kärdla

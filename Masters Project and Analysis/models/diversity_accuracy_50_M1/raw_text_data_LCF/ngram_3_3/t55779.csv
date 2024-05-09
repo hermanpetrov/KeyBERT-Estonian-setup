@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,1,2,2,2,3,2,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-3,3,1,2,2,2,3,2,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-3,3,1,2,2,2,3,2,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-3,3,2,2,2,2,3,2,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-3,2,2,2,2,2,3,2,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-3,2,2,2,2,2,3,3,1,14,muna; nelipühad; püha; sümbol; marju; rituaalne
-1,1,3,1,2,5,5,3,1,14,muna; viljakusjumalus; püha; nelipühad; folklorist; sümbol; kõivupuu; marju; rituaalne
-2,4,4,3,1,3,4,5,1,14,muna; nelipühad; püha; viljakusjumalus; folklorist; sümbol; kõivupuu; marju
-0,3,5,5,2,4,6,2,1,14,muna; nelipühad; püha; viljakusjumalus; folklorist; kõivupuu; sümbol; marju
-0,3,5,4,2,2,5,5,1,14,muna; nelipühad; püha; viljakusjumalus; folklorist; sümbol; kõivupuu; marju; rituaalne
-0,3,3,4,1,5,2,2,2,14,muna; nelipühad; püha; folklorist; sümbol; kõivupuu; marju; rituaalne
+3,3,1,2,2,3,2,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+3,3,1,2,2,3,2,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+3,3,1,2,2,3,2,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+3,3,2,2,2,3,2,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+3,2,2,2,2,3,2,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+3,2,2,2,2,3,3,1,0,14,nelipühad; püha; sümbol; rituaalne; muna; marju
+1,1,3,1,2,5,3,1,0,14,nelipühad; püha; sümbol; muna; viljakusjumalus; marju; folklorist
+2,4,4,3,1,4,5,1,0,14,nelipühad; püha; sümbol; kõivupuu; muna; viljakusjumalus; marju; folklorist
+0,3,5,5,2,6,2,1,0,14,nelipühad; püha; sümbol; kõivupuu; muna; viljakusjumalus; marju; folklorist
+0,3,5,4,2,5,5,1,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; viljakusjumalus; marju; folklorist
+0,3,3,4,1,2,2,2,0,14,nelipühad; püha; sümbol; kõivupuu; rituaalne; muna; marju; folklorist

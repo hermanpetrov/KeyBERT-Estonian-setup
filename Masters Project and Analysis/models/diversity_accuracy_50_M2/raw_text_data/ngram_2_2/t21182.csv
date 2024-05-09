@@ -3,10 +3,10 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,1,2,0,1,1,0,13,hasso; krull; luulekogu
 0,0,1,1,2,0,1,1,0,13,hasso; krull; luulekogu
 0,0,1,1,2,0,1,1,0,13,hasso; krull; luulekogu
-0,0,1,1,2,3,1,1,0,13,hasso; jaan; krull; luulekogu
-0,0,0,2,2,2,0,1,0,13,hasso; oidipus; krull; luulekogu
-1,0,0,1,2,1,0,1,0,13,hasso; rütm; krull; merilai; luulekogu
-0,1,0,2,2,4,0,1,0,13,hasso; jaan; krull; merilai; luulekogu
+0,0,1,1,2,3,1,1,0,13,jaan; luulekogu; hasso; krull
+0,0,0,2,2,2,0,1,0,13,oidipus; luulekogu; hasso; krull
+1,0,0,1,2,1,0,1,0,13,merilai; luulekogu; hasso; rütm; krull
+0,1,0,2,2,4,0,1,0,13,jaan; merilai; luulekogu; hasso; krull
 0,0,0,0,2,2,0,1,0,13,hasso; merilai; krull
 0,0,0,0,2,2,2,1,0,13,hasso; pehk; krull; luulekogu
-0,0,0,1,2,2,2,1,0,13,hasso; pehk; krull; merilai
+0,0,0,1,2,2,2,1,0,13,merilai; hasso; pehk; krull

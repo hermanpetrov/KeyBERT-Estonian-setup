@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,3,1,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,3,1,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,3,1,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,3,1,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,3,2,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,2,2,1,0,1,1,2,2,12,ameerika; lugu; koht; esimene
-0,2,2,2,0,1,1,2,2,12,ameerika; hitt; koht; lugu; esimene; euroopa
-0,2,2,4,0,1,1,2,2,12,ameerika; koht; esimene; hitt; lugu; euroopa
-3,2,2,3,0,1,1,3,2,12,ameerika; koht; esimene; hitt; lugu; euroopa
-1,2,2,2,0,2,0,3,2,12,hitt; lugu; koht; esimene; euroopa
-2,2,3,2,0,2,1,4,2,12,ameerika; koht; esimene; räppar; hitt; lugu; euroopa
+0,3,1,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,3,1,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,3,1,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,3,1,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,3,2,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,2,2,3,0,1,1,2,2,12,esimene; jõesaar; lugu; koht; ameerika; raadiojaam
+0,3,2,3,0,1,1,2,2,12,hitt; koht; raadiojaam; ameerika; esimene; euroopa; lugu
+0,3,2,4,0,1,1,2,2,12,hitt; koht; raadiojaam; ameerika; esimene; euroopa; lugu
+3,3,2,3,0,1,1,3,2,12,hitt; koht; raadiojaam; ameerika; esimene; euroopa; lugu
+1,2,2,2,0,2,0,3,2,12,hitt; esimene; lugu; euroopa; koht
+2,2,3,2,0,2,1,4,2,12,hitt; koht; ameerika; räppar; esimene; euroopa; lugu

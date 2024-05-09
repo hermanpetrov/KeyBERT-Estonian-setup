@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,1,0,0,0,0,11,alfa; alam-pedja
-1,1,0,0,1,0,0,0,0,11,alfa; alam-pedja
-1,1,0,0,1,0,0,0,0,11,alfa; alam-pedja
-1,1,0,0,1,0,0,0,0,11,alfa; alam-pedja
-1,1,0,0,1,1,0,0,0,11,jahimees; alfa; alam-pedja
-1,0,1,0,1,0,0,0,0,11,alfa; alam-pedja
-1,0,1,1,1,0,0,0,0,11,jahimees; alfa; alam-pedja
-1,0,1,0,1,0,1,0,0,11,hunt; alfa; alam-pedja
-0,0,1,0,1,0,1,0,0,11,hunt; alfa; alam-pedja
-0,0,0,0,1,0,1,0,0,11,alfa; hunt
-0,0,0,0,1,0,0,1,0,11,alfa; kiskja
+1,1,0,0,1,0,0,0,0,11,alam-pedja; alfa
+1,1,0,0,1,0,0,0,0,11,alam-pedja; alfa
+1,1,0,0,1,0,0,0,0,11,alam-pedja; alfa
+1,1,0,0,1,0,0,0,0,11,alam-pedja; alfa
+1,1,0,0,1,1,0,0,0,11,jahimees; alam-pedja; alfa
+1,0,1,0,1,0,0,0,0,11,alam-pedja; alfa
+1,0,1,1,1,0,0,0,0,11,jahimees; alam-pedja; alfa
+1,0,1,0,1,0,1,0,0,11,alam-pedja; hunt; alfa
+0,0,1,0,1,0,1,0,0,11,alam-pedja; hunt; alfa
+0,0,0,0,1,0,1,0,0,11,hunt; alfa
+0,0,0,0,1,0,0,1,0,11,kiskja; alfa

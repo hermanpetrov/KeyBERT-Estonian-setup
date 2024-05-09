@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,2,2,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,1,1,0,2,2,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,2,1,0,2,2,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,2,1,0,2,2,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,1,1,0,2,2,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,2,1,0,1,1,1,1,13,jansen; põllumeeste; eesti; üldlaulupidu; kirjutama
-1,0,1,1,0,0,0,1,1,13,eesti; jansen; üldlaulupidu; kirjutama
-2,0,1,1,0,0,0,1,1,13,eesti; jansen; üldlaulupidu; koorilaul
+1,0,1,1,0,2,2,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,1,1,0,2,2,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,2,1,0,2,2,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,2,1,0,2,2,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,1,1,0,2,2,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,2,1,0,1,1,1,1,13,üldlaulupidu; eesti; kirjutama; põllumeeste; jansen
+1,0,1,1,0,0,0,1,1,13,üldlaulupidu; jansen; eesti; kirjutama
+2,0,1,1,0,0,0,1,1,13,üldlaulupidu; jansen; eesti; koorilaul
 0,0,1,0,0,1,0,1,1,13,üldlaulupidu; jansen; eesti
-0,0,2,0,0,0,0,1,1,13,eesti; jansen; üldlaulupidu; põllumeeste
-1,0,1,1,0,0,0,0,1,13,eesti; jansen; üldlaulupidu
+0,0,2,0,0,0,0,1,1,13,üldlaulupidu; põllumeeste; jansen; eesti
+1,0,1,1,0,0,0,0,1,13,üldlaulupidu; jansen; eesti

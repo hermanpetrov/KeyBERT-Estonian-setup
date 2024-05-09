@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,1,1,1,2,1,1,0,11,alfa; jahimees; alam-pedja; hunt; territoorium; kari
-2,4,1,1,1,2,1,2,0,11,alfa; alam-pedja; jahimees; territoorium; kari
-2,4,1,1,1,2,1,2,0,11,alfa; alam-pedja; jahimees; territoorium; kari
-1,5,1,0,2,2,3,1,0,11,jahimees; territoorium; alfa; alam-pedja; hunt; kari
-1,3,1,0,2,1,2,1,0,11,alfa; hunt; territoorium; alam-pedja
-1,1,1,0,2,1,2,1,0,11,alfa; alam-pedja; hunt; territoorium
-1,1,1,2,2,1,1,1,1,11,hunt; alfa; alam-pedja; jahimees; territoorium
-1,0,2,0,2,1,1,3,3,11,alfa; kiskja; kutsikas; hunt; territoorium; alam-pedja
-1,0,1,0,2,1,1,3,4,11,alfa; kiskja; hunt; territoorium; alam-pedja
-0,0,1,1,4,1,1,4,3,11,kiskja; murdma; ulg; territoorium; alfa; alam-pedja; hunt; kari
-0,1,3,3,4,0,1,3,3,11,kiskja; kutsikas; murdma; ulg; jahimees; territoorium; alfa; alam-pedja; hunt
+2,5,1,1,1,1,1,0,0,11,jahimees; kari; alam-pedja; territoorium; hunt; alfa
+2,4,1,1,1,1,2,0,0,11,jahimees; kari; alam-pedja; territoorium; alfa
+2,4,1,1,1,1,2,0,0,11,jahimees; kari; alam-pedja; territoorium; alfa
+1,5,1,0,2,3,1,0,0,11,jahimees; kari; alam-pedja; territoorium; hunt; alfa
+1,3,1,0,2,2,1,0,0,11,alam-pedja; territoorium; hunt; alfa
+1,1,1,0,2,2,1,0,0,11,alam-pedja; territoorium; hunt; alfa
+1,1,1,2,2,1,1,1,0,11,jahimees; alam-pedja; territoorium; hunt; alfa
+1,0,2,0,2,1,3,3,0,11,kiskja; kutsikas; alam-pedja; territoorium; hunt; alfa
+1,0,1,0,2,1,3,4,0,11,kiskja; alam-pedja; territoorium; hunt; alfa
+0,0,1,1,4,1,4,3,0,11,ulg; hunt; kari; murdma; kiskja; alam-pedja; territoorium; alfa
+0,1,3,3,4,1,3,3,0,11,jahimees; kutsikas; ulg; hunt; kiskja; murdma; alam-pedja; territoorium; alfa

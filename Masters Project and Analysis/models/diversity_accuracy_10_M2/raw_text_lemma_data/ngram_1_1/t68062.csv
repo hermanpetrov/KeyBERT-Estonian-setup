@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,0,11,põgenema
-0,0,1,0,0,0,1,0,0,11,põgenema
-0,0,1,0,0,0,1,0,0,11,põgenema
-0,0,1,0,0,0,1,0,0,11,põgenema
-0,0,1,0,0,0,1,0,0,11,põgenema
-0,0,1,0,0,1,1,0,0,11,põgenema; hanso
-0,0,1,0,0,1,1,1,0,11,põgenema; hanso
-0,0,0,0,0,1,1,1,0,11,põgenema; hanso
-0,0,1,0,0,1,3,1,0,11,põgenema; hanso; vangla; elmar
-0,0,1,0,0,1,1,0,0,11,põgenema; hanso
-0,0,1,0,0,1,0,0,0,11,hanso
+0,0,2,0,0,0,2,1,1,11,metsavend; põgenema
+0,0,2,0,0,0,2,1,1,11,metsavend; põgenema
+0,0,2,0,0,0,2,1,1,11,metsavend; põgenema
+0,0,2,0,0,0,2,1,1,11,metsavend; põgenema
+0,0,2,0,0,0,2,1,1,11,metsavend; põgenema
+0,0,2,0,0,1,2,1,1,11,põgenema; hanso; metsavend
+0,0,2,0,0,1,2,2,1,11,põgenema; hanso; metsavend
+0,0,1,0,0,1,3,1,1,11,põgenema; julgeolek; hanso; metsavend
+0,0,2,0,0,1,3,1,1,11,vangla; põgenema; hanso; metsavend; elmar
+0,0,2,0,0,1,1,0,1,11,hanso; metsavend; põgenema
+0,0,2,0,0,1,0,0,1,11,hanso; metsavend

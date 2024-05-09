@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,2,4,4,5,4,3,5,13,tants; eesti; följeton; reimann; fuu; prelüüd
-6,3,2,4,4,4,4,3,5,13,tants; eesti; följeton; reimann; fuu; prelüüd
-6,3,2,4,4,6,4,3,5,13,tants; eesti; följeton; reimann; fuu; prelüüd
-6,3,4,4,5,6,4,3,5,13,tants; eesti; följeton; reimann; fuu; prelüüd
-6,4,4,4,5,6,4,3,5,13,tants; eesti; följeton; reimann; fuu; prelüüd
-5,4,4,4,5,5,4,4,5,13,fuu; tants; eesti; följeton; reimann; prelüüd
-4,5,5,5,6,5,4,4,5,13,fuu; eesti; följeton; reimann; prelüüd; tants
-3,4,5,6,6,3,4,5,5,13,fuu; följeton; tants; eesti; reimann; prelüüd
-3,5,6,6,6,5,4,5,6,13,fuu; eesti; följeton; reimann; prelüüd; tants
-3,4,5,5,6,4,4,5,6,13,fuu; följeton; eesti; reimann; prelüüd; tants
-3,5,6,5,6,4,4,5,6,13,eesti; följeton; reimann; fuu; prelüüd; tants
+8,5,4,6,4,7,6,5,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+8,5,4,6,4,6,6,5,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+8,5,4,6,4,8,6,5,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+8,5,6,6,5,8,6,5,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+8,6,6,6,5,8,6,5,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+7,6,6,6,5,7,6,6,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+5,7,7,7,6,7,6,6,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+5,6,7,7,6,4,5,7,6,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+4,7,8,7,6,6,5,7,7,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+3,6,7,6,7,4,5,7,8,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants
+3,7,8,5,7,4,4,7,7,13,fuu; eesti; sümfooniaorkester; klaverikontsert; reimann; prelüüd; följeton; tants

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,5,0,0,3,3,4,3,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,5,0,0,3,3,4,3,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,5,0,0,3,3,4,2,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,5,0,0,3,3,4,2,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,5,0,0,3,3,4,2,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,1,0,0,1,2,2,3,10,ameerika; tähendus; sport; meedia; elukutse; jalgpall; euroopa
-2,4,2,0,0,1,2,2,3,10,äri; ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,4,1,1,0,0,2,2,3,10,ameerika; tähendus; sport; meedia; võitlus; elukutse; jalgpall; euroopa
-2,3,2,2,0,1,1,2,2,10,ameerika; tähendus; sport; meedia; elukutse; jalgpall; euroopa
-2,3,2,2,1,0,0,2,3,10,ameerika; sport; meedia; elukutse; jalgpall; euroopa
-2,3,2,1,1,0,0,2,2,10,ameerika; sport; jalgpall; meedia; euroopa
+2,4,5,0,0,3,4,3,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,5,0,0,3,4,3,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,5,0,0,3,4,2,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,5,0,0,3,4,2,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,5,0,0,3,4,2,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,1,0,0,2,2,3,0,10,tähendus; elukutse; jalgpall; euroopa; ameerika; sport; meedia
+2,4,2,0,0,2,2,3,0,10,tähendus; elukutse; jalgpall; euroopa; äri; ameerika; sport; võitlus; meedia
+2,4,1,1,0,2,2,3,0,10,tähendus; elukutse; jalgpall; euroopa; ameerika; sport; võitlus; meedia
+2,3,2,2,0,1,2,2,0,10,tähendus; elukutse; jalgpall; euroopa; ameerika; sport; meedia
+2,3,2,2,1,0,2,3,0,10,elukutse; jalgpall; euroopa; ameerika; sport; meedia
+2,3,2,1,1,0,2,2,0,10,sport; jalgpall; euroopa; ameerika; meedia

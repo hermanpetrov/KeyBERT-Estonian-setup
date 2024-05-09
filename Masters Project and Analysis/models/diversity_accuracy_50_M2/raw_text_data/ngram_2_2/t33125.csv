@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,0,0,0,1,2,2,0,18,erakond; rüütel; sotsiaaldemokraatlik; arnold; tarmo; voldemar; rahvaliit; strandberg
-4,1,0,0,0,1,2,2,0,18,erakond; rüütel; sotsiaaldemokraatlik; arnold; tarmo; voldemar; rahvaliit; strandberg
-4,1,0,0,0,1,2,2,0,18,erakond; rüütel; sotsiaaldemokraatlik; arnold; tarmo; voldemar; rahvaliit; strandberg
-4,2,1,0,0,1,2,2,0,18,erakond; arnold; tarmo; valimised; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg
-4,1,0,0,0,1,2,2,0,18,erakond; rüütel; sotsiaaldemokraatlik; arnold; tarmo; voldemar; rahvaliit; strandberg
-4,1,2,0,0,3,3,1,0,18,erakond; arnold; tarmo; valimised; rüütel; sotsiaaldemokraatlik; voldemar; rahvaliit; strandberg
-1,1,1,2,0,2,3,2,0,18,erakond; arnold; tarmo; voldemar; rahvaliit; strandberg
-3,1,1,1,0,1,3,1,0,18,kuslap; kohus; erakond; arnold; tarmo; valimised; voldemar; strandberg; rohelised
-2,0,1,0,0,1,4,1,1,18,kuslap; kohus; erakond; arnold; tarmo; valimised; voldemar; strandberg
-2,1,1,1,0,1,2,0,1,18,erakond; kuslap; arnold; tarmo; valimised; voldemar; rahvaliit; strandberg
+4,1,0,0,0,1,2,2,0,18,arnold; sotsiaaldemokraatlik; strandberg; voldemar; tarmo; erakond; rahvaliit; rüütel
+4,1,0,0,0,1,2,2,0,18,arnold; sotsiaaldemokraatlik; strandberg; voldemar; tarmo; erakond; rahvaliit; rüütel
+4,1,0,0,0,1,2,2,0,18,arnold; sotsiaaldemokraatlik; strandberg; voldemar; tarmo; erakond; rahvaliit; rüütel
+4,2,1,0,0,1,2,2,0,18,arnold; sotsiaaldemokraatlik; strandberg; erakond; rüütel; voldemar; tarmo; rahvaliit; valimised
+4,1,0,0,0,1,2,2,0,18,arnold; sotsiaaldemokraatlik; strandberg; voldemar; tarmo; erakond; rahvaliit; rüütel
+4,1,2,0,0,3,3,1,0,18,arnold; sotsiaaldemokraatlik; strandberg; erakond; rüütel; voldemar; tarmo; rahvaliit; valimised
+1,1,1,2,0,2,3,2,0,18,arnold; strandberg; voldemar; tarmo; erakond; rahvaliit
+3,1,1,1,0,1,3,1,0,18,kuslap; arnold; strandberg; erakond; rohelised; voldemar; tarmo; kohus; valimised
+2,0,1,0,0,1,4,1,1,18,kuslap; arnold; strandberg; erakond; voldemar; tarmo; kohus; valimised
+2,1,1,1,0,1,2,0,1,18,kuslap; arnold; strandberg; erakond; tarmo; voldemar; rahvaliit; valimised
 0,0,1,1,1,0,2,0,0,18,kuslap; arnold; strandberg; valimised

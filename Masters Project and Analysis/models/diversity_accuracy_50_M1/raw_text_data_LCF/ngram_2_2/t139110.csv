@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,2,0,0,0,3,0,11,reena; kaitseliit; muhu
-1,2,1,2,0,0,0,3,0,11,reena; kaitseliit; muhu
-1,2,1,2,0,0,0,3,0,11,reena; kaitseliit; muhu
-1,2,1,2,0,0,0,3,0,11,reena; kaitseliit; muhu
-1,2,1,2,0,0,0,3,1,11,reena; kaitseliit; muhu
-1,2,1,2,0,0,0,3,1,11,reena; kaitseliit; muhu
-1,2,2,2,0,0,0,3,1,11,reena; kaitseliit; muhu
-1,2,2,1,0,0,0,3,1,11,reena; kaitseliit; muhu
-1,2,2,1,0,0,0,3,1,11,reena; kaitseliit; muhu
-2,2,2,1,0,0,0,3,1,11,reena; tehnika; kaitseliit; muhu
-1,0,2,1,0,0,0,3,2,11,reena; kaitseliit; muhu
+1,2,1,2,0,0,3,0,0,11,reena; muhu; kaitseliit
+1,2,1,2,0,0,3,0,0,11,reena; muhu; kaitseliit
+1,2,1,2,0,0,3,0,0,11,reena; muhu; kaitseliit
+1,2,1,2,0,0,3,0,0,11,reena; muhu; kaitseliit
+1,2,1,2,0,0,3,1,0,11,reena; muhu; kaitseliit
+1,2,1,2,0,0,3,1,0,11,reena; muhu; kaitseliit
+1,2,2,2,0,0,3,1,0,11,reena; muhu; kaitseliit
+1,2,2,1,0,0,3,1,0,11,reena; muhu; kaitseliit
+1,2,2,1,0,0,3,1,0,11,reena; muhu; kaitseliit
+2,2,2,1,0,0,3,1,0,11,reena; tehnika; muhu; kaitseliit
+1,0,2,1,0,0,3,2,0,11,reena; muhu; kaitseliit

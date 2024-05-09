@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,0,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-3,0,0,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-3,0,0,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-3,0,0,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-4,0,1,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-4,0,1,1,0,2,2,2,0,13,tuhkatriinu; nõukogude; film; varvara; stalin; prototüüp
-1,0,1,0,0,3,2,1,0,13,film; nõukogude; varvara; stalin
-1,0,2,1,0,2,1,1,0,13,film; masnikova; nõukogude; stalin; prototüüp
-1,0,0,0,0,1,1,1,0,13,stalin; film; masnikova; nõukogude
+3,0,0,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+3,0,0,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+3,0,0,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+3,0,0,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+4,0,1,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+4,0,1,1,0,2,2,2,0,13,film; varvara; nõukogude; stalin; prototüüp; tuhkatriinu
+1,0,1,0,0,3,2,1,0,13,film; varvara; nõukogude; stalin
+1,0,2,1,0,2,1,1,0,13,film; nõukogude; masnikova; prototüüp; stalin
+1,0,0,0,0,1,1,1,0,13,film; nõukogude; masnikova; stalin
 0,0,0,0,0,2,1,0,0,13,stalin; nõukogude; masnikova
-0,0,2,0,0,3,1,0,0,13,film; nõukogude; masnikova; chapaev; stalin
+0,0,2,0,0,3,1,0,0,13,film; nõukogude; masnikova; stalin; chapaev

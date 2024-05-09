@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,3,0,0,0,0,1,0,0,15,rinne; artur; edgar; saul; peeter
-2,2,0,3,0,1,0,0,0,15,artur; edgar; selberg; varietee; peeter
-2,1,1,1,0,0,0,1,0,15,artur; edgar; selberg; saul; peeter
-2,0,1,1,0,2,0,1,0,15,klaas; artur; edgar; selberg; saul; joala
-3,0,0,2,1,2,1,0,0,15,edgar; selberg; saul; varietee; peeter
-1,0,1,2,1,0,1,1,0,15,edgar; jaak; selberg; viktoriin; varietee; peeter
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,4,1,0,0,0,1,0,0,15,artur; edgar; peeter; rinne; pillimees; saul; estraadiorkester
+2,3,1,4,0,1,0,0,0,15,artur; edgar; peeter; varietee; selberg; estraadiorkester; pillimees
+2,2,2,1,0,0,0,1,0,15,artur; edgar; peeter; pillimees; selberg; saul; estraadiorkester
+2,0,2,2,0,2,0,1,0,15,artur; edgar; klaas; joala; pillimees; selberg; saul; estraadiorkester
+3,0,1,3,1,2,2,0,0,15,edgar; peeter; varietee; pillimees; selberg; saul; estraadiorkester
+1,0,2,2,1,0,2,1,0,15,edgar; viktoriin; peeter; jaak; varietee; selberg; estraadiorkester; pillimees

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,2,1,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-4,2,2,1,0,2,1,1,0,10,ameerika; sport; võit; võistlus; sõda
-3,1,2,0,0,2,1,1,0,10,ameerika; sport; võistlus
-1,1,2,2,0,2,1,1,0,10,ameerika; võistlus; sport
-1,2,2,3,0,2,2,2,0,10,ameerika; sport; gladiaator; võistlus; sõda
-1,2,2,1,0,1,2,4,0,10,sport; gladiaator; võit; võistlus; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+3,3,1,2,0,2,1,1,0,10,võit; jalgpall; võistlus; sport; ameerika; sõda
+4,3,3,2,0,2,1,1,0,10,jalgpall; ameerika; sõda; võistlus; võit; sport
+3,2,3,1,0,2,1,1,0,10,jalgpall; sport; ameerika; võistlus
+1,2,3,3,0,2,1,1,0,10,jalgpall; sport; ameerika; võistlus
+1,3,3,4,0,2,3,2,0,10,jalgpall; gladiaator; ameerika; võistlus; sõda; sport
+1,3,3,1,0,1,3,5,0,10,jalgpall; gladiaator; võistlus; sõda; võit; sport

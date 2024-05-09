@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,3,0,0,1,2,14,mets; reimo; võim; õigus; geiaktivine; ühiskond; jurist
-1,2,2,1,3,0,0,0,2,14,mets; vaino; võim; õigus; geiaktivine; ühiskond; jurist
-1,2,3,1,3,2,0,0,2,14,mets; reimo; vaino; võim; õigus; geiaktivine; ühiskond; jurist; urmas
-1,2,3,1,3,3,0,2,2,14,mets; reimo; vaino; võim; õigus; geiaktivine; ühiskond; jurist; urmas
-1,2,2,1,3,2,1,3,2,14,mets; vaino; võim; õigus; geiaktivine; ühiskond; jurist; urmas
-2,2,2,1,3,2,1,3,3,14,mets; vaino; võim; õigus; geiaktivine; ühiskond; lahusus; jurist; urmas
-1,1,4,2,3,3,2,5,3,14,mets; kirik; reimo; vaino; võim; õigus; geiaktivine; ühiskond; lahusus; jurist; urmas
-0,0,3,3,2,1,3,5,2,14,mets; kirik; reimo; vaino; võim; õigus; geiaktivine; jurist; urmas
-0,1,2,3,1,3,2,3,2,14,mets; kirik; jurist; vaino; urmas; võim; õigus
-1,1,2,3,3,2,2,3,2,14,kirik; mets; jurist; vaino; urmas; võim; õigus
-1,3,2,3,1,3,3,3,2,14,kirik; mets; reimo; vaino; võim; õigus; geiaktivine; lahusus; jurist; urmas
+1,2,2,1,3,0,0,1,2,14,perekonnaprobleem; reimo; jurist; õigus; ühiskond; mets; võim; geiaktivine
+1,2,3,1,3,0,0,0,2,14,perekonnaprobleem; jurist; õigus; ühiskond; vaino; mets; võim; geiaktivine
+1,2,4,1,3,2,0,1,3,14,urmas; perekonnaprobleem; reimo; jurist; õigus; ühiskond; abielu; vaino; mets; võim; geiaktivine
+1,2,4,1,3,3,0,3,3,14,mets; urmas; reimo; õigus; jurist; ühiskond; abielu; vaino; perekonnaprobleem; võim; geiaktivine
+1,2,3,1,3,2,1,4,3,14,urmas; perekonnaprobleem; õigus; jurist; ühiskond; abielu; vaino; mets; võim; geiaktivine
+2,2,3,2,3,2,1,4,4,14,mets; urmas; lahusus; õigus; jurist; ühiskond; abielu; vaino; perekonnaprobleem; võim; geiaktivine
+1,1,4,3,3,3,3,5,4,14,kirik; urmas; lahusus; perekonnaprobleem; reimo; jurist; õigus; ühiskond; abielu; vaino; mets; võim; geiaktivine
+0,0,4,4,2,1,4,6,3,14,mets; kirik; urmas; reimo; jurist; õigus; abielu; vaino; perekonnaprobleem; võim; geiaktivine
+0,1,2,3,1,3,3,3,3,14,kirik; urmas; perekonnaprobleem; jurist; õigus; abielu; vaino; mets; võim
+1,1,2,3,3,2,3,3,4,14,kirik; urmas; perekonnaprobleem; jurist; õigus; abielu; vaino; mets; võim
+1,3,2,3,1,3,4,3,4,14,kirik; urmas; lahusus; perekonnaprobleem; reimo; jurist; õigus; abielu; vaino; mets; võim; geiaktivine

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,5,6,5,1,8,8,5,4,16,berlusconi; inflatsioon; venemaa; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-8,5,8,5,1,8,8,6,4,16,berlusconi; inflatsioon; venemaa; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-8,5,8,5,2,8,7,7,4,16,berlusconi; itaalia; inflatsioon; venemaa; josing; eesti; vare; silvio; kai; suurbritannia; marje
-8,5,8,5,5,9,8,7,4,16,berlusconi; inflatsioon; venemaa; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-8,6,8,7,6,7,7,5,5,16,berlusconi; itaalia; inflatsioon; venemaa; josing; eesti; vare; silvio; kai; suurbritannia; marje
-8,7,9,8,8,7,4,5,5,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-7,7,9,11,8,8,7,9,6,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-7,6,9,10,10,9,5,9,8,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; josing; eesti; silvio; suurbritannia
-4,4,10,9,9,6,5,8,8,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; eesti; josing; silvio; suurbritannia
-5,5,9,7,10,7,6,9,8,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; eesti; josing; silvio; suurbritannia
-3,6,10,10,10,9,5,9,7,16,berlusconi; venemaa; inflatsioon; kai; marje; itaalia; vare; eesti; josing; silvio; suurbritannia
+7,5,6,5,1,8,8,5,4,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+8,5,8,5,1,8,8,6,4,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+8,5,8,5,2,8,7,7,4,16,vare; eesti; venemaa; silvio; suurbritannia; berlusconi; marje; itaalia; kai; inflatsioon; josing
+8,5,8,5,5,9,8,7,4,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+8,6,8,7,6,7,7,5,5,16,vare; eesti; venemaa; silvio; suurbritannia; berlusconi; marje; itaalia; kai; inflatsioon; josing
+8,7,9,8,8,7,4,5,5,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+7,7,9,11,8,8,7,9,6,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+7,6,9,10,10,9,5,9,8,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+4,4,10,9,9,6,5,8,8,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+5,5,9,7,10,7,6,9,8,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon
+3,6,10,10,10,9,5,9,7,16,suurbritannia; marje; itaalia; josing; vare; eesti; venemaa; silvio; berlusconi; kai; inflatsioon

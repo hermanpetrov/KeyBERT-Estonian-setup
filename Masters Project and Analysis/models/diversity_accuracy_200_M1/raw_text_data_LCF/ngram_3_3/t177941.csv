@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,2,7,1,6,3,4,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-5,6,2,7,1,6,4,4,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-6,8,4,7,2,8,4,4,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-8,7,5,7,2,7,5,5,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-9,6,7,7,2,6,6,5,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-6,7,7,7,2,8,4,6,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-4,3,7,2,2,6,7,5,2,11,ugala; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-4,6,6,3,4,5,7,6,2,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-5,6,5,3,4,5,5,6,2,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-3,7,8,3,5,5,3,5,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-3,8,8,3,6,5,4,6,3,11,ugala; teater; kriitika; näitleja; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
+5,6,2,7,1,3,4,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater
+5,6,2,7,1,4,4,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater
+6,8,4,7,2,4,4,3,0,11,mikomägi; panso; rapla; kriitika; ugala; intervjuu; näitleja; teatrikool; voldemar; teater
+8,7,5,7,2,5,5,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater
+9,6,7,7,2,6,5,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater
+6,7,7,7,2,4,6,3,0,11,mikomägi; panso; rapla; kriitika; ugala; intervjuu; teatrikool; näitleja; voldemar; teater
+4,3,7,2,2,7,5,2,0,11,mikomägi; kriitika; rapla; ugala; panso; intervjuu; teatrikool; näitleja; voldemar
+4,6,6,3,4,7,6,2,0,11,mikomägi; kriitika; rapla; ugala; panso; intervjuu; näitleja; teatrikool; voldemar; teater
+5,6,5,3,4,5,6,2,0,11,mikomägi; kriitika; panso; ugala; rapla; intervjuu; näitleja; teatrikool; voldemar; teater
+3,7,8,3,5,3,5,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater
+3,8,8,3,6,4,6,3,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; näitleja; teatrikool; voldemar; teater

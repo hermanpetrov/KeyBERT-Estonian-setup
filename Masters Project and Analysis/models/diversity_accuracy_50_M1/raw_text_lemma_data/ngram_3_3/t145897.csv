@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,4,4,2,5,2,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-5,6,4,4,2,5,2,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-5,6,4,4,2,5,2,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-5,6,4,4,2,5,2,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-5,7,5,4,2,5,2,6,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-5,7,7,4,2,5,1,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-3,6,6,4,2,6,1,7,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-3,5,4,5,2,2,1,5,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-6,5,6,6,3,5,0,6,4,12,andres; estonia; teater; köster; näitleja; kostüüm; jõgis; teenima; viiul
-4,3,7,6,3,3,1,6,4,12,andres; estonia; leib; teater; köster; kostüüm; näitleja; jõgis; teenima; viiul
-4,3,4,6,3,4,1,5,4,12,andres; estonia; leib; teater; köster; näitleja; kostüüm; jõgis; viiul
+6,6,4,6,3,6,2,7,4,12,köster; laulukoor; näitleja; jõgis; loorberipärg; andres; kostüüm; teater; viiul; teenima; leib; estonia
+6,6,4,6,3,6,2,7,4,12,köster; laulukoor; näitleja; jõgis; loorberipärg; andres; kostüüm; teater; viiul; teenima; leib; estonia
+6,6,4,6,3,6,2,7,4,12,köster; laulukoor; näitleja; jõgis; loorberipärg; andres; kostüüm; teater; viiul; teenima; leib; estonia
+6,6,4,6,3,6,2,7,4,12,köster; laulukoor; näitleja; jõgis; loorberipärg; andres; kostüüm; teater; viiul; teenima; leib; estonia
+6,7,5,6,3,6,2,6,4,12,köster; laulukoor; näitleja; viiul; teenima; jõgis; loorberipärg; andres; leib; kostüüm; teater; estonia
+6,7,8,6,3,5,1,7,4,12,köster; laulukoor; näitleja; jõgis; loorberipärg; andres; kostüüm; teater; viiul; teenima; leib; estonia
+5,6,7,6,3,6,1,7,4,12,köster; laulukoor; näitleja; jõgis; andres; loorberipärg; kostüüm; teater; viiul; teenima; leib; estonia
+5,5,4,6,2,2,1,5,4,12,andres; köster; laulukoor; näitleja; viiul; teenima; jõgis; loorberipärg; leib; kostüüm; teater; estonia
+6,5,7,8,3,5,0,6,4,12,köster; viiul; näitleja; laulukoor; loorberipärg; jõgis; teenima; andres; kostüüm; teater; estonia
+4,3,8,7,3,4,1,7,4,12,köster; viiul; näitleja; laulukoor; teenima; jõgis; andres; leib; kostüüm; teater; estonia
+4,3,5,7,3,5,1,6,4,12,köster; laulukoor; näitleja; viiul; jõgis; andres; leib; kostüüm; teater; estonia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,0,1,0,2,2,3,0,14,keiu; võõras; urmas; virro; lavastaja
-3,1,0,1,0,2,2,3,0,14,keiu; võõras; urmas; virro; lavastaja
-3,1,0,1,0,2,2,3,1,14,keiu; võõras; urmas; virro; isiklik; lavastaja
-3,1,0,1,0,2,2,3,0,14,keiu; võõras; urmas; virro; lavastaja
-3,1,0,1,0,2,2,3,1,14,keiu; võõras; urmas; virro; isiklik; lavastaja
-3,1,1,1,0,2,2,3,1,14,keiu; võõras; urmas; virro; isiklik; lavastaja
-3,1,0,1,0,2,2,3,1,14,keiu; võõras; urmas; virro; isiklik; lavastaja
-0,1,0,0,0,2,2,4,1,14,keiu; urmas; virro; isiklik; lavastaja
-1,0,0,3,0,3,1,3,1,14,keiu; võõras; lavastaja; peeter; urmas; virro; isiklik
-2,0,1,1,0,1,1,3,1,14,virro; kloun; keiu; urmas; lavastaja; isiklik
-1,0,1,1,0,1,0,2,1,14,keiu; urmas; lavastaja; isiklik; peeter
+3,1,0,1,0,2,2,3,0,14,võõras; lavastaja; urmas; keiu; virro
+3,1,0,1,0,2,2,3,0,14,võõras; lavastaja; urmas; keiu; virro
+3,1,0,1,0,2,2,3,1,14,võõras; lavastaja; urmas; keiu; isiklik; virro
+3,1,0,1,0,2,2,3,0,14,võõras; lavastaja; urmas; keiu; virro
+3,1,0,1,0,2,2,3,1,14,võõras; lavastaja; urmas; keiu; isiklik; virro
+3,1,1,1,0,2,2,3,1,14,võõras; lavastaja; urmas; keiu; isiklik; virro
+3,1,0,1,0,2,2,3,1,14,võõras; lavastaja; urmas; keiu; isiklik; virro
+0,1,0,0,0,2,2,4,1,14,lavastaja; urmas; keiu; isiklik; virro
+1,0,0,3,0,3,1,3,1,14,peeter; urmas; keiu; isiklik; virro; võõras; lavastaja
+2,0,1,1,0,1,1,3,1,14,lavastaja; urmas; keiu; isiklik; virro; kloun
+1,0,1,1,0,1,0,2,1,14,lavastaja; peeter; urmas; keiu; isiklik

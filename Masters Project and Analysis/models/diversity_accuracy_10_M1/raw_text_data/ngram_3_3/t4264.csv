@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,1,0,0,0,3,2,15,tallinna; janukovitš; tootmisliin; iisrael; alatskivi; viktor; resolutsioon
-0,0,2,1,0,0,0,3,2,15,tallinna; janukovitš; tootmisliin; iisrael; alatskivi; viktor; resolutsioon
-0,0,2,1,0,0,0,3,2,15,tallinna; janukovitš; tootmisliin; iisrael; alatskivi; viktor; resolutsioon
-0,0,2,1,0,0,0,3,2,15,tallinna; janukovitš; tootmisliin; iisrael; alatskivi; viktor; resolutsioon
-0,0,2,1,0,0,0,3,2,15,tallinna; janukovitš; tootmisliin; iisrael; alatskivi; viktor; resolutsioon
-1,0,2,1,0,0,0,2,2,15,tootmisliin; janukovitš; iisrael; alatskivi; viktor; resolutsioon
-1,1,2,2,0,2,0,3,2,15,tallinna; tootmisliin; vare; resolutsioon; iisrael; janukovitš; kai; alatskivi; viktor
-1,0,2,3,0,2,1,3,2,15,tallinna; tootmisliin; vare; iisrael; janukovitš; kai; alatskivi; viktor
-1,2,2,1,1,0,1,3,2,15,tallinna; janukovitš; iisrael; viktor; kai; alatskivi; tootmisliin
-1,0,2,1,0,1,0,2,2,15,tallinna; janukovitš; iisrael; tootmisliin; alatskivi; viktor
-0,0,2,2,0,1,0,1,2,15,iisrael; janukovitš; tootmisliin; alatskivi; viktor
+0,0,2,1,0,0,0,3,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor; tallinna
+0,0,2,1,0,0,0,3,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor; tallinna
+0,0,2,1,0,0,0,3,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor; tallinna
+0,0,2,1,0,0,0,3,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor; tallinna
+0,0,2,1,0,0,0,3,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor; tallinna
+1,0,2,1,0,0,0,2,2,15,tootmisliin; iisrael; alatskivi; resolutsioon; janukovitš; viktor
+1,1,2,2,0,2,0,3,2,15,vare; tootmisliin; iisrael; viktor; janukovitš; alatskivi; resolutsioon; kai; tallinna
+1,0,2,3,0,2,1,3,2,15,vare; tootmisliin; iisrael; viktor; janukovitš; alatskivi; kai; tallinna
+1,2,2,1,1,0,1,3,2,15,tootmisliin; iisrael; alatskivi; kai; janukovitš; viktor; tallinna
+1,0,2,1,0,1,0,2,2,15,tootmisliin; iisrael; alatskivi; janukovitš; viktor; tallinna
+0,0,2,2,0,1,0,1,2,15,tootmisliin; iisrael; alatskivi; janukovitš; viktor

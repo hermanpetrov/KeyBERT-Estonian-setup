@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,1,3,1,2,4,2,1,11,rahutu; kirjanik; vaenlane; kriitika; tähtsus; abitu; kaas
-4,2,1,3,1,2,4,2,1,11,rahutu; kirjanik; vaenlane; kriitika; tähtsus; abitu; kaas
-4,2,1,3,1,2,4,2,1,11,rahutu; kirjanik; vaenlane; kriitika; tähtsus; abitu; kaas
-4,2,1,3,1,2,4,2,1,11,rahutu; kirjanik; vaenlane; kriitika; tähtsus; abitu; kaas
-4,2,1,3,1,2,4,3,1,11,rahutu; kirjanik; vaenlane; kriitika; tähtsus; abitu; kaas
-4,2,3,3,1,2,4,3,1,11,rahutu; kirjanik; vaenlane; tähtsus; kriitika; abitu; kaas
-3,2,3,5,1,3,5,4,1,11,rahutu; kirjanik; kriitika; tähtsus; kapp; vaenlane; abitu; kaas
-3,1,4,3,1,5,4,3,1,11,rahutu; kirjanik; kriitika; vaenlane; tähtsus; kapp; abitu; kaas
-3,2,4,1,1,2,5,3,1,11,rahutu; kirjanik; kriitika; tähtsus; vaenlane; abitu; kaas
-3,1,2,2,1,4,5,3,1,11,rahutu; kirjanik; kriitika; vaenlane; kapp; tähtsus; abitu; kaas
-2,0,2,2,2,4,3,2,1,11,rahutu; kirjanik; kapp; tähtsus; vaenlane; abitu; kaas
+5,3,1,4,1,3,5,3,1,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+5,3,1,4,1,3,5,3,1,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+5,3,1,4,1,3,5,3,1,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+5,3,1,4,1,3,5,3,1,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+5,3,1,4,1,3,5,4,1,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+5,3,3,4,1,3,5,4,2,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+4,3,4,6,1,4,6,5,2,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+4,2,5,4,1,6,5,4,2,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; kapp; vaenlane; tähtsus
+4,3,5,2,2,3,6,4,2,11,käsikiri; kriitika; kaas; abitu; kirjanik; rahutu; vaenlane; tähtsus
+4,2,2,3,2,5,6,4,2,11,käsikiri; abitu; kaas; kriitika; kirjanik; rahutu; kapp; vaenlane; tähtsus
+3,0,3,3,3,5,4,2,1,11,käsikiri; abitu; kaas; kirjanik; rahutu; kapp; vaenlane; tähtsus

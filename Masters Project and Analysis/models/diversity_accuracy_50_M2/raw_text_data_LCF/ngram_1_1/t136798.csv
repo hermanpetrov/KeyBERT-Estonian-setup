@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,1,0,0,0,3,20,obinitsa; kultuuripealinna; deckarty; trump; ossinovski; president; luik
-1,1,3,1,1,0,0,0,3,20,obinitsa; kultuuripealinna; deckarty; trump; ossinovski; president; luik
-1,1,3,1,1,0,0,0,3,20,obinitsa; kultuuripealinna; deckarty; trump; ossinovski; president; luik
-1,1,1,1,1,0,0,0,3,20,kultuuripealinna; deckarty; trump; ossinovski; president; luik
-1,1,1,1,1,0,0,0,3,20,kultuuripealinna; deckarty; trump; ossinovski; president; luik
-1,1,1,0,1,1,0,0,3,20,deckarty; trump; ossinovski; president; luik
-0,1,1,0,1,2,1,1,3,20,jüri; jevgeni; deckarty; trump; ossinovski; president; luik
-1,2,0,0,1,2,1,2,3,20,tervise; jevgeni; deckarty; luik; edendus; jüri; ossinovski; trump; president
-0,1,0,0,1,2,2,1,3,20,obinitsa; jevgeni; deckarty; trump; ossinovski; president; luik
-0,0,1,0,1,2,2,1,3,20,obinitsa; jevgeni; ossinovski; trump; president; luik
-0,0,1,1,1,2,2,2,3,20,obinitsa; jevgeni; ossinovski; trump; president; luik
+1,1,3,1,1,0,0,3,0,20,obinitsa; deckarty; luik; trump; ossinovski; president; kultuuripealinna
+1,1,3,1,1,0,0,3,0,20,obinitsa; deckarty; luik; trump; ossinovski; president; kultuuripealinna
+1,1,3,1,1,0,0,3,0,20,obinitsa; deckarty; luik; trump; ossinovski; president; kultuuripealinna
+1,1,1,1,1,0,0,3,0,20,deckarty; luik; trump; ossinovski; president; kultuuripealinna
+1,1,1,1,1,0,0,3,0,20,deckarty; luik; trump; ossinovski; president; kultuuripealinna
+1,1,1,0,1,0,0,3,0,20,deckarty; trump; ossinovski; president; luik
+0,1,1,0,1,1,1,3,0,20,deckarty; jüri; ossinovski; trump; president; luik
+1,2,0,0,1,1,2,3,0,20,tervise; jüri; president; luik; deckarty; trump; ossinovski; edendus
+0,1,0,0,1,2,1,3,0,20,obinitsa; deckarty; trump; ossinovski; president; luik
+0,0,1,0,1,2,1,3,0,20,obinitsa; trump; ossinovski; president; luik
+0,0,1,1,1,2,2,3,0,20,obinitsa; jevgeni; trump; ossinovski; president; luik

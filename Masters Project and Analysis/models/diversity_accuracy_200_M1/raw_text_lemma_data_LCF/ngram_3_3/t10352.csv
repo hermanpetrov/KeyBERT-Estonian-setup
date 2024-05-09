@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,6,4,7,4,4,4,4,5,13,paul; rahu; kliima; toomas; nälg; kari; kartul; sõda
-5,6,4,7,4,4,4,4,5,13,paul; rahu; toomas; kliima; nälg; kari; kartul; sõda
-5,6,4,7,4,4,3,4,4,13,paul; rahu; toomas; kliima; nälg; kari; kartul; sõda
-4,6,4,7,4,4,4,5,4,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
-5,8,4,7,4,5,5,6,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
-7,8,6,7,4,6,4,6,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
-8,8,8,5,4,6,7,7,4,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
-8,6,7,5,7,7,8,8,5,13,paul; rahu; kliima; toomas; nälg; mastaap; kari; kartul; sõda
-7,6,8,5,5,7,8,8,4,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
-7,7,7,5,6,8,8,8,3,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
-6,7,7,4,7,6,9,8,5,13,paul; rahu; toomas; kliima; nälg; mastaap; kari; kartul; sõda
+6,7,5,8,5,6,5,6,5,13,inimloomus; kliima; nälg; sõda; toomas; kari; usuteadus; rahu; kartul; paul
+7,8,6,8,5,6,5,6,5,13,inimloomus; kliima; toomas; nälg; sõda; kari; usuteadus; rahu; kartul; paul
+7,8,6,8,5,6,4,6,4,13,inimloomus; kliima; toomas; nälg; sõda; kari; usuteadus; rahu; kartul; paul
+6,8,6,8,5,6,5,7,4,13,inimloomus; kliima; mastaap; toomas; sõda; nälg; kari; usuteadus; rahu; kartul; paul
+7,9,6,8,5,7,6,8,4,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; toomas; nälg; kari; kartul
+9,9,8,9,5,8,5,8,4,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; toomas; nälg; kari; kartul
+9,10,9,7,6,8,9,9,4,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; nälg; toomas; kari; kartul
+9,8,8,6,9,9,10,9,5,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; nälg; toomas; kari; kartul
+8,8,10,6,7,8,10,10,5,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; toomas; nälg; kari; kartul
+8,9,9,6,8,9,9,9,4,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; toomas; nälg; kari; kartul
+7,9,9,6,9,7,10,9,6,13,inimloomus; mastaap; sõda; usuteadus; rahu; paul; kliima; toomas; nälg; kari; kartul

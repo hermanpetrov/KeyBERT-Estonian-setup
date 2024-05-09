@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,2,0,0,0,3,0,18,peebo; annely; andres; teater; anu
-0,0,1,2,0,0,0,3,0,18,peebo; annely; andres; teater; anu
-0,0,1,2,0,0,0,3,0,18,peebo; annely; andres; teater; anu
-0,0,1,2,0,0,0,3,0,18,peebo; annely; andres; teater; anu
-0,0,2,2,0,0,0,3,0,18,peebo; annely; andres; teater; anu; mall
-0,0,2,2,0,0,0,5,0,18,andres; teater; mall; peebo; annely; gerd; mälberg; anu
-3,0,0,0,0,2,3,3,0,18,teater; mall; peebo; annely; gerd; mälberg; anu
-0,0,3,0,0,3,0,2,0,18,peebo; annely; ori; mälberg; mall
-2,0,3,0,0,2,0,3,0,18,peebo; annely; mälberg; gerd; mall
-0,0,2,3,1,2,0,2,0,18,hele; lamp; ori; peebo; annely; mall; mälberg; anu
-0,0,2,2,1,1,1,2,0,18,annely; peebo; hele; teater; ori
+0,0,2,2,0,0,0,3,0,18,ooperilaulja; annely; anu; andres; teater; peebo
+0,0,2,2,0,0,0,3,0,18,ooperilaulja; annely; anu; andres; teater; peebo
+0,0,2,2,0,0,0,3,0,18,ooperilaulja; annely; anu; andres; teater; peebo
+0,0,2,2,0,0,0,3,0,18,ooperilaulja; annely; anu; andres; teater; peebo
+0,0,3,2,0,0,0,4,0,18,annely; peebo; ooperilaulja; mall; anu; andres; teater
+0,0,3,2,0,0,0,6,0,18,annely; gerd; mälberg; peebo; ooperilaulja; mall; anu; andres; teater
+3,0,0,0,0,3,3,4,0,18,annely; gerd; mälberg; peebo; ooperilaulja; mall; anu; teater
+0,0,5,0,0,3,0,3,0,18,kettaheide; annely; mälberg; peebo; ooperilaulja; mall; ori
+2,0,3,0,0,2,0,4,0,18,ooperilaulja; mall; annely; gerd; mälberg; peebo
+0,0,2,3,1,2,0,2,0,18,hele; annely; mälberg; peebo; mall; anu; ori; lamp
+0,0,2,2,1,1,1,2,0,18,hele; ori; annely; teater; peebo

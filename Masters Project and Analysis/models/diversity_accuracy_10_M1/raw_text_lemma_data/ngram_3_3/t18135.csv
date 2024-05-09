@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,2,0,3,2,3,3,19,ivo; estonia; teater; laulja; lavastaja; ooper
-1,2,3,4,0,5,3,4,3,19,ivo; estonia; teater; lendav; jüri; hollandlane; laulja; lavastaja; ooper
-3,4,3,1,0,4,5,4,4,19,ivo; tenor; estonia; itaalia; teater; tamme; jüri; kuusk; keel; laulja; lavastaja; ooper
-1,2,5,1,0,6,4,3,3,19,ivo; tenor; estonia; koor; itaalia; teater; lendav; hollandlane; laulja; lavastaja; ooper
-1,2,4,3,0,5,7,1,3,19,tenor; ivo; estonia; koor; itaalia; teater; hollandlane; laulja; lavastaja; ooper
-0,3,2,1,1,7,3,3,2,19,estonia; teater; itaalia; lendav; tamme; hollandlane; laulja; lavastaja; ooper
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,2,0,3,2,3,3,19,lavastaja; laulja; ivo; ooper; teater; estonia
+1,2,3,4,0,5,3,4,3,19,ivo; jüri; hollandlane; lendav; teater; lavastaja; ooper; laulja; estonia
+3,4,3,1,0,4,5,4,4,19,jüri; kuusk; tamme; tenor; laulja; estonia; itaalia; lavastaja; keel; ooper; teater; ivo
+1,2,5,1,0,6,4,3,3,19,lendav; hollandlane; tenor; laulja; estonia; itaalia; lavastaja; koor; ooper; teater; ivo
+1,2,4,3,0,5,7,1,3,19,ivo; hollandlane; tenor; teater; itaalia; lavastaja; koor; ooper; laulja; estonia
+0,3,2,1,1,7,3,3,2,19,hollandlane; lendav; tamme; laulja; itaalia; lavastaja; ooper; teater; estonia

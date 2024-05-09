@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-3,2,1,1,3,1,1,5,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; ilmar; uus; martin
-2,2,2,1,3,1,1,5,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-3,2,3,1,3,1,3,5,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-2,1,3,1,3,1,3,4,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tuba; ilmar; uus; martin
-4,2,4,2,3,1,1,3,1,14,maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,4,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,1,1,3,1,1,5,3,14,martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+2,2,2,1,3,1,1,5,3,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,2,3,1,3,1,3,5,3,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+2,1,3,1,3,1,3,4,3,14,martin; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+4,2,4,2,3,1,1,3,1,14,martin; tomusk; ilmar; tuba; uus; maja; isikud; suhkrusaiapidu

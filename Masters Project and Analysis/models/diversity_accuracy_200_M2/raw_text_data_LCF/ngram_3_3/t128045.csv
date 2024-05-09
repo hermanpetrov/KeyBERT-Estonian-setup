@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,8,4,9,7,7,6,6,5,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-6,8,3,9,7,7,6,6,5,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-6,9,3,9,7,7,6,6,5,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-6,8,3,9,9,6,6,7,5,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-6,9,4,8,9,7,4,6,5,15,nati; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants; vain
-6,6,6,8,10,5,7,5,5,15,nati; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants; vain
-4,8,5,7,10,6,7,6,6,15,nati; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants; vain
-4,11,8,7,9,5,6,6,7,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-5,8,7,7,9,7,6,6,9,15,nati; nukuteater; draama; kultus; ansambel; birma; sain; muusikaline; trumm; tants; vain
-5,6,6,7,8,3,5,7,9,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
-5,4,4,7,9,6,4,10,7,15,nati; vain; nukuteater; draama; kultus; ansambel; birma; sain; rituaal; muusikaline; trumm; tants
+6,8,4,9,7,6,6,5,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+6,8,3,9,7,6,6,5,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+6,9,3,9,7,6,6,5,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+6,8,3,9,9,6,7,5,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+6,9,4,8,9,4,6,5,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+6,6,6,8,10,7,5,5,0,15,nukuteater; vain; draama; kultus; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+4,8,5,7,10,7,6,6,0,15,nukuteater; vain; kultus; draama; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+4,11,8,7,9,6,6,7,0,15,nukuteater; vain; draama; kultus; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+5,8,7,7,9,6,6,9,0,15,nukuteater; vain; draama; kultus; sain; tants; muusikaline; birma; ansambel; nati; trumm
+5,6,6,7,8,5,7,9,0,15,nukuteater; vain; draama; kultus; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm
+5,4,4,7,9,4,10,7,0,15,nukuteater; vain; draama; kultus; sain; rituaal; tants; muusikaline; birma; ansambel; nati; trumm

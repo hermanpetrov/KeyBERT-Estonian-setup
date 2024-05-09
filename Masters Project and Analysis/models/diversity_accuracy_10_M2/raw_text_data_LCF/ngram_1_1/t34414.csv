@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,3,3,1,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,1,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,1,0,16,eurole; üleeuroopaline; euroopa
-0,0,2,0,0,3,3,1,0,16,eurole; üleeuroopaline; euroopa
-0,0,3,0,0,3,3,1,0,16,eurole; üleeuroopaline; euroopa
-0,0,3,0,0,3,3,1,0,16,euroopa; eurole; üleeuroopaline; elering
-0,1,3,1,0,1,3,1,0,16,euroopa; eurole; üleeuroopaline; elering
-0,1,2,0,0,1,1,0,0,16,elering; eurole; komisjon; euroopa
-1,1,2,0,0,1,1,0,0,16,euroopa; eurole; komisjon; üleeuroopaline; elering
-1,1,2,0,0,1,1,1,0,16,euroopa; eurole; komisjon; üleeuroopaline; elering
-3,1,2,0,0,1,0,1,0,16,elering; juurapiid; osaühing; eurole; üleeuroopaline; euroopa
+0,0,2,0,0,3,1,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,1,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,1,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,2,0,0,3,1,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,3,0,0,3,1,0,0,16,üleeuroopaline; euroopa; eurole
+0,0,3,0,0,3,1,0,0,16,üleeuroopaline; elering; euroopa; eurole
+0,1,3,1,0,3,1,0,0,16,üleeuroopaline; elering; euroopa; eurole
+0,1,2,0,0,1,0,0,0,16,eurole; komisjon; elering; euroopa
+1,1,2,0,0,1,0,0,0,16,euroopa; elering; komisjon; eurole; üleeuroopaline
+1,1,2,0,0,1,1,0,0,16,euroopa; elering; komisjon; eurole; üleeuroopaline
+3,1,2,0,0,0,1,0,0,16,osaühing; juurapiid; elering; euroopa; üleeuroopaline; eurole

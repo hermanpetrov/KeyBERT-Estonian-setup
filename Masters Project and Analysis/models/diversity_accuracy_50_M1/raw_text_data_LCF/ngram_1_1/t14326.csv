@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,4,1,0,3,4,4,1,15,euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel
-3,3,4,1,0,3,4,4,1,15,euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel
-3,3,6,1,0,3,4,4,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel; atatürk
-3,3,6,1,0,3,4,4,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel; atatürk
-4,3,6,1,0,3,4,3,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel; atatürk
-3,3,5,1,0,4,4,3,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; kirjanduspreemia; islam; seppel; atatürk
-4,2,7,1,0,4,4,3,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; ehin; kirjanduspreemia; islam; seppel; atatürk
-1,2,7,2,0,3,4,4,2,15,pamuk; euroopa-mõjuline; nobeli; türgi; väärtussüsteemid; keeleuuendusliikumine; ehin; kirjanduspreemia; islam; seppel; atatürk
-2,2,4,2,0,5,3,5,2,15,euroopa-mõjuline; nobeli; liis; türgi; väärtussüsteemid; keeleuuendusliikumine; ehin; kirjanduspreemia; islam; seppel; atatürk
-2,0,4,2,0,4,3,2,1,15,andres; euroopa-mõjuline; nobeli; liis; türgi; keeleuuendusliikumine; ehin; kirjanduspreemia; islam; atatürk
-2,1,5,2,0,4,3,5,1,15,andres; pamuk; euroopa-mõjuline; nobeli; liis; türgi; väärtussüsteemid; keeleuuendusliikumine; ehin; kirjanduspreemia; islam; seppel; atatürk
+3,3,4,1,0,4,4,1,0,15,seppel; keeleuuendusliikumine; nobeli; väärtussüsteemid; euroopa-mõjuline; kirjanduspreemia; islam; türgi
+3,3,4,1,0,4,4,1,0,15,seppel; keeleuuendusliikumine; nobeli; väärtussüsteemid; euroopa-mõjuline; kirjanduspreemia; islam; türgi
+3,3,6,1,0,4,4,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam; türgi
+3,3,6,1,0,4,4,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam; türgi
+4,3,6,1,0,4,3,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam; türgi
+3,3,5,1,0,4,3,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam; türgi
+4,2,7,1,0,4,3,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; ehin; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam
+1,2,7,2,0,4,4,2,0,15,seppel; keeleuuendusliikumine; pamuk; nobeli; ehin; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam
+2,2,4,2,0,3,5,2,0,15,seppel; keeleuuendusliikumine; liis; nobeli; ehin; väärtussüsteemid; kirjanduspreemia; atatürk; euroopa-mõjuline; islam
+2,0,4,2,0,3,2,1,0,15,keeleuuendusliikumine; liis; nobeli; ehin; kirjanduspreemia; atatürk; andres; euroopa-mõjuline; islam
+2,1,5,2,0,3,5,1,0,15,seppel; keeleuuendusliikumine; pamuk; liis; nobeli; ehin; väärtussüsteemid; atatürk; andres; euroopa-mõjuline; kirjanduspreemia; islam; türgi

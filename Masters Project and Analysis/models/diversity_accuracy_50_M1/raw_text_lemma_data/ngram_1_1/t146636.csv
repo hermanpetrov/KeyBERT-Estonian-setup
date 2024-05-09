@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,2,0,1,0,0,12,aplus; tüdimus; paul; süü; seitse
-1,1,2,0,2,0,1,0,0,12,aplus; tüdimus; paul; süü; seitse
-1,1,2,0,2,0,1,0,1,12,aplus; tüdimus; paul; süü; seitse; rõõm
-1,1,2,0,2,0,1,0,1,12,aplus; tüdimus; paul; süü; seitse; rõõm
-1,1,2,0,2,0,1,0,1,12,aplus; tüdimus; paul; süü; seitse; rõõm
-1,1,2,0,2,0,1,0,1,12,aplus; tüdimus; paul; süü; seitse; rõõm
-1,1,2,0,2,0,1,1,1,12,aplus; tüdimus; paul; süü; seitse; rõõm
-1,1,2,1,2,1,1,2,1,12,aplus; tüdimus; paul; süü; seitse; toomas; rõõm
-0,1,3,2,3,2,1,1,1,12,aplus; tüdimus; paul; süü; seitse; toomas; rõõm
-0,1,3,2,2,2,1,2,1,12,aplus; tüdimus; paul; süü; seitse; ahnus; toomas; rõõm
-0,1,3,2,2,2,1,1,2,12,paul; süü; toomas; rõõm; tüdimus; aplus; seitse; ahnus
+2,2,4,2,2,1,2,1,0,12,tüdimus; surmapatu; seitse; süü; aplus; hommikupalvus; paul
+2,2,4,2,2,1,2,1,0,12,tüdimus; surmapatu; seitse; süü; aplus; hommikupalvus; paul
+2,2,4,2,2,1,2,1,1,12,tüdimus; surmapatu; seitse; süü; rõõm; aplus; hommikupalvus; paul
+2,2,4,2,2,1,2,1,1,12,tüdimus; surmapatu; seitse; süü; rõõm; aplus; hommikupalvus; paul
+2,2,3,2,2,1,2,1,1,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; paul
+2,2,3,2,2,1,2,1,1,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; paul
+2,2,3,1,2,1,2,2,1,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; paul
+2,2,3,3,2,2,2,3,1,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; toomas; paul
+1,2,4,3,3,3,2,2,1,12,tüdimus; seitse; surmapatu; süü; rõõm; toomas; hommikupalvus; aplus; paul
+1,2,4,2,2,3,3,3,1,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; toomas; paul; ahnus
+1,2,4,2,2,3,3,2,2,12,tüdimus; seitse; surmapatu; süü; rõõm; aplus; hommikupalvus; toomas; paul; ahnus

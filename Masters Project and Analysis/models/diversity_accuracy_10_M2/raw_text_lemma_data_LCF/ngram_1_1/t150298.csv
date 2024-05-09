@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,1,1,0,10,televisioon; saade
-0,0,2,0,0,1,1,1,0,10,televisioon; saade
-0,0,2,0,0,1,1,1,0,10,televisioon; saade
-0,0,2,0,0,1,1,1,0,10,televisioon; saade
-0,0,1,0,0,1,1,1,0,10,televisioon; saade
-0,0,1,0,0,1,1,0,0,10,televisioon; saade
-0,0,1,0,0,1,1,0,0,10,televisioon; saade
-0,0,1,0,0,1,1,0,0,10,televisioon; saade
-0,0,0,0,0,1,1,0,0,10,televisioon
-0,0,1,0,0,1,1,1,0,10,televisioon; režissöör
-0,0,0,0,0,1,1,2,0,10,televisioon; režissöör
+1,0,2,0,0,1,1,1,0,10,filmiruum; saade; televisioon
+1,0,2,0,0,1,1,1,0,10,filmiruum; saade; televisioon
+1,0,2,0,0,1,1,1,0,10,filmiruum; saade; televisioon
+1,0,2,0,0,1,1,1,0,10,filmiruum; saade; televisioon
+1,0,1,0,0,1,1,1,0,10,filmiruum; saade; televisioon
+1,0,1,0,0,1,1,0,0,10,filmiruum; saade; televisioon
+1,0,1,0,0,2,1,0,0,10,koosolek; filmiruum; saade; televisioon
+1,0,1,0,0,2,1,0,0,10,koosolek; filmiruum; saade; televisioon
+1,0,0,0,0,2,1,0,0,10,filmiruum; televisioon; koosolek
+0,0,1,0,0,2,1,2,0,10,režissöör; televisioon; koosolek
+0,0,0,0,0,2,1,4,0,10,režissöör; koosolek; filmiruum; televisioon

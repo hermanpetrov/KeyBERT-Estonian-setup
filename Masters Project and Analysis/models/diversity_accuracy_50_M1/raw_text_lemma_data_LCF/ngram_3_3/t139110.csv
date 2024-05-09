@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,5,1,1,4,3,5,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-4,5,5,1,1,4,3,5,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-4,5,5,1,1,4,3,5,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-4,5,5,1,1,4,3,5,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-4,5,5,1,1,4,3,4,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-4,5,5,1,1,5,3,4,4,11,inglane; õppus; saar; taanlane; muhu; keel; saarlane
-5,5,5,1,1,4,3,6,4,11,inglane; õppus; muhu; saar; taanlane; keel; saarlane
-5,5,5,2,1,5,4,6,4,11,inglane; õppus; saar; taanlane; muhu; tehnika; keel; saarlane
-6,7,6,3,1,4,4,5,5,11,inglane; õppus; saar; taanlane; muhu; lapiline; tehnika; keel; saarlane
-7,7,6,4,2,4,5,6,5,11,inglane; õppus; saar; taanlane; muhu; lapiline; tehnika; keel; saarlane
-8,6,6,4,2,5,5,6,3,11,inglane; õppus; muhu; taanlane; saar; lapiline; tehnika; keel; saarlane
+4,5,5,1,1,4,3,6,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+4,5,5,1,1,4,3,6,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+4,5,5,1,1,4,3,6,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+4,5,5,1,1,4,3,6,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+4,5,5,1,1,4,3,5,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+4,5,5,1,1,5,3,5,5,11,taanlane; inglane; saarlane; õppus; keel; muhu; kaitseliit; saar
+5,5,5,1,1,4,3,7,5,11,taanlane; inglane; saarlane; keel; õppus; muhu; kaitseliit; saar
+5,5,5,3,1,5,4,7,5,11,taanlane; inglane; saarlane; õppus; muhu; keel; tehnika; kaitseliit; saar
+6,7,6,4,1,4,4,6,6,11,taanlane; lapiline; inglane; saarlane; õppus; muhu; keel; tehnika; kaitseliit; saar
+8,7,6,4,2,4,5,7,6,11,taanlane; lapiline; inglane; saarlane; õppus; tehnika; keel; muhu; kaitseliit; saar
+9,7,6,4,2,5,5,7,4,11,taanlane; lapiline; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar

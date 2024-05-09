@@ -2,11 +2,11 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,14,mägi
 0,0,1,0,0,0,0,0,0,14,mägi
 0,0,1,0,0,0,0,0,0,14,mägi
-0,0,2,0,0,0,0,0,0,14,mägi; madeira
-0,0,2,0,0,0,0,0,0,14,mägi; madeira
-0,0,0,0,0,0,0,0,0,14,
-0,0,1,0,0,0,0,0,0,14,madeira
-0,0,1,0,0,1,1,0,0,14,mägi; porto; madeira
-0,0,0,0,0,1,1,0,0,14,porto; madeira
-0,1,1,0,0,1,1,0,1,14,loodus; porto; madeira
+0,0,2,0,0,0,0,0,0,14,madeira; mägi
+0,0,2,0,0,0,0,0,0,14,madeira; mägi
+0,0,0,0,0,1,0,0,0,14,vanalinn
+1,0,1,0,0,0,0,0,0,14,õhutramm; madeira
+1,0,1,0,0,1,1,1,0,14,õhutramm; madeira; mägi; porto
+0,0,0,0,0,1,1,1,0,14,porto; õhutramm; madeira
+0,1,1,0,0,1,1,0,1,14,porto; madeira; loodus
 0,0,1,1,0,1,1,0,0,14,porto; madeira

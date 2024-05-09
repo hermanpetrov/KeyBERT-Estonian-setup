@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,1,1,4,2,2,2,4,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-6,2,1,4,2,2,2,4,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-6,2,1,4,2,2,2,4,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-6,2,2,4,2,2,2,4,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-5,3,2,4,2,3,2,5,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-5,4,3,4,2,3,2,6,1,17,norra; psühholoog; margit; pekk; mart; pirgu; saun; ruth-kaja; concordia; mõis
-4,4,1,8,2,3,2,6,1,17,norra; psühholoog; margit; pekk; mart; ruth-kaja; concordia; pirgu; mõis
-3,4,3,6,2,3,4,7,1,17,norra; psühholoog; margit; pekk; mart; saun; ruth-kaja; concordia; pirgu; mõis
-4,5,2,9,2,4,5,6,1,17,norra; susi; psühholoog; margit; pekk; mart; saun; ruth-kaja; concordia; pirgu; mõis
-2,2,2,6,1,3,4,5,1,17,norra; susi; psühholoog; margit; pekk; mart; saun; ruth-kaja; concordia; pirgu; mõis
-3,3,5,5,1,3,3,8,3,17,psühholoog; pekk; mart; pirgu; norra; susi; margit; saun; ruth-kaja; concordia; mõis
+8,3,1,5,3,3,2,5,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+8,4,1,5,3,3,2,5,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+8,4,1,5,3,3,2,5,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+8,4,2,5,3,3,2,5,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+7,5,2,5,3,4,2,6,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+7,6,3,5,3,4,2,7,2,17,norra; saun; ülikool; mart; margit; concordia; pirgu; mõisaproua; pekk; mõis; sisekujundus; ruth-kaja; psühholoog
+6,6,1,9,3,3,2,7,2,17,norra; pirgu; mõisaproua; pekk; ülikool; mõis; mart; margit; concordia; sisekujundus; ruth-kaja; psühholoog
+4,5,4,8,3,3,4,9,2,17,norra; saun; ülikool; mart; margit; concordia; pirgu; mõisaproua; pekk; mõis; sisekujundus; ruth-kaja; psühholoog
+5,6,3,11,2,5,5,7,2,17,norra; saun; susi; ülikool; mart; margit; concordia; pirgu; mõisaproua; pekk; mõis; sisekujundus; ruth-kaja; psühholoog
+3,4,2,7,1,3,4,6,1,17,norra; saun; susi; ülikool; mart; margit; concordia; pirgu; mõisaproua; pekk; mõis; sisekujundus; ruth-kaja; psühholoog
+4,4,5,5,1,3,4,8,5,17,norra; saun; susi; ülikool; mart; margit; concordia; pirgu; mõisaproua; pekk; mõis; ruth-kaja; psühholoog

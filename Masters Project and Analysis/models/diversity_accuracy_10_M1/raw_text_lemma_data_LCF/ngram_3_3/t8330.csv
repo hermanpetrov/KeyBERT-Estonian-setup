@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,0,0,0,0,15,keel; siber
-1,0,1,1,0,0,0,0,0,15,keel; siber
-1,0,1,1,0,0,0,0,0,15,keel; siber
-1,0,2,1,0,0,0,0,0,15,keel; saksa; siber
-1,0,1,1,0,0,0,0,0,15,keel; siber
-1,0,0,1,0,0,0,0,0,15,siber
-1,0,0,0,0,0,0,0,0,15,siber
-0,0,2,0,0,0,0,0,0,15,keel; saksa
-0,2,0,3,1,0,0,0,0,15,jätma; saksa; keel; tasso; robert
-0,1,0,1,1,0,0,0,0,15,jätma; laager; siber
+1,1,1,1,0,0,0,0,0,15,siber; keel; loomavagun
+1,1,1,1,0,0,0,0,0,15,siber; keel; loomavagun
+1,1,1,1,0,0,0,0,0,15,siber; keel; loomavagun
+1,1,2,1,0,0,0,0,0,15,saksa; keel; loomavagun; siber
+1,1,1,1,0,0,0,0,0,15,siber; keel; loomavagun
+1,1,0,1,0,0,0,0,0,15,siber; loomavagun
+1,2,0,0,0,0,0,0,0,15,siber; talveriie; loomavagun
+0,1,2,0,0,0,0,0,0,15,saksa; talveriie; keel
+0,2,0,3,1,0,0,0,0,15,saksa; keel; tasso; robert; jätma
+0,1,0,1,1,0,0,0,0,15,siber; jätma; laager
 0,1,0,0,1,0,0,0,0,15,jätma; laager

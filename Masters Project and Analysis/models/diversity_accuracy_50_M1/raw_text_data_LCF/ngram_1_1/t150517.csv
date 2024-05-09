@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,1,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-3,2,1,2,0,2,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-4,2,2,1,0,1,3,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-4,2,2,1,0,1,2,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
-4,0,3,2,0,1,2,2,0,10,vana; lõuna-eesti; suvepäev; tants; pillimäng
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,1,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+3,2,1,2,0,3,2,0,0,10,pillimäng; suvepäev; tants; lõuna-eesti; vana
+4,2,2,1,0,3,2,0,0,10,pillimäng; suvepäev; vana; lõuna-eesti; tants
+4,2,2,1,0,2,2,0,0,10,pillimäng; suvepäev; vana; lõuna-eesti; tants
+4,0,3,2,0,2,2,0,0,10,pillimäng; suvepäev; vana; lõuna-eesti; tants

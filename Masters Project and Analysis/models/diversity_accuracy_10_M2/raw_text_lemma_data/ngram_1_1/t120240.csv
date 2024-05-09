@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,0,0,0,0,0,0,13,
-0,0,0,1,0,0,0,0,0,13,konkurent
-0,0,0,1,0,0,0,0,0,13,konkurent
-0,0,0,1,0,0,0,0,0,13,konkurent
+0,0,0,1,0,1,0,1,0,13,valgamaa; kodukohvik; turismitalu
+0,0,0,1,0,1,0,1,0,13,valgamaa; kodukohvik; turismitalu
+0,0,0,1,0,1,0,1,0,13,valgamaa; kodukohvik; turismitalu
+0,0,0,1,0,1,0,1,0,13,valgamaa; kodukohvik; turismitalu
+0,0,1,1,0,1,0,1,0,13,kodukohvik; valgamaa; turismitalu
+0,0,1,1,0,1,0,1,0,13,kodukohvik; valgamaa; turismitalu
+0,0,1,1,0,0,0,1,0,13,kodukohvik; turismitalu
+0,0,1,1,0,0,0,1,0,13,kodukohvik; turismitalu
+0,0,1,2,0,0,0,1,0,13,kodukohvik; konkurent; turismitalu
+0,0,1,1,0,0,0,1,0,13,kodukohvik; konkurent
+0,0,1,1,0,0,0,1,0,13,kodukohvik; konkurent

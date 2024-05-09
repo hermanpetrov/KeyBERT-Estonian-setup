@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,6,2,2,0,3,2,2,2,15,bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-7,6,2,2,0,3,2,2,2,15,bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-7,6,2,2,0,3,2,2,3,15,bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-7,6,2,2,0,3,2,2,3,15,bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-7,6,2,2,0,3,3,2,3,15,bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-7,5,2,2,0,3,5,3,3,15,tööstusrevolutsioon; bismarck; von; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-4,5,3,4,0,4,4,4,3,15,bismarck; wilhelm; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
-2,6,2,3,1,2,3,4,3,15,bismarck; wilhelm; berliini; friedrich; saksamaa; berliin
-2,4,2,3,2,3,1,3,3,15,tööstusrevolutsioon; bismarck; wilhelm; kurferstendam; berliini; friedrich; saksamaa
-2,2,1,1,2,3,4,2,3,15,tööstusrevolutsioon; bismarck; von; wilhelm; otto; berliini; friedrich; saksamaa; berliin
-2,6,2,1,2,2,4,2,3,15,tööstusrevolutsioon; bismarck; von; wilhelm; otto; kurferstendam; berliini; maailmasõda; friedrich; saksamaa; berliin
+7,6,2,2,0,3,2,2,2,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+7,6,2,2,0,3,2,2,2,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+7,6,2,2,0,3,2,2,3,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+7,6,2,2,0,3,2,2,3,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+7,6,2,2,0,3,3,2,3,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+7,5,2,2,0,3,5,3,3,15,berliin; tööstusrevolutsioon; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda; von
+4,5,3,4,0,4,4,4,3,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam; maailmasõda
+2,6,2,3,1,2,3,4,3,15,berliin; wilhelm; saksamaa; friedrich; bismarck; berliini
+2,4,2,3,2,3,1,3,3,15,tööstusrevolutsioon; wilhelm; saksamaa; friedrich; bismarck; berliini; kurferstendam
+2,2,1,1,2,3,4,2,3,15,berliin; tööstusrevolutsioon; saksamaa; otto; friedrich; wilhelm; bismarck; berliini; von
+2,6,2,1,2,2,4,2,3,15,berliin; tööstusrevolutsioon; saksamaa; otto; friedrich; wilhelm; bismarck; berliini; kurferstendam; maailmasõda; von

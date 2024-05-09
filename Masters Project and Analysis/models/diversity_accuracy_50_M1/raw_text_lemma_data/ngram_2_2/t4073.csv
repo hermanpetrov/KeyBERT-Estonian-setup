@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,3,1,0,4,4,1,3,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon; marje
-5,3,3,1,0,4,4,1,3,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon; marje
-5,3,3,1,0,4,4,1,3,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon; marje
-5,3,4,1,0,4,4,1,2,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon; marje
-6,3,4,1,0,4,4,1,2,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon; marje
-4,2,4,1,0,4,3,1,2,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon
-2,2,4,3,0,5,4,2,2,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; berluscon
-1,1,5,3,0,4,4,2,2,16,majandus; itaalia; inflatsioon; vare; josing; eesti; silvio; berluscon
-2,2,5,5,0,6,4,2,2,16,majandus; itaalia; inflatsioon; vare; eesti; josing; silvio; kai; berluscon; marje
-1,2,3,2,0,3,3,1,2,16,majandus; itaalia; inflatsioon; josing; eesti; silvio; berluscon
-2,3,3,1,0,3,3,1,2,16,majandus; itaalia; inflatsioon; josing; eesti; berluscon
+6,5,3,3,0,6,4,2,4,16,vare; majandus; berluscon; venemaa; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; inflatsioon; josing
+6,5,3,3,0,6,4,2,4,16,vare; majandus; berluscon; venemaa; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; inflatsioon; josing
+6,5,3,3,0,6,4,2,4,16,vare; majandus; berluscon; venemaa; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; inflatsioon; josing
+6,5,4,3,0,6,4,2,3,16,vare; majandus; berluscon; venemaa; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; inflatsioon; josing
+7,5,5,3,0,6,4,2,3,16,vare; majandus; berluscon; venemaa; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; inflatsioon; josing
+4,4,6,3,0,7,4,2,3,16,vare; majandus; berluscon; ettevõtlus; eesti; venemaa; silvio; suurbritannia; itaalia; välireklaam; inflatsioon; josing
+3,4,4,4,0,6,4,3,3,16,vare; majandus; ettevõtlus; berluscon; eesti; venemaa; suurbritannia; silvio; itaalia; välireklaam; inflatsioon; josing
+1,3,5,4,0,5,5,3,3,16,vare; majandus; berluscon; eesti; venemaa; suurbritannia; silvio; itaalia; välireklaam; inflatsioon; josing
+2,2,5,5,0,6,5,3,3,16,vare; majandus; berluscon; eesti; silvio; suurbritannia; marje; itaalia; välireklaam; kai; inflatsioon; josing
+2,3,4,3,0,3,4,1,3,16,majandus; berluscon; venemaa; eesti; silvio; suurbritannia; itaalia; välireklaam; inflatsioon; josing
+2,3,4,2,0,4,4,2,3,16,ettevõtlus; majandus; berluscon; eesti; venemaa; suurbritannia; itaalia; välireklaam; inflatsioon; josing

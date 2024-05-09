@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,1,0,17,berliin; muusika
-0,0,1,0,0,0,0,1,0,17,berliin; muusika
-0,0,1,0,0,0,0,1,0,17,berliin; muusika
-0,0,1,0,0,0,0,1,0,17,berliin; muusika
-0,0,1,0,0,0,0,1,0,17,berliin; muusika
-0,0,1,0,0,0,0,0,0,17,muusika
-0,0,1,0,0,1,0,0,0,17,hitler; muusika
-0,0,1,0,0,2,0,0,0,17,von; hitler; muusika
-0,1,1,1,0,1,0,0,0,17,reibas; bismarck; muusika; von
-0,1,1,0,0,0,0,0,0,17,bismarck; muusika
-0,1,0,0,0,0,0,0,0,17,bismarck
+1,0,2,0,0,1,1,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,1,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,1,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,1,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,1,1,2,0,17,berliin; muusika; saksamaa; üliõpilasrahutus
+1,0,2,0,0,0,1,1,0,17,saksamaa; muusika; üliõpilasrahutus
+1,0,2,0,0,1,1,0,0,17,muusika; saksamaa; hitler; üliõpilasrahutus; raadiosaade
+0,0,2,0,0,2,1,0,0,17,muusika; saksamaa; hitler; von; raadiosaade
+0,1,2,1,0,1,1,0,0,17,bismarck; muusika; saksamaa; raadiosaade; von; reibas
+0,1,2,0,0,0,0,1,0,17,saksamaa; muusika; raadiosaade; bismarck
+0,1,1,0,0,0,0,1,0,17,saksamaa; raadiosaade; bismarck

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,4,3,1,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kosmosesüstik; kreeka; steiner
-0,4,3,1,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kosmosesüstik; kreeka; steiner
-0,4,3,1,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kosmosesüstik; kreeka; steiner
-0,4,3,1,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kosmosesüstik; kreeka; steiner
-0,4,2,1,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kreeka; steiner
-0,4,2,2,1,0,0,0,0,17,presidendivalimised; salme; jürgen; venemaa; kreeka; steiner
-0,2,3,0,1,0,0,2,0,17,presidendivalimised; salme; jürgen; venemaa; kreeka; steiner
-0,4,3,1,1,1,1,0,0,17,festival; presidendivalimised; salme; jürgen; venemaa; kreeka; steiner
-1,2,2,1,1,1,1,0,0,17,presidendivalimised; salme; jürgen; venemaa; kreeka
-1,1,3,3,2,1,1,0,0,17,presidendivalimised; salme; pärimusmuusika; jürgen; venemaa; kreeka
-0,1,6,2,2,2,1,0,0,17,salme; pärimusmuusika; venemaa; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
+0,4,3,1,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen; kosmosesüstik
+0,4,3,1,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen; kosmosesüstik
+0,4,3,1,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen; kosmosesüstik
+0,4,3,1,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen; kosmosesüstik
+0,4,2,1,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen
+0,4,2,2,1,0,0,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen
+0,2,3,0,1,0,0,2,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen
+0,4,3,1,1,1,1,0,0,17,steiner; venemaa; kreeka; presidendivalimised; salme; jürgen; festival
+1,2,2,1,1,1,1,0,0,17,venemaa; kreeka; presidendivalimised; salme; jürgen
+1,1,3,3,2,1,1,0,0,17,venemaa; kreeka; presidendivalimised; salme; jürgen; pärimusmuusika
+0,1,6,2,2,2,1,0,0,17,venemaa; presidendivalimised; salme; pärimusmuusika; muinaslaev; kreeka; viljandi; jürgen

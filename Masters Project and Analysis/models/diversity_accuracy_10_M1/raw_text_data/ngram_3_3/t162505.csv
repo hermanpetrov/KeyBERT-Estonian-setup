@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-0,0,2,1,1,1,2,1,2,11,raamat; kreutzwald; mulgi; eesti; inimene
-1,0,2,1,1,1,2,1,2,11,raamat; kreutzwald; jakobson; mulgi; eesti; inimene
-2,0,1,1,1,1,1,1,2,11,raamat; kreutzwald; jakobson; eesti; inimene
-2,1,2,1,2,1,1,2,2,11,raamat; kreutzwald; jakobson; rahvajutt; eesti; inimene
-2,1,2,1,2,1,1,1,2,11,raamat; kreutzwald; jakobson; eesti; inimene
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+0,0,2,1,1,1,2,1,2,11,kreutzwald; raamat; inimene; eesti; mulgi
+1,0,2,1,1,1,2,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti; mulgi
+2,0,1,1,1,1,1,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti
+2,1,2,1,2,1,1,2,2,11,jakobson; kreutzwald; raamat; inimene; eesti; rahvajutt
+2,1,2,1,2,1,1,1,2,11,jakobson; kreutzwald; raamat; inimene; eesti

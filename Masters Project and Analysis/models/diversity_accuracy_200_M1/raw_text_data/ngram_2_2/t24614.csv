@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,5,4,6,6,3,4,4,3,15,tühi-tähi; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; keel; jaan; hägusus; süsteem; kaplinski; alaväärsustunne
-9,5,4,6,6,3,4,4,3,15,tühi-tähi; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; keel; jaan; hägusus; süsteem; kaplinski; alaväärsustunne
-9,5,3,6,6,3,3,4,3,15,tühi-tähi; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; keel; jaan; hägusus; süsteem; kaplinski; alaväärsustunne
-8,6,3,6,6,3,3,3,3,15,tühi-tähi; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; keel; jaan; hägusus; süsteem; kaplinski; alaväärsustunne
-8,8,7,6,6,6,3,4,3,15,tühi-tähi; tohuvabohu; kõnekeel; isereguleeruv; keelevaist; eesti; keel; jaan; hägusus; süsteem; kaplinski; alaväärsustunne
-8,7,8,6,7,7,6,4,3,15,tühi-tähi; tohuvabohu; isereguleeruv; keelevaist; süsteem; keel; kaplinski; kõnekeel; eesti; jaan; hägusus; alaväärsustunne
-3,10,7,5,6,7,4,9,3,15,tühi-tähi; tohuvabohu; keelevaist; isereguleeruv; süsteem; keel; kaplinski; kõnekeel; eesti; jaan; hägusus; alaväärsustunne
-2,8,7,3,6,6,5,6,3,15,tühi-tähi; süsteem; tohuvabohu; kõnekeel; isereguleeruv; eesti; jaan; keel; kaplinski; alaväärsustunne
-2,8,7,4,8,7,5,9,3,15,tühi-tähi; tohuvabohu; isereguleeruv; süsteem; keel; kaplinski; kõnekeel; eesti; jaan; hägusus; alaväärsustunne
-2,8,9,4,8,5,5,10,4,15,tühi-tähi; tohuvabohu; isereguleeruv; keelevaist; süsteem; keel; kaplinski; kõnekeel; eesti; jaan; hägusus; alaväärsustunne
-2,6,8,5,5,5,4,9,4,15,tühi-tähi; tohuvabohu; isereguleeruv; süsteem; keel; kaplinski; kõnekeel; eesti; jaan; hägusus; alaväärsustunne
+9,5,4,6,6,3,4,4,3,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; isereguleeruv; tühi-tähi; keel; alaväärsustunne; jaan; hägusus; keelevaist
+9,5,4,6,6,3,4,4,3,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; isereguleeruv; tühi-tähi; keel; alaväärsustunne; jaan; hägusus; keelevaist
+9,5,3,6,6,3,3,4,3,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; isereguleeruv; tühi-tähi; keel; alaväärsustunne; jaan; hägusus; keelevaist
+8,6,3,6,6,3,3,3,3,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; isereguleeruv; tühi-tähi; keel; alaväärsustunne; jaan; hägusus; keelevaist
+8,8,7,6,6,6,3,4,3,15,kaplinski; eesti; süsteem; tohuvabohu; kõnekeel; isereguleeruv; tühi-tähi; keel; alaväärsustunne; jaan; hägusus; keelevaist
+8,7,8,6,7,7,6,4,3,15,tohuvabohu; süsteem; isereguleeruv; tühi-tähi; keelevaist; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+3,10,7,5,6,7,4,9,3,15,tohuvabohu; süsteem; isereguleeruv; tühi-tähi; keelevaist; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+2,8,7,3,6,6,5,6,3,15,kaplinski; eesti; tohuvabohu; süsteem; kõnekeel; jaan; keel; isereguleeruv; alaväärsustunne; tühi-tähi
+2,8,7,4,8,7,5,9,3,15,tohuvabohu; süsteem; isereguleeruv; tühi-tähi; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+2,8,9,4,8,5,5,10,4,15,tohuvabohu; süsteem; isereguleeruv; tühi-tähi; keelevaist; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus
+2,6,8,5,5,5,4,9,4,15,tohuvabohu; süsteem; isereguleeruv; tühi-tähi; kaplinski; eesti; kõnekeel; jaan; keel; alaväärsustunne; hägusus

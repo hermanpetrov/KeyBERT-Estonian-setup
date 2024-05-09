@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,1,0,2,1,2,0,11,esinemine; toimetus; raadio
-0,0,2,1,0,2,1,2,0,11,esinemine; toimetus; raadio
-0,0,2,1,0,2,1,2,0,11,esinemine; toimetus; raadio
-0,0,2,1,0,2,1,2,0,11,esinemine; toimetus; raadio
-0,0,2,1,0,2,1,2,0,11,esinemine; toimetus; raadio
-0,0,1,1,0,2,1,1,0,11,esinemine; toimetus; raadio
-0,0,0,0,0,1,1,1,0,11,raadio
-0,0,2,0,1,2,1,1,0,11,varietee; raadio
-0,0,1,0,1,1,0,1,0,11,varietee; raadio
-1,1,2,0,1,1,0,1,0,11,esinemine; varietee; raadio
-1,0,3,0,1,1,0,1,0,11,esinemine; varietee; toimetus; raadio
+1,2,3,1,0,5,2,5,0,11,esinemine; kalurikolhoos; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,3,1,0,5,2,5,0,11,esinemine; kalurikolhoos; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,3,1,0,5,2,5,0,11,esinemine; kalurikolhoos; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,3,1,0,5,2,5,0,11,esinemine; kalurikolhoos; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,3,1,0,5,2,5,0,11,esinemine; kalurikolhoos; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,2,1,0,5,2,4,0,11,esinemine; kalurikolhoos; naisansambel; toimetus; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,2,2,2,0,4,2,4,0,11,kalurikolhoos; naisansambel; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+0,0,3,3,1,4,3,4,0,11,kalurikolhoos; naisansambel; varietee; muusikasaade; raadio; haapsalu; estraadiorkester
+0,1,2,2,1,2,1,4,0,11,kalurikolhoos; naisansambel; varietee; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+2,4,2,1,1,1,1,5,0,11,esinemine; kalurikolhoos; naisansambel; varietee; raadio; muusikasaade; haapsalu; estraadiorkester
+1,1,4,1,1,3,1,4,0,11,esinemine; kalurikolhoos; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester

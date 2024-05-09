@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,9,3,4,3,2,4,9,6,19,margaret; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-8,9,2,4,4,2,4,9,6,19,margaret; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-9,7,2,4,4,3,4,8,7,19,margaret; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-8,6,2,4,4,5,6,8,8,19,margaret; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-9,6,4,3,4,7,6,9,9,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-9,5,5,4,5,6,6,9,9,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-8,6,5,7,6,7,6,7,7,19,margaret; palee; marie; kroon; rahvuslik; stuart; kilt; stewart; püha; robert; prius; kuninglik; sõda
-6,6,5,9,7,5,6,7,7,19,margaret; stuart; stewart; kilt; püha; robert; palee; prius; marie; kuninglik; kroon; sõda
-5,6,5,9,8,8,7,8,7,19,margaret; palee; marie; kroon; rahvuslik; stuart; stewart; kilt; püha; robert; prius; kuninglik; sõda
-5,6,6,8,7,7,7,9,6,19,margaret; palee; marie; kroon; stuart; stewart; püha; robert; prius; kuninglik; sõda
-6,7,6,8,7,6,6,10,7,19,margaret; palee; marie; kroon; kilt; stewart; stuart; püha; robert; prius; kuninglik; sõda
+11,12,4,5,4,4,5,11,8,19,margaret; prius; robert; kindlusloss; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+11,12,3,5,5,4,6,11,8,19,margaret; prius; robert; kindlusloss; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+12,10,3,5,5,5,6,10,9,19,margaret; prius; robert; kindlusloss; sõda; šotimaa; stuart; kroon; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+11,9,3,5,5,7,8,10,10,19,margaret; prius; robert; kindlusloss; sõda; šotimaa; stuart; kroon; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+12,9,5,4,5,9,8,11,11,19,margaret; prius; robert; kindlusloss; palee; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+12,8,6,5,6,8,8,11,11,19,margaret; prius; robert; kindlusloss; palee; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+11,8,7,9,8,8,7,8,9,19,margaret; prius; robert; kindlusloss; palee; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+7,8,7,11,9,7,7,8,9,19,margaret; prius; robert; palee; kindlusloss; sõda; šotimaa; stuart; kroon; marie; kilt; püha; kuninglik; sõjamemoriaal; stewart
+6,8,7,11,10,9,8,9,9,19,margaret; prius; robert; palee; kindlusloss; sõda; šotimaa; stuart; kroon; marie; kilt; püha; rahvuslik; kuninglik; sõjamemoriaal; stewart
+6,8,8,10,8,8,8,10,8,19,margaret; prius; robert; palee; kindlusloss; sõda; šotimaa; stuart; kroon; marie; püha; kuninglik; sõjamemoriaal; stewart
+7,9,8,10,8,7,7,11,9,19,margaret; prius; robert; palee; kindlusloss; sõda; šotimaa; stuart; kroon; marie; kilt; püha; kuninglik; sõjamemoriaal; stewart

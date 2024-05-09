@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,1,1,1,1,0,13,kontsert; arder; muusika; helin-mari
-1,2,1,1,1,1,1,1,1,13,kontsert; arder; muusika; helin-mari
-1,2,1,1,1,1,1,1,1,13,kontsert; arder; muusika; helin-mari
-1,2,1,1,1,1,1,1,1,13,kontsert; arder; muusika; helin-mari
-1,2,1,1,1,1,1,1,1,13,kontsert; arder; muusika; helin-mari
-1,2,2,1,1,1,1,1,1,13,kontsert; arder; muusika; helin-mari
-4,3,1,2,1,3,2,1,1,13,kontsert; muusika; helin-mari; õpingud; esinemine; helilooja; arder
-0,3,1,1,1,1,3,2,1,13,helilooja; muusikakool; muusika; arder; helin-mari
-2,2,1,0,1,3,2,1,1,13,helilooja; muusikakool; arder; muusika; helin-mari; õpingud
-2,2,1,0,0,0,1,2,1,13,esinemine; helilooja; arder; muusika; helin-mari; õpingud
-4,2,1,0,0,0,1,3,1,13,muusikakool; muusika; unistus; helin-mari; õpingud; esinemine; helilooja; arder
+1,2,1,1,1,1,1,0,0,13,helin-mari; arder; muusika
+1,2,1,1,1,1,1,1,0,13,helin-mari; arder; muusika
+1,2,1,1,1,1,1,1,0,13,helin-mari; arder; muusika
+1,2,1,1,1,1,1,1,0,13,helin-mari; arder; muusika
+1,2,1,1,1,1,1,1,0,13,helin-mari; arder; muusika
+1,2,2,1,1,1,1,1,0,13,helin-mari; muusika; arder
+4,3,1,2,1,2,1,1,0,13,esinemine; helin-mari; muusika; õpingud; arder
+0,3,1,1,1,3,2,1,0,13,helin-mari; muusika; arder; muusikakool
+2,2,1,0,1,2,1,1,0,13,helin-mari; õpingud; helilooja; muusika; arder; muusikakool
+2,2,1,0,0,1,2,1,0,13,esinemine; helin-mari; õpingud; helilooja; muusika; arder
+4,2,1,0,0,1,3,1,0,13,esinemine; arder; muusikakool; õpingud; helilooja; helin-mari; muusika; unistus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,2,1,0,17,pere; amanda; piret; näitleja; lapsepõlv
-0,0,2,0,0,0,2,1,0,17,pere; amanda; piret; näitleja; lapsepõlv
-0,0,2,0,0,0,2,1,0,17,pere; amanda; piret; näitleja; lapsepõlv
-0,0,2,0,0,0,2,1,0,17,pere; hermiine; amanda; näitleja; lapsepõlv
-0,0,2,0,0,1,2,1,0,17,pere; hermiine; isa; amanda; näitleja
-0,0,2,0,0,0,2,1,0,17,juuksur; hermiine; isa; amanda; näitleja
-0,0,2,1,0,1,1,1,0,17,juuksur; hermiine; amanda; näitleja; lapsepõlv
-0,0,2,0,0,2,2,1,0,17,juuksur; hermine; hermiine; isa; amanda; näitleja; lapsepõlv
-0,0,2,0,0,0,1,1,0,17,juuksur; hermine; piret; näitleja
-0,0,0,0,0,2,3,2,0,17,juuksur; lahkumine; pesamuna; amanda; näitleja; hermiine
-0,0,2,0,0,1,2,1,0,17,juuksur; hermine; lahkumine; amanda; piret; näitleja
+0,0,2,0,0,2,1,0,0,17,pere; piret; amanda; näitleja; lapsepõlv
+0,0,2,0,0,2,1,0,0,17,pere; piret; amanda; näitleja; lapsepõlv
+0,0,2,0,0,2,1,0,0,17,pere; piret; amanda; näitleja; lapsepõlv
+0,0,2,0,0,2,1,0,0,17,pere; amanda; näitleja; hermiine; lapsepõlv
+0,0,2,0,0,2,1,0,0,17,pere; isa; amanda; hermiine; näitleja
+0,0,2,0,0,2,1,0,0,17,isa; amanda; juuksur; hermiine; näitleja
+0,0,2,1,0,1,1,0,0,17,amanda; juuksur; hermiine; näitleja
+0,0,2,0,0,2,1,0,0,17,isa; hermine; amanda; juuksur; näitleja
+0,0,2,0,0,1,1,0,0,17,piret; hermine; näitleja; juuksur
+0,0,0,0,0,3,2,0,0,17,pesamuna; amanda; juuksur; hermiine; näitleja
+0,0,2,0,0,2,1,0,0,17,piret; hermine; amanda; juuksur; näitleja

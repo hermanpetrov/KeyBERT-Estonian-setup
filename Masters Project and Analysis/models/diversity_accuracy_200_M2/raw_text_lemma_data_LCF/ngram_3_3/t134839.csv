@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,5,3,5,5,4,4,15,periood; eesti; jagamine; liit; euroopa
-4,4,5,5,3,5,5,4,4,15,periood; eesti; jagamine; liit; euroopa
-4,5,5,5,2,5,5,5,4,15,periood; eesti; jagamine; liit; euroopa
-4,5,5,5,3,5,5,5,4,15,periood; eesti; jagamine; liit; euroopa
-5,5,5,5,4,5,5,4,5,15,periood; eesti; jagamine; liit; euroopa
-5,5,5,5,4,4,5,5,5,15,periood; eesti; jagamine; liit; euroopa
-4,5,3,4,4,5,5,5,5,15,periood; eesti; jagamine; liit; euroopa
-4,5,4,5,4,4,5,5,4,15,periood; eesti; jagamine; liit; euroopa
-4,5,3,5,4,4,4,5,5,15,periood; eesti; jagamine; liit; euroopa
-4,5,4,5,4,3,4,5,5,15,periood; eesti; jagamine; liit; euroopa
-4,5,3,4,4,5,4,5,5,15,periood; eesti; jagamine; liit; euroopa
+10,11,8,12,8,7,7,5,7,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+10,11,9,12,8,7,7,6,7,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+10,11,10,12,5,7,8,7,7,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+10,10,11,12,6,7,8,9,7,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+11,10,11,12,7,7,8,6,8,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+10,11,12,11,6,9,8,8,8,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+11,10,10,10,8,8,9,9,8,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; ajaloomuuseum; euroopa; liit; eesti; aktsiisipoliitika; abikaasa
+9,11,12,8,8,9,10,7,9,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; euroopa; ajaloomuuseum; liit; eesti; aktsiisipoliitika; abikaasa
+9,12,10,9,8,7,9,10,10,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; euroopa; ajaloomuuseum; liit; eesti; aktsiisipoliitika; abikaasa
+7,12,11,7,7,6,9,10,10,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; euroopa; ajaloomuuseum; liit; eesti; aktsiisipoliitika; abikaasa
+7,12,8,5,9,8,7,10,9,15,jagamine; kultuuripoliitika; eelarve; taliolümpiamängud; rahapesu; ühisdeklaratsioon; periood; euroopa; ajaloomuuseum; liit; eesti; aktsiisipoliitika; abikaasa

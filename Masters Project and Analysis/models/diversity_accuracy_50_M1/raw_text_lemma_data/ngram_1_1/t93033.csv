@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,0,16,ukraina
-0,0,1,0,0,0,1,0,0,16,ukraina
-0,0,1,0,0,0,1,0,0,16,ukraina
-0,0,1,0,0,0,1,0,0,16,ukraina
-0,0,1,0,0,0,1,0,0,16,ukraina
-0,0,1,0,0,1,1,0,0,16,ukraina
-0,0,1,0,0,1,1,0,0,16,ukraina
-0,0,1,0,0,1,1,0,0,16,ukraina
-0,0,1,0,0,1,1,0,0,16,nädal; ukraina
-0,1,1,0,0,1,1,0,0,16,ukraina; üro
-0,0,1,0,0,1,1,0,0,16,nädal; ukraina
+4,1,3,1,0,2,3,2,1,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+4,1,3,1,0,2,3,2,1,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+4,1,3,1,0,2,3,2,2,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+4,1,3,1,0,2,3,2,1,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+4,1,2,1,0,2,3,2,1,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+4,1,2,1,0,3,3,2,2,16,ukraina; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak
+3,1,2,1,0,4,3,2,1,16,julgeolekunõukogu; ukraina; õhurünnak; kooliturvalisus; koolitulistamine
+4,1,3,0,0,3,3,2,2,16,julgeolekunõukogu; ukraina; õhurünnak; kooliturvalisus; koolitulistamine
+3,1,3,0,0,3,3,2,2,16,julgeolekunõukogu; ukraina; õhurünnak; kooliturvalisus; nädal
+2,2,4,0,0,3,3,2,1,16,üro; jalgpall; ukraina; kooliturvalisus; koolitulistamine; julgeolekunõukogu; õhurünnak
+2,1,3,0,0,3,3,1,1,16,jalgpall; ukraina; kooliturvalisus; koolitulistamine; nädal; julgeolekunõukogu; õhurünnak

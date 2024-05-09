@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,7,3,7,5,8,6,8,7,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-10,7,6,7,5,8,6,8,7,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-10,7,12,7,5,9,7,8,7,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-12,7,12,7,5,9,8,8,7,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-12,7,12,9,6,10,10,8,8,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-10,8,11,9,6,12,10,10,8,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-12,8,10,8,9,13,11,12,8,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-8,10,12,9,10,12,12,12,9,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-10,9,11,7,10,11,10,9,9,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-7,9,11,5,10,11,12,11,12,15,peeter; artur; viktoriin; naljakas; joala; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
-7,9,13,5,10,12,11,11,10,15,peeter; artur; viktoriin; joala; naljakas; klaas; rinne; juhtum; edgar; selberg; saul; jaak; varietee
+11,9,4,8,6,10,7,9,7,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+11,9,7,8,6,10,7,9,7,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+11,9,14,8,6,11,8,10,7,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+13,9,14,8,6,11,9,10,7,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+13,9,14,10,7,12,11,10,8,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+12,10,13,10,7,13,11,12,8,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+12,10,12,9,10,14,12,13,8,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+9,12,14,10,11,13,12,14,9,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees
+10,11,13,8,11,12,10,11,9,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; viktoriin; jaak; rinne; klaas; varietee; joala; pillimees
+8,10,13,5,11,12,12,12,12,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; viktoriin; jaak; rinne; klaas; varietee; joala; pillimees
+7,10,15,5,11,13,11,13,10,15,artur; edgar; naljakas; juhtum; selberg; saul; estraadiorkester; peeter; jaak; viktoriin; rinne; klaas; varietee; joala; pillimees

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,8,5,6,4,4,4,4,4,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-4,8,5,6,4,4,4,4,5,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-5,8,6,5,4,4,5,4,5,15,rahapesu; aktsiisipoliitika; eesti; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-6,9,7,4,4,4,5,4,5,15,rahapesu; aktsiisipoliitika; eesti; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-6,9,7,3,4,4,5,5,5,15,rahapesu; aktsiisipoliitika; eesti; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-4,7,8,4,5,5,5,6,5,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-6,7,6,4,6,6,5,3,6,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-5,5,7,3,5,4,6,4,5,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-5,6,6,3,5,3,3,8,5,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-5,6,5,3,5,4,4,5,4,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
-5,6,5,3,4,4,5,5,4,15,rahapesu; eesti; aktsiisipoliitika; eelarve; kultuuripoliitika; ajaloomuuseum; abikaasade; liit; euroopa
+4,8,5,6,4,4,4,4,0,15,euroopa; eesti; kultuuripoliitika; aktsiisipoliitika; eelarve; rahapesu; abikaasade; ajaloomuuseum; liit
+4,8,5,6,4,4,4,5,0,15,euroopa; eesti; kultuuripoliitika; aktsiisipoliitika; eelarve; rahapesu; abikaasade; ajaloomuuseum; liit
+5,8,6,5,4,5,4,5,0,15,eesti; kultuuripoliitika; ajaloomuuseum; aktsiisipoliitika; eelarve; rahapesu; abikaasade; euroopa; liit
+6,9,7,4,4,5,4,5,0,15,eesti; kultuuripoliitika; ajaloomuuseum; aktsiisipoliitika; eelarve; rahapesu; abikaasade; euroopa; liit
+6,9,7,3,4,5,5,5,0,15,eesti; kultuuripoliitika; ajaloomuuseum; aktsiisipoliitika; eelarve; rahapesu; abikaasade; euroopa; liit
+4,7,8,4,5,5,6,5,0,15,euroopa; eesti; kultuuripoliitika; eelarve; aktsiisipoliitika; rahapesu; abikaasade; ajaloomuuseum; liit
+6,7,6,4,6,5,3,6,0,15,eesti; kultuuripoliitika; ajaloomuuseum; eelarve; aktsiisipoliitika; rahapesu; abikaasade; euroopa; liit
+5,5,7,3,5,6,4,5,0,15,eesti; kultuuripoliitika; eelarve; ajaloomuuseum; aktsiisipoliitika; rahapesu; abikaasade; euroopa; liit
+5,6,6,3,5,3,8,5,0,15,eesti; kultuuripoliitika; eelarve; ajaloomuuseum; aktsiisipoliitika; rahapesu; abikaasade; euroopa; liit
+5,6,5,3,5,4,5,4,0,15,eesti; kultuuripoliitika; eelarve; ajaloomuuseum; aktsiisipoliitika; rahapesu; abikaasade; euroopa; liit
+5,6,5,3,4,5,5,4,0,15,eesti; kultuuripoliitika; eelarve; ajaloomuuseum; aktsiisipoliitika; rahapesu; abikaasade; euroopa; liit

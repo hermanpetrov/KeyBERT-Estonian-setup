@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,3,3,3,0,15,liit; eesti; euroopa
-0,0,0,0,0,3,3,3,0,15,liit; eesti; euroopa
-0,0,0,0,0,3,3,3,0,15,liit; eesti; euroopa
-0,0,0,0,0,3,3,3,0,15,liit; eesti; euroopa
-0,0,0,0,0,4,3,3,0,15,jagamine; liit; eesti; euroopa
-0,0,0,0,0,3,3,2,0,15,liit; eesti; euroopa
-0,0,0,0,0,2,2,2,0,15,eesti; euroopa; liit
-0,1,0,0,0,1,1,1,0,15,eesti; periood; liit
-0,0,0,0,0,1,0,1,1,15,eesti; liit
-0,0,0,2,0,1,1,0,1,15,eesti; euroopa; liit
-0,1,0,2,0,1,0,0,1,15,eesti; euroopa
+3,1,0,0,0,3,4,3,1,15,eesti; ajaloomuuseum; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; euroopa; liit
+3,1,0,0,0,3,4,3,1,15,eesti; ajaloomuuseum; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; euroopa; liit
+3,1,0,0,0,3,4,3,1,15,eesti; ajaloomuuseum; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; euroopa; liit
+3,1,0,0,0,3,4,3,1,15,eesti; ajaloomuuseum; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; euroopa; liit
+3,1,1,0,0,5,4,3,1,15,jagamine; eesti; euroopa; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; abikaasa; ajaloomuuseum; liit
+3,1,1,0,0,4,4,2,0,15,euroopa; eesti; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; abikaasa; ajaloomuuseum; liit
+2,1,0,1,0,3,3,2,0,15,euroopa; eesti; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; ajaloomuuseum; liit
+0,2,0,1,0,1,2,2,1,15,eesti; periood; ajaloomuuseum; aktsiisipoliitika; rahapesu; liit; ühisdeklaratsioon
+0,0,0,1,0,2,0,2,2,15,eesti; kultuuripoliitika; ajaloomuuseum; rahapesu; liit; ühisdeklaratsioon
+0,0,2,3,0,2,2,1,2,15,eesti; kultuuripoliitika; aktsiisipoliitika; taliolümpiamängud; ühisdeklaratsioon; euroopa; liit
+0,1,1,3,0,2,0,1,3,15,abikaasa; euroopa; eesti; kultuuripoliitika; ajaloomuuseum; taliolümpiamängud; ühisdeklaratsioon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-1,2,2,3,0,1,1,3,1,14,salajased; kunst; aiad; biotehnoloogia; infotankistid; näitus
-4,0,2,3,0,2,2,5,1,14,kunst; aiad; elken; sotsia; salajased; jaan; näitus; akvarell
-2,0,2,1,0,3,2,5,1,14,kunst; aiad; salajased; jaan; biotehnoloogia; infotankistid; näitus
-2,1,2,3,0,1,3,2,1,14,salajased; aiad; ränder; biotehnoloogia; näitus
-2,1,3,1,0,1,3,3,1,14,salajased; kunst; aiad; infotankistid; näitus; sotsia; akvarell
-2,1,4,1,0,1,2,1,1,14,salajased; kunst; maal; aiad; infotankistid; näitus; akvarell
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+1,2,2,3,0,1,3,1,0,14,kunst; infotankistid; aiad; biotehnoloogia; salajased; näitus
+4,0,2,3,0,2,5,1,0,14,akvarell; sotsia; salajased; aiad; elken; jaan; kunst; näitus
+2,0,2,1,0,2,5,1,0,14,infotankistid; salajased; aiad; jaan; kunst; biotehnoloogia; näitus
+2,1,2,3,0,3,2,1,0,14,ränder; biotehnoloogia; aiad; salajased; näitus
+2,1,3,1,0,3,3,1,0,14,akvarell; sotsia; kunst; infotankistid; aiad; salajased; näitus
+2,1,4,1,0,2,1,1,0,14,akvarell; kunst; maal; aiad; infotankistid; salajased; näitus

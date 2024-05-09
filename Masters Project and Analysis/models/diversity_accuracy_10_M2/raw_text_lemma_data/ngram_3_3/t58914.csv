@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,1,1,1,1,0,12,torm; rand
 0,0,0,0,1,1,1,0,0,12,torm; rand
 1,0,1,0,1,0,1,0,0,12,torm; sadam; rand
-0,1,1,0,1,1,0,1,0,12,torm; sadam; prognoos; tamm
-1,2,0,0,1,1,1,2,0,12,torm; sadam; prognoos; rand; tamm; tsükkel
-2,1,1,0,2,1,0,0,0,12,torm; sadam; prognoos; rand; tamm
-0,2,0,0,2,0,0,0,0,12,torm; tamm; sadam
-0,0,0,0,2,0,0,0,0,12,torm; sadam
+0,1,1,0,1,1,0,1,0,12,torm; tamm; prognoos; sadam
+1,2,0,0,1,1,1,2,0,12,torm; rand; tamm; prognoos; sadam; tsükkel
+2,1,1,0,2,1,1,0,0,12,torm; rand; tamm; prognoos; ehitustegevus; sadam
+0,2,0,0,2,0,1,0,0,12,torm; sadam; tamm; ehitustegevus
+0,0,0,0,2,0,1,0,0,12,torm; sadam; ehitustegevus

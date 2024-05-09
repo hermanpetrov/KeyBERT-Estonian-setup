@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,6,0,3,2,4,2,1,15,töö; raamat; tegevus; ants; teaduslik; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,3,4,0,3,2,4,1,1,15,töö; raamat; tegevus; ants; teaduslik; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,3,4,0,3,3,4,1,0,15,töö; raamat; tegevus; ants; teaduslik; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,3,3,0,3,3,3,2,0,15,töö; raamat; tegevus; ants; teaduslik; ilmar; mälestuste; soome; talve; viires; etnoloog
-1,3,2,0,4,3,3,2,0,15,töö; raamat; tegevus; ants; teaduslik; ilmar; mälestuste; soome; talve; viires; haige; etnoloog
-1,2,4,0,3,4,5,1,0,15,ants; tegevus; raamat; teaduslik; ilmar; mälestuste; talve; viires; haige; etnoloog
-0,3,3,2,4,2,2,2,0,15,töö; ants; tegevus; ilmar; mälestuste; talve; viires; haige
-0,0,2,2,4,2,2,2,0,15,ants; viires; raamat; tegevus; haige; ilmar
-2,0,2,2,3,4,3,4,0,15,ants; raamat; naine; teaduslik; ilmar; mälestuste; viires; haige; etnoloog
-0,0,3,3,3,2,3,3,0,15,ants; raamat; ilmar; mälestuste; talve; viires; haige
-1,0,2,2,2,2,3,3,2,15,ants; viires; haige; teaduslik; etnoloog; ilmar; mälestuste
+1,3,6,0,3,2,4,2,1,15,soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+1,3,4,0,3,2,4,1,1,15,soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+1,3,4,0,3,3,4,1,0,15,soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+1,3,3,0,3,3,3,2,0,15,soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+1,3,2,0,4,3,3,2,0,15,haige; soome; viires; teaduslik; töö; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+1,2,4,0,3,4,5,1,0,15,haige; viires; teaduslik; ilmar; talve; tegevus; etnoloog; raamat; mälestuste; ants
+0,3,3,2,4,2,2,2,0,15,haige; viires; mälestuste; töö; ilmar; talve; tegevus; ants
+0,0,2,2,4,2,2,2,0,15,haige; raamat; viires; ants; ilmar; tegevus
+2,0,2,2,3,4,3,4,0,15,haige; viires; teaduslik; mälestuste; ilmar; etnoloog; raamat; ants; naine
+0,0,3,3,3,2,3,3,0,15,haige; viires; mälestuste; ilmar; talve; raamat; ants
+1,0,2,2,2,2,3,3,2,15,haige; viires; ants; mälestuste; ilmar; teaduslik; etnoloog

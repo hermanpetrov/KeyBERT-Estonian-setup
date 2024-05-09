@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,5,5,3,2,5,5,5,14,valitsus; pätsi; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-3,5,6,5,3,2,5,5,5,14,valitsus; pätsi; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-2,5,6,6,3,3,5,6,5,14,valitsus; pätsi; konverents; koostöö; kommunistlik; välisministrite; rahulolematus; sõda; partei
-3,4,5,5,3,2,5,7,5,14,valitsus; pätsi; konverents; koostöö; välisministrite; kommunistlik; rahulolematus; sõda; partei
-3,2,6,4,3,3,4,5,5,14,valitsus; pätsi; konverents; koostöö; välisministrite; kommunistlik; rahulolematus; sõda; partei
-5,3,5,6,3,3,4,5,6,14,valitsus; pätsi; konverents; koostöö; välisministrite; kommunistlik; rahulolematus; sõda; partei
-4,3,7,4,3,3,4,5,6,14,valitsus; pätsi; konverents; koostöö; välisministrite; kommunistlik; rahulolematus; sõda; partei
-2,4,6,7,1,4,4,5,6,14,valitsus; pätsi; konverents; välisministrite; koostöö; kommunistlik; rahulolematus; sõda; partei
-3,4,5,5,2,4,5,5,6,14,valitsus; pätsi; konverents; välisministrite; koostöö; kommunistlik; rahulolematus; sõda; partei
-2,4,6,5,3,6,3,4,7,14,valitsus; pätsi; konverents; välisministrite; koostöö; kommunistlik; rahulolematus; sõda; partei
-4,5,3,4,3,5,4,7,7,14,valitsus; pätsi; konverents; välisministrite; koostöö; kommunistlik; rahulolematus; sõda; partei
+3,5,5,5,3,5,5,5,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+3,5,6,5,3,5,5,5,0,14,välisministrite; koostöö; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+2,5,6,6,3,5,6,5,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+3,4,5,5,3,5,7,5,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+3,2,6,4,3,4,5,5,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+5,3,5,6,3,4,5,6,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+4,3,7,4,3,4,5,6,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+2,4,6,7,1,4,5,6,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+3,4,5,5,2,5,5,6,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+2,4,6,5,3,3,4,7,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi
+4,5,3,4,3,4,7,7,0,14,välisministrite; koostöö; konverents; sõda; rahulolematus; partei; valitsus; kommunistlik; pätsi

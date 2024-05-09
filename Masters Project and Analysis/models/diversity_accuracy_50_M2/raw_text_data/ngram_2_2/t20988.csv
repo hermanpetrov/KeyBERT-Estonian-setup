@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,0,0,0,2,0,18,annely; peebo; everaus; mall
-2,0,0,0,0,0,0,2,0,18,annely; peebo; everaus; mall
-2,0,0,0,0,0,0,2,0,18,annely; peebo; everaus; mall
-2,0,0,0,0,0,0,2,0,18,annely; peebo; everaus; mall
-2,0,0,0,0,0,0,2,0,18,annely; peebo; everaus; mall
-2,0,0,0,0,0,0,2,0,18,annely; peebo; gerd; mall
-1,0,0,0,0,2,0,2,0,18,annely; andres; peebo
-0,1,0,0,1,2,2,1,0,18,annely; peebo; kettaheide
-0,1,2,0,1,1,2,1,0,18,annely; peebo; kettaheide; orel; mall
-0,0,2,2,3,1,2,3,0,18,hele; orel; mall; annely; peebo; mälberg; everaus
-2,0,0,2,4,2,2,1,0,18,hele; orel; mall; annely; peebo; mälberg; anu; everaus
+2,0,0,0,0,0,0,2,0,18,annely; everaus; mall; peebo
+2,0,0,0,0,0,0,2,0,18,annely; everaus; mall; peebo
+2,0,0,0,0,0,0,2,0,18,annely; everaus; mall; peebo
+2,0,0,0,0,0,0,2,0,18,annely; everaus; mall; peebo
+2,0,0,0,0,0,0,2,0,18,annely; everaus; mall; peebo
+2,0,0,0,0,0,0,2,0,18,gerd; annely; mall; peebo
+1,0,0,0,0,2,0,2,0,18,peebo; andres; annely
+0,1,0,0,1,2,2,1,0,18,kettaheide; annely; peebo
+0,1,2,0,1,1,2,1,0,18,kettaheide; mall; annely; orel; peebo
+0,0,2,2,3,1,2,3,0,18,hele; everaus; annely; mälberg; orel; peebo; mall
+2,0,0,2,4,2,2,1,0,18,hele; everaus; annely; mälberg; orel; peebo; mall; anu

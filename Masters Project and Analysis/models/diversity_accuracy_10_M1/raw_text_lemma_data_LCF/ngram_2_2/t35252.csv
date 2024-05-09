@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-1,0,1,0,0,1,1,2,1,13,kirjutama; vändra; eesti; jansen
-0,0,1,0,0,2,1,3,1,13,jansen; eesti; kirjutama
-1,0,1,2,0,2,1,3,1,13,jansen; eesti; kirjutama
-0,0,1,2,0,2,1,3,2,13,vändra; jansen; saksa-vastane; eesti; kirjutama
-0,0,1,1,1,2,1,3,2,13,jansen; vändra; selts; saksa-vastane; eesti; kirjutama
-1,0,2,0,1,3,1,3,2,13,jansen; vändra; saksa-vastane; eesti; kirjutama
+1,0,1,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; vändra
+1,0,1,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; vändra
+1,0,1,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; vändra
+1,0,1,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; vändra
+1,0,1,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; vändra
+1,0,3,0,1,1,1,2,1,13,postimees; eesti; kirjutama; jansen; põllumees; vändra
+0,0,2,1,1,3,1,3,1,13,postimees; eesti; kirjutama; jansen; põllumees
+1,0,1,2,1,3,1,3,1,13,postimees; eesti; kirjutama; jansen; põllumees
+0,0,1,3,1,2,1,4,2,13,postimees; eesti; kirjutama; jansen; vändra; saksa-vastane
+2,0,2,2,2,2,1,4,2,13,selts; eesti; kirjutama; jansen; põllumees; vändra; saksa-vastane; üldlaulupidu; postimees
+2,0,3,1,2,3,1,4,2,13,eesti; kirjutama; jansen; põllumees; vändra; saksa-vastane; üldlaulupidu; postimees

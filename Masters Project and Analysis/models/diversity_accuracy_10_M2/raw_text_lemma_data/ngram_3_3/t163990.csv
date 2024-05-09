@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
-2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
-2,2,1,1,2,3,1,2,4,13,tõlge; kannatus; luuletaja; reisimine; kesk-aasia; sissov; reaalsus; autor
-2,2,1,1,2,3,1,2,3,13,tõlge; kannatus; luuletaja; reisimine; kesk-aasia; sissov; reaalsus
-2,2,1,1,2,3,1,2,2,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
-2,2,1,1,2,3,1,2,0,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
-2,2,1,1,2,3,1,2,1,13,reisimine; tõlge; kannatus; sissov; luuletaja; reaalsus
-3,1,1,1,2,3,2,2,3,13,tõlge; kannatus; reisimine; kesk-aasia; sissov; reaalsus
-2,4,2,2,2,3,2,3,1,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus
-2,3,2,2,2,3,2,3,2,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
-1,3,3,2,2,4,3,3,3,13,tõlge; kannatus; luuletaja; reisimine; sissov; reaalsus; autor
+2,3,1,2,2,3,1,2,4,13,luuletaja; autor; reisimine; reaalsus; kannatus; keskpärane; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,4,13,luuletaja; autor; reisimine; reaalsus; kannatus; keskpärane; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,5,13,luuletaja; autor; reisimine; reaalsus; kannatus; keskpärane; kesk-aasia; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,3,13,luuletaja; reisimine; reaalsus; kannatus; kesk-aasia; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,3,13,luuletaja; reisimine; reaalsus; kannatus; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,0,13,luuletaja; reisimine; reaalsus; kannatus; tõlge; karantiiniaeg; sissov
+2,3,1,2,2,3,1,2,1,13,luuletaja; reisimine; reaalsus; kannatus; tõlge; karantiiniaeg; sissov
+3,2,1,2,2,3,2,2,4,13,reisimine; reaalsus; kannatus; kesk-aasia; tõlge; karantiiniaeg; sissov
+2,5,2,2,2,3,2,3,2,13,luuletaja; reisimine; reaalsus; kannatus; tõlge; karantiiniaeg; sissov
+2,4,2,2,2,3,2,3,2,13,luuletaja; autor; reisimine; reaalsus; kannatus; tõlge; karantiiniaeg; sissov
+1,4,3,3,2,4,3,3,4,13,luuletaja; autor; reisimine; reaalsus; kannatus; keskpärane; tõlge; karantiiniaeg; sissov

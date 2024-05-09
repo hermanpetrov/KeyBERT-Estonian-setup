@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,3,0,1,0,2,1,15,edgar; välis-eesti; palts; tõnis; eentalu
-2,2,1,3,0,1,0,2,1,15,edgar; välis-eesti; palts; tõnis; eentalu
-2,2,2,3,0,1,0,2,1,15,edgar; välis-eesti; palts; tõnis; eentalu
-2,2,1,3,0,1,0,2,1,15,edgar; välis-eesti; palts; tõnis; eentalu
-2,2,2,3,0,1,1,2,1,15,edgar; välis-eesti; palts; tõnis; eentalu
-2,3,1,3,0,3,0,3,1,15,edgar; riina; tõnis; eentalu; välis-eesti; palts
-2,2,0,2,0,3,0,4,1,15,edgar; riina; tõnis; narkootikum; eentalu; välis-eesti; palts
-1,4,5,2,0,4,2,2,1,15,viljatus; ravi; edgar; riina; tõnis; narkootikum; eentalu; välis-eesti; palts
-0,2,0,1,0,1,2,3,1,15,tõnis; edgar; välis-eesti; palts; narkootikum; eentalu
-0,3,4,1,3,2,2,4,0,15,viljatus; ravi; edgar; riina; tõnis; narkootikum; eentalu; palts
-2,2,3,3,2,2,0,3,1,15,viljatus; ravi; edgar; riina; tõnis; narkootikum; eentalu; välis-eesti; palts
+2,4,1,4,0,1,1,4,1,15,edgar; eentalu; umbusaldamine; välis-eesti; savisaar; palts; tõnis; perearst
+2,4,1,4,0,1,1,4,1,15,edgar; eentalu; umbusaldamine; välis-eesti; savisaar; palts; tõnis; perearst
+2,4,2,4,0,1,1,4,1,15,edgar; eentalu; umbusaldamine; välis-eesti; savisaar; palts; tõnis; perearst
+2,4,1,4,0,1,1,4,1,15,edgar; eentalu; umbusaldamine; välis-eesti; savisaar; palts; tõnis; perearst
+3,4,2,4,0,1,2,5,1,15,edgar; eentalu; umbusaldamine; välis-eesti; savisaar; palts; tõnis; nõuandetelefon; perearst
+3,5,1,4,0,4,1,6,1,15,edgar; eentalu; umbusaldamine; riina; välis-eesti; savisaar; palts; tõnis; nõuandetelefon; perearst
+2,4,0,2,0,4,1,6,1,15,edgar; eentalu; narkootikum; umbusaldamine; riina; välis-eesti; savisaar; palts; tõnis; perearst
+1,6,5,4,0,6,2,3,1,15,edgar; viljatus; eentalu; narkootikum; ravi; umbusaldamine; välis-eesti; riina; savisaar; palts; tõnis; nõuandetelefon; perearst
+0,4,1,2,0,3,2,4,1,15,edgar; eentalu; umbusaldamine; narkootikum; välis-eesti; savisaar; palts; tõnis; nõuandetelefon; perearst
+1,5,4,2,3,4,2,5,0,15,edgar; ravi; eentalu; narkootikum; viljatus; umbusaldamine; riina; savisaar; palts; tõnis; nõuandetelefon; perearst
+4,3,4,4,3,4,0,5,1,15,edgar; ravi; eentalu; umbusaldamine; viljatus; narkootikum; riina; välis-eesti; savisaar; palts; tõnis; nõuandetelefon; perearst

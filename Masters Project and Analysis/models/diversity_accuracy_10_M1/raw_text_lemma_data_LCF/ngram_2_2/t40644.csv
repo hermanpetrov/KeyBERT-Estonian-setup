@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,19,
 0,0,0,0,0,0,0,0,0,19,
 0,1,0,0,0,0,0,0,0,19,andres
-1,1,0,1,0,0,0,0,0,19,andres; bach; mari
-0,0,0,0,0,1,1,1,0,19,orpheus; bach; mari
+1,1,0,1,0,0,0,0,0,19,bach; mari; andres
+0,0,0,0,0,1,1,1,0,19,bach; mari; orpheus
 0,0,1,0,0,0,0,1,0,19,bach; igor
-1,0,2,0,1,1,0,0,0,19,orpheus; staak; viiul; igor; robert
-1,0,2,0,1,0,1,0,0,19,orpheus; bach; mari; igor; robert
+1,0,2,0,1,1,0,0,0,19,robert; viiul; igor; staak; orpheus
+1,0,2,0,1,0,1,0,0,19,mari; robert; bach; igor; orpheus

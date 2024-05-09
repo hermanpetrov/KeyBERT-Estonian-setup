@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,0,1,2,2,1,3,16,kuslap; strandberg; poliitika; sulev; rüütel; valimine; voldemar; korv; partei
-2,1,4,0,1,2,1,1,3,16,kuslap; strandberg; poliitika; sulev; rüütel; valimine; voldemar; korv; partei
-1,1,3,0,1,4,1,2,3,16,kuslap; poliitika; neeme; korv; sulev; rüütel; valimine; voldemar; strandberg; partei
-1,1,4,0,0,4,1,3,3,16,kuslap; arnold; poliitika; neeme; sulev; rüütel; voldemar; strandberg; partei
-1,1,7,1,0,3,2,3,2,16,kuslap; roheline; arnold; strandberg; poliitika; neeme; sulev; rüütel; voldemar; korv; partei
-1,1,4,1,1,3,2,4,2,16,kuslap; arnold; poliitika; neeme; korv; sulev; rüütel; voldemar; strandberg; partei
-1,1,6,0,2,5,3,4,2,16,kuslap; roheline; arnold; strandberg; poliitika; neeme; korv; rüütel; voldemar; sulev; partei
-1,1,6,2,4,5,4,8,1,16,kuslap; roheline; arnold; strandberg; poliitika; neeme; korv; rüütel; voldemar; sulev; partei
-2,1,8,5,4,5,3,8,1,16,kuslap; roheline; poliitika; neeme; korv; sulev; partei; arnold; rüütel; voldemar; strandberg
-1,1,8,4,5,4,4,8,2,16,kuslap; roheline; poliitika; neeme; korv; sulev; partei; arnold; rüütel; voldemar; strandberg
-1,2,8,4,5,5,4,7,0,16,kuslap; roheline; poliitika; neeme; sulev; partei; arnold; strandberg; rüütel; valimine; voldemar; korv
+2,2,3,1,1,2,2,2,4,16,poliitika; kuslap; strandberg; kohtuots; sulev; valimine; korv; rüütel; partei; voldemar; rahvaliit
+2,2,4,1,1,2,1,2,4,16,poliitika; kuslap; strandberg; kohtuots; sulev; valimine; korv; rüütel; partei; voldemar; rahvaliit
+1,2,3,1,1,4,1,3,4,16,poliitika; kuslap; strandberg; kohtuots; sulev; valimine; korv; neeme; rüütel; partei; voldemar; rahvaliit
+1,2,5,1,0,4,1,4,4,16,poliitika; arnold; kuslap; strandberg; kohtuots; sulev; neeme; rüütel; partei; voldemar; rahvaliit; sotsiaaldemokraat
+1,2,7,2,0,4,2,4,3,16,poliitika; kuslap; arnold; strandberg; kohtuots; korv; sulev; neeme; rüütel; roheline; partei; voldemar; rahvaliit
+1,2,4,3,1,4,2,5,3,16,poliitika; arnold; kuslap; strandberg; kohtuots; sulev; korv; neeme; rüütel; partei; voldemar; rahvaliit; sotsiaaldemokraat
+2,2,6,1,2,6,3,5,3,16,poliitika; kuslap; arnold; strandberg; kohtuots; sulev; korv; neeme; rüütel; roheline; partei; voldemar; rahvaliit; sotsiaaldemokraat
+1,2,6,2,4,6,4,9,2,16,arnold; kohtuots; korv; partei; rahvaliit; poliitika; kuslap; strandberg; sulev; neeme; rüütel; roheline; voldemar
+2,2,8,5,4,5,4,8,2,16,arnold; kohtuots; korv; partei; rahvaliit; poliitika; kuslap; strandberg; sulev; neeme; rüütel; roheline; voldemar; sotsiaaldemokraat
+1,3,8,4,5,5,5,8,3,16,arnold; kohtuots; korv; partei; rahvaliit; poliitika; kuslap; strandberg; sulev; neeme; rüütel; roheline; voldemar; sotsiaaldemokraat
+1,3,9,4,5,6,5,7,2,16,arnold; kohtuots; korv; valimine; partei; rahvaliit; poliitika; kuslap; strandberg; sulev; neeme; rüütel; roheline; voldemar; sotsiaaldemokraat

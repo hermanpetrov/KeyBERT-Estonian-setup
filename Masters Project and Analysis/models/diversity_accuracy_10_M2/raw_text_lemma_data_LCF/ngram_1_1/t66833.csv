@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,1,0,0,13,eesti; muusika
-0,1,0,0,0,1,0,0,0,13,eesti; muusika
-0,1,0,0,0,1,0,0,0,13,eesti; muusika
-0,1,0,0,0,0,1,0,1,13,eesti; publik; muusika
-0,1,1,0,0,0,1,1,1,13,eesti; steinway; muusika
-0,2,0,0,0,0,0,0,1,13,eesti; muusika; institutsioon
+2,1,1,0,0,1,1,1,0,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,0,0,1,1,1,0,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,0,0,1,1,1,0,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,0,0,1,1,1,0,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,0,0,1,1,1,0,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,0,0,0,1,1,0,0,13,muusika; eesti; mammutkontsert; nüüdismuusika
+1,1,0,0,0,1,0,0,0,13,eesti; muusika; mammutkontsert
+0,1,0,0,0,1,0,0,0,13,muusika; eesti
+0,1,0,0,0,0,1,0,1,13,publik; muusika; eesti
+0,1,1,0,0,0,1,1,1,13,muusika; steinway; eesti
+0,2,0,0,0,0,0,0,1,13,muusika; eesti; institutsioon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,2,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,1,0,0,2,3,2,0,11,ugala; teater; teatrikool; mikomägi; rapla; panso; voldemar
-1,4,0,0,0,1,5,1,0,11,ugala; teater; kriitika; intervjuu; teatrikool; rapla; mikomägi; panso; voldemar
-0,2,0,1,0,1,1,2,0,11,rapla; mikomägi; ugala; panso; kriitika; teatrikool
-0,1,0,0,0,0,2,2,0,11,mikomägi; rapla; ugala; panso; kriitika
-0,0,0,0,0,1,1,2,0,11,kriitika; voldemar; mikomägi; rapla
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,2,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,1,0,0,3,2,0,0,11,mikomägi; panso; rapla; ugala; teatrikool; voldemar; teater
+1,4,0,0,0,5,1,0,0,11,mikomägi; panso; rapla; ugala; kriitika; intervjuu; teatrikool; voldemar; teater
+0,2,0,1,0,1,2,0,0,11,mikomägi; kriitika; panso; ugala; rapla; teatrikool
+0,1,0,0,0,2,2,0,0,11,mikomägi; panso; kriitika; ugala; rapla
+0,0,0,0,0,1,2,0,0,11,mikomägi; kriitika; rapla

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,5,2,5,4,5,5,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
-4,5,5,3,5,4,6,5,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
-4,5,6,3,3,5,7,6,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
-3,5,7,3,3,7,7,7,4,15,töö; matti; loominguline; ots; tants; eesti; kirill; harri; reimann; fuu; prelüüd
-3,5,5,4,2,10,9,7,5,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-2,5,7,4,5,10,8,8,5,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-2,5,5,3,7,9,7,8,6,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-3,5,5,4,7,8,8,6,7,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-2,5,5,5,8,9,7,5,6,15,kirill; reimann; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-1,5,8,5,8,8,6,6,6,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
-2,5,7,5,9,8,6,7,8,15,kirill; reimann; prelüüd; töö; matti; loominguline; ots; eesti; harri; fuu; tants
+6,6,7,3,5,7,8,6,5,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; kirill; fuu; eesti; harri; klaverikontsert; ots; matti
+6,6,7,4,5,7,9,6,6,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; kirill; fuu; eesti; harri; klaverikontsert; ots; matti
+6,6,9,4,3,8,10,7,6,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; kirill; fuu; eesti; harri; klaverikontsert; ots; matti
+5,6,10,4,3,10,10,8,6,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+5,6,8,6,2,13,11,8,7,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+4,6,10,6,5,11,10,10,7,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+4,6,7,6,7,10,8,10,8,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+4,6,6,7,7,9,9,8,9,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+3,6,6,7,8,10,8,6,9,15,raudsepp; töö; sümfooniaorkester; reimann; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+1,6,9,7,8,8,7,7,9,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti
+3,6,8,7,9,8,7,9,11,15,raudsepp; töö; sümfooniaorkester; reimann; prelüüd; loominguline; tants; fuu; kirill; eesti; harri; klaverikontsert; ots; matti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,0,0,1,0,0,0,13,keeleoskus; keeleõppe; kolmkeelsus; euroopa; mitmekeelsus
-2,0,2,0,0,1,0,0,0,13,keeleoskus; keeleõppe; kolmkeelsus; euroopa; mitmekeelsus
-2,0,2,0,0,1,0,0,0,13,keeleoskus; keeleõppe; kolmkeelsus; euroopa; mitmekeelsus
-2,0,2,0,0,1,0,0,0,13,keeleoskus; keeleõppe; kolmkeelsus; euroopa; mitmekeelsus
-2,0,1,0,0,1,0,0,0,13,keeleoskus; kolmkeelsus; euroopa; mitmekeelsus
-2,0,1,0,0,1,0,1,0,13,keeleoskus; haridussüsteem; kolmkeelsus; euroopa
+2,0,2,0,0,1,0,0,0,13,kolmkeelsus; euroopa; mitmekeelsus; keeleoskus; keeleõppe
+2,0,2,0,0,1,0,0,0,13,kolmkeelsus; euroopa; mitmekeelsus; keeleoskus; keeleõppe
+2,0,2,0,0,1,0,0,0,13,kolmkeelsus; euroopa; mitmekeelsus; keeleoskus; keeleõppe
+2,0,2,0,0,1,0,0,0,13,kolmkeelsus; euroopa; mitmekeelsus; keeleoskus; keeleõppe
+2,0,1,0,0,1,0,0,0,13,kolmkeelsus; mitmekeelsus; keeleoskus; euroopa
+2,0,1,0,0,1,0,1,0,13,kolmkeelsus; haridussüsteem; euroopa; keeleoskus
 1,0,0,0,0,0,0,0,0,13,kolmkeelsus
-2,0,0,0,0,2,1,2,0,13,haridussüsteem; keeleõppe; kolmkeelsus; inglise; riigikeel
-1,0,0,0,0,2,0,1,0,13,inglise; riigikeel; kolmkeelsus
-2,0,1,0,0,0,0,0,0,13,keel; keeleõppe; kolmkeelsus
-1,0,1,0,0,1,0,0,0,13,keel; keeleõppe; inglise
+2,0,0,0,0,2,1,2,0,13,kolmkeelsus; haridussüsteem; inglise; riigikeel; keeleõppe
+1,0,0,0,0,2,0,1,0,13,kolmkeelsus; inglise; riigikeel
+2,0,1,0,0,0,0,0,0,13,kolmkeelsus; keel; keeleõppe
+1,0,1,0,0,1,0,0,0,13,inglise; keel; keeleõppe

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,3,0,15,jurist; eesti; reimo
-0,1,0,0,0,0,0,3,0,15,jurist; eesti; reimo
-0,1,0,0,0,0,0,3,0,15,jurist; eesti; reimo
-0,1,0,0,0,0,0,3,0,15,jurist; eesti; reimo
-0,1,0,0,0,0,0,2,0,15,eesti; reimo
-0,1,0,0,0,1,0,2,0,15,eesti; reimo
-0,1,0,0,0,1,0,2,0,15,eesti; reimo
-0,1,0,1,0,2,0,1,0,15,mets; demokraatia; reimo; eesti
-2,0,0,0,0,2,0,1,0,15,mets; reimo; geiaktivist; eesti
-0,0,0,0,0,0,0,2,0,15,abielu; eesti
-1,0,0,0,0,0,1,1,0,15,geiaktivist; ööklubi; abielu
+0,1,0,0,0,0,3,0,0,15,reimo; eesti; jurist
+0,1,0,0,0,0,3,0,0,15,reimo; eesti; jurist
+0,1,0,0,0,0,3,0,0,15,reimo; eesti; jurist
+0,1,0,0,0,0,3,0,0,15,reimo; eesti; jurist
+0,1,0,0,0,0,2,0,0,15,reimo; eesti
+0,1,0,0,0,0,2,0,0,15,reimo; eesti
+0,1,0,0,0,0,2,0,0,15,reimo; eesti
+0,1,0,1,0,0,1,0,0,15,demokraatia; eesti
+2,0,0,0,0,0,1,0,0,15,geiaktivist; eesti
+0,0,0,0,0,0,2,0,0,15,abielu; eesti
+1,0,0,0,0,1,1,0,0,15,abielu; geiaktivist; ööklubi

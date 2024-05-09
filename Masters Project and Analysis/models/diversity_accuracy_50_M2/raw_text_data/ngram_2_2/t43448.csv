@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,3,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-4,4,3,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-4,4,3,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-4,4,4,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-4,4,3,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-3,4,3,1,1,2,1,4,0,15,lübeck; tõnis; ivar; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-2,4,5,1,1,2,3,4,0,15,lübeck; ekspositsioon; tõnis; ivar; muusikute; kelder; suurgildi; ajaloomuuseum; hoone
-1,2,2,1,1,1,2,2,0,15,lübeck; suurgildi; ajaloomuuseum; hoone; tõnis; ivar; kelder
-1,2,2,3,1,1,2,1,0,15,lübeck; ajaloomuuseum; suurgildi; leimus; hoone; tõnis; ivar; kelder
-1,1,2,2,1,1,1,0,0,15,lübeck; ajaloomuuseum; suurgildi; tõnis; ivar
-0,3,3,1,1,1,2,1,0,15,ajaloomuuseum; suurgildi; hoone; tõnis; rõdu; ivar; kelder
+4,4,3,1,1,2,3,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+4,4,3,1,1,2,3,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+4,4,3,1,1,2,3,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+4,4,4,1,1,2,3,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+4,4,3,1,1,2,3,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+3,4,3,1,1,2,1,4,0,15,lübeck; kelder; ivar; leimus; suurgildi; tõnis; hoone; ajaloomuuseum
+2,4,5,1,1,2,3,4,0,15,lübeck; kelder; ivar; muusikute; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+1,2,2,1,1,1,2,2,0,15,suurgildi; lübeck; tõnis; hoone; ajaloomuuseum; kelder; ivar
+1,2,2,3,1,1,2,1,0,15,suurgildi; lübeck; tõnis; hoone; ajaloomuuseum; kelder; ivar; leimus
+1,1,2,2,1,1,1,0,0,15,lübeck; suurgildi; tõnis; ajaloomuuseum; ivar
+0,3,3,1,1,1,2,1,0,15,suurgildi; ivar; tõnis; hoone; ajaloomuuseum; kelder; rõdu

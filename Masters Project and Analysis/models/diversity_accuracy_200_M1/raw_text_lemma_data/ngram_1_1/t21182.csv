@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,2,6,2,0,1,17,rütm; janek; krull; hasso; jaan; kraav; urmas; vadi
-1,2,1,1,2,6,2,0,1,17,rütm; janek; krull; hasso; jaan; kraav; urmas; vadi
-1,2,3,1,2,6,1,0,1,17,rütm; krull; janek; hasso; jaan; kraav; urmas; vadi
-1,1,3,1,2,7,1,0,1,17,rütm; oidipus; krull; janek; hasso; nali; jaan; kraav; urmas; vadi
-0,1,2,1,2,4,1,0,1,17,oidipus; krull; janek; hasso; nali; jaan; kraav; urmas; vadi
-0,0,1,1,3,6,1,1,0,17,arne; oidipus; krull; janek; hasso; nali; jaan; vadi
-1,0,0,2,3,5,1,5,0,17,arne; rütm; oidipus; krull; hasso; nali; jaan; kraav; bänd; urmas
-0,0,2,2,1,4,1,3,0,17,arne; oidipus; krull; hasso; nali; bänd; vadi
-0,1,2,2,2,3,2,2,0,17,arne; oidipus; krull; hasso; nali; bänd; urmas; merilai
-0,2,1,2,1,2,2,2,1,17,arne; rütm; oidipus; hasso; nali; bänd; merilai; vadi
-0,3,2,2,1,2,2,2,1,17,arne; rütm; oidipus; janek; hasso; nali; kraav; bänd; merilai; vadi
+2,2,1,2,2,7,3,1,1,17,kraav; luulekogu; urmas; hasso; janek; vadi; jaan; polüfoonilisus; rütm; krull
+2,2,1,2,2,7,3,1,1,17,kraav; luulekogu; urmas; hasso; janek; vadi; jaan; polüfoonilisus; rütm; krull
+2,3,3,2,2,7,2,1,1,17,kraav; urmas; hasso; janek; vadi; polüfoonilisus; jaan; luulekogu; rütm; krull
+2,2,3,2,2,8,2,1,1,17,kraav; urmas; hasso; janek; vadi; polüfoonilisus; oidipus; jaan; nali; luulekogu; rütm; krull
+1,2,2,2,2,5,2,1,1,17,kraav; urmas; hasso; janek; vadi; polüfoonilisus; oidipus; jaan; nali; luulekogu; krull
+0,1,1,2,3,6,2,2,0,17,hasso; janek; vadi; polüfoonilisus; oidipus; jaan; nali; arne; luulekogu; krull
+2,2,0,3,3,5,1,5,0,17,kraav; bänd; urmas; hasso; polüfoonilisus; oidipus; jaan; nali; arne; luulekogu; rütm; krull
+0,1,2,2,1,5,2,3,0,17,bänd; luulekogu; hasso; vadi; oidipus; nali; arne; polüfoonilisus; krull
+0,3,2,2,2,3,2,2,1,17,merilai; bänd; urmas; hasso; polüfoonilisus; oidipus; nali; arne; luulekogu; krull
+0,2,1,2,1,2,2,2,2,17,merilai; bänd; hasso; vadi; oidipus; nali; arne; luulekogu; rütm
+0,3,2,2,1,2,3,2,2,17,kraav; merilai; bänd; hasso; janek; vadi; oidipus; nali; arne; luulekogu; rütm

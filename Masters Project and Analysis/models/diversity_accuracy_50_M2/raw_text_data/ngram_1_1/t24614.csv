@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,3,0,1,2,3,1,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; hägusus; keel
-3,0,3,0,1,2,3,1,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; hägusus; keel
-3,0,3,0,1,2,3,1,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; hägusus; keel
-3,0,2,0,1,2,3,1,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; hägusus; keel
-3,0,2,0,1,2,3,1,1,12,kõnekeel; isereguleeruv; eesti; indoeuroopa; hägusus; keel
-3,0,0,0,1,1,2,0,1,12,indoeuroopa; hägusus; kõnekeel; isereguleeruv; eesti
-2,0,2,0,1,0,1,0,1,12,hägusus; keel; isereguleeruv; eesti; alaväärsustunne
-1,0,1,1,1,0,1,1,1,12,keel; isereguleeruv; eesti; alaväärsustunne
-1,0,1,0,1,0,1,0,1,12,keel; isereguleeruv; eesti; alaväärsustunne
+3,0,3,0,1,2,3,1,1,12,indoeuroopa; eesti; kõnekeel; isereguleeruv; keel; hägusus
+3,0,3,0,1,2,3,1,1,12,indoeuroopa; eesti; kõnekeel; isereguleeruv; keel; hägusus
+3,0,3,0,1,2,3,1,1,12,indoeuroopa; eesti; kõnekeel; isereguleeruv; keel; hägusus
+3,0,2,0,1,2,3,1,1,12,indoeuroopa; eesti; kõnekeel; isereguleeruv; keel; hägusus
+3,0,2,0,1,2,3,1,1,12,indoeuroopa; eesti; kõnekeel; isereguleeruv; keel; hägusus
+3,0,0,0,1,1,2,0,1,12,indoeuroopa; isereguleeruv; eesti; hägusus; kõnekeel
+2,0,2,0,1,0,1,0,1,12,isereguleeruv; keel; alaväärsustunne; eesti; hägusus
+1,0,1,1,1,0,1,1,1,12,isereguleeruv; keel; alaväärsustunne; eesti
+1,0,1,0,1,0,1,0,1,12,isereguleeruv; keel; alaväärsustunne; eesti
 0,0,0,1,1,0,1,0,1,12,isereguleeruv; eesti; hägusus
-0,0,0,2,0,0,1,1,1,12,hägusus; keel; eesti; alaväärsustunne
+0,0,0,2,0,0,1,1,1,12,keel; alaväärsustunne; eesti; hägusus

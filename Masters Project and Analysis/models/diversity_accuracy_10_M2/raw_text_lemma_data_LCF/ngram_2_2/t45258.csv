@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,0,1,1,0,19,festival; euroopa; rudolf
-1,1,1,1,0,0,1,1,0,19,festival; euroopa; rudolf
-1,1,1,1,0,0,1,1,0,19,festival; euroopa; rudolf
-1,1,1,1,0,0,1,1,0,19,festival; euroopa; rudolf
-1,1,1,1,0,0,1,1,0,19,festival; euroopa; rudolf
-1,1,1,1,0,1,1,2,0,19,festival; usa; euroopa; rudolf
-0,0,2,0,0,2,1,2,0,19,festival; usa; kreeka; euroopa
-2,0,1,1,0,3,3,0,0,19,festival; elanikkond; abistamine; usa; bulgaaria; kreeka; euroopa
-2,0,0,1,0,0,3,1,0,19,festival; elanikkond; abistamine; liit; bulgaaria; kreeka; euroopa
-0,0,1,0,0,1,3,0,0,19,abistamine; liit; kreeka; euroopa
-0,0,1,1,0,0,2,0,0,19,usa; kreeka; euroopa
+1,1,3,1,0,0,1,1,0,19,muinaslaev; euroopa; rudolf; pärimusmuusika; festival
+1,1,3,1,0,0,1,1,0,19,muinaslaev; euroopa; rudolf; pärimusmuusika; festival
+1,1,3,1,0,0,1,1,0,19,muinaslaev; euroopa; rudolf; pärimusmuusika; festival
+1,1,3,1,0,0,1,1,0,19,muinaslaev; euroopa; rudolf; pärimusmuusika; festival
+1,1,3,1,0,0,1,1,0,19,muinaslaev; euroopa; rudolf; pärimusmuusika; festival
+1,1,2,2,0,1,1,2,0,19,euroopa; rudolf; pärimusmuusika; festival; usa
+0,0,2,1,0,2,1,2,0,19,euroopa; kreeka; pärimusmuusika; festival; usa
+2,0,1,1,0,3,3,0,0,19,abistamine; usa; kreeka; euroopa; bulgaaria; festival; elanikkond
+2,0,0,2,0,0,3,1,0,19,liit; euroopa; kreeka; abistamine; bulgaaria; pärimusmuusika; festival; elanikkond
+0,0,1,1,0,1,3,0,0,19,abistamine; euroopa; kreeka; liit; kosmosesüstik
+0,1,1,2,0,0,2,0,0,19,euroopa; kreeka; kliimamuutus; usa; kosmosesüstik

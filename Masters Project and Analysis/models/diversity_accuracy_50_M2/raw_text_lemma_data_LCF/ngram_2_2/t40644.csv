@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,0,3,1,0,0,1,1,19,phonyker; bach; frederik; lauto; andres; eesti
-4,1,0,3,1,0,0,1,1,19,phonyker; bach; frederik; lauto; andres; eesti
-4,1,0,3,1,0,0,1,1,19,phonyker; bach; frederik; lauto; andres; eesti
-4,1,0,3,1,0,0,1,1,19,phonyker; bach; frederik; lauto; andres; eesti
-4,1,0,3,1,0,0,1,1,19,phonyker; bach; frederik; lauto; andres; eesti
-2,1,0,3,1,5,1,3,1,19,andres; phonyker; mustonen; eesti; bach; filharmoonia; lauto; mari
-2,2,1,2,1,3,4,4,1,19,andres; phonyker; mustonen; eesti; bach; mari; filharmoonia; lauto; musicus
-3,2,1,3,0,5,4,2,2,19,phonyker; frederik; sing; mustonen; eesti; bach; mari; filharmoonia; musicus
-3,0,3,3,2,3,1,4,1,19,phonyker; andres; frederik; sing; mustonen; eesti; bach; mari; hortus
-1,0,2,2,3,2,3,4,1,19,phonyker; andres; frederik; sing; kalkun; mustonen; eesti; bach; mari; hortus
-0,1,1,1,3,3,1,3,1,19,phonyker; frederik; kalkun; eesti; bach; mari; hortus
+5,1,0,3,1,0,0,1,1,19,eesti; bach; phonyker; frederik; andres; lauto; kooriühing
+5,1,0,3,1,0,0,1,1,19,eesti; bach; phonyker; frederik; andres; lauto; kooriühing
+5,1,0,3,1,0,0,1,1,19,eesti; bach; phonyker; frederik; andres; lauto; kooriühing
+5,1,0,3,1,0,0,1,1,19,eesti; bach; phonyker; frederik; andres; lauto; kooriühing
+5,1,0,3,1,0,0,1,1,19,eesti; bach; phonyker; frederik; andres; lauto; kooriühing
+3,1,0,3,1,5,1,3,1,19,mari; eesti; bach; phonyker; mustonen; andres; lauto; kooriühing; filharmoonia
+3,2,1,2,1,4,4,5,1,19,mari; eesti; musicus; bach; phonyker; mustonen; andres; lauto; kooriühing; filharmoonia
+3,2,2,3,0,5,4,3,2,19,mari; eesti; musicus; bach; sing; phonyker; frederik; mustonen; kooriühing; filharmoonia
+3,0,3,3,2,3,2,4,1,19,mari; eesti; hortus; sing; bach; phonyker; frederik; mustonen; andres; kooriühing
+1,0,2,2,3,2,4,5,1,19,mari; eesti; hortus; sing; bach; phonyker; frederik; mustonen; andres; kooriühing; kalkun
+0,1,1,1,3,4,2,4,1,19,mari; eesti; hortus; bach; kammerkoor; phonyker; frederik; kooriühing; kalkun

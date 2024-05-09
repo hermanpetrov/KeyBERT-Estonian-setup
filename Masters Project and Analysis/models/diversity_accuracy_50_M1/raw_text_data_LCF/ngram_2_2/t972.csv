@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,3,3,0,4,4,8,0,15,eurolaul; eurovisioon; vaher; eesti; auhind; otsib; õigemeel; birgit; superstaari
-2,0,3,3,0,4,4,8,0,15,eurolaul; eurovisioon; vaher; eesti; auhind; otsib; õigemeel; birgit; superstaari
-2,0,3,3,0,4,4,8,0,15,eurolaul; eurovisioon; vaher; eesti; auhind; otsib; õigemeel; birgit; superstaari
-3,0,3,3,0,4,4,8,0,15,eurovisioon; eurolaul; vaher; eesti; auhind; otsib; õigemeel; birgit; superstaari
-3,0,3,3,0,3,2,6,1,15,eurovisioon; eurolaul; auhind; õigemeel; birgit; superstaari
-3,2,1,3,0,3,2,6,1,15,eurovisioon; eurolaul; eesti; auhind; õigemeel; birgit; superstaari
-4,1,1,1,0,2,3,6,1,15,eurovisioon; vaher; eesti; eurolaul; auhind; margus; õigemeel; birgit; superstaari
-4,2,1,3,0,2,3,4,1,15,eurovisioon; eesti; auhind; margus; õigemeel; birgit
-3,1,1,3,0,1,2,4,1,15,eurovisioon; eesti; auhind; õigemeel; birgit; superstaari
-3,0,1,3,0,1,2,5,1,15,eurolaul; eesti; laul; õigemeel; birgit; superstaari
-4,0,1,3,1,1,2,5,1,15,eurovisioon; eesti; auhind; margus; kerli; õigemeel; birgit; superstaari
+2,0,3,3,0,4,8,0,0,15,eesti; vaher; superstaari; eurovisioon; birgit; õigemeel; otsib; auhind; eurolaul
+2,0,3,3,0,4,8,0,0,15,eesti; vaher; superstaari; eurovisioon; birgit; õigemeel; otsib; auhind; eurolaul
+2,0,3,3,0,4,8,0,0,15,eesti; vaher; superstaari; eurovisioon; birgit; õigemeel; otsib; auhind; eurolaul
+3,0,3,3,0,4,8,0,0,15,eesti; vaher; superstaari; eurovisioon; birgit; õigemeel; otsib; auhind; eurolaul
+3,0,3,3,0,2,6,1,0,15,superstaari; eurovisioon; birgit; õigemeel; auhind; eurolaul
+3,2,1,3,0,2,6,1,0,15,eesti; superstaari; eurovisioon; birgit; õigemeel; auhind; eurolaul
+4,1,1,1,0,3,6,1,0,15,eesti; vaher; eurovisioon; superstaari; margus; birgit; õigemeel; auhind; eurolaul
+4,2,1,3,0,3,4,1,0,15,eesti; eurovisioon; margus; birgit; õigemeel; auhind
+3,1,1,3,0,2,4,1,0,15,eesti; superstaari; eurovisioon; birgit; õigemeel; auhind
+3,0,1,3,0,2,5,1,0,15,eesti; superstaari; birgit; õigemeel; laul; eurolaul
+4,0,1,3,1,2,5,1,0,15,eesti; eurovisioon; superstaari; margus; birgit; õigemeel; kerli; auhind

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,0,2,0,13,mõisaproua; kursus; mõis
-0,0,1,0,0,1,0,2,0,13,mõisaproua; kursus; mõis
+0,0,1,0,0,1,0,2,0,13,mõisaproua; mõis; kursus
+0,0,1,0,0,1,0,2,0,13,mõisaproua; mõis; kursus
 0,0,0,0,0,1,0,2,1,13,mõisaproua; mõis; ülikool
 0,0,0,0,0,1,0,2,1,13,mõisaproua; mõis; ülikool
 0,0,0,0,0,1,0,2,1,13,mõisaproua; mõis; ülikool
-0,0,0,0,0,0,0,1,1,13,mõisaproua; ülikool
+0,0,0,0,0,0,0,1,1,13,ülikool; mõisaproua
 1,0,0,0,0,0,0,0,1,13,concordia; ülikool
-1,1,0,0,0,0,1,0,1,13,concordia; mõis; ülikool
-2,1,0,4,0,0,0,0,1,13,ülikool; sidejaoskond; concordia; arenduskeskus; kursus; mõis
-2,1,0,1,0,0,0,0,1,13,concordia; ülikool; mõis; sidejaoskond
-2,0,1,1,0,0,0,0,1,13,concordia; mõisaproua; ülikool; sidejaoskond
+1,1,0,0,0,0,1,0,1,13,concordia; ülikool; mõis
+2,1,0,4,0,0,0,0,1,13,sidejaoskond; arenduskeskus; concordia; ülikool; mõis; kursus
+2,1,0,1,0,0,0,0,1,13,concordia; mõis; sidejaoskond; ülikool
+2,0,1,1,0,0,0,0,1,13,concordia; mõisaproua; sidejaoskond; ülikool

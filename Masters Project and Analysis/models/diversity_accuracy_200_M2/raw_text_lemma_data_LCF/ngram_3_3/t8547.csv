@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,6,1,3,4,4,4,2,5,13,muusika; julgus; puhkus; liivia; tindur; president
-4,6,2,3,4,4,5,2,5,13,muusika; julgus; puhkus; liivia; tindur; president
-4,6,2,3,4,5,5,3,5,13,muusika; julgus; puhkus; liivia; tindur; president
-4,5,2,3,4,6,6,3,5,13,muusika; julgus; puhkus; liivia; tindur; president
-4,5,3,3,3,6,5,4,5,13,muusika; julgus; puhkus; liivia; tindur; president
-4,5,4,3,3,4,6,3,5,13,muusika; julgus; puhkus; liivia; tindur; president
-5,4,2,6,4,4,6,4,5,13,muusika; julgus; puhkus; liivia; tindur; president
-3,5,5,5,5,5,4,5,5,13,muusika; julgus; puhkus; liivia; tindur; president
-5,5,4,5,6,4,4,5,4,13,tindur; muusika; julgus; puhkus; liivia; president
-4,5,6,4,6,5,4,5,5,13,tindur; muusika; julgus; puhkus; liivia; president
-6,5,5,4,4,6,4,5,4,13,muusika; julgus; puhkus; liivia; tindur; president
+7,10,3,5,4,7,7,5,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+7,10,4,5,4,7,8,5,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+7,10,4,5,4,8,7,7,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+7,9,4,6,4,10,8,7,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+7,8,6,6,3,9,8,8,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+6,8,7,7,3,8,9,7,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+8,7,6,10,6,7,10,8,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; muusika; haapsalu
+5,8,9,8,7,9,7,9,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+8,8,8,9,9,8,7,9,7,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika
+5,9,10,7,10,7,7,9,8,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; muusika; haapsalu
+9,9,9,7,7,9,7,8,7,13,puhkus; julgus; vastuvõtt; tindur; liivia; vaimuinimene; moekunstnik; president; haapsalu; muusika

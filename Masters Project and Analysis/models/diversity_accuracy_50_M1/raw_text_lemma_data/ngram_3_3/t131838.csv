@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,1,2,2,4,3,3,2,17,ringo; ameerika; brian; mccartney; biitel; bbc; lennon; john; fänn; maania; epstein
-6,3,1,2,2,4,3,3,2,17,ringo; ameerika; brian; mccartney; biitel; bbc; lennon; john; fänn; maania; epstein
-6,3,1,2,2,4,3,3,2,17,ringo; ameerika; brian; mccartney; biitel; bbc; lennon; john; fänn; maania; epstein
-6,3,1,2,2,4,3,4,2,17,ringo; ameerika; brian; mccartney; biitel; bbc; lennon; john; fänn; maania; epstein
-6,3,1,2,2,4,2,5,2,17,ringo; ameerika; brian; mccartney; biitel; bbc; lennon; john; fänn; maania; epstein
-5,3,3,2,2,4,3,6,2,17,ringo; ameerika; brian; mccartney; john; biitel; lennon; bbc; fänn; maania; epstein
-7,4,3,4,3,5,7,5,2,17,ringo; ameerika; ivo; brian; biitel; bbc; lennon; mccartney; vello; john; fänn; salumets; maania; epstein
-7,5,1,6,3,4,5,5,2,17,ameerika; ivo; ringo; linn; brian; biitel; bbc; john; lennon; mccartney; fänn; maania; epstein
-4,5,3,6,1,5,4,4,2,17,ameerika; ivo; ringo; linn; brian; mccartney; john; lennon; biitel; bbc; fänn; maania; epstein
-0,7,5,6,1,3,4,4,4,17,ameerika; ivo; ringo; linn; brian; mccartney; bbc; lennon; biitel; john; fänn; maania; epstein
-1,1,7,5,3,5,4,4,3,17,ameerika; ringo; ivo; biitel; john; lennon; mccartney; bbc; fänn; salumets; maania; epstein
+6,3,1,2,2,4,3,3,2,17,maania; lennon; epstein; fänn; biitel; brian; ameerika; john; ringo; mccartney; bbc
+6,3,1,2,2,4,3,3,2,17,maania; lennon; epstein; fänn; biitel; brian; ameerika; john; ringo; mccartney; bbc
+6,3,1,2,2,4,3,3,2,17,maania; lennon; epstein; fänn; biitel; brian; ameerika; john; ringo; mccartney; bbc
+6,3,1,2,2,5,3,4,2,17,maania; lennon; epstein; fänn; biitel; brian; ameerika; john; ringo; mccartney; bbc; rokkmuusik
+6,3,1,2,2,5,2,5,2,17,maania; lennon; epstein; fänn; biitel; brian; ameerika; john; ringo; mccartney; bbc; rokkmuusik
+5,3,4,3,2,5,3,6,2,17,maania; lennon; unenägu; fänn; epstein; biitel; brian; ameerika; john; ringo; mccartney; bbc; rokkmuusik
+7,4,3,4,3,6,7,5,2,17,lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; epstein; brian; biitel; fänn; john; ringo; mccartney; ivo
+7,5,1,6,3,4,5,5,2,17,maania; ivo; lennon; epstein; brian; biitel; fänn; ameerika; john; ringo; mccartney; bbc; linn
+4,5,3,7,1,5,4,4,2,17,maania; ivo; lennon; epstein; brian; biitel; fänn; ameerika; john; ringo; mccartney; bbc; rokkmuusik; linn
+0,7,5,6,1,4,4,4,4,17,maania; ivo; lennon; unenägu; fänn; epstein; brian; biitel; ameerika; john; ringo; mccartney; bbc; linn
+2,2,8,5,3,6,4,5,3,17,lennon; ameerika; salumets; bbc; rokkmuusik; maania; unenägu; fänn; epstein; biitel; john; ringo; mccartney; ivo

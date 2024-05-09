@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,0,0,0,14,mägi; madeira
-0,0,2,0,0,0,0,0,0,14,mägi; madeira
-0,0,2,0,0,0,0,0,0,14,mägi; madeira
+0,0,2,0,0,0,0,0,0,14,madeira; mägi
+0,0,2,0,0,0,0,0,0,14,madeira; mägi
+0,0,2,0,0,0,0,0,0,14,madeira; mägi
 0,0,1,0,0,0,0,0,0,14,madeira
 1,0,1,0,0,0,0,0,0,14,õhutramm; madeira
 0,0,1,0,0,0,0,0,0,14,madeira
 1,0,0,0,0,0,0,0,0,14,õhutramm
-1,0,0,0,0,1,1,2,0,14,porto; madeira; õhutramm; puuvili
-0,0,0,0,0,1,0,0,0,14,madeira
-0,0,0,0,0,1,0,0,0,14,madeira
-0,0,1,0,0,1,0,0,0,14,porto; madeira
+1,0,0,0,0,1,2,0,0,14,puuvili; õhutramm; porto
+0,0,0,0,0,0,0,0,0,14,
+0,0,0,0,0,0,0,0,0,14,
+0,0,1,0,0,0,0,0,0,14,porto

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,0,0,16,sümfooniaorkester; akustika
-0,0,1,0,0,1,1,0,0,16,sümfooniaorkester; akustika
-0,0,1,0,0,1,1,0,0,16,sümfooniaorkester; akustika
-0,0,1,0,0,1,1,0,0,16,sümfooniaorkester; akustika
-0,0,1,0,0,1,1,0,1,16,sümfooniaorkester; eesti; akustika
-0,0,1,0,0,1,1,0,1,16,sümfooniaorkester; eesti; akustika
-0,0,1,0,0,1,0,0,1,16,sümfooniaorkester; eesti; akustika
-1,0,1,0,0,1,0,0,1,16,sümfooniaorkester; eesti; akustika
-0,0,1,0,0,0,0,0,1,16,eesti; akustika
-0,0,1,0,0,1,0,0,1,16,festival; eesti; akustika
-0,0,1,0,0,2,0,0,1,16,sümfooniaorkester; eesti; festival; akustika
+0,0,1,0,0,1,1,0,0,16,akustika; sümfooniaorkester
+0,0,1,0,0,1,1,0,0,16,akustika; sümfooniaorkester
+0,0,1,0,0,1,1,0,0,16,akustika; sümfooniaorkester
+0,0,1,0,0,1,1,0,0,16,akustika; sümfooniaorkester
+0,0,1,0,0,1,1,0,1,16,akustika; sümfooniaorkester; eesti
+0,0,1,0,0,1,1,0,1,16,akustika; sümfooniaorkester; eesti
+0,0,1,0,0,1,0,0,1,16,akustika; sümfooniaorkester; eesti
+1,0,1,0,0,1,0,0,1,16,akustika; sümfooniaorkester; eesti
+0,0,1,0,0,0,0,0,1,16,akustika; eesti
+0,0,1,0,0,1,0,0,1,16,akustika; eesti; festival
+0,0,1,0,0,2,0,0,1,16,akustika; sümfooniaorkester; eesti; festival

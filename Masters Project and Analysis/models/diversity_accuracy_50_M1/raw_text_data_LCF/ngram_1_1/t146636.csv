@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,4,0,1,0,1,2,1,12,surmapattu; paul; seitse; ahnus; toomas
-0,1,4,0,1,0,1,2,1,12,surmapattu; paul; seitse; ahnus; toomas
-0,1,4,0,1,0,1,2,1,12,surmapattu; paul; seitse; ahnus; toomas
-0,1,2,0,1,0,1,2,1,12,surmapattu; paul; seitse; ahnus; toomas
-0,1,2,0,1,0,1,2,1,12,surmapattu; paul; seitse; ahnus; toomas
-0,1,2,0,1,0,1,3,1,12,surmapattu; paul; süü; seitse; ahnus; toomas
-0,1,2,0,1,2,2,3,1,12,surmapattu; paul; toomas; süü; seitse; ahnus
-0,1,1,1,1,2,1,2,1,12,paul; süü; seitse; ahnus; toomas
-0,1,1,1,1,2,1,2,1,12,paul; süü; seitse; ahnus; toomas
-0,2,1,1,0,2,1,2,1,12,paul; süü; seitse; ahnus; toomas
-0,1,2,1,1,2,1,2,1,12,paul; süü; seitse; ahnus; toomas
+0,1,4,0,1,1,2,1,0,12,toomas; seitse; surmapattu; paul; ahnus
+0,1,4,0,1,1,2,1,0,12,toomas; seitse; surmapattu; paul; ahnus
+0,1,4,0,1,1,2,1,0,12,toomas; seitse; surmapattu; paul; ahnus
+0,1,2,0,1,1,2,1,0,12,seitse; surmapattu; ahnus; paul; toomas
+0,1,2,0,1,1,2,1,0,12,seitse; surmapattu; ahnus; paul; toomas
+0,1,2,0,1,1,3,1,0,12,seitse; surmapattu; süü; ahnus; paul; toomas
+0,1,2,0,1,2,3,1,0,12,seitse; surmapattu; süü; ahnus; paul; toomas
+0,1,1,1,1,1,2,1,0,12,seitse; ahnus; paul; toomas
+0,1,1,1,1,1,2,1,0,12,seitse; ahnus; paul; toomas
+0,2,1,1,0,1,2,1,0,12,seitse; süü; ahnus; paul; toomas
+0,1,2,1,1,1,2,1,0,12,seitse; süü; ahnus; paul; toomas

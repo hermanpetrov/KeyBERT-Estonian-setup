@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-2,1,1,1,0,0,2,0,0,17,adolf; valgustusajastu; saksamaa; hitler; berliin
-1,0,1,1,0,0,1,2,0,17,valgustusajastu; saksamaa; sõda; berliin
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+2,1,1,1,0,2,0,0,0,17,berliin; valgustusajastu; adolf; saksamaa; hitler
+1,0,1,1,0,1,2,0,0,17,berliin; valgustusajastu; saksamaa; sõda
 1,0,1,0,0,0,0,0,0,17,saksamaa; üliõpilasrahutused
-0,0,1,0,0,0,1,1,0,17,saksamaa; natsionaalsotsialistlik; berliin
-0,0,1,0,0,0,0,0,1,17,saksamaa; bismarck
-2,0,1,0,0,0,0,0,0,17,saksamaa; bismarck; üliõpilasrahutused
+0,0,1,0,0,1,1,0,0,17,saksamaa; berliin; natsionaalsotsialistlik
+0,0,1,0,0,0,0,1,0,17,saksamaa; bismarck
+2,0,1,0,0,0,0,0,0,17,saksamaa; üliõpilasrahutused; bismarck

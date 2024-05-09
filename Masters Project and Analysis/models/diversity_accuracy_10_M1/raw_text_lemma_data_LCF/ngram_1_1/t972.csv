@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,1,1,0,0,15,birgit
 0,0,1,0,0,1,1,0,0,15,birgit
 0,0,1,0,0,1,1,0,0,15,birgit
-0,0,1,0,0,1,1,0,0,15,birgit
-0,0,1,0,0,1,1,0,0,15,birgit
-0,0,0,0,0,1,1,0,0,15,birgit
-0,0,0,0,0,1,1,1,0,15,birgit; eurovisioon
-0,0,1,0,0,1,1,1,0,15,birgit; eurovisioon
-0,0,1,0,0,1,1,1,0,15,birgit; eurovisioon
+0,0,1,0,0,2,1,0,0,15,auhind; birgit
+0,0,1,0,0,2,1,1,0,15,õigemeel; auhind; birgit
+0,0,0,0,0,2,1,1,0,15,õigemeel; auhind; birgit
+0,0,1,0,0,2,1,2,0,15,õigemeel; eurovisioon; auhind; birgit
+0,0,2,0,0,2,1,3,0,15,eurovisioon; birgit; õigemeel; auhind; eurolaul
+0,0,2,0,0,1,1,1,0,15,eurovisioon; auhind; birgit

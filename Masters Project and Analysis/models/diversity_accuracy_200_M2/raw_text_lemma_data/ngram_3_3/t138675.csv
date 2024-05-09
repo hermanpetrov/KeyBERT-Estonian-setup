@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,2,3,3,4,3,3,11,kiik; loodus; jaanitul; kolhoos; austamine
-2,3,2,4,3,3,3,3,3,11,loodus; kiik; jaanitul; kolhoos; austamine
-2,3,2,4,3,4,3,3,3,11,loodus; kiik; jaanitul; kolhoos; austamine
-2,3,3,3,3,4,4,3,3,11,kiik; loodus; jaanitul; kolhoos; austamine
-2,4,3,3,3,3,3,2,3,11,loodus; kiik; jaanitul; kolhoos; austamine
-4,5,3,4,2,4,3,4,3,11,kiik; loodus; jaanitul; kolhoos; austamine
-5,3,3,5,3,4,3,4,3,11,kiik; loodus; jaanitul; kolhoos; austamine
-4,3,4,3,3,3,3,4,3,11,kiik; loodus; jaanitul; kolhoos; austamine
-4,3,3,2,3,4,3,4,2,11,loodus; kiik; jaanitul; kolhoos; austamine
-4,3,3,2,4,4,4,4,4,11,kiik; loodus; jaanitul; kolhoos; austamine
-4,3,2,2,4,4,3,4,4,11,kiik; loodus; jaanitul; kolhoos; austamine
+6,6,4,6,5,5,7,5,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+6,6,4,8,5,6,6,7,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+6,6,4,8,5,8,6,7,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+6,6,5,7,4,8,7,7,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+6,8,6,7,4,7,6,6,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+6,8,6,7,3,7,6,8,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+7,7,7,9,4,7,7,8,6,11,loodus; jaanitul; kiik; viljasaak; austamine; lauluväljak; õlletegu; kolhoos; jaanipidu; vanarahvas
+7,7,8,6,5,7,7,8,7,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+8,5,4,5,4,5,6,7,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+9,6,5,5,6,6,7,8,8,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas
+9,5,5,4,6,6,5,6,6,11,viljasaak; austamine; lauluväljak; õlletegu; kolhoos; loodus; jaanipidu; jaanitul; kiik; vanarahvas

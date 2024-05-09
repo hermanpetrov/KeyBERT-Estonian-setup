@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
-0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
-0,0,3,1,1,0,0,0,0,17,laidoner; probleem; sortimine; veiko
-0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
-0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
-0,0,2,1,1,0,0,0,0,17,probleem; laidoner; sortimine; veiko
-1,0,2,1,1,1,0,0,0,17,jäätmed; laidoner; probleem; üürnik; veiko
-1,0,2,0,1,0,1,0,0,17,jäätmed; laidoner; riina; probleem; gruusia
-1,0,4,1,1,0,1,0,0,17,jäätmed; gruusia; laidoner; riina; sortimine; probleem; üürnik; eentalu
-1,0,2,3,1,1,1,0,0,17,jäätmed; gruusia; laidoner; õunpuu; muuseum; probleem; sortimine; eentalu
-2,0,0,3,1,1,1,0,0,17,jäätmed; õunpuu; muuseum; probleem; sortimine; gruusia
+1,0,3,1,1,1,1,0,0,17,probleem; veiko; konkurentsivõime; venemaa; laidoner; rahukõnelus; sortimine
+1,0,3,1,1,1,1,0,0,17,probleem; veiko; konkurentsivõime; venemaa; laidoner; rahukõnelus; sortimine
+1,0,3,1,1,1,1,0,0,17,probleem; veiko; konkurentsivõime; venemaa; laidoner; rahukõnelus; sortimine
+1,0,2,1,1,1,1,1,0,17,veiko; probleem; konkurentsivõime; venemaa; laidoner; rahukõnelus; sortimine
+1,0,3,1,1,2,1,1,0,17,konkurentsivõime; veiko; probleem; venemaa; laidoner; rahukõnelus; sortimine
+1,0,3,1,1,2,1,1,0,17,konkurentsivõime; veiko; probleem; venemaa; laidoner; rahukõnelus; sortimine
+3,0,3,1,1,3,1,2,0,17,venemaa; laidoner; rahukõnelus; veiko; konkurentsivõime; jäätmed; üürnik; probleem
+2,0,2,0,1,2,3,2,0,17,venemaa; gruusia; laidoner; rahukõnelus; riina; konkurentsivõime; jäätmed; probleem
+2,0,4,1,1,3,3,2,0,17,venemaa; gruusia; laidoner; eentalu; sortimine; rahukõnelus; riina; konkurentsivõime; jäätmed; üürnik; probleem
+2,0,3,3,1,4,3,2,0,17,venemaa; gruusia; laidoner; eentalu; sortimine; rahukõnelus; konkurentsivõime; jäätmed; õunpuu; muuseum; probleem
+3,0,1,3,1,3,3,2,0,17,gruusia; rahukõnelus; konkurentsivõime; jäätmed; õunpuu; probleem; muuseum; sortimine

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,3,1,0,2,2,3,2,12,tammsaare; elmo; kontsert; kapitalism; teater; utoopia; nüganen
-2,0,3,1,0,2,2,3,2,12,tammsaare; elmo; kontsert; kapitalism; teater; utoopia; nüganen
-2,0,3,1,0,2,2,3,2,12,tammsaare; elmo; kontsert; kapitalism; teater; utoopia; nüganen
-2,0,2,1,0,2,2,3,2,12,tammsaare; elmo; kontsert; kapitalism; teater; utoopia; nüganen
-1,0,3,1,0,2,2,3,2,12,tammsaare; elmo; kontsert; kapitalism; teater; utoopia; nüganen
-0,1,4,2,0,1,3,3,2,12,tammsaare; kapitalism; kontsert; teater; elmo; klassika; utoopia; nüganen
-2,3,2,0,0,2,3,3,2,12,tammsaare; kapitalism; kontsert; iseseisvuspäeva; elmo; tsivilisatsioon; utoopia; nüganen
-2,1,2,0,0,4,4,3,2,12,tammsaare; kapitalism; kontsert; iseseisvuspäeva; stoppard; elmo; klassika; revolutsioon; nüganen
-0,2,3,0,0,3,3,2,2,12,tammsaare; kapitalism; kontsert; iseseisvuspäeva; stoppard; elmo; nüganen
-0,1,1,0,0,4,3,3,2,12,tammsaare; iseseisvuspäeva; stoppard; elmo; kontsert; kapitalism; nüganen
-0,1,1,1,0,5,1,3,2,12,tammsaare; kapitalism; kontsert; stoppard; elmo; tsivilisatsioon; utoopia; nüganen
+2,0,3,1,0,2,3,2,0,12,nüganen; utoopia; kapitalism; elmo; tammsaare; teater; kontsert
+2,0,3,1,0,2,3,2,0,12,nüganen; utoopia; kapitalism; elmo; tammsaare; teater; kontsert
+2,0,3,1,0,2,3,2,0,12,nüganen; utoopia; kapitalism; elmo; tammsaare; teater; kontsert
+2,0,2,1,0,2,3,2,0,12,nüganen; utoopia; kapitalism; elmo; tammsaare; teater; kontsert
+1,0,3,1,0,2,3,2,0,12,elmo; utoopia; kapitalism; nüganen; tammsaare; teater; kontsert
+0,1,4,2,0,3,3,2,0,12,elmo; nüganen; kontsert; kapitalism; utoopia; tammsaare; teater; klassika
+2,3,2,0,0,3,3,2,0,12,tsivilisatsioon; elmo; nüganen; iseseisvuspäeva; kapitalism; utoopia; tammsaare; kontsert
+2,1,2,0,0,4,3,2,0,12,stoppard; elmo; nüganen; iseseisvuspäeva; kapitalism; klassika; tammsaare; kontsert
+0,2,3,0,0,3,2,2,0,12,nüganen; stoppard; kapitalism; elmo; kontsert; tammsaare; iseseisvuspäeva
+0,1,1,0,0,3,3,2,0,12,nüganen; stoppard; kapitalism; elmo; kontsert; tammsaare; iseseisvuspäeva
+0,1,1,1,0,1,3,2,0,12,nüganen; utoopia; elmo; kontsert; tammsaare; kapitalism

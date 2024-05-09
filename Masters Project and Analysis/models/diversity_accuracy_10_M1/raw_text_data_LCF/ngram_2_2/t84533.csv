@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,0,0,0,0,0,0,16,helme; sõda; kirjanik; peeter
-0,1,3,0,0,0,0,0,0,16,helme; sõda; kirjanik; peeter
-0,1,3,0,0,0,0,0,0,16,helme; sõda; kirjanik; peeter
-0,1,4,0,0,0,0,0,0,16,kirjanik; helme; sõda; peeter
-0,1,4,0,0,0,0,0,0,16,kirjanik; helme; sõda; peeter
-0,1,3,0,0,0,0,0,0,16,helme; sõda; kirjanik; peeter
-0,2,2,1,0,0,1,0,0,16,film; helme; sõda; peeter
-0,1,2,0,0,0,0,2,0,16,film; kirjanik; helme; sõda; peeter
-0,1,1,0,0,0,0,3,0,16,film; kirjanik; hemingway; helme
-0,0,3,0,0,1,0,1,0,16,hemingway; helme; peeter
-0,0,1,0,0,1,0,2,0,16,hemingway; film; helme; kirjanik
+0,1,3,0,0,0,0,0,0,16,peeter; helme; kirjanik; sõda
+0,1,3,0,0,0,0,0,0,16,peeter; helme; kirjanik; sõda
+0,1,3,0,0,0,0,0,0,16,peeter; helme; kirjanik; sõda
+0,1,4,0,0,0,0,0,0,16,peeter; kirjanik; helme; sõda
+0,1,4,0,0,0,0,0,0,16,peeter; kirjanik; helme; sõda
+0,1,3,0,0,0,0,0,0,16,peeter; helme; kirjanik; sõda
+0,2,2,1,0,1,0,0,0,16,film; peeter; helme; sõda
+0,1,2,0,0,0,2,0,0,16,film; peeter; helme; kirjanik; sõda
+0,1,1,0,0,0,3,0,0,16,film; kirjanik; helme; hemingway
+0,0,3,0,0,0,1,0,0,16,peeter; hemingway; helme
+0,0,1,0,0,0,2,0,0,16,film; hemingway; kirjanik

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,1,2,3,1,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-2,3,1,2,3,1,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-2,3,1,2,3,1,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-2,3,2,2,3,1,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-2,3,2,2,3,1,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-3,3,2,2,3,2,2,3,1,11,jaanipäev; õlu; kägu; jaanipidu; loodus; saaremaa; jaanituli; noorsoofestival
-1,2,1,1,2,1,0,3,0,11,jaanipäev; õlu; jaanipidu; saaremaa; noorsoofestival; jaanituli
-2,1,0,1,1,2,0,3,0,11,jaanipäev; õlu; kägu; jaanipidu; saaremaa; jaanituli; noorsoofestival
-2,0,1,0,1,2,0,2,1,11,saaremaa; noorsoofestival; jaanituli; õlu; jaanipidu
-2,0,2,1,0,1,0,1,1,11,saaremaa; jaanituli; noorsoofestival; õlu; jaanipidu
-1,1,2,1,0,0,0,1,1,11,saaremaa; noorsoofestival; õlu; jaanipidu
+2,3,1,2,3,1,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,3,1,2,3,1,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,3,1,2,3,1,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,3,2,2,3,1,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,3,2,2,3,1,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+3,3,2,2,3,2,2,3,1,11,õlu; kägu; saaremaa; loodus; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+1,2,1,1,2,1,0,3,0,11,õlu; saaremaa; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,1,0,1,1,2,0,3,0,11,õlu; kägu; saaremaa; jaanipidu; jaanipäev; jaanituli; noorsoofestival
+2,0,1,0,1,2,0,2,1,11,õlu; saaremaa; jaanipidu; jaanituli; noorsoofestival
+2,0,2,1,0,1,0,1,1,11,õlu; jaanipidu; noorsoofestival; jaanituli; saaremaa
+1,1,2,1,0,0,0,1,1,11,õlu; saaremaa; jaanipidu; noorsoofestival

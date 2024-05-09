@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,4,5,4,5,4,5,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-6,6,4,5,5,5,4,5,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-6,6,4,5,5,6,3,7,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-6,5,4,5,5,6,3,6,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-5,5,5,5,5,5,4,6,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-5,6,6,5,6,5,5,6,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-6,6,6,5,5,7,6,6,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-5,3,4,6,5,6,5,7,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-7,5,5,6,6,7,7,6,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-7,6,4,7,6,5,6,5,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
-7,7,4,7,6,5,7,5,5,13,komöödia; vigane; kitzberg; kirjandus; realism; pruut; vilde; kriitiline
+9,8,4,8,5,8,7,6,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+9,9,4,8,6,8,7,7,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+8,9,4,8,6,9,6,10,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+8,8,5,8,5,9,6,9,7,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+7,8,7,8,6,8,7,9,7,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+7,9,8,8,7,8,7,8,7,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+9,9,9,8,6,10,8,8,7,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+8,6,6,7,5,8,7,9,7,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+9,7,7,9,6,9,9,9,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+8,7,6,10,6,7,7,8,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde
+8,9,6,9,6,7,8,7,6,13,pruut; realism; laulumäng; ärkamisaeg; vigane; kirjandus; kosjasõit; kriitiline; kitzberg; komöödia; vilde

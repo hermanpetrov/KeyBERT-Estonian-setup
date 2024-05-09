@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,karistus; andmete; aktsia
-1,1,0,0,1,0,0,1,0,11,facebook; karistus; andmete; aktsia
-1,1,0,0,1,0,0,1,0,11,facebook; suhkrutrahv; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,suhkrutrahv; andmete; aktsia
-0,1,0,0,1,0,0,1,0,11,trahv; andmete; aktsia
-0,0,0,0,1,0,0,1,1,11,andmete; suhkrutrahv
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; karistus
+1,1,0,0,1,0,1,0,0,11,andmete; aktsia; facebook; karistus
+1,1,0,0,1,0,1,0,0,11,andmete; aktsia; suhkrutrahv; facebook
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; suhkrutrahv
+0,1,0,0,1,0,1,0,0,11,andmete; aktsia; trahv
+0,0,0,0,1,0,1,1,0,11,andmete; suhkrutrahv

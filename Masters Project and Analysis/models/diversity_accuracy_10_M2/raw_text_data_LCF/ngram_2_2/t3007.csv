@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-2,0,0,0,0,0,1,1,2,15,linnapea; george; palts; bush
-0,0,0,1,0,0,1,1,2,15,linnapea; bush; george
-1,0,0,0,0,0,0,1,2,15,linnapea; bush; george
-0,0,0,0,0,0,1,0,2,15,linnapea; bush; george
-0,0,0,0,1,0,1,0,0,15,linnapea; george
-0,0,1,0,1,1,1,0,0,15,grabbi; linnapea; george; haigekassa
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+2,0,0,0,0,1,1,2,0,15,palts; george; bush; linnapea
+0,0,0,1,0,1,1,2,0,15,george; bush; linnapea
+1,0,0,0,0,0,1,2,0,15,george; bush; linnapea
+0,0,0,0,0,1,0,2,0,15,george; bush; linnapea
+0,0,0,0,1,1,0,0,0,15,george; linnapea
+0,0,1,0,1,1,0,0,0,15,george; linnapea; grabbi

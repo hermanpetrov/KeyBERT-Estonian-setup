@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; uus; martin
-5,4,4,5,5,4,4,7,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; soolariiul; uus; martin
-6,5,4,7,5,4,4,8,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; soolariiul; uus; martin
-8,4,4,9,5,4,5,8,3,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; soolariiul; tuba; ilmar; uus; martin
-6,4,5,8,5,5,5,9,3,14,kõrvalised; suhkrusaiapidu; tomusk; soolariiul; ilmar; uus; maja; isikud; tuba; martin
-7,4,5,6,5,5,4,8,4,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; soolariiul; uus; martin
-7,4,5,4,5,5,4,7,4,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; tuba; ilmar; soolariiul; uus; martin
+5,4,4,5,5,4,7,3,0,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+5,4,4,5,5,4,7,3,0,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+5,4,4,5,5,4,7,3,0,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+5,4,4,5,5,4,7,3,0,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+5,4,4,5,5,4,7,3,0,14,martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+5,4,4,5,5,4,7,3,0,14,soolariiul; martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+6,5,4,7,5,4,8,3,0,14,soolariiul; martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+8,4,4,9,5,5,8,3,0,14,soolariiul; martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+6,4,5,8,5,5,9,3,0,14,martin; ilmar; uus; maja; isikud; soolariiul; tomusk; tuba; kõrvalised; suhkrusaiapidu
+7,4,5,6,5,4,8,4,0,14,soolariiul; martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+7,4,5,4,5,4,7,4,0,14,soolariiul; martin; tomusk; ilmar; tuba; uus; kõrvalised; maja; isikud; suhkrusaiapidu

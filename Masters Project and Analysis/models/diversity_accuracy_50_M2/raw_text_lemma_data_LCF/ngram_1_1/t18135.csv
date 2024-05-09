@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,0,0,2,4,1,2,16,kuusik; kuusk; eino; wagner; estonia; teater; ooper
-0,2,2,0,0,2,4,1,2,16,kuusik; kuusk; eino; wagner; estonia; teater; ooper
-0,2,2,0,0,2,4,1,2,16,kuusik; kuusk; eino; wagner; estonia; teater; ooper
-0,2,3,0,0,2,4,1,2,16,kuusik; eino; wagner; estonia; teater; kuusk; tamberg; ooper
-0,2,4,0,0,1,4,1,2,16,kuusik; ivo; eino; wagner; estonia; teater; kuusk; tamberg; ooper
-0,1,4,0,0,0,4,1,2,16,ivo; eino; wagner; estonia; teater; kuusk; tamberg; ooper
-0,1,3,0,0,0,3,1,2,16,ivo; eino; wagner; estonia; tamberg; teater; ooper
-0,2,3,0,0,0,3,4,2,16,ivo; eino; wagner; estonia; teater; kuusk; tamberg; ooper
-0,1,5,1,0,1,4,3,1,16,ivo; wagner; eino; estonia; itaalia; teater; tamberg; ooper
-0,1,4,1,0,1,4,4,0,16,ivo; wagner; eino; estonia; itaalia; teater; kuusk; tamberg; ooper
-1,1,4,2,0,2,3,0,0,16,ivo; wagner; estonia; itaalia; teater; tamberg; ooper
+0,2,2,0,0,2,4,1,2,16,wagner; ooper; kuusk; eino; kuusik; teater; estonia
+0,2,2,0,0,2,4,1,2,16,wagner; ooper; kuusk; eino; kuusik; teater; estonia
+0,2,2,0,0,2,4,1,2,16,wagner; ooper; kuusk; eino; kuusik; teater; estonia
+0,2,3,0,0,2,4,1,2,16,wagner; tamberg; kuusk; eino; ooper; kuusik; teater; estonia
+0,2,4,0,0,1,4,1,2,16,ivo; wagner; tamberg; kuusk; eino; ooper; kuusik; teater; estonia
+0,1,4,0,0,0,4,1,2,16,ivo; wagner; tamberg; kuusk; eino; ooper; teater; estonia
+0,1,3,0,0,0,3,2,2,16,ivo; wagner; tamberg; eino; teater; ooper; murdmaa; estonia
+0,2,3,0,0,0,3,5,2,16,ivo; wagner; tamberg; kuusk; eino; murdmaa; ooper; teater; estonia
+0,1,5,1,0,1,4,3,1,16,wagner; tamberg; eino; estonia; itaalia; ooper; teater; ivo
+0,1,4,1,0,1,4,4,0,16,wagner; tamberg; kuusk; eino; estonia; itaalia; ooper; teater; ivo
+1,1,4,2,0,2,3,0,0,16,wagner; tamberg; estonia; itaalia; ooper; teater; ivo

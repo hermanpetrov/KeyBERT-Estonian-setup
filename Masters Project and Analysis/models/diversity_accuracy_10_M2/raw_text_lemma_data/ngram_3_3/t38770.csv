@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,0,1,1,1,0,12,majandus; sotsiaalne; eurotsoon
-0,2,1,1,0,1,1,1,0,12,majandus; sotsiaalne; eurotsoon
-0,2,1,1,0,1,1,1,0,12,majandus; sotsiaalne; eurotsoon
-0,2,1,1,0,1,1,1,0,12,majandus; sotsiaalne; eurotsoon
-0,2,1,1,0,1,1,1,0,12,majandus; sotsiaalne; eurotsoon
-1,3,1,1,0,1,1,1,0,12,majandus; eurotsoon; föderatsioon; sotsiaalne
-1,1,2,1,0,2,1,2,0,12,eurotsoon; kroon; föderatsioon; sotsiaalne; eesti
-0,1,2,1,0,1,1,3,0,12,majandus; eurotsoon; kroon; eesti
-1,2,0,0,0,1,1,3,0,12,eurotsoon; kroon; sotsiaalne; eesti
-1,2,0,0,0,1,1,2,0,12,eurotsoon; sotsiaalne; eesti
-1,2,2,0,0,2,3,2,0,12,majandus; eurotsoon; kroon; sotsiaalne; eesti
+0,3,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; sotsiaalne; eurotsoon
+0,3,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; sotsiaalne; eurotsoon
+0,3,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; sotsiaalne; eurotsoon
+0,3,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; sotsiaalne; eurotsoon
+0,3,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; sotsiaalne; eurotsoon
+1,4,1,2,0,1,1,1,0,12,majandus; rahaliit; eelarvepoliitika; föderatsioon; sotsiaalne; eurotsoon
+1,1,2,1,0,3,1,3,0,12,eesti; sotsiaalne; eurotsoon; rahaliit; föderatsioon; kroon
+0,1,3,2,0,2,2,3,0,12,majandus; intressimäär; eesti; rahaliit; kroon; eurotsoon
+1,3,0,1,0,2,2,3,0,12,eesti; sotsiaalne; eurotsoon; intressimäär; rahaliit; heaolu; kroon
+1,3,0,0,0,1,2,2,0,12,eesti; rahaliit; heaolu; sotsiaalne; eurotsoon
+1,3,2,0,1,2,3,2,0,12,majandus; eesti; sotsiaalne; eurotsoon; intressimäär; heaolu; kroon

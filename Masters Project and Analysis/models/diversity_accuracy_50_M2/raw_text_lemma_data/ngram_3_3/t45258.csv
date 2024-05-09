@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,5,4,1,3,4,2,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-5,5,5,4,1,3,4,2,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-5,5,5,4,1,3,4,2,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-5,5,5,4,1,3,4,2,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-4,5,5,4,1,3,4,2,2,19,festival; abistamine; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-6,5,5,4,1,3,5,2,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-7,4,3,4,1,4,4,3,2,19,festival; elanikkond; abistamine; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-4,4,5,6,1,6,4,2,2,19,festival; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa; rudolf
-4,4,3,6,0,6,3,1,2,19,festival; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa
-6,5,3,6,1,6,4,1,2,19,festival; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa
-6,5,5,6,2,5,4,1,3,19,festival; elanikkond; usa; mesila; bulgaaria; taal; liit; kreeka; euroopa
+6,5,8,5,1,3,4,2,2,19,euroopa; abistamine; rudolf; usa; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; festival; bulgaaria; liit; elanikkond
+6,5,8,5,1,3,4,2,2,19,euroopa; abistamine; rudolf; usa; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; festival; bulgaaria; liit; elanikkond
+6,5,8,5,1,3,4,2,2,19,euroopa; abistamine; rudolf; usa; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; festival; bulgaaria; liit; elanikkond
+6,5,8,5,1,3,4,2,2,19,euroopa; abistamine; rudolf; usa; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; festival; bulgaaria; liit; elanikkond
+5,5,8,5,1,3,4,2,2,19,elanikkond; euroopa; abistamine; rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; festival; bulgaaria; liit; usa
+7,5,8,5,1,3,5,2,2,19,liit; euroopa; abistamine; rudolf; usa; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; taal; kreeka; bulgaaria; festival; elanikkond
+9,4,5,5,1,4,4,3,2,19,abistamine; rudolf; pärimusmuusika; usa; mesila; muinaslaev; taal; kreeka; euroopa; festival; kliimamuutus; bulgaaria; liit; elanikkond
+6,5,7,7,1,6,4,2,2,19,rudolf; kosmosesüstik; mesila; euroopa; kreeka; kliimamuutus; elanikkond; liit; festival; pärimusmuusika; taal; bulgaaria; usa
+4,5,5,7,0,6,4,1,2,19,liit; euroopa; usa; kosmosesüstik; mesila; muinaslaev; taal; kreeka; kliimamuutus; bulgaaria; festival; elanikkond
+6,7,4,7,1,6,4,1,2,19,kliimamuutus; liit; pärimusmuusika; kosmosesüstik; mesila; taal; kreeka; euroopa; elanikkond; bulgaaria; festival; usa
+7,6,5,7,3,6,4,1,3,19,kliimamuutus; liit; euroopa; pärimusmuusika; kosmosesüstik; mesila; taal; kreeka; elanikkond; bulgaaria; festival; usa

@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,10,
 0,0,0,0,0,0,0,0,0,10,
 0,0,0,0,0,0,0,0,0,10,
-1,1,0,1,0,0,0,0,0,10,sõda; ermitaaž
+1,1,0,1,0,0,0,0,0,10,ermitaaž; sõda
 1,0,0,0,0,0,0,0,0,10,volga
-1,0,0,2,0,1,0,0,0,10,üksindus; ermitaaž; volga
-0,1,0,1,0,0,1,0,0,10,üksindus; sõda; volga
+1,0,0,2,0,1,0,0,0,10,volga; üksindus; ermitaaž
+0,1,0,1,0,0,1,0,0,10,volga; üksindus; sõda
 0,0,0,0,0,0,0,0,0,10,

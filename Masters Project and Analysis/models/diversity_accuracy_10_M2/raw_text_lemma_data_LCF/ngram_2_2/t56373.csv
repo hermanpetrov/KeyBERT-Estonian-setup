@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-1,2,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-1,2,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-1,2,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-1,2,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-1,1,2,0,0,1,0,1,1,10,pulm; kirik; pidu
-0,1,2,1,0,1,0,1,0,10,pulm; kirik; sõda
-0,1,2,1,0,0,0,1,0,10,pulm; kirik; sõda
-0,1,1,1,0,0,0,1,0,10,pulm; kirik
-0,0,1,0,0,2,1,1,0,10,pulm; luksus; pidu
-0,0,2,0,0,1,1,1,0,10,pulm; kirik; aadlik
+1,2,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+1,2,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+1,2,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+1,2,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+1,2,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+1,1,2,0,0,1,0,1,1,10,pidu; kirik; pulm
+0,1,3,1,0,1,0,1,0,10,kirik; liivimaa; pulm; sõda
+0,1,3,1,0,0,0,1,0,10,kirik; liivimaa; pulm; sõda
+0,1,1,1,0,0,0,1,0,10,kirik; pulm
+0,0,1,0,0,2,2,1,0,10,luksus; pidu; liivimaa; pulm
+0,0,2,0,0,1,1,1,0,10,aadlik; kirik; pulm

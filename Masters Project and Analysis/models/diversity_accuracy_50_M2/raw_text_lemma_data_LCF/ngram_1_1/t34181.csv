@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,1,0,3,2,1,14,kriitik; kunstnik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,2,0,1,0,3,2,1,14,kriitik; kunstnik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,2,0,1,0,3,2,1,14,kriitik; kunstnik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,1,0,1,0,3,2,1,14,kriitik; kunstnik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,1,0,1,1,3,1,1,14,kriitik; kunstnik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,1,0,1,3,3,0,1,14,kriitik; kuraator; publik; institutsioon; reaalne; maria-kristiina
-0,1,1,0,1,1,2,1,1,14,kriitik; liit; institutsioon; reaalne; maria-kristiina
-0,1,1,0,0,1,2,3,1,14,kriitik; kuraator; liit; institutsioon; maria-kristiina
-0,1,1,0,0,3,1,1,1,14,kriitik; institutsioon; maria-kristiina
-1,0,2,0,0,1,1,1,1,14,kunstnik; maria-kristiina
-0,0,2,0,0,0,0,1,1,14,kunstnik; maria-kristiina
+1,1,3,0,1,0,3,4,1,14,kriitik; kuraator; institutsioon; maria-kristiina; kunstimaailm; reaalne; publik; kunstnik; kunstimuuseum
+1,1,3,0,1,0,3,4,1,14,kriitik; kuraator; institutsioon; maria-kristiina; kunstimaailm; reaalne; publik; kunstnik; kunstimuuseum
+1,1,3,0,1,0,3,4,1,14,kriitik; kuraator; institutsioon; maria-kristiina; kunstimaailm; reaalne; publik; kunstnik; kunstimuuseum
+1,1,2,0,1,0,3,4,1,14,kriitik; kuraator; institutsioon; maria-kristiina; kunstimaailm; reaalne; publik; kunstnik; kunstimuuseum
+1,1,2,0,1,1,3,2,1,14,kriitik; institutsioon; kunstimuuseum; maria-kristiina; kunstimaailm; reaalne; publik; kunstnik; kuraator
+0,1,1,0,1,3,3,0,1,14,publik; kriitik; institutsioon; maria-kristiina; reaalne; kuraator
+0,1,1,0,1,1,2,1,1,14,kriitik; institutsioon; maria-kristiina; reaalne; liit
+0,1,2,0,0,1,2,3,1,14,liit; kriitik; institutsioon; maria-kristiina; kunstimaailm; kuraator
+0,1,2,0,0,3,1,1,1,14,kriitik; institutsioon; maria-kristiina; kunstimaailm
+1,0,2,0,0,1,1,1,1,14,maria-kristiina; kunstnik
+0,0,2,0,0,0,0,1,1,14,maria-kristiina; kunstnik

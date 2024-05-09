@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,0,16,poliitika
 0,1,0,0,0,0,0,0,0,16,poliitika
 0,1,0,0,0,0,0,0,0,16,poliitika
-0,1,1,0,0,0,0,0,0,16,sulev; poliitika
-0,1,2,0,0,0,0,0,0,16,sulev; poliitika; valimine
-0,2,0,0,0,0,0,0,0,16,strandberg; poliitika
-0,1,0,0,0,1,0,0,0,16,kuslap; poliitika
+0,1,1,0,0,0,0,0,0,16,poliitika; sulev
+0,1,2,0,0,0,0,0,0,16,poliitika; sulev; valimine
+0,2,0,0,0,0,0,0,0,16,poliitika; strandberg
+0,1,0,0,0,1,0,0,0,16,poliitika; kuslap

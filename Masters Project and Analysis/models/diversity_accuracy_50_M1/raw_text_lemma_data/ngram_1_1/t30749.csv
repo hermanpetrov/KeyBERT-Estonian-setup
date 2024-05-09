@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,1,12,mägi; portugal
-0,0,1,0,0,0,0,0,1,12,mägi; portugal
-0,0,1,0,0,0,0,0,1,12,mägi; portugal
-0,0,1,0,0,0,0,0,1,12,mägi; portugal
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,0,0,0,0,0,0,0,12,
-0,0,1,1,0,0,0,0,0,12,portugal
-0,0,0,1,0,0,0,0,0,12,portugal
-0,0,1,0,0,0,0,0,0,12,portugal
+0,0,1,0,0,1,1,1,1,12,reisipalavik; portugal; mägi
+0,0,1,0,0,1,1,1,1,12,reisipalavik; portugal; mägi
+0,0,1,0,0,1,1,1,1,12,reisipalavik; portugal; mägi
+0,0,1,0,0,1,1,1,1,12,reisipalavik; portugal; mägi
+0,0,2,0,0,1,1,1,0,12,hiiumaa; reisipalavik; mägi
+0,0,1,0,0,1,1,1,0,12,reisipalavik; vanalinn; mägi
+1,0,1,0,0,0,1,1,0,12,reisipalavik; õhutramm; mägi
+1,0,0,1,0,0,1,2,0,12,reisipalavik; õhutramm; vanalinn
+1,0,1,1,0,0,1,3,0,12,hiiumaa; reisipalavik; õhutramm; vanalinn; portugal
+1,0,0,1,0,0,1,1,0,12,hiiumaa; reisipalavik; portugal
+1,0,2,0,0,0,1,1,0,12,hiiumaa; reisipalavik; õhutramm; portugal

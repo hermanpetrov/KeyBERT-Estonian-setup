@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,2,2,1,1,1,12,ühiskond; ressurss; ökoloogiline; nappus; sõda
-1,1,2,1,2,2,1,1,1,12,ühiskond; ressurss; ökoloogiline; nappus; sõda
-1,1,2,1,2,2,1,1,1,12,ühiskond; ressurss; ökoloogiline; nappus; sõda
-1,1,2,1,2,2,1,1,1,12,ühiskond; ressurss; ökoloogiline; nappus; sõda
-1,1,2,0,2,2,1,1,1,12,ühiskond; ressurss; nappus; ökoloogiline; sõda
-1,1,2,0,2,2,2,2,1,12,ühiskond; ressurss; nappus; ökoloogiline; sõda
-2,1,3,2,1,2,2,1,1,12,ressurss; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
-5,0,4,1,1,1,2,2,1,12,ressurss; nappus; arheoloog; ühiskond; nälg; konkurents; ökoloogiline; sõda
-5,1,4,1,2,3,2,3,1,12,ressurss; nappus; arheoloog; ühiskond; nälg; ökoloogiline; konkurents; sõda
-2,2,2,2,1,2,0,0,1,12,ühiskond; ressurss; konkurents; ökoloogiline; sõda; arheoloog
-2,2,2,1,1,1,0,2,0,12,ühiskond; ressurss; konkurents; ökoloogiline; sõda; arheoloog
+3,3,2,1,4,2,1,2,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; sõda; ühiskond; ellujäämine; ökoloogiline
+3,3,2,1,4,2,1,2,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; sõda; ühiskond; ellujäämine; ökoloogiline
+3,3,2,1,4,2,1,2,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; sõda; ühiskond; ellujäämine; ökoloogiline
+3,3,2,1,4,2,1,2,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; sõda; ühiskond; ellujäämine; ökoloogiline
+3,3,2,0,4,2,2,2,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; ühiskond; sõda; ellujäämine; ökoloogiline
+3,3,2,0,4,4,3,4,2,12,inimloomus; nappus; ressurss; rahvaarv; tasakaal; ühiskond; sõda; ellujäämine; ökoloogiline
+3,3,5,3,3,4,3,3,2,12,arheoloog; inimloomus; ressurss; rahvaarv; tasakaal; sõda; nälg; ühiskond; ellujäämine; konkurents; ökoloogiline
+7,1,4,2,2,3,3,3,2,12,arheoloog; nappus; inimloomus; ressurss; rahvaarv; tasakaal; nälg; sõda; ühiskond; ellujäämine; konkurents; ökoloogiline
+7,2,5,1,2,4,2,3,2,12,arheoloog; nappus; inimloomus; ressurss; rahvaarv; tasakaal; nälg; sõda; ühiskond; ellujäämine; konkurents; ökoloogiline
+4,3,2,2,1,3,1,2,2,12,arheoloog; ressurss; rahvaarv; tasakaal; ühiskond; sõda; ellujäämine; konkurents; ökoloogiline
+3,3,2,1,1,1,0,3,0,12,arheoloog; ressurss; rahvaarv; tasakaal; ühiskond; sõda; konkurents; ökoloogiline

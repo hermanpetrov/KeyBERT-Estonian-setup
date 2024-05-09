@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,0,0,1,1,12,näitleja
-1,1,1,0,0,0,0,1,1,12,näitleja
-1,1,1,0,0,0,0,1,1,12,näitleja
-1,1,1,0,0,0,0,1,1,12,näitleja
-1,1,1,0,0,0,0,1,1,12,näitleja
-1,1,1,0,0,0,1,1,1,12,näitleja
-2,1,1,0,0,1,1,1,1,12,repertuaar; näitleja
-0,0,1,1,0,0,1,1,1,12,näitleja
-0,1,1,1,0,0,0,1,1,12,repertuaar; näitleja
-0,0,2,0,0,1,2,1,1,12,repertuaar; näitleja; esinemine
-1,1,2,0,0,0,2,1,1,12,repertuaar; näitleja
+2,1,1,1,0,1,0,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+2,1,1,1,0,1,0,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+2,1,1,1,0,1,0,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+2,1,1,1,0,1,0,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+2,1,1,1,0,0,0,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+2,1,1,1,0,1,2,1,3,12,ebaõnnestumine; näitering; näitleja; draamateater
+4,1,1,0,0,3,2,1,3,12,ebaõnnestumine; repertuaar; näitering; näitleja; draamateater
+2,0,1,1,0,1,2,2,3,12,ebaõnnestumine; lavakunstikateeder; näitering; näitleja; draamateater
+1,1,1,1,0,1,0,3,3,12,näitering; näitleja; ebaõnnestumine; repertuaar; lavakunstikateeder; draamateater
+1,2,2,0,0,1,2,2,3,12,esinemine; näitleja; ebaõnnestumine; repertuaar; eneseusk; lavakunstikateeder; draamateater
+1,2,2,0,0,2,2,2,2,12,ebaõnnestumine; repertuaar; näitering; lavakunstikateeder; näitleja; draamateater

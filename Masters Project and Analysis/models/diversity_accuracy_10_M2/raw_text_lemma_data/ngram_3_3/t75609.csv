@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,0,2,1,0,11,religioon; püha; teadus
-0,2,1,0,0,0,2,1,0,11,religioon; püha; teadus
-0,2,1,0,0,0,2,1,0,11,religioon; püha; teadus
-0,2,1,0,0,0,2,1,0,11,religioon; püha; teadus
-0,2,1,0,0,0,2,1,0,11,religioon; püha; teadus
-0,1,2,0,0,0,2,1,0,11,religioon; püha
-1,2,0,0,0,2,1,1,0,11,religioon; püha; vaim; teadus
-1,3,1,0,0,1,1,1,0,11,religioon; teadus; püha; sekularism
-0,3,1,0,0,1,2,1,0,11,religioon; vaim; teadus; püha; sekularism
-1,2,1,0,1,4,3,0,0,11,religioon; kunst; tehnoloogiline; püha; vaim; teadus
-0,1,0,1,0,3,3,1,2,11,religioon; kunst; vaim; teadus; püha; filosoofia
+1,2,3,1,0,1,3,2,0,11,teadus; üliintellekt; püha; usutunne; religioon; jõuluaeg
+1,2,3,1,0,1,3,2,0,11,teadus; üliintellekt; püha; usutunne; religioon; jõuluaeg
+1,2,3,1,0,1,3,2,0,11,teadus; üliintellekt; püha; usutunne; religioon; jõuluaeg
+1,2,3,1,0,1,3,2,0,11,teadus; üliintellekt; püha; usutunne; religioon; jõuluaeg
+1,2,3,1,0,1,3,2,0,11,teadus; üliintellekt; püha; usutunne; religioon; jõuluaeg
+0,1,4,1,0,1,3,2,0,11,üliintellekt; püha; usutunne; religioon; jõuluaeg
+2,2,2,0,0,3,2,2,0,11,teadus; püha; usutunne; religioon; jõuluaeg; vaim
+2,3,1,0,1,2,2,2,0,11,teadus; üliintellekt; püha; jõuluaeg; usutunne; religioon; sekularism
+0,4,2,0,0,3,3,2,0,11,teadus; üliintellekt; püha; jõuluaeg; vaim; usutunne; religioon; sekularism
+2,2,2,0,1,5,5,1,0,11,teadus; üliintellekt; püha; tehnoloogiline; jõuluaeg; vaim; kunst; usutunne; religioon
+1,1,0,1,0,4,4,2,2,11,üliintellekt; teadus; püha; filosoofia; jõuluaeg; vaim; kunst; religioon

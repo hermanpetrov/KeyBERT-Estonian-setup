@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,1,1,1,1,1,2,0,19,andres; lill; folkloor; robert; mändla; orpheus; bach; hortus; irene; barokkmuusikafestival
-5,4,1,1,1,1,1,2,0,19,andres; lill; folkloor; robert; mändla; orpheus; bach; hortus; irene; barokkmuusikafestival
-5,4,1,1,1,1,1,2,0,19,andres; lill; folkloor; robert; mändla; orpheus; bach; hortus; irene; barokkmuusikafestival
-5,4,1,1,1,1,1,2,0,19,andres; lill; folkloor; robert; mändla; orpheus; bach; hortus; irene; barokkmuusikafestival
-5,3,0,1,1,1,1,3,0,19,andres; lill; folkloor; robert; mändla; orpheus; bach; mari; hortus; barokkmuusikafestival
-6,2,1,1,1,1,1,4,1,19,lill; folkloor; robert; mändla; orpheus; bach; mari; hortus; irene; barokkmuusikafestival; igor
-3,4,3,1,1,1,2,4,0,19,andres; lill; robert; mändla; orpheus; bach; mari; hortus; irene; barokkmuusikafestival; igor
-2,5,1,3,1,2,7,3,1,19,andres; tšello; lill; folkloor; robert; mirje; mändla; musicus; orpheus; mari; hortus; irene; igor
-2,5,3,1,1,4,4,1,1,19,andres; tšello; lill; folkloor; robert; musicus; mari; hortus; irene; igor
-2,2,3,1,1,2,1,4,1,19,andres; tšello; lill; mustonen; robert; mändla; bach; mari; hortus; irene; igor
-0,1,3,0,2,3,5,1,1,19,tšello; lill; folkloor; robert; orpheus; bach; mari; hortus; igor
+5,4,1,1,1,1,2,0,0,19,lill; hortus; irene; robert; mändla; bach; folkloor; andres; barokkmuusikafestival; orpheus
+5,4,1,1,1,1,2,0,0,19,lill; hortus; irene; robert; mändla; bach; folkloor; andres; barokkmuusikafestival; orpheus
+5,4,1,1,1,1,2,0,0,19,lill; hortus; irene; robert; mändla; bach; folkloor; andres; barokkmuusikafestival; orpheus
+5,4,1,1,1,1,2,0,0,19,lill; hortus; irene; robert; mändla; bach; folkloor; andres; barokkmuusikafestival; orpheus
+5,3,0,1,1,1,3,0,0,19,lill; mari; hortus; robert; mändla; bach; folkloor; andres; barokkmuusikafestival; orpheus
+6,2,1,1,1,1,4,1,0,19,lill; mari; hortus; irene; robert; mändla; bach; igor; folkloor; barokkmuusikafestival; orpheus
+3,4,3,1,1,2,4,0,0,19,lill; mari; irene; hortus; robert; mändla; bach; igor; andres; barokkmuusikafestival; orpheus
+2,5,1,3,1,7,3,1,0,19,lill; mari; hortus; robert; irene; musicus; mändla; igor; mirje; folkloor; andres; orpheus
+2,5,3,1,1,4,1,1,0,19,lill; mari; robert; hortus; irene; musicus; igor; folkloor; andres
+2,2,3,1,1,1,4,1,0,19,lill; mari; hortus; irene; mändla; robert; bach; igor; mustonen; andres
+0,1,3,0,2,5,1,1,0,19,lill; mari; hortus; robert; bach; igor; folkloor; orpheus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,4,2,0,5,4,3,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,4,2,0,5,4,3,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,4,2,0,5,4,3,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,2,2,0,5,4,3,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,2,2,0,5,4,3,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,2,2,2,0,2,4,0,1,13,muusikamuuseum; falck; eesti; klavessiin; klaverimeister; pianiino; klaveriehitus
-1,1,1,1,0,0,1,0,1,13,muusikamuuseum; klaverimeister; pianiino; eesti; klavessiin
-1,1,3,1,0,0,0,0,1,13,muusikamuuseum; falck; pianiino; eesti; klavessiin
-1,1,0,3,0,0,0,0,1,13,muusikamuuseum; radke; pianiino; eesti; klavessiin
-1,1,1,1,0,0,0,0,1,13,muusikamuuseum; pianiino; eesti; klavessiin
-0,1,0,1,0,0,0,1,1,13,muusikamuuseum; pianiino; eesti
+1,2,4,2,0,4,3,1,0,13,pianiino; falck; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,4,2,0,4,3,1,0,13,pianiino; falck; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,4,2,0,4,3,1,0,13,pianiino; falck; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,2,2,0,4,3,1,0,13,pianiino; falck; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,2,2,0,4,3,1,0,13,pianiino; falck; eesti; klavessiin; klaverimeister; muusikamuuseum; klaveriehitus
+1,2,2,2,0,4,0,1,0,13,pianiino; falck; klaveriehitus; klavessiin; eesti; klaverimeister; muusikamuuseum
+1,1,1,1,0,1,0,1,0,13,pianiino; eesti; klaverimeister; klavessiin; muusikamuuseum
+1,1,3,1,0,0,0,1,0,13,pianiino; falck; eesti; klavessiin; muusikamuuseum
+1,1,0,3,0,0,0,1,0,13,pianiino; eesti; klavessiin; radke; muusikamuuseum
+1,1,1,1,0,0,0,1,0,13,pianiino; muusikamuuseum; eesti; klavessiin
+0,1,0,1,0,0,1,1,0,13,pianiino; muusikamuuseum; eesti

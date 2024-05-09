@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-0,0,0,0,0,1,0,0,0,11,püha
-1,0,0,0,0,1,0,0,0,11,püha; sekularism
-1,0,0,0,0,2,1,0,0,11,püha; sekularism
-0,0,1,0,0,1,1,0,0,11,püha; sekularism
-0,0,0,0,0,1,1,0,0,11,püha; sekularism
+1,0,1,1,0,2,1,1,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,1,0,2,1,1,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,1,0,2,1,1,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,1,0,2,1,1,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,1,0,2,1,1,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,1,0,2,1,0,0,11,üliintellekt; püha; jõuluaeg
+1,0,1,0,0,1,0,0,0,11,üliintellekt; püha; jõuluaeg
+2,0,1,0,0,1,0,0,0,11,jõuluaeg; üliintellekt; püha; sekularism
+2,0,1,0,0,2,1,0,0,11,jõuluaeg; püha; sekularism
+0,0,2,0,0,1,1,0,0,11,sekularism; püha; jõuluaeg
+0,0,1,0,0,1,1,0,0,11,sekularism; püha; jõuluaeg

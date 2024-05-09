@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,3,4,0,1,12,majandus; inflatsioon; eesti; euro
-0,0,2,0,0,3,4,0,1,12,majandus; inflatsioon; eesti; euro
-0,0,2,0,0,3,4,0,1,12,majandus; inflatsioon; eesti; euro
-0,0,2,0,0,3,4,0,2,12,majandus; inflatsioon; eesti; euro
-0,0,1,0,0,3,3,0,2,12,majandus; inflatsioon; eesti; euro
-0,0,2,0,0,3,3,0,1,12,inflatsioon; eesti; euro
-0,0,2,0,0,3,3,0,2,12,majandus; inflatsioon; eesti; euro
-0,0,2,0,0,3,3,0,2,12,majandus; inflatsioon; eesti; euro
-0,0,2,1,0,3,3,0,2,12,majandus; afganistan; inflatsioon; eesti; euro
-0,0,2,1,0,2,3,0,2,12,majandus; afganistan; inflatsioon; eesti; euro
-0,0,1,2,0,3,3,0,3,12,majandus; afganistan; inflatsioon; eesti; euro
+0,0,2,1,0,3,4,0,1,12,majandus; välireklaam; eesti; inflatsioon; euro
+0,0,2,1,0,3,4,0,1,12,majandus; välireklaam; eesti; inflatsioon; euro
+0,0,2,1,0,3,4,0,1,12,majandus; välireklaam; eesti; inflatsioon; euro
+0,0,3,1,0,3,4,0,2,12,majandus; venemaa; eesti; euro; välireklaam; inflatsioon
+0,0,2,1,0,3,3,0,2,12,majandus; välireklaam; venemaa; eesti; inflatsioon; euro
+0,0,2,1,0,3,3,0,1,12,välireklaam; eesti; inflatsioon; euro
+0,0,2,0,0,3,3,0,2,12,majandus; eesti; inflatsioon; euro
+0,0,2,0,0,4,4,0,2,12,majandus; eesti; välireklaam; inflatsioon; vasaktsenter; euro
+0,0,2,1,0,4,4,0,2,12,majandus; eesti; vasaktsenter; euro; afganistan; välireklaam; inflatsioon
+0,0,2,1,0,2,3,0,2,12,afganistan; majandus; eesti; inflatsioon; euro
+0,0,1,2,0,4,4,0,3,12,majandus; eesti; vasaktsenter; euro; afganistan; välireklaam; inflatsioon

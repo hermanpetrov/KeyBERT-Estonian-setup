@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,6,4,4,4,5,4,3,12,kontseptualism; kunst; meedium; kriitika; žest; kaasaegne; kuraator; kunstiajalugu; redimeid
-5,6,5,4,4,4,4,5,3,12,kontseptualism; kunst; meedium; kriitika; žest; kuraator; kunstiajalugu; redimeid
-5,5,5,4,4,3,4,5,3,12,kontseptualism; kunst; meedium; kriitika; žest; kuraator; redimeid
-4,5,3,5,4,5,4,5,3,12,kontseptualism; kunst; meedium; kriitika; žest; kaasaegne; kuraator; redimeid; kunstiajalugu
-4,7,3,5,4,5,3,5,3,12,kontseptualism; kunst; meedium; kriitika; žest; kaasaegne; kuraator; redimeid
-6,4,4,4,4,3,3,6,3,12,kunst; kontseptualism; meedium; kriitika; žest; kaasaegne; kuraator; redimeid; kunstiajalugu
-5,4,4,4,4,5,4,6,3,12,kunst; kontseptualism; meedium; kriitika; žest; kaasaegne; redimeid; kuraator; kunstiajalugu
-6,3,4,5,4,2,6,5,3,12,kontseptualism; kunst; meedium; kriitika; žest; kaasaegne; kuraator; redimeid; kunstiajalugu
-7,4,4,5,4,3,6,5,2,12,kontseptualism; kunst; meedium; kriitika; žest; kaasaegne; redimeid; kunstiajalugu; kuraator
-4,2,5,6,5,1,5,4,3,12,kunst; kontseptualism; meedium; kriitika; žest; kaasaegne; kuraator; redimeid; kunstiajalugu
-3,3,6,6,4,3,2,2,2,12,kunst; kontseptualism; meedium; kriitika; žest; kaasaegne; kuraator; redimeid
+5,6,6,4,4,5,4,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; kunst; kaasaegne; redimeid; kuraator
+5,6,5,4,4,4,5,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; kunst; redimeid; kuraator
+5,5,5,4,4,4,5,3,0,12,kriitika; žest; kontseptualism; meedium; kunst; redimeid; kuraator
+4,5,3,5,4,4,5,3,0,12,kriitika; žest; kontseptualism; meedium; kunst; redimeid; kaasaegne; kuraator
+4,7,3,5,4,3,5,3,0,12,kriitika; žest; kontseptualism; meedium; kunst; kaasaegne; redimeid; kuraator
+6,4,4,4,4,3,6,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; kunst; kaasaegne; redimeid; kuraator
+5,4,4,4,4,4,6,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; redimeid; kunst; kuraator
+6,3,4,5,4,6,5,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; redimeid; kunst; kaasaegne; kuraator
+7,4,4,5,4,6,5,2,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; redimeid; kunst; kaasaegne; kuraator
+4,2,5,6,5,5,4,3,0,12,kriitika; žest; kontseptualism; kunstiajalugu; meedium; kunst; redimeid; kaasaegne; kuraator
+3,3,6,6,4,2,2,2,0,12,kriitika; žest; kontseptualism; meedium; redimeid; kunst; kaasaegne; kuraator

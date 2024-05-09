@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,5,6,4,2,1,4,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-5,6,5,6,4,3,1,4,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-5,6,4,6,4,3,2,4,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-6,7,4,6,5,4,2,4,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-6,7,6,6,6,4,3,4,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-6,5,5,5,6,3,3,5,6,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-7,6,5,6,6,4,4,5,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-5,5,6,5,6,4,5,6,6,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-3,6,5,6,6,6,4,6,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-6,5,4,5,6,4,5,5,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
-4,6,2,6,6,5,6,5,7,14,estonia; teater; eesti; haridus; vene; laen; selts; kultuur
+7,7,6,9,4,3,2,5,9,14,selts; kultuuripäev; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+7,8,6,9,4,4,2,5,9,14,selts; kultuuripäev; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+7,8,5,9,4,4,3,5,9,14,selts; kultuuripäev; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+8,10,5,9,5,5,3,5,9,14,selts; kultuuripäev; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+8,9,7,8,6,5,4,6,9,14,selts; kultuuripäev; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+8,7,7,7,6,5,6,6,8,14,selts; kultuuripäev; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+9,8,6,8,6,7,6,6,9,14,selts; kultuuripäev; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+5,7,6,6,6,6,6,6,7,14,selts; kultuuripäev; vene; eesti; kõnekoosolek; haridus; naisliit; kultuur; laen; teater; estonia
+5,8,6,7,6,8,5,7,8,14,selts; kultuuripäev; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+7,7,5,6,6,5,6,5,8,14,selts; kultuuriajalugu; kultuur; laen; teater; vene; eesti; kõnekoosolek; haridus; naisliit; estonia
+4,7,3,7,6,7,7,5,7,14,selts; vene; eesti; kõnekoosolek; haridus; naisliit; kultuur; laen; teater; estonia

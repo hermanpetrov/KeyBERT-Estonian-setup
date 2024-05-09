@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,2,1,2,1,1,2,11,aasta; lill
-0,2,2,2,1,2,1,1,2,11,aasta; lill
-0,2,2,2,1,2,1,1,2,11,aasta; lill
-0,2,2,2,2,2,1,1,2,11,aasta; lill
-1,2,2,2,2,2,1,1,2,11,aasta; lill
-1,1,2,2,2,2,2,1,2,11,aasta; lill
-2,2,2,2,2,2,2,1,2,11,aasta; lill
-2,2,1,2,2,1,2,2,2,11,aasta; lill
-2,2,2,2,2,2,2,2,2,11,aasta; lill
-2,2,2,2,2,2,2,2,2,11,aasta; lill
-2,2,2,2,2,2,2,2,2,11,aasta; lill
+6,9,5,6,2,7,5,3,7,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,9,5,7,2,7,6,4,7,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,10,6,7,2,6,7,4,7,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+6,10,5,6,3,8,8,4,7,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+7,9,8,7,3,7,7,7,7,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+8,8,9,7,4,7,9,7,9,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+8,7,7,8,4,9,7,6,10,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; tervisesport; aasta; köögivili
+6,10,8,9,4,7,8,9,10,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+6,6,9,9,6,8,6,7,10,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+6,6,8,9,7,6,7,8,10,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili
+6,6,8,9,8,7,9,8,10,11,ettevõtlus; lill; põllumees; koduaeg; maaelu; maaleht; olümpiakomitee; liikumisharrastus; tervisesport; aasta; köögivili

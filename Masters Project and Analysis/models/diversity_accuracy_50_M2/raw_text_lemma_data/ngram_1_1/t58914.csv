@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-1,0,0,0,2,0,0,0,0,12,torm; mageveehorisont; sadam
-0,0,0,0,1,0,0,0,0,12,torm
-0,1,0,0,2,0,0,0,0,12,torm; tamm; sadam
-0,0,0,0,1,0,0,0,0,12,torm
-0,2,0,0,1,0,0,0,0,12,torm; tsükkel; rand
+2,0,0,0,2,0,0,0,0,12,ehitustegevus; torm; sadam; mageveehorisont
+2,0,0,0,2,0,0,0,0,12,ehitustegevus; torm; sadam; mageveehorisont
+2,0,0,0,2,0,0,0,0,12,ehitustegevus; torm; sadam; mageveehorisont
+2,0,0,0,2,0,0,0,0,12,ehitustegevus; torm; sadam; mageveehorisont
+2,0,0,0,2,0,0,0,0,12,ehitustegevus; torm; sadam; mageveehorisont
+1,0,0,0,2,0,0,0,0,12,torm; sadam; mageveehorisont
+0,1,0,0,1,0,0,0,0,12,torm; kasvuhooneefekt
+0,2,0,0,2,0,0,1,0,12,torm; tamm; sadam; kasvuhooneefekt
+0,1,0,1,1,0,0,0,0,12,torm; kasvuhooneefekt; elukvaliteet
+0,3,0,1,1,0,0,1,0,12,torm; rand; elukvaliteet; kasvuhooneefekt; tsükkel
 0,1,0,1,1,0,0,0,0,12,torm; prognoos; tsükkel

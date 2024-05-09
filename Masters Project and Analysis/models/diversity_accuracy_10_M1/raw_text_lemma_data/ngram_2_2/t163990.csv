@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,0,2,0,1,2,0,15,tõlge; jevgeni; sissov; reaalsus; kompleks
-2,2,0,1,2,1,1,2,0,15,kompleks; tõlge; jevgeni; sissov; reaalsus; autor
-2,2,0,1,2,1,2,2,0,15,kompleks; tõlge; jevgeni; sissov; reaalsus; autor
-2,2,1,1,2,1,2,1,0,15,tõlge; jevgeni; kompleks; vene; inimlik; sissov; reaalsus
-2,2,2,1,3,3,3,1,1,15,tõlge; jevgeni; kompleks; vene; inimlik; sissov; reaalsus; autor
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,0,2,1,1,3,0,15,reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,1,2,2,1,3,0,15,autor; reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,0,1,2,1,2,3,1,15,autor; reaalsus; jevgeni; kompleks; tõlge; vikerraadio; sissov
+2,2,1,1,2,1,3,2,1,15,vene; reaalsus; jevgeni; kompleks; tõlge; inimlik; vikerraadio; sissov
+2,2,2,1,3,3,4,2,2,15,autor; vene; reaalsus; jevgeni; kompleks; tõlge; inimlik; vikerraadio; sissov

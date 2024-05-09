@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,3,3,3,2,19,festival; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
-1,0,2,0,0,3,3,3,2,19,festival; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
-1,0,2,0,0,3,3,3,2,19,festival; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
-1,0,2,0,0,3,3,3,2,19,festival; usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
-1,0,1,0,0,3,3,3,2,19,usa; liit; mesila; bulgaaria; kreeka; euroopa; rudolf
-1,0,1,0,0,5,4,3,2,19,usa; mesila; bulgaaria; liit; kreeka; euroopa; rudolf
-1,0,2,0,0,3,4,1,2,19,usa; liit; mesila; bulgaaria; kreeka; euroopa; rudolf
-0,0,1,1,0,3,4,2,2,19,abistamine; usa; liit; mesila; bulgaaria; kreeka; euroopa; rudolf
-0,0,2,1,0,2,3,3,2,19,abistamine; usa; liit; mesila; bulgaaria; kreeka; rudolf
-0,0,3,2,0,2,3,2,2,19,abistamine; usa; liit; mesila; bulgaaria; kreeka; euroopa; rudolf
-0,0,1,1,0,2,2,3,1,19,liit; bulgaaria; kreeka; euroopa; rudolf
+3,0,2,1,0,3,3,3,2,19,euroopa; rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; liit; bulgaaria; festival; usa
+3,0,2,1,0,3,3,3,2,19,euroopa; rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; liit; bulgaaria; festival; usa
+3,0,2,1,0,3,3,3,2,19,euroopa; rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; liit; bulgaaria; festival; usa
+3,0,3,1,0,3,3,3,2,19,euroopa; rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; liit; bulgaaria; festival; usa
+3,0,2,1,0,3,3,3,2,19,rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; euroopa; bulgaaria; liit; usa
+2,0,2,1,0,5,4,3,2,19,rudolf; pärimusmuusika; kosmosesüstik; mesila; muinaslaev; kreeka; euroopa; bulgaaria; liit; usa
+1,0,3,0,0,3,4,1,2,19,mesila; muinaslaev; euroopa; kreeka; rudolf; bulgaaria; liit; usa
+1,0,2,1,0,3,4,2,2,19,abistamine; euroopa; rudolf; mesila; muinaslaev; kreeka; bulgaaria; liit; usa
+0,0,2,1,0,2,3,3,2,19,mesila; kreeka; abistamine; rudolf; bulgaaria; liit; usa
+0,0,3,2,0,2,3,2,2,19,mesila; euroopa; abistamine; kreeka; rudolf; bulgaaria; liit; usa
+0,0,1,1,0,2,2,3,1,19,kreeka; euroopa; rudolf; bulgaaria; liit

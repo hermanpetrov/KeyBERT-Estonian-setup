@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,1,0,0,0,0,1,0,19,rannik; piraat; tamme; abhaasia; mall; gruusia; sammas; somaalia; mälberg
-3,5,1,0,0,0,1,1,0,19,rannik; piraat; hõff; tamme; abhaasia; mall; sammas; gruusia; somaalia; mälberg
-3,4,2,1,0,0,1,2,0,19,rannik; piraat; hõff; abhaasia; sammas; gruusia; mall; somaalia; mälberg
-1,4,2,1,2,2,1,2,0,19,festival; hõff; abhaasia; sammas; gruusia; mall; somaalia; mälberg
-2,5,4,1,2,3,1,3,1,19,festival; rannik; hõff; tamme; abhaasia; sammas; gruusia; mall; somaalia; mälberg
-2,3,7,1,4,5,3,5,1,19,festival; rannik; hõff; tamme; abhaasia; gruusia; mall; sammas; somaalia; mälberg
-1,2,8,4,6,5,3,5,1,19,festival; rannik; piraat; hõff; tamme; abhaasia; mall; sammas; gruusia; somaalia; mälberg
-0,2,7,6,6,6,4,7,1,19,festival; rannik; piraat; hõff; tamme; abhaasia; sammas; mall; gruusia; somaalia; mälberg
-0,3,8,8,6,6,6,8,2,19,piraat; hõff; sammas; festival; rannik; tamme; abhaasia; mall; gruusia; somaalia; mälberg
-0,1,7,5,5,6,5,6,3,19,festival; rannik; piraat; hõff; abhaasia; tamme; mall; sammas; gruusia; somaalia; mälberg
-0,2,8,5,6,6,5,5,4,19,festival; rannik; piraat; hõff; abhaasia; tamme; mall; sammas; gruusia; somaalia; mälberg
+7,8,1,4,0,3,3,5,1,19,abhaasia; gruusia; mälberg; piraat; mall; sammas; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+6,9,2,4,0,3,4,5,1,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+6,8,3,5,0,3,4,6,1,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; pärimusmuusika; haigekassa; rannik
+4,7,4,5,2,5,4,5,1,19,hõff; abhaasia; gruusia; mälberg; mall; sammas; festival; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; pärimusmuusika; haigekassa
+4,8,6,5,2,5,4,5,2,19,hõff; abhaasia; gruusia; mälberg; mall; sammas; festival; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+4,7,8,5,4,7,7,7,2,19,hõff; abhaasia; gruusia; mälberg; mall; sammas; festival; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+4,6,10,6,6,7,5,7,2,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; festival; sotsiaalministeerium; somaalia; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+3,7,9,7,6,7,5,9,3,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; festival; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik
+3,7,10,8,6,7,7,9,5,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; festival; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; tamme; pärimusmuusika; haigekassa; rannik
+1,4,8,6,5,8,6,7,6,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; festival; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; tamme; pärimusmuusika; haigekassa; rannik
+3,4,9,6,7,8,6,6,7,19,hõff; abhaasia; gruusia; mälberg; piraat; mall; sammas; festival; somaalia; sotsiaalministeerium; muusikaõpetaja; venemaa; hinnakiri; tamme; pärimusmuusika; haigekassa; rannik

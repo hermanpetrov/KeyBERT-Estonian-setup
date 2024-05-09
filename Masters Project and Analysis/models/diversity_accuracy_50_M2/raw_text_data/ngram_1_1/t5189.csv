@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,1,0,15,laidoneri; konkurentsivõime
-0,0,1,0,0,1,1,1,0,15,laidoneri; konkurentsivõime
+0,0,1,0,0,1,1,1,0,15,konkurentsivõime; laidoneri
+0,0,1,0,0,1,1,1,0,15,konkurentsivõime; laidoneri
 0,0,0,0,0,1,1,1,0,15,konkurentsivõime
 0,0,0,0,0,1,1,0,0,15,konkurentsivõime
 0,0,0,0,0,0,1,0,0,15,konkurentsivõime
-1,0,1,0,0,1,2,0,0,15,muuseum; konkurentsivõime; gruusia
-1,0,1,0,0,1,2,1,0,15,muuseum; konkurentsivõime; gruusia
-0,1,0,0,1,1,0,1,0,15,aasta; lotte; konkurentsivõime
-0,1,0,0,1,1,1,1,0,15,konkurentsivõime; aasta; lotte; gruusia
-0,1,0,1,1,0,3,1,0,15,muuseum; konkurentsivõime; aasta; lotte; gruusia
-0,1,1,1,0,1,2,1,0,15,muuseum; konkurentsivõime; aasta; gruusia
+1,0,1,0,0,1,2,0,0,15,konkurentsivõime; muuseum; gruusia
+1,0,1,0,0,1,2,1,0,15,konkurentsivõime; muuseum; gruusia
+0,1,0,0,1,1,0,1,0,15,konkurentsivõime; lotte; aasta
+0,1,0,0,1,1,1,1,0,15,konkurentsivõime; gruusia; lotte; aasta
+0,1,0,1,1,0,3,1,0,15,konkurentsivõime; gruusia; lotte; aasta; muuseum
+0,1,1,1,0,1,2,1,0,15,konkurentsivõime; gruusia; aasta; muuseum

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,0,0,1,1,12,anni; rätsep; kreem
-0,1,1,0,0,0,0,1,1,12,anni; rätsep; kreem
-0,1,1,0,0,0,0,1,1,12,anni; rätsep; kreem
-0,1,0,0,0,0,0,1,1,12,anni; rätsep; kreem
-0,1,0,0,0,0,0,1,1,12,anni; rätsep; kreem
-0,1,0,0,0,1,0,1,1,12,anni; rätsep; kreem; betti
-0,1,2,0,0,1,0,1,1,12,laps; kreem; anni; rätsep; betti
-0,1,3,0,0,1,0,3,1,12,laps; pärtel; kreem; anni; rätsep; betti
-0,1,3,0,0,1,0,1,1,12,laps; kreem; anni; rätsep; betti
-0,1,1,0,0,1,0,2,2,12,kreem; anni; rätsep; betti
-0,1,1,0,0,1,0,1,2,12,kreem; anni; rätsep; betti
+0,1,1,0,0,0,0,1,1,12,rätsep; anni; kreem
+0,1,1,0,0,0,0,1,1,12,rätsep; anni; kreem
+0,1,1,0,0,0,0,1,1,12,rätsep; anni; kreem
+0,1,0,0,0,0,0,1,1,12,rätsep; anni; kreem
+0,1,0,0,0,0,0,1,1,12,rätsep; anni; kreem
+0,1,0,0,0,1,0,1,1,12,kreem; rätsep; anni; betti
+0,1,2,0,0,1,0,1,1,12,laps; kreem; rätsep; anni; betti
+0,1,3,0,0,1,0,3,1,12,laps; kreem; rätsep; anni; betti; pärtel
+0,1,3,0,0,1,0,1,1,12,laps; kreem; rätsep; anni; betti
+0,1,1,0,0,1,0,2,2,12,kreem; rätsep; anni; betti
+0,1,1,0,0,1,0,1,2,12,kreem; rätsep; anni; betti

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-1,1,1,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-1,1,1,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-1,1,1,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-1,1,2,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-1,1,1,1,0,2,1,2,2,12,tammsaare; elmo; kontsert; teater; tsivilisatsioon; utoopia; nüganen
-0,0,1,0,0,2,1,3,2,12,tammsaare; elmo; klassika; kontsert; tsivilisatsioon; nüganen
-1,0,1,0,0,2,2,2,2,12,iseseisvuspäeva; stoppard; elmo; klassika; kontsert; tsivilisatsioon; nüganen
-1,1,2,0,0,2,0,1,2,12,iseseisvuspäeva; elmo; kontsert; teater; tsivilisatsioon; nüganen
-0,3,2,1,0,1,1,1,2,12,iseseisvuspäeva; elmo; kontsert; tsivilisatsioon; nüganen
-0,1,2,0,0,3,0,1,2,12,iseseisvuspäeva; stoppard; elmo; kontsert; tsivilisatsioon; nüganen
+1,1,1,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+1,1,1,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+1,1,1,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+1,1,1,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+1,1,2,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+1,1,1,1,0,2,1,2,2,12,tsivilisatsioon; utoopia; elmo; nüganen; tammsaare; teater; kontsert
+0,0,1,0,0,2,1,3,2,12,nüganen; tsivilisatsioon; elmo; kontsert; tammsaare; klassika
+1,0,1,0,0,2,2,2,2,12,tsivilisatsioon; stoppard; elmo; klassika; nüganen; kontsert; iseseisvuspäeva
+1,1,2,0,0,2,0,1,2,12,tsivilisatsioon; elmo; nüganen; kontsert; teater; iseseisvuspäeva
+0,3,2,1,0,1,1,1,2,12,tsivilisatsioon; iseseisvuspäeva; nüganen; elmo; kontsert
+0,1,2,0,0,3,0,1,2,12,tsivilisatsioon; elmo; stoppard; nüganen; kontsert; iseseisvuspäeva

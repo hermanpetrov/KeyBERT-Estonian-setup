@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,0,0,1,2,2,1,15,maa; muusikaline; popmuusika; lääne-aafrika
-1,1,3,0,0,1,2,2,1,15,maa; muusikaline; popmuusika; lääne-aafrika
-1,1,3,0,0,1,2,2,1,15,maa; muusikaline; popmuusika; lääne-aafrika
-1,1,2,0,0,1,2,2,1,15,maa; muusikaline; popmuusika; lääne-aafrika
-1,1,1,0,0,1,2,2,1,15,maa; muusikaline; popmuusika; lääne-aafrika
-1,1,1,0,0,0,1,2,1,15,maa; muusikaline; lääne-aafrika
-1,0,2,0,0,0,0,1,1,15,traditsioon; muusikaline; lääne-aafrika
-1,0,0,0,0,0,0,2,1,15,maa; muusikaline; lääne-aafrika
-1,0,2,0,0,0,0,1,1,15,sekk; mandingo; muusikaline; lääne-aafrika
-1,1,2,2,0,0,0,1,1,15,rütm; mansour; mandingo; traditsioon; muusikaline; lääne-aafrika
-1,1,2,1,0,1,0,1,1,15,mansour; mandingo; traditsioon; muusikaline; lääne-aafrika
+1,1,4,1,1,2,3,3,2,15,muusikaline; rahvamuusika; mitmekesisus; popmuusika; lääne-aafrika; maa
+1,1,4,1,1,2,3,3,2,15,muusikaline; rahvamuusika; mitmekesisus; popmuusika; lääne-aafrika; maa
+1,1,4,1,1,2,3,3,2,15,muusikaline; rahvamuusika; mitmekesisus; popmuusika; lääne-aafrika; maa
+1,1,3,1,1,2,3,3,2,15,muusikaline; rahvamuusika; mitmekesisus; popmuusika; lääne-aafrika; maa
+1,1,2,1,1,2,3,3,2,15,muusikaline; rahvamuusika; mitmekesisus; popmuusika; lääne-aafrika; maa
+1,1,2,1,1,1,2,3,2,15,lääne-aafrika; muusikaline; rahvamuusika; maa; mitmekesisus
+1,0,2,1,1,1,1,2,2,15,lääne-aafrika; traditsioon; muusikaline; rahvamuusika; mitmekesisus
+1,1,0,0,0,1,1,3,2,15,lääne-aafrika; muusikaline; rahvamuusika; maa; mitmekesisus
+1,0,2,0,0,0,1,1,2,15,lääne-aafrika; sekk; muusikaline; rahvamuusika; mandingo; mitmekesisus
+1,1,2,2,0,0,1,2,1,15,mansour; lääne-aafrika; traditsioon; mitmekesisus; muusikaline; rahvamuusika; mandingo; rütm
+1,1,2,1,0,1,1,1,1,15,mansour; lääne-aafrika; traditsioon; muusikaline; rahvamuusika; mandingo

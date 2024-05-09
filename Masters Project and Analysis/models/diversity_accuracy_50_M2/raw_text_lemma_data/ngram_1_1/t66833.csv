@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,2,2,0,2,13,eesti; muusika
-0,1,1,0,0,2,2,0,2,13,eesti; muusika
-0,1,1,0,0,2,2,0,2,13,eesti; muusika
-0,1,0,0,0,2,2,0,2,13,eesti; muusika
-0,1,1,0,0,1,1,0,2,13,eesti; muusika
-0,1,1,0,0,2,2,0,2,13,eino; publik; muusika; eesti
-0,1,1,0,0,1,2,1,2,13,publik; muusika; eesti
-0,2,0,0,0,2,2,1,2,13,traditsioon; muusika; tamberg; institutsioon; eesti
-0,1,2,2,0,2,3,1,2,13,eino; publik; muusika; tamberg; eesti
-0,2,2,1,0,2,1,1,2,13,traditsioon; muusika; institutsioon; tamberg; eesti; steinway
-0,2,1,1,0,1,1,1,2,13,traditsioon; muusika; tamberg; institutsioon; eesti
+2,1,2,1,0,3,3,2,2,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,2,1,0,3,3,2,2,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,2,1,0,3,3,2,2,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,1,0,3,3,2,2,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,2,1,0,2,2,2,2,13,muusika; helilooja; mammutkontsert; eesti; nüüdismuusika
+2,1,1,1,0,4,2,1,2,13,eesti; mammutkontsert; eino; nüüdismuusika; publik; muusika; helilooja; uudisteos
+1,1,1,1,0,2,2,1,2,13,publik; muusika; eesti; mammutkontsert; uudisteos; nüüdismuusika
+0,2,0,0,0,2,3,1,2,13,muusika; eesti; tamberg; institutsioon; uudisteos; traditsioon
+0,1,2,2,0,2,3,1,2,13,publik; muusika; eesti; tamberg; eino
+0,2,2,1,0,2,1,1,2,13,muusika; eesti; tamberg; institutsioon; traditsioon; steinway
+0,2,1,1,0,1,1,1,3,13,muusika; tamberg; eesti; institutsioon; traditsioon; mammutkontsert

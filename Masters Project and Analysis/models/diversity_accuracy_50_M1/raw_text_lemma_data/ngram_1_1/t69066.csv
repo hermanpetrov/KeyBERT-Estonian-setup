@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,0,1,0,0,12,eetika; arhitektuur; mutso
-0,1,2,0,0,0,1,0,0,12,eetika; arhitektuur; mutso
-0,1,2,0,0,0,1,0,0,12,eetika; arhitektuur; mutso
-0,1,1,0,0,0,1,0,0,12,eetika; mutso
-0,1,1,0,0,0,1,0,0,12,eetika; mutso
-0,0,1,0,0,0,0,0,0,12,mutso
-0,0,1,0,0,0,0,0,0,12,eetika
-0,1,3,0,0,1,0,1,0,12,mutso; margit; eetika; arhitektuur
-1,1,3,0,0,1,2,2,0,12,arhitekt; arendaja; mutso; margit; eetika; kritiseerima
-1,0,1,0,0,2,2,0,0,12,arendaja; keskkond; margit; eetika
-1,0,1,0,0,2,1,1,0,12,arendaja; arhitekt; keskkond; margit; eetika
+0,1,3,0,1,1,2,1,0,12,detailplaneering; eetika; kultuurifoorum; arhitektuur; mutso
+0,1,3,0,1,1,2,1,0,12,detailplaneering; eetika; kultuurifoorum; arhitektuur; mutso
+0,1,3,0,1,1,2,1,0,12,detailplaneering; eetika; kultuurifoorum; arhitektuur; mutso
+0,1,2,0,1,1,2,1,0,12,detailplaneering; eetika; kultuurifoorum; mutso
+0,1,1,0,1,1,2,1,0,12,detailplaneering; eetika; kultuurifoorum; mutso
+0,0,1,0,1,1,1,1,0,12,kultuurifoorum; detailplaneering; mutso
+0,0,1,0,1,1,0,1,0,12,detailplaneering; eetika; kultuurifoorum
+0,1,3,0,1,2,0,2,0,12,detailplaneering; eetika; margit; kultuurifoorum; arhitektuur; mutso
+1,1,3,0,0,2,2,3,0,12,kritiseerima; eetika; margit; kultuurifoorum; arendaja; arhitekt; mutso
+1,0,1,1,1,3,2,1,0,12,detailplaneering; eetika; keskkond; margit; kultuurifoorum; arendaja
+1,0,1,1,0,3,1,2,0,12,detailplaneering; eetika; keskkond; margit; kultuurifoorum; arendaja; arhitekt

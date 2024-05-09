@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-11,10,10,9,9,7,9,11,9,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-11,10,9,9,9,8,9,11,9,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-11,10,9,9,10,8,11,11,9,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-11,10,10,8,10,8,11,11,9,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-11,10,9,8,9,9,11,11,9,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-10,10,8,8,9,10,9,11,10,12,lugu; inglise; ansambel; album; seen; stuudio; eesti; šokolaad; raadio; plaat; queen
-10,9,10,11,9,11,10,11,10,12,lugu; inglise; ansambel; album; seen; stuudio; eesti; šokolaad; raadio; plaat; queen
-11,10,10,10,9,11,10,11,10,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-10,11,10,11,8,9,10,10,8,12,lugu; inglise; ansambel; album; seen; stuudio; eesti; šokolaad; raadio; plaat; queen
-10,11,10,11,10,9,10,10,10,12,lugu; inglise; ansambel; seen; album; stuudio; eesti; šokolaad; raadio; plaat; queen
-10,11,10,11,10,9,10,10,8,12,lugu; ansambel; inglise; album; seen; stuudio; eesti; šokolaad; raadio; plaat; queen
+11,10,10,9,9,7,9,11,9,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+11,10,9,9,9,8,9,11,9,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+11,10,9,9,10,8,11,11,9,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+11,10,10,8,10,8,11,11,9,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+11,10,9,8,9,9,11,11,9,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+10,10,8,8,9,10,9,11,10,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen
+10,9,10,11,9,11,10,11,10,12,seen; šokolaad; stuudio; plaat; eesti; raadio; inglise; ansambel; album; lugu; queen
+11,10,10,10,9,11,10,11,10,12,seen; šokolaad; stuudio; plaat; eesti; raadio; inglise; ansambel; album; lugu; queen
+10,11,10,11,8,9,10,10,8,12,seen; šokolaad; stuudio; plaat; eesti; raadio; inglise; ansambel; album; lugu; queen
+10,11,10,11,10,9,10,10,10,12,seen; šokolaad; stuudio; plaat; eesti; raadio; inglise; ansambel; album; lugu; queen
+10,11,10,11,10,9,10,10,8,12,seen; šokolaad; stuudio; plaat; eesti; raadio; ansambel; inglise; album; lugu; queen

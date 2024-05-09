@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,0,0,1,1,3,0,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-2,2,0,0,0,1,1,3,0,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-2,2,0,0,0,1,1,3,0,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-2,2,0,0,0,1,1,3,0,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-2,2,0,0,0,1,1,3,1,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-2,1,0,0,0,1,2,3,1,12,mõisnik; kristus; kubjas; eduard; mõisavalitseja
-0,0,0,0,0,1,2,3,1,12,kristus; mimmi; mõisnik; eduard; mõisavalitseja
-0,0,0,0,0,1,1,1,1,12,mõisnik; kristus; eduard; mõisavalitseja
-0,0,0,1,0,1,0,2,1,12,mõisnik; villem; eduard; mõisavalitseja
-0,0,0,1,0,2,0,3,1,12,villem; eduard; mõisnik; kristus; mõisavalitseja
-0,1,0,0,0,1,0,2,1,12,kristus; villem; mõisavalitseja; mõisnik
+2,2,0,0,0,1,3,0,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+2,2,0,0,0,1,3,0,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+2,2,0,0,0,1,3,0,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+2,2,0,0,0,1,3,0,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+2,2,0,0,0,1,3,1,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+2,1,0,0,0,2,3,1,0,12,mõisnik; kristus; eduard; mõisavalitseja; kubjas
+0,0,0,0,0,2,3,1,0,12,mõisnik; kristus; eduard; mõisavalitseja; mimmi
+0,0,0,0,0,1,1,1,0,12,eduard; kristus; mõisavalitseja
+0,0,0,1,0,0,2,1,0,12,eduard; villem; mõisavalitseja
+0,0,0,1,0,0,3,1,0,12,eduard; villem; kristus; mõisavalitseja
+0,1,0,0,0,0,2,1,0,12,mõisavalitseja; villem; kristus

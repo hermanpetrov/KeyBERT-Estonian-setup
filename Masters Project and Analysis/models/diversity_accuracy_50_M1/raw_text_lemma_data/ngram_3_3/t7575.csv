@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,3,1,2,1,2,3,15,lääne-euroopa; institutsioon; lukas; jaroslav; tartu; liivi
-1,2,1,3,1,2,1,2,3,15,lääne-euroopa; institutsioon; lukas; jaroslav; tartu; liivi
-1,2,1,3,1,2,1,2,3,15,lääne-euroopa; institutsioon; lukas; jaroslav; tartu; liivi
-1,2,2,3,1,2,1,2,3,15,lääne-euroopa; institutsioon; lukas; jaroslav; tartu; liivi
-1,2,2,3,1,3,1,3,3,15,lääne-euroopa; institutsioon; tõnis; lukas; jaroslav; tartu; liivi
-2,3,3,3,1,3,2,3,2,15,lääne-euroopa; institutsioon; tõnis; lukas; jaroslav; tartu; liivi
-1,2,3,4,1,2,3,4,3,15,lääne-euroopa; institutsioon; tõnis; lukas; jaroslav; tartu; liivi
-0,4,5,2,1,4,3,3,3,15,lääne-euroopa; institutsioon; tark; ordu; lukas; jaroslav; tartu; liivi
-3,5,3,1,2,2,3,3,3,15,lääne-euroopa; institutsioon; ordu; lukas; jaroslav; tartu; liivi
-2,4,2,3,3,3,3,4,4,15,lääne-euroopa; institutsioon; tark; tõnis; lukas; ordu; jaroslav; tartu; liivi
-2,4,4,3,1,3,4,4,2,15,lääne-euroopa; institutsioon; tark; tõnis; ordu; lukas; jaroslav; tartu; liivi
+2,6,5,5,3,4,5,6,6,15,toomhärra; institutsioon; ülikool; lääne-euroopa; jaroslav; tartu; piiskopkond; toomkirik; liivi; lukas; ametikoht
+2,6,5,5,3,4,5,6,6,15,toomhärra; institutsioon; ülikool; lääne-euroopa; jaroslav; tartu; piiskopkond; toomkirik; liivi; lukas; ametikoht
+2,6,5,5,3,4,5,6,5,15,toomhärra; institutsioon; ülikool; lääne-euroopa; jaroslav; tartu; piiskopkond; toomkirik; liivi; lukas; ametikoht
+2,6,6,5,3,4,5,6,6,15,toomhärra; institutsioon; ülikool; lääne-euroopa; jaroslav; tartu; piiskopkond; toomkirik; liivi; lukas; ametikoht
+2,6,7,5,3,5,5,7,5,15,toomhärra; institutsioon; ülikool; lääne-euroopa; jaroslav; tartu; piiskopkond; toomkirik; liivi; lukas; tõnis; ametikoht
+3,8,7,5,3,5,7,7,5,15,institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; piiskopkond; lukas; tõnis
+3,8,6,7,3,5,7,8,6,15,institutsioon; ülikool; kloostrielu; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; piiskopkond; lukas; tõnis
+3,7,8,5,3,6,7,8,6,15,institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; tark; piiskopkond; ordu; lukas
+6,8,7,3,4,4,6,8,6,15,institutsioon; ülikool; kloostrielu; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; piiskopkond; ordu; lukas
+4,7,6,7,5,5,6,7,7,15,institutsioon; ülikool; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; tark; piiskopkond; ordu; lukas; tõnis
+3,8,7,7,3,5,6,7,6,15,institutsioon; ülikool; kloostrielu; lääne-euroopa; tartu; toomkirik; liivi; ametikoht; toomhärra; jaroslav; tark; piiskopkond; ordu; lukas; tõnis

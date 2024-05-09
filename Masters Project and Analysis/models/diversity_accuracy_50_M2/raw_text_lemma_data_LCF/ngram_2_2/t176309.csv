@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,4,5,6,4,4,7,4,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,4,4,7,4,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,4,4,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,4,4,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,4,4,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,4,4,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-3,3,4,5,6,6,5,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-4,3,4,6,6,6,6,7,5,14,maja; pood; tuba; tomusk; ilmar; isik; uus; martin; kõrvaline
-7,3,7,3,7,6,6,9,5,14,maja; tomusk; pood; tuba; ilmar; isik; uus; martin; kõrvaline
-5,3,7,5,6,6,6,8,5,14,maja; pood; tuba; isik; tomusk; ilmar; uus; martin; kõrvaline
-6,3,7,5,6,6,6,8,4,14,maja; pood; tuba; isik; tomusk; ilmar; uus; martin; kõrvaline
+3,4,4,5,7,4,4,7,4,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,4,4,7,4,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,4,4,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,4,4,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,4,4,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,4,4,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+3,4,4,5,7,6,5,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+4,4,4,6,7,6,6,7,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+8,4,7,3,8,6,6,9,5,14,martin; ilmar; uus; maja; kõrvaline; tomusk; tuba; isik; pood; suhkrusaiapidu
+6,4,7,5,7,6,6,8,5,14,martin; tomusk; ilmar; tuba; isik; uus; maja; pood; kõrvaline; suhkrusaiapidu
+7,4,7,5,7,6,6,8,4,14,martin; tomusk; ilmar; isik; tuba; uus; maja; pood; kõrvaline; suhkrusaiapidu

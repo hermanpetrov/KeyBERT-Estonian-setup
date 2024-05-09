@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,0,0,1,0,15,tark; tõnis
-0,1,0,0,0,0,0,2,0,15,tark; tõnis; tartu
-0,1,0,0,0,0,0,2,0,15,tark; tõnis; tartu
-0,1,0,0,0,0,0,2,0,15,tark; tõnis; tartu
-0,1,0,0,0,0,0,2,0,15,tark; tõnis; tartu
-0,1,0,0,0,0,0,2,0,15,tark; tõnis; tartu
-0,1,0,0,0,0,1,2,0,15,tark; tõnis; tartu; institutsioon
-0,1,0,0,0,1,1,1,0,15,tark; tõnis; institutsioon
-0,1,0,1,0,0,0,0,0,15,tark; tõnis
-0,0,0,0,0,0,0,0,0,15,
-0,0,0,0,0,0,0,0,0,15,
+0,1,1,0,0,0,2,2,0,15,toomhärra; tõnis; kloostrielu; tark; piiskopkond
+0,1,1,0,0,0,2,3,0,15,toomhärra; tõnis; kloostrielu; tark; tartu; piiskopkond
+0,1,1,0,0,0,2,3,0,15,toomhärra; tõnis; kloostrielu; tark; tartu; piiskopkond
+0,1,1,0,0,0,2,3,0,15,toomhärra; tõnis; kloostrielu; tark; tartu; piiskopkond
+0,1,1,0,0,0,2,3,0,15,toomhärra; tõnis; kloostrielu; tark; tartu; piiskopkond
+0,1,0,0,0,0,1,3,0,15,toomhärra; tõnis; tark; tartu; piiskopkond
+0,1,0,0,0,0,2,3,0,15,toomhärra; tõnis; institutsioon; ametikoht; tark; tartu
+0,1,0,1,0,1,1,3,0,15,toomhärra; tõnis; institutsioon; ülikool; ametikoht; tark
+0,1,0,1,0,0,0,2,0,15,toomhärra; ülikool; tark; tõnis
+0,0,0,0,0,0,0,1,0,15,toomhärra
+0,0,0,0,0,0,0,1,0,15,toomhärra

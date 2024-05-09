@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,1,1,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-1,3,1,2,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-1,3,1,2,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-1,3,1,2,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-1,3,1,2,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-1,3,0,2,1,1,1,2,1,10,film; kirjandus; loosung; televisioon; buss; saade; toimetus; raadio
-2,3,1,2,1,1,1,2,1,10,film; kirjandus; režissöör; televisioon; buss; saade; toimetus; raadio
-1,2,2,1,1,2,1,2,1,10,film; kirjandus; režissöör; televisioon; buss; toimetus; raadio
-0,2,3,1,1,1,1,2,1,10,film; televisioon; buss; toimetus; raadio
-0,1,1,0,1,1,1,2,1,10,film; televisioon; buss; saade; toimetus; raadio
-1,0,1,0,1,1,1,1,1,10,loosung; televisioon; buss; saade; toimetus
+1,3,1,1,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+1,3,1,2,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+1,3,1,2,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+1,3,1,2,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+1,3,1,2,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+1,3,0,2,1,1,1,2,1,10,film; raadio; loosung; buss; toimetus; kirjandus; saade; televisioon
+2,3,1,2,1,1,1,2,1,10,film; raadio; režissöör; buss; toimetus; kirjandus; saade; televisioon
+1,2,2,1,1,2,1,2,1,10,film; raadio; režissöör; buss; toimetus; kirjandus; televisioon
+0,2,3,2,1,1,1,2,1,10,film; raadio; fotograaf; buss; toimetus; televisioon
+0,1,1,1,1,1,1,2,1,10,film; fotograaf; raadio; buss; toimetus; saade; televisioon
+1,0,1,0,1,1,1,1,1,10,loosung; buss; toimetus; saade; televisioon

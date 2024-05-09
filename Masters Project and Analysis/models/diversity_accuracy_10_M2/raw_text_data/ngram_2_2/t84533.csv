@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,1,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene
-3,0,1,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene
-3,0,1,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene
-3,0,1,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene
-3,0,1,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene
-3,0,2,0,2,0,0,1,0,25,ludwig; renn; uus; maailmasõda; ferdinand; realism; esimene; ernst
+3,0,1,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ferdinand; uus
+3,0,1,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ferdinand; uus
+3,0,1,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ferdinand; uus
+3,0,1,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ferdinand; uus
+3,0,1,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ferdinand; uus
+3,0,2,0,2,0,0,1,0,25,esimene; ludwig; renn; realism; maailmasõda; ernst; ferdinand; uus
 1,0,0,0,2,1,0,0,0,25,remark; esimene; realism; uus
-0,0,1,1,2,1,0,0,0,25,uus; realism; maailmasõda; esimene; ernst
-1,0,0,0,2,2,0,0,0,25,uus; esimene; erich; realism
-0,0,2,0,2,1,0,0,0,25,uus; realism; erich; ernst
-0,0,2,0,3,0,0,0,0,25,uus; realism; torseless; erich; ernst
+0,0,1,1,2,1,0,0,0,25,esimene; realism; maailmasõda; ernst; uus
+1,0,0,0,2,2,0,0,0,25,erich; esimene; realism; uus
+0,0,2,0,2,1,0,0,0,25,realism; erich; ernst; uus
+0,0,2,0,3,0,0,0,0,25,realism; erich; torseless; ernst; uus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,7,3,0,2,2,4,2,17,festival; ligi; salme; põllumajandusprojekt; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-5,5,7,3,0,2,2,4,2,17,festival; ligi; salme; põllumajandusprojekt; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-5,5,7,3,0,2,2,4,2,17,festival; ligi; salme; põllumajandusprojekt; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-5,5,7,3,0,2,2,4,2,17,festival; ligi; salme; põllumajandusprojekt; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-5,4,8,3,0,2,2,4,2,17,festival; ligi; salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-4,4,8,3,0,4,3,5,2,17,festival; ligi; pärimusmuusika; põllumajandusprojekt; venemaa; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-1,5,6,6,0,5,4,3,2,17,festival; ligi; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; vare; steiner; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-3,7,7,6,0,5,5,4,2,17,ligi; salme; venemaa; kosmosesüstik; steiner; presidendivalimised; muinaslaev; jürgen; kreeka; festival; põllumajandusprojekt; pärimusmuusika; vare; kliimamuudatused; viljandi
-1,4,5,5,0,4,4,4,2,17,festival; ligi; salme; põllumajandusprojekt; pärimusmuusika; venemaa; kosmosesüstik; kliimamuudatused; viljandi; presidendivalimised; muinaslaev; jürgen; kreeka
-1,4,6,7,0,3,6,5,2,17,festival; ligi; salme; põllumajandusprojekt; venemaa; kosmosesüstik; vare; kliimamuudatused; steiner; viljandi; presidendivalimised; kai; jürgen; kreeka
-1,3,5,6,0,3,7,5,3,17,ligi; salme; põllumajandusprojekt; venemaa; vare; kliimamuudatused; steiner; viljandi; presidendivalimised; kai; jürgen; kreeka
+5,5,7,3,0,2,4,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+5,5,7,3,0,2,4,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+5,5,7,3,0,2,4,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+5,5,7,3,0,2,4,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+5,4,8,3,0,2,4,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+4,4,8,3,0,3,5,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; pärimusmuusika; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+1,5,6,6,0,4,3,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; jürgen; festival
+3,7,7,6,0,5,4,2,0,17,steiner; presidendivalimised; salme; kosmosesüstik; põllumajandusprojekt; kreeka; viljandi; jürgen; festival; vare; kliimamuudatused; venemaa; ligi; pärimusmuusika; muinaslaev
+1,4,5,5,0,4,4,2,0,17,kliimamuudatused; venemaa; ligi; presidendivalimised; salme; pärimusmuusika; kosmosesüstik; muinaslaev; põllumajandusprojekt; kreeka; viljandi; jürgen; festival
+1,4,6,7,0,6,5,2,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; kosmosesüstik; põllumajandusprojekt; kreeka; kai; viljandi; jürgen; festival
+1,3,5,6,0,7,5,3,0,17,vare; steiner; kliimamuudatused; venemaa; ligi; presidendivalimised; salme; põllumajandusprojekt; kreeka; kai; viljandi; jürgen

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,1,0,1,1,1,1,15,rock; singer; kaks; café; raadio
-0,2,2,1,0,1,1,1,1,15,rock; singer; kaks; café; raadio
-0,2,2,1,0,1,1,1,1,15,rock; singer; kaks; café; raadio
-0,2,2,1,0,1,1,1,1,15,rock; singer; kaks; café; raadio
-0,2,2,1,0,1,1,1,1,15,rock; singer; kaks; café; raadio
-0,0,1,1,0,1,1,1,1,15,kaks; raadio
-1,0,2,1,0,1,1,2,1,15,rajasaare; singer; kaks; raadio
-1,0,1,1,0,2,1,1,1,15,raadio; singer; kaks
-0,1,2,1,0,0,1,0,1,15,draiv; singer; kaks; raadio
-1,0,3,1,0,0,1,1,1,15,rajasaare; singer; kaks; kristo; draiv; raadio
-0,0,2,1,0,0,1,1,1,15,rajasaare; muusikanõunik; singer; kaks; kristo; raadio
+0,2,2,1,0,1,1,1,1,15,raadio; singer; kaks; café; rock
+0,2,2,1,0,1,1,1,1,15,raadio; singer; kaks; café; rock
+0,2,2,1,0,1,1,1,1,15,raadio; singer; kaks; café; rock
+0,2,2,1,0,1,1,1,1,15,raadio; singer; kaks; café; rock
+0,2,2,1,0,1,1,1,1,15,raadio; singer; kaks; café; rock
+0,0,1,1,0,1,1,1,1,15,raadio; kaks
+1,0,2,1,0,1,1,2,1,15,raadio; rajasaare; singer; kaks
+1,0,1,1,0,2,1,1,1,15,kaks; raadio; singer
+0,1,2,1,0,0,1,0,1,15,raadio; draiv; kaks; singer
+1,0,3,1,0,0,1,1,1,15,raadio; rajasaare; kristo; singer; kaks; draiv
+0,0,2,1,0,0,1,1,1,15,raadio; rajasaare; kristo; singer; kaks; muusikanõunik

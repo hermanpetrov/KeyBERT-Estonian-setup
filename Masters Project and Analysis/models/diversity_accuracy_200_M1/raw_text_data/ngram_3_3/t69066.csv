@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,7,6,6,4,4,4,6,3,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-4,8,6,6,4,4,5,6,4,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-4,8,6,5,4,4,5,6,4,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-4,7,6,5,3,5,5,6,4,12,keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-3,7,6,5,3,7,5,6,3,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-4,6,6,5,3,8,6,5,4,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-5,6,6,3,2,5,5,5,4,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-5,9,7,5,3,7,5,6,5,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-5,7,6,7,2,5,2,4,5,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-6,8,7,6,2,4,4,5,5,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
-6,7,5,7,3,7,5,3,6,12,arendaja; keskkond; looming; mutso; margit; detailplaneering; liit; kritiseerima; arhitektide; eetika
+4,7,6,6,4,4,4,6,3,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; arendaja; mutso
+4,8,6,6,4,4,5,6,4,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; arendaja; mutso
+4,8,6,5,4,4,5,6,4,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; arendaja; mutso
+4,7,6,5,3,5,5,6,4,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; mutso
+3,7,6,5,3,7,5,6,3,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; arendaja; mutso
+4,6,6,5,3,8,6,5,4,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; liit; arendaja; mutso
+5,6,6,3,2,5,5,5,4,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; mutso; arendaja; liit
+5,9,7,5,3,7,5,6,5,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; mutso; arendaja; liit
+5,7,6,7,2,5,2,4,5,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; mutso; arendaja; liit
+6,8,7,6,2,4,4,5,5,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; mutso; arendaja; liit
+6,7,5,7,3,7,5,3,6,12,detailplaneering; arhitektide; looming; kritiseerima; eetika; keskkond; margit; mutso; arendaja; liit

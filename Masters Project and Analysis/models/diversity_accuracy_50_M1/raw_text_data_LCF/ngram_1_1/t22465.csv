@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,1,1,1,1,0,11,šveits; neutraliteet; genf; tunnel
-1,0,2,0,1,1,1,1,0,11,šveits; neutraliteet; genf; tunnel
-1,0,1,0,1,1,1,1,0,11,šveits; neutraliteet; genf; tunnel
-1,0,0,0,1,1,1,1,0,11,šveits; neutraliteet; tunnel
+1,0,2,0,1,1,1,0,0,11,neutraliteet; genf; šveits; tunnel
+1,0,2,0,1,1,1,0,0,11,neutraliteet; genf; šveits; tunnel
+1,0,1,0,1,1,1,0,0,11,neutraliteet; genf; šveits; tunnel
 1,0,0,0,1,1,1,0,0,11,šveits; neutraliteet; tunnel
+1,0,0,0,1,1,0,0,0,11,šveits; neutraliteet; tunnel
 2,0,0,0,1,0,0,0,0,11,maksusüsteem; neutraliteet; tunnel
-0,1,0,0,1,0,1,0,0,11,tunnel; genf
-0,0,0,0,1,0,1,0,0,11,genf; tunnel
+0,1,0,0,1,1,0,0,0,11,genf; tunnel
 0,0,0,0,1,1,0,0,0,11,genf; tunnel
-0,0,0,0,1,0,0,1,0,11,neutraliteet; tunnel
-0,0,0,0,1,0,1,1,0,11,suusatamine; tunnel
+0,0,0,0,1,0,0,0,0,11,tunnel
+0,0,0,0,1,0,1,0,0,11,neutraliteet; tunnel
+0,0,0,0,1,1,1,0,0,11,suusatamine; tunnel

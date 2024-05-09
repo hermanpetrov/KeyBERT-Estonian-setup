@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,3,2,2,4,6,6,3,13,ema; laps; õpetaja; õde; teater; isa; piret; kalda
-5,3,3,2,2,4,6,6,3,13,ema; laps; õpetaja; õde; teater; isa; piret; kalda
-5,3,3,2,2,4,6,6,3,13,ema; laps; õpetaja; õde; teater; isa; piret; kalda
-6,3,4,2,2,4,6,6,3,13,ema; laps; õpetaja; õde; teater; isa; piret; kalda
-5,4,4,2,2,5,6,7,3,13,ema; laps; õpetaja; õde; teater; isa; piret; kalda
-6,3,5,2,1,5,6,6,3,13,ema; laps; õpetaja; õde; teater; isa; piret
-6,3,5,5,3,5,5,5,3,13,ema; laps; matemaatika; õde; õpetaja; teater; keemia; isa; piret
-5,5,5,3,3,5,5,5,2,13,ema; laps; õde; keemia; õpetaja; teater; isa; piret; kalda
-4,5,5,3,3,4,4,5,3,13,ema; laps; õpetaja; õde; teater; keemia; isa; piret
-5,2,3,5,2,4,5,4,3,13,ema; laps; matemaatika; keemia; õde; teater; õpetaja; isa; piret
-4,3,4,5,2,4,5,3,3,13,ema; laps; õde; teater; keemia; õpetaja; isa; piret
+6,4,4,2,2,5,6,7,3,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+6,4,4,2,2,5,6,7,3,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+6,4,4,2,2,5,6,7,3,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+7,4,5,2,2,5,6,7,3,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+6,5,6,2,2,6,6,8,3,13,laps; piret; kalda; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+7,4,7,2,1,6,7,7,3,13,laps; piret; lapsepõlv; isa; õpetaja; õde; ema; balletikool; teater
+7,3,6,6,3,6,6,6,3,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; õde; ema; matemaatika; balletikool; teater
+6,5,6,4,3,6,6,6,2,13,laps; piret; kalda; lapsepõlv; isa; keemia; õpetaja; õde; ema; balletikool; teater
+5,5,6,3,3,5,5,6,3,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; õde; ema; balletikool; teater
+6,3,3,5,2,5,6,5,3,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; õde; ema; matemaatika; balletikool; teater
+5,3,5,5,2,5,6,4,4,13,laps; piret; lapsepõlv; isa; keemia; õpetaja; õde; ema; balletikool; teater

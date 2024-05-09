@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,2,1,1,0,11,põgenema; elmar; hanso
-0,0,0,0,0,2,1,1,0,11,põgenema; elmar; hanso
-0,0,0,0,0,2,1,1,0,11,põgenema; elmar; hanso
-0,0,0,0,0,2,1,1,0,11,põgenema; elmar; hanso
-0,0,0,0,0,2,1,1,0,11,põgenema; elmar; hanso
-0,0,1,0,0,2,1,2,0,11,põgenema; hanso; elmar
-0,0,1,0,0,2,1,2,0,11,põgenema; hanso; elmar
-0,1,1,0,0,0,1,2,0,11,põgenema; süüdistus; elmar
-0,0,1,1,0,0,2,3,0,11,põgenema; hanso; vangla; elmar
-0,0,1,0,0,0,2,2,0,11,põgenema; elmar; hanso; vangla
-0,0,1,1,0,0,3,1,0,11,põgenema; hanso; süüdistus; elmar
+0,1,1,0,0,2,2,2,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,1,0,0,2,2,2,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,1,0,0,2,2,2,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,1,0,0,2,2,2,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,1,0,0,2,2,2,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,2,0,0,2,2,3,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,2,1,0,2,2,3,2,11,põgenema; julgeolek; hanso; metsavend; elmar; ülekuulamine
+0,1,2,1,0,0,1,3,2,11,põgenema; süüdistus; metsavend; elmar; ülekuulamine
+0,1,2,2,0,0,2,4,2,11,põgenema; julgeolek; metsavend; elmar; ülekuulamine; vangla; hanso
+0,1,2,0,0,0,2,3,2,11,vangla; põgenema; hanso; metsavend; elmar; ülekuulamine
+0,0,2,1,0,0,3,2,1,11,põgenema; süüdistus; metsavend; elmar; hanso

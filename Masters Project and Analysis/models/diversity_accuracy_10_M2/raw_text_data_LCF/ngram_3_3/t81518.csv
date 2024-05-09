@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-0,1,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-0,1,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-0,1,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-0,1,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-1,4,3,2,0,3,3,3,0,11,pedagoog; interpreet; gerretz; solist; jüri; mozart; kammerorkester
-2,5,2,2,0,4,3,2,0,11,pedagoog; interpreet; gerretz; solist; jüri; kammerorkester
-2,3,1,2,0,3,3,3,0,11,jüri; pedagoog; interpreet; gerretz; solist
-2,2,3,1,0,3,3,3,0,11,gerretz; jüri; pedagoog; interpreet; solist; mozart
-0,1,3,1,0,2,3,2,0,11,gerretz; jüri; pedagoog; solist; mozart
-0,0,3,1,0,2,3,3,0,11,jüri; pedagoog; kammerorkester; interpreet; gerretz; mozart
+0,1,3,2,0,3,3,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+0,1,3,2,0,3,3,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+0,1,3,2,0,3,3,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+0,1,3,2,0,3,3,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+0,1,3,2,0,3,3,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+1,4,3,2,0,3,3,0,0,11,mozart; gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+2,5,2,2,0,3,2,0,0,11,gerretz; solist; jüri; kammerorkester; pedagoog; interpreet
+2,3,1,2,0,3,3,0,0,11,pedagoog; solist; gerretz; jüri; interpreet
+2,2,3,1,0,3,3,0,0,11,mozart; pedagoog; gerretz; solist; interpreet; jüri
+0,1,3,1,0,3,2,0,0,11,mozart; pedagoog; gerretz; solist; jüri
+0,0,3,1,0,3,3,0,0,11,mozart; pedagoog; gerretz; jüri; kammerorkester; interpreet

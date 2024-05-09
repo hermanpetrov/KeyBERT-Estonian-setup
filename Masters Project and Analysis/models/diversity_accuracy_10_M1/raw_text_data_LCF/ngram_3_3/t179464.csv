@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,1,12,moskva
-0,0,0,0,0,0,0,0,1,12,moskva
+0,0,0,0,0,0,0,1,0,12,moskva
+0,0,0,0,0,0,0,1,0,12,moskva
 0,0,0,0,0,0,0,0,0,12,
 0,0,0,0,0,0,0,0,0,12,
 0,0,1,0,0,0,0,0,0,12,moskva
-3,0,1,0,0,0,0,0,0,12,teater; nõukogude; moskva
+3,0,1,0,0,0,0,0,0,12,moskva; nõukogude; teater
 0,0,0,0,0,0,0,0,0,12,
 0,0,0,1,0,0,0,0,0,12,teater
-0,0,0,0,0,1,1,0,1,12,teater; nõukogude; moskva
-1,0,0,0,0,0,0,0,1,12,nõukogude; moskva
-1,0,0,0,0,0,0,0,1,12,nõukogude; moskva
+0,0,0,0,0,1,0,1,0,12,nõukogude; teater
+1,0,0,0,0,0,0,1,0,12,moskva; nõukogude
+1,0,0,0,0,0,0,1,0,12,moskva; nõukogude

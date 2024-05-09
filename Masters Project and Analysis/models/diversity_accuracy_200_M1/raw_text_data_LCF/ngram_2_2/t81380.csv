@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,4,7,2,3,4,9,2,13,kristina; kollektsioon; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; seenemaa
-7,6,5,8,2,3,4,9,2,13,kristina; kollektsioon; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; seenemaa
-10,7,4,8,2,3,4,7,2,13,kristina; kollektsioon; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem; seenemaa
-10,7,4,7,3,3,4,7,2,13,kristina; kollektsioon; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem; seenemaa
-8,6,4,7,3,3,3,7,2,13,disainer; kollektsioon; paju; tants; moeetendus; anatoomikum; kristina; kunstikool; tartu; lavastaja; kõrgem
-7,6,5,6,3,4,5,7,2,13,disainer; kollektsioon; paju; tants; moeetendus; anatoomikum; kristina; kunstikool; tartu; lavastaja; kõrgem
-6,5,6,4,4,9,4,7,2,13,kristina; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem; seenemaa
-2,5,5,4,7,9,3,6,2,13,disainer; paju; moeetendus; anatoomikum; kristina; tants; lavastaja; tartu; seenemaa
-3,4,7,3,7,10,4,6,1,13,kristina; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem; seenemaa
-3,4,5,3,6,9,7,5,2,13,disainer; paju; moeetendus; anatoomikum; kristina; kunstikool; tants; lavastaja; tartu; kõrgem; seenemaa
-4,1,5,3,6,9,10,7,5,13,kristina; kollektsioon; tartu; disainer; paju; moeetendus; anatoomikum; kunstikool; tants; lavastaja; kõrgem; seenemaa
+7,7,4,7,2,4,9,2,0,13,kristina; tartu; kunstikool; anatoomikum; tants; seenemaa; moeetendus; kollektsioon; disainer; lavastaja; paju
+7,6,5,8,2,4,9,2,0,13,kristina; tartu; kunstikool; anatoomikum; tants; seenemaa; moeetendus; kollektsioon; disainer; lavastaja; paju
+10,7,4,8,2,4,7,2,0,13,kristina; tartu; kunstikool; anatoomikum; tants; seenemaa; moeetendus; disainer; kollektsioon; lavastaja; kõrgem; paju
+10,7,4,7,3,4,7,2,0,13,kristina; tartu; kunstikool; anatoomikum; tants; seenemaa; moeetendus; disainer; kollektsioon; lavastaja; kõrgem; paju
+8,6,4,7,3,3,7,2,0,13,moeetendus; kristina; tartu; disainer; kollektsioon; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+7,6,5,6,3,5,7,2,0,13,moeetendus; tartu; kristina; disainer; kollektsioon; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+6,5,6,4,4,4,7,2,0,13,seenemaa; moeetendus; kristina; tartu; disainer; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+2,5,5,4,7,3,6,2,0,13,seenemaa; moeetendus; tartu; kristina; disainer; lavastaja; anatoomikum; paju; tants
+3,4,7,3,7,4,6,1,0,13,seenemaa; moeetendus; tartu; kristina; disainer; lavastaja; kunstikool; anatoomikum; kõrgem; paju; tants
+3,4,5,3,6,7,5,2,0,13,seenemaa; moeetendus; tartu; disainer; kristina; lavastaja; kunstikool; anatoomikum; paju; tants
+4,1,5,3,6,10,7,5,0,13,tartu; kristina; kunstikool; anatoomikum; tants; seenemaa; moeetendus; kollektsioon; disainer; lavastaja; kõrgem; paju

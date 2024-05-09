@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,2,2,1,1,1,1,13,perekond; concordia; kursus; mõis
-2,2,1,2,2,1,1,1,1,13,perekond; concordia; kursus; mõis
-2,2,1,2,2,1,1,1,1,13,perekond; concordia; kursus; mõis
-2,2,1,2,2,1,1,1,1,13,perekond; concordia; kursus; mõis
-2,2,2,2,2,1,1,1,1,13,perekond; concordia; kursus; mõis
-2,2,3,2,2,1,1,2,1,13,rektor; perekond; concordia; kursus; mõis
-3,2,2,2,2,1,3,1,1,13,kolu; rektor; perekond; concordia; kursus; mõis
-2,2,2,1,1,2,2,2,1,13,kolu; perekond; concordia; kursus; mõis
-1,4,2,1,1,2,1,2,1,13,kolu; perekond; concordia; kursus; mõis
-3,4,2,2,3,1,0,1,1,13,rektor; kolu; perekond; concordia; kursus; mõis
-2,4,2,3,2,1,0,1,0,13,kolu; rektor; perekond; concordia; kursus; mõis
+4,3,1,2,2,1,1,2,3,13,mõisaproua; sidejaoskond; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+4,3,1,2,2,1,1,2,3,13,mõisaproua; sidejaoskond; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+4,3,1,2,2,1,1,2,3,13,mõisaproua; sidejaoskond; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+4,3,1,2,2,1,1,2,3,13,mõisaproua; sidejaoskond; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+4,3,2,2,2,1,1,2,3,13,mõisaproua; sidejaoskond; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+3,4,4,2,2,2,1,3,3,13,rektor; sidejaoskond; mõisaproua; ülikool; majandusjuht; mõis; perekond; kursus; concordia
+4,3,3,5,2,1,3,2,3,13,rektor; mõisaproua; sidejaoskond; majandusjuht; ülikool; mõis; perekond; kursus; concordia; kolu
+2,3,2,2,1,2,2,3,3,13,mõisaproua; ülikool; majandusjuht; mõis; perekond; kursus; concordia; kolu
+3,6,2,3,1,2,1,3,3,13,sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia; kolu
+4,6,2,4,3,1,0,2,3,13,rektor; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia; kolu
+3,5,2,5,2,2,0,3,2,13,rektor; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia; kolu

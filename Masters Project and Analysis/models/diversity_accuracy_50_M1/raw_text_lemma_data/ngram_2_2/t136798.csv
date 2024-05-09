@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,0,0,1,2,0,2,0,15,bashar; toomas; jevgeni; sildam; putin; vladimir
-5,1,0,0,1,2,0,2,0,15,bashar; toomas; jevgeni; sildam; putin; vladimir
-5,1,0,0,1,2,0,2,0,15,bashar; toomas; jevgeni; sildam; putin; vladimir
-5,1,0,0,1,2,0,3,0,15,bashar; jevgeni; sildam; toomas; putin; vladimir
-5,1,0,0,1,1,0,3,0,15,bashar; jevgeni; sildam; toomas; putin; vladimir
-4,1,0,0,1,3,0,4,0,15,bashar; jevgeni; sildam; toomas; putin; tõnu; vladimir
-4,1,0,1,1,3,1,3,0,15,liikumine; jevgeni; sildam; toomas; putin; vladimir
-2,1,0,1,1,0,0,0,0,15,toomas; liikumine; jevgeni
-2,1,0,0,1,1,0,2,0,15,liikumine; jevgeni; vladimir; toomas
-1,1,1,0,1,0,2,0,0,15,liikumine; tõnu; toomas; sildam
-2,1,1,0,1,0,2,1,1,15,liikumine; jevgeni; sildam; putin; tõnu; toomas
+5,2,0,0,1,2,0,2,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni
+5,2,0,0,1,2,0,2,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni
+5,2,0,0,1,2,0,2,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni
+5,2,0,0,1,2,0,3,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni
+5,2,0,0,1,1,0,3,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni
+4,2,0,0,1,4,0,4,0,15,putin; kultuuripealinn; bashar; toomas; sildam; vladimir; jevgeni; töövisiit; tõnu
+5,2,0,2,1,4,1,3,0,15,putin; kultuuripealinn; toomas; sildam; jevgeni; vladimir; liikumine; töövisiit
+2,2,1,2,1,1,1,0,1,15,jevgeni; kultuuripealinn; keemiarelvarünnak; liikumine; töövisiit; toomas
+2,1,1,1,1,2,0,2,1,15,jevgeni; vladimir; kultuuripealinn; keemiarelvarünnak; liikumine; töövisiit; toomas
+1,2,2,1,1,1,2,0,1,15,keemiarelvarünnak; kultuuripealinn; liikumine; sildam; töövisiit; tõnu; toomas
+2,1,3,1,1,1,2,1,2,15,keemiarelvarünnak; kultuuripealinn; putin; toomas; sildam; jevgeni; liikumine; töövisiit; tõnu

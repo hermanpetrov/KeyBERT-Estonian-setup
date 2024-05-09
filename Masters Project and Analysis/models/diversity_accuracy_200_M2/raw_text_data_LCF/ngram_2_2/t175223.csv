@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,9,8,9,7,9,10,10,8,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-8,9,8,9,8,9,10,10,8,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-9,8,6,9,8,9,10,10,8,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-9,8,6,9,8,10,10,10,8,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-10,8,6,9,8,10,10,10,10,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-10,8,8,8,9,10,10,10,9,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-10,8,9,10,9,9,10,10,9,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-10,8,10,10,9,10,10,10,9,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-9,8,10,10,10,10,10,9,10,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-9,9,10,10,9,10,10,10,9,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
-9,9,10,10,9,10,10,10,10,13,admiral; kadri-ann; hobune; ükssilm; jack; lampjalg; silver; heino; väli; mereröövel
+8,9,8,9,7,10,10,8,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+8,9,8,9,8,10,10,8,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+9,8,6,9,8,10,10,8,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+9,8,6,9,8,10,10,8,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+10,8,6,9,8,10,10,10,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+10,8,8,8,9,10,10,9,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; väli; hobune; jack; silver; lampjalg
+10,8,9,10,9,10,10,9,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; hobune; väli; jack; silver; lampjalg
+10,8,10,10,9,10,10,9,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; hobune; väli; jack; silver; lampjalg
+9,8,10,10,10,10,9,10,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; hobune; väli; jack; silver; lampjalg
+9,9,10,10,9,10,10,9,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; hobune; väli; jack; silver; lampjalg
+9,9,10,10,9,10,10,10,0,13,admiral; ükssilm; mereröövel; heino; kadri-ann; hobune; väli; jack; silver; lampjalg

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,4,1,4,1,3,1,3,1,13,majandusjuhtide; rektor; ülikool; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-8,4,1,4,1,3,1,3,1,13,majandusjuhtide; rektor; ülikool; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-8,4,1,4,1,3,1,3,1,13,majandusjuhtide; rektor; ülikool; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-8,4,1,4,1,3,1,3,1,13,majandusjuhtide; rektor; ülikool; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-7,4,1,4,1,2,1,3,1,13,majandusjuhtide; rektor; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-6,4,1,4,1,1,1,4,1,13,majandusjuhtide; pirgu; mõisaproua; perekond; concordia; kursus; arenduskeskus; mõis
-2,3,2,5,1,1,1,6,1,13,majandusjuhtide; rektor; arenduskeskus; kolu; mõisaproua; perekond; concordia; kursus; pirgu; mõis
-2,3,1,7,2,4,2,5,1,13,majandusjuhtide; rektor; ülikool; arenduskeskus; kolu; mõisaproua; perekond; sidejaoskond; concordia; kursus; pirgu; mõis
-2,3,1,4,1,1,2,4,1,13,majandusjuhtide; kolu; pirgu; mõisaproua; perekond; concordia; kursus; arenduskeskus; mõis
-1,3,1,2,1,4,2,4,2,13,ülikool; kolu; pirgu; mõisaproua; perekond; sidejaoskond; concordia; kursus; arenduskeskus; mõis
-1,5,0,6,1,2,1,3,3,13,majandusjuhtide; rektor; kolu; pirgu; mõisaproua; perekond; sidejaoskond; concordia; kursus; arenduskeskus; mõis
+8,4,1,4,1,3,1,3,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; ülikool; mõis; perekond; kursus; concordia; kolu
+8,4,1,4,1,3,1,3,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; ülikool; mõis; perekond; kursus; concordia; kolu
+8,4,1,4,1,3,1,3,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; ülikool; mõis; perekond; kursus; concordia; kolu
+8,4,1,4,1,3,1,3,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; ülikool; mõis; perekond; kursus; concordia; kolu
+7,4,1,4,1,2,1,3,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; mõis; perekond; kursus; concordia; kolu
+6,4,1,4,1,1,1,4,1,13,pirgu; mõisaproua; arenduskeskus; majandusjuhtide; mõis; perekond; kursus; concordia
+2,3,2,5,1,1,1,6,1,13,rektor; pirgu; mõisaproua; arenduskeskus; majandusjuhtide; mõis; kursus; perekond; concordia; kolu
+2,3,1,7,2,4,2,5,1,13,rektor; pirgu; mõisaproua; sidejaoskond; arenduskeskus; majandusjuhtide; ülikool; mõis; perekond; kursus; concordia; kolu
+2,3,1,4,1,1,2,4,1,13,pirgu; mõisaproua; arenduskeskus; majandusjuhtide; mõis; perekond; kursus; concordia; kolu
+1,3,1,2,1,4,2,4,2,13,pirgu; sidejaoskond; mõisaproua; arenduskeskus; ülikool; mõis; kursus; perekond; concordia; kolu
+1,5,0,6,1,2,1,3,3,13,rektor; pirgu; sidejaoskond; mõisaproua; arenduskeskus; majandusjuhtide; mõis; perekond; kursus; concordia; kolu

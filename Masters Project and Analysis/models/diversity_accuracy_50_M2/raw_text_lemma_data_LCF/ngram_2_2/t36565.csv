@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,0,1,1,0,0,2,3,15,ühiskond; kirik; reimo; jurist; eesti; geiaktivine
-1,3,0,1,1,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti; geiaktivine
-1,3,0,1,1,0,0,2,2,15,ühiskond; kirik; reimo; jurist; eesti; geiaktivine
-1,3,0,1,1,0,0,3,2,15,ühiskond; kirik; reimo; jurist; eesti; geiaktivine
-1,3,1,0,1,0,0,3,2,15,ühiskond; kirik; reimo; jurist; eesti; geiaktivine
-1,3,2,2,1,1,0,4,2,15,kirik; reimo; tõnis; eesti; geiaktivine; ühiskond; jurist
-2,2,1,1,1,2,1,4,3,15,kirik; mets; reimo; tõnis; eesti; haridus; geiaktivine; ühiskond; jurist; politsei
-2,1,3,1,1,1,1,6,4,15,kirik; mets; reimo; tõnis; eesti; ühiskond; jurist; politsei
-1,0,0,1,1,1,2,5,4,15,mets; kirik; reimo; tõnis; eesti; haridus; ühiskond; jurist
-0,0,1,1,2,1,3,4,2,15,mets; kirik; reimo; tõnis; eesti; ühiskond; jurist
-1,1,1,2,2,1,3,4,2,15,mets; kirik; reimo; tõnis; eesti; jurist
+1,3,0,1,1,0,0,2,4,15,eesti; kirik; reimo; jurist; ühiskond; abielu; geiaktivine
+1,3,0,1,1,0,0,2,3,15,abielu; eesti; kirik; reimo; geiaktivine; jurist; ühiskond
+1,3,0,1,1,0,0,2,3,15,abielu; eesti; kirik; reimo; geiaktivine; jurist; ühiskond
+1,3,0,1,1,0,0,3,3,15,abielu; eesti; kirik; reimo; geiaktivine; jurist; ühiskond
+1,3,1,0,1,0,0,3,3,15,eesti; kirik; reimo; jurist; ühiskond; abielu; geiaktivine
+1,3,3,2,1,1,0,4,3,15,eesti; kirik; reimo; jurist; ühiskond; abielu; tõnis; geiaktivine; ööklubi
+2,2,1,2,1,2,1,4,4,15,politsei; eesti; kirik; reimo; jurist; ühiskond; abielu; haridus; tõnis; mets; geiaktivine; ööklubi
+3,1,3,1,1,1,2,7,5,15,politsei; eesti; kirik; reimo; jurist; ühiskond; abielu; tõnis; mets; ööklubi
+2,0,1,1,1,2,3,6,5,15,eesti; kirik; reimo; jurist; ühiskond; haridus; tõnis; mets; ööklubi
+2,0,3,1,2,1,4,5,2,15,eesti; kirik; demokraatia; reimo; jurist; ühiskond; tõnis; mets; ööklubi
+4,1,1,2,2,1,4,5,2,15,eesti; kirik; demokraatia; reimo; jurist; abielu; tõnis; mets; ööklubi

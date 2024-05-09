@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,6,3,0,2,3,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; füüsika; naan; teaduste; sõda
-6,9,6,3,0,2,3,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; füüsika; naan; teaduste; sõda
-6,8,6,4,0,2,2,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; füüsika; naan; teaduste; sõda
-8,8,6,5,0,2,2,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; füüsika; naan; teaduste; sõda
-8,8,6,6,2,2,3,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; füüsika; naan; teaduste; sõda
-8,5,6,6,2,7,5,7,3,12,akadeemia; lapsepõlv; elustrateegia; füüsika; hüpotees; gustav; naan; teaduste; sõda
-6,9,5,6,5,4,4,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-7,8,7,5,6,4,2,7,3,12,akadeemia; lapsepõlv; füüsika; gustav; hüpotees; naan; elustrateegia; teaduste; sõda
-4,8,5,6,6,7,5,7,3,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-3,7,6,7,7,6,7,5,5,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-3,8,7,6,7,6,5,5,6,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
+6,7,6,3,0,3,7,3,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+6,9,6,3,0,3,7,3,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+6,8,6,4,0,2,7,3,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+8,8,6,5,0,2,7,3,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+8,8,6,6,2,3,7,3,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+8,5,6,6,2,5,7,3,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+6,9,5,6,5,4,7,3,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+7,8,7,5,6,2,7,3,0,12,füüsika; naan; akadeemia; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+4,8,5,6,6,5,7,3,0,12,füüsika; naan; akadeemia; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+3,7,6,7,7,7,5,5,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+3,8,7,6,7,5,5,6,0,12,füüsika; akadeemia; naan; hüpotees; lapsepõlv; teaduste; sõda; gustav; elustrateegia

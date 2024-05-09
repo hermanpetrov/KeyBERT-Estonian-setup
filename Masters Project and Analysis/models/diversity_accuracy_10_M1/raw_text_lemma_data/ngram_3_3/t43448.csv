@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,0,0,0,0,0,1,13,leimus; näitus; epp
-0,2,0,0,0,0,0,0,1,13,leimus; näitus; epp
-0,2,0,0,0,0,0,0,1,13,leimus; näitus; epp
-0,2,0,0,0,0,0,0,1,13,leimus; näitus; epp
-0,2,0,0,0,0,0,0,1,13,leimus; näitus; epp
-0,1,0,0,0,0,0,1,1,13,leimus; näitus; ivar
-2,1,0,0,0,2,0,0,1,13,leimus; interaktiivne; näitus; ivar
-0,1,0,0,0,1,1,0,1,13,leimus; näitus; ivar
-0,1,1,2,0,1,1,0,1,13,leimus; näitus; ivar
-0,0,0,0,0,0,1,0,1,13,näitus
-0,0,0,0,0,1,2,0,1,13,interaktiivne; näitus; ivar
+0,4,1,0,0,1,1,1,1,13,epp; alatalu; ajaloomuuseum; näitus; leimus
+0,4,1,0,0,1,1,1,1,13,epp; alatalu; ajaloomuuseum; näitus; leimus
+0,4,1,0,0,1,1,1,1,13,epp; alatalu; ajaloomuuseum; näitus; leimus
+0,4,1,0,0,1,1,1,1,13,epp; alatalu; ajaloomuuseum; näitus; leimus
+0,4,1,0,0,1,1,1,1,13,epp; alatalu; ajaloomuuseum; näitus; leimus
+0,2,1,0,0,1,1,2,1,13,näitus; ivar; leimus; ajaloomuuseum
+2,2,1,0,0,3,1,1,1,13,ajaloomuuseum; näitus; ivar; interaktiivne; leimus
+0,1,1,2,0,1,2,1,1,13,mündikogu; ajaloomuuseum; näitus; ivar; kaupmees; leimus
+0,1,1,2,0,1,2,1,1,13,ajaloomuuseum; näitus; ivar; leimus
+0,0,0,0,0,0,1,1,1,13,näitus; ajaloomuuseum
+0,0,0,0,0,1,2,1,1,13,keldriruum; näitus; ivar; interaktiivne

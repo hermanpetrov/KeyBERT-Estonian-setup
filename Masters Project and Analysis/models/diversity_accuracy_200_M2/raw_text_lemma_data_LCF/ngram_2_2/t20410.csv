@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,7,2,3,6,5,5,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-6,7,6,3,3,7,6,5,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-6,6,6,3,3,7,6,5,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-6,6,6,4,3,7,6,6,4,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-6,6,7,4,3,7,6,6,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-7,6,7,5,3,9,7,7,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-7,6,6,4,3,8,7,7,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-5,6,6,6,6,8,7,6,3,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-6,6,8,8,6,6,6,6,4,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-3,7,8,8,8,7,6,7,4,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
-4,6,8,7,7,5,5,5,5,12,ani; muusika; näitleja; esinemine; spinning; karu; elmar; endel; vanemuine
+8,7,8,2,3,7,6,5,6,12,esinemine; spinning; ani; karu; näitleja; elmar; muusika; endel; vanemuine; salulaht; nikerdamine
+8,8,7,3,3,8,7,5,6,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+8,7,7,3,3,8,7,6,6,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+8,7,7,4,3,8,7,7,5,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+7,8,8,4,3,8,7,7,6,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+8,8,8,5,3,10,8,8,6,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+8,7,7,5,3,9,8,9,4,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+6,8,7,7,6,9,8,7,4,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+7,7,10,9,7,7,6,8,6,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht
+4,8,10,9,8,8,6,9,6,12,esinemine; näitleja; endel; nikerdamine; vanemuine; spinning; ani; karu; elmar; muusika; salulaht
+5,7,9,8,8,6,5,6,7,12,esinemine; näitleja; endel; vanemuine; nikerdamine; spinning; ani; karu; elmar; muusika; salulaht

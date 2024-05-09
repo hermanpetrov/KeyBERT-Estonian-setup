@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-4,0,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-4,0,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-4,0,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-4,0,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-4,0,1,1,2,1,1,1,1,13,koalitsioon; harry; usa; res; swedbank
-4,2,1,1,2,1,1,1,1,13,koalitsioon; harry; usa; res; swedbank
-2,2,1,0,2,1,2,0,1,13,koalitsioon; harry; usa; res; swedbank
-1,1,1,1,2,1,1,0,1,13,koalitsioon; harry; usa; res; swedbank
-1,0,0,2,2,1,1,0,1,13,koalitsioon; harry; res; swedbank
-2,0,1,2,1,1,1,2,1,13,koalitsioon; usa; blair; tony; res; swedbank
+5,1,1,1,2,2,2,1,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+5,1,1,1,2,2,2,1,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+5,1,1,1,2,2,2,1,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+5,1,1,1,2,2,2,1,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+5,1,1,1,2,2,2,1,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+5,1,2,1,2,2,2,2,1,13,liivrand; harry; res; reformierakond; swedbank; koalitsioon; usa
+6,3,2,1,2,2,2,2,1,13,liivrand; reformierakond; res; harry; swedbank; koalitsioon; usa
+2,2,2,0,2,2,3,1,1,13,harry; res; reformierakond; swedbank; koalitsioon; usa
+1,1,1,1,2,2,2,1,1,13,reformierakond; res; harry; swedbank; koalitsioon; usa
+1,1,0,2,2,2,2,1,1,13,res; reformierakond; swedbank; harry; koalitsioon
+2,1,2,2,1,2,2,3,1,13,blair; res; tony; reformierakond; swedbank; koalitsioon; usa

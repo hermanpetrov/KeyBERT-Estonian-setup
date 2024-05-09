@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,1,0,0,0,0,0,17,biitlid
 0,0,0,1,0,0,0,0,0,17,biitlid
 0,0,0,1,0,0,0,0,0,17,biitlid
-0,0,1,1,0,1,1,1,0,17,ameerika; biitlid; epstein; maania
-0,0,0,5,0,1,1,2,0,17,ameerika; salumets; maania; biitlid; brian; epstein
-3,2,1,1,0,1,1,1,0,17,ameerika; maania; biitlid; brian; john; epstein
-2,2,0,0,0,1,0,1,0,17,ivo; linna; maania; brian; epstein
-1,0,1,0,0,0,0,0,0,17,ameerika; bbc
-2,1,1,2,0,0,0,0,0,17,ivo; linna; salumets; mccartney; lennon
+0,0,1,1,0,1,1,0,0,17,biitlid; maania; ameerika; epstein
+0,0,0,5,0,1,2,0,0,17,biitlid; maania; salumets; epstein; brian; ameerika
+3,2,1,1,0,1,1,0,0,17,biitlid; john; maania; epstein; brian; ameerika
+2,2,0,0,0,0,1,0,0,17,linna; maania; epstein; brian; ivo
+1,0,1,0,0,0,0,0,0,17,bbc; ameerika
+2,1,1,2,0,0,0,0,0,17,mccartney; lennon; salumets; linna; ivo

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,2,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,2,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,2,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,0,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,1,2,0,1,1,1,0,16,estonia; ballett; murdmaa; ooper
-1,1,1,0,0,4,3,2,0,16,ivo; wagner; eino; estonia; tiit; ooper
-2,0,2,0,0,2,2,3,0,16,kuusk; ivo; eino; estonia; itaalia
-1,0,1,2,0,1,2,3,0,16,ivo; mai; eino; estonia
-0,2,0,2,0,3,2,3,0,16,kuusik; ivo; wagner; mai; estonia; tiit; verdi; ooper
-0,1,2,2,0,2,2,2,0,16,ivo; kuusk; mai; estonia; verdi
+1,1,2,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,2,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,2,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,2,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,0,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,1,2,0,1,1,0,0,16,ballett; ooper; murdmaa; estonia
+1,1,1,0,0,3,2,0,0,16,ivo; wagner; ooper; eino; estonia
+2,0,2,0,0,2,3,0,0,16,itaalia; ivo; kuusk; eino; estonia
+1,0,1,2,0,2,3,0,0,16,mai; estonia; eino; ivo
+0,2,0,2,0,2,3,0,0,16,mai; estonia; wagner; verdi; ooper; ivo
+0,1,2,2,0,2,2,0,0,16,mai; estonia; verdi; kuusk; ivo

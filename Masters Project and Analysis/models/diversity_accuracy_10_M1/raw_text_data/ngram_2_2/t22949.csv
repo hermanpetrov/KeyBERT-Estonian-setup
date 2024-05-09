@@ -8,5 +8,5 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,2,0,0,0,13,marco; laimre
 0,0,1,0,0,2,0,0,0,13,marco; laimre
 0,0,2,0,0,2,0,0,0,13,marco; halb; laimre
-1,0,3,0,0,3,0,0,0,13,halb; laimre; nali; marco; solvang
-1,0,1,0,0,2,0,0,0,13,solvang; laimre; halb
+1,0,3,0,0,3,0,0,0,13,laimre; halb; nali; marco; solvang
+1,0,1,0,0,2,0,0,0,13,laimre; halb; solvang

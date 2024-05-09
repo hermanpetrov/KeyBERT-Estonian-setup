@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,1,0,12,pulmapidu
-0,0,1,0,0,0,0,1,0,12,pulmapidu
-0,0,1,0,0,0,0,1,0,12,pulmapidu
-0,0,1,0,0,0,0,1,0,12,pulmapidu
-0,0,3,0,0,0,0,1,0,12,pulmapidu; hein; ants
-0,0,3,0,0,0,0,1,0,12,pulmapidu; hein; ants
-0,1,1,1,0,0,0,1,0,12,kriivan; pulmapidu; ants
-0,1,1,2,0,0,0,0,0,12,pulmapidu; ants; hein
-0,0,2,1,0,0,0,0,0,12,pulmapidu; hein; metsloom
-0,0,4,2,0,0,0,0,0,12,pulmapidu; ants; soust; hein; sõda
-0,0,4,1,1,0,0,0,1,12,pulmapidu; ants; soust; hein; sõda
+0,0,1,0,0,0,1,0,0,12,pulmapidu
+0,0,1,0,0,0,1,0,0,12,pulmapidu
+0,0,1,0,0,0,1,0,0,12,pulmapidu
+0,0,1,0,0,0,1,0,0,12,pulmapidu
+0,0,3,0,0,0,1,0,0,12,pulmapidu; hein; ants
+0,0,3,0,0,0,1,0,0,12,pulmapidu; hein; ants
+0,1,1,1,0,0,1,0,0,12,pulmapidu; kriivan; ants
+0,1,1,2,0,0,0,0,0,12,pulmapidu; hein; ants
+0,0,2,1,0,0,0,0,0,12,pulmapidu; metsloom; hein
+0,0,4,2,0,0,0,0,0,12,soust; ants; pulmapidu; sõda; hein
+0,0,4,1,1,0,0,1,0,12,soust; ants; pulmapidu; sõda; hein

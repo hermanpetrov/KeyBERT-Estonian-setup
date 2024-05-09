@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,1,2,0,1,1,1,0,12,baltika; gazprom; euroopa
 1,0,1,2,0,1,1,1,0,12,baltika; gazprom; euroopa
 1,0,1,2,0,1,1,1,0,12,baltika; gazprom; euroopa
-1,0,1,2,0,1,1,2,0,12,baltika; gazprom; euroopa
-1,0,1,2,0,1,1,1,0,12,baltika; gazprom; euroopa
-0,0,2,1,0,2,1,1,0,12,baltika; kunila; euroopa
-1,0,1,0,0,1,1,2,0,12,baltika; euroopa
-0,0,1,0,0,2,4,1,0,12,baltika; kunila; liit; euroopa
-0,0,0,0,0,2,2,0,0,12,baltika; euroopa
+1,0,1,2,0,1,1,2,0,12,gazprom; euroopa; baltika
+1,0,2,3,0,1,1,2,0,12,rahulolu; klaasikunstnik; gazprom; kultuurisõber; euroopa; baltika
+0,0,2,1,0,2,1,2,0,12,kunila; kultuurisõber; euroopa; baltika
+1,1,1,0,0,2,1,3,0,12,rahulolu; baltika; euroopa; kultuurisõber
+0,0,1,0,0,2,4,2,0,12,kunila; kultuurisõber; euroopa; baltika; liit
+0,0,0,0,0,2,2,1,0,12,kultuurisõber; baltika; euroopa

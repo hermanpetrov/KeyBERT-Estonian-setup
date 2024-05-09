@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,0,3,3,2,0,19,anatoomikum; performance; mood; kollektsioon; tants
-1,2,2,0,0,3,3,2,0,19,anatoomikum; performance; mood; kollektsioon; tants
-1,2,2,0,0,3,3,2,1,19,anatoomikum; performance; kristina; mood; kollektsioon; tants
-1,2,2,0,0,3,3,2,0,19,anatoomikum; performance; mood; kollektsioon; tants
-1,2,2,0,0,3,3,3,1,19,anatoomikum; performance; kristina; mood; kollektsioon; tants; moeetendus
-1,2,2,0,0,3,3,2,0,19,anatoomikum; performance; mood; kollektsioon; tants; moeetendus
-0,0,3,1,0,4,2,1,0,19,pelisi; moeetendus; performance; mood; tants
-1,0,1,1,0,3,3,5,0,19,paju; moeetendus; performance; kristina; mood; tants
-1,0,1,1,0,0,3,3,1,19,disainer; performance; kristina; mood; tants; lavastaja; moeetendus
-0,0,2,0,0,0,4,3,1,19,performance; kristina; mood; tants; lavastaja; moeetendus
-0,0,3,0,0,3,3,3,1,19,performance; kristina; mood; tants; lavastaja
+1,2,2,0,0,3,3,2,0,19,mood; anatoomikum; performance; kollektsioon; tants
+1,2,2,0,0,3,3,2,0,19,mood; anatoomikum; performance; kollektsioon; tants
+1,2,2,0,0,3,3,2,1,19,mood; anatoomikum; kristina; performance; kollektsioon; tants
+1,2,2,0,0,3,3,2,0,19,mood; anatoomikum; performance; kollektsioon; tants
+1,2,2,0,0,3,3,3,1,19,mood; moeetendus; anatoomikum; kristina; performance; kollektsioon; tants
+1,2,2,0,0,3,3,2,0,19,mood; moeetendus; anatoomikum; performance; kollektsioon; tants
+0,0,3,1,0,4,2,1,0,19,moeetendus; performance; mood; pelisi; tants
+1,0,1,1,0,3,3,5,0,19,moeetendus; performance; kristina; mood; paju; tants
+1,0,1,1,0,0,3,3,1,19,mood; lavastaja; moeetendus; kristina; performance; disainer; tants
+0,0,2,0,0,0,4,3,1,19,mood; lavastaja; moeetendus; kristina; performance; tants
+0,0,3,0,0,3,3,3,1,19,mood; lavastaja; kristina; performance; tants

@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,1,1,0,1,2,1,0,12,eelarve; haigekassa; euroopa
 0,1,1,1,0,1,2,1,0,12,eelarve; haigekassa; euroopa
 0,1,1,1,0,1,2,1,0,12,eelarve; haigekassa; euroopa
-0,1,1,1,0,2,2,1,0,12,euroopa; haigekassa; eelarve
+0,1,1,1,0,2,2,1,0,12,euroopa; eelarve; haigekassa
 1,1,1,0,0,2,1,1,0,12,eelarve; haigekassa; euroopa
-2,1,0,1,0,1,2,1,0,12,eelarve; hõff; haigekassa; euroopa
-1,1,0,2,0,1,2,1,0,12,eelarve; hõff; haigekassa; euroopa
-0,1,0,1,0,2,2,1,0,12,euroopa; haigekassa; eelarve
-1,1,1,0,0,2,2,0,0,12,eelarve; haigekassa; euroopa
+2,1,0,1,0,1,2,1,0,12,hõff; euroopa; eelarve; haigekassa
+1,1,0,2,0,1,2,1,0,12,hõff; euroopa; eelarve; haigekassa
+0,1,0,1,0,2,2,1,0,12,euroopa; eelarve; haigekassa
+1,1,1,0,0,2,2,0,0,12,euroopa; eelarve; haigekassa

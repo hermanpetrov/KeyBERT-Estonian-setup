@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,2,3,0,4,3,7,4,14,kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-5,4,2,3,0,4,3,7,4,14,kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-5,4,2,3,0,4,3,6,4,14,kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-5,4,2,3,0,4,3,7,4,14,kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-5,5,2,3,0,5,3,7,4,14,kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-5,5,3,3,0,6,3,7,4,14,kiri; kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-3,3,4,2,0,4,3,9,4,14,kiri; kirjanik; 40; eesti; luuletaja; hainsalu; leht; keel; sõna; vägi
-2,4,6,4,0,3,3,5,6,14,kiri; kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-3,4,4,6,0,5,2,5,5,14,kiri; kirjanik; luuletaja; eesti; 40; hainsalu; leht; keel; sõna; vägi
-2,4,4,7,1,6,5,4,5,14,kirjanik; luuletaja; eesti; 40; hainsalu; sõna; keel; kiri; vägi
-3,5,5,5,2,6,5,2,5,14,kiri; kirjanik; luuletaja; eesti; 40; hainsalu; keel; sõna; vägi
+5,7,3,4,0,4,3,9,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; riigitegelane
+5,7,3,4,0,4,3,9,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; riigitegelane
+5,7,3,4,0,4,3,8,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; riigitegelane
+5,7,3,4,0,4,3,9,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; riigitegelane
+5,8,3,4,0,6,4,9,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; riigitegelane
+5,7,4,4,0,8,5,9,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; kiri; riigitegelane
+3,5,4,2,0,4,3,11,4,14,leht; 40; hainsalu; üheksavägine; vägi; luuletaja; eesti; kirjanik; elulugu; keel; sõna; kiri; riigitegelane
+3,5,7,5,0,3,4,6,6,14,leht; luuletaja; 40; eesti; kirjanik; elulugu; hainsalu; keel; sõna; üheksavägine; kiri; vägi
+3,7,5,7,0,5,2,5,5,14,luuletaja; leht; 40; eesti; kirjanik; elulugu; hainsalu; keel; üheksavägine; sõna; kiri; riigitegelane; vägi
+3,5,5,8,1,7,5,5,5,14,luuletaja; 40; eesti; kirjanik; elulugu; hainsalu; keel; üheksavägine; sõna; kiri; riigitegelane; vägi
+3,6,5,5,2,7,5,2,5,14,luuletaja; 40; eesti; kirjanik; elulugu; hainsalu; keel; sõna; kiri; riigitegelane; vägi

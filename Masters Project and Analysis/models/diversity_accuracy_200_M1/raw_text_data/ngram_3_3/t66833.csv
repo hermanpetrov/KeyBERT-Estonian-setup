@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,6,6,6,7,7,6,7,5,15,festival; steinfeld; eino; interpreet; muusika; eesti; steinway; nüüdismuusika; tamberg; nele-eva; noor
-8,6,6,6,7,8,6,7,5,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-8,6,7,7,7,8,6,7,5,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-8,6,7,7,7,9,6,7,5,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-7,6,8,7,7,10,6,6,5,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-5,5,9,5,8,9,10,7,7,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-3,5,9,7,8,7,6,9,8,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-5,6,9,8,8,6,7,8,9,15,eino; muusika; nüüdismuusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-5,5,8,9,6,7,6,5,8,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-4,3,9,8,6,5,8,8,8,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
-4,4,8,8,6,7,7,8,8,15,eino; muusika; publik; tamberg; nele-eva; festival; steinfeld; interpreet; eesti; steinway; noor
+8,6,6,6,7,7,6,7,5,15,steinfeld; eesti; nele-eva; tamberg; noor; steinway; eino; nüüdismuusika; muusika; festival; interpreet
+8,6,6,6,7,8,6,7,5,15,tamberg; steinway; eino; festival; interpreet; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+8,6,7,7,7,8,6,7,5,15,tamberg; steinway; eino; festival; interpreet; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+8,6,7,7,7,9,6,7,5,15,tamberg; steinway; eino; festival; interpreet; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+7,6,8,7,7,10,6,6,5,15,tamberg; steinway; eino; festival; interpreet; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+5,5,9,5,8,9,10,7,7,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+3,5,9,7,8,7,6,9,8,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+5,6,9,8,8,6,7,8,9,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; nüüdismuusika; publik; muusika
+5,5,8,9,6,7,6,5,8,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; publik; muusika
+4,3,9,8,6,5,8,8,8,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; publik; muusika
+4,4,8,8,6,7,7,8,8,15,tamberg; steinway; eino; interpreet; festival; steinfeld; eesti; nele-eva; noor; publik; muusika

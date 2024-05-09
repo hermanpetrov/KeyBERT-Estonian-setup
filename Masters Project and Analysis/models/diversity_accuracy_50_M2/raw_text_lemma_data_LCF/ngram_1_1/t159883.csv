@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,0,11,õppima
-0,0,1,0,0,0,0,0,0,11,õppima
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,1,0,0,0,0,0,0,11,õppima
-0,0,0,0,0,0,0,1,0,11,õppima
-0,0,0,0,0,0,0,0,0,11,
-0,0,1,0,0,1,0,1,0,11,looming; ülo; õppima
-0,0,0,1,0,1,0,1,0,11,granaat; looming; ülo
-1,0,0,1,0,0,0,2,0,11,granaat; ülo; õppima
-1,0,0,0,0,0,0,2,0,11,ülo; õppima
+0,1,2,0,0,1,1,1,0,11,keelama; õppima; vanaisa
+0,1,2,0,0,1,1,1,0,11,keelama; õppima; vanaisa
+0,1,1,0,0,1,1,1,0,11,keelama; vanaisa
+0,1,1,0,0,1,1,1,0,11,keelama; vanaisa
+0,1,2,0,0,1,1,1,0,11,keelama; õppima; vanaisa
+0,1,0,0,0,0,1,1,0,11,õppima; vanaisa
+0,1,0,0,0,0,1,1,0,11,keelama; vanaisa
+0,1,1,0,0,1,1,1,0,11,looming; ülo; õppima; vanaisa
+0,1,1,1,0,1,1,1,0,11,looming; ülo; granaat; vanaisa
+1,1,0,1,0,0,1,2,0,11,ülo; õppima; granaat; vanaisa
+1,0,0,0,0,0,1,2,0,11,ülo; õppima; vanaisa

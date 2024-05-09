@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,4,0,0,1,2,1,0,17,jäätmete; laidoneri; muuseum; konkurentsivõime; sortimine; eentalu
-0,1,4,0,0,1,2,1,0,17,jäätmete; laidoneri; muuseum; konkurentsivõime; sortimine; eentalu
-0,1,4,0,0,1,2,1,0,17,jäätmete; laidoneri; muuseum; konkurentsivõime; sortimine; eentalu
-0,1,4,0,0,1,2,1,0,17,jäätmete; laidoneri; muuseum; konkurentsivõime; sortimine; eentalu
-0,1,4,0,0,1,2,1,0,17,jäätmete; laidoneri; muuseum; konkurentsivõime; sortimine; eentalu
-0,2,4,0,0,1,2,2,0,17,jäätmete; muuseum; eentalu; laidoneri; õunpuu; konkurentsivõime; sortimine
-2,1,2,0,0,1,1,2,0,17,jäätmete; laidoneri; õunpuu; konkurentsivõime; sortimine; eentalu
-0,0,3,0,0,0,1,1,0,17,jäätmete; laidoneri; konkurentsivõime; sortimine
+0,1,4,0,0,1,2,1,0,17,konkurentsivõime; jäätmete; laidoneri; eentalu; muuseum; sortimine
+0,1,4,0,0,1,2,1,0,17,konkurentsivõime; jäätmete; laidoneri; eentalu; muuseum; sortimine
+0,1,4,0,0,1,2,1,0,17,konkurentsivõime; jäätmete; laidoneri; eentalu; muuseum; sortimine
+0,1,4,0,0,1,2,1,0,17,konkurentsivõime; jäätmete; laidoneri; eentalu; muuseum; sortimine
+0,1,4,0,0,1,2,1,0,17,konkurentsivõime; jäätmete; laidoneri; eentalu; muuseum; sortimine
+0,2,4,0,0,1,2,2,0,17,jäätmete; laidoneri; eentalu; konkurentsivõime; õunpuu; muuseum; sortimine
+2,1,2,0,0,1,1,2,0,17,konkurentsivõime; jäätmete; õunpuu; laidoneri; eentalu; sortimine
+0,0,3,0,0,0,1,1,0,17,konkurentsivõime; jäätmete; laidoneri; sortimine
 0,0,1,0,0,0,2,1,0,17,konkurentsivõime; laidoneri; sortimine
-0,0,1,0,0,1,1,2,0,17,jäätmete; konkurentsivõime; riina
-0,1,1,0,0,1,3,0,0,17,konkurentsivõime; riina; venemaa; gruusia
+0,0,1,0,0,1,1,2,0,17,konkurentsivõime; jäätmete; riina
+0,1,1,0,0,1,3,0,0,17,konkurentsivõime; venemaa; gruusia; riina

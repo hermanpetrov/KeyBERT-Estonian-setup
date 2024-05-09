@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,7,7,6,7,6,7,6,11,austraalia; reis; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,6,7,6,11,austraalia; reis; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,6,7,6,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,7,6,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,6,6,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,6,6,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,7,7,11,austraalia; reis; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,7,7,11,austraalia; reis; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,7,7,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,7,6,7,7,7,7,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
-7,7,7,6,6,7,7,7,7,11,reis; austraalia; maa; hoolitsema; rändama; mulje; sugulane
+9,10,10,10,8,10,9,10,8,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,10,8,10,9,10,8,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,10,8,10,9,10,8,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+10,10,10,10,8,10,10,10,9,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+10,10,10,10,8,10,10,9,9,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,10,8,10,10,9,9,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,10,8,10,10,10,10,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,9,8,10,10,10,10,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,9,8,10,10,10,10,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,10,9,8,9,10,10,10,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa
+9,10,9,8,8,9,10,9,10,11,hoolitsema; kanakasvataja; austraalia; rändama; mulje; reis; kodumaa; sugulane; väliseestlane; maa

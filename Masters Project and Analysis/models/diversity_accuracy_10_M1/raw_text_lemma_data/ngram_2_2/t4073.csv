@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,3,3,0,1,16,majandus; itaalia; inflatsioon; eesti
-0,0,2,0,0,3,3,0,0,16,majandus; itaalia; inflatsioon; eesti
-0,0,2,0,0,3,3,0,1,16,majandus; itaalia; inflatsioon; eesti
-0,0,2,0,0,3,3,0,1,16,majandus; itaalia; inflatsioon; eesti
-0,0,2,0,0,3,3,0,1,16,majandus; itaalia; inflatsioon; eesti
-0,0,2,0,0,3,3,0,1,16,majandus; itaalia; inflatsioon; eesti
-0,1,1,0,0,3,3,0,0,16,majandus; itaalia; inflatsioon; eesti
-1,0,2,0,0,3,2,0,0,16,majandus; itaalia; inflatsioon; vare; eesti
-1,0,3,1,0,3,3,0,1,16,majandus; silvio; itaalia; inflatsioon; eesti
-0,0,1,0,0,3,3,1,0,16,majandus; itaalia; inflatsioon; eesti
-1,0,1,0,0,3,3,1,0,16,majandus; itaalia; inflatsioon; eesti
+0,0,2,0,0,3,3,0,1,16,itaalia; majandus; eesti; inflatsioon
+0,0,2,0,0,3,3,0,0,16,itaalia; majandus; eesti; inflatsioon
+0,0,2,0,0,3,3,0,1,16,itaalia; majandus; eesti; inflatsioon
+0,0,2,0,0,3,3,0,1,16,itaalia; majandus; eesti; inflatsioon
+0,0,2,0,0,3,3,0,1,16,itaalia; majandus; eesti; inflatsioon
+0,0,2,0,0,3,3,0,1,16,itaalia; majandus; eesti; inflatsioon
+0,1,1,0,0,3,3,0,0,16,itaalia; majandus; eesti; inflatsioon
+1,0,2,0,0,3,2,0,0,16,itaalia; vare; majandus; eesti; inflatsioon
+1,0,3,1,0,3,3,0,1,16,itaalia; majandus; eesti; silvio; inflatsioon
+0,1,1,0,0,3,3,1,0,16,itaalia; majandus; eesti; suurbritannia; inflatsioon
+1,0,1,0,0,4,3,1,0,16,itaalia; ettevõtlus; majandus; eesti; inflatsioon

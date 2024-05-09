@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,2,1,0,0,5,3,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,5,3,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,5,1,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,5,3,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,5,3,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,5,1,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-3,4,3,2,1,0,0,5,1,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,4,3,2,1,0,0,4,1,18,thomas; tehnoloogia; watson; kamazon; arvuti; valitsemine; kommentaar
-2,3,3,2,1,0,1,4,1,18,thomas; tehnoloogia; watson; kamazon; port; arvuti; kommentaar
-2,3,3,3,1,1,2,4,1,18,thomas; tehnoloogia; watson; kamazon; port; arvuti; valitsemine; kommentaar
-2,3,3,5,1,1,2,3,1,18,thomas; tehnoloogia; kristjan; watson; kamazon; port; arvuti; valitsemine; kommentaar
+3,5,4,3,1,1,1,5,4,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,5,4,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,5,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,5,4,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,5,4,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,5,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+4,5,4,3,1,1,1,5,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,5,4,3,1,1,1,4,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; kamazon; tehnoloogia
+3,4,4,3,1,1,2,4,2,18,arvuti; maailm; kommentaar; port; watson; thomas; kamazon; tehnoloogia
+3,4,4,4,1,2,3,4,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; port; kamazon; tehnoloogia
+3,4,4,5,1,2,3,3,2,18,arvuti; valitsemine; maailm; kommentaar; watson; thomas; port; kristjan; kamazon; tehnoloogia

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,2,2,4,3,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,3,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,3,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,3,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,3,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,2,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,0,1,2,2,4,2,15,harri; töö; loominguline; tants; ots; eesti
-0,0,2,3,1,3,2,4,2,15,töö; loominguline; ots; tants; eesti; kirill; harri; prelüüd
-1,0,1,2,1,3,2,3,2,15,harri; töö; loominguline; tants; eesti
-2,0,0,0,1,2,2,3,2,15,harri; töö; loominguline; tants; eesti
-1,0,0,0,1,1,2,3,2,15,harri; töö; loominguline; tants; eesti
+0,0,2,1,1,3,2,4,3,15,eesti; harri; töö; sümfooniaorkester; ots; loominguline; tants
+0,0,2,1,1,3,2,4,3,15,eesti; harri; töö; sümfooniaorkester; ots; loominguline; tants
+0,0,2,1,1,3,2,4,3,15,eesti; harri; töö; sümfooniaorkester; ots; loominguline; tants
+0,0,2,1,1,3,2,4,3,15,eesti; harri; töö; sümfooniaorkester; ots; loominguline; tants
+0,0,2,1,1,3,2,4,3,15,eesti; harri; töö; sümfooniaorkester; ots; loominguline; tants
+0,0,2,1,1,3,2,4,2,15,eesti; ots; harri; töö; sümfooniaorkester; loominguline; tants
+0,0,2,1,1,2,2,4,2,15,eesti; ots; harri; töö; sümfooniaorkester; loominguline; tants
+0,0,2,3,1,3,2,4,2,15,kirill; eesti; harri; töö; prelüüd; ots; loominguline; tants
+1,1,1,2,1,3,2,3,2,15,eesti; harri; töö; sümfooniaorkester; loominguline; tants
+2,1,0,0,1,2,2,3,2,15,eesti; harri; töö; sümfooniaorkester; loominguline; tants
+2,1,0,0,1,1,2,3,2,15,raudsepp; eesti; harri; töö; sümfooniaorkester; loominguline; tants

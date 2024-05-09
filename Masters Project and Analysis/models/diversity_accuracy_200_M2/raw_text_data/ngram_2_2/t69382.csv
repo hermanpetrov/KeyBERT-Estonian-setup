@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,3,2,0,3,3,6,1,11,muusika; õpetaja; medell; kuressaare; sirje; esinema; laulma
-4,3,3,2,0,3,3,6,1,11,muusika; õpetaja; medell; kuressaare; sirje; esinema; laulma
-4,3,3,2,1,3,3,5,1,11,muusika; õpetaja; medell; kuressaare; sirje; esinema; laulma
-4,3,3,2,1,3,3,5,2,11,muusika; õpetaja; medell; kuressaare; sirje; esinema; laulma
-5,2,2,2,1,3,3,5,2,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema; laulma
-5,2,2,2,1,2,2,4,3,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema; laulma
-5,4,4,4,1,0,1,6,3,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema; laulma
-4,1,3,4,1,2,1,3,3,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema
-3,2,2,4,3,1,1,3,3,11,muusika; õpetaja; medell; kuressaare; sirje; esinema; laulma
-3,1,3,6,3,2,1,4,3,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema; laulma
-2,2,3,5,3,1,1,4,3,11,muusika; õpetaja; medell; kuressaare; sirje; perekond; esinema; laulma
+4,3,3,2,0,3,3,6,1,11,medell; sirje; muusika; õpetaja; kuressaare; esinema; laulma
+4,3,3,2,0,3,3,6,1,11,medell; sirje; muusika; õpetaja; kuressaare; esinema; laulma
+4,3,3,2,1,3,3,5,1,11,medell; sirje; muusika; õpetaja; kuressaare; esinema; laulma
+4,3,3,2,1,3,3,5,2,11,medell; sirje; muusika; õpetaja; kuressaare; esinema; laulma
+5,2,2,2,1,3,3,5,2,11,medell; sirje; perekond; muusika; õpetaja; kuressaare; esinema; laulma
+5,2,2,2,1,2,2,4,3,11,medell; sirje; perekond; muusika; õpetaja; kuressaare; esinema; laulma
+5,4,4,4,1,0,1,6,3,11,medell; sirje; perekond; muusika; õpetaja; kuressaare; esinema; laulma
+4,1,3,4,1,2,1,3,3,11,medell; perekond; muusika; esinema; kuressaare; õpetaja; sirje
+3,2,2,4,3,1,1,3,3,11,medell; sirje; muusika; esinema; kuressaare; õpetaja; laulma
+3,1,3,6,3,2,1,4,3,11,medell; sirje; perekond; muusika; esinema; kuressaare; õpetaja; laulma
+2,2,3,5,3,1,1,4,3,11,medell; sirje; perekond; muusika; esinema; kuressaare; õpetaja; laulma

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,8,7,7,4,8,7,9,7,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,8,8,7,5,8,7,9,7,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,8,8,5,8,8,8,7,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,8,8,5,8,9,9,7,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,9,8,7,9,8,9,7,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,8,9,8,9,9,9,8,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-8,9,9,9,8,8,8,9,8,12,ivo; kinni; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-8,9,9,9,7,9,9,9,8,12,ivo; kinni; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-8,9,9,9,8,9,9,9,8,12,kinni; ivo; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,9,9,9,9,9,9,9,12,ivo; kinni; tema; poeg; uukkivi; tuisk; torm; käsi; isa
-9,9,9,9,9,9,9,9,9,12,ivo; kinni; tema; poeg; uukkivi; tuisk; torm; käsi; isa
+9,8,7,7,4,7,9,7,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,8,8,7,5,7,9,7,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,8,8,5,8,8,7,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,8,8,5,9,9,7,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,9,8,7,8,9,7,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,8,9,8,9,9,8,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+8,9,9,9,8,8,9,8,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+8,9,9,9,7,9,9,8,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+8,9,9,9,8,9,9,8,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,9,9,9,9,9,9,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo
+9,9,9,9,9,9,9,9,0,12,uukkivi; tema; kinni; tuisk; isa; torm; poeg; käsi; ivo

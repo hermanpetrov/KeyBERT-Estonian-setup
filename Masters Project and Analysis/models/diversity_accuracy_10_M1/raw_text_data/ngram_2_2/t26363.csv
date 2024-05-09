@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-1,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-2,2,1,0,0,0,1,1,1,11,ludwig; meeleliigutus; kanakasvataja; eesti; austraalia
-0,2,1,0,0,0,1,2,1,11,ludwig; meeleliigutus; kanakasvataja; austraalia
-0,2,1,0,0,1,1,1,1,11,ludwig; meeleliigutus; austraalia
-1,2,0,0,0,1,1,1,1,11,ludwig; meeleliigutus; austraalia
-1,2,2,0,0,1,0,1,1,11,ludwig; meeleliigutus; kanakasvataja; eesti; austraalia
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+1,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+2,2,1,0,0,0,1,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig; eesti
+0,2,1,0,0,0,1,2,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig
+0,2,1,0,0,1,1,1,1,11,meeleliigutus; austraalia; ludwig
+1,2,0,0,0,1,1,1,1,11,austraalia; ludwig; meeleliigutus
+1,2,2,0,0,1,0,1,1,11,kanakasvataja; meeleliigutus; austraalia; ludwig; eesti

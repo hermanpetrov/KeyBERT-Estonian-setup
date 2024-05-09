@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,8,7,9,3,12,11,11,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; itaalia; teater
-10,8,8,9,3,12,12,12,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; itaalia; teater
-10,8,8,9,3,13,12,12,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; itaalia; teater
-10,9,9,10,6,13,11,12,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; itaalia; teater
-9,9,10,10,8,13,11,12,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; itaalia; teater
-10,9,12,8,9,12,11,13,12,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; ballett; estonia; teater; itaalia
-13,10,11,12,10,11,11,13,13,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; wagner; mai; estonia; ballett; itaalia; teater
-9,10,10,10,11,11,10,12,12,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
-10,9,11,9,11,13,10,13,12,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; ballett; estonia; teater; itaalia
-8,10,12,12,12,12,11,12,11,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
-8,9,13,12,12,10,10,11,12,16,eino; kuusk; tamberg; keel; ooper; kuusik; ivo; mai; wagner; estonia; ballett; itaalia; teater
+10,8,7,10,3,13,11,11,11,16,ivo; tamberg; ballett; eino; itaalia; teater; murdmaa; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+10,8,8,10,3,13,12,12,11,16,ivo; tamberg; ballett; eino; itaalia; teater; murdmaa; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+10,8,8,10,3,14,12,13,11,16,ivo; tamberg; ballett; eino; itaalia; teater; murdmaa; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+10,10,9,11,6,14,11,13,11,16,ivo; tamberg; ballett; eino; itaalia; teater; murdmaa; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+10,10,10,11,8,14,11,13,11,16,ivo; tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+11,10,13,9,9,12,11,14,13,16,ivo; tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; mai; keel; ooper; kuusik; estonia
+13,11,12,13,11,11,11,14,14,16,tamberg; ballett; eino; itaalia; teater; murdmaa; wagner; kuusk; estonia; mai; keel; ooper; kuusik; ivo
+10,11,10,11,12,12,10,13,13,16,tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; estonia; mai; keel; ooper; kuusik; ivo
+11,10,12,10,12,14,11,14,13,16,tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; estonia; mai; keel; ooper; kuusik; ivo
+9,11,13,13,13,13,12,13,12,16,tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; estonia; mai; keel; ooper; kuusik; ivo
+9,10,14,13,13,11,10,12,13,16,tamberg; ballett; eino; itaalia; murdmaa; teater; wagner; kuusk; estonia; mai; keel; ooper; kuusik; ivo

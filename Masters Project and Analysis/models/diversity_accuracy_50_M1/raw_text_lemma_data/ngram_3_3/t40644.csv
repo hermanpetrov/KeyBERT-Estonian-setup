@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,0,1,0,0,0,2,0,19,andres; kalkun; mustonen; robert; orpheus; bach; irene
-5,1,0,1,0,0,0,2,0,19,andres; kalkun; mustonen; robert; orpheus; bach; irene
-5,1,0,1,0,0,0,2,0,19,andres; kalkun; mustonen; robert; orpheus; bach; irene
-5,1,0,1,0,0,0,2,0,19,andres; kalkun; mustonen; robert; orpheus; bach; irene
-5,1,0,1,0,1,0,2,0,19,andres; kalkun; mustonen; robert; orpheus; bach; mari; irene
-5,1,1,1,0,2,2,5,0,19,andres; lill; kalkun; folkloor; mustonen; robert; orpheus; bach; mari; irene; igor
-5,3,1,6,0,3,4,3,0,19,andres; lill; kalkun; mustonen; robert; orpheus; bach; musicus; mari; irene
-5,4,1,5,1,4,4,2,0,19,andres; tšello; lill; kalkun; mustonen; robert; bach; mari; orpheus; irene; viiul
-5,1,1,1,3,3,1,5,1,19,andres; tšello; lill; kalkun; folkloor; mustonen; robert; musicus; orpheus; mari; irene; viiul
-3,1,2,1,3,4,1,4,5,19,andres; lill; folkloor; kalkun; robert; orpheus; mari; irene; viiul; igor
-5,0,3,0,3,2,2,2,4,19,andres; lill; folkloor; kalkun; robert; orpheus; mari; bach; musicus; hortus; irene; viiul
+5,1,0,1,0,0,0,2,0,19,robert; irene; bach; mustonen; andres; kalkun; orpheus
+5,1,0,1,0,0,0,2,0,19,robert; irene; bach; mustonen; andres; kalkun; orpheus
+5,1,0,1,0,0,0,2,0,19,robert; irene; bach; mustonen; andres; kalkun; orpheus
+5,1,0,1,0,0,0,2,0,19,robert; irene; bach; mustonen; andres; kalkun; orpheus
+5,1,0,1,0,1,0,2,0,19,mari; robert; irene; bach; mustonen; andres; kalkun; orpheus
+5,1,1,1,0,2,2,5,0,19,lill; mari; robert; irene; bach; igor; folkloor; mustonen; andres; kalkun; orpheus
+5,3,1,6,0,3,4,3,0,19,lill; mari; irene; robert; musicus; bach; mustonen; andres; kalkun; orpheus
+5,4,1,5,1,4,4,2,0,19,lill; mari; robert; irene; bach; viiul; mustonen; andres; tšello; kalkun; orpheus
+5,1,1,1,3,3,1,5,1,19,lill; mari; irene; robert; musicus; viiul; folkloor; mustonen; andres; tšello; kalkun; orpheus
+3,1,2,1,3,4,1,4,5,19,lill; mari; irene; robert; igor; viiul; folkloor; andres; kalkun; orpheus
+5,0,3,0,3,2,2,2,4,19,lill; mari; irene; robert; hortus; musicus; bach; viiul; folkloor; andres; kalkun; orpheus

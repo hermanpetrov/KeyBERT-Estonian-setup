@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-2,1,0,1,0,1,1,0,0,16,restoran; ukraina; nädal
-0,1,1,0,0,1,1,0,0,16,restoran; ukraina
-0,1,1,1,0,1,1,0,0,16,restoran; ukraina
-0,2,0,1,0,1,1,0,1,16,restoran; ukraina
-0,1,1,0,0,1,1,0,0,16,ukraina
-2,1,0,2,1,1,1,0,0,16,hans; restoran; ukraina; üro
+2,1,2,1,0,3,2,2,2,16,ukraina; jalgpall; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; restoran
+2,1,2,1,0,3,2,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,1,2,1,0,3,2,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,1,2,1,0,3,2,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,1,2,1,0,3,2,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,1,1,1,0,3,2,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+0,1,3,0,0,3,1,1,0,16,ukraina; kooliturvalisus; koolitulistamine; restoran
+0,1,2,1,0,3,3,2,2,16,ukraina; julgeolekunõukogu; jalgpall; kooliturvalisus; koolitulistamine; restoran; meistrivõistlus
+1,3,1,1,0,2,3,1,3,16,ukraina; julgeolekunõukogu; jalgpall; kooliturvalisus; restoran; meistrivõistlus
+1,1,2,0,0,2,4,1,0,16,ukraina; julgeolekunõukogu; õhurünnak; kooliturvalisus; meistrivõistlus
+2,2,2,2,1,2,4,1,0,16,üro; ukraina; hans; kooliturvalisus; koolitulistamine; meistrivõistlus; julgeolekunõukogu; õhurünnak; restoran

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-2,1,0,0,0,0,1,0,0,16,restoran; ukraina; nädal
-0,1,0,0,0,1,1,0,0,16,restoran; ukraina
-0,0,0,1,0,1,2,1,0,16,tõnu; ukraina; üro
-1,0,0,2,0,2,1,0,0,16,hans; restoran; ukraina; üro
-1,0,1,2,0,2,1,0,0,16,hans; ukraina; üro
-1,0,1,0,0,1,2,1,0,16,nädal; tõnu; ukraina; üro
+2,2,2,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,2,2,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,2,2,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,2,2,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,2,2,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+2,2,1,0,0,2,3,2,0,16,ukraina; kooliturvalisus; koolitulistamine; nädal; restoran
+1,2,2,0,0,3,3,2,0,16,ukraina; õhurünnak; koolitulistamine; kooliturvalisus; restoran
+1,1,2,1,0,3,4,3,0,16,üro; ukraina; õhurünnak; koolitulistamine; kooliturvalisus; tõnu
+1,1,1,2,0,4,3,1,0,16,üro; ukraina; hans; kooliturvalisus; koolitulistamine; restoran
+1,1,2,2,0,3,3,2,0,16,üro; ukraina; julgeolekunõukogu; hans; kooliturvalisus; koolitulistamine
+1,0,2,0,0,2,5,2,0,16,üro; ukraina; julgeolekunõukogu; kooliturvalisus; koolitulistamine; nädal; meistrivõistlus; tõnu

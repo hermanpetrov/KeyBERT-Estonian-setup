@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-0,2,1,1,0,1,1,0,2,17,festival; riiklik; kaljuste; akustika; helsingi
-1,2,1,2,0,3,2,2,2,17,festival; riiklik; annika; pärt; kaljuste; tõnu; akustika; helsingi
-4,2,2,0,0,0,1,3,2,17,festival; paavo; riiklik; annika; kaljuste; tõnu; akustika; helsingi
-2,2,2,0,0,0,0,3,1,17,festival; annika; kaljuste; tõnu; akustika; helsingi
-2,1,2,2,0,0,1,1,0,17,festival; annika; kaljuste; tõnu; akustika; arvo; helsingi
-0,1,1,2,0,1,1,2,0,17,festival; annika; kaljuste; tõnu; akustika; helsingi
+0,3,2,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+0,3,2,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+0,3,2,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+0,2,2,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+0,2,2,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+0,2,1,1,0,2,3,0,3,17,kaljuste; helsingi; riiklik; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival
+2,3,1,3,0,5,4,3,3,17,kaljuste; helsingi; riiklik; pärt; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; annika; festival; tõnu
+6,4,2,1,0,1,1,4,3,17,kaljuste; riiklik; helsingi; sümfooniaorkester; kontserdisaal; läänemeri; paavo; akustika; annika; festival; tõnu
+2,2,2,1,0,1,2,5,3,17,kaljuste; helsingi; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; annika; festival; tõnu
+3,2,3,2,0,2,2,2,1,17,kaljuste; helsingi; sümfooniaorkester; kontserdisaal; läänemeri; akustika; linnaorkester; arvo; annika; festival; tõnu
+1,1,1,2,0,3,2,3,1,17,kaljuste; helsingi; sümfooniaorkester; kontserdisaal; läänemeri; akustika; annika; festival; tõnu

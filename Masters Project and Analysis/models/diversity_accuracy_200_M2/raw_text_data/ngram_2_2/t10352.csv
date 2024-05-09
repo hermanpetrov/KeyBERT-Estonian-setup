@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,1,3,3,1,1,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-4,3,1,3,3,1,1,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-4,3,1,3,3,1,0,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,1,1,3,3,1,0,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,1,2,3,2,1,0,1,4,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,2,3,3,1,2,1,0,4,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-4,1,3,1,1,3,1,2,4,12,nappus; ressursside; nälg; konkurents; ökoloogiline; rahvaarv; sõda
-0,1,3,1,1,3,2,4,4,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-0,2,3,1,1,2,5,2,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-1,2,2,1,1,4,3,4,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-1,1,1,1,1,1,4,5,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
+4,3,1,3,3,1,1,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,3,1,3,3,1,1,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,3,1,3,3,1,0,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+3,1,1,3,3,1,0,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+3,1,2,3,2,1,0,1,4,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+3,2,3,3,1,2,1,0,4,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,1,3,1,1,3,1,2,4,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+0,1,3,1,1,3,2,4,4,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+0,2,3,1,1,2,5,2,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+1,2,2,1,1,4,3,4,3,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+1,1,1,1,1,1,4,5,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline

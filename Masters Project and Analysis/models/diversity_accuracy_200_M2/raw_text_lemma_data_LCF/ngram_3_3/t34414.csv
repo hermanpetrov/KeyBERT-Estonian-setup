@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,7,6,6,5,6,7,6,6,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-7,7,6,6,5,6,7,6,6,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-7,7,6,6,5,5,7,6,6,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-7,7,6,6,5,5,7,6,6,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-6,7,7,6,7,5,5,6,6,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-6,7,5,6,7,6,7,6,5,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-5,7,5,6,7,7,6,6,5,16,aus; elering; inflatsioon; tartu; komisjon; euro; euroopa
-6,6,5,6,7,5,6,6,5,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-6,6,6,6,7,6,6,6,5,16,aus; inflatsioon; euroopa; tartu; komisjon; euro; elering
-5,6,7,6,7,7,6,7,5,16,aus; elering; inflatsioon; tartu; komisjon; euro; euroopa
-5,6,6,6,6,6,6,7,5,16,aus; elering; inflatsioon; tartu; komisjon; euro; euroopa
+12,13,12,12,7,11,12,10,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; inflatsioon; laevaliiklus; rahvakultuurifestiva
+13,13,12,12,7,11,12,10,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+13,13,12,12,7,10,12,10,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+13,13,11,12,7,10,12,10,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+12,13,13,12,10,11,9,12,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+12,13,11,12,10,12,11,11,9,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+10,13,11,11,11,13,11,12,9,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; inflatsioon; laevaliiklus; rahvakultuurifestiva
+11,11,11,12,12,11,11,11,10,16,üleeuroopaline; komisjon; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+9,12,12,11,12,10,11,11,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+8,12,13,11,13,11,11,13,10,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon
+7,11,12,11,12,10,10,13,9,16,komisjon; üleeuroopaline; aus; tartu; euro; osaühing; euroopa; ida-virumaa; elering; üleminek; laevaliiklus; rahvakultuurifestiva; inflatsioon

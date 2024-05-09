@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,1,1,2,2,13,prototüüp; stalin; film
-1,1,1,1,0,2,1,3,2,13,film; furmanov; stalin; prototüüp
-2,1,1,2,0,3,1,2,2,13,film; furmanov; stalin; prototüüp
-0,1,1,2,0,2,1,2,2,13,film; stalin; prototüüp
-0,1,1,1,0,1,2,2,2,13,prototüüp; film; liit; stalin
-0,1,1,1,0,1,2,2,2,13,prototüüp; film; liit; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,1,1,2,2,13,film; prototüüp; stalin
+1,1,1,1,0,2,1,3,2,13,film; prototüüp; stalin; furmanov
+2,1,2,3,0,3,1,2,2,13,film; kodusõda; stalin; prototüüp; chapaev; furmanov
+0,1,1,3,0,2,1,3,2,13,film; masnikova; prototüüp; nõukogu; stalin
+1,1,1,2,0,2,3,2,2,13,film; kodusõda; masnikova; prototüüp; nõukogu; stalin; liit
+0,1,1,2,0,2,3,3,2,13,film; masnikova; prototüüp; nõukogu; stalin; liit

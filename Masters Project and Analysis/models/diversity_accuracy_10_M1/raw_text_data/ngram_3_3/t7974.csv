@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,1,3,3,1,1,12,lugu; tarand; mari; kadakas; sõna
-2,0,0,0,1,3,3,1,1,12,lugu; tarand; mari; kadakas; sõna
-2,0,0,0,1,3,3,1,1,12,lugu; tarand; mari; kadakas; sõna
-2,0,0,0,1,3,3,1,1,12,lugu; tarand; mari; kadakas; sõna
-2,0,0,0,1,3,3,1,1,12,lugu; tarand; mari; kadakas; sõna
-1,0,1,0,1,4,3,2,1,12,lugu; tarand; mari; kadakas; sõna
-0,0,5,2,1,3,4,1,1,12,aabits; kadakas; esimene; lugu; tarand; mari; sõna
-0,0,3,0,1,2,3,1,1,12,tarand; mari; kadakas; esimene; sõna
-1,2,4,1,1,2,2,1,1,12,aabits; tarand; mari; raha; kadakas; esimene; sõna
-1,0,1,1,1,2,2,2,1,12,tarand; mari; raha; kadakas; sõna
-0,0,2,2,1,2,2,0,1,12,tarand; mari; kadakas; sõna
+2,0,0,0,1,3,3,1,1,12,mari; kadakas; lugu; sõna; tarand
+2,0,0,0,1,3,3,1,1,12,mari; kadakas; lugu; sõna; tarand
+2,0,0,0,1,3,3,1,1,12,mari; kadakas; lugu; sõna; tarand
+2,0,0,0,1,3,3,1,1,12,mari; kadakas; lugu; sõna; tarand
+2,0,0,0,1,3,3,1,1,12,mari; kadakas; lugu; sõna; tarand
+1,0,1,0,1,4,3,2,1,12,mari; kadakas; lugu; sõna; tarand
+0,0,5,2,1,3,4,1,1,12,mari; aabits; kadakas; esimene; lugu; sõna; tarand
+0,0,3,0,1,2,3,1,1,12,mari; kadakas; esimene; sõna; tarand
+1,2,4,1,1,2,2,1,1,12,mari; aabits; esimene; kadakas; raha; sõna; tarand
+1,0,1,1,1,2,2,2,1,12,mari; kadakas; raha; sõna; tarand
+0,0,2,2,1,2,2,0,1,12,mari; kadakas; sõna; tarand

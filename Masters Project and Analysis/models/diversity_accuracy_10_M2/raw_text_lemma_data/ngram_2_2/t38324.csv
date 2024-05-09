@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,1,1,2,2,1,13,talv; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,1,1,1,1,1,2,2,1,13,talv; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,1,1,1,1,1,2,2,1,13,talv; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,1,1,1,1,1,2,2,1,13,talv; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,1,1,1,1,1,2,2,1,13,talv; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,1,0,1,1,1,2,2,1,13,talv; soome; muuseum; kirjanik; rootsi; ekspeditsioon; ilmar
-0,2,1,1,1,1,2,2,1,13,talv; soome; kirjanik; muuseum; rootsi; ekspeditsioon; ilmar
-0,0,1,2,1,1,1,1,1,13,talv; muuseum; etnoloog; ilmar
-0,0,0,1,1,2,1,1,1,13,talv; soome; etnoloog; ilmar
-0,0,2,1,1,1,2,1,1,13,talv; muuseum; ekspeditsioon; etnoloog; ilmar
-1,0,1,0,1,1,2,1,1,13,talv; muuseum; ekspeditsioon; etnoloog; ilmar
+0,1,1,1,1,1,3,2,1,13,ekspeditsioon; rootsi; maapagu; kirjanik; talv; ilmar; muuseum
+0,1,1,1,1,1,3,2,1,13,ekspeditsioon; rootsi; maapagu; kirjanik; talv; ilmar; muuseum
+0,1,1,1,1,1,3,2,1,13,ekspeditsioon; rootsi; maapagu; kirjanik; talv; ilmar; muuseum
+0,1,1,1,1,1,3,2,1,13,ekspeditsioon; rootsi; maapagu; kirjanik; talv; ilmar; muuseum
+0,1,1,1,1,1,3,2,1,13,ekspeditsioon; rootsi; maapagu; kirjanik; talv; ilmar; muuseum
+0,1,0,1,1,1,3,2,1,13,rootsi; soome; kirjanik; ilmar; ekspeditsioon; maapagu; talv; muuseum
+0,2,1,1,1,1,2,2,1,13,ekspeditsioon; rootsi; soome; kirjanik; talv; ilmar; muuseum
+0,0,1,2,1,1,1,1,1,13,talv; ilmar; muuseum; etnoloog
+0,0,0,1,1,2,1,1,1,13,soome; talv; ilmar; etnoloog
+0,0,2,1,1,1,2,1,1,13,ekspeditsioon; talv; ilmar; muuseum; etnoloog
+1,0,1,0,1,1,2,1,1,13,ekspeditsioon; talv; ilmar; muuseum; etnoloog

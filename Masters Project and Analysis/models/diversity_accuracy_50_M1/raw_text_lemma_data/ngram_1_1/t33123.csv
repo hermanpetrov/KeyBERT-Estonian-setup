@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,2,1,2,1,14,inglise; keel; tõlgendus
-1,0,1,0,0,2,1,2,1,14,inglise; keel; tõlgendus
-1,0,1,0,0,2,1,2,1,14,inglise; keel; tõlgendus
-1,0,1,0,0,2,1,2,1,14,inglise; keel; tõlgendus
-1,0,3,0,0,2,1,2,1,14,krista; inglise; keel; tõlgendus
-1,0,3,0,0,1,1,2,1,14,krista; inglise; keel; tõlgendus; kerge
-1,0,2,0,0,1,0,1,1,14,krista; inglise; keel; tõlgendus; kerge
-0,0,1,0,0,1,0,1,1,14,keel; tõlgendus; krista; inglise
-0,0,3,0,0,1,0,0,1,14,krista; inglise; tõlgendus; kerge
-0,0,3,0,0,0,0,0,1,14,tõlgendus; krista; inglise
-0,0,1,0,0,1,0,0,1,14,tõlgendus; krista
+2,0,4,0,0,6,4,5,2,14,rakenduslingvistika; tõlgendus; noortekeel; inglise; keel; koolikeel; keelekorraldus
+2,0,4,0,0,6,4,5,2,14,rakenduslingvistika; tõlgendus; noortekeel; inglise; keel; koolikeel; keelekorraldus
+2,0,4,0,0,6,4,5,2,14,rakenduslingvistika; tõlgendus; noortekeel; inglise; keel; koolikeel; keelekorraldus
+2,0,3,0,0,6,4,5,2,14,rakenduslingvistika; tõlgendus; noortekeel; inglise; keel; koolikeel; keelekorraldus
+2,0,5,0,0,6,4,5,2,14,rakenduslingvistika; tõlgendus; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+1,0,4,0,0,5,4,5,2,14,rakenduslingvistika; tõlgendus; kerge; noortekeel; inglise; keel; koolikeel; keelekorraldus; krista
+2,0,3,1,0,3,2,3,2,14,rakenduslingvistika; tõlgendus; kerge; noortekeel; inglise; keel; koolikeel; krista
+0,0,2,1,0,2,2,2,2,14,rakenduslingvistika; tõlgendus; noortekeel; ilukirjandus; inglise; keel; koolikeel; krista
+1,0,4,0,0,1,1,2,2,14,rakenduslingvistika; tõlgendus; kerge; noortekeel; fikseerimine; inglise; krista
+1,0,4,0,0,0,0,2,1,14,rakenduslingvistika; inglise; tõlgendus; noortekeel; krista; fikseerimine
+0,0,1,0,0,1,0,2,2,14,tõlgendus; noortekeel; koolikeel; krista; fikseerimine

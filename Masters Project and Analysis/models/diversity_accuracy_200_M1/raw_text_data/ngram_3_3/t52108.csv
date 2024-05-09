@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,9,7,7,6,6,6,8,4,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-6,9,7,7,6,5,6,8,4,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-6,8,7,7,6,6,7,8,4,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-6,7,7,7,6,6,7,8,4,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-5,8,7,7,6,8,9,7,4,14,lilli; disainer; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-5,6,6,8,7,8,8,7,4,14,lilli; disainer; privileeg; talv; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-6,7,6,9,7,8,9,6,4,14,talv; suursponsor; kollektsioon; lilli; disainer; privileeg; eesti; jahilo; moenädal; moekunstnik
-1,5,5,8,7,8,7,8,4,14,lilli; disainer; talv; privileeg; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-3,5,8,7,8,5,9,7,4,14,disainer; privileeg; lilli; talv; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-3,6,6,5,7,5,6,5,4,14,lilli; privileeg; disainer; talv; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
-3,5,8,5,6,6,6,5,6,14,lilli; privileeg; disainer; talv; suursponsor; eesti; jahilo; kollektsioon; moenädal; moekunstnik
+6,9,7,7,6,6,6,8,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+6,9,7,7,6,5,6,8,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+6,8,7,7,6,6,7,8,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+6,7,7,7,6,6,7,8,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+5,8,7,7,6,8,9,7,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli
+5,6,6,8,7,8,8,7,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; kollektsioon; disainer; jahilo; lilli; talv
+6,7,6,9,7,8,9,6,4,14,suursponsor; privileeg; lilli; eesti; moekunstnik; moenädal; kollektsioon; disainer; jahilo; talv
+1,5,5,8,7,8,7,8,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; disainer; kollektsioon; jahilo; lilli; talv
+3,5,8,7,8,5,9,7,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; disainer; kollektsioon; jahilo; lilli; talv
+3,6,6,5,7,5,6,5,4,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; disainer; kollektsioon; jahilo; lilli; talv
+3,5,8,5,6,6,6,5,6,14,suursponsor; eesti; moekunstnik; privileeg; moenädal; disainer; kollektsioon; jahilo; lilli; talv

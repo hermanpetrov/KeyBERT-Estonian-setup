@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,6,0,4,3,3,5,1,16,sümboolne; kunstnike; võim; maria-kristiina; kunstnik; anders; kriitik; härm; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum
-4,2,5,0,4,3,3,5,1,16,sümboolne; kunstnike; soomre; võim; maria-kristiina; kunstnik; kriitik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum
-4,2,4,0,4,1,3,5,1,16,sümboolne; kunstnike; soomre; võim; maria-kristiina; kunstnik; kriitik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum
-3,2,1,0,4,1,3,4,1,16,kunstnike; võim; maria-kristiina; kriitik; anders; kuraator; publik; reaalne; kunstimaailm; kunstimuuseum
-2,2,2,0,4,1,3,3,1,16,soomre; võim; maria-kristiina; kriitik; anders; kuraator; publik; reaalne; kunstimaailm
-1,2,1,1,4,1,2,2,1,16,võim; maria-kristiina; kriitik; anders; kuraator; publik; reaalne
-0,0,1,2,4,1,1,1,1,16,anders; kriitik; kuraator; institutsioon; reaalne; võim; maria-kristiina
-1,1,2,0,2,1,1,1,1,16,kriitik; anders; reaalne; võim; maria-kristiina
-1,1,2,1,3,1,1,1,1,16,kriitik; anders; kuraator; institutsioon; soomre; võim; maria-kristiina
-0,1,1,3,2,1,1,1,2,16,institutsioon; soomre; võim; maria-kristiina; kriitik; anders; härm
-0,2,2,2,0,1,1,1,2,16,institutsioon; soomre; võim; maria-kristiina; kriitik; anders; publik; liit; kunstimuuseum
+4,1,6,0,4,3,3,5,1,16,kriitik; kuraator; maria-kristiina; sümboolne; kunstimaailm; härm; reaalne; kunstnike; anders; publik; kunstnik; võim; kunstimuuseum
+4,2,5,0,4,3,3,5,1,16,kriitik; kuraator; maria-kristiina; sümboolne; kunstimaailm; soomre; reaalne; kunstnike; anders; publik; kunstnik; võim; kunstimuuseum
+4,2,4,0,4,1,3,5,1,16,kriitik; kuraator; maria-kristiina; sümboolne; kunstimaailm; soomre; reaalne; kunstnike; anders; publik; kunstnik; võim; kunstimuuseum
+3,2,1,0,4,1,3,4,1,16,kriitik; kuraator; kunstimuuseum; maria-kristiina; kunstimaailm; reaalne; kunstnike; publik; võim; anders
+2,2,2,0,4,1,3,3,1,16,kriitik; kuraator; maria-kristiina; kunstimaailm; soomre; reaalne; publik; võim; anders
+1,2,1,1,4,1,2,2,1,16,kriitik; kuraator; maria-kristiina; reaalne; publik; võim; anders
+0,0,1,2,4,1,1,1,1,16,anders; kriitik; institutsioon; maria-kristiina; võim; reaalne; kuraator
+1,1,2,0,2,1,1,1,1,16,kriitik; maria-kristiina; võim; reaalne; anders
+1,1,2,1,3,1,1,1,1,16,anders; kriitik; institutsioon; maria-kristiina; võim; soomre; kuraator
+0,1,1,3,2,1,1,1,2,16,kriitik; institutsioon; härm; maria-kristiina; soomre; võim; anders
+0,2,2,2,0,1,1,1,2,16,kriitik; institutsioon; kunstimuuseum; maria-kristiina; soomre; publik; liit; võim; anders

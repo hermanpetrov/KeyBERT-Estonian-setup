@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,5,0,3,1,4,1,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-2,2,5,0,3,1,4,1,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-1,2,4,0,3,1,3,2,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-1,2,4,0,3,1,2,2,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-1,4,4,0,4,4,2,2,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-0,4,4,0,4,5,3,2,2,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-0,2,3,5,4,3,4,2,1,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule
-0,2,3,2,4,4,5,5,1,12,kristi; raha; julgus; hall; eriline; mass; ajakirjandus; aule; tasuline
-0,2,3,3,3,5,4,3,2,12,kristi; raha; julgus; hall; mass; ajakirjandus; aule; tasuline
-0,2,4,2,4,5,4,6,3,12,kristi; raha; julgus; hall; mass; ajakirjandus; aule; tasuline
-0,3,3,3,5,4,2,4,2,12,kristi; raha; julgus; hall; mass; ajakirjandus; aule; tasuline
+2,2,5,0,3,1,4,1,2,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+2,2,5,0,3,1,4,1,2,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+1,2,4,0,3,1,3,2,2,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+1,2,4,0,3,1,2,2,2,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+1,4,4,0,4,4,2,2,2,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+0,4,4,0,4,5,3,2,2,12,julgus; hall; eriline; aule; mass; tasuline; raha; ajakirjandus; kristi
+0,2,3,5,4,3,4,2,1,12,julgus; hall; eriline; aule; mass; raha; ajakirjandus; kristi
+0,2,3,2,4,4,5,5,1,12,julgus; hall; eriline; aule; tasuline; mass; raha; ajakirjandus; kristi
+0,2,3,3,3,5,4,3,2,12,julgus; hall; aule; tasuline; mass; raha; ajakirjandus; kristi
+0,2,4,2,4,5,4,6,3,12,julgus; hall; aule; tasuline; mass; raha; ajakirjandus; kristi
+0,3,3,3,5,4,2,4,2,12,julgus; hall; aule; tasuline; mass; raha; ajakirjandus; kristi

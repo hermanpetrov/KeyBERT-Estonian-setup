@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,2,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; massikultuur
-1,0,0,2,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; massikultuur
-1,0,0,2,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; massikultuur
-1,0,0,2,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; massikultuur
-1,0,0,2,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; massikultuur
-1,0,2,1,0,1,1,1,0,12,sotsioloog; popkultuur; muusika; elektrooniline
-1,0,1,0,0,1,0,1,0,12,sotsioloog; popkultuur
-2,0,2,0,0,2,1,1,0,12,sotsioloog; popkultuur; elektrooniline; massikultuur
-1,0,0,0,0,1,2,4,0,12,sotsioloog; popkultuur; muusika; sildvee; reimo; massikultuur
-1,1,1,0,0,3,2,3,0,12,sotsioloog; popkultuur; muusika; sildvee; elektrooniline; massikultuur
-1,0,0,0,0,1,2,1,0,12,sotsioloog; popkultuur
+2,1,1,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; klubikultuur; massikultuur
+2,1,1,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; klubikultuur; massikultuur
+2,1,1,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; klubikultuur; massikultuur
+2,1,1,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; klubikultuur; massikultuur
+2,1,1,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; klubikultuur; massikultuur
+2,1,3,2,0,2,2,2,1,12,muusika; popkultuur; sotsioloog; elektrooniline; klubikultuur
+2,1,2,0,0,2,1,2,1,12,popkultuur; sotsioloog; klubikultuur
+2,2,3,0,0,3,2,2,1,12,sotsioloog; klubikultuur; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+2,1,1,0,0,2,3,5,1,12,sotsioloog; reimo; klubikultuur; muusika; sildvee; popkultuur; massikultuur
+2,3,2,0,0,4,3,4,1,12,sotsioloog; klubikultuur; muusika; bakalaureusetötö; sildvee; popkultuur; elektrooniline; massikultuur
+1,2,1,0,0,2,3,3,1,12,bakalaureusetötö; popkultuur; sotsioloog; klubikultuur

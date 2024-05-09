@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,4,1,4,2,0,0,15,klaas; rinne; edgar; selberg; saul; peeter; artur; viktoriin; varietee; naljakas
-2,0,0,4,1,4,2,0,0,15,klaas; rinne; edgar; selberg; saul; peeter; artur; viktoriin; varietee; naljakas
-2,0,0,4,1,4,2,0,0,15,klaas; rinne; edgar; selberg; saul; peeter; artur; viktoriin; varietee; naljakas
-2,0,0,4,1,4,2,0,0,15,klaas; rinne; edgar; selberg; saul; peeter; artur; viktoriin; varietee; naljakas
-3,0,0,4,1,6,2,0,0,15,klaas; rinne; edgar; selberg; saul; jaak; peeter; artur; viktoriin; varietee; joala; naljakas
-1,0,0,5,1,3,1,0,0,15,klaas; rinne; edgar; selberg; peeter; artur; viktoriin; varietee; naljakas
-3,1,0,3,1,3,1,0,0,15,artur; edgar; selberg; varietee; joala; peeter
-2,1,2,2,1,2,1,2,0,15,rinne; juhtum; edgar; selberg; peeter; artur; varietee; joala
-3,2,2,1,1,1,3,1,0,15,klaas; juhtum; edgar; selberg; artur; varietee; joala
-1,1,1,0,1,3,3,2,0,15,artur; juhtum; edgar; naljakas; selberg; varietee; joala
-3,2,0,0,1,1,3,3,0,15,klaas; juhtum; edgar; selberg; saul; peeter; artur; viktoriin
+2,1,0,5,1,5,2,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; klaas; varietee; selberg; saul; estraadiorkester
+2,1,0,5,1,5,2,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; klaas; varietee; selberg; saul; estraadiorkester
+2,1,0,5,1,5,2,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; klaas; varietee; selberg; saul; estraadiorkester
+2,1,1,5,1,5,2,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; klaas; varietee; selberg; saul; estraadiorkester; pillimees
+3,1,1,5,1,7,2,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; varietee; klaas; jaak; joala; selberg; saul; estraadiorkester; pillimees
+1,1,1,6,1,4,1,0,0,15,artur; edgar; viktoriin; peeter; rinne; naljakas; klaas; varietee; selberg; estraadiorkester; pillimees
+3,2,2,4,1,3,2,0,0,15,artur; edgar; peeter; varietee; joala; selberg; estraadiorkester; pillimees
+2,2,4,2,1,3,2,2,0,15,artur; edgar; peeter; rinne; varietee; joala; juhtum; selberg; estraadiorkester; pillimees
+3,2,3,1,1,2,4,2,0,15,artur; edgar; klaas; varietee; joala; juhtum; pillimees; selberg; estraadiorkester
+1,1,2,0,1,3,3,3,0,15,artur; edgar; naljakas; varietee; joala; juhtum; pillimees; selberg; estraadiorkester
+3,2,0,0,1,1,3,3,0,15,artur; edgar; viktoriin; peeter; klaas; juhtum; selberg; saul

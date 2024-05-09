@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-1,1,0,0,0,0,0,0,0,12,vaike; hing
-0,0,0,0,0,0,0,0,0,12,
+2,2,1,0,0,1,1,1,1,12,tantsupidu; soomaa; isetegemine; metsamaa
+1,2,1,0,0,1,1,1,1,12,tantsupidu; isetegemine; metsamaa
+1,2,1,0,0,1,1,1,1,12,tantsupidu; isetegemine; metsamaa
+1,2,1,0,0,1,1,1,1,12,tantsupidu; isetegemine; metsamaa
+2,2,1,0,0,1,1,1,1,12,tantsupidu; soomaa; isetegemine; metsamaa
+2,2,1,0,0,1,1,1,0,12,tantsupidu; soomaa; isetegemine; metsamaa
+2,2,1,0,0,1,1,1,0,12,tantsupidu; soomaa; isetegemine; metsamaa
+2,2,1,0,0,1,1,1,0,12,tantsupidu; soomaa; isetegemine; metsamaa
+2,2,2,0,0,1,1,1,0,12,tantsupidu; tänutunne; soomaa; metsamaa
+3,3,1,1,0,1,1,1,1,12,tantsupidu; soomaa; tänutunne; hing; metsamaa; vaike
+3,2,2,0,0,1,1,1,1,12,tantsupidu; tänutunne; soomaa; metsamaa

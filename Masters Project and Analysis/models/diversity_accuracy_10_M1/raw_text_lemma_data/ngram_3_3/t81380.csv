@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,2,1,1,1,1,0,13,disainer; kristina; tants; kollektsioon; tartu; moeetendus
-0,1,2,2,1,1,1,1,0,13,disainer; kristina; tants; kollektsioon; tartu; moeetendus
-0,1,2,2,1,1,1,2,0,13,disainer; kristina; paju; tants; kollektsioon; tartu; moeetendus
-0,1,2,2,1,1,1,2,0,13,disainer; kristina; paju; tants; kollektsioon; tartu; moeetendus
-0,1,1,2,1,1,1,3,1,13,disainer; kristina; paju; tants; kollektsioon; tartu; moeetendus
-0,1,2,2,1,2,1,2,0,13,disainer; tants; kollektsioon; tartu; moeetendus
-0,1,2,2,1,3,2,4,1,13,disainer; moeetendus; anatoomikum; tants; lavastaja; tartu
-3,1,1,1,1,4,2,4,1,13,disainer; moeetendus; anatoomikum; kristina; tants; kollektsioon; tartu
-2,2,1,2,1,2,2,1,1,13,disainer; tants; lavastaja; tartu; moeetendus
-2,2,1,0,1,3,1,3,1,13,disainer; paju; moeetendus; lavastaja; kristina; tants; kollektsioon; tartu
-0,2,1,0,1,3,2,3,1,13,disainer; paju; tants; kollektsioon; tartu; moeetendus; lavastaja
+0,1,2,2,1,1,1,1,0,13,tartu; moeetendus; kollektsioon; kristina; disainer; tants
+0,1,2,2,1,1,1,1,0,13,tartu; moeetendus; kollektsioon; kristina; disainer; tants
+0,1,2,2,1,1,1,2,0,13,tartu; moeetendus; kollektsioon; kristina; disainer; paju; tants
+0,1,2,2,1,1,1,2,0,13,tartu; moeetendus; kollektsioon; kristina; disainer; paju; tants
+0,1,1,2,1,1,1,3,1,13,kollektsioon; moeetendus; kristina; disainer; tartu; paju; tants
+0,1,2,2,1,2,1,2,0,13,tartu; moeetendus; kollektsioon; disainer; tants
+0,1,2,2,1,3,2,4,1,13,moeetendus; tartu; disainer; lavastaja; anatoomikum; tants
+3,1,1,1,1,4,2,4,1,13,moeetendus; tartu; kollektsioon; disainer; kristina; anatoomikum; tants
+2,2,1,2,1,2,2,1,1,13,lavastaja; moeetendus; disainer; tartu; tants
+2,2,1,0,1,3,1,3,1,13,moeetendus; kollektsioon; kristina; disainer; tartu; lavastaja; paju; tants
+0,2,1,0,1,3,2,3,1,13,lavastaja; kollektsioon; moeetendus; disainer; tartu; paju; tants

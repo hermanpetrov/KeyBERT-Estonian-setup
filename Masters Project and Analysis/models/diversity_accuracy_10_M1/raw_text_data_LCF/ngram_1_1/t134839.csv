@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,0,0,0,1,0,18,päevakaja; andrus; indrek; saar
-0,0,3,0,0,0,0,1,0,18,päevakaja; andrus; indrek; saar
-0,0,3,0,0,0,0,1,0,18,päevakaja; andrus; indrek; saar
-0,0,3,0,0,0,0,1,0,18,päevakaja; andrus; indrek; saar
-0,0,2,0,0,0,0,1,0,18,päevakaja; andrus; indrek
-0,0,2,0,0,0,0,1,0,18,päevakaja; andrus; indrek
-0,0,2,0,0,0,0,1,0,18,päevakaja; andrus; indrek
-0,0,2,0,0,0,0,1,0,18,päevakaja; andrus; indrek
-0,0,1,0,0,0,0,1,0,18,päevakaja; andrus
-0,0,1,0,0,0,0,1,0,18,päevakaja; andrus
-0,0,1,0,0,0,0,1,0,18,päevakaja; andrus
+0,0,3,0,0,0,1,0,0,18,andrus; indrek; päevakaja; saar
+0,0,3,0,0,0,1,0,0,18,andrus; indrek; päevakaja; saar
+0,0,3,0,0,0,1,0,0,18,andrus; indrek; päevakaja; saar
+0,0,3,0,0,0,1,0,0,18,andrus; indrek; päevakaja; saar
+0,0,2,0,0,0,1,0,0,18,andrus; indrek; päevakaja
+0,0,2,0,0,0,1,0,0,18,andrus; indrek; päevakaja
+0,0,2,0,0,0,1,0,0,18,andrus; indrek; päevakaja
+0,0,2,0,0,0,1,0,0,18,andrus; indrek; päevakaja
+0,0,1,0,0,0,1,0,0,18,andrus; päevakaja
+0,0,1,0,0,0,1,0,0,18,andrus; päevakaja
+0,0,1,0,0,0,1,0,0,18,andrus; päevakaja

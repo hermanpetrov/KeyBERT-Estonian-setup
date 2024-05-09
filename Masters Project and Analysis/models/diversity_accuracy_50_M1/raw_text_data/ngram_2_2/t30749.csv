@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,0,0,2,1,2,1,12,santana; madeira; õhutramm; reisipalavik
-3,1,1,0,0,2,1,2,1,12,santana; madeira; õhutramm; reisipalavik
-3,1,1,0,0,2,1,2,1,12,santana; madeira; õhutramm; reisipalavik
-3,1,1,0,0,2,1,2,1,12,santana; madeira; õhutramm; reisipalavik
-3,1,2,0,0,2,1,2,1,12,santana; madeira; õhutramm; hiiumaa; reisipalavik
-3,1,3,0,0,2,1,2,1,12,mägi; santana; madeira; õhutramm; hiiumaa; reisipalavik
-1,1,2,2,0,2,1,1,1,12,vanalinn; madeira; õhutramm; reisipalavik
+3,1,1,0,0,2,1,2,1,12,reisipalavik; õhutramm; madeira; santana
+3,1,1,0,0,2,1,2,1,12,reisipalavik; õhutramm; madeira; santana
+3,1,1,0,0,2,1,2,1,12,reisipalavik; õhutramm; madeira; santana
+3,1,1,0,0,2,1,2,1,12,reisipalavik; õhutramm; madeira; santana
+3,1,2,0,0,2,1,2,1,12,hiiumaa; reisipalavik; õhutramm; madeira; santana
+3,1,3,0,0,2,1,2,1,12,hiiumaa; reisipalavik; õhutramm; madeira; santana; mägi
+1,1,2,2,0,2,1,1,1,12,reisipalavik; õhutramm; vanalinn; madeira
 2,1,1,1,0,1,1,2,0,12,reisipalavik; madeira
-2,0,1,1,1,2,0,3,1,12,vanalinn; madeira; banaan; õhutramm; hiiumaa; reisipalavik
-1,0,1,2,1,0,1,3,0,12,vanalinn; madeira; banaan; hiiumaa; reisipalavik
-1,0,1,2,1,1,1,2,0,12,loodus; vanalinn; santana; banaan; hiiumaa; reisipalavik
+2,0,1,1,1,2,0,3,1,12,hiiumaa; reisipalavik; õhutramm; vanalinn; madeira; banaan
+1,0,1,2,1,0,1,3,0,12,hiiumaa; reisipalavik; vanalinn; madeira; banaan
+1,0,1,2,1,1,1,2,0,12,hiiumaa; reisipalavik; vanalinn; loodus; santana; banaan

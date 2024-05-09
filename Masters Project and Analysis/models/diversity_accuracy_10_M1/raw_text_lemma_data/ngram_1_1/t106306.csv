@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,1,0,13,eurovisioon; mesilane
-0,0,1,0,0,1,1,1,0,13,eurovisioon; mesilane
-0,0,1,0,0,1,1,1,0,13,eurovisioon; mesilane
-0,0,1,0,0,1,1,1,0,13,eurovisioon; mesilane
+0,0,1,0,0,1,1,1,0,13,mesilane; eurovisioon
+0,0,1,0,0,1,1,1,0,13,mesilane; eurovisioon
+0,0,1,0,0,1,1,1,0,13,mesilane; eurovisioon
+0,0,1,0,0,1,1,1,0,13,mesilane; eurovisioon
 0,0,0,0,0,1,1,1,0,13,eurovisioon
 0,0,0,0,0,1,1,1,0,13,eurovisioon
-0,0,1,0,0,1,1,1,0,13,eurovisioon; mesilane
+0,0,1,0,0,1,1,1,0,13,mesilane; eurovisioon
 0,0,0,0,0,1,0,2,0,13,eurovisioon; kreeka
-0,0,1,0,0,1,0,2,0,13,eurovisioon; mesilane; kreeka
-0,0,1,0,0,2,0,1,0,13,eurovisioon; mesilane; migrant
-0,0,0,0,0,2,0,1,0,13,eurovisioon; migrant
+0,0,1,0,0,1,0,2,0,13,mesilane; eurovisioon; kreeka
+0,0,1,0,0,2,0,1,0,13,mesilane; migrant; eurovisioon
+0,0,0,0,0,2,0,1,0,13,migrant; eurovisioon

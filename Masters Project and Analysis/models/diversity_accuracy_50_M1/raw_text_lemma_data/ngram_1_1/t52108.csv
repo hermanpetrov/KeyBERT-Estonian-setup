@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,0,2,1,0,1,14,disainer; talv; tikand; eesti; berliin
-1,1,2,1,0,2,1,0,1,14,disainer; talv; tikand; eesti; berliin
-1,1,2,1,0,2,1,0,1,14,disainer; talv; tikand; eesti; berliin
-1,1,1,1,0,2,1,0,1,14,disainer; talv; tikand; eesti; berliin
-1,0,2,1,0,1,1,0,1,14,inspiratsioon; tikand; eesti; berliin
-1,0,1,1,0,1,1,0,1,14,eesti; berliin; tikand
-1,0,1,1,0,1,1,0,1,14,eesti; berliin; tikand
-0,0,2,0,0,2,1,1,1,14,inspiratsioon; lill; eesti; berliin
-0,0,1,0,0,1,0,0,1,14,eesti; berliin
-0,0,1,0,0,1,0,1,1,14,disainer; eesti; inspiratsioon; berliin
-0,0,1,1,0,0,0,0,1,14,eesti; berliin
+1,4,3,2,0,2,1,2,1,14,suursponsor; berliin; eesti; moekunstnik; moenäda; disainer; tikand; talv; auhind
+1,4,3,2,0,2,1,2,1,14,suursponsor; berliin; eesti; moekunstnik; moenäda; disainer; tikand; talv; auhind
+1,4,3,2,0,2,1,2,1,14,suursponsor; berliin; eesti; moekunstnik; moenäda; disainer; tikand; talv; auhind
+1,4,2,2,0,2,1,2,1,14,suursponsor; berliin; eesti; moekunstnik; moenäda; disainer; tikand; talv; auhind
+1,3,3,2,0,1,1,1,1,14,suursponsor; berliin; eesti; moekunstnik; moenäda; inspiratsioon; tikand; auhind
+1,2,2,2,0,2,1,1,1,14,suursponsor; berliin; tikand; eesti; moekunstnik; moenäda; auhind
+1,2,2,1,0,2,1,1,1,14,suursponsor; berliin; tikand; eesti; moekunstnik; auhind
+1,2,3,0,0,3,1,2,1,14,suursponsor; berliin; lill; eesti; moekunstnik; moenäda; inspiratsioon; auhind
+0,2,2,0,0,2,0,2,1,14,suursponsor; berliin; eesti; moekunstnik; auhind
+0,0,2,0,0,2,0,3,1,14,berliin; suursponsor; eesti; moekunstnik; auhind; inspiratsioon; disainer
+0,0,2,1,0,1,0,2,1,14,berliin; suursponsor; eesti; moekunstnik; auhind

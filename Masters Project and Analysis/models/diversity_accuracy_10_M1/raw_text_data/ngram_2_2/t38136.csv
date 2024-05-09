@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,0,0,1,0,12,klubikultuur; muusika
-0,1,1,1,0,0,0,1,0,12,klubikultuur; muusika
-0,1,1,1,0,0,0,1,0,12,klubikultuur; muusika
-0,1,1,1,0,0,0,1,0,12,klubikultuur; muusika
-0,1,1,1,0,0,0,1,0,12,klubikultuur; muusika
-0,1,1,1,0,0,1,1,0,12,klubikultuur; muusika
+0,1,1,1,0,0,0,1,0,12,muusika; klubikultuur
+0,1,1,1,0,0,0,1,0,12,muusika; klubikultuur
+0,1,1,1,0,0,0,1,0,12,muusika; klubikultuur
+0,1,1,1,0,0,0,1,0,12,muusika; klubikultuur
+0,1,1,1,0,0,0,1,0,12,muusika; klubikultuur
+0,1,1,1,0,0,1,1,0,12,muusika; klubikultuur
 0,0,0,0,0,0,1,1,0,12,klubikultuur
-2,0,1,0,0,0,1,1,0,12,muusika; reimo; elektrooniline; sildvee; klubikultuur
+2,0,1,0,0,0,1,1,0,12,muusika; sildvee; reimo; elektrooniline; klubikultuur
 1,0,0,0,0,0,0,0,0,12,muusika
-1,1,0,0,0,0,0,0,0,12,muusika; bakalaureusetöö
+1,1,0,0,0,0,0,0,0,12,bakalaureusetöö; muusika
 2,0,1,0,0,0,0,0,0,12,bakalaureusetöö; muusika; sildvee

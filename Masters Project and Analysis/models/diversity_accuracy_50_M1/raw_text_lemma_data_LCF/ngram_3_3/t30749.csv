@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,4,0,1,0,2,2,12,mägi; loodus; kalju; portugal; madeira; banaan
-2,3,2,4,0,1,0,2,2,12,mägi; loodus; kalju; portugal; madeira; banaan
-2,3,2,4,0,1,0,2,2,12,mägi; loodus; kalju; portugal; madeira; banaan
-2,3,2,4,0,1,0,2,2,12,mägi; loodus; kalju; portugal; madeira; banaan
-2,3,2,4,0,1,0,2,2,12,mägi; loodus; kalju; portugal; madeira; banaan
-3,3,3,4,0,1,2,3,2,12,portugal; madeira; banaan; bassein; mägi; kalju
-3,2,2,3,1,1,0,1,2,12,mägi; kalju; portugal; madeira; banaan; bassein
-3,3,2,4,1,0,0,2,1,12,mägi; portugal; madeira; banaan; bassein
-2,3,4,4,1,2,2,1,2,12,portugal; madeira; banaan; bassein; mägi; kalju
-3,2,3,4,2,0,0,1,2,12,portugal; madeira; banaan; bassein; mägi
-3,1,2,4,3,1,2,3,2,12,portugal; madeira; banaan; bassein; mägi; loodus; kalju
+5,5,2,5,0,2,1,3,3,12,hiiumaa; kalju; mägi; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal; loodus
+5,5,2,5,0,2,1,3,3,12,hiiumaa; kalju; mägi; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal; loodus
+5,5,2,5,0,2,1,3,3,12,hiiumaa; kalju; mägi; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal; loodus
+5,5,2,5,0,2,1,3,3,12,hiiumaa; kalju; mägi; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal; loodus
+5,5,2,5,0,2,1,3,3,12,hiiumaa; kalju; mägi; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal; loodus
+5,4,6,5,0,2,3,5,3,12,hiiumaa; kalju; mägi; banaan; bassein; reisipalavik; õhutramm; vanalinn; madeira; portugal
+4,4,4,4,1,3,2,3,3,12,hiiumaa; kalju; mägi; bassein; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal
+4,3,4,4,2,2,1,4,2,12,hiiumaa; mägi; bassein; banaan; reisipalavik; vanalinn; madeira; portugal
+3,5,6,5,2,3,3,3,3,12,hiiumaa; kalju; mägi; bassein; banaan; reisipalavik; õhutramm; vanalinn; madeira; portugal
+4,3,3,6,2,1,1,3,3,12,hiiumaa; mägi; banaan; bassein; reisipalavik; vanalinn; portugal; madeira
+4,3,5,5,4,3,3,6,3,12,hiiumaa; kalju; mägi; banaan; bassein; reisipalavik; vanalinn; portugal; madeira; loodus

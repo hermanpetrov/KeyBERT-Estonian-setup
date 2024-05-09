@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,2,3,3,0,0,18,kalevi; staadion; rebane; toomas; kärdla; petseri; arvo
-1,2,1,1,2,3,3,0,0,18,kalevi; staadion; rebane; toomas; kärdla; petseri; arvo
-1,2,1,1,2,3,3,0,0,18,kalevi; staadion; rebane; toomas; kärdla; petseri; arvo
-1,2,1,1,2,3,3,0,0,18,kalevi; staadion; rebane; toomas; kärdla; petseri; arvo
-1,2,1,1,2,2,2,0,0,18,kalevi; staadion; rebane; toomas; kärdla; petseri; arvo
-1,2,3,1,2,0,1,0,0,18,kalevi; toomas; staadion; rebane; petseri; kärdla; arvo
-1,1,4,4,2,1,1,0,0,18,kalevi; staadion; rebane; pärt; kärdla; toomas; ukraina; petseri; ilves; arvo
-3,2,3,2,2,1,0,1,0,18,arvo; kalevi; mari; staadion; petseri; toomas; ukraina
-3,2,1,3,2,1,1,1,0,18,ukraina; kalevi; mari; staadion; petseri; toomas; arvo
-1,2,1,2,2,2,1,1,0,18,arvo; kalevi; mari; staadion; petseri; toomas; ukraina
-2,0,2,2,1,2,1,2,0,18,kalevi; ukraina; mari; staadion; petseri; arvo
+1,2,1,1,2,3,3,0,0,18,staadion; petseri; toomas; rebane; kalevi; arvo; kärdla
+1,2,1,1,2,3,3,0,0,18,staadion; petseri; toomas; rebane; kalevi; arvo; kärdla
+1,2,1,1,2,3,3,0,0,18,staadion; petseri; toomas; rebane; kalevi; arvo; kärdla
+1,2,1,1,2,3,3,0,0,18,staadion; petseri; toomas; rebane; kalevi; arvo; kärdla
+1,2,1,1,2,2,2,0,0,18,staadion; petseri; toomas; rebane; kalevi; arvo; kärdla
+1,2,3,1,2,0,1,0,0,18,staadion; petseri; rebane; kalevi; toomas; arvo; kärdla
+1,1,4,4,2,1,1,0,0,18,staadion; ukraina; petseri; pärt; toomas; ilves; rebane; kalevi; arvo; kärdla
+3,2,3,2,2,1,0,1,0,18,mari; petseri; ukraina; staadion; kalevi; arvo; toomas
+3,2,1,3,2,1,1,1,0,18,mari; ukraina; staadion; petseri; kalevi; arvo; toomas
+1,2,1,2,2,2,1,1,0,18,mari; petseri; ukraina; kalevi; staadion; arvo; toomas
+2,0,2,2,1,2,1,2,0,18,staadion; petseri; mari; kalevi; ukraina; arvo

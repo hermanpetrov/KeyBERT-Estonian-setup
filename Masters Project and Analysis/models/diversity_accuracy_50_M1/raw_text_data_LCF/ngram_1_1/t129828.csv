@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,0,3,3,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; film; nõukogude; kangelane; zoja; varvara
-1,2,1,0,0,3,3,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; film; nõukogude; kangelane; zoja; varvara
-1,2,1,0,0,3,3,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; film; nõukogude; kangelane; zoja; varvara
-1,2,0,0,0,3,3,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; zoja; varvara
-1,2,1,0,0,3,3,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; zoja; varvara
-1,3,1,0,0,4,4,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; zoja; kangelane; varvara
-0,3,1,0,0,2,4,4,0,15,naiskangelanna; kosmodemjanskaja; nõukogude; zoja; kangelane; varvara
-1,2,1,1,0,3,2,4,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; zoja; kangelane; varvara
-0,2,1,0,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; zoja; kangelane
-0,2,0,0,0,3,2,3,0,15,kosmodemjanskaja; kangelane; zoja; nõukogude; naiskangelanna; stalin
-0,2,0,0,0,3,1,2,0,15,kosmodemjanskaja; kangelane; zoja; varvara; naiskangelanna; stalin
+1,2,1,0,0,3,4,0,0,15,film; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja
+1,2,1,0,0,3,4,0,0,15,film; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja
+1,2,1,0,0,3,4,0,0,15,film; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja
+1,2,0,0,0,3,4,0,0,15,zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; stalin
+1,2,1,0,0,3,4,0,0,15,zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; stalin
+1,3,1,0,0,4,4,0,0,15,zoja; varvara; nõukogude; kangelane; kosmodemjanskaja; naiskangelanna
+0,3,1,0,0,4,4,0,0,15,zoja; nõukogude; varvara; kangelane; kosmodemjanskaja; naiskangelanna
+1,2,1,1,0,2,4,0,0,15,zoja; nõukogude; varvara; kangelane; kosmodemjanskaja; naiskangelanna
+0,2,1,0,0,3,3,0,0,15,zoja; nõukogude; kangelane; kosmodemjanskaja; stalin; naiskangelanna
+0,2,0,0,0,2,3,0,0,15,zoja; nõukogude; kangelane; kosmodemjanskaja; stalin; naiskangelanna
+0,2,0,0,0,1,2,0,0,15,varvara; kangelane; kosmodemjanskaja; stalin; naiskangelanna

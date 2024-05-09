@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,1,1,0,0,0,1,1,0,19,barokkmuusikafestival; orpheus
 1,1,1,0,0,0,1,1,0,19,barokkmuusikafestival; orpheus
 1,1,0,0,0,0,1,1,0,19,barokkmuusikafestival; orpheus
-1,3,0,0,0,0,1,1,0,19,orpheus; musicus; hortus; barokkmuusikafestival
-2,2,0,2,0,0,1,2,0,19,bach; mari; musicus; kalkun; hortus; barokkmuusikafestival
+1,3,0,0,0,0,1,1,0,19,hortus; musicus; barokkmuusikafestival; orpheus
+2,2,0,2,0,0,1,2,0,19,mari; hortus; musicus; bach; kalkun; barokkmuusikafestival
 0,2,0,1,0,0,0,0,0,19,musicus; mari; hortus
-0,1,0,1,0,0,0,1,0,19,mari; robert; hortus
-0,1,0,1,0,2,2,1,0,19,tšello; musicus; mari; hortus; robert
-0,0,0,0,0,3,1,1,0,19,andres; tšello; orpheus; musicus; hortus
+0,1,0,1,0,0,0,1,0,19,robert; hortus; mari
+0,1,0,1,0,2,2,1,0,19,mari; robert; hortus; musicus; tšello
+0,0,0,0,0,3,1,1,0,19,hortus; andres; musicus; tšello; orpheus

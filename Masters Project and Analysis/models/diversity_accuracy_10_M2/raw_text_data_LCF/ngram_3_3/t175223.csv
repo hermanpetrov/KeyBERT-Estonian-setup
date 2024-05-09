@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,2,13,kadri-ann; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,4,2,3,3,3,3,3,13,kadri-ann; jack; lampjalg; mereröövel; silver; ükssilm; admiral
-2,3,3,3,3,3,3,5,2,13,admiral; kadri-ann; jack; lampjalg; mereröövel; silver; ükssilm
-3,2,4,4,3,4,4,6,3,13,kadri-ann; jack; lampjalg; mereröövel; silver; hobune; väli; ükssilm; admiral
-3,2,5,3,3,4,2,5,2,13,admiral; kadri-ann; jack; lampjalg; silver; väli; ükssilm; mereröövel
-2,3,4,3,5,4,3,4,1,13,admiral; jack; kadri-ann; lampjalg; silver; hobune; ükssilm; mereröövel
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,2,0,13,admiral; ükssilm; mereröövel; silver; lampjalg; kadri-ann
+2,3,4,2,3,3,3,3,0,13,admiral; ükssilm; jack; mereröövel; silver; lampjalg; kadri-ann
+2,3,3,3,3,3,5,2,0,13,admiral; ükssilm; jack; mereröövel; silver; lampjalg; kadri-ann
+3,2,4,4,3,4,6,3,0,13,admiral; ükssilm; jack; väli; mereröövel; silver; lampjalg; kadri-ann; hobune
+3,2,5,3,3,2,5,2,0,13,admiral; ükssilm; jack; mereröövel; silver; lampjalg; kadri-ann; väli
+2,3,4,3,5,3,4,1,0,13,admiral; ükssilm; jack; mereröövel; silver; lampjalg; kadri-ann; hobune

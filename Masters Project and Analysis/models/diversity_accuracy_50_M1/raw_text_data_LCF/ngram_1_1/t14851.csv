@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,1,0,0,0,0,1,14,informatiivne; gustav; teaduste; väljapääsmatu; fašism
-2,0,2,1,0,0,0,0,1,14,informatiivne; gustav; teaduste; väljapääsmatu; fašism
-2,1,2,1,0,0,0,0,1,14,informatiivne; gustav; akadeemia; teaduste; väljapääsmatu; fašism
-2,1,2,1,0,0,0,0,1,14,informatiivne; naan; akadeemia; teaduste; väljapääsmatu; fašism
-2,1,2,1,0,0,0,0,1,14,informatiivne; naan; akadeemia; teaduste; väljapääsmatu; fašism
-2,0,2,1,0,0,1,1,1,14,informatiivne; gustav; akadeemia; teaduste; väljapääsmatu; fašism
-1,0,2,0,0,1,1,1,1,14,informatiivne; gustav; naan; akadeemia; teaduste
-2,1,1,0,0,2,1,0,1,14,informatiivne; gustav; naan; teaduste; fašism
-1,1,3,0,0,2,2,0,1,14,informatiivne; evolutsioon; gustav; naan; teaduste; vladivostok
-1,1,1,1,0,2,1,2,1,14,informatiivne; evolutsioon; gustav; naan; akadeemia; teaduste; vladivostok
-1,0,1,1,0,2,0,2,2,14,informatiivne; evolutsioon; gustav; naan; teaduste; väljapääsmatu
+2,0,2,1,0,0,0,1,0,14,teaduste; gustav; väljapääsmatu; fašism; informatiivne
+2,0,2,1,0,0,0,1,0,14,teaduste; gustav; väljapääsmatu; fašism; informatiivne
+2,1,2,1,0,0,0,1,0,14,teaduste; gustav; väljapääsmatu; akadeemia; fašism; informatiivne
+2,1,2,1,0,0,0,1,0,14,naan; teaduste; väljapääsmatu; akadeemia; fašism; informatiivne
+2,1,2,1,0,0,0,1,0,14,naan; teaduste; väljapääsmatu; akadeemia; fašism; informatiivne
+2,0,2,1,0,1,1,1,0,14,teaduste; gustav; väljapääsmatu; akadeemia; fašism; informatiivne
+1,0,2,0,0,1,1,1,0,14,teaduste; gustav; naan; akadeemia; informatiivne
+2,1,1,0,0,1,0,1,0,14,teaduste; naan; fašism; informatiivne
+1,1,3,0,0,2,0,1,0,14,teaduste; vladivostok; evolutsioon; gustav; naan; informatiivne
+1,1,1,1,0,1,2,1,0,14,teaduste; vladivostok; evolutsioon; gustav; akadeemia; informatiivne
+1,0,1,1,0,0,2,2,0,14,teaduste; evolutsioon; gustav; väljapääsmatu; informatiivne

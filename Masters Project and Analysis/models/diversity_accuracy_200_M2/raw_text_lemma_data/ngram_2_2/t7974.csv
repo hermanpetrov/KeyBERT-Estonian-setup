@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,4,4,3,4,4,5,3,12,aabits; släng; esimene; mood; keel; tahv
-3,5,3,4,3,4,4,5,3,12,aabits; släng; esimene; mood; keel; tahv
-5,5,4,5,3,4,4,5,3,12,aabits; släng; esimene; mood; keel; tahv
-5,5,3,5,3,4,4,5,3,12,aabits; släng; esimene; mood; keel; tahv
-5,5,5,5,3,4,5,4,3,12,aabits; släng; esimene; mood; keel; tahv
-4,5,5,4,4,4,3,5,3,12,aabits; släng; esimene; mood; keel; tahv
-5,5,5,5,4,5,4,5,3,12,aabits; släng; esimene; mood; keel
-4,5,5,4,4,4,4,5,5,12,aabits; släng; esimene; mood; keel; tahv
-4,5,5,5,5,4,4,5,5,12,aabits; släng; esimene; mood; keel; tahv
-5,5,6,5,6,4,4,4,5,12,aabits; släng; esimene; mood; keel; tahv
-4,5,6,5,6,4,4,4,5,12,aabits; släng; esimene; mood; keel; tahv
+4,6,5,5,3,5,5,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+4,6,4,5,3,5,5,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+6,6,6,6,3,5,5,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+6,6,5,6,3,5,5,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+6,6,7,6,3,5,6,6,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+5,6,6,5,4,4,4,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+6,6,6,7,4,7,4,7,4,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev
+4,6,7,6,4,4,5,7,6,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+5,6,6,7,5,4,4,7,6,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+6,6,7,6,6,5,5,5,7,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv
+5,6,7,6,6,5,4,5,6,12,aabits; õigekeelsussõnaraamat; mood; släng; keel; esimene; koolipäev; tahv

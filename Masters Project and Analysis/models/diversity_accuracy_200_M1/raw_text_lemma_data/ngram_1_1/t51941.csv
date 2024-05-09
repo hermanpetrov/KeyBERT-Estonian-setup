@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,4,1,1,1,1,0,0,15,baltika; salme; janek; peeter
-0,0,4,1,1,1,2,0,0,15,baltika; salme; janek; peeter
-0,0,4,1,1,1,2,0,0,15,baltika; salme; janek; peeter
-0,0,4,1,1,1,3,1,0,15,baltika; salme; volkov; janek; peeter
-0,0,4,1,1,2,3,1,0,15,baltika; volkov; salme; janek; peeter
-1,0,4,1,1,3,3,2,0,15,baltika; salme; volkov; janek; peeter
-1,0,2,3,1,3,3,2,0,15,baltika; salme; volkov; janek; peeter
-1,0,3,4,2,2,4,3,0,15,baltika; salme; janek; peeter; volkov
-2,0,2,2,2,2,4,1,2,15,baltika; salme; janek; peeter; volkov
-2,0,2,2,2,2,3,4,2,15,baltika; salme; janek; peeter; volkov
-2,0,3,1,2,2,3,3,0,15,baltika; volkov; salme; janek; peeter
+8,3,9,7,1,3,4,2,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; klaasikunstnik; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+7,3,9,7,1,3,5,4,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; klaasikunstnik; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+7,3,11,7,1,4,6,4,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; klaasikunstnik; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+7,3,10,7,1,5,7,6,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+7,3,9,7,1,4,7,8,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+8,3,9,7,1,6,9,7,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+8,3,6,4,1,9,9,7,2,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; klaasikunstnik; riigigümnaasium; baltika; peeter; rahulolu; janek; kultuurisõber; rõivafirma; kalapüük
+8,4,7,7,2,5,11,7,3,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; klaasikunstnik; riigigümnaasium; baltika; rahulolu; peeter; janek; kultuurisõber; rõivafirma; kalapüük
+7,5,6,4,3,5,8,3,6,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; klaasikunstnik; riigigümnaasium; baltika; rahulolu; peeter; janek; kultuurisõber; rõivafirma; kalapüük
+8,3,7,4,2,5,9,10,6,15,majanduskriis; keskkonnarikkumine; salme; gaasitarne; valgusinstallatsioon; volkov; klaasikunstnik; riigigümnaasium; baltika; rahulolu; peeter; janek; kultuurisõber; rõivafirma; kalapüük
+6,5,8,3,5,6,9,8,4,15,majanduskriis; keskkonnarikkumine; salme; valgusinstallatsioon; gaasitarne; volkov; klaasikunstnik; riigigümnaasium; baltika; rahulolu; peeter; janek; kultuurisõber; rõivafirma; kalapüük

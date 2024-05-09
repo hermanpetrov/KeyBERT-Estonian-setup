@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-12,9,4,7,9,8,7,10,7,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-13,10,4,7,9,10,9,11,7,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-13,12,5,7,9,9,11,12,7,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-14,14,8,7,9,10,12,13,7,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-15,12,9,7,9,11,12,13,7,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-10,11,9,7,13,14,13,11,6,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; mccartney; john; biitel; lennon; salumets; epstein
-11,12,11,14,11,8,11,12,6,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; biitel; john; lennon; mccartney; salumets; epstein
-11,9,12,11,13,8,10,10,6,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; biitel; lennon; john; mccartney; salumets; epstein
-9,12,14,9,13,8,10,10,13,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; biitel; john; mccartney; lennon; salumets; epstein
-6,12,13,10,9,8,9,10,12,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; biitel; mccartney; lennon; john; salumets; epstein
-5,8,13,13,8,7,9,12,12,17,ringo; linn; brian; vello; bbc; fänn; maania; ameerika; ivo; biitel; john; lennon; mccartney; salumets; epstein
+12,9,5,9,9,9,7,10,7,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; epstein; biitel; brian; john; ringo; mccartney; linn
+13,10,5,9,9,11,9,11,7,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; epstein; biitel; brian; john; ringo; mccartney; linn
+13,12,6,9,9,10,12,12,7,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; epstein; biitel; brian; john; ringo; mccartney; linn
+14,14,9,8,9,11,13,13,7,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; epstein; brian; biitel; fänn; john; ringo; mccartney; linn
+15,12,11,8,9,13,13,15,7,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; brian; biitel; epstein; john; ringo; mccartney; linn
+10,12,11,8,13,16,14,12,6,17,lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; brian; biitel; epstein; linn; john; ringo; mccartney; ivo
+11,13,12,15,11,10,12,14,6,17,lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; epstein; brian; biitel; fänn; linn; john; ringo; mccartney; ivo
+11,11,13,12,13,9,11,11,6,17,lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; epstein; brian; biitel; fänn; linn; john; ringo; mccartney; ivo
+9,13,15,10,13,9,11,12,13,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; epstein; brian; biitel; john; ringo; mccartney; linn
+7,13,14,10,9,9,10,11,12,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; epstein; biitel; brian; john; ringo; mccartney; linn
+7,10,14,13,8,8,10,14,12,17,ivo; lennon; ameerika; salumets; vello; bbc; rokkmuusik; maania; unenägu; fänn; brian; biitel; epstein; john; ringo; mccartney; linn

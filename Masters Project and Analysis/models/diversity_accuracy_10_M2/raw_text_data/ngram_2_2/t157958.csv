@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,2,2,2,3,1,2,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,2,2,2,3,1,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-3,2,1,1,2,2,2,2,1,13,kanada; trump; aasta; kodus; senjoriita; popiidol
-2,2,1,1,2,2,1,2,1,13,kanada; trump; jäähoki; aasta; kodus; senjoriita
-2,2,1,2,2,2,1,2,1,13,üksinda; kanada; aasta; senjoriita; trump; jäähoki; kodus
-2,2,1,2,2,2,1,2,2,13,üksinda; kanada; aasta; senjoriita; trump; jäähoki; kodus
+2,2,1,2,2,2,3,1,2,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,2,2,2,3,1,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+3,2,1,1,2,2,2,2,1,13,senjoriita; kanada; trump; kodus; aasta; popiidol
+2,2,1,1,2,2,1,2,1,13,senjoriita; kanada; trump; kodus; aasta; jäähoki
+2,2,1,2,2,2,1,2,1,13,senjoriita; kanada; aasta; üksinda; trump; kodus; jäähoki
+2,2,1,2,2,2,1,2,2,13,senjoriita; kanada; aasta; üksinda; trump; kodus; jäähoki

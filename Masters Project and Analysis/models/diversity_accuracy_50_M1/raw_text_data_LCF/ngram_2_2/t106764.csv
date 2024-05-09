@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,4,3,1,1,2,3,1,14,merivoo-parro; singer; maarja; raadio; rajasaare; mart; vinger; kristo
-3,4,4,3,1,1,2,3,1,14,merivoo-parro; singer; maarja; raadio; rajasaare; mart; vinger; kristo
-3,4,4,3,1,1,2,3,1,14,merivoo-parro; singer; maarja; raadio; rajasaare; mart; vinger; kristo
-3,4,3,3,1,1,2,3,1,14,merivoo-parro; singer; maarja; raadio; rajasaare; mart; vinger
-3,3,3,3,1,1,1,3,1,14,rajasaare; mart; merivoo-parro; singer; maarja; raadio
-3,2,4,3,1,1,1,4,1,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; kristo
-2,3,3,4,1,2,1,4,1,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; kristo
-2,4,2,2,1,2,1,4,1,14,merivoo-parro; singer; muusikanõukogu; maarja; mart; rajasaare; raadio
-3,2,1,3,0,1,2,4,2,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger
-2,5,1,2,1,4,3,3,3,14,merivoo-parro; singer; muusikanõukogu; maarja; raadio; rajasaare; mart; vinger
-2,2,2,0,1,3,2,3,2,14,merivoo-parro; singer; muusikanõukogu; maarja; mart; rajasaare; raadio; vinger; kristo; lavastus
+3,4,4,3,1,2,3,1,0,14,vinger; raadio; merivoo-parro; maarja; rajasaare; kristo; mart; singer
+3,4,4,3,1,2,3,1,0,14,vinger; raadio; merivoo-parro; maarja; rajasaare; kristo; mart; singer
+3,4,4,3,1,2,3,1,0,14,vinger; raadio; merivoo-parro; maarja; rajasaare; kristo; mart; singer
+3,4,3,3,1,2,3,1,0,14,vinger; raadio; merivoo-parro; maarja; rajasaare; mart; singer
+3,3,3,3,1,1,3,1,0,14,raadio; merivoo-parro; maarja; rajasaare; mart; singer
+3,2,4,3,1,1,4,1,0,14,raadio; muusikanõukogu; merivoo-parro; maarja; rajasaare; kristo; mart; singer
+2,3,3,4,1,1,4,1,0,14,raadio; rajasaare; merivoo-parro; maarja; kristo; mart; singer
+2,4,2,2,1,1,4,1,0,14,raadio; merivoo-parro; maarja; rajasaare; mart; singer
+3,2,1,3,0,2,4,2,0,14,vinger; raadio; muusikanõukogu; merivoo-parro; maarja; rajasaare; mart; singer
+2,5,1,2,1,3,3,3,0,14,vinger; raadio; muusikanõukogu; rajasaare; maarja; merivoo-parro; singer
+2,2,2,0,1,2,3,2,0,14,vinger; lavastus; raadio; rajasaare; maarja; kristo; merivoo-parro; singer

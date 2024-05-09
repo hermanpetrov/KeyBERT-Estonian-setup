@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,0,2,1,0,1,1,13,kolu; rektor; concordia; kursus; mõis
-1,2,2,0,2,1,0,1,1,13,kolu; rektor; concordia; kursus; mõis
-1,2,2,0,2,1,0,1,1,13,kolu; rektor; concordia; kursus; mõis
-1,2,2,1,2,1,0,1,1,13,kolu; rektor; concordia; kursus; mõis
-1,1,2,1,2,1,0,0,1,13,rektor; perekond; concordia; kursus; mõis
-1,1,3,2,3,2,1,0,1,13,rektor; perekond; concordia; kursus; mõis
-1,1,1,3,3,0,0,1,1,13,rektor; perekond; concordia; kursus; mõis
-1,2,2,2,2,1,0,2,1,13,kolu; rektor; perekond; concordia; kursus; mõis
-1,3,1,2,1,1,0,1,0,13,kolu; rektor; perekond; concordia; kursus; mõis
-1,2,1,2,2,1,0,3,0,13,rektor; perekond; concordia; kursus; mõis
-1,2,1,2,1,1,0,3,0,13,rektor; perekond; concordia; kursus; mõis
+2,2,1,1,2,2,1,2,4,13,rektor; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; kursus; concordia; kolu
+2,2,3,1,2,2,1,2,4,13,rektor; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; kursus; concordia; kolu
+3,2,3,1,2,2,1,2,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; kursus; concordia; kolu
+3,2,3,2,2,2,1,3,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; kursus; concordia; kolu
+3,1,3,3,2,2,0,2,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia
+2,2,5,5,3,3,1,2,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia
+2,2,2,7,3,2,1,2,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia
+2,3,4,5,2,3,1,3,5,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; kursus; perekond; concordia; kolu
+2,3,3,3,1,1,2,2,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia; kolu
+2,2,2,3,3,2,2,4,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia
+2,2,3,3,2,2,2,4,4,13,rektor; sidejaoskond; mõisaproua; arenduskeskus; majandusjuht; ülikool; mõis; perekond; kursus; concordia

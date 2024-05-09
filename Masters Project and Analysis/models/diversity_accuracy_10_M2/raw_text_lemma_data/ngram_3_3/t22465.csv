@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,1,1,1,1,1,12,cern; šveits; juust; kanton
-3,1,1,1,1,1,1,1,1,12,cern; šveits; juust; kanton
-3,1,1,1,1,1,1,1,1,12,cern; šveits; juust; kanton
-3,1,1,1,1,1,1,1,0,12,cern; šveits; juust; kanton
-3,1,1,1,1,1,1,1,1,12,cern; šveits; juust; kanton
-3,2,2,1,1,1,1,1,1,12,cern; šveits; juust; kanton; genf
-3,3,1,2,1,2,1,1,0,12,mägi; šveits; juust; kanton; genf
-2,2,1,0,1,1,1,1,0,12,mägi; šveits; juust
-1,0,1,4,1,1,1,1,0,12,šveits; juust; kanton; suusatamine; järv; genf
-1,0,1,2,1,1,1,1,0,12,šveits; juust; kanton; genf
-2,1,2,2,1,1,1,2,0,12,šveits; juust; kanton; genf
+3,1,1,1,1,1,1,1,1,12,juust; kanton; šveits; cern
+3,1,1,1,1,1,1,1,1,12,juust; kanton; šveits; cern
+3,1,1,1,1,1,1,1,1,12,juust; kanton; šveits; cern
+3,1,1,1,1,1,1,1,0,12,juust; kanton; šveits; cern
+3,1,1,1,1,1,1,1,1,12,juust; kanton; šveits; cern
+3,2,2,1,1,1,1,1,1,12,juust; genf; kanton; šveits; cern
+3,3,1,3,1,2,1,1,0,12,juust; genf; maksusüsteem; kanton; mägi; šveits
+2,2,1,0,1,1,1,1,0,12,šveits; juust; mägi
+1,1,1,5,1,1,1,1,0,12,juust; maksusüsteem; genf; suusatamine; kanton; järv; šveits
+1,0,1,3,1,1,1,1,0,12,juust; maksusüsteem; genf; kanton; šveits
+2,1,2,2,1,1,1,2,0,12,juust; genf; kanton; šveits

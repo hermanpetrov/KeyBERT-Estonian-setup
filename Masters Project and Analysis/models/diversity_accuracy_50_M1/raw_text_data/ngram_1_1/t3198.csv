@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,1,1,1,0,1,14,koalitsioon; liivrand; aktsia; mälberg; juhan; mall
-1,0,2,0,1,1,1,0,1,14,koalitsioon; liivrand; aktsia; mälberg; juhan; mall
-1,0,2,0,1,1,1,0,1,14,koalitsioon; liivrand; aktsia; mälberg; juhan; mall
-1,0,1,0,1,1,1,0,1,14,koalitsioon; liivrand; mälberg; juhan; mall
-1,0,1,0,1,1,1,0,1,14,koalitsioon; liivrand; mälberg; juhan; mall
-2,0,1,0,1,0,0,0,1,14,tuumarelv; liivrand; mälberg; juhan; mall
-1,0,1,0,1,0,0,0,1,14,tuumarelv; juhan; mälberg; mall
-0,0,1,0,1,0,0,0,1,14,mälberg; juhan; mall
-0,0,1,1,1,0,1,0,1,14,koalitsioon; mälberg; juhan; hansapanga; mall
-0,0,1,0,1,1,0,0,1,14,mälberg; juhan; hansapanga; mall
-0,0,1,0,1,1,0,0,1,14,mälberg; juhan; hansapanga; mall
+1,0,2,0,1,1,1,0,1,14,mall; liivrand; aktsia; juhan; mälberg; koalitsioon
+1,0,2,0,1,1,1,0,1,14,mall; liivrand; aktsia; juhan; mälberg; koalitsioon
+1,0,2,0,1,1,1,0,1,14,mall; liivrand; aktsia; juhan; mälberg; koalitsioon
+1,0,1,0,1,1,1,0,1,14,liivrand; mall; juhan; mälberg; koalitsioon
+1,0,1,0,1,1,1,0,1,14,liivrand; mall; juhan; mälberg; koalitsioon
+2,0,1,0,1,0,0,0,1,14,liivrand; mall; juhan; mälberg; tuumarelv
+1,0,1,0,1,0,0,0,1,14,mälberg; mall; tuumarelv; juhan
+0,0,1,0,1,0,0,0,1,14,mälberg; mall; juhan
+0,0,1,1,1,0,1,0,1,14,hansapanga; mall; juhan; mälberg; koalitsioon
+0,0,1,0,1,1,0,0,1,14,mälberg; hansapanga; mall; juhan
+0,0,1,0,1,1,0,0,1,14,mälberg; hansapanga; mall; juhan

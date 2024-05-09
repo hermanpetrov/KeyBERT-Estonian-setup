@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,0,1,1,1,1,1,1,0,12,ehmatamine; uskumus; maagia; lemm
-0,1,1,0,1,0,0,1,0,12,stress; ehmatamine; uskumus; maagia
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,0,1,1,1,1,1,0,0,12,maagia; uskumus; lemm; ehmatamine
+0,1,1,0,1,0,1,0,0,12,stress; uskumus; maagia; ehmatamine
 0,1,1,0,1,0,0,0,0,12,stress; uskumus; maagia
-1,1,0,0,1,1,0,0,0,12,stress; uskumus; maagia
-1,1,0,0,1,1,0,0,0,12,stress; uskumus; maagia
+1,1,0,0,1,0,0,0,0,12,stress; uskumus
+1,1,0,0,1,0,0,0,0,12,stress; uskumus

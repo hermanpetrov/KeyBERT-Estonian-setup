@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,3,3,2,4,4,3,2,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-4,5,2,3,2,5,4,3,2,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-4,5,4,3,2,5,4,4,2,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-4,5,5,3,2,5,4,6,2,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-4,5,5,3,2,5,4,6,3,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-3,5,5,4,3,5,3,6,3,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-5,5,5,2,3,3,4,5,3,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-2,4,4,3,3,4,3,4,4,15,erilaid; rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-1,2,2,3,3,3,4,3,3,15,erilaid; rothschild; paruness; loss; fantaasiapidu; helgi
-1,2,4,3,3,3,3,4,3,15,rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
-1,2,3,3,3,3,3,4,4,15,rothschild; värvitoon; paruness; loss; fantaasiapidu; helgi
+4,5,3,3,2,4,3,2,0,15,rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+4,5,2,3,2,4,3,2,0,15,rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+4,5,4,3,2,4,4,2,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+4,5,5,3,2,4,6,2,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+4,5,5,3,2,4,6,3,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+3,5,5,4,3,3,6,3,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+5,5,5,2,3,4,5,3,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+2,4,4,3,3,3,4,4,0,15,helgi; rothschild; erilaid; paruness; fantaasiapidu; loss; värvitoon
+1,2,2,3,3,4,3,3,0,15,paruness; fantaasiapidu; helgi; loss; rothschild
+1,2,4,3,3,3,4,3,0,15,helgi; rothschild; paruness; fantaasiapidu; loss; värvitoon
+1,2,3,3,3,3,4,4,0,15,helgi; rothschild; paruness; fantaasiapidu; loss; värvitoon

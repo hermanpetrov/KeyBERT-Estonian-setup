@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,3,3,2,1,14,katus; ema; katariina; redel; poiss; kohvik; hernes
-1,3,2,0,3,4,3,2,1,14,katus; ema; katariina; eva; redel; poiss; kohvik; hernes
-0,3,2,0,3,4,5,3,1,14,katus; ema; katariina; eva; hinrik; redel; poiss; kohvik; hernes
-0,3,3,3,2,2,4,3,1,14,katus; ema; katariina; eva; hinrik; redel; poiss; kohvik; dieet; hernes
-1,2,2,2,2,3,4,3,1,14,katus; ema; katariina; eva; hinrik; redel; poiss; kohvik; dieet; hernes
-0,2,2,1,3,4,3,3,1,14,katus; ema; katariina; eva; hinrik; redel; poiss; kohvik; hernes
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,3,3,2,1,14,katariina; redel; hernes; katus; ema; poiss; kohvik
+1,3,2,0,3,4,3,2,1,14,eva; katariina; redel; hernes; katus; ema; poiss; kohvik
+0,3,2,0,3,4,5,3,1,14,hinrik; eva; katariina; redel; hernes; katus; ema; poiss; kohvik
+0,3,3,3,2,2,4,3,1,14,hinrik; eva; katariina; hernes; dieet; redel; katus; ema; poiss; kohvik
+1,2,2,2,2,3,4,3,1,14,hinrik; eva; katariina; dieet; redel; hernes; katus; ema; poiss; kohvik
+0,2,2,1,3,4,3,3,1,14,hinrik; eva; katariina; redel; hernes; katus; ema; poiss; kohvik

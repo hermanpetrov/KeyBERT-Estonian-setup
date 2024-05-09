@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,6,4,1,1,1,1,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; euroopa
-1,3,6,4,1,1,1,1,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; euroopa
-1,3,6,4,1,1,1,1,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; euroopa
-1,3,6,4,1,1,1,1,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; euroopa
-1,3,8,4,1,1,1,2,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; ansip; komisjon; euroopa
-1,2,8,4,2,3,2,3,1,18,indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; ansip; komisjon; euroopa
-0,2,7,1,2,3,1,4,1,18,ansip; indrek; tulistamisjuhtum; eelarve; saar; andrus; päevakaja; abikaasa; ilves; komisjon; euroopa
-2,0,6,1,1,4,2,5,1,18,ansip; indrek; eelarve; saar; andrus; ott; päevakaja; abikaasa; ilves; komisjon; euroopa
-1,1,4,2,1,3,3,5,1,18,kristjan; indrek; eelarve; saar; ilves; andrus; ott; päevakaja; abikaasa; ansip; komisjon; euroopa
-2,2,6,2,2,3,1,1,1,18,kristjan; indrek; tulistamisjuhtum; eelarve; saar; ilves; andrus; ott; päevakaja; ansip; euroopa
-2,1,3,3,4,2,2,1,1,18,kristjan; indrek; tulistamisjuhtum; ilves; saar; andrus; ott; päevakaja; ansip; komisjon; euroopa
+1,3,6,4,1,1,1,1,1,18,andrus; saar; eelarve; abikaasa; tulistamisjuhtum; euroopa; indrek; päevakaja
+1,3,6,4,1,1,1,1,1,18,andrus; saar; eelarve; abikaasa; tulistamisjuhtum; euroopa; indrek; päevakaja
+1,3,6,4,1,1,1,1,1,18,andrus; saar; eelarve; abikaasa; tulistamisjuhtum; euroopa; indrek; päevakaja
+1,3,6,4,1,1,1,1,1,18,andrus; saar; eelarve; abikaasa; tulistamisjuhtum; euroopa; indrek; päevakaja
+1,3,8,4,1,1,1,2,1,18,andrus; indrek; eelarve; komisjon; ansip; abikaasa; tulistamisjuhtum; euroopa; saar; päevakaja
+1,2,8,4,2,3,2,3,1,18,andrus; saar; komisjon; eelarve; ansip; abikaasa; tulistamisjuhtum; euroopa; indrek; päevakaja
+0,2,7,1,2,3,1,4,1,18,andrus; saar; komisjon; eelarve; ansip; abikaasa; ilves; tulistamisjuhtum; euroopa; indrek; päevakaja
+2,0,6,1,1,4,2,5,1,18,andrus; saar; eelarve; ott; komisjon; ansip; ilves; abikaasa; euroopa; indrek; päevakaja
+1,1,4,2,1,3,3,5,1,18,andrus; komisjon; eelarve; ott; ansip; kristjan; ilves; abikaasa; päevakaja; euroopa; indrek; saar
+2,2,6,2,2,3,1,1,1,18,andrus; eelarve; ott; ansip; kristjan; ilves; tulistamisjuhtum; päevakaja; euroopa; indrek; saar
+2,1,3,3,4,2,2,1,1,18,andrus; saar; komisjon; ott; ansip; kristjan; ilves; tulistamisjuhtum; euroopa; indrek; päevakaja

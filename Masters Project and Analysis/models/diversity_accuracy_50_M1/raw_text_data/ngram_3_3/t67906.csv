@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,3,3,0,2,2,3,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-4,4,3,3,0,2,2,3,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-4,4,3,3,0,2,2,3,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-4,4,3,3,0,2,2,3,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-2,3,3,3,0,2,2,3,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; tsivilisatsioon; utoopia; nüganen
-2,4,3,4,0,3,3,3,2,14,tammsaare; revolutsionäär; kontsert; teater; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-1,4,3,1,0,3,3,3,2,14,tammsaare; revolutsionäär; kapitalism; kontsert; teater; elmo; klassika; tsivilisatsioon; nüganen
-4,3,4,0,0,6,3,4,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; kaja; tsivilisatsioon; nüganen
-1,4,4,1,1,3,2,1,2,14,tammsaare; revolutsionäär; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; utoopia; nüganen
-2,4,3,1,0,3,3,4,2,14,tammsaare; kontsert; teater; stoppard; elmo; klassika; kaja; tsivilisatsioon; nüganen
-3,1,2,1,0,4,2,3,2,14,tammsaare; kontsert; teater; stoppard; elmo; klassika; tsivilisatsioon; nüganen
+4,4,3,3,0,2,2,3,2,14,tsivilisatsioon; stoppard; elmo; nüganen; kontsert; revolutsionäär; utoopia; tammsaare; teater; klassika
+4,4,3,3,0,2,2,3,2,14,tsivilisatsioon; stoppard; elmo; nüganen; kontsert; revolutsionäär; utoopia; tammsaare; teater; klassika
+4,4,3,3,0,2,2,3,2,14,tsivilisatsioon; stoppard; elmo; nüganen; kontsert; revolutsionäär; utoopia; tammsaare; teater; klassika
+4,4,3,3,0,2,2,3,2,14,tsivilisatsioon; stoppard; elmo; nüganen; kontsert; revolutsionäär; utoopia; tammsaare; teater; klassika
+2,3,3,3,0,2,2,3,2,14,tsivilisatsioon; stoppard; nüganen; elmo; revolutsionäär; utoopia; tammsaare; teater; kontsert
+2,4,3,4,0,3,3,3,2,14,tsivilisatsioon; nüganen; elmo; revolutsionäär; utoopia; klassika; tammsaare; teater; kontsert
+1,4,3,1,0,3,3,3,2,14,tsivilisatsioon; nüganen; elmo; kontsert; kapitalism; revolutsionäär; tammsaare; teater; klassika
+4,3,4,0,0,6,3,4,2,14,tsivilisatsioon; stoppard; kaja; elmo; nüganen; revolutsionäär; klassika; tammsaare; teater; kontsert
+1,4,4,1,1,3,2,1,2,14,tsivilisatsioon; stoppard; nüganen; elmo; revolutsionäär; utoopia; klassika; tammsaare; teater; kontsert
+2,4,3,1,0,3,3,4,2,14,tsivilisatsioon; stoppard; kaja; nüganen; elmo; klassika; tammsaare; teater; kontsert
+3,1,2,1,0,4,2,3,2,14,tsivilisatsioon; stoppard; nüganen; elmo; klassika; tammsaare; teater; kontsert

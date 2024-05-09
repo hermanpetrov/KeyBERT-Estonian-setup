@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,0,1,2,0,0,0,2,1,15,tõnis; hellar; palts; bush
-4,0,1,2,0,0,0,2,1,15,tõnis; hellar; palts; bush
-4,0,1,2,0,0,0,2,1,15,tõnis; hellar; palts; bush
-4,0,1,2,0,0,0,2,1,15,tõnis; hellar; palts; bush
-4,0,1,2,0,0,0,2,1,15,tõnis; hellar; palts; bush
-4,0,1,2,0,0,1,2,1,15,tõnis; palts; hellar; bush; keeld
-4,0,0,2,0,2,3,2,1,15,tõnis; palts; hellar; bush; narkootikum; keeld
-3,0,1,3,1,3,1,3,1,15,tõnis; hellar; palts; bush; narkootikum
-1,0,1,2,1,2,3,3,1,15,tõnis; palts; hellar; bush
-1,1,2,4,1,2,3,3,1,15,hellar; narkootikum; tõnis; palts; kunstlik; bush
-1,2,4,4,1,2,2,3,1,15,viljastamine; hellar; tõnis; palts; kunstlik; bush; keeld
+4,1,3,4,0,1,1,4,2,15,venemaa; umbusaldamine; palts; hellar; tõnis; bush; linnapea
+4,1,3,4,0,1,1,4,2,15,venemaa; umbusaldamine; palts; hellar; tõnis; bush; linnapea
+4,1,3,4,0,1,1,4,2,15,venemaa; umbusaldamine; palts; hellar; tõnis; bush; linnapea
+4,1,3,4,0,1,1,4,2,15,venemaa; umbusaldamine; palts; hellar; tõnis; bush; linnapea
+4,1,3,4,0,1,1,4,2,15,venemaa; umbusaldamine; palts; hellar; tõnis; bush; linnapea
+5,1,3,4,0,1,2,6,2,15,venemaa; umbusaldamine; haigekassa; palts; hellar; tõnis; keeld; bush; linnapea
+4,2,2,5,0,5,5,6,2,15,venemaa; narkootikum; umbusaldamine; haigekassa; palts; hellar; tõnis; keeld; bush; linnapea
+6,2,3,5,1,6,2,7,2,15,venemaa; narkootikum; umbusaldamine; haigekassa; palts; hellar; tõnis; bush; linnapea
+4,3,3,5,2,3,4,5,2,15,venemaa; umbusaldamine; haigekassa; palts; hellar; tõnis; bush; linnapea
+3,4,3,6,2,3,4,4,2,15,kunstlik; venemaa; narkootikum; umbusaldamine; haigekassa; palts; hellar; tõnis; bush; linnapea
+3,6,6,5,2,3,3,4,2,15,kunstlik; venemaa; viljastamine; umbusaldamine; haigekassa; palts; keeld; tõnis; hellar; bush; linnapea

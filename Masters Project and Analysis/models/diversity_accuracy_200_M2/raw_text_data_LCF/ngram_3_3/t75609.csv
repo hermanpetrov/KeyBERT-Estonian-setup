@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,9,8,3,5,4,4,7,6,11,tehnoloogiline; vaim; usutunne; sekularism; üliintellekt; religioon; püha; filosoofia; teadus
-7,9,8,3,5,4,3,7,6,11,tehnoloogiline; vaim; usutunne; sekularism; üliintellekt; religioon; püha; filosoofia; teadus
-7,8,8,3,5,5,3,7,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-6,7,7,3,5,5,3,7,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-5,7,7,3,5,5,3,6,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-5,8,6,3,6,4,4,6,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-6,6,5,7,6,5,5,6,5,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-6,4,5,7,6,5,7,6,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-5,5,5,6,5,5,4,5,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-4,4,4,7,7,6,6,5,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
-4,6,3,7,4,5,5,3,6,11,religioon; tehnoloogiline; püha; filosoofia; vaim; teadus; usutunne; sekularism; üliintellekt
+7,9,8,3,5,4,7,6,0,11,teadus; üliintellekt; filosoofia; tehnoloogiline; vaim; püha; usutunne; religioon; sekularism
+7,9,8,3,5,3,7,6,0,11,teadus; üliintellekt; filosoofia; tehnoloogiline; vaim; püha; usutunne; religioon; sekularism
+7,8,8,3,5,3,7,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+6,7,7,3,5,3,7,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+5,7,7,3,5,3,6,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+5,8,6,3,6,4,6,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+6,6,5,7,6,5,6,5,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+6,4,5,7,6,7,6,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+5,5,5,6,5,4,5,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+4,4,4,7,7,6,5,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism
+4,6,3,7,4,5,3,6,0,11,teadus; üliintellekt; püha; filosoofia; tehnoloogiline; vaim; usutunne; religioon; sekularism

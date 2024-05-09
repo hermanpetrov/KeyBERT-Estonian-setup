@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,1,0,3,14,valitsus; sõda; koostöö
-0,0,0,0,0,1,1,0,3,14,valitsus; sõda; koostöö
+0,0,0,0,0,1,1,0,3,14,valitsus; koostöö; sõda
+0,0,0,0,0,1,1,0,3,14,valitsus; koostöö; sõda
 0,0,0,0,0,1,1,0,2,14,koostöö; sõda
 0,0,0,0,0,1,1,0,2,14,koostöö; sõda
-0,0,0,0,0,1,1,0,3,14,valitsus; sõda; koostöö
+0,0,0,0,0,1,1,0,3,14,valitsus; koostöö; sõda
 1,0,0,0,0,1,1,0,3,14,valitsus; koostöö; sõda
-0,0,0,2,0,1,1,0,3,14,valitsus; välisministrite; koostöö; pätsi; sõda
-0,0,1,0,0,1,1,0,2,14,valitsus; sõda; koostöö
+0,0,0,2,0,1,1,0,3,14,välisministrite; valitsus; koostöö; pätsi; sõda
+0,0,1,0,0,1,1,0,2,14,valitsus; koostöö; sõda
 1,0,0,0,0,1,1,0,2,14,koostöö; sõda
 0,0,0,0,0,0,1,0,2,14,koostöö; sõda
-3,1,0,0,0,0,1,1,2,14,valitsus; koostöö; kommunistlik; sõda; partei
+3,1,0,0,0,0,1,1,2,14,partei; valitsus; koostöö; kommunistlik; sõda

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,3,2,1,1,0,12,torm; ivo; raamat; rabandus; hoidma; kinni; isa
-1,1,2,1,3,2,1,1,0,12,torm; ivo; raamat; rabandus; hoidma; kinni; isa
-1,1,2,1,3,2,1,1,1,12,torm; ivo; raamat; rabandus; hoidma; kinni; isa
-1,1,2,1,3,2,1,1,1,12,torm; ivo; raamat; rabandus; hoidma; kinni; isa
-1,1,2,1,3,2,1,1,2,12,ivo; raamat; rabandus; hoidma; kinni; poeg; torm; isa
-1,1,2,1,3,2,1,1,2,12,ivo; raamat; rabandus; hoidma; kinni; poeg; torm; isa
-1,1,2,1,3,2,1,1,2,12,ivo; raamat; rabandus; hoidma; kinni; poeg; torm; isa
-1,1,2,1,3,1,1,1,2,12,ivo; raamat; rabandus; hoidma; kinni; poeg; torm; isa
-1,1,2,2,3,1,1,2,2,12,kinni; raamat; rabandus; hoidma; ivo; poeg; torm; isa
-1,1,1,2,3,2,1,2,2,12,kinni; raamat; rabandus; ivo; hoidma; poeg; torm; isa
-1,2,2,2,3,2,1,2,2,12,kinni; raamat; rabandus; hoidma; ivo; poeg; torm; isa
+1,1,3,1,3,3,2,2,0,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; ivo
+1,1,3,1,3,3,2,2,0,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; ivo
+1,1,3,1,3,3,2,2,1,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; ivo
+1,1,3,1,3,3,2,2,1,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; ivo
+1,1,3,1,3,3,2,2,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,1,3,1,3,3,2,2,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,1,3,1,3,3,2,2,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,1,3,1,3,1,2,2,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,1,3,2,3,1,1,3,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,1,2,2,3,2,1,3,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo
+1,2,3,2,3,2,1,3,2,12,uukkivi; kinni; hoidma; isa; torm; rabandus; raamat; poeg; ivo

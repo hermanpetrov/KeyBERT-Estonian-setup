@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,0,1,2,1,2,1,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,4,2,0,1,2,1,2,1,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,4,2,0,1,2,1,2,0,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,4,2,0,1,2,1,2,0,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,4,2,0,1,3,1,2,0,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,5,2,1,1,2,1,3,0,12,rand; liiv; tsükkel; mageveehorisont; prognoos; sadam; tamm
-2,4,1,2,2,2,2,1,0,12,rand; liiv; tsükkel; torm; sadam; prognoos; mageveehorisont; tamm
-1,4,1,1,3,1,3,1,0,12,rand; liiv; tsükkel; torm; sadam; prognoos; tamm
-0,1,1,1,3,1,1,2,1,12,torm; sadam; prognoos; rand; liiv; tsükkel
-1,1,1,2,3,1,0,0,3,12,torm; sadam; prognoos; rand; liiv
-0,3,0,3,3,2,2,1,3,12,rand; liiv; torm; sadam; prognoos; tamm
+2,4,2,0,1,2,1,2,1,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,4,2,0,1,2,1,2,1,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,4,2,0,1,2,1,2,0,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,4,2,0,1,2,1,2,0,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,4,2,0,1,3,1,2,0,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,5,2,1,1,2,1,3,0,12,tamm; mageveehorisont; liiv; rand; prognoos; sadam; tsükkel
+2,4,1,2,2,2,2,1,0,12,tamm; mageveehorisont; liiv; torm; rand; prognoos; sadam; tsükkel
+1,4,1,2,3,1,3,1,0,12,elukvaliteet; tamm; liiv; torm; rand; prognoos; sadam; tsükkel
+0,2,1,2,3,1,1,2,1,12,elukvaliteet; liiv; torm; rand; prognoos; sadam; kasvuhooneefekt; tsükkel
+1,1,1,3,3,1,0,0,3,12,elukvaliteet; liiv; torm; rand; prognoos; sadam
+0,3,0,3,3,2,2,1,3,12,tamm; liiv; torm; rand; prognoos; sadam

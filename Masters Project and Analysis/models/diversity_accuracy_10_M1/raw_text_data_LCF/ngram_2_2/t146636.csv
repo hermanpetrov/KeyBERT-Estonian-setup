@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,2,1,0,1,1,0,0,12,surmapattu; paul; seitse; toomas
-0,0,1,1,0,1,1,0,0,12,seitse; surmapattu; toomas
-0,0,2,0,0,1,1,2,0,12,surmapattu; paul; süü; toomas
-0,0,1,0,0,1,2,2,0,12,surmapattu; süü; seitse; toomas
-0,0,1,0,0,1,2,1,0,12,seitse; surmapattu; toomas
-0,0,1,0,0,1,2,2,0,12,surmapattu; seitse; toomas; liialdus
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,2,1,0,1,0,0,0,12,seitse; surmapattu; paul; toomas
+0,0,1,1,0,1,0,0,0,12,seitse; surmapattu; toomas
+0,0,2,0,0,1,2,0,0,12,surmapattu; süü; paul; toomas
+0,0,1,0,0,2,2,0,0,12,seitse; surmapattu; süü; toomas
+0,0,1,0,0,2,1,0,0,12,seitse; surmapattu; toomas
+0,0,1,0,0,2,2,0,0,12,seitse; surmapattu; liialdus; toomas

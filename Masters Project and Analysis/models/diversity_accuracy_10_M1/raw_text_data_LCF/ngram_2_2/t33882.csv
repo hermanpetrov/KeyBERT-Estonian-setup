@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,2,0,0,1,1,1,2,14,kõnekoosolek; estonia; eesti
-1,0,2,0,0,1,1,1,2,14,kõnekoosolek; estonia; eesti
-1,0,2,0,0,1,1,1,2,14,kõnekoosolek; estonia; eesti
-1,0,2,0,0,1,1,1,2,14,kõnekoosolek; estonia; eesti
-1,0,2,0,0,1,1,2,2,14,kõnekoosolek; estonia; eesti
-1,0,1,0,0,1,1,2,2,14,kõnekoosolek; eesti; estonia
-1,0,0,1,0,0,0,2,2,14,vene; estonia; selts; eesti
-1,1,0,1,0,0,0,2,2,14,eesti; estonia
-2,1,0,1,0,0,0,1,1,14,eesti; estonia; vanemuise
-1,1,0,0,0,0,0,2,0,14,selts; eesti; estonia
-1,1,0,0,0,0,0,1,0,14,eesti; estonia
+1,0,2,0,0,1,1,2,0,14,eesti; kõnekoosolek; estonia
+1,0,2,0,0,1,1,2,0,14,eesti; kõnekoosolek; estonia
+1,0,2,0,0,1,1,2,0,14,eesti; kõnekoosolek; estonia
+1,0,2,0,0,1,1,2,0,14,eesti; kõnekoosolek; estonia
+1,0,2,0,0,1,2,2,0,14,eesti; kõnekoosolek; estonia
+1,0,1,0,0,1,2,2,0,14,kõnekoosolek; eesti; estonia
+1,0,0,1,0,0,2,2,0,14,selts; vene; eesti; estonia
+1,1,0,1,0,0,2,2,0,14,eesti; estonia
+2,1,0,1,0,0,1,1,0,14,vanemuise; eesti; estonia
+1,1,0,0,0,0,2,0,0,14,selts; eesti; estonia
+1,1,0,0,0,0,1,0,0,14,eesti; estonia

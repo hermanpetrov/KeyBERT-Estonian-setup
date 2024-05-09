@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-4,4,3,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,4,4,1,4,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-4,4,4,2,3,3,2,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-3,4,4,6,3,3,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-3,4,5,5,3,2,3,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
-2,3,4,5,3,4,2,5,5,12,nato; väin; kaitseliit; muhu; tehnika; sõda; lahing
+2,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+2,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+2,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+2,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+2,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+4,4,3,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+2,4,4,1,4,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+4,4,4,2,3,3,2,5,5,12,lahing; nato; sõda; tehnika; muhu; väin; kaitseliit
+3,4,4,6,3,3,3,5,5,12,lahing; nato; sõda; tehnika; muhu; kaitseliit; väin
+3,4,5,5,3,2,3,5,5,12,lahing; nato; sõda; tehnika; muhu; kaitseliit; väin
+2,3,4,5,3,4,2,5,5,12,lahing; nato; sõda; tehnika; muhu; kaitseliit; väin

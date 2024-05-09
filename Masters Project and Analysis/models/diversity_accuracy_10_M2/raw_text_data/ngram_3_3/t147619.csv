@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,1,0,0,0,3,1,13,mõrane; betti; peegel
 0,0,0,1,0,0,0,3,1,13,mõrane; betti; peegel
 0,0,0,1,0,0,0,3,1,13,mõrane; betti; peegel
-0,0,0,1,0,2,0,3,1,13,mõrane; peegel; betti
-1,0,0,1,0,2,0,4,1,13,mõrane; peegel; rätsep; betti
-1,0,0,0,0,1,1,4,1,13,peegel; mõrane; kurat; rätsep; betti
-1,0,0,0,0,1,1,3,1,13,peegel; mõrane; kurat; rätsep; betti
-0,0,0,1,0,2,1,4,1,13,lesk; peegel; mõrane; kurat; rätsep; betti
-0,0,0,0,0,1,1,2,1,13,peegel; mõrane; kurat
+0,0,0,1,0,2,0,3,1,13,peegel; mõrane; betti
+1,0,0,1,0,2,0,4,1,13,peegel; mõrane; rätsep; betti
+1,0,0,0,0,1,1,4,1,13,peegel; mõrane; rätsep; betti; kurat
+1,0,0,0,0,1,1,3,1,13,peegel; mõrane; rätsep; betti; kurat
+0,0,0,1,0,2,1,4,1,13,peegel; lesk; mõrane; rätsep; betti; kurat
+0,0,0,0,0,1,1,2,1,13,mõrane; kurat; peegel

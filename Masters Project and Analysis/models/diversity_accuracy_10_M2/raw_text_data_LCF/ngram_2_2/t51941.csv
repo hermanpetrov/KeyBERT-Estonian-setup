@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-1,1,2,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-1,1,2,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-1,1,2,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-1,1,2,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-1,1,1,1,0,0,1,2,0,12,baltika; rahulolu; kultuurisõber; gazprom; euroopa
-0,1,2,0,0,0,1,2,0,12,baltika; rahulolu; euroopa
-0,0,1,1,0,1,1,2,0,12,baltika; gazprom; euroopa; rahulolu
-0,0,2,1,0,2,1,1,0,12,baltika; rahulolu; enn; euroopa
-0,0,1,1,0,1,2,1,0,12,baltika; kreeka; euroopa
-0,0,0,2,0,1,2,1,0,12,baltika; gazprom; kreeka; euroopa
+1,1,2,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+1,1,2,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+1,1,2,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+1,1,2,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+1,1,2,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+1,1,1,1,0,1,2,0,0,12,baltika; rahulolu; gazprom; euroopa; kultuurisõber
+0,1,2,0,0,1,2,0,0,12,rahulolu; baltika; euroopa
+0,0,1,1,0,1,2,0,0,12,gazprom; baltika; rahulolu; euroopa
+0,0,2,1,0,1,1,0,0,12,rahulolu; enn; baltika; euroopa
+0,0,1,1,0,2,1,0,0,12,euroopa; baltika; kreeka
+0,0,0,2,0,2,1,0,0,12,gazprom; kreeka; euroopa; baltika

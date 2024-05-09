@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,3,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,3,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,3,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,3,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,3,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,2,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,2,3,0,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,2,3,1,1,12,tarand; mari; kadakas; sõna
-0,0,0,0,1,3,3,2,1,12,tarand; mari; raha; kadakas; sõna
-0,0,2,0,0,3,2,3,1,12,tarand; tahvel; mari; raha; kadakas; sõna
-0,0,3,0,1,2,2,0,1,12,tarand; lugu; mari; kadakas; sõna
+0,0,0,0,1,3,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,3,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,3,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,3,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,3,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,2,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,2,3,0,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,2,3,1,1,12,mari; kadakas; sõna; tarand
+0,0,0,0,1,3,3,2,1,12,mari; kadakas; raha; sõna; tarand
+0,0,2,0,0,3,2,3,1,12,mari; kadakas; sõna; tahvel; raha; tarand
+0,0,3,0,1,2,2,0,1,12,mari; kadakas; sõna; lugu; tarand

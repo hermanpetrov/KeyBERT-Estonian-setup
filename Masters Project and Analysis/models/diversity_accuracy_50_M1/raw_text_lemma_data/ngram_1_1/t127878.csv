@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,1,2,4,2,1,0,14,probleem; lavastaja; komme; virro; vadi
-0,0,3,1,2,4,2,1,0,14,probleem; lavastaja; komme; virro; vadi
-0,0,3,1,2,4,2,1,0,14,probleem; lavastaja; komme; virro; vadi
-0,0,3,1,2,4,2,1,0,14,probleem; lavastaja; komme; virro; vadi
-0,0,3,1,2,4,2,1,0,14,probleem; lavastaja; komme; virro; vadi
-0,0,2,1,2,3,4,1,0,14,keiu; võõras; probleem; lavastaja; komme; virro; vadi
-0,0,2,1,2,4,6,2,0,14,keiu; võõras; probleem; lavastaja; komme; virro; vadi; isiklik
-0,0,2,2,2,3,5,2,0,14,keiu; võõras; probleem; lavastaja; komme; urmas; virro; vadi; isiklik
-1,0,1,2,2,3,4,2,0,14,keiu; võõras; probleem; lavastaja; kloun; komme; urmas; virro; isiklik
-1,0,1,1,2,5,4,1,0,14,keiu; võõras; probleem; lavastaja; kloun; komme; virro; vadi; isiklik
-1,0,2,1,2,6,4,1,1,14,keiu; võõras; probleem; lavastaja; kloun; komme; virro; vadi; isiklik
+0,0,3,1,2,4,2,1,0,14,vadi; virro; lavastaja; komme; probleem
+0,0,3,1,2,4,2,1,0,14,vadi; virro; lavastaja; komme; probleem
+0,0,3,1,2,4,2,1,0,14,vadi; virro; lavastaja; komme; probleem
+0,0,3,1,2,4,2,1,0,14,vadi; virro; lavastaja; komme; probleem
+0,0,3,1,2,4,2,1,0,14,vadi; virro; lavastaja; komme; probleem
+0,0,2,1,2,3,4,1,0,14,keiu; vadi; virro; lavastaja; võõras; komme; probleem
+0,0,2,1,2,4,6,2,0,14,keiu; isiklik; vadi; virro; lavastaja; võõras; komme; probleem
+0,0,2,2,2,3,5,2,0,14,urmas; keiu; isiklik; vadi; virro; lavastaja; võõras; komme; probleem
+1,0,1,2,2,3,4,2,0,14,urmas; kloun; keiu; isiklik; virro; võõras; lavastaja; komme; probleem
+1,0,1,1,2,5,4,1,0,14,kloun; keiu; isiklik; vadi; virro; lavastaja; võõras; komme; probleem
+1,0,2,1,2,6,4,1,1,14,kloun; keiu; isiklik; vadi; virro; lavastaja; võõras; komme; probleem

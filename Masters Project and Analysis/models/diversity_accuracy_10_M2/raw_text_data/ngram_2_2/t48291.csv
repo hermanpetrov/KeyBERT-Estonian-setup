@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-1,2,0,0,0,0,0,1,0,11,liikluskontroll; rannavalve; radar
-0,1,1,0,0,0,1,1,0,11,liikluskontroll; rannavalve; veeteede
-1,1,1,0,0,0,0,1,0,11,merehariduskeskus; liikluskontroll; veeteede
-1,1,1,0,0,0,2,0,0,11,liikluskontroll; veeteede; merehariduskeskus; rannavalve
-1,0,1,0,0,2,2,1,0,11,merehariduskeskus; territoriaalveed
-1,1,0,0,0,2,3,0,0,11,merehariduskeskus; hüdrodünaamika; päästeoperatsioon; territoriaalveed
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+1,2,0,0,0,0,0,1,0,11,radar; liikluskontroll; rannavalve
+0,1,1,0,0,0,1,1,0,11,rannavalve; veeteede; liikluskontroll
+1,1,1,0,0,0,0,1,0,11,merehariduskeskus; veeteede; liikluskontroll
+1,1,1,0,0,0,2,0,0,11,rannavalve; merehariduskeskus; veeteede; liikluskontroll
+1,0,1,0,0,2,2,1,0,11,territoriaalveed; merehariduskeskus
+1,1,0,0,0,2,3,0,0,11,territoriaalveed; merehariduskeskus; päästeoperatsioon; hüdrodünaamika

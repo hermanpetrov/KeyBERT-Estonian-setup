@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,0,0,0,0,14,kunstnik; maria-kristiina
-0,0,2,0,0,0,0,0,0,14,kunstnik; maria-kristiina
-0,0,2,0,0,0,0,0,0,14,kunstnik; maria-kristiina
-0,0,1,0,0,0,0,0,0,14,maria-kristiina
-0,0,1,0,0,0,0,0,0,14,maria-kristiina
-0,0,2,0,0,0,1,0,0,14,kriitik; kunstnik; maria-kristiina
-0,0,1,0,0,0,2,1,0,14,kriitik; kuraator; maria-kristiina
-0,0,1,1,0,0,2,1,0,14,kriitik; kuraator; maria-kristiina
-0,0,1,1,0,1,1,0,0,14,kriitik; kuraator; maria-kristiina
-1,0,1,0,0,1,1,1,0,14,kriitik; maria-kristiina
+0,0,2,0,0,0,0,1,0,14,maria-kristiina; kunstnik; kunstimaailm
+0,0,2,0,0,0,0,1,0,14,maria-kristiina; kunstnik; kunstimaailm
+0,0,2,0,0,0,0,1,0,14,maria-kristiina; kunstnik; kunstimaailm
+0,0,1,0,0,0,0,1,0,14,maria-kristiina; kunstimaailm
+0,0,1,0,0,0,0,1,0,14,maria-kristiina; kunstimaailm
+0,0,2,0,0,0,1,0,0,14,maria-kristiina; kunstnik; kriitik
+0,0,1,0,0,0,2,1,0,14,maria-kristiina; kriitik; kuraator
+0,0,1,1,0,0,2,1,0,14,maria-kristiina; kriitik; kuraator
+0,0,1,1,0,1,1,0,0,14,maria-kristiina; kriitik; kuraator
+1,0,1,0,0,1,1,1,0,14,maria-kristiina; kriitik
 0,0,1,0,0,0,1,1,0,14,maria-kristiina

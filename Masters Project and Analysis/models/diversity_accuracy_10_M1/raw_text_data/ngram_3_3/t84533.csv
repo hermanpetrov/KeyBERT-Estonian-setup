@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,0,0,1,1,16,hemingway; sõda; kirjanik
-1,0,1,0,0,0,0,1,1,16,hemingway; sõda; kirjanik
-1,0,1,0,0,0,0,1,1,16,hemingway; sõda; kirjanik
-1,0,1,0,0,0,0,1,1,16,hemingway; sõda; kirjanik
-1,0,1,0,0,0,0,1,1,16,hemingway; sõda; kirjanik
-1,0,2,0,0,1,1,1,1,16,sõda; kirjanik
-0,0,1,0,0,0,0,0,1,16,sõda; kirjanik
-0,1,1,1,0,2,2,2,1,16,kirjanik; hemingway; sõda; sõjaromaan
-0,1,1,2,0,2,2,0,1,16,aleksejev; kirjanik; hemingway; tiit; sõda; sõjaromaan
-1,0,2,0,0,1,1,0,1,16,kirjanik; sõda; sõjaromaan; peeter
-1,0,1,0,0,0,0,1,2,16,film; sõda; sõjaromaan; kirjanik
+1,0,1,0,0,0,0,1,1,16,hemingway; kirjanik; sõda
+1,0,1,0,0,0,0,1,1,16,hemingway; kirjanik; sõda
+1,0,1,0,0,0,0,1,1,16,hemingway; kirjanik; sõda
+1,0,1,0,0,0,0,1,1,16,hemingway; kirjanik; sõda
+1,0,1,0,0,0,0,1,1,16,hemingway; kirjanik; sõda
+1,0,2,0,0,1,1,1,1,16,kirjanik; sõda
+0,0,1,0,0,0,0,0,1,16,kirjanik; sõda
+0,1,1,1,0,2,2,2,1,16,kirjanik; sõjaromaan; hemingway; sõda
+0,1,1,2,0,2,2,0,1,16,kirjanik; hemingway; aleksejev; sõjaromaan; tiit; sõda
+1,0,2,0,0,1,1,0,1,16,peeter; kirjanik; sõjaromaan; sõda
+1,0,1,0,0,0,0,1,2,16,film; sõjaromaan; kirjanik; sõda

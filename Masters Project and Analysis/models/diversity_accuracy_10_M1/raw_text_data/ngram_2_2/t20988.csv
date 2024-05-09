@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,1,0,19,annely; everaus
-1,0,0,0,0,0,0,1,0,19,annely; everaus
-1,0,0,0,0,0,0,1,0,19,annely; everaus
-1,0,0,0,0,0,0,1,0,19,annely; everaus
-1,0,0,0,0,0,0,1,0,19,annely; everaus
-0,0,0,0,0,0,0,2,0,19,annely; peebo
+1,0,0,0,0,0,0,1,0,19,everaus; annely
+1,0,0,0,0,0,0,1,0,19,everaus; annely
+1,0,0,0,0,0,0,1,0,19,everaus; annely
+1,0,0,0,0,0,0,1,0,19,everaus; annely
+1,0,0,0,0,0,0,1,0,19,everaus; annely
+0,0,0,0,0,0,0,2,0,19,peebo; annely
 0,0,0,0,0,0,0,1,0,19,annely
 0,0,0,0,0,0,0,1,0,19,annely
-0,0,1,0,0,0,0,1,0,19,annely; mall
-0,0,0,0,0,1,0,1,0,19,peebo; annely
+0,0,1,0,0,0,0,1,0,19,mall; annely
+0,0,0,0,0,1,0,1,0,19,annely; peebo
 0,0,0,0,0,2,2,0,0,19,annely; peebo

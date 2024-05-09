@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,2,0,0,1,0,0,0,11,doktor; jooksma; tervis
 0,0,1,0,0,1,0,0,0,11,doktor; tervis
 0,0,0,0,0,1,0,1,0,11,jooksma; tervis
-0,0,1,0,0,1,0,1,0,11,doktor; jooksma; tervis
-0,0,1,0,0,1,0,1,0,11,doktor; jooksma; tervis
+0,0,1,0,0,1,0,1,0,11,jooksma; doktor; tervis
+0,0,1,0,0,1,0,1,0,11,jooksma; doktor; tervis
 0,0,1,0,0,1,0,0,0,11,doktor; tervis
 0,1,0,0,0,1,0,0,0,11,tervis
 0,1,0,0,0,1,0,0,0,11,tervis

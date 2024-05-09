@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,3,3,4,3,2,6,3,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-4,1,3,3,4,3,2,5,4,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-4,1,3,3,4,3,2,5,4,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-3,1,3,3,4,3,3,4,4,13,erakond; luksemburg; eelarve; talve; 4000; tanel; brüssel
-3,1,5,3,4,6,2,4,4,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-5,1,4,3,3,5,4,5,4,13,erakond; luksemburg; eelarve; talve; 4000; tanel; brüssel
-5,2,6,4,5,5,5,7,6,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-5,2,4,4,6,6,5,6,5,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-2,2,6,4,4,3,5,3,5,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-3,2,4,4,6,5,5,2,6,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
-3,5,3,4,6,6,3,4,6,13,erakond; muusikafestival; luksemburg; eelarve; talve; 4000; tanel; brüssel
+4,1,3,3,4,3,2,6,3,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+4,1,3,3,4,3,2,5,4,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+4,1,3,3,4,3,2,5,4,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+3,1,3,3,4,3,3,4,4,13,eelarve; erakond; talve; brüssel; 4000; tanel; luksemburg
+3,1,5,3,4,6,2,4,4,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+5,1,4,3,3,5,4,5,4,13,eelarve; erakond; talve; brüssel; 4000; tanel; luksemburg
+5,2,6,4,5,5,5,7,6,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+5,2,4,4,6,6,5,6,5,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+2,2,6,4,4,3,5,3,5,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+3,2,4,4,6,5,5,2,6,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg
+3,5,3,4,6,6,3,4,6,13,eelarve; erakond; talve; muusikafestival; brüssel; 4000; tanel; luksemburg

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,5,1,0,2,3,4,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-2,4,5,1,0,2,3,4,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-2,4,5,1,0,2,3,4,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-2,4,6,1,0,2,3,4,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-2,4,6,1,0,2,3,4,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-2,4,5,1,0,2,3,4,2,11,inglane; õppus; muhu; saar; tehnika; keel; saarlane
-2,4,6,1,0,3,3,3,2,11,inglane; õppus; muhu; taanlane; saar; tehnika; keel; saarlane
-3,4,5,3,0,3,3,5,2,11,inglane; õppus; muhu; saar; taanlane; tehnika; keel; saarlane
-4,5,6,3,0,3,4,5,2,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
-4,5,6,3,1,4,4,6,4,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
-4,4,6,4,2,4,4,5,4,11,inglane; õppus; saar; muhu; taanlane; lapiline; tehnika; keel; saarlane
+2,4,5,2,0,2,3,5,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,5,2,0,2,3,5,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,5,2,0,2,3,5,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,6,2,0,2,3,5,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,6,2,0,2,3,5,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,5,2,0,2,3,5,2,11,inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+2,4,6,2,0,3,3,4,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+3,4,5,4,0,3,3,6,2,11,taanlane; inglane; saarlane; õppus; muhu; tehnika; keel; kaitseliit; saar
+4,5,6,3,0,3,4,6,2,11,taanlane; lapiline; inglane; saarlane; õppus; muhu; keel; tehnika; kaitseliit; saar
+5,5,6,3,1,4,4,7,4,11,taanlane; lapiline; inglane; saarlane; õppus; muhu; keel; tehnika; kaitseliit; saar
+5,4,6,4,2,4,4,6,4,11,taanlane; lapiline; inglane; saarlane; õppus; muhu; keel; tehnika; kaitseliit; saar

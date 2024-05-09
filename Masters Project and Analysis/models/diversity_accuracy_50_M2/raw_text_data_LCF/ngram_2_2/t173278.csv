@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,3,2,0,3,3,3,0,12,pitka; merekultuur; mereriik; meremees; mereakadeemia; kapten
-3,3,3,2,0,3,3,3,0,12,pitka; merekultuur; mereriik; meremees; mereakadeemia; kapten
-3,3,3,2,0,3,3,3,0,12,pitka; merekultuur; mereriik; meremees; mereakadeemia; kapten
-3,5,4,2,0,3,3,3,0,12,pitka; merekultuur; mereriik; mereakadeemia; peeter; meremees; järvelaid; kapten
-3,4,4,2,0,3,3,4,0,12,pitka; merekultuur; mereriik; mereakadeemia; peeter; meremees; järvelaid; kapten
-3,3,8,2,0,3,4,5,0,12,mereparaad; pitka; merekultuur; mereriik; mereakadeemia; meremees; peeter; järvelaid; kapten; admiral
-2,0,6,4,0,2,7,7,0,12,mereparaad; pitka; merekultuur; mereriik; mereakadeemia; meremees; peeter; järvelaid; kapten; admiral
-2,3,7,0,0,5,4,6,0,12,mereparaad; pitka; piirivalve; merekultuur; mereriik; meremees; mereakadeemia; peeter; järvelaid; kapten; admiral
-1,1,4,0,1,3,5,5,1,12,mereparaad; piirivalve; pitka; mereriik; mereakadeemia; peeter; meremees; sadam; järvelaid; admiral
-1,3,6,0,1,1,2,3,2,12,mereparaad; piirivalve; pitka; mereriik; mereakadeemia; peeter; järvelaid; kapten; admiral
-1,3,4,0,2,2,2,4,2,12,mereparaad; piirivalve; pitka; mereriik; mereakadeemia; meremees; peeter; järvelaid; admiral
+3,3,3,2,0,3,3,0,0,12,mereriik; meremees; mereakadeemia; kapten; pitka; merekultuur
+3,3,3,2,0,3,3,0,0,12,mereriik; meremees; mereakadeemia; kapten; pitka; merekultuur
+3,3,3,2,0,3,3,0,0,12,mereriik; meremees; mereakadeemia; kapten; pitka; merekultuur
+3,5,4,2,0,3,3,0,0,12,mereriik; peeter; meremees; järvelaid; mereakadeemia; kapten; pitka; merekultuur
+3,4,4,2,0,3,4,0,0,12,mereriik; peeter; meremees; järvelaid; mereakadeemia; kapten; pitka; merekultuur
+3,3,8,2,0,4,5,0,0,12,mereriik; admiral; peeter; meremees; järvelaid; mereakadeemia; kapten; pitka; mereparaad; merekultuur
+2,0,6,4,0,7,7,0,0,12,admiral; mereriik; peeter; meremees; järvelaid; mereakadeemia; kapten; pitka; mereparaad; merekultuur
+2,3,7,0,0,4,6,0,0,12,admiral; mereriik; peeter; meremees; järvelaid; mereakadeemia; piirivalve; kapten; pitka; mereparaad; merekultuur
+1,1,4,0,1,5,5,1,0,12,admiral; mereriik; peeter; meremees; järvelaid; mereakadeemia; piirivalve; pitka; mereparaad; sadam
+1,3,6,0,1,2,3,2,0,12,admiral; mereriik; peeter; järvelaid; mereakadeemia; piirivalve; kapten; pitka; mereparaad
+1,3,4,0,2,2,4,2,0,12,admiral; mereriik; peeter; meremees; järvelaid; mereakadeemia; piirivalve; pitka; mereparaad

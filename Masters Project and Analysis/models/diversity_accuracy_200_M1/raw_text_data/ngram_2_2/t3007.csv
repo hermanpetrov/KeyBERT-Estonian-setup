@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,11,8,6,4,7,4,5,1,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-5,10,8,6,5,7,5,5,1,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-4,11,8,6,5,7,5,5,1,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-5,10,8,6,5,7,5,4,1,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-7,10,7,6,5,8,4,6,2,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-6,7,7,6,5,7,6,7,2,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-2,8,6,2,4,6,5,5,2,15,ravi; edgar; tõnis; savisaar; impordikeeld; nõuandetelefon; perearsti; terroritõrje; eentalu; välis-eesti; palts; viljatuse
-3,4,5,3,5,8,4,5,4,15,ravi; edgar; riina; impordikeeld; tõnis; savisaar; nõuandetelefon; perearsti; eentalu; terroritõrje; välis-eesti; palts; viljatuse
-2,6,6,3,6,5,5,6,4,15,ravi; edgar; riina; tõnis; savisaar; impordikeeld; eentalu; perearsti; nõuandetelefon; välis-eesti; palts; viljatuse
-1,7,10,2,6,7,5,4,5,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; tõnis; savisaar; eentalu; perearsti
-1,5,9,2,6,6,6,3,4,15,riina; impordikeeld; nõuandetelefon; terroritõrje; välis-eesti; palts; viljatuse; ravi; edgar; savisaar; tõnis; eentalu; perearsti
+5,11,8,6,4,7,4,5,1,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+5,10,8,6,5,7,5,5,1,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+4,11,8,6,5,7,5,5,1,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+5,10,8,6,5,7,5,4,1,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+7,10,7,6,5,8,4,6,2,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+6,7,7,6,5,7,6,7,2,15,edgar; ravi; terroritõrje; eentalu; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+2,8,6,2,4,6,5,5,2,15,edgar; viljatuse; ravi; perearsti; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; tõnis; nõuandetelefon
+3,4,5,3,5,8,4,5,4,15,edgar; viljatuse; ravi; perearsti; eentalu; terroritõrje; välis-eesti; riina; savisaar; palts; impordikeeld; tõnis; nõuandetelefon
+2,6,6,3,6,5,5,6,4,15,edgar; viljatuse; ravi; perearsti; eentalu; riina; välis-eesti; savisaar; palts; impordikeeld; tõnis; nõuandetelefon
+1,7,10,2,6,7,5,4,5,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis
+1,5,9,2,6,6,6,3,4,15,edgar; ravi; eentalu; terroritõrje; välis-eesti; savisaar; palts; impordikeeld; nõuandetelefon; viljatuse; perearsti; riina; tõnis

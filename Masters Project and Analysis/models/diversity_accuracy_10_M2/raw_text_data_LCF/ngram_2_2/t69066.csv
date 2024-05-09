@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,0,11,eetika
 0,1,0,0,0,0,0,0,0,11,eetika
 0,1,0,0,0,0,0,0,0,11,eetika
-0,1,0,0,0,0,0,1,0,11,arhitektide; eetika
-0,0,0,0,0,1,0,0,0,11,eetika
-0,0,0,0,0,0,1,2,0,11,arhitektide; eetika; liit
-1,0,0,0,0,1,0,2,0,11,arendaja; arhitektide; liit
+0,1,0,0,0,0,1,0,0,11,arhitektide; eetika
+0,0,0,0,0,0,0,0,0,11,
+0,0,0,0,0,1,2,0,0,11,arhitektide; eetika; liit
+1,0,0,0,0,0,2,0,0,11,arendaja; arhitektide; liit
 0,0,1,0,0,0,0,0,0,11,arhitektide
-1,0,0,0,0,0,0,2,0,11,kritiseerima; arhitektide; liit
+1,0,0,0,0,0,2,0,0,11,arhitektide; kritiseerima; liit

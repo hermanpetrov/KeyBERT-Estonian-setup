@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,2,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,0,1,0,3,2,2,0,14,religioon; usklik; püha; üliintellekt
-2,0,1,1,0,3,2,1,0,14,religioon; püha; usklik; üliintellekt
-1,0,0,0,0,1,0,0,0,14,püha; üliintellekt
-2,1,0,0,0,1,0,1,0,14,religioon; püha; usutunne; üliintellekt
-0,0,1,1,0,1,0,1,0,14,usutunne; usklik; jüri; püha
-0,0,1,1,1,1,0,0,2,14,jüri; püha; teadus; usklik
-0,0,1,0,0,1,0,0,1,14,usklik; püha; teadus
-0,1,1,0,0,1,0,0,1,14,jüri; püha; tehnoloogiline; teadus
+2,0,2,1,0,3,2,2,0,14,üliintellekt; püha; usklik; religioon
+2,0,2,1,0,3,2,2,0,14,üliintellekt; püha; usklik; religioon
+2,0,2,1,0,3,2,2,0,14,üliintellekt; püha; usklik; religioon
+2,0,0,1,0,3,2,2,0,14,üliintellekt; püha; usklik; religioon
+2,0,1,1,0,3,2,1,0,14,üliintellekt; püha; usklik; religioon
+1,0,0,0,0,1,0,0,0,14,üliintellekt; püha
+2,1,0,0,0,1,0,1,0,14,usutunne; üliintellekt; religioon; püha
+0,0,1,1,0,1,0,1,0,14,jüri; usutunne; usklik; püha
+0,0,1,1,1,1,0,0,2,14,teadus; püha; jüri; usklik
+0,0,1,0,0,1,0,0,1,14,usklik; teadus; püha
+0,1,1,0,0,1,0,0,1,14,jüri; teadus; tehnoloogiline; püha

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,5,2,1,4,4,4,5,12,kino; sõprus; eesti; film; formaat; televisioon
-4,4,5,2,1,4,4,4,5,12,kino; sõprus; eesti; film; formaat; televisioon
-5,4,5,2,1,5,4,5,5,12,kino; sõprus; eesti; film; formaat; televisioon
-6,4,5,3,2,5,4,5,5,12,kino; sõprus; eesti; film; formaat; televisioon
-6,4,5,4,2,5,5,6,5,12,kino; sõprus; eesti; film; formaat; televisioon
-5,4,4,4,2,5,5,6,5,12,kino; sõprus; eesti; film; formaat; televisioon
-4,4,5,6,4,5,4,5,6,12,kino; sõprus; eesti; film; formaat; televisioon
-3,4,4,5,3,4,5,5,6,12,kino; sõprus; eesti; film; formaat; televisioon
-3,3,4,5,4,4,3,5,5,12,kino; sõprus; eesti; film; formaat; televisioon
-3,4,4,5,4,3,2,4,4,12,kino; sõprus; eesti; film; formaat; televisioon
-3,4,4,4,4,4,2,5,3,12,kino; sõprus; eesti; film; formaat; televisioon
+6,8,8,7,2,6,7,7,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; formaat; televisioon; dokumentaalfilm; eesti; autoridokk
+6,8,8,7,2,6,7,7,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; formaat; televisioon; dokumentaalfilm; eesti; autoridokk
+8,8,8,7,2,7,7,8,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; formaat; televisioon; dokumentaalfilm; eesti; autoridokk
+9,8,9,8,3,7,7,8,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; formaat; televisioon; dokumentaalfilm; eesti; autoridokk
+9,8,9,9,4,7,8,9,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; formaat; televisioon; dokumentaalfilm; eesti; autoridokk
+8,6,8,9,4,8,8,10,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk
+8,6,9,8,6,9,8,9,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk
+6,6,9,8,5,8,8,9,9,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk
+7,6,8,8,6,7,7,9,8,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk
+6,7,7,8,6,6,6,7,8,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk
+6,6,7,7,6,7,6,9,6,12,film; filmitegija; eelarve; rahvusvaheline; kino; sõprus; televisioon; formaat; dokumentaalfilm; eesti; autoridokk

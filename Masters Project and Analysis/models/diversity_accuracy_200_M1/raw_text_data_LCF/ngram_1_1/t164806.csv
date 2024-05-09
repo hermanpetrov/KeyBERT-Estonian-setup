@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,3,0,4,4,3,4,5,16,mets; arm; ja; vaike; rajaste; agu; tantsupidu; maa; hing
-6,4,4,0,4,3,3,4,5,16,mets; arm; ja; vaike; rajaste; agu; tantsupidu; maa; mait; hing
-6,4,5,0,5,3,3,4,5,16,mets; arm; ja; vaike; rajaste; agu; tantsupidu; maa; mait; hing
-6,4,5,0,6,1,1,6,5,16,mets; arm; ja; vaike; rajaste; agu; tantsupidu; maa; mait; hing
-6,4,5,0,6,2,1,7,5,16,mets; arm; ja; vaike; rajaste; agu; tantsupidu; maa; mait; hing
-5,4,5,1,7,3,3,7,5,16,mets; arm; ja; agu; rajaste; vaike; tantsupidu; maa; mait; hing
-6,4,5,4,7,2,5,7,5,16,mets; arm; ja; agu; rajaste; vaike; tantsupidu; maa; mait; hing
-3,4,5,5,6,4,5,7,5,16,mets; arm; ja; agu; rajaste; vaike; tantsupidu; maa; mait; hing
-2,2,4,6,7,4,5,6,4,16,mets; arm; ja; agu; vaike; rajaste; tantsupidu; maa; mait; hing
-2,3,4,7,9,5,4,6,4,16,mets; arm; ja; agu; maa; mait; vaike; rajaste; tantsupidu; hing
-2,3,4,6,9,5,5,7,4,16,mets; arm; ja; agu; maa; mait; vaike; rajaste; tantsupidu; hing
+6,4,3,0,4,3,4,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; maa
+6,4,4,0,4,3,4,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+6,4,5,0,5,3,4,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+6,4,5,0,6,1,6,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+6,4,5,0,6,1,7,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+5,4,5,1,7,3,7,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+6,4,5,4,7,5,7,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+3,4,5,5,6,5,7,5,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+2,2,4,6,7,5,6,4,0,16,tantsupidu; hing; arm; vaike; ja; rajaste; agu; mets; mait; maa
+2,3,4,7,9,4,6,4,0,16,arm; vaike; ja; mets; mait; tantsupidu; hing; rajaste; agu; maa
+2,3,4,6,9,5,7,4,0,16,arm; vaike; ja; mets; mait; tantsupidu; hing; rajaste; agu; maa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,1,0,1,1,1,1,0,10,laul; muusikaline; elizabeth; pala; california; tekst
-2,2,1,0,1,1,1,1,0,10,laul; muusikaline; elizabeth; pala; california; tekst
-2,2,1,0,1,1,1,1,0,10,laul; muusikaline; elizabeth; pala; california; tekst
-2,2,1,0,1,1,1,1,0,10,laul; muusikaline; elizabeth; pala; california; tekst
-2,2,1,0,1,1,1,1,0,10,laul; muusikaline; elizabeth; pala; california; tekst
-2,2,1,0,1,1,1,2,0,10,laul; muusikaline; hollandlanna; elizabeth; pala; california; tekst
-3,1,1,0,1,2,0,3,1,10,muusikaline; hollandlanna; laul; pala; california; tekst; keel; elizabeth
-1,1,1,0,1,1,0,3,1,10,pala; hollandlanna; keel; elizabeth; laul; tekst
-3,1,0,0,1,1,1,3,1,10,muusikaline; hollandlanna; laul; pala; california; tekst; keel; elizabeth
-2,2,0,1,1,2,1,2,1,10,laul; muusikaline; keel; elizabeth; pala; tekst
-0,2,1,1,0,2,1,3,1,10,pala; muusikaline; hollandlanna; keel; elizabeth; laul
+2,3,1,0,1,1,1,1,0,10,sooloettevõtmine; elizabeth; muusikaline; california; pala; tekst; laul
+2,3,1,0,1,1,1,1,0,10,sooloettevõtmine; elizabeth; muusikaline; california; pala; tekst; laul
+2,3,1,0,1,1,1,1,0,10,sooloettevõtmine; elizabeth; muusikaline; california; pala; tekst; laul
+2,3,1,0,1,1,1,1,0,10,sooloettevõtmine; elizabeth; muusikaline; california; pala; tekst; laul
+2,3,1,0,1,1,1,1,0,10,sooloettevõtmine; elizabeth; muusikaline; california; pala; tekst; laul
+2,3,1,0,1,1,1,2,0,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; california; pala; laul
+3,2,1,0,1,2,0,3,1,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; pala; laul
+1,2,1,0,1,1,0,3,1,10,sooloettevõtmine; elizabeth; keel; pala; hollandlanna; tekst; laul
+3,1,0,0,1,1,1,4,1,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; pala; laul
+2,2,0,1,1,2,1,2,1,10,elizabeth; keel; muusikaline; pala; tekst; laul
+0,2,1,1,0,2,1,3,1,10,elizabeth; keel; muusikaline; pala; hollandlanna; laul

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,3,3,4,3,2,2,11,kraav; polder; pauts; ekskavaator
-4,3,2,3,4,4,3,2,2,11,kraav; polder; pauts; ekskavaator
-4,3,3,3,4,4,3,2,2,11,kraav; polder; pauts; ekskavaator
-4,3,3,3,4,4,3,2,2,11,kraav; polder; pauts; ekskavaator
-4,3,3,3,4,3,3,3,2,11,kraav; polder; pauts; ekskavaator
-3,3,4,4,4,3,3,3,2,11,kraav; polder; pauts; ekskavaator
-4,3,4,4,4,3,3,3,2,11,kraav; polder; pauts; ekskavaator
-3,3,4,4,4,3,3,3,3,11,kraav; polder; pauts; ekskavaator
-2,3,4,4,4,3,2,3,3,11,kraav; polder; pauts; ekskavaator
-2,3,4,4,4,3,3,3,3,11,kraav; polder; pauts; ekskavaator
-2,2,4,4,4,3,3,3,3,11,kraav; polder; pauts; ekskavaator
+9,7,3,8,5,8,7,6,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+9,7,3,8,6,8,7,6,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+9,7,6,8,6,9,8,6,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+9,7,7,8,6,9,8,7,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+9,8,7,8,6,8,8,8,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+8,8,8,9,6,8,8,8,5,11,kraav; emajõgi; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; paisjärv
+8,7,8,9,6,8,8,7,5,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi
+7,8,9,8,7,7,6,8,6,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi
+6,7,7,7,8,6,6,8,7,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi
+5,8,7,7,7,8,7,6,7,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi
+5,7,8,7,7,8,7,7,7,11,kraav; paisjärv; rohumaa; pumbajaam; pauts; polder; ekskavaator; maaparandaja; emajõgi

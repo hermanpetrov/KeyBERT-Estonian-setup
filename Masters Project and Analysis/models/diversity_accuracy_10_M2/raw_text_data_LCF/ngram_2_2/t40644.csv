@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,0,1,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,2,1,1,0,1,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,2,1,1,0,1,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,2,1,1,0,1,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,2,0,1,0,1,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,1,0,1,0,0,1,1,0,19,barokkmuusikafestival; phonyker; hortus
-1,0,0,0,0,0,0,2,0,19,barokkmuusikafestival; bach; eesti
-2,1,0,1,0,0,1,1,1,19,musicus; mari; hortus; eesti
-1,1,0,0,0,0,1,1,1,19,musicus; mari; hortus; eesti
+1,2,1,1,0,1,1,0,0,19,phonyker; barokkmuusikafestival; hortus
+1,2,1,1,0,1,1,0,0,19,phonyker; barokkmuusikafestival; hortus
+1,2,1,1,0,1,1,0,0,19,phonyker; barokkmuusikafestival; hortus
+1,2,1,1,0,1,1,0,0,19,phonyker; barokkmuusikafestival; hortus
+1,2,0,1,0,1,1,0,0,19,phonyker; barokkmuusikafestival; hortus
+1,1,0,1,0,1,1,0,0,19,barokkmuusikafestival; phonyker; hortus
+1,0,0,0,0,0,2,0,0,19,bach; eesti; barokkmuusikafestival
+2,1,0,1,0,1,1,1,0,19,mari; eesti; hortus; musicus
+1,1,0,0,0,1,1,1,0,19,mari; eesti; hortus; musicus
 0,0,0,0,0,0,0,0,0,19,
-0,1,0,1,0,0,1,1,0,19,frederik; bach; eesti; mari
+0,1,0,1,0,1,1,0,0,19,bach; mari; frederik; eesti

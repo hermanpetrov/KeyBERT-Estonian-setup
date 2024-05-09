@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,1,1,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; tuhkatriinu; film; varvara; zoja
-3,1,1,1,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; tuhkatriinu; film; varvara; zoja
-3,1,1,1,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; tuhkatriinu; film; varvara; zoja
-3,1,1,1,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; kangelane; tuhkatriinu; film; varvara; zoja
-3,1,2,1,0,5,3,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; film; kangelane; tuhkatriinu; varvara; zoja
-3,1,2,1,0,5,4,3,0,15,naiskangelanna; stalin; kosmodemjanskaja; nõukogude; film; kangelane; tuhkatriinu; varvara; zoja
-1,1,1,0,0,2,3,2,0,15,kosmodemjanskaja; film; zoja; nõukogude; varvara; stalin
-0,1,0,0,0,0,3,2,0,15,kosmodemjanskaja; nõukogude; zoja; film
-0,0,0,0,0,2,4,2,0,15,tuhkatriinu; kosmodemjanskaja; film; kangelane; nõukogude; komandör
-0,1,1,0,0,4,3,2,0,15,kosmodemjanskaja; nõukogude; film; kangelane
-0,0,1,0,0,2,3,3,0,15,stalin; komandör; kosmodemjanskaja; film; nõukogude; kangelane; zoja
+3,1,1,1,0,3,3,0,0,15,film; stalin; tuhkatriinu; varvara; nõukogude; kangelane; kosmodemjanskaja
+3,1,1,1,0,3,3,0,0,15,film; stalin; tuhkatriinu; varvara; nõukogude; kangelane; kosmodemjanskaja
+3,1,1,1,0,3,3,0,0,15,film; stalin; tuhkatriinu; varvara; nõukogude; kangelane; kosmodemjanskaja
+3,1,1,1,0,3,3,0,0,15,film; stalin; tuhkatriinu; varvara; nõukogude; kangelane; kosmodemjanskaja
+3,1,2,1,0,3,3,0,0,15,film; tuhkatriinu; stalin; varvara; nõukogude; kangelane; kosmodemjanskaja
+3,1,2,1,0,4,3,0,0,15,film; tuhkatriinu; stalin; zoja; varvara; nõukogude; kangelane; kosmodemjanskaja
+1,1,1,0,0,3,2,0,0,15,film; varvara; zoja; nõukogude; kosmodemjanskaja; stalin
+0,1,0,0,0,3,2,0,0,15,zoja; nõukogude; film; kosmodemjanskaja
+0,0,0,0,0,4,2,0,0,15,film; nõukogude; kangelane; komandör; kosmodemjanskaja
+0,1,1,0,0,3,2,0,0,15,film; nõukogude; kangelane; kosmodemjanskaja
+0,0,1,0,0,3,3,0,0,15,film; nõukogude; zoja; kangelane; kosmodemjanskaja; stalin

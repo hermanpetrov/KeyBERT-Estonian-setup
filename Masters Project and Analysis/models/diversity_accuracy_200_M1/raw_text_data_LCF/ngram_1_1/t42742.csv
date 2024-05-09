@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,6,0,0,6,5,4,1,15,muusikaõpetaja; muusikakool; rakvere; kontsertorkester; virumaa; liiv; dirigent; sümfooniaorkester; luha
-1,1,6,0,1,6,5,4,1,15,eve; muusikaõpetaja; muusikakool; rakvere; kontsertorkester; virumaa; liiv; dirigent; sümfooniaorkester; luha
-1,1,4,0,1,6,5,4,1,15,eve; muusikaõpetaja; muusikakool; kontsertorkester; virumaa; liiv; dirigent; sümfooniaorkester; luha
-1,1,2,0,1,6,5,1,1,15,eve; hando; muusikaõpetaja; muusikakool; kontsertorkester; virumaa; liiv; dirigent; sümfooniaorkester; luha
-0,1,1,0,1,3,6,0,1,15,eve; hando; muusikaõpetaja; muusikakool; kontsertorkester; liiv; dirigent; sümfooniaorkester; luha
-0,1,5,1,1,3,5,2,1,15,eve; hando; muusikakool; rakvere; kontsertorkester; liiv; dirigent; sümfooniaorkester; luha; põldmäe; valdur
-0,3,2,1,1,2,3,1,1,15,eve; hando; rakvere; liiv; dirigent; põldmäe; luha; valdur
-0,2,3,1,2,1,3,2,1,15,eve; laps; hando; rakvere; liiv; dirigent; luha; põldmäe; valdur
-0,1,1,2,2,3,3,3,1,15,eve; laps; hando; rakvere; liiv; dirigent; sümfooniaorkester; põldmäe
-0,0,2,5,4,2,3,3,1,15,eve; laps; hando; muusikakool; rakvere; kontsertorkester; virumaa; liiv; dirigent; põldmäe; luha; valdur
-0,1,2,4,3,2,2,5,2,15,eve; laps; hando; rakvere; virumaa; liiv; dirigent; põldmäe; luha; valdur
+1,1,6,0,0,5,4,1,0,15,muusikaõpetaja; kontsertorkester; dirigent; rakvere; sümfooniaorkester; muusikakool; liiv; luha; virumaa
+1,1,6,0,1,5,4,1,0,15,muusikaõpetaja; kontsertorkester; dirigent; rakvere; sümfooniaorkester; muusikakool; liiv; luha; virumaa; eve
+1,1,4,0,1,5,4,1,0,15,muusikaõpetaja; kontsertorkester; dirigent; sümfooniaorkester; muusikakool; liiv; luha; virumaa; eve
+1,1,2,0,1,5,1,1,0,15,muusikaõpetaja; kontsertorkester; dirigent; sümfooniaorkester; muusikakool; liiv; luha; virumaa; eve
+0,1,1,0,1,6,0,1,0,15,muusikaõpetaja; kontsertorkester; dirigent; sümfooniaorkester; muusikakool; liiv; luha; eve
+0,1,5,1,1,5,2,1,0,15,valdur; dirigent; kontsertorkester; rakvere; sümfooniaorkester; muusikakool; liiv; hando; luha; eve; põldmäe
+0,3,2,1,1,3,1,1,0,15,hando; valdur; luha; dirigent; eve; rakvere; liiv; põldmäe
+0,2,3,1,2,3,2,1,0,15,laps; valdur; dirigent; rakvere; liiv; hando; luha; eve; põldmäe
+0,1,1,2,2,3,3,1,0,15,laps; dirigent; rakvere; sümfooniaorkester; liiv; hando; eve; põldmäe
+0,0,2,5,4,3,3,1,0,15,laps; valdur; kontsertorkester; dirigent; rakvere; muusikakool; liiv; hando; luha; virumaa; eve; põldmäe
+0,1,2,4,3,2,5,2,0,15,laps; valdur; dirigent; rakvere; liiv; hando; luha; virumaa; eve; põldmäe

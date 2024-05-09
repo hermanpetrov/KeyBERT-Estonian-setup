@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,2,12,klubi; sõda
-0,0,0,0,0,0,0,0,2,12,klubi; sõda
-0,0,0,0,0,0,0,0,2,12,klubi; sõda
-0,0,1,0,0,0,0,0,2,12,klubi; väin; sõda
-0,0,2,0,0,0,0,0,2,12,klubi; väin; sõda
-0,0,2,0,0,0,0,0,2,12,klubi; väin; sõda
-0,0,2,0,0,0,0,0,2,12,klubi; väin; sõda
-0,0,0,0,0,0,0,0,2,12,klubi; sõda
-0,0,1,0,0,1,0,1,2,12,nato; klubi; sõda
-0,0,1,0,0,0,0,1,2,12,klubi; sõda
-0,0,1,0,0,0,0,1,2,12,klubi; sõda
+0,1,0,0,0,0,0,0,2,12,klubi; kaitseliit; sõda
+0,1,0,0,0,0,0,0,2,12,klubi; kaitseliit; sõda
+0,1,0,0,0,0,0,0,2,12,klubi; kaitseliit; sõda
+0,1,1,0,0,0,0,0,2,12,väin; klubi; kaitseliit; sõda
+0,1,2,0,0,0,0,0,2,12,väin; kaitseliit; klubi; sõda
+0,1,2,0,0,0,0,0,2,12,väin; kaitseliit; klubi; sõda
+0,1,2,0,0,0,0,0,2,12,väin; kaitseliit; klubi; sõda
+0,1,0,0,0,0,0,0,2,12,klubi; kaitseliit; sõda
+0,1,1,0,0,1,0,1,2,12,kaitseliit; klubi; nato; sõda
+0,1,1,0,0,0,0,1,2,12,klubi; kaitseliit; sõda
+0,1,1,0,0,0,0,1,2,12,klubi; kaitseliit; sõda

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,5,4,4,0,3,3,4,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,5,4,4,0,3,3,4,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,5,4,4,0,3,3,4,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,5,3,4,0,3,3,4,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,4,4,4,0,3,3,5,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-1,4,5,4,0,3,4,6,2,12,baltika; kunila; enn; gazprom; klaasikunstnik; rahulolu; kultuurisõber; liit; kreeka; euroopa
-1,2,3,5,0,2,3,6,2,12,baltika; kunila; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-1,3,2,4,0,4,3,7,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,3,6,5,1,3,4,2,2,12,baltika; kunila; enn; gazprom; rahulolu; kultuurisõber; liit; kreeka; euroopa
-2,3,3,3,1,3,3,3,2,12,baltika; enn; gazprom; klaasikunstnik; rahulolu; liit; kreeka; euroopa
-2,2,2,2,1,3,3,3,2,12,baltika; liit; enn; gazprom; kreeka; euroopa
+2,5,4,4,0,3,4,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; kreeka; euroopa; baltika; liit
+2,5,4,4,0,3,4,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; kreeka; euroopa; baltika; liit
+2,5,4,4,0,3,4,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; kreeka; euroopa; baltika; liit
+2,5,3,4,0,3,4,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; kreeka; euroopa; baltika; liit
+2,4,4,4,0,3,5,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; kreeka; euroopa; baltika; liit
+1,4,5,4,0,4,6,2,0,12,rahulolu; gazprom; enn; kultuurisõber; kunila; klaasikunstnik; kreeka; euroopa; baltika; liit
+1,2,3,5,0,3,6,2,0,12,rahulolu; euroopa; gazprom; kultuurisõber; kunila; kreeka; baltika; liit
+1,3,2,4,0,3,7,2,0,12,rahulolu; euroopa; gazprom; enn; kultuurisõber; kunila; kreeka; baltika; liit
+2,3,6,5,1,4,2,2,0,12,rahulolu; euroopa; gazprom; enn; kultuurisõber; kunila; kreeka; baltika; liit
+2,3,3,3,1,3,3,2,0,12,gazprom; enn; klaasikunstnik; kreeka; euroopa; baltika; liit
+2,2,2,2,1,3,3,2,0,12,euroopa; gazprom; kreeka; enn; baltika; liit

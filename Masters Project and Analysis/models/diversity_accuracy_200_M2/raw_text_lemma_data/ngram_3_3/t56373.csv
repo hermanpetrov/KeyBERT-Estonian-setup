@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,5,5,4,4,5,6,6,10,pulm; kirik; russow; aadlik; pidu; sõda
-5,6,5,5,4,4,5,6,6,10,pulm; kirik; russow; aadlik; pidu; sõda
-5,6,6,5,4,4,5,6,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,6,6,5,4,4,5,5,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,5,6,6,3,5,5,4,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,5,5,5,2,6,6,4,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,5,5,6,3,7,5,3,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-3,5,6,5,5,4,6,5,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,6,5,5,5,5,7,5,5,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-3,5,6,5,5,3,6,3,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
-5,5,5,5,5,3,5,3,6,10,pulm; kirik; russow; aadlik; pidu; luksus; sõda
+6,8,6,6,5,6,7,7,8,10,kirik; liivimaa; pulm; sõda; aadlik; talupoeg; russow; pidu
+6,8,7,6,5,6,7,7,8,10,kirik; liivimaa; pulm; sõda; aadlik; talupoeg; russow; pidu
+7,8,8,6,4,6,7,8,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+7,8,8,6,4,6,7,7,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+7,7,7,8,3,7,7,6,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+7,7,6,7,2,8,8,6,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+7,7,6,8,3,8,6,5,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+5,7,8,7,5,5,7,7,8,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+7,8,7,7,5,6,8,7,7,10,kirik; liivimaa; pulm; russow; sõda; aadlik; talupoeg; luksus; pidu
+5,7,8,7,7,4,7,4,8,10,kirik; liivimaa; pulm; sõda; russow; aadlik; talupoeg; luksus; pidu
+7,6,7,7,6,4,6,5,8,10,kirik; liivimaa; pulm; sõda; russow; aadlik; talupoeg; luksus; pidu

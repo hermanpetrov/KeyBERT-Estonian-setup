@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,2,0,1,2,2,1,1,16,komöödia; ärkamisaeg; eesti; vilde; kitzberg
-2,2,2,0,1,2,2,1,1,16,komöödia; ärkamisaeg; eesti; vilde; kitzberg
-2,2,2,0,1,2,2,1,1,16,komöödia; ärkamisaeg; eesti; vilde; kitzberg
-2,2,2,0,1,2,2,1,1,16,komöödia; ärkamisaeg; eesti; vilde; kitzberg
-2,2,2,0,1,2,2,1,1,16,komöödia; ärkamisaeg; eesti; vilde; kitzberg
-1,1,2,0,1,2,3,2,1,16,august; eesti; vilde; kitzberg
-2,0,1,0,1,1,2,1,1,16,komöödia; tragöödia; eesti; vilde; kitzberg
-1,0,2,1,1,1,1,1,1,16,komöödia; eesti; vilde; kitzberg
+2,2,2,0,1,2,2,1,1,16,ärkamisaeg; vilde; eesti; kitzberg; komöödia
+2,2,2,0,1,2,2,1,1,16,ärkamisaeg; vilde; eesti; kitzberg; komöödia
+2,2,2,0,1,2,2,1,1,16,ärkamisaeg; vilde; eesti; kitzberg; komöödia
+2,2,2,0,1,2,2,1,1,16,ärkamisaeg; vilde; eesti; kitzberg; komöödia
+2,2,2,0,1,2,2,1,1,16,ärkamisaeg; vilde; eesti; kitzberg; komöödia
+1,1,2,0,1,2,3,2,1,16,eesti; vilde; kitzberg; august
+2,0,1,0,1,1,2,1,1,16,eesti; vilde; kitzberg; komöödia; tragöödia
+1,0,2,1,1,1,1,1,1,16,eesti; vilde; kitzberg; komöödia
 0,0,1,0,1,2,2,1,0,16,eesti; vilde; kitzberg
-0,0,1,0,1,2,1,1,0,16,eesti; vilde; kitzberg
-0,0,1,0,1,3,1,1,0,16,komöödia; eesti; vilde; kitzberg
+0,0,1,0,1,2,1,1,0,16,eesti; kitzberg; vilde
+0,0,1,0,1,3,1,1,0,16,vilde; eesti; kitzberg; komöödia

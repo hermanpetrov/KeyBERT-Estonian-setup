@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,7,4,5,2,5,5,6,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-6,7,4,5,2,6,5,6,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-6,7,5,6,2,6,5,5,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-6,7,4,7,3,6,5,5,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-6,6,6,5,3,7,6,5,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-7,6,5,5,3,7,5,5,3,12,kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; uuring; keelepoliitika; euroopa
-4,5,4,3,2,7,6,5,3,12,sõstar; kersti; keeleoskus; innove; kolmkeelsus; võõrkeel; keelepoliitika; uuring; euroopa
-2,5,5,2,1,6,6,6,3,12,sõstar; kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; keelepoliitika; uuring; euroopa
-2,6,5,2,3,4,5,4,3,12,sõstar; kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; keelepoliitika; uuring; euroopa
-3,5,4,2,2,5,6,5,3,12,sõstar; kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; keelepoliitika; uuring; euroopa
-3,5,6,2,3,4,3,5,3,12,sõstar; kersti; keeleoskus; innove; võõrkeel; kolmkeelsus; keelepoliitika; uuring; euroopa
+7,7,4,5,2,5,6,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+6,7,4,5,2,5,6,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+6,7,5,6,2,5,5,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+6,7,4,7,3,5,5,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+6,6,6,5,3,6,5,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+7,6,5,5,3,5,5,3,0,12,võõrkeel; euroopa; kersti; uuring; kolmkeelsus; keelepoliitika; innove; keeleoskus
+4,5,4,3,2,6,5,3,0,12,võõrkeel; kersti; uuring; kolmkeelsus; keelepoliitika; sõstar; innove; euroopa; keeleoskus
+2,5,5,2,1,6,6,3,0,12,võõrkeel; euroopa; kersti; uuring; keelepoliitika; sõstar; innove; keeleoskus
+2,6,5,2,3,5,4,3,0,12,võõrkeel; kersti; uuring; kolmkeelsus; keelepoliitika; innove; sõstar; euroopa; keeleoskus
+3,5,4,2,2,6,5,3,0,12,võõrkeel; kersti; uuring; kolmkeelsus; keelepoliitika; sõstar; innove; euroopa; keeleoskus
+3,5,6,2,3,3,5,3,0,12,võõrkeel; kersti; uuring; kolmkeelsus; keelepoliitika; sõstar; innove; euroopa; keeleoskus

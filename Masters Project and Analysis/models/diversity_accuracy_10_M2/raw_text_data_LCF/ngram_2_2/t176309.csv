@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,1,2,1,1,1,3,0,14,uus; martin; kõrvalised; suhkrusaiapidu; isikud; soolariiul; ilmar
-1,2,2,3,1,2,1,4,0,14,kõrvalised; maja; suhkrusaiapidu; isikud; tomusk; soolariiul; ilmar; uus; martin
-1,2,2,2,2,2,3,4,0,14,kõrvalised; maja; suhkrusaiapidu; isikud; soolariiul; ilmar; uus; martin
-1,2,2,2,2,3,3,5,0,14,kõrvalised; maja; suhkrusaiapidu; isikud; soolariiul; ilmar; uus; martin
-3,1,1,2,2,3,3,5,1,14,kõrvalised; maja; suhkrusaiapidu; isikud; soolariiul; ilmar; uus; martin
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,1,2,1,1,3,0,0,14,kõrvalised; soolariiul; martin; isikud; ilmar; suhkrusaiapidu; uus
+1,2,2,3,1,1,4,0,0,14,soolariiul; martin; tomusk; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+1,2,2,2,2,3,4,0,0,14,soolariiul; martin; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+1,2,2,2,2,3,5,0,0,14,soolariiul; martin; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu
+3,1,1,2,2,3,5,1,0,14,soolariiul; martin; ilmar; uus; kõrvalised; maja; isikud; suhkrusaiapidu

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,1,0,1,1,1,0,12,seitse; paul
-1,0,1,2,0,1,1,3,0,12,paul; darwin; seitse; toomas
-1,0,2,1,0,1,1,3,0,12,paul; seitse; toomas
-2,0,2,5,0,1,1,3,0,12,paul; darwin; toomas; tüdimus; seitse
-2,1,1,4,0,1,1,3,0,12,tüdimus; paul; darwin; seitse; toomas
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,3,0,12,hommikupalvus; surmapatu; seitse; paul
+2,0,1,3,0,2,2,2,0,12,hommikupalvus; surmapatu; seitse; paul
+1,0,2,2,0,2,2,4,0,12,surmapatu; seitse; darwin; toomas; hommikupalvus; paul
+1,0,3,2,0,2,2,5,0,12,surmapatu; seitse; toomas; hommikupalvus; paul
+2,0,3,6,0,2,2,4,0,12,tüdimus; seitse; surmapatu; darwin; toomas; hommikupalvus; paul
+2,2,2,4,0,2,2,4,0,12,tüdimus; seitse; surmapatu; darwin; toomas; hommikupalvus; paul

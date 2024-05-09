@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,1,4,2,2,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; elizabeth; edward
-4,3,2,1,4,2,2,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; elizabeth; edward
-4,3,2,1,4,2,2,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; elizabeth; edward
-4,4,1,1,4,2,2,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; elizabeth; edward
-3,4,2,1,4,2,3,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; bob; elizabeth; edward
-2,5,3,1,4,2,3,2,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; bob; elizabeth; edward
-1,6,4,1,4,2,1,4,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; bob; elizabeth; edward
-3,3,1,1,4,3,2,3,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; mägismaa; bob; elizabeth; edward
-1,2,3,1,5,2,1,3,1,16,henry; šotimaa; esimene; robert; edinburgh; loss; bob; elizabeth; dylan; edward
-2,2,2,1,5,1,0,4,3,16,henry; šotimaa; esimene; mereriik; robert; loss; bob; elizabeth; dylan; sõda
-2,1,1,1,5,3,1,3,2,16,henry; šotimaa; esimene; robert; edinburgh; loss; bob; elizabeth; dylan; sõda
+4,3,2,1,4,2,2,2,1,16,elizabeth; robert; mägismaa; edinburgh; edward; šotimaa; loss; esimene; henry
+4,3,2,1,4,2,2,2,1,16,elizabeth; robert; mägismaa; edinburgh; edward; šotimaa; loss; esimene; henry
+4,3,2,1,4,2,2,2,1,16,elizabeth; robert; mägismaa; edinburgh; edward; šotimaa; loss; esimene; henry
+4,4,1,1,4,2,2,2,1,16,elizabeth; robert; mägismaa; edinburgh; edward; šotimaa; loss; esimene; henry
+3,4,2,1,4,2,3,2,1,16,elizabeth; robert; mägismaa; edinburgh; edward; bob; šotimaa; loss; esimene; henry
+2,5,3,1,4,2,3,2,1,16,elizabeth; robert; mägismaa; edward; edinburgh; bob; šotimaa; esimene; loss; henry
+1,6,4,1,4,2,1,4,1,16,elizabeth; robert; mägismaa; edward; edinburgh; bob; šotimaa; loss; esimene; henry
+3,3,1,1,4,3,2,3,1,16,elizabeth; robert; mägismaa; edinburgh; edward; bob; šotimaa; loss; esimene; henry
+1,2,3,1,5,2,1,3,1,16,elizabeth; robert; edward; edinburgh; bob; dylan; šotimaa; esimene; loss; henry
+2,2,2,1,5,1,0,4,3,16,mereriik; elizabeth; robert; bob; sõda; šotimaa; dylan; esimene; loss; henry
+2,1,1,1,5,3,1,3,2,16,elizabeth; robert; edinburgh; bob; dylan; šotimaa; sõda; esimene; loss; henry

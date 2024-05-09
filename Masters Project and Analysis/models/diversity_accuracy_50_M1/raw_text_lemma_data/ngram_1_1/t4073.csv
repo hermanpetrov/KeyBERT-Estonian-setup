@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,1,2,4,0,1,16,majandus; itaalia; inflatsioon; vare; eesti
-0,0,2,0,1,2,4,0,1,16,majandus; itaalia; inflatsioon; vare; eesti
-0,0,1,0,1,2,4,0,1,16,majandus; itaalia; inflatsioon; vare; eesti
-0,0,1,0,1,2,3,0,2,16,majandus; inflatsioon; vare; eesti
-0,0,0,0,1,2,2,0,2,16,majandus; inflatsioon; vare; eesti
-0,0,2,0,1,2,2,0,1,16,inflatsioon; vare; eesti
-0,0,1,0,1,2,2,0,2,16,majandus; inflatsioon; vare; eesti
-0,0,1,0,1,2,2,0,2,16,majandus; inflatsioon; vare; eesti
-0,0,1,0,1,2,2,0,2,16,majandus; inflatsioon; vare; eesti
-0,0,1,0,0,1,2,0,2,16,majandus; inflatsioon; eesti
-0,0,2,2,1,2,2,0,2,16,majandus; kai; itaalia; josing; inflatsioon; eesti
+0,1,2,1,1,3,5,0,2,16,vare; majandus; ettevõtlus; eesti; suurbritannia; itaalia; välireklaam; inflatsioon
+0,1,2,1,1,3,5,0,2,16,vare; majandus; ettevõtlus; eesti; suurbritannia; itaalia; välireklaam; inflatsioon
+0,1,1,1,1,3,5,0,2,16,vare; majandus; ettevõtlus; eesti; suurbritannia; itaalia; välireklaam; inflatsioon
+0,1,2,1,1,3,4,0,2,16,vare; majandus; ettevõtlus; venemaa; eesti; suurbritannia; välireklaam; inflatsioon
+0,1,1,1,1,3,2,0,2,16,vare; ettevõtlus; majandus; venemaa; eesti; suurbritannia; välireklaam; inflatsioon
+0,1,2,1,1,2,2,0,1,16,vare; välireklaam; eesti; suurbritannia; inflatsioon
+0,1,2,0,1,2,2,0,2,16,vare; majandus; eesti; suurbritannia; inflatsioon
+0,1,2,1,1,2,3,0,2,16,vare; majandus; eesti; välireklaam; suurbritannia; inflatsioon
+2,1,2,0,1,2,3,0,3,16,ettevõtlus; vare; majandus; eesti; suurbritannia; välireklaam; inflatsioon
+1,1,2,0,0,1,2,0,3,16,majandus; eesti; suurbritannia; inflatsioon
+0,1,2,2,1,2,3,0,3,16,majandus; eesti; suurbritannia; itaalia; välireklaam; kai; inflatsioon; josing

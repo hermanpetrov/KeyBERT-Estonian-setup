@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,1,1,2,1,1,0,17,bismarck; muusika; von; hitler; berliin
-0,2,1,1,1,2,1,1,0,17,bismarck; muusika; von; hitler; berliin
-0,2,1,1,1,2,1,1,0,17,bismarck; muusika; von; hitler; berliin
-0,2,1,1,1,2,1,1,0,17,bismarck; muusika; von; hitler; berliin
-0,2,1,1,1,3,1,1,0,17,bismarck; muusika; von; hitler; berliin
-0,1,2,1,1,3,0,0,0,17,bismarck; muusika; von; hitler; berliin
-0,1,2,1,1,2,2,0,0,17,adolf; bismarck; muusika; von; hitler; berliin
-0,2,2,1,1,4,1,1,0,17,bismarck; muusika; von; areng; adolf; reibas; hitler
-0,2,1,1,1,2,1,0,1,17,areng; adolf; bismarck; muusika; von; reibas
-0,2,1,2,2,1,2,0,1,17,areng; adolf; bismarck; muusika; von; hitler; otto
-0,2,1,2,2,2,0,1,0,17,külm; bismarck; von; otto; areng; adolf; sõda; berliin
+1,2,2,1,1,4,3,2,0,17,berliin; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,2,2,1,1,4,3,2,0,17,berliin; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,2,2,1,1,4,3,2,0,17,berliin; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,2,2,1,1,4,3,2,0,17,berliin; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,2,2,1,1,4,3,2,0,17,berliin; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,1,3,1,1,5,2,2,0,17,berliin; valgustusajastu; saksamaa; natsionaalsotsialistlik; üliõpilasrahutus; bismarck; raadiosaade; muusika; hitler; von
+1,1,3,1,1,3,3,1,0,17,berliin; valgustusajastu; saksamaa; üliõpilasrahutus; bismarck; raadiosaade; muusika; adolf; hitler; von
+1,2,3,4,1,4,2,3,0,17,areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; bismarck; raadiosaade; muusika; adolf; hitler; von; reibas
+1,2,2,1,1,2,3,2,1,17,areng; valgustusajastu; saksamaa; börsikrahh; bismarck; raadiosaade; muusika; adolf; von; reibas
+0,2,2,2,2,1,3,1,1,17,areng; valgustusajastu; saksamaa; otto; bismarck; raadiosaade; muusika; adolf; hitler; von
+1,2,2,3,2,2,0,2,0,17,berliin; areng; saksamaa; natsionaalsotsialistlik; otto; bismarck; sõda; raadiosaade; adolf; külm; von

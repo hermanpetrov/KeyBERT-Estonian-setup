@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,2,3,1,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-3,2,2,1,0,2,3,1,1,10,viirus; mõjutamine; pettur; fbi; ahnus; hirm
-3,2,2,1,0,2,4,2,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,3,3,0,0,2,4,2,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,3,3,1,0,2,4,2,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus
-2,2,3,1,0,3,3,2,1,10,viirus; mõjutamine; hirm; pettur; fbi; ahnus; strateegia
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,2,4,2,0,2,4,2,1,10,hirm; mõjutamine; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+4,2,4,2,0,2,4,2,1,10,mõjutamine; hirm; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+4,2,4,1,0,3,5,3,1,10,mõjutamine; hirm; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+3,3,5,0,0,3,5,3,1,10,mõjutamine; hirm; küberkurjategija; pettur; sihtrühm; fbi; enesekindlus; viirus; ahnus
+2,3,5,2,0,3,5,3,1,10,mõjutamine; hirm; küberkurjategija; pettur; fbi; enesekindlus; viirus; ahnus
+2,2,5,2,0,4,4,3,1,10,hirm; mõjutamine; küberkurjategija; pettur; strateegia; fbi; enesekindlus; viirus; ahnus

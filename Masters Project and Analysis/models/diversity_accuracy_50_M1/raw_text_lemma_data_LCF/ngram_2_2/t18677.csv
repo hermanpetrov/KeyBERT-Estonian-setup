@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
-2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
-2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
-2,1,1,1,1,0,0,1,1,16,esimene; robert; loss
-2,2,1,2,1,0,0,1,1,16,loss; esimene; elizabeth; robert
-2,1,2,2,1,1,2,1,1,16,loss; bob; esimene; elizabeth; dylan; robert
-2,2,3,2,1,3,2,2,2,16,esimene; robert; loss; bob; elizabeth; dylan; edward
-1,2,3,3,1,3,2,3,1,16,henry; esimene; robert; loss; bob; kolmas; dylan
-0,2,4,2,2,3,3,6,2,16,henry; esimene; robert; loss; bob; elizabeth; dylan; edward
-1,1,5,2,3,3,2,5,1,16,henry; esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda; edward
-4,3,3,1,2,3,4,4,1,16,henry; esimene; koloonia; robert; loss; elizabeth; bob; kolmas; dylan; sõda
+2,3,2,3,1,1,1,1,2,16,mereriik; kaljukindlus; loss; robert; mägismaa; esimene; sotimaa
+2,3,2,3,1,1,1,1,2,16,mereriik; kaljukindlus; loss; robert; mägismaa; esimene; sotimaa
+2,3,2,3,1,1,1,1,2,16,mereriik; kaljukindlus; loss; robert; mägismaa; esimene; sotimaa
+2,3,2,3,1,1,1,1,2,16,mereriik; kaljukindlus; loss; robert; mägismaa; esimene; sotimaa
+2,4,2,4,1,1,1,1,2,16,mereriik; elizabeth; robert; mägismaa; sotimaa; kaljukindlus; loss; esimene
+2,3,3,4,1,2,3,1,2,16,mereriik; elizabeth; robert; mägismaa; bob; sotimaa; dylan; kaljukindlus; loss; esimene
+2,4,4,2,1,4,2,3,3,16,elizabeth; robert; mägismaa; edward; bob; sotimaa; dylan; kaljukindlus; loss; esimene
+1,3,4,3,1,4,2,4,1,16,mägismaa; robert; kolmas; bob; sotimaa; dylan; loss; esimene; henry
+1,3,4,2,2,4,3,6,2,16,elizabeth; robert; mägismaa; edward; bob; sotimaa; kaljukindlus; dylan; esimene; loss; henry
+2,3,6,2,3,4,2,5,1,16,elizabeth; mägismaa; robert; edward; dylan; sõda; koloonia; loss; esimene; mereriik; kolmas; bob; sotimaa; kaljukindlus; henry
+5,5,4,1,2,4,4,4,1,16,mereriik; elizabeth; mägismaa; robert; kolmas; bob; sõda; kaljukindlus; sotimaa; koloonia; dylan; loss; esimene; henry

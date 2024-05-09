@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,2,0,0,1,1,0,12,keele; õigekeelsussõnaraamat
-1,0,0,2,0,0,1,1,0,12,keele; õigekeelsussõnaraamat
-1,0,0,2,0,0,1,1,0,12,keele; õigekeelsussõnaraamat
-1,0,0,2,0,0,1,1,0,12,keele; õigekeelsussõnaraamat
-1,0,0,2,0,0,1,1,0,12,keele; õigekeelsussõnaraamat
-1,0,0,2,0,1,1,1,0,12,õigekeelsussõnaraamat; keele; släng
-2,0,2,2,0,1,1,1,0,12,aabits; õigekeelsussõnaraamat; släng; esimene; keele
-0,0,0,1,0,1,1,1,0,12,keele; õigekeelsussõnaraamat
-0,0,0,1,0,0,1,0,0,12,keele; õigekeelsussõnaraamat
-0,1,0,1,0,1,1,2,0,12,õigekeelsussõnaraamat; keeleelu; keele
-0,0,0,1,0,1,1,1,0,12,keele; õigekeelsussõnaraamat
+1,0,0,2,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+1,0,0,2,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+1,0,0,2,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+1,0,0,2,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+1,0,0,2,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+1,0,0,2,0,1,1,0,0,12,släng; õigekeelsussõnaraamat; keele
+2,0,2,2,0,1,1,0,0,12,släng; aabits; esimene; keele; õigekeelsussõnaraamat
+0,0,0,1,0,1,1,0,0,12,õigekeelsussõnaraamat; keele
+0,0,0,1,0,1,0,0,0,12,õigekeelsussõnaraamat; keele
+0,1,0,1,0,1,2,0,0,12,keeleelu; õigekeelsussõnaraamat; keele
+0,0,0,1,0,1,1,0,0,12,õigekeelsussõnaraamat; keele

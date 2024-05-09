@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,4,5,0,3,3,5,2,4,14,ani; teater; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,4,4,0,3,3,5,3,4,14,ani; teater; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,4,4,0,3,3,5,3,4,14,ani; teater; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,4,4,0,3,3,6,3,4,14,ani; teater; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,4,4,0,3,3,5,5,4,14,ani; teater; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,3,4,0,2,5,3,3,4,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,1,2,3,3,4,5,5,2,14,ani; teater; paat; lava; näitleja; hirm; esinemine; spinning; elmar; endel
-1,2,1,4,2,2,5,3,2,14,ani; teater; lava; näitleja; hirm; spinning; elmar; endel
-1,2,3,4,4,3,4,5,2,14,ani; teater; lava; näitleja; hirm; spinning; elmar; endel
-0,1,1,3,5,4,4,5,1,14,ani; teater; lava; näitleja; hirm; spinning; elmar; endel
-0,0,1,4,2,4,3,5,1,14,ani; teater; lava; näitleja; hirm; spinning; elmar; endel
+4,4,5,1,3,4,6,3,4,14,esinemine; vanemuine; spinning; lava; hirm; ani; näitleja; elmar; endel; puutükk; nikerdamine; salulaht; teater
+4,4,4,2,3,4,6,4,4,14,esinemine; vanemuine; spinning; lava; hirm; ani; näitleja; elmar; endel; puutükk; nikerdamine; salulaht; teater
+4,4,5,2,3,4,6,5,4,14,esinemine; vanemuine; spinning; lava; hirm; ani; näitleja; elmar; endel; puutükk; nikerdamine; salulaht; teater
+4,4,6,2,3,4,7,5,4,14,esinemine; lava; näitleja; endel; vanemuine; puutükk; nikerdamine; teater; spinning; ani; hirm; elmar; salulaht
+4,4,6,2,3,4,6,8,4,14,esinemine; lava; näitleja; endel; vanemuine; puutükk; nikerdamine; teater; spinning; ani; hirm; elmar; salulaht
+3,3,6,1,2,6,4,6,4,14,esinemine; lava; näitleja; endel; paat; vanemuine; puutükk; nikerdamine; teater; spinning; ani; hirm; elmar; salulaht
+3,1,4,3,3,4,6,8,2,14,esinemine; lava; näitleja; endel; paat; vanemuine; puutükk; nikerdamine; teater; spinning; ani; hirm; elmar; salulaht
+2,2,4,5,3,2,6,4,2,14,spinning; ani; hirm; lava; näitleja; elmar; endel; vanemuine; salulaht; nikerdamine; teater
+3,2,6,5,5,3,4,6,2,14,spinning; ani; hirm; lava; näitleja; elmar; endel; vanemuine; salulaht; nikerdamine; teater
+1,1,3,5,6,4,4,6,2,14,ani; spinning; hirm; lava; näitleja; elmar; endel; vanemuine; salulaht; nikerdamine; teater
+0,0,3,6,3,4,3,6,3,14,ani; lava; hirm; spinning; näitleja; elmar; endel; vanemuine; salulaht; teater

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-1,0,0,0,0,0,0,0,0,19,abhaasia
-2,0,1,1,0,0,0,1,0,19,festival; hõff; mälberg; mall
-2,0,1,1,0,0,0,0,0,19,festival; hõff; sammas
-1,0,3,2,0,1,0,0,0,19,festival; mälberg; mall; abhaasia; sammas
-1,0,3,2,0,1,0,0,0,19,festival; mälberg; mall; abhaasia; sammas
+1,3,0,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+1,3,0,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+1,3,0,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+1,3,0,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+1,3,0,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+1,2,0,0,0,3,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+2,1,1,0,0,2,2,2,0,19,abhaasia; venemaa; hinnakiri; haigekassa; sotsiaalministeerium
+2,0,2,1,0,2,2,2,0,19,hõff; mall; hinnakiri; mälberg; haigekassa; festival; sotsiaalministeerium
+2,0,1,1,0,2,2,1,0,19,hõff; hinnakiri; sammas; haigekassa; festival
+2,0,3,2,0,3,2,1,0,19,abhaasia; hinnakiri; mälberg; pärimusmuusika; haigekassa; mall; sammas; festival
+2,0,3,2,0,3,2,1,0,19,abhaasia; hinnakiri; mälberg; pärimusmuusika; haigekassa; mall; sammas; festival

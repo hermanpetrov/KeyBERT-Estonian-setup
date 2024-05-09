@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,3,3,0,0,11,vee; veevarustussüsteem; veevärk; joogivesi
-0,0,2,0,0,3,3,0,0,11,vee; veevarustussüsteem; veevärk; joogivesi
-0,0,2,0,0,3,3,0,0,11,vee; veevarustussüsteem; veevärk; joogivesi
-0,0,2,0,0,3,3,0,0,11,vee; veevarustussüsteem; veevärk; joogivesi
-0,0,3,0,0,3,3,0,0,11,veetöötlusjaam; vee; veevarustussüsteem; veevärk; joogivesi
-0,0,2,0,0,1,2,1,0,11,veetöötlusjaam; vee; joogivesi
-0,0,1,0,0,0,2,0,0,11,vee; veetöötlusjaam; veevarustussüsteem
-0,0,1,0,0,0,1,0,0,11,veetöötlusjaam; veevärk
+0,0,2,0,0,3,0,0,0,11,veevarustussüsteem; veevärk; vee; joogivesi
+0,0,2,0,0,3,0,0,0,11,veevarustussüsteem; veevärk; vee; joogivesi
+0,0,2,0,0,3,0,0,0,11,veevarustussüsteem; veevärk; vee; joogivesi
+0,0,2,0,0,3,0,0,0,11,veevarustussüsteem; veevärk; vee; joogivesi
+0,0,3,0,0,3,0,0,0,11,veevarustussüsteem; veetöötlusjaam; veevärk; vee; joogivesi
+0,0,2,0,0,2,1,0,0,11,vee; veetöötlusjaam; joogivesi
+0,0,1,0,0,2,0,0,0,11,vee; veevarustussüsteem; veetöötlusjaam
+0,0,1,0,0,1,0,0,0,11,veetöötlusjaam; veevärk
 0,0,0,0,0,0,0,0,0,11,
 0,0,0,0,0,0,0,0,0,11,
-0,1,0,1,0,0,0,0,0,11,kvaliteet; veevarustussüsteem
+0,1,0,1,0,0,0,0,0,11,veevarustussüsteem; kvaliteet

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,2,1,1,1,1,0,16,ungari; serenaad; kontsert; peela
-1,0,1,2,1,1,1,1,0,16,ungari; serenaad; kontsert; peela
-1,0,1,2,1,1,1,1,0,16,ungari; serenaad; kontsert; peela
-1,0,1,2,1,1,1,1,0,16,ungari; serenaad; kontsert; peela
-1,0,2,2,1,1,1,1,0,16,ungari; serenaad; rahvusvaheline; kontsert; peela
-2,0,1,2,1,1,1,2,0,16,ungari; serenaad; kontsert; peela; veljo
-0,1,2,1,1,1,1,2,0,16,ungari; tormis; kammerkoor; kontsert; peela
-0,1,0,2,1,2,1,1,0,16,ungari; kontsert; peela; dirigent
-0,0,1,2,1,2,1,3,0,16,tormis; kontsert; peela; veljo; ungari; rahvusvaheline; kammerkoor
-0,0,0,1,1,5,1,1,0,16,tormis; kontsert; peela; veljo; ungari; publik; kaljuste; tõnu
-0,0,0,1,1,3,1,2,0,16,ungari; publik; kontsert; kaljuste; tõnu; peela
+1,0,1,2,1,1,1,0,0,16,ungari; serenaad; peela; kontsert
+1,0,1,2,1,1,1,0,0,16,ungari; serenaad; peela; kontsert
+1,0,1,2,1,1,1,0,0,16,ungari; serenaad; peela; kontsert
+1,0,1,2,1,1,1,0,0,16,ungari; serenaad; peela; kontsert
+1,0,2,2,1,1,1,0,0,16,ungari; serenaad; rahvusvaheline; peela; kontsert
+2,0,1,2,1,1,2,0,0,16,ungari; serenaad; veljo; peela; kontsert
+0,1,2,1,1,1,2,0,0,16,kammerkoor; ungari; tormis; peela; kontsert
+0,1,0,2,1,1,1,0,0,16,ungari; dirigent; peela; kontsert
+0,0,1,2,1,1,3,0,0,16,kammerkoor; ungari; tormis; rahvusvaheline; peela; kontsert
+0,0,0,1,1,1,1,0,0,16,publik; tõnu; peela; kontsert
+0,0,0,1,1,1,2,0,0,16,publik; kaljuste; tõnu; peela; kontsert

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-4,1,1,1,0,3,3,0,2,13,sümfooniaorkester; klaverikontsert; puhkpillikvintett; reimann; prelüüd; eesti
-2,1,2,1,0,2,3,1,2,13,puhkpillikvintett; eesti; tants; sümfooniaorkester; klaverikontsert; reimann; prelüüd
-1,1,3,1,0,1,4,1,2,13,puhkpillikvintett; matti; eesti; tants; sümfooniaorkester; reimann; prelüüd
-1,0,3,2,0,3,2,2,2,13,puhkpillikvintett; matti; eesti; sümfooniaorkester; reimann; prelüüd; tants
-2,0,3,1,0,1,3,2,2,13,sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; eesti; tants
-1,0,2,1,0,2,2,2,2,13,sümfooniaorkester; puhkpillikvintett; reimann; tants; prelüüd; eesti
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+4,1,1,1,0,3,3,0,2,13,klaverikontsert; reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett
+2,1,2,1,0,2,3,1,2,13,eesti; sümfooniaorkester; puhkpillikvintett; klaverikontsert; reimann; prelüüd; tants
+1,1,3,1,0,1,4,1,2,13,eesti; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; matti; tants
+1,0,3,2,0,3,2,2,2,13,eesti; sümfooniaorkester; puhkpillikvintett; reimann; prelüüd; matti; tants
+2,0,3,1,0,1,3,2,2,13,reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett; tants
+1,0,2,1,0,2,2,2,2,13,reimann; prelüüd; eesti; sümfooniaorkester; puhkpillikvintett; tants

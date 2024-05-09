@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,4,1,0,4,3,3,1,18,kalevi; staadion; rebane; kärdla; ukraina; petseri; arvo
-1,1,4,1,0,4,3,3,1,18,kalevi; staadion; rebane; kärdla; ukraina; petseri; arvo
-1,2,4,1,0,4,3,3,1,18,kalevi; staadion; rebane; kärdla; ukraina; petseri; arvo
-1,2,4,1,0,4,3,3,1,18,kalevi; staadion; rebane; kärdla; ukraina; petseri; arvo
-1,2,4,1,0,4,3,4,1,18,kalevi; staadion; rebane; kärdla; ukraina; petseri; arvo
-1,2,6,2,0,3,4,3,1,18,kalevi; staadion; rebane; pärt; kärdla; ukraina; petseri; arvo
-2,3,5,3,0,1,3,3,1,18,kalevi; arvo; staadion; rebane; pärt; kärdla; petseri; ukraina
-1,1,3,0,0,1,1,2,1,18,kalevi; staadion; rebane; petseri; kärdla; ukraina
-1,0,3,0,0,1,3,6,1,18,kalevi; rebane; pärt; kärdla; toomas; ukraina; mari; petseri; arvo
-1,2,5,2,0,1,3,3,1,18,arvo; kalevi; rebane; kärdla; toomas; mari; hendrik; petseri; ilves; ukraina
-2,3,5,2,0,1,1,4,2,18,arvo; kalevi; staadion; rebane; pärt; kärdla; toomas; mari; hendrik; petseri; ukraina
+1,1,4,1,0,3,3,1,0,18,staadion; petseri; rebane; kalevi; ukraina; arvo; kärdla
+1,1,4,1,0,3,3,1,0,18,staadion; petseri; rebane; kalevi; ukraina; arvo; kärdla
+1,2,4,1,0,3,3,1,0,18,staadion; petseri; rebane; kalevi; ukraina; arvo; kärdla
+1,2,4,1,0,3,3,1,0,18,staadion; petseri; rebane; kalevi; ukraina; arvo; kärdla
+1,2,4,1,0,3,4,1,0,18,staadion; petseri; ukraina; rebane; kalevi; arvo; kärdla
+1,2,6,2,0,4,3,1,0,18,staadion; petseri; ukraina; pärt; rebane; kalevi; arvo; kärdla
+2,3,5,3,0,3,3,1,0,18,staadion; ukraina; petseri; pärt; rebane; kalevi; arvo; kärdla
+1,1,3,0,0,1,2,1,0,18,staadion; ukraina; petseri; kalevi; rebane; kärdla
+1,0,3,0,0,3,6,1,0,18,mari; petseri; ukraina; pärt; toomas; rebane; kalevi; arvo; kärdla
+1,2,5,2,0,3,3,1,0,18,mari; ukraina; petseri; toomas; ilves; rebane; hendrik; kalevi; arvo; kärdla
+2,3,5,2,0,1,4,2,0,18,staadion; petseri; ukraina; mari; pärt; toomas; rebane; hendrik; kalevi; arvo; kärdla

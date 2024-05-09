@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,1,3,0,0,12,vaimulik; kirik; katoliku
-0,0,0,0,0,1,3,0,0,12,vaimulik; kirik; katoliku
-0,0,0,0,0,1,3,0,0,12,vaimulik; kirik; katoliku
-0,0,0,0,0,1,3,0,0,12,vaimulik; kirik; katoliku
-0,0,0,0,0,1,3,0,0,12,vaimulik; kirik; katoliku
-0,0,1,0,0,0,3,0,0,12,kirik; vaimulik; katoliku
-0,0,3,0,0,0,0,0,0,12,tartu; ordu; katoliku
-0,0,1,0,0,0,0,0,0,12,ordu
-0,0,1,0,0,1,0,0,0,12,ordu; katoliku
-0,1,1,0,0,1,0,0,0,12,tartu; ordu; katoliku
-0,2,0,0,0,1,0,0,0,12,katoliku; tartu; euroopa
+1,0,2,0,0,2,6,2,1,12,toomhärra; vaimulik; keskaeg; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,2,0,0,2,6,2,1,12,toomhärra; vaimulik; keskaeg; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,2,0,0,2,6,2,1,12,toomhärra; vaimulik; keskaeg; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,3,0,0,2,6,2,1,12,toomhärra; vaimulik; keskaeg; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,3,0,0,2,6,1,1,12,toomhärra; vaimulik; keskaeg; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,3,0,0,0,5,1,1,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; piiskopkond; katoliku; ametikoht
+1,0,4,0,0,0,1,1,1,12,toomhärra; ordu; katoliku; ülikool; liivimaa; ametikoht; tartu; piiskopkond
+0,0,2,1,0,0,0,0,1,12,toomhärra; ülikool; ametikoht; ordu
+0,0,1,3,0,1,0,0,1,12,ordu; katoliku; keskaeg; ülikool; piiskopkond
+0,1,1,3,0,1,0,1,1,12,ordu; katoliku; keskaeg; ülikool; tartu; piiskopkond
+0,2,1,2,0,1,0,1,1,12,katoliku; keskaeg; euroopa; ülikool; ametikoht; tartu; piiskopkond

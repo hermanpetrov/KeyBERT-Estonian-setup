@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,0,0,0,12,ressurss
-0,0,0,0,1,0,0,0,0,12,ressurss
-0,0,0,0,1,0,0,0,0,12,ressurss
-0,0,1,0,1,0,0,0,0,12,ühiskond; ressurss
-0,0,1,0,1,0,0,0,0,12,ühiskond; ressurss
-0,0,1,0,1,1,0,0,0,12,ühiskond; ressurss; ökoloogiline
-0,0,0,0,1,0,0,0,0,12,ressurss
-0,0,1,0,1,0,0,1,0,12,ühiskond; ressurss
-2,0,2,0,1,1,0,1,0,12,ühiskond; ressurss; ökoloogiline; nappus; sõda
-2,0,1,0,1,0,0,0,0,12,ühiskond; sõda; ökoloogiline; ressurss
-2,0,1,0,1,0,0,1,0,12,ühiskond; ressurss; ökoloogiline; sõda
+1,0,0,0,1,0,0,0,0,12,ellujäämine; ressurss
+1,0,0,0,1,0,0,0,0,12,ellujäämine; ressurss
+1,0,0,0,1,0,0,0,0,12,ellujäämine; ressurss
+1,0,1,0,1,0,0,0,0,12,ellujäämine; ressurss; ühiskond
+1,0,1,0,1,0,0,0,0,12,ellujäämine; ressurss; ühiskond
+1,0,1,0,1,1,0,0,0,12,ellujäämine; ressurss; ökoloogiline; ühiskond
+1,0,0,0,1,0,0,1,0,12,ellujäämine; inimloomus; ressurss
+0,0,1,0,1,1,0,1,0,12,tasakaal; ressurss; ühiskond
+2,1,2,0,1,1,0,1,0,12,nappus; ühiskond; ressurss; rahvaarv; ökoloogiline; sõda
+4,1,1,0,1,0,0,0,0,12,ellujäämine; ühiskond; ressurss; rahvaarv; tasakaal; ökoloogiline; sõda
+3,1,1,0,1,0,0,1,0,12,ühiskond; ressurss; rahvaarv; tasakaal; ökoloogiline; sõda

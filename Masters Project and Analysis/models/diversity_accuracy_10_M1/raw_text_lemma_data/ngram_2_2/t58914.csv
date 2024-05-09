@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,4,3,0,0,11,sadam; geoloogia; kaarel; rand; orvik
-0,0,1,0,0,4,3,0,0,11,sadam; geoloogia; kaarel; rand; orvik
-0,0,1,0,0,4,3,0,0,11,sadam; geoloogia; kaarel; rand; orvik
-0,0,1,0,0,4,3,0,0,11,sadam; geoloogia; kaarel; rand; orvik
-0,0,1,0,0,2,3,1,0,11,sadam; geoloogia; kaarel; rand; orvik
-0,1,1,0,0,2,3,0,0,11,geoloogia; sadam; kaarel; tamm; orvik
-1,2,1,0,0,2,2,1,0,11,sadam; prognoos; kaarel; rand; tamm; orvik
-0,0,1,1,0,2,1,1,0,11,sadam; kaarel; rand; orvik
-0,0,2,0,0,2,1,1,0,11,rand; orvik; kaarel; prognoos
-0,0,1,0,0,1,1,1,0,11,orvik; kaarel; rand
-0,0,0,0,0,1,1,0,0,11,orvik; kaarel
+0,0,1,0,0,4,3,0,0,11,orvik; rand; kaarel; geoloogia; sadam
+0,0,1,0,0,4,3,0,0,11,orvik; rand; kaarel; geoloogia; sadam
+0,0,1,0,0,4,3,0,0,11,orvik; rand; kaarel; geoloogia; sadam
+0,0,1,0,0,4,3,0,0,11,orvik; rand; kaarel; geoloogia; sadam
+0,0,1,0,0,2,3,1,0,11,orvik; rand; kaarel; geoloogia; sadam
+0,1,1,0,0,2,3,0,0,11,orvik; kaarel; tamm; geoloogia; sadam
+1,2,1,0,0,2,2,1,0,11,orvik; rand; kaarel; tamm; prognoos; sadam
+0,0,1,2,0,2,1,1,0,11,orvik; rand; kaarel; sadam; kasvuhooneefekt
+0,0,2,0,0,2,1,2,0,11,orvik; rand; kaarel; prognoos; liivarand
+0,0,1,0,0,1,1,2,0,11,orvik; liivarand; kaarel; rand
+0,0,0,0,0,1,1,1,0,11,orvik; liivarand; kaarel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,1,1,4,3,0,15,tööstusrevolutsioon; bismarck; von; wilhelm; berliini; maailmasõda; saksamaa; berliin
-1,1,2,0,1,1,4,3,0,15,tööstusrevolutsioon; bismarck; von; wilhelm; berliini; maailmasõda; saksamaa; berliin
-1,1,2,0,1,1,4,3,0,15,tööstusrevolutsioon; bismarck; von; wilhelm; berliini; maailmasõda; saksamaa; berliin
-1,1,2,0,1,1,4,3,0,15,tööstusrevolutsioon; bismarck; von; wilhelm; berliini; maailmasõda; saksamaa; berliin
-1,0,1,0,1,0,3,3,0,15,tööstusrevolutsioon; wilhelm; von; berliini; maailmasõda; saksamaa; berliin
-1,0,2,0,1,1,1,2,0,15,wilhelm; tööstusrevolutsioon; berliini; maailmasõda; bismarck; von; berliin
-1,0,1,0,1,2,2,0,0,15,tööstusrevolutsioon; bismarck; maailmasõda; von; otto; berliin
-1,0,0,2,1,2,1,0,0,15,tööstusrevolutsioon; berliini; bismarck; maailmasõda; von; otto
-0,0,2,0,1,2,0,0,1,15,wilhelm; tööstusrevolutsioon; bismarck; von
-0,0,2,0,1,1,1,0,1,15,wilhelm; tööstusrevolutsioon; bismarck; von; otto
-0,0,1,1,1,2,2,1,1,15,wilhelm; tööstusrevolutsioon; maailmasõda; bismarck; von; otto
+1,1,2,0,1,4,3,0,0,15,berliin; tööstusrevolutsioon; saksamaa; wilhelm; bismarck; berliini; maailmasõda; von
+1,1,2,0,1,4,3,0,0,15,berliin; tööstusrevolutsioon; saksamaa; wilhelm; bismarck; berliini; maailmasõda; von
+1,1,2,0,1,4,3,0,0,15,berliin; tööstusrevolutsioon; saksamaa; wilhelm; bismarck; berliini; maailmasõda; von
+1,1,2,0,1,4,3,0,0,15,berliin; tööstusrevolutsioon; saksamaa; wilhelm; bismarck; berliini; maailmasõda; von
+1,0,1,0,1,3,3,0,0,15,berliin; tööstusrevolutsioon; wilhelm; saksamaa; berliini; maailmasõda; von
+1,0,2,0,1,1,2,0,0,15,berliin; berliini; tööstusrevolutsioon; wilhelm; maailmasõda; von; bismarck
+1,0,1,0,1,2,0,0,0,15,berliin; tööstusrevolutsioon; otto; von; bismarck
+1,0,0,2,1,1,0,0,0,15,otto; berliini; tööstusrevolutsioon; von
+0,0,2,0,1,0,0,1,0,15,wilhelm; tööstusrevolutsioon; von; bismarck
+0,0,2,0,1,1,0,1,0,15,tööstusrevolutsioon; wilhelm; otto; von; bismarck
+0,0,1,1,1,2,1,1,0,15,tööstusrevolutsioon; wilhelm; otto; maailmasõda; von

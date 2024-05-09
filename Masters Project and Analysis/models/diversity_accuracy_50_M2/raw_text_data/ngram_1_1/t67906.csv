@@ -2,11 +2,11 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,1,0,0,1,2,0,0,12,teater; klassika
 0,1,1,0,0,1,2,0,0,12,teater; klassika
 0,1,1,0,0,1,2,0,0,12,teater; klassika
-0,1,2,0,0,1,2,0,0,12,teater; elmo; klassika
-0,1,2,0,0,1,2,0,0,12,tammsaare; elmo; kontsert; teater
-0,1,2,0,0,1,0,0,0,12,teater; tammsaare; elmo
-0,2,3,0,0,3,0,0,0,12,tammsaare; iseseisvuspäeva; stoppard; elmo; kontsert; teater
-0,1,4,1,0,0,0,2,0,12,tammsaare; iseseisvuspäeva; elmo; nüganen
-0,0,1,0,0,0,0,1,0,12,iseseisvuspäeva; elmo
-0,1,0,0,0,0,1,1,0,12,tammsaare; iseseisvuspäeva; elmo
-0,1,1,0,0,0,1,1,0,12,tammsaare; iseseisvuspäeva; elmo
+0,1,2,0,0,1,2,0,0,12,elmo; teater; klassika
+0,1,2,0,0,1,2,0,0,12,elmo; tammsaare; teater; kontsert
+0,1,2,0,0,1,0,0,0,12,elmo; tammsaare; teater
+0,2,3,0,0,3,0,0,0,12,stoppard; elmo; kontsert; tammsaare; teater; iseseisvuspäeva
+0,1,4,1,0,0,0,2,0,12,elmo; nüganen; tammsaare; iseseisvuspäeva
+0,0,1,0,0,0,0,1,0,12,elmo; iseseisvuspäeva
+0,1,0,0,0,0,1,1,0,12,elmo; tammsaare; iseseisvuspäeva
+0,1,1,0,0,0,1,1,0,12,elmo; tammsaare; iseseisvuspäeva

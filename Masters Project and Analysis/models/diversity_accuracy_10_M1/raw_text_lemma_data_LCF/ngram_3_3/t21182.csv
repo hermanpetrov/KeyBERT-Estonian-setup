@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,1,0,3,1,1,0,17,kraav; oidipus; krull; urmas; merilai; vadi
-1,0,0,1,0,3,1,1,0,17,kraav; oidipus; krull; urmas; merilai; vadi
-1,0,0,1,0,3,1,1,0,17,kraav; oidipus; krull; urmas; merilai; vadi
-1,0,0,1,0,3,1,1,0,17,kraav; oidipus; krull; urmas; merilai; vadi
-1,0,0,1,0,3,1,1,0,17,kraav; oidipus; krull; urmas; merilai; vadi
-1,0,0,1,0,2,1,1,0,17,oidipus; krull; urmas; merilai; vadi
-0,0,0,1,0,2,0,1,0,17,urmas; pehk; merilai; vadi
-0,0,1,0,0,2,2,1,0,17,hasso; bänd; krull; urmas; merilai; vadi
-0,0,1,4,0,2,0,2,0,17,oidipus; bänd; urmas; merilai; vadi
-0,0,4,1,0,3,0,3,0,17,rütm; oidipus; krull; nali; bänd; urmas; vadi
-0,0,1,1,0,3,0,3,0,17,arne; oidipus; bänd; urmas; merilai; vadi
+1,0,0,2,0,4,2,2,0,17,kraav; merilai; urmas; vadi; oidipus; luulekogu; krull
+1,0,0,2,0,4,2,2,0,17,kraav; merilai; urmas; vadi; oidipus; luulekogu; krull
+1,0,0,2,0,4,2,2,0,17,kraav; merilai; urmas; vadi; oidipus; luulekogu; krull
+1,0,0,2,0,4,2,2,0,17,kraav; merilai; urmas; vadi; oidipus; luulekogu; krull
+1,0,0,2,0,4,2,2,0,17,kraav; merilai; urmas; vadi; oidipus; luulekogu; krull
+1,0,0,2,0,3,2,2,0,17,oidipus; merilai; urmas; luulekogu; krull; vadi
+0,0,0,2,0,2,1,1,0,17,merilai; luulekogu; urmas; pehk; vadi
+0,0,2,1,0,2,3,1,0,17,merilai; bänd; urmas; luulekogu; krull; vadi; hasso
+0,0,1,5,0,2,1,2,0,17,oidipus; merilai; bänd; urmas; luulekogu; vadi
+0,0,4,2,0,3,1,3,0,17,bänd; urmas; vadi; oidipus; nali; luulekogu; rütm; krull
+0,0,2,2,0,3,1,3,0,17,oidipus; urmas; arne; merilai; bänd; luulekogu; vadi

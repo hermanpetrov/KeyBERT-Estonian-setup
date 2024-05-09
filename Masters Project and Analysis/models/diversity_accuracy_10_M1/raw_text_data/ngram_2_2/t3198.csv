@@ -8,5 +8,5 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,1,1,1,0,0,14,koalitsioon; harry
 0,0,0,0,1,0,0,0,0,14,harry
 0,0,0,0,1,0,1,0,0,14,koalitsioon; harry
-0,1,0,0,1,0,0,1,0,14,tuumarelv; harry; välisminister
-1,1,2,0,1,0,0,1,0,14,tuumarelv; liivrand; harry; välisminister; mälberg; mall
+0,1,0,0,1,0,0,1,0,14,välisminister; tuumarelv; harry
+1,1,2,0,1,0,0,1,0,14,liivrand; mall; välisminister; harry; mälberg; tuumarelv

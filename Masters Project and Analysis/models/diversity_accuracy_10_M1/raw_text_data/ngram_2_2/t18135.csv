@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,2,2,3,19,jüri; ivo; estonia; laulja; ooper
-0,1,0,0,0,1,2,2,3,19,jüri; ivo; estonia; laulja; ooper
-0,1,0,0,0,1,2,2,3,19,jüri; ivo; estonia; laulja; ooper
-0,1,0,0,0,1,2,2,3,19,jüri; ivo; estonia; laulja; ooper
-0,1,0,0,0,1,2,2,3,19,jüri; ivo; estonia; laulja; ooper
-0,1,0,0,0,1,2,1,3,19,jüri; ivo; estonia; laulja; ooper
-1,0,0,0,0,2,2,0,3,19,ivo; estonia; laulja; ooper
-1,1,1,1,0,1,1,3,3,19,ivo; estonia; koor; hollandlane; laulja; lavastaja; ooper
-0,0,1,1,0,1,1,2,3,19,ivo; estonia; koor; laulja; lavastaja
-0,0,0,4,0,1,2,0,1,19,ivo; estonia; hollandlane; lendav; ooper; armastus
-0,0,0,0,0,2,2,1,1,19,ivo; estonia; lavastaja; ooper; armastus
+0,1,0,0,0,1,2,2,3,19,ivo; jüri; ooper; laulja; estonia
+0,1,0,0,0,1,2,2,3,19,ivo; jüri; ooper; laulja; estonia
+0,1,0,0,0,1,2,2,3,19,ivo; jüri; ooper; laulja; estonia
+0,1,0,0,0,1,2,2,3,19,ivo; jüri; ooper; laulja; estonia
+0,1,0,0,0,1,2,2,3,19,ivo; jüri; ooper; laulja; estonia
+0,1,0,0,0,1,2,1,3,19,ivo; jüri; ooper; laulja; estonia
+1,0,0,0,0,2,2,0,3,19,ivo; ooper; laulja; estonia
+1,1,1,1,0,1,1,3,3,19,lavastaja; koor; ooper; ivo; hollandlane; laulja; estonia
+0,0,1,1,0,1,1,2,3,19,koor; lavastaja; ivo; laulja; estonia
+0,0,0,4,0,1,2,0,1,19,ooper; ivo; hollandlane; armastus; lendav; estonia
+0,0,0,0,0,2,2,1,1,19,lavastaja; ivo; ooper; armastus; estonia

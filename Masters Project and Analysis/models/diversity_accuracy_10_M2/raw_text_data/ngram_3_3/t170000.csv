@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,6,2,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-3,6,2,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-3,6,2,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-3,6,2,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-3,6,2,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-3,6,3,0,2,1,1,4,2,18,thomas; tehnoloogia; watson; papadopolous; serveri; maailma; võrgustik; arvuti; google
-4,6,3,0,2,1,2,4,2,18,thomas; tehnoloogia; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google
-3,6,3,1,2,1,2,4,2,18,thomas; tehnoloogia; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-2,6,3,2,2,1,2,3,2,18,thomas; tehnoloogia; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-2,4,0,2,2,1,2,3,2,18,thomas; tehnoloogia; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
-4,5,1,1,2,1,2,3,2,18,thomas; tehnoloogia; watson; papadopolous; port; serveri; maailma; võrgustik; arvuti; google; kommentaar
+3,6,2,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+3,6,2,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+3,6,2,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+3,6,2,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+3,6,2,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+3,6,3,0,2,1,1,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; google; võrgustik; papadopolous; serveri
+4,6,3,0,2,1,2,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; port; google; võrgustik; papadopolous; serveri
+3,6,3,1,2,1,2,4,2,18,arvuti; maailma; tehnoloogia; watson; thomas; kommentaar; port; google; võrgustik; papadopolous; serveri
+2,6,3,2,2,1,2,3,2,18,arvuti; maailma; tehnoloogia; watson; thomas; kommentaar; port; google; võrgustik; papadopolous; serveri
+2,4,0,2,2,1,2,3,2,18,arvuti; maailma; kommentaar; port; thomas; tehnoloogia; watson; google; võrgustik; papadopolous; serveri
+4,5,1,1,2,1,2,3,2,18,arvuti; maailma; kommentaar; watson; thomas; port; tehnoloogia; google; võrgustik; papadopolous; serveri

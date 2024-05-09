@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,6,7,7,5,7,7,8,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,6,7,7,5,7,8,9,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,7,8,7,6,7,7,9,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,7,9,7,6,7,8,9,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,7,9,7,6,9,9,9,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,6,9,7,6,9,9,9,6,10,loosung; buss; toimetus; raadio; film; kirjandus; režissöör; televisioon; saade
-9,7,9,6,6,9,9,9,5,10,loosung; buss; toimetus; raadio; film; režissöör; kirjandus; televisioon; saade
-8,8,9,8,6,8,9,9,5,10,loosung; buss; toimetus; raadio; režissöör; film; kirjandus; televisioon; saade
-8,8,9,8,6,9,9,9,6,10,loosung; buss; toimetus; raadio; film; režissöör; kirjandus; televisioon; saade
-8,8,9,8,7,9,9,9,7,10,loosung; buss; toimetus; raadio; film; režissöör; kirjandus; televisioon; saade
-7,8,9,8,8,8,9,9,7,10,loosung; buss; toimetus; raadio; film; režissöör; kirjandus; televisioon; saade
+9,7,8,8,5,7,7,8,6,10,film; loosung; toimetus; saade; režissöör; fotograaf; raadio; buss; kirjandus; televisioon
+10,7,8,8,5,7,8,9,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+10,8,9,8,6,7,7,9,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+10,8,10,8,6,7,8,9,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+10,8,10,8,6,10,9,10,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+10,7,10,8,6,10,9,10,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+10,8,10,7,6,10,9,10,5,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+9,9,10,9,7,9,9,10,5,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+9,9,10,9,7,10,9,10,6,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+9,9,10,9,8,10,9,10,7,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio
+8,9,10,9,9,9,10,10,7,10,film; loosung; saade; režissöör; fotograaf; buss; kirjandus; televisioon; toimetus; raadio

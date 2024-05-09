@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,3,1,1,2,3,2,7,17,mäger; luuletaja; eesti; muru; antoloogia; alver; sööt; mart; paul-eerik; suits; bett; rummo
-5,7,3,1,2,2,4,2,7,17,mäger; luuletaja; eesti; muru; antoloogia; alver; sööt; mart; gustav; paul-eerik; suits; bett; rummo
-5,7,5,1,2,3,5,2,8,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-5,7,8,1,3,3,4,5,8,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-4,7,6,1,3,6,6,7,8,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-4,7,8,3,5,9,8,8,8,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-3,5,8,5,5,9,6,11,8,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-3,6,8,7,6,7,9,11,9,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-3,5,10,6,9,8,7,10,6,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-4,5,9,9,10,6,7,10,7,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
-3,5,9,7,9,6,8,10,6,17,mäger; antoloogia; alver; mart; paul-eerik; suits; bett; karl; luuletaja; eesti; muru; sööt; gustav; rummo
+6,7,4,2,1,3,4,3,7,17,mäger; antoloogia; bett; mart; suits; luuletaja; rummo; alver; eesti; sööt; muru; luulealbum; paul-eerik
+6,7,4,2,2,3,5,3,7,17,luuletaja; rummo; alver; eesti; mäger; antoloogia; bett; sööt; muru; gustav; mart; luulealbum; suits; paul-eerik
+6,7,6,2,2,4,6,3,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; sööt; muru; luulealbum; paul-eerik
+6,7,9,2,3,4,5,6,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; sööt; muru; luulealbum; paul-eerik
+5,7,7,2,3,7,7,8,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+4,7,9,4,6,10,9,9,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+3,5,9,6,6,10,7,12,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+4,6,8,8,7,8,10,12,9,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+4,5,10,7,10,9,8,11,6,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+5,5,9,10,11,7,8,11,8,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik
+4,5,9,7,10,7,9,11,6,17,mäger; antoloogia; bett; gustav; mart; suits; karl; luuletaja; rummo; alver; eesti; muru; sööt; luulealbum; paul-eerik

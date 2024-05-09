@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,0,0,0,1,12,ökoloogiline; rahvaarv
-1,0,1,0,0,0,0,0,1,12,ökoloogiline; rahvaarv
-1,0,1,0,0,0,0,0,1,12,ökoloogiline; rahvaarv
-1,0,1,0,0,0,0,0,1,12,ökoloogiline; rahvaarv
-1,0,1,0,0,0,0,0,1,12,ökoloogiline; rahvaarv
-1,0,1,1,0,0,0,0,1,12,konkurents; ökoloogiline; rahvaarv
-2,0,0,1,1,1,1,0,1,12,nälg; ökoloogiline; rahvaarv; sõda; ressursside
-0,0,1,0,2,0,1,1,1,12,rahvaarv; nappus; ökoloogiline; sõda; ressursside
-0,0,0,0,1,0,1,0,1,12,sõda; ressursside; rahvaarv
-0,0,0,0,0,0,1,1,1,12,sõda; nälg; rahvaarv
-0,0,1,0,0,0,1,1,1,12,nälg; sõda; rahvaarv
+1,0,1,0,0,0,0,1,0,12,rahvaarv; ökoloogiline
+1,0,1,0,0,0,0,1,0,12,rahvaarv; ökoloogiline
+1,0,1,0,0,0,0,1,0,12,rahvaarv; ökoloogiline
+1,0,1,0,0,0,0,1,0,12,rahvaarv; ökoloogiline
+1,0,1,0,0,0,0,1,0,12,rahvaarv; ökoloogiline
+1,0,1,1,0,0,0,1,0,12,konkurents; rahvaarv; ökoloogiline
+2,0,0,1,1,1,0,1,0,12,nälg; rahvaarv; ressursside; ökoloogiline; sõda
+0,0,1,0,2,1,1,1,0,12,nappus; rahvaarv; ressursside; ökoloogiline; sõda
+0,0,0,0,1,1,0,1,0,12,rahvaarv; ressursside; sõda
+0,0,0,0,0,1,1,1,0,12,rahvaarv; nälg; sõda
+0,0,1,0,0,1,1,1,0,12,rahvaarv; sõda; nälg

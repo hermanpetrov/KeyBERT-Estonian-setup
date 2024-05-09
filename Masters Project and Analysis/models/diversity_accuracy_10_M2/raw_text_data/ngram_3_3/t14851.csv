@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,2,0,12,gustav; naan
-0,0,0,0,0,0,0,2,0,12,gustav; naan
-0,0,0,0,0,0,0,2,0,12,gustav; naan
-0,0,0,0,0,0,0,2,0,12,gustav; naan
-0,0,0,0,0,0,0,2,0,12,gustav; naan
-0,0,0,0,0,0,0,3,0,12,gustav; naan; lapsepõlv
-1,0,0,0,0,2,0,3,0,12,elustrateegia; gustav; naan; lapsepõlv
-0,0,0,2,0,2,0,3,0,12,gustav; naan; akadeemia; teaduste; lapsepõlv
+0,0,0,0,0,0,0,2,0,12,naan; gustav
+0,0,0,0,0,0,0,2,0,12,naan; gustav
+0,0,0,0,0,0,0,2,0,12,naan; gustav
+0,0,0,0,0,0,0,2,0,12,naan; gustav
+0,0,0,0,0,0,0,2,0,12,naan; gustav
+0,0,0,0,0,0,0,3,0,12,naan; gustav; lapsepõlv
+1,0,0,0,0,2,0,3,0,12,gustav; naan; lapsepõlv; elustrateegia
+0,0,0,2,0,2,0,3,0,12,gustav; naan; akadeemia; lapsepõlv; teaduste
 0,0,0,2,0,2,0,2,0,12,gustav; naan; akadeemia; teaduste
 0,0,0,1,0,2,0,2,0,12,gustav; naan; akadeemia
-0,0,0,1,0,0,0,2,0,12,gustav; naan
+0,0,0,1,0,0,0,2,0,12,naan; gustav

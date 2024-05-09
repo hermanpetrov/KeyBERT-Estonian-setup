@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,1,2,1,2,0,14,disainer; eesti; moenädal; moekunstnik
-0,1,2,0,1,2,1,2,0,14,disainer; eesti; moenädal; moekunstnik
-0,1,2,0,1,2,1,2,0,14,disainer; eesti; moenädal; moekunstnik
-0,1,2,0,1,2,1,2,0,14,disainer; eesti; moenädal; moekunstnik
-0,1,3,0,1,2,0,2,0,14,disainer; kollektsioon; eesti; moekunstnik
-0,1,1,0,1,2,0,2,0,14,disainer; eesti; moekunstnik
-1,1,1,0,1,3,2,2,0,14,disainer; suursponsor; kollektsioon; eesti; moekunstnik
-0,3,0,0,1,1,3,3,0,14,disainer; eesti; moekunstnik
-0,2,0,0,1,1,1,3,0,14,disainer; kollektsioon; eesti; moekunstnik
-1,1,0,0,1,1,0,2,0,14,disainer; suursponsor; eesti; moekunstnik
-0,1,1,0,0,0,0,3,0,14,lilli; suursponsor; eesti; moekunstnik
+0,1,2,0,1,1,2,0,0,14,eesti; moekunstnik; moenädal; disainer
+0,1,2,0,1,1,2,0,0,14,eesti; moekunstnik; moenädal; disainer
+0,1,2,0,1,1,2,0,0,14,eesti; moekunstnik; moenädal; disainer
+0,1,2,0,1,1,2,0,0,14,eesti; moekunstnik; moenädal; disainer
+0,1,3,0,1,0,2,0,0,14,kollektsioon; eesti; moekunstnik; disainer
+0,1,1,0,1,0,2,0,0,14,eesti; disainer; moekunstnik
+1,1,1,0,1,2,2,0,0,14,suursponsor; eesti; moekunstnik; disainer
+0,3,0,0,1,3,3,0,0,14,eesti; moekunstnik; disainer
+0,2,0,0,1,1,3,0,0,14,kollektsioon; eesti; moekunstnik; disainer
+1,1,0,0,1,0,2,0,0,14,suursponsor; eesti; moekunstnik; disainer
+0,1,1,0,0,0,3,0,0,14,suursponsor; lilli; eesti; moekunstnik

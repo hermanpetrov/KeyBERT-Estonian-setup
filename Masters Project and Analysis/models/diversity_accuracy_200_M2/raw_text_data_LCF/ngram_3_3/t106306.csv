@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,4,4,3,3,3,3,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-5,4,4,4,3,3,3,3,4,13,kreeka; süüria; keele; hobuse; eesti; tööjõupuudus
-4,4,4,4,3,3,3,3,4,13,kreeka; süüria; keele; hobuse; eesti; tööjõupuudus
-4,4,5,5,4,3,3,4,4,13,kreeka; süüria; keele; hobuse; eesti; tööjõupuudus
-4,4,6,5,4,3,3,4,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-5,4,6,5,4,4,4,4,4,13,süüria; keele; hobuse; eesti; tööjõupuudus; kreeka
-4,4,6,5,5,4,4,5,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-3,5,6,4,5,6,5,6,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-4,5,5,3,5,4,5,5,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-4,4,4,4,5,5,4,5,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
-4,4,5,5,5,5,4,6,4,13,kreeka; süüria; hobuse; eesti; tööjõupuudus; keele
+4,4,4,4,3,3,3,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+5,4,4,4,3,3,3,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+4,4,4,4,3,3,3,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+4,4,5,5,4,3,4,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+4,4,6,5,4,3,4,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+5,4,6,5,4,4,4,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+4,4,6,5,5,4,5,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+3,5,6,4,5,5,6,4,0,13,süüria; hobuse; eesti; keele; kreeka; tööjõupuudus
+4,5,5,3,5,5,5,4,0,13,süüria; eesti; hobuse; keele; kreeka; tööjõupuudus
+4,4,4,4,5,4,5,4,0,13,süüria; hobuse; eesti; keele; kreeka; tööjõupuudus
+4,4,5,5,5,4,6,4,0,13,süüria; hobuse; eesti; keele; kreeka; tööjõupuudus

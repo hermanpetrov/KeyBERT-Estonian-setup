@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,2,0,3,0,14,gustav; naan; vladivostok
-0,1,2,0,0,2,0,3,0,14,gustav; naan; vladivostok
-0,1,2,0,0,2,0,3,0,14,gustav; naan; vladivostok
-0,1,2,0,0,2,0,3,0,14,gustav; naan; vladivostok
-0,1,4,0,0,2,0,3,0,14,gustav; naan; akadeemia; teaduste; vladivostok
-0,0,0,0,0,0,0,3,0,14,vladivostok; gustav; naan
-1,0,2,0,0,2,0,3,0,14,gustav; naan; fašism; vladivostok
-0,0,2,0,0,2,0,2,0,14,gustav; naan
-2,0,2,2,0,2,1,3,0,14,akadeemia; informatiivne; gustav; naan; teaduste; sõda
-2,0,2,3,0,2,3,2,0,14,evolutsioon; akadeemia; informatiivne; gustav; naan; teaduste; sõda
-0,0,2,0,0,2,3,2,2,14,informatiivne; gustav; naan; akadeemia; teaduste
+0,1,2,0,0,0,3,0,0,14,vladivostok; gustav; naan
+0,1,2,0,0,0,3,0,0,14,vladivostok; gustav; naan
+0,1,2,0,0,0,3,0,0,14,vladivostok; gustav; naan
+0,1,2,0,0,0,3,0,0,14,vladivostok; gustav; naan
+0,1,4,0,0,0,3,0,0,14,vladivostok; gustav; naan; akadeemia; teaduste
+0,0,0,0,0,0,3,0,0,14,naan; vladivostok; gustav
+1,0,2,0,0,0,3,0,0,14,vladivostok; gustav; naan; fašism
+0,0,2,0,0,0,2,0,0,14,naan; gustav
+2,0,2,2,0,1,3,0,0,14,naan; akadeemia; sõda; teaduste; gustav; informatiivne
+2,0,2,3,0,3,2,0,0,14,naan; akadeemia; sõda; teaduste; gustav; evolutsioon; informatiivne
+0,0,2,0,0,3,2,2,0,14,teaduste; gustav; naan; akadeemia; informatiivne

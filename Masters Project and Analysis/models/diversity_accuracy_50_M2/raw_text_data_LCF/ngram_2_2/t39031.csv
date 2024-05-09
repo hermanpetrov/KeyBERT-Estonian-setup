@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,2,1,2,1,2,2,1,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-4,3,2,1,2,1,2,2,1,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-4,3,2,1,2,1,2,2,0,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-4,3,2,1,2,1,2,2,1,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-4,3,2,1,2,1,2,3,1,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-4,3,2,1,2,0,1,3,1,12,laulasmaa; uno; muusika; loop; austraalia; abikaasa; playboy
-2,4,1,2,2,1,1,4,1,12,laulasmaa; uno; muusika; loop; austraalia; enno; abikaasa; playboy
-3,2,2,3,3,0,1,4,1,12,triatlon; uno; tammer; muusika; loop; austraalia; enno; habe; playboy
-2,0,2,2,3,1,1,3,1,12,uno; muusika; habe; loop; austraalia
-2,2,1,3,3,1,1,1,0,12,uno; tammer; muusika; loop; austraalia; habe; playboy
-3,0,1,3,3,1,1,4,0,12,triatlon; uno; muusika; tammer; loop; austraalia; enno; habe; playboy
+4,3,2,1,2,2,2,1,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+4,3,2,1,2,2,2,1,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+4,3,2,1,2,2,2,0,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+4,3,2,1,2,2,2,1,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+4,3,2,1,2,2,3,1,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+4,3,2,1,2,1,3,1,0,12,uno; loop; playboy; laulasmaa; muusika; austraalia; abikaasa
+2,4,1,2,2,1,4,1,0,12,uno; loop; playboy; enno; laulasmaa; muusika; austraalia; abikaasa
+3,2,2,3,3,1,4,1,0,12,tammer; uno; loop; playboy; enno; austraalia; muusika; habe; triatlon
+2,0,2,2,3,1,3,1,0,12,uno; austraalia; muusika; habe; loop
+2,2,1,3,3,1,1,0,0,12,uno; tammer; loop; playboy; muusika; austraalia; habe
+3,0,1,3,3,1,4,0,0,12,uno; tammer; loop; playboy; enno; muusika; austraalia; habe; triatlon

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,2,0,0,2,2,0,17,ameerika; ivo; brian; biitel; fänn; maania; epstein
-1,2,1,2,0,0,2,2,0,17,ameerika; ivo; brian; biitel; fänn; maania; epstein
-1,2,1,2,0,0,2,2,0,17,ameerika; ivo; brian; biitel; fänn; maania; epstein
-1,2,1,2,0,0,2,2,0,17,ameerika; ivo; brian; biitel; fänn; maania; epstein
-1,2,1,2,0,0,2,2,0,17,ameerika; ivo; brian; biitel; fänn; maania; epstein
-1,2,1,2,0,1,1,2,0,17,fänn; ameerika; maania; brian; biitel; epstein
-0,2,1,1,0,1,1,2,0,17,fänn; ameerika; maania; bbc; epstein
-1,0,1,2,0,2,1,3,0,17,ameerika; ringo; brian; biitel; bbc; lennon; fänn; maania; epstein
-2,0,2,1,0,1,2,0,0,17,ameerika; lennon; salumets; brian; vello; bbc; epstein
-0,2,1,3,0,5,1,2,0,17,ameerika; ivo; linn; vello; john; bbc; fänn; salumets
-1,2,1,1,0,3,3,2,0,17,fänn; ameerika; ivo; linn; vello; bbc; epstein
+1,2,1,2,0,0,2,2,0,17,maania; epstein; fänn; brian; biitel; ameerika; ivo
+1,2,1,2,0,0,2,2,0,17,maania; epstein; fänn; brian; biitel; ameerika; ivo
+1,2,1,2,0,0,2,2,0,17,maania; epstein; fänn; brian; biitel; ameerika; ivo
+1,2,1,2,0,0,2,2,0,17,maania; epstein; fänn; brian; biitel; ameerika; ivo
+1,2,1,2,0,0,2,2,0,17,maania; epstein; fänn; brian; biitel; ameerika; ivo
+1,2,1,2,0,1,1,2,0,17,maania; epstein; fänn; brian; biitel; ameerika
+0,2,1,1,0,1,1,2,0,17,maania; epstein; fänn; bbc; ameerika
+1,0,1,2,0,2,1,3,0,17,maania; lennon; fänn; brian; biitel; epstein; ameerika; ringo; bbc
+2,0,2,1,0,1,2,0,0,17,vello; lennon; salumets; epstein; brian; bbc; ameerika
+0,2,1,3,0,5,1,2,0,17,ivo; fänn; ameerika; john; salumets; vello; bbc; linn
+1,2,1,1,0,3,3,2,0,17,linn; epstein; fänn; vello; bbc; ameerika; ivo

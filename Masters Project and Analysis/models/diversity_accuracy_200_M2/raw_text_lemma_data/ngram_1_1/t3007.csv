@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,0,1,0,1,15,narkootikum; viljastamine; tõnis; hellar
-1,1,2,0,1,0,1,0,1,15,tõnis; viljastamine; hellar; bush; narkootikum
-1,1,2,0,1,0,1,0,1,15,tõnis; viljastamine; hellar; bush; narkootikum
-1,1,3,0,1,1,0,0,1,15,bush; tõnis; viljastamine; hellar; kunstlik; narkootikum
-1,1,2,0,1,1,1,0,1,15,tõnis; viljastamine; hellar; palts; bush; narkootikum
-1,1,3,0,2,1,2,0,1,15,tõnis; viljastamine; hellar; palts; bush; narkootikum
-1,1,1,0,2,1,2,2,1,15,tõnis; viljastamine; palts; bush; narkootikum
-1,2,3,2,3,2,2,4,1,15,viljastamine; hellar; narkootikum; tõnis; palts; kunstlik; bush
-2,2,3,4,3,3,2,4,0,15,viljastamine; hellar; narkootikum; palts; kunstlik; bush; keeld
-2,1,1,4,3,3,2,4,0,15,viljastamine; hellar; narkootikum; palts; kunstlik; bush; keeld
-3,3,1,5,3,4,2,5,0,15,viljastamine; hellar; narkootikum; palts; kunstlik; bush; keeld
+3,3,3,2,0,1,3,3,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; hellar; tõnis; linnapea
+3,3,5,2,1,3,3,3,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; hellar; tõnis; bush; linnapea
+3,3,5,2,1,3,4,3,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; hellar; tõnis; bush; linnapea
+3,3,3,2,1,4,3,3,1,15,kunstlik; venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; hellar; tõnis; bush; linnapea
+3,3,3,2,1,3,3,3,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; palts; hellar; tõnis; bush; linnapea
+2,3,4,2,2,2,3,4,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; palts; hellar; tõnis; bush; linnapea
+1,3,1,3,2,2,3,6,1,15,venemaa; viljastamine; umbusaldamine; narkootikum; haigekassa; palts; tõnis; bush; linnapea
+1,4,3,4,3,3,2,6,1,15,kunstlik; venemaa; viljastamine; narkootikum; umbusaldamine; haigekassa; palts; hellar; tõnis; bush; linnapea
+2,4,3,6,3,4,2,6,1,15,kunstlik; viljastamine; narkootikum; umbusaldamine; haigekassa; palts; keeld; hellar; bush; linnapea
+2,2,1,5,3,3,2,5,1,15,kunstlik; viljastamine; narkootikum; haigekassa; palts; keeld; hellar; bush; linnapea
+3,4,1,6,3,4,2,6,2,15,kunstlik; viljastamine; narkootikum; umbusaldamine; haigekassa; palts; keeld; hellar; bush; linnapea

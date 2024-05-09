@@ -5,8 +5,8 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,0,0,0,0,0,0,0,10,
 0,0,0,0,0,0,0,0,0,10,
 0,0,0,0,0,0,0,0,0,10,
-0,0,0,0,0,0,0,2,0,10,lend; leningrad
-1,0,0,1,0,0,0,2,0,10,mälestus; volga; lend
+0,0,0,0,0,0,2,0,0,10,leningrad; lend
+1,0,0,1,0,0,2,0,0,10,volga; lend; mälestus
 0,0,0,1,0,0,0,0,0,10,volga
-1,0,1,1,0,0,0,0,0,10,sõda; volga; leningrad
-0,0,0,0,0,0,0,1,1,10,sõda
+1,0,1,1,0,0,0,0,0,10,volga; leningrad; sõda
+0,0,0,0,0,0,1,1,0,10,sõda

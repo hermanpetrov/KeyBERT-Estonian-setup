@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,0,0,1,0,1,1,14,porto; santana; madeira
-3,1,2,0,0,1,0,1,1,14,porto; santana; madeira
-3,1,2,0,0,1,0,1,1,14,porto; santana; madeira
-3,1,2,0,0,1,0,1,1,14,porto; santana; madeira
-3,1,1,0,0,1,0,1,1,14,porto; santana; madeira
-3,1,2,0,0,1,0,2,1,14,porto; santana; madeira; bassein
-1,2,2,4,0,1,0,1,1,14,porto; vanalinn; santana; madeira; bassein
-2,1,3,2,0,2,1,2,1,14,porto; vanalinn; santana; madeira
-0,1,1,3,0,1,1,4,0,14,loodus; porto; santana; madeira; õhutramm
-0,1,2,2,0,1,1,2,0,14,porto; vanalinn; madeira
-0,1,3,2,1,2,2,3,0,14,porto; vanalinn; madeira; õhutramm; puuvili
+3,1,2,0,0,0,1,1,0,14,madeira; santana; porto
+3,1,2,0,0,0,1,1,0,14,madeira; santana; porto
+3,1,2,0,0,0,1,1,0,14,madeira; santana; porto
+3,1,2,0,0,0,1,1,0,14,madeira; santana; porto
+3,1,1,0,0,0,1,1,0,14,porto; madeira; santana
+3,1,2,0,0,0,2,1,0,14,madeira; santana; bassein; porto
+1,2,2,4,0,0,1,1,0,14,vanalinn; madeira; santana; bassein; porto
+2,1,3,2,0,1,2,1,0,14,vanalinn; madeira; santana; porto
+0,1,1,3,0,1,4,0,0,14,õhutramm; loodus; madeira; santana; porto
+0,1,2,2,0,1,2,0,0,14,porto; vanalinn; madeira
+0,1,3,2,1,2,3,0,0,14,õhutramm; vanalinn; madeira; porto

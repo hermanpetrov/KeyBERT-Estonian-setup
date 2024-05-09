@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,1,1,1,2,16,levimuusika; usa; kennedy; naissoo
-1,1,0,0,0,1,1,1,1,16,levimuusika; usa; naissoo
-1,1,0,0,0,1,1,1,1,16,levimuusika; usa; naissoo
-1,1,1,0,0,1,1,1,1,16,bob; levimuusika; usa; naissoo
-1,1,1,0,0,1,1,2,1,16,levimuusika; usa; bob; naissoo
-1,1,1,0,0,0,1,1,1,16,levimuusika; usa; bob; john; naissoo
-0,1,1,0,0,0,2,1,1,16,kennedy; usa; bob; john; naissoo
-0,1,1,0,0,0,2,0,1,16,kennedy; usa; bob; john; naissoo
-0,2,1,0,0,0,1,0,1,16,kennedy; usa; nsv; bob; naissoo
-0,2,1,0,0,1,2,0,0,16,kennedy; nsv; bob; naissoo
-0,1,0,0,1,2,1,0,1,16,kennedy; usa; bob; john; naissoo
+1,1,0,0,0,1,1,2,0,16,naissoo; levimuusika; kennedy; usa
+1,1,0,0,0,1,1,1,0,16,naissoo; levimuusika; usa
+1,1,0,0,0,1,1,1,0,16,naissoo; levimuusika; usa
+1,1,1,0,0,1,1,1,0,16,naissoo; levimuusika; bob; usa
+1,1,1,0,0,1,2,1,0,16,levimuusika; naissoo; bob; usa
+1,1,1,0,0,1,1,1,0,16,john; levimuusika; naissoo; bob; usa
+0,1,1,0,0,2,1,1,0,16,john; kennedy; naissoo; bob; usa
+0,1,1,0,0,2,0,1,0,16,john; kennedy; naissoo; bob; usa
+0,2,1,0,0,1,0,1,0,16,nsv; kennedy; naissoo; bob; usa
+0,2,1,0,0,2,0,0,0,16,kennedy; nsv; naissoo; bob
+0,1,0,0,1,1,0,1,0,16,john; naissoo; kennedy; usa

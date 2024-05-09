@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,2,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-2,1,0,2,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-2,1,0,2,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-2,1,0,2,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-2,1,0,2,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-2,1,1,2,0,0,0,2,2,17,luuletaja; antoloogia; mart; alver; paul-eerik; bett; rummo
-2,1,0,0,0,0,0,2,2,17,mart; paul-eerik; bett; rummo; antoloogia; alver
-4,1,0,2,0,0,2,2,2,17,luuletaja; eesti; muru; antoloogia; mart; alver; paul-eerik; bett; rummo
-3,1,0,3,0,1,1,2,2,17,luuletaja; eesti; antoloogia; alver; paul-eerik; bett; rummo
-5,1,0,0,0,2,1,3,2,17,mäger; luuletaja; eesti; muru; antoloogia; alver; paul-eerik; bett; rummo
-6,0,0,0,0,2,0,4,2,17,karl; mäger; luuletaja; eesti; muru; antoloogia; alver; mart; paul-eerik; bett; rummo
+2,1,0,2,0,1,1,3,2,17,rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,0,2,0,1,1,3,2,17,rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,0,2,0,1,1,3,2,17,rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,0,2,0,1,1,3,2,17,rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,0,2,0,1,1,3,2,17,rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,1,2,0,1,1,3,2,17,luuletaja; rummo; alver; antoloogia; bett; mart; luulealbum; paul-eerik
+2,1,1,0,0,1,1,3,2,17,rummo; alver; mart; luulealbum; antoloogia; paul-eerik; bett
+4,1,1,2,0,1,3,3,2,17,luuletaja; rummo; alver; eesti; antoloogia; bett; muru; mart; luulealbum; paul-eerik
+3,1,0,4,0,2,2,3,2,17,luuletaja; rummo; alver; eesti; antoloogia; bett; luulealbum; paul-eerik
+5,1,0,0,0,3,2,4,2,17,luuletaja; rummo; alver; eesti; mäger; antoloogia; bett; muru; luulealbum; paul-eerik
+6,0,1,0,0,3,1,5,2,17,luuletaja; rummo; alver; eesti; mäger; antoloogia; bett; muru; mart; luulealbum; karl; paul-eerik

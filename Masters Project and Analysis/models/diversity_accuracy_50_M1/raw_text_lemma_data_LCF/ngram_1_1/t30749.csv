@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,1,0,0,0,0,0,0,12,mägi
-0,0,2,0,0,0,0,0,0,12,mägi; madeira
-0,0,2,0,0,0,0,0,0,12,mägi; madeira
-0,0,0,0,0,0,0,0,0,12,
-0,0,1,0,0,0,0,0,0,12,madeira
-0,0,1,0,0,1,0,0,0,12,mägi; madeira
-0,0,0,0,0,1,0,0,0,12,madeira
-0,1,1,0,0,1,0,0,0,12,loodus; madeira
-0,0,1,1,0,1,0,0,0,12,madeira
+0,0,1,0,0,1,1,2,0,12,hiiumaa; reisipalavik; mägi
+0,0,1,0,0,1,1,2,0,12,hiiumaa; reisipalavik; mägi
+0,0,1,0,0,1,1,2,0,12,hiiumaa; reisipalavik; mägi
+0,0,2,0,0,1,1,2,0,12,hiiumaa; reisipalavik; madeira; mägi
+0,0,2,0,0,1,1,2,0,12,hiiumaa; reisipalavik; madeira; mägi
+0,0,0,0,0,1,1,2,0,12,hiiumaa; reisipalavik; vanalinn
+1,0,2,0,0,0,1,2,0,12,hiiumaa; reisipalavik; õhutramm; madeira
+1,0,1,0,0,1,1,3,0,12,hiiumaa; reisipalavik; õhutramm; madeira; mägi
+1,0,0,0,0,1,1,3,0,12,hiiumaa; reisipalavik; õhutramm; madeira
+1,1,1,0,0,2,1,1,0,12,hiiumaa; reisipalavik; madeira; loodus
+1,0,1,1,0,1,1,1,0,12,hiiumaa; reisipalavik; madeira

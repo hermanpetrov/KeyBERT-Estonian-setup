@@ -6,7 +6,7 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 1,0,0,0,0,0,2,0,1,13,eesti; nüüdismuusika
 1,0,0,0,0,0,0,0,1,13,eesti; nüüdismuusika
 0,0,0,0,0,0,0,0,1,13,eesti
-0,0,0,0,0,0,1,0,2,13,eesti; helilooja; muusika
-0,0,0,2,0,1,1,0,2,13,helilooja; muusika; tamberg; eesti
-0,0,0,1,1,1,0,0,1,13,eesti; steinway; tamberg
+0,0,0,0,0,0,1,0,2,13,muusika; helilooja; eesti
+0,0,0,2,0,1,1,0,2,13,muusika; helilooja; tamberg; eesti
+0,0,0,1,1,1,0,0,1,13,tamberg; steinway; eesti
 0,0,0,0,1,1,0,0,1,13,eesti; steinway; tamberg

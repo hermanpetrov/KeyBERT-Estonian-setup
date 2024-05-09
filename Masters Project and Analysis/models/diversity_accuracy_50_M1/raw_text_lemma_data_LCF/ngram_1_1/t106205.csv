@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,4,1,0,1,0,1,1,12,merivoo-parro; televiisor; aeg; energia; raadio
-1,1,4,1,0,1,0,1,1,12,merivoo-parro; televiisor; aeg; energia; raadio
-1,1,4,1,0,1,0,1,1,12,merivoo-parro; televiisor; aeg; energia; raadio
-1,1,4,1,0,1,0,1,1,12,merivoo-parro; televiisor; aeg; energia; raadio
-1,1,3,1,0,1,0,1,1,12,merivoo-parro; televiisor; aeg; energia; raadio
-1,1,4,1,0,0,1,0,1,12,aeg; merivoo-parro; televiisor; maarja; energia; raadio
-1,0,4,0,1,1,2,1,1,12,aeg; merivoo-parro; televiisor; maarja; energia; raadio
-1,0,4,3,1,1,2,2,1,12,aeg; merivoo-parro; televiisor; ansambel; maarja; energia; raadio
-1,0,4,1,1,0,2,1,0,12,merivoo-parro; ansambel; maarja; energia; raadio
-0,0,3,0,1,1,1,1,0,12,merivoo-parro; televiisor; maarja; energia; raadio
-0,0,3,0,2,2,2,1,0,12,aeg; merivoo-parro; televiisor; maarja; energia; raadio
+2,1,4,2,0,2,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek
+2,1,4,2,0,2,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek
+2,1,4,2,0,2,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek
+2,1,4,2,0,2,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek
+2,1,3,2,0,2,0,2,1,12,raadio; hommikuprogramm; merivoo-parro; televiisor; energia; aeg; klassikokkutulek
+2,1,4,2,0,0,1,1,1,12,raadio; hommikuprogramm; merivoo-parro; maarja; energia; televiisor; aeg; klassikokkutulek
+2,0,4,1,1,2,2,2,1,12,televiisor; energia; aeg; klassikokkutulek; raadio; hommikuprogramm; merivoo-parro; maarja
+2,0,4,3,1,1,4,3,1,12,televiisor; energia; aeg; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja; hommikuprogramm
+2,0,4,1,1,0,3,2,0,12,energia; klassikokkutulek; raadio; ansambel; merivoo-parro; maarja; hommikuprogramm
+1,0,3,0,1,1,2,1,0,12,raadio; hommikuprogramm; merivoo-parro; maarja; energia; televiisor; klassikokkutulek
+0,1,3,0,2,2,3,1,0,12,televiisor; aeg; energia; hommikuprogramm; raadio; merivoo-parro; maarja

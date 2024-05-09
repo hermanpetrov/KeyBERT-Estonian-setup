@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-2,1,1,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-2,1,1,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-2,1,1,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-2,1,1,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-2,1,0,0,0,0,0,1,1,12,ühiskond; sõda; ökoloogiline
-0,0,0,0,0,0,0,0,0,12,
-2,0,0,1,0,0,0,1,0,12,ühiskond; nälg; sõda; arheoloog
-1,0,1,0,0,2,1,1,0,12,ühiskond; sõda; ökoloogiline
-2,0,0,0,0,1,1,2,1,12,ühiskond; sõda; ökoloogiline
-2,1,0,0,0,0,1,1,0,12,arheoloog; sõda; ökoloogiline
+2,2,1,0,0,0,0,1,4,12,ellujäämine; sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+2,2,1,0,0,0,0,1,4,12,ellujäämine; sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+2,2,1,0,0,0,0,1,4,12,ellujäämine; sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+2,2,1,0,0,0,0,1,4,12,ellujäämine; sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+2,1,1,0,0,0,0,1,3,12,sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+2,1,0,0,0,0,0,1,3,12,sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+0,0,0,0,0,0,0,0,1,12,rahvaarv
+2,1,0,1,0,0,0,1,1,12,arheoloog; ühiskond; nälg; rahvaarv; tasakaal; sõda
+2,0,1,0,0,2,1,2,1,12,inimloomus; sõda; rahvaarv; tasakaal; ökoloogiline; ühiskond
+3,1,0,1,1,1,1,2,2,12,ellujäämine; inimloomus; ühiskond; tasakaal; ökoloogiline; sõda
+3,1,1,0,1,0,1,1,0,12,arheoloog; inimloomus; rahvaarv; tasakaal; ökoloogiline; sõda

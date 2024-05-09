@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,3,0,0,0,1,0,3,0,12,villem; mimmi; mõisnik; kubjas; kristus; proua
-1,3,0,0,0,1,0,3,0,12,villem; mimmi; mõisnik; kubjas; kristus; proua
-1,3,0,0,0,1,0,3,0,12,villem; mimmi; mõisnik; kubjas; kristus; proua
-1,3,0,0,0,1,0,3,0,12,villem; mimmi; mõisnik; kubjas; kristus; proua
-1,3,0,0,0,1,0,3,0,12,villem; mimmi; mõisnik; kubjas; kristus; proua
-1,1,1,0,0,1,0,3,0,12,mõisnik; villem; kristus; kubjas; mõisavalitseja
-0,0,1,0,0,2,0,3,0,12,mõisnik; villem; kristus; eduard; mõisavalitseja
-0,0,1,0,0,1,0,2,0,12,kristus; eduard
-0,0,0,0,0,0,0,2,0,12,kristus; eduard
-2,0,1,0,0,1,1,0,0,12,kristus; mimmi; mõisnik; kubjas; hobune
-2,0,1,0,0,0,1,2,0,12,villem; mimmi; eduard; kristus; kubjas; hobune
+1,3,0,0,0,0,3,0,0,12,proua; villem; kristus; mõisnik; kubjas; mimmi
+1,3,0,0,0,0,3,0,0,12,proua; villem; kristus; mõisnik; kubjas; mimmi
+1,3,0,0,0,0,3,0,0,12,proua; villem; kristus; mõisnik; kubjas; mimmi
+1,3,0,0,0,0,3,0,0,12,proua; villem; kristus; mõisnik; kubjas; mimmi
+1,3,0,0,0,0,3,0,0,12,proua; villem; kristus; mõisnik; kubjas; mimmi
+1,1,1,0,0,0,3,0,0,12,kristus; villem; mõisavalitseja; kubjas
+0,0,1,0,0,0,3,0,0,12,mõisavalitseja; villem; kristus
+0,0,1,0,0,0,2,0,0,12,eduard; kristus
+0,0,0,0,0,0,2,0,0,12,eduard; kristus
+2,0,1,0,0,1,0,0,0,12,kristus; hobune; kubjas; mimmi
+2,0,1,0,0,1,2,0,0,12,mimmi; kristus; villem; eduard; hobune; kubjas

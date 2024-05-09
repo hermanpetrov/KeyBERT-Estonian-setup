@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,5,1,0,4,3,3,1,13,paanikapuhang; pidalitõbi; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-2,1,5,1,0,4,3,3,1,13,paanikapuhang; pidalitõbi; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-2,1,5,1,0,4,3,3,0,13,paanikapuhang; pidalitõbi; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-2,1,5,1,0,4,3,3,0,13,paanikapuhang; pidalitõbi; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-2,1,5,1,0,4,3,3,0,13,paanikapuhang; pidalitõbi; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-2,1,4,1,0,2,2,4,0,13,hellat; paanikapuhang; doktoritöö; peeter; balti; tartu; arstiteadus; pidalitõbi
-2,1,3,0,0,2,1,3,0,13,paanikapuhang; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-3,1,3,0,0,2,1,3,0,13,paanikapuhang; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-1,1,1,3,0,2,2,3,0,13,paanikapuhang; doktoritöö; peeter; balti; tartu; arstiteadus; hellat
-1,1,2,3,0,2,2,3,1,13,balti; paanikapuhang; tartu; arstiteadus; doktoritöö; peeter
-1,1,1,3,0,2,3,2,1,13,balti; paanikapuhang; tartu; arstiteadus; doktoritöö; peeter
+2,1,5,1,0,3,3,1,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; balti; pidalitõbi
+2,1,5,1,0,3,3,1,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; balti; pidalitõbi
+2,1,5,1,0,3,3,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; balti; pidalitõbi
+2,1,5,1,0,3,3,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; balti; pidalitõbi
+2,1,5,1,0,3,3,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; balti; pidalitõbi
+2,1,4,1,0,2,4,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; doktoritöö; balti; pidalitõbi
+2,1,3,0,0,1,3,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; doktoritöö; balti
+3,1,3,0,0,1,3,0,0,13,peeter; hellat; arstiteadus; tartu; paanikapuhang; doktoritöö; balti
+1,1,1,3,0,2,3,0,0,13,paanikapuhang; peeter; doktoritöö; balti; hellat; arstiteadus; tartu
+1,1,2,3,0,2,3,1,0,13,paanikapuhang; peeter; doktoritöö; balti; arstiteadus; tartu
+1,1,1,3,0,3,2,1,0,13,paanikapuhang; peeter; doktoritöö; balti; arstiteadus

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,4,1,2,2,2,3,0,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,4,1,2,2,2,3,0,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,4,1,2,2,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,4,1,2,2,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,3,1,2,2,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,3,1,2,2,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; keel; elizabeth
-2,1,3,1,2,2,2,3,1,10,hollandlanna; elizabeth; laul; california; tekst
-2,2,3,1,2,3,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; elizabeth
-3,1,2,1,2,2,2,3,1,10,muusikaline; hollandlanna; laul; california; tekst; elizabeth
-1,1,2,0,2,2,1,3,1,10,muusikaline; hollandlanna; elizabeth; laul; tekst
-0,1,3,1,2,1,3,3,1,10,hollandlanna; pala; laul; california; tekst; keel; elizabeth
+2,1,4,1,2,2,2,4,0,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,4,1,2,2,2,4,0,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,4,1,2,2,2,4,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,4,1,2,2,2,4,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,3,1,2,2,2,4,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,3,1,2,2,2,4,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; keel; california; laul
+2,1,3,1,2,2,2,3,2,10,sooloettevõtmine; elizabeth; california; tekst; laul; hollandlanna
+2,2,3,1,2,3,2,3,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; california; laul
+3,1,2,1,2,2,2,3,2,10,elizabeth; muusikaline; tekst; hollandlanna; sooloettevõtmine; california; laul
+1,1,2,0,2,2,1,3,2,10,sooloettevõtmine; elizabeth; muusikaline; hollandlanna; tekst; laul
+0,1,3,1,2,1,3,3,2,10,elizabeth; tekst; hollandlanna; sooloettevõtmine; keel; california; pala; laul

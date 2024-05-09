@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,0,1,0,0,0,0,1,0,12,pevkur; isamaa
-0,1,1,0,0,0,0,1,0,12,pevkur; isamaa; haigekassa
-0,2,1,0,0,0,0,1,0,12,pevkur; hõff; isamaa; haigekassa
-0,1,1,1,0,0,0,1,0,12,hõff; jaapan; isamaa; pevkur
-0,1,1,1,0,0,0,0,0,12,hõff; jaapan; pevkur
-0,2,1,1,0,0,0,0,0,12,hõff; jaapan; pevkur
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,0,1,0,0,0,1,0,0,12,pevkur; isamaa
+0,1,1,0,0,0,1,0,0,12,pevkur; isamaa; haigekassa
+0,2,1,0,0,0,1,0,0,12,hõff; pevkur; isamaa; haigekassa
+0,1,1,1,0,0,1,0,0,12,hõff; pevkur; isamaa; jaapan
+0,1,1,1,0,0,0,0,0,12,hõff; pevkur; jaapan
+0,2,1,1,0,0,0,0,0,12,hõff; pevkur; jaapan

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,3,1,1,2,2,2,3,13,halb; harry; diskussioon; kompositsioon; tsensuur; marco; solvang
-3,3,4,1,1,2,2,2,3,13,halb; harry; marco; kompositsioon; tsensuur; diskussioon; solvang
-3,4,3,0,1,2,2,2,3,13,halb; harry; marco; kompositsioon; nali; tsensuur; diskussioon; solvang
-3,4,3,0,1,3,3,2,3,13,halb; harry; marco; kompositsioon; nali; tsensuur; diskussioon; solvang
-3,4,4,0,0,4,4,2,3,13,halb; harry; marco; kompositsioon; nali; tsensuur; diskussioon; solvang
-2,3,3,1,1,1,4,2,2,13,halb; harry; diskussioon; kompositsioon; nali; marco; solvang
-2,3,3,1,1,3,3,4,2,13,harry; marco; kompositsioon; nali; diskussioon; solvang
-2,3,4,5,1,1,3,4,2,13,halb; harry; diskussioon; kompositsioon; nali; tsensuur; marco; solvang
-0,3,2,5,4,1,3,3,2,13,halb; harry; diskussioon; kompositsioon; nali; tsensuur; marco; solvang
-0,2,3,3,5,1,3,3,1,13,halb; harry; marco; nali; tsensuur; diskussioon; solvang
-2,3,4,4,5,1,3,3,1,13,halb; harry; marco; kompositsioon; nali; tsensuur; diskussioon; solvang
+6,4,4,2,1,3,4,4,3,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; harry; solvang; diskussioon; halb; kompositsioon
+6,4,5,2,1,3,4,4,3,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; harry; solvang; diskussioon; halb; kompositsioon
+6,5,4,1,1,3,6,6,3,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; harry; solvang; diskussioon; halb; nali; kompositsioon
+6,5,4,1,1,5,7,6,3,13,hobusepea; liivrand; tsensuur; kunstimaailm; kompositsioon; identiteedikriis; marco; solvang; diskussioon; halb; nali; harry
+6,7,4,1,0,6,8,6,3,13,hobusepea; liivrand; tsensuur; kunstimaailm; kompositsioon; identiteedikriis; marco; solvang; diskussioon; halb; nali; harry
+5,6,5,2,1,3,8,6,2,13,hobusepea; identiteedikriis; liivrand; marco; kunstimaailm; harry; solvang; diskussioon; halb; nali; kompositsioon
+4,6,6,4,1,5,6,8,2,13,hobusepea; identiteedikriis; liivrand; marco; kunstimaailm; harry; solvang; diskussioon; nali; kompositsioon
+4,6,7,7,1,1,5,7,3,13,hobusepea; identiteedikriis; liivrand; marco; tsensuur; kunstimaailm; harry; solvang; diskussioon; halb; nali; kompositsioon
+2,6,4,6,4,2,6,5,2,13,hobusepea; identiteedikriis; liivrand; marco; kompositsioon; tsensuur; kunstimaailm; solvang; diskussioon; nali; halb; harry
+0,5,5,4,5,1,5,5,3,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; solvang; diskussioon; nali; halb; harry
+3,6,6,5,5,2,5,5,4,13,hobusepea; identiteedikriis; liivrand; marco; tsensuur; kunstimaailm; harry; solvang; diskussioon; nali; halb; kompositsioon

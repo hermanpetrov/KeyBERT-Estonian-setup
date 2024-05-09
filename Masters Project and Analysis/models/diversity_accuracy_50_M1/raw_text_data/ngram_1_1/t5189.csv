@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,1,2,1,1,0,17,jäätmete; laidoneri; konkurentsivõime; venemaa; probleem; sortimine
-0,0,3,0,1,2,1,1,0,17,jäätmete; laidoneri; konkurentsivõime; venemaa; probleem; sortimine
-0,0,1,0,1,2,1,1,0,17,jäätmete; konkurentsivõime; venemaa; probleem
-0,0,2,0,1,2,1,0,0,17,jäätmete; konkurentsivõime; venemaa; probleem
-0,0,1,0,1,0,1,0,0,17,venemaa; probleem; konkurentsivõime
-2,0,2,0,1,1,2,0,0,17,jäätmete; muuseum; konkurentsivõime; venemaa; probleem; gruusia
-1,0,2,1,1,2,2,1,0,17,muuseum; konkurentsivõime; venemaa; probleem; sortimine; gruusia
-0,0,1,0,1,1,1,1,0,17,konkurentsivõime; probleem; sortimine; eentalu
-1,0,1,0,1,2,1,1,0,17,konkurentsivõime; riina; probleem; gruusia
-1,0,0,2,1,1,2,1,0,17,õunpuu; muuseum; konkurentsivõime; probleem; gruusia
-2,0,1,1,1,2,2,1,0,17,muuseum; konkurentsivõime; probleem; sortimine; gruusia
+0,0,3,0,1,2,1,1,0,17,konkurentsivõime; jäätmete; laidoneri; venemaa; sortimine; probleem
+0,0,3,0,1,2,1,1,0,17,konkurentsivõime; jäätmete; laidoneri; venemaa; sortimine; probleem
+0,0,1,0,1,2,1,1,0,17,konkurentsivõime; jäätmete; venemaa; probleem
+0,0,2,0,1,2,1,0,0,17,konkurentsivõime; jäätmete; venemaa; probleem
+0,0,1,0,1,0,1,0,0,17,konkurentsivõime; venemaa; probleem
+2,0,2,0,1,1,2,0,0,17,konkurentsivõime; jäätmete; venemaa; gruusia; muuseum; probleem
+1,0,2,1,1,2,2,1,0,17,konkurentsivõime; venemaa; gruusia; probleem; muuseum; sortimine
+0,0,1,0,1,1,1,1,0,17,konkurentsivõime; eentalu; sortimine; probleem
+1,0,1,0,1,2,1,1,0,17,konkurentsivõime; gruusia; riina; probleem
+1,0,0,2,1,1,2,1,0,17,konkurentsivõime; õunpuu; gruusia; muuseum; probleem
+2,0,1,1,1,2,2,1,0,17,konkurentsivõime; gruusia; probleem; muuseum; sortimine

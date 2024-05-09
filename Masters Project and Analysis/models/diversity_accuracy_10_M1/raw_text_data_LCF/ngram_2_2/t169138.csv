@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,0,0,1,1,2,0,12,lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,3,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,3,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,3,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,2,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,2,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-1,1,2,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-1,1,2,0,0,1,1,2,2,12,john; mccain; lasteporno; tarkus; arhiveerima; jälitamiskohustus; lamar
-2,1,2,2,0,1,1,1,2,12,tarkus; john; kristjan; mccain; arhiveerima; port; jälitamiskohustus; lamar
-2,1,3,0,0,1,1,2,2,12,kristjan; port; john; lamar; tarkus; mccain; arhiveerima; jälitamiskohustus
-1,1,4,1,0,1,0,1,2,12,john; kristjan; mccain; lasteporno; tarkus; port; jälitamiskohustus; lamar
+2,1,3,0,0,1,2,0,0,12,lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+2,1,3,0,0,1,2,2,0,12,john; mccain; lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+2,1,3,0,0,1,2,2,0,12,john; mccain; lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+2,1,3,0,0,1,2,2,0,12,john; mccain; lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+2,1,2,0,0,1,2,2,0,12,john; mccain; lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+2,1,2,0,0,1,2,2,0,12,john; mccain; lamar; jälitamiskohustus; tarkus; lasteporno; arhiveerima
+1,1,2,0,0,1,2,2,0,12,john; mccain; lamar; tarkus; jälitamiskohustus; lasteporno; arhiveerima
+1,1,2,0,0,1,2,2,0,12,john; mccain; lamar; tarkus; jälitamiskohustus; lasteporno; arhiveerima
+2,1,2,2,0,1,1,2,0,12,john; kristjan; mccain; lamar; jälitamiskohustus; tarkus; port; arhiveerima
+2,1,3,0,0,1,2,2,0,12,tarkus; port; arhiveerima; john; kristjan; mccain; lamar; jälitamiskohustus
+1,1,4,1,0,0,1,2,0,12,john; kristjan; mccain; lamar; jälitamiskohustus; lasteporno; port

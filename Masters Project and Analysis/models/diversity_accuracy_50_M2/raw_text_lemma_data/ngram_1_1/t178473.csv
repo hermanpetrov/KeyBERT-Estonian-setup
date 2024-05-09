@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,0,0,1,0,14,koguma; kirjanik
-0,1,2,0,0,0,0,1,0,14,koguma; kirjanik
-0,1,2,0,0,0,0,1,0,14,koguma; kirjanik
-0,1,2,0,0,0,0,1,0,14,koguma; kirjanik
-0,1,2,0,0,0,0,1,0,14,koguma; kirjanik
-0,1,0,0,0,0,2,0,0,14,koguma; kirjanik; autor
-0,1,0,0,0,0,2,0,0,14,koguma; kirjanik; autor
-0,1,0,0,0,0,0,0,0,14,kirjanik
-0,1,0,0,0,0,2,1,0,14,liiber; kana; kirjanik; saar
-0,1,1,0,0,0,2,0,0,14,liiber; kana; kirjanik
-0,1,0,0,0,0,1,1,0,14,liiber; kana; kirjanik
+1,1,3,1,0,0,0,1,0,14,koguma; raamatukogu; kirjanik; käekiri
+1,1,3,1,0,0,0,1,0,14,koguma; raamatukogu; kirjanik; käekiri
+1,1,3,1,0,0,0,1,0,14,koguma; raamatukogu; kirjanik; käekiri
+1,1,3,1,0,0,0,1,0,14,koguma; raamatukogu; kirjanik; käekiri
+1,1,3,1,0,0,0,2,0,14,koguma; raamatukogu; kirjanik; käekiri
+1,1,1,1,0,0,2,1,0,14,koguma; autor; raamatukogu; kirjanik; käekiri
+1,1,1,1,0,0,2,1,0,14,koguma; autor; raamatukogu; kirjanik; käekiri
+1,1,2,0,0,0,0,1,0,14,käekiri; raamatukogu; kirjanik
+0,1,2,0,0,0,2,1,0,14,raamatukogu; kirjanik; käekiri; liiber; kana; saar
+0,1,2,0,0,0,2,1,0,14,kana; raamatukogu; kirjanik; liiber
+0,1,1,0,0,0,1,2,0,14,raamatukogu; kirjanik; liiber; kana

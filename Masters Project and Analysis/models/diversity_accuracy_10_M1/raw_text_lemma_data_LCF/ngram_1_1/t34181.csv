@@ -1,9 +1,9 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,0,1,0,0,15,kriitik; kunstnik
-0,0,1,0,0,0,1,0,0,15,kriitik; kunstnik
-0,0,1,0,0,0,1,0,0,15,kriitik; kunstnik
-0,0,0,0,0,0,1,0,0,15,kriitik
-0,0,0,0,0,0,1,0,0,15,kriitik
+0,0,1,0,0,0,1,1,0,15,kunstnik; kriitik; kunstimaailm
+0,0,1,0,0,0,1,1,0,15,kunstnik; kriitik; kunstimaailm
+0,0,1,0,0,0,1,1,0,15,kunstnik; kriitik; kunstimaailm
+0,0,0,0,0,0,1,1,0,15,kriitik; kunstimaailm
+0,0,0,0,0,0,1,1,0,15,kriitik; kunstimaailm
 0,0,0,0,0,0,1,0,0,15,kriitik
 0,0,0,0,0,0,1,0,0,15,kriitik
 0,0,0,0,0,0,1,1,0,15,kriitik; kuraator

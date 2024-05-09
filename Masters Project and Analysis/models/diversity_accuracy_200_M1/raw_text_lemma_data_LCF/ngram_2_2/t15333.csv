@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,2,5,1,3,2,2,3,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-5,4,2,5,1,3,2,2,3,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-6,4,1,5,0,3,3,2,3,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-5,4,2,5,0,3,1,1,3,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-5,4,3,5,2,2,2,1,3,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-3,5,2,4,2,3,2,1,4,14,hiidlane; tants; kirjandus; palmik; purjetamine; kalmus
-4,3,3,6,1,1,2,2,5,14,hiidlane; purjetamine; kirjandus; palmik; ain; tants; kalmus
-3,4,3,5,3,2,3,4,4,14,hiidlane; tants; kirjandus; palmik; ain; purjetamine; kalmus
-3,3,6,5,2,1,2,5,5,14,hiidlane; purjetamine; kirjandus; palmik; tants; kalmus
-2,3,4,5,3,3,3,4,5,14,hiidlane; purjetamine; kirjandus; palmik; tants; kalmus
-1,4,6,5,4,3,4,3,5,14,hiidlane; purjetamine; kirjandus; palmik; ain; tants; kalmus
+10,7,4,9,2,5,4,4,5,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+10,7,4,9,2,5,4,4,5,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+11,7,3,9,1,5,6,3,5,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+10,7,4,9,1,5,4,3,5,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+10,7,6,9,3,4,5,4,5,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+7,9,6,8,3,7,5,4,6,14,kalmus; meresõit; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+6,7,6,9,2,4,6,5,7,14,kalmus; meresõit; ain; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; nõelakoda; rahvariie; keskväljak
+4,7,5,7,4,5,5,7,6,14,hiiumaa; kalmus; meresõit; ain; purjetamine; rahvariie; keskväljak; palmik; kirjandus; hiidlane; tants
+5,6,9,7,3,5,5,9,6,14,kalmus; meresõit; purjetamine; palmik; kirjandus; hiidlane; tants; hiiumaa; rahvariie; keskväljak
+3,5,8,7,4,6,5,8,7,14,hiiumaa; kalmus; meresõit; rahvariie; purjetamine; palmik; keskväljak; kirjandus; hiidlane; tants
+2,6,9,7,6,5,5,6,7,14,hiiumaa; kalmus; meresõit; ain; purjetamine; rahvariie; palmik; keskväljak; kirjandus; hiidlane; tants

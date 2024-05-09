@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,1,0,0,1,1,2,18,indrek; komisjon; euroopa; saar
-0,0,3,1,0,0,1,1,2,18,indrek; komisjon; euroopa; saar
-0,0,3,1,0,0,1,1,2,18,indrek; komisjon; euroopa; saar
-0,0,3,1,0,0,1,1,2,18,indrek; komisjon; euroopa; saar
-0,0,3,1,0,0,1,1,2,18,indrek; komisjon; euroopa; saar
-0,0,3,1,0,0,1,0,2,18,indrek; komisjon; euroopa; saar
-0,0,2,2,0,1,1,1,2,18,ott; indrek; komisjon; euroopa; saar
-1,0,0,0,0,2,1,1,2,18,regioon; komisjon; euroopa
-1,0,3,1,0,2,1,0,0,18,regioon; andrus; ott; indrek; komisjon; euroopa; saar
-1,0,3,0,0,2,1,0,0,18,regioon; indrek; komisjon; euroopa; saar
-0,1,3,0,0,2,0,0,1,18,indrek; komisjon; euroopa; saar
+0,0,4,4,0,0,1,2,2,18,eelarve; komisjon; spordisõnum; tulistamisjuhtum; euroopa; indrek; saar
+0,0,4,3,0,0,1,2,2,18,spordisõnum; tulistamisjuhtum; komisjon; euroopa; eelarve; indrek; saar
+0,0,4,3,0,0,1,2,2,18,spordisõnum; tulistamisjuhtum; komisjon; euroopa; eelarve; indrek; saar
+0,0,4,3,0,0,1,2,2,18,spordisõnum; tulistamisjuhtum; komisjon; euroopa; eelarve; indrek; saar
+0,0,4,3,0,0,1,2,2,18,spordisõnum; tulistamisjuhtum; komisjon; euroopa; eelarve; indrek; saar
+0,0,4,3,0,0,1,1,2,18,spordisõnum; tulistamisjuhtum; komisjon; euroopa; eelarve; indrek; saar
+1,0,2,4,0,1,1,3,2,18,komisjon; ott; spordisõnum; päevakada; euroopa; indrek; saar
+1,1,0,1,0,2,1,3,2,18,päevakada; komisjon; euroopa; eelarve; spordisõnum; regioon
+1,0,3,2,1,3,1,2,0,18,andrus; eelarve; ott; komisjon; spordisõnum; abikaasa; päevakada; euroopa; indrek; regioon; saar
+2,0,4,1,1,2,1,2,1,18,eelarve; komisjon; spordisõnum; abikaasa; päevakada; euroopa; indrek; regioon; saar
+1,2,3,1,1,2,0,2,2,18,komisjon; eelarve; spordisõnum; abikaasa; päevakada; euroopa; indrek; saar

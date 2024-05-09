@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,5,6,4,5,5,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-4,5,5,6,3,5,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-3,4,5,6,3,5,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-3,5,5,6,3,4,7,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-4,4,5,6,3,4,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-3,3,6,6,3,5,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-4,3,5,4,3,6,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-5,3,6,6,5,6,6,7,6,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-6,4,5,5,5,6,6,7,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-5,4,5,5,5,6,5,5,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
-4,4,4,5,5,6,6,5,7,12,surmapattu; paul; toomas; süü; seitse; ahnus; liialdus
+4,5,5,6,4,5,7,7,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+4,5,5,6,3,6,7,7,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+3,4,5,6,3,6,7,7,0,12,seitse; süü; toomas; liialdus; surmapattu; paul; ahnus
+3,5,5,6,3,7,7,7,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+4,4,5,6,3,6,7,7,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+3,3,6,6,3,6,7,6,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+4,3,5,4,3,6,7,6,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+5,3,6,6,5,6,7,6,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+6,4,5,5,5,6,7,7,0,12,seitse; süü; toomas; liialdus; surmapattu; paul; ahnus
+5,4,5,5,5,5,5,7,0,12,paul; seitse; süü; toomas; surmapattu; liialdus; ahnus
+4,4,4,5,5,6,5,7,0,12,seitse; süü; toomas; liialdus; surmapattu; paul; ahnus

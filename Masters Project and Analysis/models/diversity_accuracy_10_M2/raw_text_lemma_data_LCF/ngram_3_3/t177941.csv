@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-1,0,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-1,0,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-1,0,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-1,0,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-1,1,1,0,0,0,2,3,1,14,margus; rapla; näitleja; tooming
-2,1,1,1,0,2,2,2,1,14,andres; rapla; margus; näitleja; tooming
-1,1,2,4,0,1,3,2,1,14,tooming; näitleja; jaak; margus; rapla; allik; jaan
-2,0,1,0,0,0,1,1,1,14,jaan; margus; rapla; näitleja
-2,2,1,0,0,3,2,2,1,14,margus; jaan; rapla; tooming; näitleja
-2,1,1,1,0,1,4,2,0,14,margus; jaan; rapla; allik; näitleja; jaak
+1,0,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+1,0,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+1,0,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+1,0,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+1,0,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+1,1,2,1,0,1,3,4,1,14,mikomägi; ajakirjanik; rapla; näitleja; margus; tooming
+2,1,2,1,0,3,3,3,1,14,mikomägi; rapla; margus; andres; tooming; näitleja
+1,1,3,4,0,2,4,3,1,14,mikomägi; jaak; rapla; allik; näitleja; jaan; margus; tooming
+2,0,2,0,0,0,1,2,1,14,jaan; mikomägi; rapla; margus; näitleja
+2,2,1,0,0,3,2,3,1,14,jaan; mikomägi; rapla; margus; tooming; näitleja
+2,1,1,1,0,1,4,3,0,14,mikomägi; jaak; rapla; allik; näitleja; jaan; margus

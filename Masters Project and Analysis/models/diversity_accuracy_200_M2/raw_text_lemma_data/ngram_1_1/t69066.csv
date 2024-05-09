@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,3,1,0,3,3,3,1,11,arhitekt; arendaja; tellija; arhitektuur; liit; kritiseerima; eetika
-2,4,1,1,0,3,4,2,2,11,arhitekt; arendaja; keskkond; tellija; arhitektuur; kritiseerima; eetika
-1,4,2,1,0,3,3,2,2,11,arhitekt; arendaja; tellija; arhitektuur; kritiseerima; eetika
-1,3,1,1,0,1,2,1,2,11,arhitekt; arendaja; tellija; kritiseerima; eetika; arhitektuur
-1,3,2,1,0,0,2,1,2,11,arhitekt; arendaja; tellija; kritiseerima; eetika; arhitektuur
-1,3,2,0,0,0,1,2,2,11,arhitekt; arendaja; keskkond; lammutama; tellija; kritiseerima; eetika
-0,1,2,2,0,1,1,2,2,11,arendaja; arhitekt; looming; tellija; kritiseerima; eetika; arhitektuur
-0,1,1,2,1,1,1,1,2,11,arhitekt; arendaja; looming; tellija; eetika; arhitektuur
-1,1,1,1,1,2,2,3,1,11,arhitekt; arendaja; looming; kritiseerima; eetika; arhitektuur
-1,0,0,2,2,2,2,0,1,11,arhitekt; arendaja; keskkond; looming; kritiseerima; eetika; arhitektuur
-2,0,2,2,2,1,1,1,0,11,arendaja; arhitekt; keskkond; tellija; kritiseerima; eetika; arhitektuur
+2,4,3,1,1,3,3,3,1,11,detailplaneering; kritiseerima; arhitektuur; eetika; tellija; arendaja; arhitekt; liit
+2,4,1,1,1,3,4,2,2,11,detailplaneering; kritiseerima; arhitektuur; eetika; keskkond; tellija; arendaja; arhitekt
+1,4,2,1,1,3,3,2,2,11,detailplaneering; kritiseerima; arhitektuur; eetika; tellija; arendaja; arhitekt
+1,3,1,1,1,1,2,1,2,11,detailplaneering; kritiseerima; eetika; arendaja; tellija; arhitektuur; arhitekt
+1,3,2,1,1,0,2,1,2,11,arhitektuur; eetika; detailplaneering; tellija; arendaja; arhitekt; kritiseerima
+1,3,2,0,1,0,1,2,2,11,lammutama; detailplaneering; kritiseerima; keskkond; eetika; tellija; arendaja; arhitekt
+0,1,2,2,1,1,1,2,2,11,detailplaneering; looming; tellija; kritiseerima; eetika; arendaja; arhitektuur; arhitekt
+0,1,1,3,2,1,1,1,2,11,tellija; detailplaneering; eetika; arendaja; looming; arhitektuur; arhitekt
+1,1,1,2,1,2,2,4,1,11,detailplaneering; looming; kritiseerima; arhitektuur; eetika; arendaja; arhitekt
+1,0,0,3,3,2,2,0,1,11,detailplaneering; looming; kritiseerima; eetika; keskkond; arendaja; arhitektuur; arhitekt
+2,0,2,3,2,1,1,1,0,11,detailplaneering; kritiseerima; eetika; keskkond; arendaja; tellija; arhitektuur; arhitekt

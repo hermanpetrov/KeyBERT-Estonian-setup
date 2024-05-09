@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,1,0,1,0,0,0,14,teater; revolutsionäär; utoopia
-0,1,1,1,0,1,0,0,1,14,teater; revolutsionäär; utoopia; kapitalism
-0,1,1,1,0,1,0,0,1,14,teater; revolutsionäär; utoopia; kontsert
-0,1,1,1,0,1,0,0,1,14,teater; revolutsionäär; utoopia; kontsert
-0,1,1,1,0,1,0,0,1,14,teater; revolutsionäär; utoopia; kontsert
-0,1,1,1,0,1,0,0,1,14,teater; revolutsionäär; utoopia; kontsert
-0,1,2,0,0,0,1,0,2,14,revolutsionäär; elmo; klassika; kontsert; kapitalism
-1,1,2,0,0,1,0,1,1,14,tammsaare; stoppard; elmo; kontsert; tsivilisatsioon
-0,0,0,0,0,0,2,0,2,14,stoppard; kapitalism; kontsert
-0,0,0,0,0,1,1,2,2,14,stoppard; elmo; kapitalism; kontsert; nüganen
-0,0,1,0,0,2,1,0,2,14,tammsaare; stoppard; elmo; kapitalism; kontsert
+0,1,1,1,0,1,0,0,0,14,revolutsionäär; utoopia; teater
+0,1,1,1,0,1,0,0,1,14,revolutsionäär; utoopia; teater; kapitalism
+0,1,1,1,0,1,0,0,1,14,revolutsionäär; utoopia; teater; kontsert
+0,1,1,1,0,1,0,0,1,14,revolutsionäär; utoopia; teater; kontsert
+0,1,1,1,0,1,0,0,1,14,revolutsionäär; utoopia; teater; kontsert
+0,1,1,1,0,1,0,0,1,14,revolutsionäär; utoopia; teater; kontsert
+0,1,2,0,0,0,1,0,2,14,revolutsionäär; kapitalism; elmo; kontsert; klassika
+1,1,2,0,0,1,0,1,1,14,tsivilisatsioon; stoppard; elmo; tammsaare; kontsert
+0,0,0,0,0,0,2,0,2,14,kapitalism; stoppard; kontsert
+0,0,0,0,0,1,1,2,2,14,nüganen; stoppard; elmo; kontsert; kapitalism
+0,0,1,0,0,2,1,0,2,14,stoppard; elmo; kontsert; tammsaare; kapitalism

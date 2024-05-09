@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,4,5,3,5,4,4,3,11,rase; rusikas; ants; paavel; palat; signe; karjuma; apaatsus; daniel
-5,3,4,5,3,5,5,4,4,11,rase; rusikas; ants; paavel; palat; signe; karjuma; apaatsus; daniel
-5,3,3,5,3,4,6,4,4,11,rase; rusikas; ants; paavel; palat; signe; karjuma; apaatsus; daniel
-5,3,2,5,3,5,5,4,4,11,rusikas; ants; paavel; palat; signe; karjuma; apaatsus; daniel
-5,4,3,5,3,5,5,4,4,11,rase; rusikas; ants; paavel; palat; signe; karjuma; apaatsus; daniel
-7,5,5,4,4,4,5,4,4,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
-6,6,5,4,4,5,5,6,4,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
-5,6,6,6,3,5,5,5,4,11,rase; ants; daniel; paavel; palat; signe; apaatsus; karjuma
-6,6,6,5,4,5,4,5,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
-6,5,7,5,3,5,4,5,5,11,rase; rusikas; ants; daniel; paavel; palat; signe; apaatsus; karjuma
-5,5,6,5,3,5,4,5,5,11,rase; rusikas; ants; karjuma; palat; signe; paavel; apaatsus; daniel
+6,3,4,7,3,5,5,4,3,11,karjuma; rusikas; paavel; daniel; lahkuminek; palat; rase; ants; signe; jõhkard; apaatsus
+6,3,4,7,3,5,6,4,4,11,karjuma; rusikas; paavel; daniel; lahkuminek; palat; rase; ants; signe; jõhkard; apaatsus
+7,3,3,7,3,4,7,4,4,11,karjuma; rusikas; paavel; daniel; lahkuminek; palat; rase; ants; signe; jõhkard; apaatsus
+7,3,2,7,3,5,6,5,4,11,karjuma; rusikas; paavel; daniel; lahkuminek; palat; ants; signe; jõhkard; apaatsus
+7,4,3,7,3,5,6,5,4,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus
+8,5,5,4,4,5,6,5,4,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; jõhkard; signe; apaatsus; ants
+6,6,6,4,4,6,6,7,4,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus
+5,6,7,6,3,5,5,6,4,11,karjuma; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus
+6,6,7,5,4,5,5,7,5,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus
+6,5,8,5,3,5,6,7,5,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus
+5,5,7,5,3,5,6,6,5,11,karjuma; rusikas; paavel; palat; daniel; lahkuminek; rase; ants; signe; jõhkard; apaatsus

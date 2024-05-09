@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,0,0,0,0,0,0,12,
-0,0,0,1,0,0,0,0,0,12,euroopa
-0,0,0,1,0,0,0,1,0,12,hõff; euroopa
-0,0,0,1,0,0,0,1,0,12,hõff; euroopa
-1,1,1,0,0,0,0,2,0,12,hõff; euroopa
-1,1,0,1,0,0,0,1,0,12,hõff; euroopa
-0,0,0,2,0,1,0,1,0,12,hõff; sammas; jaapan; gruusia
-0,0,0,1,0,1,0,0,0,12,jaapan; sammas
+0,1,0,0,0,1,2,1,0,12,eelarve; haigekassa
+0,1,0,0,0,1,2,1,0,12,eelarve; haigekassa
+0,1,0,0,0,1,2,1,0,12,eelarve; haigekassa
+0,1,0,0,0,1,2,1,0,12,eelarve; haigekassa
+0,1,0,1,0,1,2,2,0,12,isamaa; euroopa; eelarve; haigekassa
+0,1,0,1,0,1,2,3,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+1,0,0,1,0,1,1,3,0,12,hõff; isamaa; euroopa; haigekassa
+1,1,1,0,0,2,2,4,0,12,hõff; isamaa; euroopa; eelarve; haigekassa
+1,1,0,1,0,1,1,2,0,12,hõff; euroopa; haigekassa
+0,0,1,2,0,2,1,2,0,12,hõff; gruusia; jaapan; sammas; haigekassa
+0,0,0,1,0,2,1,1,0,12,jaapan; sammas; haigekassa

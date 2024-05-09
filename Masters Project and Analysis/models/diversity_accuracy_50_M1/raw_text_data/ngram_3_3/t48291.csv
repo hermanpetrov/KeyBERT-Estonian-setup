@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,3,0,2,2,3,0,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-1,1,0,3,0,2,2,3,1,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-1,1,0,3,0,2,2,3,1,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-1,1,0,3,0,2,2,3,1,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-2,1,1,3,0,2,2,3,2,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-2,2,2,3,0,2,2,3,2,11,kiirkaater; kiirabi; rannavalve; salmre; tuukrikaater; meresaade
-2,2,3,4,0,3,2,3,2,11,kiirkaater; kiirabi; rannavalve; kaart; tuukrikaater; meresaade
-0,4,3,1,0,2,3,3,2,11,jüri; rannavalve; kiirabi; kaart; tuukrikaater; meresaade
-1,2,3,0,0,2,2,3,2,11,kiirkaater; kiirabi; rannavalve; kaart; jüri; tuukrikaater; meresaade
-1,2,3,1,1,2,1,5,2,11,kiirkaater; kiirabi; rannavalve; kaart; jüri; tuukrikaater; meresaade
-0,3,4,1,0,1,1,4,2,11,kiirkaater; kiirabi; rannavalve; kaart; jüri; tuukrikaater; meresaade
+1,1,0,3,0,2,2,3,0,11,meresaade; tuukrikaater; kiirabi; salmre; rannavalve; kiirkaater
+1,1,0,3,0,2,2,3,1,11,meresaade; tuukrikaater; kiirabi; salmre; rannavalve; kiirkaater
+1,1,0,3,0,2,2,3,1,11,meresaade; tuukrikaater; kiirabi; salmre; rannavalve; kiirkaater
+1,1,0,3,0,2,2,3,1,11,meresaade; tuukrikaater; kiirabi; salmre; rannavalve; kiirkaater
+2,1,1,3,0,2,2,3,2,11,tuukrikaater; kiirabi; rannavalve; salmre; meresaade; kiirkaater
+2,2,2,3,0,2,2,3,2,11,kiirabi; salmre; meresaade; rannavalve; tuukrikaater; kiirkaater
+2,2,3,4,0,3,2,3,2,11,kiirabi; meresaade; rannavalve; tuukrikaater; kaart; kiirkaater
+0,4,3,1,0,2,3,3,2,11,meresaade; tuukrikaater; kiirabi; jüri; kaart; rannavalve
+1,2,3,0,0,2,2,3,2,11,kiirabi; jüri; rannavalve; meresaade; tuukrikaater; kaart; kiirkaater
+1,2,3,1,1,2,1,5,2,11,kiirabi; jüri; rannavalve; meresaade; tuukrikaater; kaart; kiirkaater
+0,3,4,1,0,1,1,4,2,11,jüri; kiirabi; meresaade; rannavalve; tuukrikaater; kaart; kiirkaater

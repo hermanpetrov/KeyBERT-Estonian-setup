@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,8,3,4,0,5,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,8,3,4,0,5,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,8,3,4,0,5,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,7,3,4,0,5,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,8,5,4,0,5,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,7,5,4,0,6,4,6,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-2,8,6,5,0,7,6,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-5,7,4,5,1,4,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-4,8,3,3,1,6,4,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-4,7,4,2,1,8,7,4,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
-4,6,4,3,0,6,6,5,2,13,sobak; kristi; piir; eurovisioon; migrant; sanktsioon; jüri; mesilane; hobune; kreeka
+3,9,3,4,0,5,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+3,9,3,4,0,5,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+3,9,3,4,0,5,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+3,8,3,4,0,5,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+3,9,6,4,0,5,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+3,8,6,4,0,6,4,6,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+2,9,7,5,0,7,6,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+5,8,5,5,1,4,4,5,2,13,jüri; sanktsioon; sobak; piir; mesilane; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+4,9,3,3,1,6,4,5,2,13,jüri; sanktsioon; sobak; mesilane; piir; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+4,8,5,2,1,8,7,5,2,13,jüri; sanktsioon; sobak; mesilane; piir; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi
+4,7,5,3,0,6,6,6,2,13,jüri; sanktsioon; sobak; mesilane; piir; eurovisioon; kreeka; migrant; tööjõupuudus; hobune; kristi

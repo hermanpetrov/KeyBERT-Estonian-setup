@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,2,3,3,4,1,3,1,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; kuraator; grigor
-5,1,2,3,3,4,1,3,1,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; kuraator; grigor
-5,1,2,3,3,4,1,3,0,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; kuraator; grigor
-5,1,2,3,3,4,1,3,0,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; kuraator; grigor
-5,1,1,3,3,5,1,3,0,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; laura; kuraator; grigor
-5,1,4,3,3,3,2,3,0,16,kontseptualism; kunst; säde; indrek; narratiiv; meedium; laura; kuraator; grigor
-5,2,2,1,3,2,4,4,0,16,kunst; kontseptualism; indrek; meedium; laura; narratiiv; kriitika; kuraator; kuusk
-2,0,3,1,4,2,4,5,1,16,kunst; kontseptualism; indrek; margit; narratiiv; meedium; kriitika; laura; kuraator; grigor
-3,0,2,0,3,2,3,2,0,16,kontseptualism; kunst; indrek; meedium; kriitika; narratiiv; kuraator; grigor
-2,1,4,1,3,3,1,3,0,16,kunst; kontseptualism; margit; meedium; laura; kriitika; kuraator; grigor
-3,0,2,0,2,3,2,4,0,16,kunst; kontseptualism; margit; meedium; laura; kuraator
+6,1,3,4,3,4,1,3,1,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; narratiiv; indrek; kuraator
+6,1,3,4,3,4,1,3,1,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; narratiiv; indrek; kuraator
+6,1,3,4,3,4,1,3,0,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; narratiiv; indrek; kuraator
+6,1,3,4,3,4,1,3,0,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; narratiiv; indrek; kuraator
+6,1,3,4,3,5,1,3,0,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; kaasaegne; laura; narratiiv; indrek; kuraator
+6,1,5,4,3,4,2,3,0,16,žestipõhine; kontseptualism; säde; kunstiajalugu; meedium; grigor; kunst; laura; narratiiv; indrek; kuraator
+5,2,4,2,3,2,5,4,0,16,kriitika; žestipõhine; kuusk; kontseptualism; kunstiajalugu; meedium; kunst; kaasaegne; laura; narratiiv; indrek; kuraator
+3,1,4,1,4,2,5,5,1,16,kriitika; kontseptualism; kunstiajalugu; grigor; meedium; kunst; kaasaegne; laura; narratiiv; margit; indrek; kuraator
+4,0,3,0,3,2,4,2,0,16,kriitika; kuraator; kontseptualism; meedium; grigor; kunst; kaasaegne; narratiiv; indrek; žestipõhine
+2,1,5,1,3,3,2,3,0,16,kriitika; kontseptualism; kunstiajalugu; meedium; grigor; kunst; kaasaegne; laura; margit; kuraator
+3,0,2,0,2,3,2,4,0,16,kontseptualism; meedium; kunst; laura; margit; kuraator

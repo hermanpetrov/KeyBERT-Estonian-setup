@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,1,2,4,2,5,3,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,2,4,2,5,3,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,2,4,2,5,3,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,2,4,2,5,3,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,2,4,2,5,3,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,2,4,2,5,3,5,2,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-6,1,1,4,2,5,5,5,2,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-5,1,2,3,2,5,5,5,2,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki
-4,1,1,5,2,5,4,5,2,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa
-4,1,1,3,2,6,7,5,2,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
-3,2,1,4,2,6,7,5,3,13,ema; raamat; lugema; johan; saar; torm; jääma; kon-tiki; isa; pisar
+5,1,2,4,2,5,3,5,3,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,2,4,2,5,3,5,3,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,2,4,2,5,3,5,3,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,2,4,2,5,3,5,3,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,2,4,2,5,3,5,3,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,2,4,2,5,3,5,2,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+6,1,1,4,2,5,5,5,2,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+5,1,2,3,2,5,5,5,2,13,johan; jääma; torm; raamat; ema; lugema; kon-tiki; saar
+4,1,1,5,2,5,4,5,2,13,johan; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+4,1,1,3,2,6,7,5,2,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar
+3,2,1,4,2,6,7,5,3,13,johan; pisar; jääma; isa; torm; raamat; ema; lugema; kon-tiki; saar

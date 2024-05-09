@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,3,1,1,4,3,3,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; berliin
-4,3,1,1,4,3,3,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; berliin
-4,3,1,1,4,3,3,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; berliin
-4,3,2,1,4,3,3,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; berliin
-4,3,2,1,4,3,3,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; berliin
-4,2,2,1,4,4,2,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; otto; adolf; saksamaa; hitler; üliõpilasrahutused; berliin
-1,4,1,2,4,2,2,2,1,17,valgustusajastu; bismarck; von; otto; adolf; saksamaa; hitler; berliin
-2,3,1,2,4,4,1,1,1,17,valgustusajastu; külm; bismarck; natsionaalsotsialistlik; von; hitler; otto; areng; adolf; saksamaa; sõda; üliõpilasrahutused; berliin
-2,0,1,1,4,1,1,1,1,17,valgustusajastu; bismarck; natsionaalsotsialistlik; von; hitler; otto; adolf; saksamaa; sõda; üliõpilasrahutused
-2,0,1,1,5,2,1,3,1,17,valgustusajastu; külm; bismarck; natsionaalsotsialistlik; von; hitler; otto; adolf; saksamaa; sõda; üliõpilasrahutused
-2,0,1,2,4,3,1,0,2,17,külm; bismarck; von; otto; adolf; üliõpilasrahutused; saksamaa; hitler; sõda
+4,3,1,1,4,3,3,1,1,17,berliin; valgustusajastu; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+4,3,1,1,4,3,3,1,1,17,berliin; valgustusajastu; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+4,3,1,1,4,3,3,1,1,17,berliin; valgustusajastu; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+4,3,2,1,4,3,3,1,1,17,berliin; valgustusajastu; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+4,3,2,1,4,3,3,1,1,17,berliin; valgustusajastu; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+4,2,2,1,4,4,2,1,1,17,berliin; valgustusajastu; üliõpilasrahutused; saksamaa; otto; natsionaalsotsialistlik; bismarck; adolf; hitler; von
+1,4,1,2,4,2,2,2,1,17,berliin; valgustusajastu; saksamaa; otto; bismarck; adolf; hitler; von
+2,3,1,2,4,4,1,1,1,17,berliin; areng; valgustusajastu; üliõpilasrahutused; saksamaa; natsionaalsotsialistlik; otto; sõda; bismarck; adolf; külm; hitler; von
+2,0,1,1,4,1,1,1,1,17,valgustusajastu; üliõpilasrahutused; natsionaalsotsialistlik; saksamaa; otto; sõda; bismarck; adolf; hitler; von
+2,0,1,1,5,2,1,3,1,17,valgustusajastu; üliõpilasrahutused; natsionaalsotsialistlik; saksamaa; otto; sõda; bismarck; adolf; külm; hitler; von
+2,0,1,2,4,3,1,0,2,17,üliõpilasrahutused; saksamaa; otto; sõda; bismarck; adolf; külm; hitler; von

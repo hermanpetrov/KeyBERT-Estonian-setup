@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,8,7,2,3,3,3,8,7,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister
-6,8,7,2,3,2,3,9,7,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister
-4,8,7,2,3,3,3,7,7,13,festival; eurosonic; artist; erik; intervjuu; rajasaare; jaan; parmupill; morna; meister; kristo
-4,7,7,2,3,4,4,7,8,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister
-5,7,9,2,4,6,5,8,8,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister; bänd
-6,8,6,4,4,5,6,9,7,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister
-2,5,7,9,4,7,4,9,7,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; bänd; meister
-5,4,8,8,4,9,5,9,5,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister; bänd
-6,5,7,7,5,7,6,9,6,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister; bänd
-7,5,7,7,6,6,5,9,6,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister; bänd
-6,4,5,7,9,6,4,10,6,13,erik; intervjuu; parmupill; morna; kristo; festival; eurosonic; artist; rajasaare; jaan; meister; bänd
+6,8,7,2,3,3,8,7,0,13,erik; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+6,8,7,2,3,3,9,7,0,13,erik; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+4,8,7,2,3,3,7,7,0,13,meister; erik; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna; parmupill; festival
+4,7,7,2,3,4,7,8,0,13,erik; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+5,7,9,2,4,5,8,8,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+6,8,6,4,4,6,9,7,0,13,erik; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+2,5,7,9,4,4,9,7,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+5,4,8,8,4,5,9,5,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+6,5,7,7,5,6,9,6,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+7,5,7,7,6,5,9,6,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna
+6,4,5,7,9,4,10,6,0,13,erik; bänd; parmupill; festival; meister; intervjuu; artist; jaan; rajasaare; eurosonic; kristo; morna

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,2,2,1,2,13,heinrich; lugu; tõlge; psühholoogiline; tõlgendus; hoffmann
-2,0,1,0,0,2,2,1,2,13,heinrich; lugu; tõlge; psühholoogiline; tõlgendus; hoffmann
-2,0,1,0,0,2,2,1,1,13,heinrich; lugu; tõlge; psühholoogiline; tõlgendus; hoffmann
-2,0,1,0,0,2,2,1,1,13,heinrich; lugu; tõlge; psühholoogiline; tõlgendus; hoffmann
-2,0,1,0,0,1,1,1,1,13,heinrich; lugu; tõlge; psühholoogiline; tõlgendus
-2,0,1,0,0,0,0,1,1,13,heinrich; lugu; psühholoogiline; tõlgendus
-1,0,3,0,0,1,1,1,1,13,heinrich; lugu; psühholoogiline; tõlgendus; hoffmann; pseudonüüm
-1,0,1,0,0,1,1,1,1,13,heinrich; lugu; psühholoogiline; pseudonüüm
-2,0,2,0,0,2,2,1,2,13,heinrich; lugu; psühholoogiline; tõlgendus; hoffmann; pseudonüüm
-1,1,1,1,1,2,1,0,1,13,heinrich; tõlge; psühholoogiline; hoffmann; pseudonüüm
-0,0,2,1,0,2,1,1,1,13,heinrich; psühholoogiline; tõlgendus; hoffmann; pseudonüüm
+4,1,2,0,0,3,3,5,2,13,lastekirjanik; tõlgendus; heinrich; kahupea; pildiraamat; hoffmann; luuleruum; psühholoogiline; tõlge; lugu
+4,1,2,0,0,3,3,5,2,13,lastekirjanik; tõlgendus; heinrich; kahupea; pildiraamat; hoffmann; luuleruum; psühholoogiline; tõlge; lugu
+4,1,2,0,0,3,3,5,1,13,lastekirjanik; tõlgendus; heinrich; kahupea; pildiraamat; hoffmann; luuleruum; psühholoogiline; tõlge; lugu
+4,1,2,0,0,3,3,5,1,13,lastekirjanik; tõlgendus; heinrich; kahupea; pildiraamat; hoffmann; luuleruum; psühholoogiline; tõlge; lugu
+4,1,1,0,0,2,2,4,1,13,lastekirjanik; tõlgendus; heinrich; pildiraamat; luuleruum; psühholoogiline; tõlge; lugu
+3,0,1,0,0,1,2,4,1,13,lastekirjanik; tõlgendus; heinrich; pildiraamat; luuleruum; psühholoogiline; lugu
+2,1,3,0,0,1,2,3,1,13,lastekirjanik; tõlgendus; heinrich; pildiraamat; hoffmann; luuleruum; psühholoogiline; lugu; pseudonüüm
+2,1,2,0,0,1,1,2,1,13,lastekirjanik; psühholoogiline; heinrich; lugu; pseudonüüm; luuleruum
+3,1,2,0,0,2,2,2,2,13,lastekirjanik; tõlgendus; heinrich; hoffmann; luuleruum; psühholoogiline; lugu; pseudonüüm
+2,2,1,1,1,2,1,1,1,13,lastekirjanik; heinrich; hoffmann; luuleruum; psühholoogiline; tõlge; pseudonüüm
+0,0,2,1,0,2,1,1,1,13,tõlgendus; psühholoogiline; heinrich; hoffmann; pseudonüüm

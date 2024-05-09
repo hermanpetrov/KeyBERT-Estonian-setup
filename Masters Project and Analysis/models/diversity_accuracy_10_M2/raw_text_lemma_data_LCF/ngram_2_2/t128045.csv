@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,1,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,1,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,1,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,2,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,2,1,2,1,1,1,0,15,muusikaline; vain; tants; birma
-0,0,1,0,2,1,1,1,0,15,muusikaline; tants; vain; birma
-0,0,1,1,1,1,1,1,0,15,muusikaline; vain; trumm; birma
-2,0,1,0,1,1,0,1,0,15,muusikaline; ansambel; vain; birma
-2,0,1,0,1,1,0,1,0,15,rituaal; muusikaline; tants; trumm; birma
-2,0,1,0,1,1,0,1,0,15,rituaal; muusikaline; tants; birma
+0,0,2,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,2,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,2,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,2,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,3,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,3,1,2,1,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,1,0,2,2,2,1,0,15,muusikakultuur; muusikaline; vain; birma; tants
+0,0,1,2,1,2,2,2,0,15,nukuteater; muusikakultuur; muusikaline; vain; birma; trumm
+2,0,1,0,1,2,1,1,0,15,ansambel; muusikakultuur; muusikaline; vain; birma
+2,0,1,0,1,2,0,2,0,15,rituaal; muusikakultuur; muusikaline; birma; trumm; tants
+2,0,1,0,1,1,0,1,0,15,rituaal; muusikaline; birma; tants

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,1,0,11,jooksma
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
-0,0,0,0,0,0,0,0,0,11,
+0,0,1,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,1,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,1,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,1,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,1,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,0,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,0,0,0,0,0,2,0,11,jooksma; raadiomaja
+0,0,1,0,0,0,0,1,0,11,raadiomaja
+0,0,1,1,0,0,0,0,0,11,tuletõrje; raadiomaja
+0,1,1,0,0,0,0,0,0,11,raadiomaja
+0,1,1,1,0,0,0,0,0,11,seljakott; raadiomaja

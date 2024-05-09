@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,0,0,1,0,2,0,12,esinemine; spinning; karu; elmar; näitleja; vanemuine
-1,1,1,0,0,1,0,2,0,12,esinemine; spinning; karu; elmar; näitleja; vanemuine
-1,1,1,0,0,1,0,2,0,12,esinemine; spinning; karu; elmar; näitleja; vanemuine
-1,1,1,0,0,1,0,2,0,12,esinemine; spinning; karu; elmar; näitleja; vanemuine
-1,1,1,0,0,1,0,2,0,12,esinemine; spinning; karu; elmar; näitleja; vanemuine
-1,1,2,0,0,0,0,1,0,12,spinning; karu; elmar; endel; vanemuine
-1,1,2,0,0,1,1,1,0,12,ani; spinning; karu; elmar; endel; vanemuine
-1,1,1,0,0,0,2,0,0,12,ani; spinning; karu; endel
-1,1,1,0,0,0,1,0,0,12,spinning; endel; karu
+2,1,1,0,0,2,0,2,0,12,esinemine; spinning; vanemuine; salulaht; karu; näitleja; elmar
+2,1,1,0,0,2,0,2,0,12,esinemine; spinning; vanemuine; salulaht; karu; näitleja; elmar
+2,1,1,0,0,2,0,2,0,12,esinemine; spinning; vanemuine; salulaht; karu; näitleja; elmar
+2,1,1,0,0,2,0,2,0,12,esinemine; spinning; vanemuine; salulaht; karu; näitleja; elmar
+2,1,1,0,0,2,0,2,0,12,esinemine; spinning; vanemuine; salulaht; karu; näitleja; elmar
+2,1,2,0,0,1,0,1,0,12,endel; spinning; vanemuine; salulaht; karu; elmar
+2,1,2,0,0,1,1,1,0,12,vanemuine; endel; spinning; ani; salulaht; karu; elmar
+2,1,1,0,0,0,2,0,0,12,endel; spinning; ani; salulaht; karu
+2,1,1,0,0,0,1,0,0,12,endel; spinning; salulaht; karu
 0,0,1,0,0,0,1,0,0,12,endel
 0,0,1,0,0,0,1,1,0,12,endel

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,1,1,1,1,0,13,halb; harry; kompositsioon; marco; solvang
-1,1,1,1,1,1,1,1,0,13,halb; harry; kompositsioon; marco; solvang
-1,1,1,1,1,1,1,1,0,13,halb; harry; kompositsioon; marco; solvang
-1,1,1,1,1,1,1,1,0,13,halb; harry; kompositsioon; marco; solvang
-1,1,1,1,1,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,1,1,1,1,1,0,0,13,harry; kompositsioon; marco; solvang
-1,1,2,1,1,1,1,0,0,13,kompositsioon; tsensuur; harry; diskussioon; marco; solvang
-1,1,1,1,1,1,2,0,0,13,halb; harry; tsensuur; marco; solvang
-2,1,1,2,2,3,1,1,0,13,halb; harry; tsensuur; marco; solvang
-3,0,3,2,1,3,3,2,0,13,halb; harry; tsensuur; diskussioon; marco; solvang
-3,0,3,3,2,2,3,2,0,13,halb; harry; tsensuur; diskussioon; marco; solvang
+3,2,1,3,1,1,2,2,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; halb; harry
+3,2,1,3,1,1,2,2,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; halb; harry
+3,2,1,3,1,1,2,2,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; halb; harry
+3,2,1,3,1,1,2,2,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; halb; harry
+3,2,1,3,1,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+3,2,2,3,1,1,2,1,0,13,hobusepea; liivrand; marco; kompositsioon; kunstimaailm; solvang; harry
+2,2,2,3,1,2,1,1,0,13,hobusepea; kompositsioon; tsensuur; marco; kunstimaailm; solvang; diskussioon; harry
+1,2,2,3,1,2,4,1,0,13,hobusepea; identiteedikriis; tsensuur; marco; kunstimaailm; solvang; halb; harry
+3,2,2,3,2,3,3,3,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; solvang; halb; harry
+3,1,3,3,1,3,6,3,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; solvang; diskussioon; halb; harry
+3,2,3,4,2,3,6,4,0,13,hobusepea; identiteedikriis; liivrand; tsensuur; marco; kunstimaailm; solvang; diskussioon; halb; harry

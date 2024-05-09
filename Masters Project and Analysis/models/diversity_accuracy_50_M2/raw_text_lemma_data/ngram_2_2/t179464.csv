@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,2,1,0,1,1,1,3,11,film; kongress; teater; moskva
-2,1,2,1,0,1,1,1,3,11,film; kongress; teater; moskva
-2,1,2,1,0,1,1,1,1,11,teater; moskva; kongress
-2,1,2,1,0,1,1,1,1,11,teater; moskva; kongress
-2,1,2,1,0,1,1,1,1,11,teater; moskva; kongress
-1,0,1,1,0,2,1,1,1,11,film; kongress; teater; moskva
-2,0,1,3,0,2,1,0,2,11,kunst; film; kongress; teater; moskva
-2,2,0,2,0,2,2,1,2,11,kongress; liit; teater; moskva
-4,1,1,4,0,2,1,1,2,11,kunst; suitsetamine; kongress; liit; teater; moskva
-1,2,2,3,1,3,0,2,2,11,kunst; usa; teater; moskva; kongress; liit; kalev
-2,2,0,2,1,1,3,1,2,11,kunst; usa; teater; moskva; kongress; liit
+3,1,3,1,0,1,1,1,3,11,moskva; film; nõukogu; kongress; teater
+3,1,3,1,0,1,1,1,3,11,moskva; film; nõukogu; kongress; teater
+3,1,3,1,0,1,1,1,1,11,moskva; nõukogu; kongress; teater
+3,1,3,1,0,1,1,1,1,11,moskva; nõukogu; kongress; teater
+3,2,3,1,0,1,1,1,1,11,moskva; nõukogu; kongress; teater
+2,1,2,1,0,2,1,1,2,11,moskva; film; nõukogu; kongress; teater
+2,1,1,3,0,3,1,0,3,11,moskva; film; kunst; nõukogu; kongress; teater
+2,2,0,2,0,2,2,1,3,11,moskva; liit; nõukogu; kongress; teater
+4,1,1,4,0,2,1,1,2,11,moskva; kunst; suitsetamine; kongress; teater; liit
+1,3,2,3,1,3,0,2,2,11,moskva; kunst; kalev; liit; nõukogu; kongress; teater; usa
+2,3,1,2,1,1,3,1,2,11,moskva; kunst; liit; nõukogu; kongress; teater; usa

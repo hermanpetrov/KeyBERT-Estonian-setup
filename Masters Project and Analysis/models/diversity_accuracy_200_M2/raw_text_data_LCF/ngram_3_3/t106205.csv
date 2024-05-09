@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,8,6,7,6,5,8,7,7,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; maarja; laul; raadio; tmw; bänd
-9,8,5,7,6,6,7,7,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; maarja; laul; raadio; tmw; bänd
-10,8,7,7,6,9,7,7,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; maarja; laul; raadio; tmw; bänd
-10,8,8,7,7,8,7,8,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; maarja; laul; raadio; tmw; bänd
-10,9,8,8,7,8,7,8,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; maarja; laul; raadio; tmw; bänd
-9,10,7,10,7,8,7,8,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; maarja; laul; eesti; raadio; tmw; bänd
-12,10,9,8,8,9,9,10,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; maarja; eesti; laul; raadio; tmw; bänd
-7,10,8,7,11,8,9,9,8,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; laul; maarja; raadio; tmw; bänd
-7,10,9,6,9,8,8,9,9,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; eesti; laul; maarja; raadio; tmw; bänd
-9,10,10,5,9,8,9,9,11,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; maarja; eesti; laul; raadio; tmw; bänd
-9,8,7,6,10,6,7,10,10,14,muusika; draiv; klassikokkutulek; 2015; ansambel; kaks; merivoo-parro; maarja; laul; eesti; raadio; tmw; bänd
+8,8,6,7,6,8,7,7,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+9,8,5,7,6,7,7,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+10,8,7,7,6,7,7,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+10,8,8,7,7,7,8,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+10,9,8,8,7,7,8,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+9,10,7,10,7,7,8,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+12,10,9,8,8,9,10,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; merivoo-parro; maarja; muusika; kaks
+7,10,8,7,11,9,9,8,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; muusika; maarja; merivoo-parro; kaks
+7,10,9,6,9,8,9,9,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; muusika; maarja; merivoo-parro; kaks
+9,10,10,5,9,9,9,11,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; muusika; maarja; merivoo-parro; kaks
+9,8,7,6,10,7,10,10,0,14,bänd; tmw; laul; 2015; eesti; klassikokkutulek; draiv; raadio; ansambel; muusika; maarja; merivoo-parro; kaks

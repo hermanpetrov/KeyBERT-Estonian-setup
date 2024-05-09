@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,3,3,0,2,2,1,0,12,muusika; elektrooniline; narkootikum; massikultuur; sotsioloog; popkultuur
-3,4,3,3,0,2,2,1,0,12,muusika; elektrooniline; narkootikum; massikultuur; sotsioloog; popkultuur
-3,4,3,3,0,2,2,1,0,12,muusika; elektrooniline; narkootikum; massikultuur; sotsioloog; popkultuur
-3,3,4,3,0,2,2,1,0,12,muusika; elektrooniline; narkootikum; massikultuur; sotsioloog; popkultuur
-3,3,4,3,0,2,2,1,0,12,muusika; elektrooniline; narkootikum; massikultuur; sotsioloog; popkultuur
-3,3,4,2,0,4,3,6,0,12,muusika; sildvee; elektrooniline; reimo; narkootikum; massikultuur; sotsioloog; popkultuur
-2,3,4,0,0,5,3,4,0,12,muusika; reimo; elektrooniline; sildvee; narkootikum; massikultuur; kommertslik; sotsioloog; popkultuur
-3,4,3,1,0,5,3,5,0,12,muusika; sildvee; elektrooniline; reimo; narkootikum; massikultuur; sotsioloog; popkultuur
-2,2,1,2,0,7,2,5,0,12,muusika; reimo; elektrooniline; sildvee; narkootikum; massikultuur; sotsioloog; popkultuur
-2,1,2,2,0,6,3,5,0,12,muusika; reimo; elektrooniline; sildvee; narkootikum; massikultuur; sotsioloog; popkultuur
-2,1,1,2,0,4,2,4,0,12,reimo; sildvee; muusika; narkootikum; sotsioloog; popkultuur
+4,6,4,4,0,3,3,2,1,12,narkootikum; sotsioloog; klubikultuur; muusika; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+4,6,4,4,0,3,3,2,1,12,narkootikum; sotsioloog; klubikultuur; muusika; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+4,6,4,4,0,3,3,2,1,12,narkootikum; sotsioloog; klubikultuur; muusika; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+4,5,5,4,0,3,3,2,1,12,narkootikum; sotsioloog; klubikultuur; muusika; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+4,5,5,4,0,3,3,2,1,12,narkootikum; sotsioloog; klubikultuur; muusika; bakalaureusetötö; popkultuur; elektrooniline; massikultuur
+4,5,5,3,0,5,4,7,1,12,narkootikum; sotsioloog; reimo; klubikultuur; muusika; bakalaureusetötö; sildvee; popkultuur; elektrooniline; massikultuur
+3,5,5,1,0,6,4,6,1,12,sotsioloog; narkootikum; reimo; klubikultuur; muusika; bakalaureusetötö; kommertslik; sildvee; popkultuur; elektrooniline; massikultuur
+4,6,5,1,0,6,4,7,1,12,sotsioloog; narkootikum; reimo; klubikultuur; muusika; bakalaureusetötö; sildvee; popkultuur; elektrooniline; massikultuur
+3,4,3,3,0,8,3,7,1,12,sotsioloog; narkootikum; reimo; klubikultuur; muusika; bakalaureusetötö; sildvee; popkultuur; elektrooniline; massikultuur
+3,3,4,3,0,8,4,7,1,12,sotsioloog; narkootikum; reimo; klubikultuur; muusika; bakalaureusetötö; sildvee; popkultuur; elektrooniline; massikultuur
+2,3,2,3,0,6,3,6,1,12,sotsioloog; narkootikum; reimo; klubikultuur; bakalaureusetötö; sildvee; muusika; popkultuur

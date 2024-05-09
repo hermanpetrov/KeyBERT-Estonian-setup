@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,2,0,13,hanso; soldat; elmar; isa
-0,1,2,1,0,2,2,4,0,13,hanso; soldat; viktor; masing; elmar; isa
-0,0,2,0,0,4,2,2,0,13,hanso; viktor; masing; elmar
-1,0,2,1,0,4,2,3,0,13,masing; hanso; soldat; viktor; auto; elmar
-0,0,2,0,0,4,2,2,0,13,hanso; viktor; masing; elmar
-0,0,2,0,0,5,2,2,0,13,hanso; viktor; masing; elmar; isa
+0,2,3,1,1,4,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,4,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,4,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,4,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,4,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,3,3,3,0,13,soldat; julgeolek; metsavend; elmar; ülekuulamine; isa; hanso
+0,2,3,1,1,4,2,5,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; hanso
+0,0,3,0,1,4,3,3,0,13,masing; metsavend; viktor; elmar; ülekuulamine; hanso
+1,0,3,1,1,5,3,4,0,13,soldat; masing; metsavend; viktor; elmar; ülekuulamine; auto; hanso
+0,0,3,0,0,5,3,3,0,13,masing; metsavend; viktor; elmar; hanso
+0,1,3,0,0,6,3,3,0,13,masing; metsavend; viktor; elmar; ülekuulamine; isa; hanso

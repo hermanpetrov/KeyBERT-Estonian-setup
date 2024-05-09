@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,0,1,1,1,0,1,13,leho; kont; suvi; kamp; sõjalennuk
-1,2,2,0,1,1,1,0,1,13,leho; kont; suvi; kamp; sõjalennuk
-1,2,1,0,1,1,1,0,1,13,leho; suvi; kont; kamp; sõjalennuk
-2,2,1,0,2,2,2,0,1,13,leho; kont; suvi; boriss; kamp; sõjalennuk
-2,2,1,0,2,3,2,1,1,13,leho; kont; suvi; boriss; kamp; sõjalennuk
-2,1,1,0,3,3,1,1,1,13,leho; kont; suvi; boriss; kamp; sõjalennuk
-2,0,0,0,2,5,1,2,2,13,suvi; kamp; sõjalennuk; leho; boriss
-0,0,0,1,2,4,1,2,1,13,leho; suvi; boriss; kamp; sõjalennuk
-1,0,2,1,2,4,1,1,0,13,leho; kont; suvi; boriss; kamp; sõjalennuk
-0,0,2,1,2,4,1,1,2,13,leho; kont; suvi; boriss; kamp; sõjalennuk
-0,0,1,1,2,4,1,1,1,13,leho; suvi; boriss; kamp; sõjalennuk
+1,2,2,0,1,1,1,0,1,13,suvi; kont; sõjalennuk; leho; kamp
+1,2,2,0,1,1,1,0,1,13,suvi; kont; sõjalennuk; leho; kamp
+1,2,1,0,1,1,1,0,1,13,suvi; kont; sõjalennuk; leho; kamp
+2,2,1,0,2,2,2,0,1,13,suvi; kont; boriss; sõjalennuk; leho; kamp
+2,2,1,0,2,3,2,1,1,13,suvi; kont; boriss; sõjalennuk; leho; kamp
+2,1,1,0,3,3,1,1,1,13,suvi; kont; boriss; sõjalennuk; leho; kamp
+2,0,0,0,2,5,1,2,2,13,suvi; boriss; sõjalennuk; leho; kamp
+0,0,0,1,2,4,1,2,1,13,suvi; boriss; sõjalennuk; leho; kamp
+1,0,2,1,2,4,1,1,0,13,suvi; kont; boriss; sõjalennuk; leho; kamp
+0,0,2,1,2,4,1,1,2,13,suvi; boriss; kont; sõjalennuk; leho; kamp
+0,0,1,1,2,4,1,1,1,13,suvi; boriss; sõjalennuk; leho; kamp

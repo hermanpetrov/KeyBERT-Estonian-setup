@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,4,1,2,5,4,4,1,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; tsivilisatsioon; euroopa
-2,2,4,1,2,5,4,4,1,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; tsivilisatsioon; euroopa
-2,2,4,1,2,5,4,4,0,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; tsivilisatsioon; euroopa
-2,2,4,1,2,5,4,4,0,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; tsivilisatsioon; euroopa
-2,2,5,1,2,5,4,4,0,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-2,4,6,1,2,4,4,4,0,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; keel; euroopa
-3,2,1,1,2,3,4,4,0,13,pamuk; kirjanik; preemia; orhan; türgi; nobel; euroopa
-0,3,5,2,2,4,3,5,1,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; lumi; euroopa
-1,1,1,2,2,4,2,3,1,13,pamuk; kirjanik; preemia; türgi; nobel; lumi; euroopa
-0,1,2,2,3,5,3,4,1,13,pamuk; kirjanik; preemia; türgi; orhan; nobel; lumi; euroopa
-0,1,4,2,3,3,2,3,2,13,pamuk; kirjanik; preemia; türgi; nobel; keel; lumi; euroopa
+2,2,4,1,2,5,4,4,1,13,tsivilisatsioon; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,4,1,2,5,4,4,1,13,tsivilisatsioon; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,4,1,2,5,4,4,0,13,tsivilisatsioon; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,4,1,2,5,4,4,0,13,tsivilisatsioon; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,2,5,1,2,5,4,4,0,13,orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+2,4,6,1,2,4,4,4,0,13,orhan; pamuk; kirjanik; nobel; preemia; keel; euroopa; türgi
+3,3,1,1,2,3,4,4,0,13,identiteedikriis; orhan; pamuk; kirjanik; nobel; preemia; euroopa; türgi
+0,4,5,3,2,4,3,6,1,13,identiteedikriis; orhan; nobel; kirjanik; pamuk; preemia; islamimaailm; lumi; euroopa; türgi
+1,1,1,2,2,4,2,4,1,13,nobel; pamuk; preemia; kirjanik; islamimaailm; lumi; euroopa; türgi
+0,1,2,2,3,5,3,5,1,13,orhan; pamuk; nobel; preemia; kirjanik; islamimaailm; lumi; euroopa; türgi
+0,2,4,2,3,3,2,3,2,13,pamuk; kirjanik; nobel; preemia; islamimaailm; keel; lumi; euroopa; türgi

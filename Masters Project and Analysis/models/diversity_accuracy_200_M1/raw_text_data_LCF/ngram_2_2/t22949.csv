@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,9,5,4,3,4,5,5,4,13,halb; harry; diskussioon; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
-4,9,6,4,3,5,5,6,4,13,halb; harry; diskussioon; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
-4,9,6,4,2,7,4,7,4,13,halb; harry; diskussioon; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
-5,9,7,4,2,9,5,6,4,13,harry; hobusepea; liivrand; tsensuur; solvang; halb; marco; laimre; nali; diskussioon
-6,9,8,3,2,9,6,6,4,13,harry; hobusepea; liivrand; tsensuur; solvang; halb; marco; laimre; nali; diskussioon
-7,7,9,3,2,7,7,5,5,13,halb; harry; diskussioon; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
-3,5,6,2,3,7,7,5,5,13,halb; harry; hobusepea; laimre; liivrand; tsensuur; nali; marco; solvang
-3,6,6,5,6,6,7,5,4,13,halb; harry; hobusepea; nali; laimre; tsensuur; liivrand; marco; solvang
-3,5,8,4,8,6,7,7,5,13,halb; harry; diskussioon; hobusepea; nali; laimre; liivrand; tsensuur; marco; solvang
-2,5,5,6,8,7,7,6,6,13,halb; harry; hobusepea; nali; laimre; liivrand; tsensuur; marco; solvang
-2,3,6,6,8,7,7,5,7,13,halb; harry; hobusepea; nali; laimre; liivrand; tsensuur; marco; solvang
+4,9,5,4,3,5,5,4,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; nali; halb; harry
+4,9,6,4,3,5,6,4,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; nali; halb; harry
+4,9,6,4,2,4,7,4,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; nali; halb; harry
+5,9,7,4,2,5,6,4,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; nali; halb; harry
+6,9,8,3,2,6,6,4,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; halb; nali; harry
+7,7,9,3,2,7,5,5,0,13,laimre; hobusepea; liivrand; tsensuur; marco; solvang; diskussioon; halb; nali; harry
+3,5,6,2,3,7,5,5,0,13,hobusepea; laimre; liivrand; marco; tsensuur; solvang; halb; nali; harry
+3,6,6,5,6,7,5,4,0,13,hobusepea; laimre; liivrand; marco; tsensuur; solvang; halb; nali; harry
+3,5,8,4,8,7,7,5,0,13,hobusepea; laimre; liivrand; marco; tsensuur; solvang; diskussioon; halb; nali; harry
+2,5,5,6,8,7,6,6,0,13,hobusepea; laimre; liivrand; marco; tsensuur; solvang; nali; halb; harry
+2,3,6,6,8,7,5,7,0,13,hobusepea; laimre; liivrand; marco; tsensuur; solvang; nali; halb; harry

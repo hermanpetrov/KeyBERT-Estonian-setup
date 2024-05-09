@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,7,4,5,0,5,5,8,2,15,turniir; paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-3,7,4,5,0,5,5,8,2,15,turniir; paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-3,7,4,5,0,5,5,8,2,15,turniir; paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-3,7,4,5,0,5,5,8,2,15,turniir; paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-3,7,4,5,0,5,5,8,2,15,turniir; paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-3,7,3,5,0,6,6,7,2,15,turniir; paul; keres; eesti; partii; kilingi-nõmme; hendrik; maletaja; malering; võistkond; olde
-3,6,4,4,2,6,5,7,2,15,paul; keres; klubi; eesti; partii; kilingi-nõmme; hendrik; maletaja; malering; võistkond; olde
-2,6,5,2,2,4,3,8,2,15,paul; eesti; partii; kilingi-nõmme; hendrik; maletaja; keres; võistkond; malering; olde
-2,3,3,4,1,5,4,5,2,15,paul; keres; eesti; partii; kilingi-nõmme; hendrik; malering; olde
-3,3,6,3,3,4,3,6,2,15,paul; eesti; partii; kilingi-nõmme; hendrik; keres; võistkond; malering; olde
-2,2,5,2,3,5,4,4,2,15,paul; eesti; kilingi-nõmme; hendrik; keres; võistkond; malering; olde
+3,7,4,5,0,5,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; turniir; maletaja
+3,7,4,5,0,5,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; turniir; maletaja
+3,7,4,5,0,5,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; turniir; maletaja
+3,7,4,5,0,5,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; turniir; maletaja
+3,7,4,5,0,5,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; turniir; maletaja
+3,7,3,5,0,6,7,2,0,15,partii; olde; keres; eesti; paul; kilingi-nõmme; hendrik; võistkond; malering; turniir; maletaja
+3,6,4,4,2,5,7,2,0,15,partii; olde; keres; eesti; paul; kilingi-nõmme; hendrik; võistkond; klubi; malering; maletaja
+2,6,5,2,2,3,8,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul; maletaja
+2,3,3,4,1,4,5,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; paul
+3,3,6,3,3,3,6,2,0,15,partii; olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul
+2,2,5,2,3,4,4,2,0,15,olde; keres; eesti; malering; kilingi-nõmme; hendrik; võistkond; paul

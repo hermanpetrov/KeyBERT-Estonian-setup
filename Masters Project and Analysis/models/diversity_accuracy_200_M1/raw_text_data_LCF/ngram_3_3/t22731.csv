@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,6,5,3,6,7,8,3,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-5,5,7,5,4,6,7,8,2,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-6,5,7,5,5,6,7,8,2,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-6,5,9,6,5,7,7,8,3,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-7,6,8,6,6,7,6,6,3,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-8,6,7,6,5,8,7,7,3,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-5,5,6,5,6,7,6,7,3,14,tallinna; probleem; saladus; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-3,4,7,4,7,4,6,6,4,14,tallinna; probleem; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-3,3,6,3,6,4,7,5,4,14,tallinna; probleem; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-2,3,4,4,6,3,6,5,3,14,tallinna; probleem; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
-3,5,7,5,5,4,5,4,5,14,tallinna; saladus; probleem; anders; mäng; kunstihoone; infotankistid; näitus; akvarell
+5,5,6,5,3,7,8,3,0,14,akvarell; infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+5,5,7,5,4,7,8,2,0,14,akvarell; infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+6,5,7,5,5,7,8,2,0,14,akvarell; infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+6,5,9,6,5,7,8,3,0,14,akvarell; infotankistid; mäng; kunstihoone; näitus; tallinna; saladus; anders; probleem
+7,6,8,6,6,6,6,3,0,14,akvarell; infotankistid; anders; mäng; kunstihoone; näitus; saladus; tallinna; probleem
+8,6,7,6,5,7,7,3,0,14,akvarell; infotankistid; anders; mäng; näitus; tallinna; saladus; kunstihoone; probleem
+5,5,6,5,6,6,7,3,0,14,akvarell; infotankistid; anders; mäng; näitus; tallinna; saladus; kunstihoone; probleem
+3,4,7,4,7,6,6,4,0,14,akvarell; infotankistid; anders; mäng; kunstihoone; näitus; tallinna; probleem
+3,3,6,3,6,7,5,4,0,14,akvarell; infotankistid; anders; mäng; kunstihoone; näitus; tallinna; probleem
+2,3,4,4,6,6,5,3,0,14,akvarell; infotankistid; mäng; kunstihoone; näitus; tallinna; anders; probleem
+3,5,7,5,5,5,4,5,0,14,akvarell; infotankistid; anders; mäng; kunstihoone; näitus; saladus; tallinna; probleem

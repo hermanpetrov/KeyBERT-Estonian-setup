@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,1,1,2,2,2,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-4,4,2,1,1,2,2,2,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-4,4,2,1,1,2,2,2,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-4,4,2,1,1,2,2,2,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-4,4,2,1,1,2,2,2,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-5,2,4,1,1,2,2,2,1,13,keelterikas; mitmekeelsus; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; euroopa
-5,3,4,1,1,2,3,4,1,13,keelterikas; raamdokument; inglise; keeleoskus; keeleõppe; kolmkeelsus; keelepoliitika; keel; euroopa
-2,2,5,0,1,3,5,3,1,13,keelterikas; raamdokument; keeleoskus; keeleõppe; kolmkeelsus; inglise; keel; keelepoliitika; euroopa
-2,1,2,1,0,2,3,4,1,13,keeleoskus; võõrkeel; inglise; keel; keelepoliitika; euroopa
-2,2,3,0,0,4,4,4,1,13,keelterikas; keeleoskus; keeleõppe; võõrkeel; inglise; keel; keelepoliitika; riigikeel; euroopa
-1,1,2,0,0,4,3,3,1,13,inglise; keelterikas; keeleõppe; keelepoliitika; keel; euroopa
+4,4,2,1,1,2,2,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelterikas; raamdokument; euroopa; keeleoskus
+4,4,2,1,1,2,2,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelterikas; raamdokument; euroopa; keeleoskus
+4,4,2,1,1,2,2,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelterikas; raamdokument; euroopa; keeleoskus
+4,4,2,1,1,2,2,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelterikas; raamdokument; euroopa; keeleoskus
+4,4,2,1,1,2,2,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelterikas; raamdokument; euroopa; keeleoskus
+5,2,4,1,1,2,2,1,0,13,mitmekeelsus; keeleõppe; kolmkeelsus; inglise; keel; keelterikas; euroopa; keeleoskus
+5,3,4,1,1,3,4,1,0,13,keeleõppe; kolmkeelsus; keel; keelterikas; raamdokument; keelepoliitika; euroopa; keeleoskus
+2,2,5,0,1,5,3,1,0,13,keeleõppe; kolmkeelsus; inglise; keel; keelepoliitika; raamdokument; keelterikas; euroopa
+2,1,2,1,0,3,4,1,0,13,võõrkeel; keel; inglise; keelepoliitika; euroopa; keeleoskus
+2,2,3,0,0,4,4,1,0,13,võõrkeel; keeleõppe; inglise; keel; keelterikas; keelepoliitika; riigikeel; euroopa
+1,1,2,0,0,3,3,1,0,13,keel; keelterikas; euroopa; keeleõppe

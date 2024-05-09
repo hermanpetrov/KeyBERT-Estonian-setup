@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,2,0,1,2,0,0,1,1,19,deckarty; tervis; washington; programm; trump; president
-2,2,0,1,2,0,0,1,1,19,deckarty; tervis; washington; programm; trump; president
-2,2,0,1,2,0,0,1,2,19,deckarty; tervis; washington; programm; trump; president
-2,2,0,1,2,0,0,1,2,19,deckarty; tervis; washington; programm; trump; president
-2,2,0,1,2,0,0,1,3,19,deckarty; washington; programm; tervis; kool; trump; president
-2,3,1,1,2,0,0,1,2,19,deckarty; tervis; washington; programm; trump; president
-4,2,1,1,2,0,1,1,2,19,washington; deckarty; programm; kool; tervis; trump; president
-4,1,0,1,2,1,0,2,2,19,deckarty; washington; programm; kool; tervis; lahkumine; trump; president
-1,1,0,1,2,0,1,1,3,19,washington; programm; tervis; balti; kool; trump; president
-1,1,0,1,2,0,0,3,3,19,washington; programm; tervis; balti; lahkumine; kool; trump; president
-2,0,0,1,3,1,2,1,2,19,balti; kool; tervis; washington; programm; trump; president
+2,2,0,1,2,0,0,1,1,19,washington; deckarty; president; trump; tervis; programm
+2,2,0,1,2,0,0,1,1,19,washington; deckarty; president; trump; tervis; programm
+2,2,0,1,2,0,0,1,2,19,washington; deckarty; president; trump; tervis; programm
+2,2,0,1,2,0,0,1,2,19,washington; deckarty; president; trump; tervis; programm
+2,2,0,1,2,0,0,1,3,19,washington; president; programm; kool; deckarty; trump; tervis
+2,3,1,1,2,0,0,1,2,19,washington; deckarty; president; trump; tervis; programm
+4,2,1,1,2,0,1,1,2,19,washington; president; programm; kool; deckarty; trump; tervis
+4,1,0,1,2,1,0,2,2,19,washington; lahkumine; president; programm; kool; deckarty; trump; tervis
+1,1,0,1,2,0,1,1,3,19,washington; president; programm; kool; balti; trump; tervis
+1,1,0,1,2,0,0,3,3,19,washington; lahkumine; president; programm; kool; balti; trump; tervis
+2,0,0,2,3,1,2,1,2,19,washington; kultuuripealinn; president; programm; kool; balti; trump; tervis

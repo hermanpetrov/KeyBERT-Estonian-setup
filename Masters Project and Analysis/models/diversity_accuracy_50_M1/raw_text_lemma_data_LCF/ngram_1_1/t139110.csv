@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,5,1,1,0,1,1,0,11,taanlane; tehnika; inglane; õppus; saarlane; saar
-2,0,5,1,1,0,1,1,0,11,taanlane; tehnika; inglane; õppus; saarlane; saar
-2,0,5,1,1,0,1,1,0,11,taanlane; tehnika; inglane; õppus; saarlane; saar
-2,0,5,1,1,0,1,1,0,11,taanlane; tehnika; inglane; õppus; saarlane; saar
-2,0,5,1,1,0,1,1,0,11,taanlane; tehnika; inglane; õppus; saarlane; saar
-2,0,7,1,1,0,1,1,0,11,inglane; õppus; saar; taanlane; muhu; tehnika; keel; saarlane
-2,0,5,1,1,1,1,2,0,11,muhu; tehnika; keel; õppus; saarlane; saar
-2,0,4,1,1,1,1,1,0,11,muhu; tehnika; lapiline; keel; õppus; saarlane; saar
-2,0,4,1,1,1,1,0,0,11,muhu; tehnika; lapiline; keel; õppus; saarlane; saar
-1,0,4,1,1,1,1,1,0,11,taanlane; tehnika; saar; keel; õppus; saarlane; muhu
-1,0,4,1,1,1,1,0,0,11,lapiline; tehnika; keel; õppus; saarlane; muhu
+3,1,5,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; kaitseliit; saar
+3,1,5,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; kaitseliit; saar
+3,1,5,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; kaitseliit; saar
+3,1,5,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; kaitseliit; saar
+3,1,5,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; kaitseliit; saar
+3,1,7,1,1,0,1,1,0,11,taanlane; inglane; saarlane; tehnika; õppus; muhu; keel; kaitseliit; saar
+3,1,5,1,1,1,1,2,0,11,saarlane; tehnika; õppus; muhu; keel; kaitseliit; saar
+3,1,4,2,1,1,1,1,0,11,lapiline; saarlane; tehnika; õppus; muhu; keel; kaitseliit; saar
+3,1,4,2,1,1,1,0,0,11,lapiline; saarlane; tehnika; õppus; muhu; keel; kaitseliit; saar
+2,1,4,2,1,1,1,2,0,11,taanlane; saarlane; tehnika; õppus; muhu; keel; kaitseliit; saar
+2,1,4,2,1,1,1,1,0,11,tehnika; õppus; muhu; keel; kaitseliit; lapiline; saarlane

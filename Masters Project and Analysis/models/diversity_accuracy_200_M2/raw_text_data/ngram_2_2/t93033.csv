@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,5,4,8,4,3,5,6,5,18,hans; nädal; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-7,4,4,8,4,3,5,6,5,18,hans; nädal; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-7,4,3,9,4,3,5,6,5,18,ülikool; karissa; hindpere; usuäärmusluse; hans; nädal; restoranide; kontsert; eesti; jarmuki; isis
-7,5,2,9,4,4,5,6,5,18,ülikool; karissa; hindpere; usuäärmusluse; hans; nädal; restoranide; kontsert; eesti; jarmuki; isis
-6,5,3,7,5,4,6,6,5,18,hans; nädal; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-6,6,5,9,6,3,5,6,5,18,hans; nädal; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-4,4,5,5,4,5,4,6,5,18,hans; nädal; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-4,3,5,6,4,5,4,4,5,18,hans; restoranide; kontsert; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-4,4,6,6,4,6,5,3,6,18,hans; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-3,3,7,4,4,1,6,4,6,18,hans; restoranide; kontsert; ülikool; karissa; hindpere; eesti; jarmuki; isis; usuäärmusluse
-4,2,2,3,4,2,4,4,7,18,hans; nädal; restoranide; kontsert; ülikool; hindpere; eesti; isis; jarmuki; usuäärmusluse
+7,5,4,8,4,3,5,6,5,18,hindpere; eesti; hans; isis; ülikool; usuäärmusluse; nädal; jarmuki; karissa; restoranide; kontsert
+7,4,4,8,4,3,5,6,5,18,hindpere; eesti; hans; isis; ülikool; usuäärmusluse; nädal; jarmuki; karissa; restoranide; kontsert
+7,4,3,9,4,3,5,6,5,18,hans; isis; ülikool; usuäärmusluse; kontsert; hindpere; eesti; nädal; jarmuki; karissa; restoranide
+7,5,2,9,4,4,5,6,5,18,hans; isis; ülikool; usuäärmusluse; kontsert; hindpere; eesti; nädal; jarmuki; karissa; restoranide
+6,5,3,7,5,4,6,6,5,18,hindpere; eesti; hans; isis; usuäärmusluse; ülikool; nädal; jarmuki; karissa; restoranide; kontsert
+6,6,5,9,6,3,5,6,5,18,hindpere; eesti; hans; isis; usuäärmusluse; ülikool; nädal; jarmuki; karissa; restoranide; kontsert
+4,4,5,5,4,5,4,6,5,18,hindpere; hans; eesti; isis; usuäärmusluse; ülikool; nädal; jarmuki; karissa; restoranide; kontsert
+4,3,5,6,4,5,4,4,5,18,hindpere; hans; eesti; isis; usuäärmusluse; jarmuki; karissa; restoranide; kontsert
+4,4,6,6,4,6,5,3,6,18,hindpere; restoranide; hans; eesti; isis; ülikool; jarmuki; karissa; usuäärmusluse; kontsert
+3,3,7,4,4,1,6,4,6,18,hindpere; restoranide; eesti; hans; isis; ülikool; jarmuki; karissa; usuäärmusluse; kontsert
+4,2,2,3,4,2,4,4,7,18,hindpere; restoranide; eesti; hans; isis; ülikool; nädal; jarmuki; usuäärmusluse; kontsert

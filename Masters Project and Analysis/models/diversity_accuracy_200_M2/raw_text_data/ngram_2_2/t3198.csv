@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,5,3,5,5,5,6,6,7,13,harry; usa; tony; publica; swedbank; koalitsioon; liivrand; blair; res; reformierakond; põhja-korea
-9,6,4,5,6,5,6,6,7,13,harry; usa; tony; publica; swedbank; koalitsioon; liivrand; blair; res; reformierakond; põhja-korea
-10,6,4,5,6,5,6,6,7,13,harry; usa; tony; publica; swedbank; koalitsioon; liivrand; blair; res; reformierakond; põhja-korea
-9,5,3,6,6,5,6,5,7,13,harry; usa; tony; publica; swedbank; koalitsioon; liivrand; blair; res; reformierakond; põhja-korea
-8,5,3,7,7,7,6,7,7,13,harry; usa; põhja-korea; tony; publica; swedbank; koalitsioon; liivrand; blair; reformierakond; res
-4,4,4,8,7,8,5,6,6,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
-6,5,5,8,7,10,5,8,6,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
-5,4,7,8,8,8,7,6,6,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
-4,2,6,9,8,8,7,7,8,13,harry; usa; tony; liivrand; res; publica; swedbank; koalitsioon; blair; reformierakond; põhja-korea
-3,5,6,9,9,9,6,10,8,13,harry; usa; tony; liivrand; põhja-korea; publica; swedbank; koalitsioon; blair; reformierakond; res
-3,3,6,9,9,10,5,8,9,13,harry; usa; tony; liivrand; põhja-korea; publica; swedbank; koalitsioon; blair; reformierakond; res
+9,5,3,5,5,5,6,6,7,13,liivrand; koalitsioon; publica; reformierakond; blair; res; tony; harry; swedbank; põhja-korea; usa
+9,6,4,5,6,5,6,6,7,13,liivrand; koalitsioon; publica; reformierakond; blair; res; tony; harry; swedbank; põhja-korea; usa
+10,6,4,5,6,5,6,6,7,13,liivrand; koalitsioon; publica; reformierakond; blair; res; tony; harry; swedbank; põhja-korea; usa
+9,5,3,6,6,5,6,5,7,13,liivrand; koalitsioon; publica; reformierakond; blair; res; tony; harry; swedbank; põhja-korea; usa
+8,5,3,7,7,7,6,7,7,13,liivrand; põhja-korea; publica; reformierakond; blair; res; tony; harry; swedbank; koalitsioon; usa
+4,4,4,8,7,8,5,6,6,13,liivrand; publica; reformierakond; blair; koalitsioon; põhja-korea; res; tony; harry; swedbank; usa
+6,5,5,8,7,10,5,8,6,13,liivrand; publica; reformierakond; blair; koalitsioon; põhja-korea; res; tony; harry; swedbank; usa
+5,4,7,8,8,8,7,6,6,13,liivrand; publica; reformierakond; blair; põhja-korea; koalitsioon; res; tony; harry; swedbank; usa
+4,2,6,9,8,8,7,7,8,13,liivrand; publica; reformierakond; blair; põhja-korea; koalitsioon; res; tony; harry; swedbank; usa
+3,5,6,9,9,9,6,10,8,13,liivrand; publica; reformierakond; blair; koalitsioon; põhja-korea; res; tony; harry; swedbank; usa
+3,3,6,9,9,10,5,8,9,13,liivrand; publica; reformierakond; blair; koalitsioon; põhja-korea; res; tony; harry; swedbank; usa

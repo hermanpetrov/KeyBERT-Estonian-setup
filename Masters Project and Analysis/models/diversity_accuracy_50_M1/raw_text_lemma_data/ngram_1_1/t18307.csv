@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,1,0,1,0,0,0,0,19,mälberg; mall
-0,0,2,0,1,0,0,0,0,19,mälberg; hõff; mall
-0,0,1,1,1,0,0,0,0,19,mälberg; abhaasia; mall
-0,0,1,1,1,0,0,0,0,19,mälberg; mall; sammas
-0,0,2,1,1,0,0,0,0,19,mälberg; hõff; mall; sammas
-0,0,1,2,1,1,0,1,0,19,sammas; piraat; rannik; mälberg; hõff; mall
-0,0,2,0,1,0,0,0,0,19,mälberg; mall
+1,1,1,1,1,1,3,2,0,19,haigekassa; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium
+1,1,1,1,1,1,3,2,0,19,haigekassa; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium
+1,1,1,1,1,1,3,2,0,19,haigekassa; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium
+1,1,1,1,1,1,3,2,0,19,haigekassa; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium
+1,1,1,1,1,0,3,2,0,19,haigekassa; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium
+1,1,2,1,1,2,3,2,0,19,hõff; hinnakiri; mälberg; haigekassa; pärimusmuusika; mall; sotsiaalministeerium
+1,1,1,3,1,0,1,2,0,19,haigekassa; mall; abhaasia; hinnakiri; mälberg; pärimusmuusika
+1,0,1,1,1,0,1,2,0,19,haigekassa; mall; hinnakiri; mälberg; sammas; pärimusmuusika
+1,1,2,1,1,0,0,1,0,19,pärimusmuusika; hõff; mall; hinnakiri; mälberg; sammas; haigekassa
+1,1,1,2,1,2,0,1,0,19,piraat; rannik; hõff; mall; mälberg; sammas; pärimusmuusika; sotsiaalministeerium
+3,0,2,0,1,1,1,0,0,19,muusikaõpetaja; mall; hinnakiri; mälberg; pärimusmuusika; sotsiaalministeerium

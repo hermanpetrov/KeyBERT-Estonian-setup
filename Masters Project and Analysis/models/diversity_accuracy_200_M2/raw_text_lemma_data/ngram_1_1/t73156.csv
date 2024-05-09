@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,6,6,3,5,3,1,1,2,15,ameerika; eric; pik; mill; rakse; singel; power; edetab; one; euroopa
-1,6,6,4,5,3,1,1,2,15,ameerika; eric; pik; mill; rakse; singel; power; edetab; one; euroopa
-1,6,5,4,5,3,2,1,2,15,ameerika; eric; pik; mill; rakse; singel; power; edetab; one; euroopa
-1,6,5,4,5,3,2,1,2,15,ameerika; eric; pik; mill; rakse; singel; power; edetab; one; euroopa
-1,6,4,5,4,4,1,2,2,15,ameerika; eric; pik; mill; rakse; singel; power; edetab; one; euroopa
-1,5,3,6,4,5,4,3,2,15,ameerika; eric; mill; rakse; singel; power; edetab; one; euroopa
-2,5,3,4,5,5,4,3,2,15,ameerika; eric; mill; singel; power; edetab; one; euroopa
-1,5,3,3,6,5,5,5,3,15,ameerika; eric; mill; rakse; singel; power; edetab; one; euroopa
-1,5,3,3,6,5,4,4,4,15,ameerika; eric; pik; mill; singel; power; edetab; one; euroopa
-2,5,3,4,7,5,4,3,3,15,ameerika; eric; pik; mill; singel; power; edetab; one; euroopa
-2,4,4,5,6,5,4,6,5,15,ameerika; eric; pik; mill; singel; power; edetab; one; euroopa
+1,6,6,3,5,3,1,1,2,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,6,6,4,5,3,1,1,2,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,6,5,4,5,3,2,1,2,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,6,5,4,5,3,2,1,2,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,6,4,5,4,4,1,2,2,15,one; pik; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,5,3,6,4,5,4,3,2,15,one; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+2,5,3,4,5,5,4,3,2,15,one; power; ameerika; singel; mill; eric; euroopa; edetab
+1,5,3,3,6,5,5,5,3,15,one; power; ameerika; singel; rakse; mill; eric; euroopa; edetab
+1,5,3,3,6,5,4,4,4,15,one; pik; power; ameerika; singel; mill; eric; euroopa; edetab
+2,5,3,4,7,5,4,3,3,15,one; pik; power; ameerika; singel; mill; eric; euroopa; edetab
+2,4,4,5,6,5,4,6,5,15,one; pik; power; ameerika; singel; mill; eric; euroopa; edetab

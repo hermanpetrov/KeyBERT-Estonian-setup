@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,1,2,0,1,13,margit; liivia; otsus
-0,0,0,0,1,1,2,0,1,13,margit; liivia; otsus
-0,0,0,0,1,1,2,0,1,13,margit; liivia; otsus
-0,0,0,0,1,1,2,0,1,13,margit; liivia; otsus
-0,0,0,0,1,1,2,0,1,13,margit; liivia; otsus
-0,0,0,0,1,1,2,0,1,13,poliitiline; otsus; margit; liivia
-0,1,0,0,1,1,1,0,1,13,margit; poliitiline; otsus
-0,1,2,0,1,0,2,1,1,13,poliitiline; otsus; margit; liivia
-1,1,0,0,1,0,0,0,1,13,liivia; otsus
-3,1,0,0,0,0,1,2,1,13,poliitiline; otsus; margit; liivia
-0,0,0,1,1,0,1,1,2,13,margit; vaim; otsus
+1,2,0,1,1,1,2,0,1,13,otsus; haapsalu; moekunstnik; margit; vaimuinimene; liivia
+1,2,0,1,1,1,2,0,1,13,otsus; haapsalu; moekunstnik; margit; vaimuinimene; liivia
+1,2,0,1,1,1,2,0,1,13,otsus; haapsalu; moekunstnik; margit; vaimuinimene; liivia
+1,2,0,1,1,1,2,0,1,13,otsus; haapsalu; moekunstnik; margit; vaimuinimene; liivia
+1,2,0,1,1,1,2,1,1,13,otsus; haapsalu; moekunstnik; margit; vaimuinimene; liivia
+1,2,0,2,1,1,3,0,1,13,otsus; moekunstnik; liivia; moekateeder; poliitiline; haapsalu; margit; vaimuinimene
+0,3,0,1,1,1,1,1,1,13,poliitiline; haapsalu; otsus; moekunstnik; margit; vaimuinimene
+0,1,2,0,1,1,2,2,1,13,poliitiline; otsus; haapsalu; margit; moekateeder; liivia
+1,1,1,0,1,1,0,1,1,13,otsus; haapsalu; moekunstnik; moekateeder; liivia
+3,2,0,0,0,1,1,4,1,13,otsus; moekunstnik; liivia; moekateeder; poliitiline; haapsalu; margit; vaimuinimene
+0,1,0,1,1,0,1,2,2,13,otsus; haapsalu; margit; vaimuinimene; vaim

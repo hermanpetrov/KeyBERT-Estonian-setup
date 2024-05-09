@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,0,0,17,sümfooniaorkester; linnaorkester; annika; akustika
-0,0,2,0,0,2,2,0,0,17,sümfooniaorkester; linnaorkester; annika; akustika
-0,0,2,0,0,2,2,0,0,17,sümfooniaorkester; linnaorkester; annika; akustika
-0,0,2,0,0,2,2,0,0,17,sümfooniaorkester; linnaorkester; annika; akustika
-0,0,2,0,0,2,2,2,0,17,sümfooniaorkester; linnaorkester; annika; akustika; läänemere
-0,0,2,0,0,3,1,1,0,17,sümfooniaorkester; linnaorkester; annika; kuuda; akustika
-0,1,2,0,0,2,1,1,0,17,sümfooniaorkester; linnaorkester; annika; akustika
-0,0,4,2,0,2,2,0,0,17,sümfooniaorkester; festival; kontserdisaal; stravinski; annika; akustika; läänemere
-0,0,3,2,0,1,0,0,0,17,festival; stravinski; annika; akustika; läänemere
-0,0,3,0,0,2,2,2,0,17,festival; sümfooniaorkester; stravinski; annika; akustika
-0,0,1,0,0,1,1,1,0,17,festival; akustika; stravinski; annika
+0,0,2,0,0,2,0,0,0,17,akustika; sümfooniaorkester; annika; linnaorkester
+0,0,2,0,0,2,0,0,0,17,akustika; sümfooniaorkester; annika; linnaorkester
+0,0,2,0,0,2,0,0,0,17,akustika; sümfooniaorkester; annika; linnaorkester
+0,0,2,0,0,2,0,0,0,17,akustika; sümfooniaorkester; annika; linnaorkester
+0,0,2,0,0,2,2,0,0,17,linnaorkester; akustika; läänemere; sümfooniaorkester; annika
+0,0,2,0,0,1,1,0,0,17,akustika; kuuda; sümfooniaorkester; annika
+0,1,2,0,0,1,1,0,0,17,akustika; linnaorkester; annika
+0,0,4,2,0,2,0,0,0,17,stravinski; kontserdisaal; akustika; läänemere; sümfooniaorkester; annika
+0,0,3,2,0,0,0,0,0,17,stravinski; akustika; läänemere; annika
+0,0,3,0,0,2,2,0,0,17,stravinski; akustika; sümfooniaorkester; annika
+0,0,1,0,0,1,1,0,0,17,akustika; stravinski; annika

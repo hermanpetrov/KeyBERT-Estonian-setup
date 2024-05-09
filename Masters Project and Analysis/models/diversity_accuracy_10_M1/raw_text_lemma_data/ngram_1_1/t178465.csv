@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,1,0,0,13,teater; ema
-0,1,1,0,0,1,1,0,0,13,teater; ema
-0,1,1,0,0,1,1,0,0,13,teater; ema
-0,1,1,0,0,1,1,0,0,13,teater; ema
-0,1,1,0,0,1,1,0,0,13,teater; ema
-0,1,0,0,0,1,0,0,0,13,teater; ema
-0,1,0,0,0,0,1,0,0,13,teater; õde
-0,1,0,0,0,0,0,0,0,13,teater
+0,1,1,0,0,1,1,0,0,13,ema; teater
+0,1,1,0,0,1,1,0,0,13,ema; teater
+0,1,1,0,0,1,1,0,0,13,ema; teater
+0,1,1,0,0,1,1,0,0,13,ema; teater
+0,1,1,0,0,1,1,0,0,13,ema; teater
+0,1,0,0,0,1,0,0,0,13,ema; teater
+0,1,0,0,0,1,2,0,0,13,õde; lapsepõlv; teater
+0,1,0,0,0,1,0,0,0,13,lapsepõlv; teater
 0,0,0,0,0,0,0,0,0,13,
 0,0,0,0,0,0,0,0,0,13,
 0,0,0,0,0,0,0,0,0,13,

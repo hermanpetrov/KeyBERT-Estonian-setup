@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,7,4,5,5,4,6,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-5,7,7,4,5,5,5,7,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-5,7,7,4,5,5,6,7,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-4,7,6,4,5,5,6,7,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-4,7,6,3,5,5,7,7,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-5,7,6,3,4,6,6,6,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-6,6,6,5,5,6,7,6,5,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-6,5,5,5,6,6,7,6,6,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-6,7,6,5,6,6,6,6,6,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-6,7,6,6,6,6,7,5,6,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
-6,6,7,6,5,6,7,6,6,10,ema; raamat; lugema; koguja; inimene; isa; kirjutama
+7,8,8,6,5,5,4,7,6,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+7,9,8,6,5,5,5,8,6,10,isa; inimene; ema; lugema; kirjutama; koguja; raamat; raamatukogu; käekiri
+7,9,8,6,5,5,6,8,6,10,isa; inimene; ema; lugema; kirjutama; koguja; raamat; raamatukogu; käekiri
+6,9,8,6,5,6,6,8,6,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+6,9,8,5,5,6,8,8,6,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+7,9,8,5,4,8,8,8,6,10,isa; inimene; ema; lugema; kirjutama; koguja; raamat; raamatukogu; käekiri
+8,8,8,7,6,8,9,8,6,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+8,7,7,7,7,7,9,8,7,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+8,9,8,7,8,8,8,8,7,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+8,9,8,8,8,8,9,7,7,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri
+8,7,9,8,7,8,9,8,7,10,kirjutama; koguja; isa; raamat; inimene; raamatukogu; ema; lugema; käekiri

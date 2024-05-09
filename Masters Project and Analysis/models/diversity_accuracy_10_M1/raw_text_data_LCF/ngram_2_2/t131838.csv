@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,0,0,0,0,0,0,0,17,ameerika; biitlid; mccartney; bbc; lennon
-3,2,0,0,0,0,0,0,0,17,ameerika; biitlid; mccartney; bbc; lennon
-3,2,0,0,0,0,0,0,0,17,ameerika; biitlid; mccartney; bbc; lennon
-3,2,1,0,0,0,0,0,0,17,ameerika; biitlid; mccartney; bbc; lennon
-3,2,1,0,0,0,0,0,0,17,ameerika; biitlid; mccartney; bbc; lennon
-3,2,0,0,0,0,0,1,0,17,ameerika; biitlid; mccartney; bbc; lennon
-0,0,0,0,0,0,0,1,0,17,ameerika
-2,1,0,0,0,0,0,2,0,17,ameerika; linna; maania; vello; john
-1,0,0,0,0,1,0,3,0,17,ameerika; maania; biitlid; epstein
-0,0,0,0,0,1,1,2,0,17,vello; epstein; maania
-0,0,0,0,0,1,0,2,0,17,ameerika; biitlid; epstein
+3,2,0,0,0,0,0,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+3,2,0,0,0,0,0,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+3,2,0,0,0,0,0,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+3,2,1,0,0,0,0,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+3,2,1,0,0,0,0,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+3,2,0,0,0,0,1,0,0,17,biitlid; mccartney; lennon; bbc; ameerika
+0,0,0,0,0,0,1,0,0,17,ameerika
+2,1,0,0,0,0,2,0,0,17,vello; john; maania; linna; ameerika
+1,0,0,0,0,0,3,0,0,17,biitlid; maania; ameerika; epstein
+0,0,0,0,0,1,2,0,0,17,vello; maania; epstein
+0,0,0,0,0,0,2,0,0,17,biitlid; epstein

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,0,0,0,11,vagun; laager; laskma
-0,2,0,1,1,0,1,0,0,11,vagun; laager; laskma; jaam
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,0,0,0,11,laskma; vagun; laager
+0,2,0,1,1,0,1,0,0,11,laskma; vagun; jaam; laager
 0,1,0,1,1,1,0,0,0,11,vagun; laager
 0,1,0,1,1,0,0,0,0,11,vagun; laager
-0,0,0,1,0,0,0,0,0,11,vagun
-0,0,0,2,0,0,0,0,0,11,vagun; laager
+1,0,0,1,0,0,0,0,0,11,sundasumine; vagun
+1,0,0,2,0,0,0,0,0,11,sundasumine; vagun; laager

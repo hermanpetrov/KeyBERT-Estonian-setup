@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,2,2,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,2,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,2,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,2,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,3,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,3,1,2,3,2,3,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,5,1,2,3,2,2,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,3,0,2,1,1,2,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,3,1,2,2,1,2,1,12,hiiemäe; ehmatamine; uskumus; kaitsemaagia; reet; tervisehäda; meditsiin
-3,2,2,0,2,3,1,1,1,12,ehmatamine; uskumus; kaitsemaagia; reet; hiiemäe; tervisehäda; meditsiin
-2,1,2,0,2,3,0,1,1,12,uskumus; reet; kaitsemaagia; hiiemäe; tervisehäda; meditsiin
+3,2,2,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,2,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,2,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,2,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,3,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,3,1,2,3,2,3,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,5,1,2,3,2,2,1,12,tervisehäda; uskumus; kaitsemaagia; hiiemäe; reet; ehmatamine; meditsiin
+3,2,3,0,2,1,1,2,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,3,1,2,2,1,2,1,12,tervisehäda; uskumus; hiiemäe; kaitsemaagia; reet; ehmatamine; meditsiin
+3,2,2,0,2,3,1,1,1,12,hiiemäe; tervisehäda; uskumus; kaitsemaagia; ehmatamine; reet; meditsiin
+2,1,2,0,2,3,0,1,1,12,tervisehäda; kaitsemaagia; uskumus; hiiemäe; reet; meditsiin

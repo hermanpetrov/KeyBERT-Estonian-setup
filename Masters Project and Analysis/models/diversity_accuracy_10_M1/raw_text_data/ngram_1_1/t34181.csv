@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,16,maria-kristiina
 0,0,1,0,0,0,0,0,0,16,maria-kristiina
 0,0,1,0,0,0,1,0,0,16,maria-kristiina
-1,0,1,0,0,1,1,0,0,16,kuraator; maria-kristiina
-0,0,1,1,0,0,1,0,0,16,soomre; maria-kristiina
-0,1,1,0,0,0,1,0,0,16,kriitik; maria-kristiina
+1,0,1,0,0,1,1,0,0,16,maria-kristiina; kuraator
+0,0,1,1,0,0,1,0,0,16,maria-kristiina; soomre
+0,1,1,0,0,0,1,0,0,16,maria-kristiina; kriitik

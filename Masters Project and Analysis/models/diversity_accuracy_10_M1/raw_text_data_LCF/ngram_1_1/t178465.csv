@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,13,amanda
 0,0,1,0,0,0,0,0,0,13,amanda
 0,0,1,0,0,0,0,0,0,13,amanda
-0,0,1,0,0,0,1,0,0,13,ema; amanda
-0,1,1,0,0,1,0,0,0,13,teater; amanda; lapsepõlv
-0,0,1,0,0,1,1,0,0,13,isa; amanda; lapsepõlv
+0,0,1,0,0,1,0,0,0,13,amanda; ema
+0,1,1,0,0,0,0,0,0,13,amanda; teater
+0,0,1,0,0,1,0,0,0,13,isa; amanda
 0,0,1,0,0,0,0,0,0,13,piret
 0,0,0,0,0,0,0,0,0,13,
 0,0,1,0,0,0,0,0,0,13,piret

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,1,0,0,3,0,13,heinrich; pildiraamat; kahupea; kaarel; hoffmann; pseudonüüm
-0,1,2,0,1,0,0,3,0,13,heinrich; pildiraamat; kahupea; kaarel; hoffmann; pseudonüüm
-0,1,2,0,1,0,0,3,0,13,heinrich; pildiraamat; kahupea; kaarel; hoffmann; pseudonüüm
-0,1,2,0,1,0,0,3,0,13,heinrich; pildiraamat; kahupea; kaarel; hoffmann; pseudonüüm
-0,1,1,0,1,0,0,3,0,13,heinrich; pildiraamat; kahupea; kaarel; hoffmann; pseudonüüm
-0,2,0,0,1,0,0,2,0,13,doktor; pildiraamat; kahupea; kaarel; pseudonüüm
-0,2,0,0,1,0,0,3,0,13,doktor; pildiraamat; kahupea; kaarel; lugu; pseudonüüm
-0,1,1,0,1,0,1,4,0,13,heinrich; pildiraamat; kahupea; kaarel; lugu; pseudonüüm
-1,0,1,0,1,0,0,4,0,13,heinrich; lugu; pildiraamat; kahupea; kaarel; pseudonüüm
-0,0,1,0,0,1,0,4,0,13,heinrich; pildiraamat; kahupea; kaarel; luuleruum; lugu
-0,1,1,0,1,0,0,3,0,13,doktor; heinrich; pildiraamat; kahupea; kaarel; pseudonüüm
+0,1,2,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; hoffmann; pseudonüüm
+0,1,2,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; hoffmann; pseudonüüm
+0,1,2,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; hoffmann; pseudonüüm
+0,1,2,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; hoffmann; pseudonüüm
+0,1,1,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; hoffmann; pseudonüüm
+0,2,0,0,1,0,2,0,0,13,kaarel; kahupea; pildiraamat; pseudonüüm; doktor
+0,2,0,0,1,0,3,0,0,13,kaarel; kahupea; pildiraamat; lugu; pseudonüüm; doktor
+0,1,1,0,1,1,4,0,0,13,kaarel; heinrich; kahupea; pildiraamat; lugu; pseudonüüm
+1,0,1,0,1,0,4,0,0,13,kaarel; heinrich; kahupea; pildiraamat; lugu; pseudonüüm
+0,0,1,0,0,0,4,0,0,13,kaarel; heinrich; kahupea; pildiraamat; lugu
+0,1,1,0,1,0,3,0,0,13,kaarel; heinrich; kahupea; pildiraamat; pseudonüüm; doktor

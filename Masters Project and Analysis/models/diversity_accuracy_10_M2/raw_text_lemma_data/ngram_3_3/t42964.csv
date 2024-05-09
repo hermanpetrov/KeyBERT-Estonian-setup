@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-3,1,2,3,1,3,2,4,1,10,hämarik; lill; faehlmann; taevas; koit
-2,1,1,2,1,2,2,4,1,10,hämarik; koit; faehlmann; taevas
-3,1,1,3,1,2,2,3,1,10,hämarik; koit; faehlmann; taevas
-2,1,1,4,2,4,2,3,1,10,koit; hämarik; taevas; faehlmann; ööbik
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,3,4,2,3,2,6,3,10,lill; koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+2,2,2,3,2,2,2,6,3,10,koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+3,2,2,4,2,2,2,5,3,10,koit; valgusandja; faehlmann; taevas; hämarik; vanaisa
+2,2,2,5,3,4,2,5,3,10,koit; valgusandja; ööbik; faehlmann; taevas; hämarik; vanaisa

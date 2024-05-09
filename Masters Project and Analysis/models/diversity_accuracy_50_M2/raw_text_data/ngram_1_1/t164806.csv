@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,2,2,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-4,2,2,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-4,2,2,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-4,2,2,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-4,2,2,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-4,2,1,0,1,1,1,1,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; rajaste
-3,2,1,0,1,1,1,2,1,12,tantsupidu; metsamaa; heinamaa; isetegemine; tänutunne; vaike; rajaste; soomaa
-2,2,2,1,1,0,1,2,1,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne
-3,1,2,1,1,0,1,2,1,12,heinamaa; soomaa; isetegemine; vaike; rajaste; tantsupidu; metsamaa; mait; tänutunne
-3,1,2,1,1,1,0,2,1,12,heinamaa; soomaa; isetegemine; vaike; rajaste; metsamaa; tänutunne
-2,1,0,1,0,1,0,3,1,12,metsamaa; heinamaa; soomaa; tänutunne; vaike; rajaste
+4,2,2,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+4,2,2,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+4,2,2,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+4,2,2,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+4,2,2,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+4,2,1,0,1,1,1,1,1,12,tantsupidu; heinamaa; tänutunne; isetegemine; metsamaa; rajaste
+3,2,1,0,1,1,1,2,1,12,tantsupidu; tänutunne; isetegemine; soomaa; rajaste; heinamaa; vaike; metsamaa
+2,2,2,1,1,0,1,2,1,12,tantsupidu; tänutunne; soomaa; vaike; isetegemine; rajaste; heinamaa; metsamaa; mait
+3,1,2,1,1,0,1,2,1,12,tantsupidu; tänutunne; soomaa; vaike; isetegemine; metsamaa; heinamaa; rajaste; mait
+3,1,2,1,1,1,0,2,1,12,tänutunne; soomaa; vaike; isetegemine; metsamaa; heinamaa; rajaste
+2,1,0,1,0,1,0,3,1,12,tänutunne; soomaa; rajaste; heinamaa; vaike; metsamaa

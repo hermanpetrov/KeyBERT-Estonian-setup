@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,7,6,6,8,6,7,8,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,7,6,6,8,6,7,8,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,7,7,6,8,7,7,7,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-7,7,8,6,8,7,7,7,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-7,8,7,6,8,7,7,7,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-7,8,8,6,8,7,7,7,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,8,7,7,8,7,8,7,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,8,8,7,8,8,8,8,5,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,8,8,7,8,7,8,7,6,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,8,7,8,8,8,8,8,7,11,facebook; andmed; leping; trahv; skandaal; börs; karistus; aktsia
-8,8,7,8,8,8,8,7,8,11,andmed; facebook; leping; trahv; skandaal; börs; karistus; aktsia
+11,10,8,8,10,8,9,11,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+11,10,8,8,10,8,9,11,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+11,10,10,8,10,10,9,10,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+10,10,11,8,10,10,9,10,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+10,11,10,8,10,10,9,10,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+10,11,11,8,10,10,10,10,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+11,11,10,10,10,10,11,10,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+11,11,11,10,11,11,11,11,7,11,leping; trahv; andmed; suhkrutrahv; karistus; ettevõte; aktsia; facebook; börs; kuritarvitamine; skandaal
+10,11,11,10,11,10,11,10,8,11,leping; andmed; trahv; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+10,11,10,11,11,11,11,11,8,11,leping; andmed; trahv; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal
+10,10,10,11,11,11,11,10,10,11,leping; andmed; trahv; suhkrutrahv; karistus; ettevõte; aktsia; börs; facebook; kuritarvitamine; skandaal

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,1,2,0,2,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,2,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,2,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,2,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,2,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,1,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,1,3,3,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,1,2,0,0,3,2,0,13,töö; lõpp; sajand; isolatsioon; vitamiin; peeter; meditsiin
-2,4,2,3,0,0,2,2,0,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; meditsiin
-2,4,2,4,1,0,2,1,0,13,töö; hellat; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin
-2,3,2,5,1,0,3,2,0,13,töö; lõpp; isolatsioon; sajand; vitamiin; peeter; nakkus; meditsiin; hellat
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,3,0,3,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,1,3,0,2,5,5,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,1,4,0,0,5,3,0,13,lõpp; peeter; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,5,0,0,2,3,0,13,lõpp; peeter; hellat; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; meditsiin
+3,4,2,6,1,0,2,2,0,13,lõpp; peeter; hellat; sajand; töö; arstiteadus; isolatsioon; vitamiin; pidalitõbi; nakkus; meditsiin
+2,3,2,7,1,0,3,3,1,13,lõpp; peeter; hellat; sajand; töö; arstiteadus; isolatsioon; meditsiin; pidalitõbi; nakkus; vitamiin

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-7,4,2,3,2,3,1,4,1,14,kammerorkester; interpreet; gerretz; leibur; pakkumine; jüri; palk; mozart; arvo
-7,4,2,3,2,3,1,4,1,14,kammerorkester; interpreet; gerretz; leibur; pakkumine; jüri; palk; mozart; arvo
-7,4,2,3,2,3,1,4,1,14,kammerorkester; interpreet; gerretz; leibur; pakkumine; jüri; palk; mozart; arvo
-7,4,2,3,2,3,1,4,0,14,kammerorkester; interpreet; gerretz; leibur; jüri; palk; mozart; arvo
-7,4,3,3,2,3,1,4,0,14,kammerorkester; kontsert; interpreet; gerretz; leibur; jüri; palk; mozart; arvo
-8,4,4,3,2,3,1,4,0,14,kammerorkester; kontsert; interpreet; gerretz; leibur; pakkumine; kriisimoment; jüri; palk; mozart; arvo
-4,4,3,4,2,4,2,4,0,14,kontsert; interpreet; gerretz; pakkumine; dirigent; jüri; palk; kammerorkester; kriisimoment
-2,3,5,6,2,4,2,3,0,14,arvo; kammerorkester; kontsert; interpreet; gerretz; leibur; pakkumine; dirigent; jüri; palk; mozart; kriisimoment
-1,1,4,6,2,3,3,4,2,14,arvo; kontsert; interpreet; gerretz; leibur; dirigent; jüri; pedagoogitöö; kammerorkester; kriisimoment
-1,1,4,4,4,4,2,3,3,14,kontsert; interpreet; gerretz; leibur; dirigent; jüri; mozart; pedagoogitöö; kammerorkester; arvo
-2,0,3,4,4,4,3,3,2,14,kontsert; interpreet; gerretz; leibur; palk; kriisimoment; jüri; dirigent; pedagoogitöö; arvo
+7,4,2,3,2,3,1,4,1,14,mozart; leibur; gerretz; jüri; kammerorkester; palk; pakkumine; arvo; interpreet
+7,4,2,3,2,3,1,4,1,14,mozart; leibur; gerretz; jüri; kammerorkester; palk; pakkumine; arvo; interpreet
+7,4,2,3,2,3,1,4,1,14,mozart; leibur; gerretz; jüri; kammerorkester; palk; pakkumine; arvo; interpreet
+7,4,2,3,2,3,1,4,0,14,mozart; leibur; gerretz; jüri; kammerorkester; palk; arvo; interpreet
+7,4,3,3,2,3,1,4,0,14,mozart; leibur; gerretz; jüri; kammerorkester; palk; arvo; interpreet; kontsert
+8,4,4,3,2,3,1,4,0,14,mozart; leibur; gerretz; jüri; kammerorkester; kriisimoment; pakkumine; palk; arvo; interpreet; kontsert
+4,4,3,4,2,4,2,4,0,14,gerretz; jüri; dirigent; kammerorkester; kriisimoment; pakkumine; palk; interpreet; kontsert
+2,3,5,6,2,4,2,3,0,14,mozart; leibur; gerretz; jüri; dirigent; kammerorkester; kriisimoment; pakkumine; palk; arvo; interpreet; kontsert
+1,1,4,6,2,3,3,4,2,14,leibur; gerretz; jüri; dirigent; kammerorkester; kriisimoment; pedagoogitöö; arvo; interpreet; kontsert
+1,1,4,4,4,4,2,3,3,14,leibur; mozart; gerretz; dirigent; jüri; kammerorkester; pedagoogitöö; arvo; interpreet; kontsert
+2,0,3,4,4,4,3,3,2,14,leibur; gerretz; jüri; dirigent; palk; kriisimoment; pedagoogitöö; arvo; interpreet; kontsert

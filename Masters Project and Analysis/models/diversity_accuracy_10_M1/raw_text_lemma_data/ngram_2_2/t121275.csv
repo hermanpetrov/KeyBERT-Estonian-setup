@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,1,2,1,1,13,vene; kontsert; muusika; sajand; tunnetamine
-0,1,1,2,0,3,2,2,1,13,vene; kontsert; muusika; sonaat; sajand; tunnetamine
-1,1,1,2,0,3,2,2,1,13,vene; kontsert; muusika; sonaat; tunnetamine
-2,1,2,2,0,3,1,2,1,13,vene; kunst; kontsert; muusika; sonaat; tunnetamine
-2,1,1,2,0,3,2,2,1,13,vene; jõud; kontsert; muusika; sonaat; tunnetamine
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,2,1,13,tunnetamine; sonaat; muusika; vene; sajand; kontsert
+1,1,1,2,0,1,2,1,1,13,tunnetamine; muusika; vene; sajand; kontsert
+0,1,1,2,0,3,2,2,1,13,tunnetamine; muusika; sonaat; vene; sajand; kontsert
+1,1,1,2,0,3,2,2,1,13,tunnetamine; sonaat; muusika; vene; kontsert
+2,1,2,2,0,3,1,2,1,13,tunnetamine; sonaat; kunst; vene; muusika; kontsert
+2,1,1,2,0,3,2,2,1,13,tunnetamine; sonaat; muusika; jõud; vene; kontsert

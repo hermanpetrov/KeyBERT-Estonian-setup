@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,3,1,0,2,2,5,1,14,kunst; salajane; aed; elken; maa; jaan; näitus
-3,1,3,1,0,2,2,5,2,14,kunst; salajane; aed; elken; maa; jaan; näitus
-3,1,3,1,0,2,2,5,2,14,kunst; salajane; aed; elken; maa; jaan; näitus
-3,1,3,1,0,2,2,5,2,14,kunst; salajane; aed; elken; maa; jaan; näitus
-3,1,3,1,0,2,2,5,2,14,kunst; salajane; aed; elken; maa; jaan; näitus
-3,1,3,1,0,1,2,4,2,14,kunst; salajane; elken; maa; jaan; näitus
-1,0,3,1,0,2,3,5,2,14,kunst; salajane; elken; sotsia; maa; jaan; näitus
-0,0,4,0,0,3,3,3,2,14,kunst; salajane; aed; elken; sotsia; näitus
-0,0,2,1,0,2,4,2,2,14,kunst; maa; salajane; näitus; elken
-1,0,2,0,2,2,2,4,1,14,kunst; salajane; elken; sotsia; näitus; akvarell
-1,0,2,0,1,2,3,2,1,14,kunst; salajane; aed; elken; sotsia; näitus; akvarell
+3,1,3,1,0,2,2,5,1,14,aed; elken; jaan; kunst; näitus; salajane; maa
+3,1,3,1,0,2,2,5,2,14,aed; elken; jaan; kunst; näitus; salajane; maa
+3,1,3,1,0,2,2,5,2,14,aed; elken; jaan; kunst; näitus; salajane; maa
+3,1,3,1,0,2,2,5,2,14,aed; elken; jaan; kunst; näitus; salajane; maa
+3,1,3,1,0,2,2,5,2,14,aed; elken; jaan; kunst; näitus; salajane; maa
+3,1,3,1,0,1,2,4,2,14,elken; jaan; kunst; näitus; salajane; maa
+1,0,3,1,0,3,3,5,2,14,infotankist; sotsia; elken; jaan; kunst; näitus; salajane; maa
+0,0,4,0,0,3,3,3,2,14,sotsia; aed; elken; kunst; näitus; salajane
+1,0,2,1,0,2,4,2,2,14,kunst; biotehnoloogia; elken; näitus; salajane; maa
+2,0,2,0,2,2,2,4,1,14,akvarell; sotsia; elken; kunst; biotehnoloogia; näitus; salajane
+1,0,2,0,1,2,3,2,1,14,akvarell; sotsia; aed; elken; kunst; näitus; salajane

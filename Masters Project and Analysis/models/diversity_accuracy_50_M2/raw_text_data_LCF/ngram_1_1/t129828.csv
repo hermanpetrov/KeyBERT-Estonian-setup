@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,2,0,0,3,4,2,0,13,prototüüp; stalin; nõukogude; film; masnikova; varvara; propagandafilm
-3,1,2,0,0,3,4,2,0,13,prototüüp; stalin; nõukogude; film; masnikova; varvara; propagandafilm
-3,1,2,0,0,3,4,2,0,13,prototüüp; stalin; nõukogude; film; masnikova; varvara; propagandafilm
-3,1,1,0,0,3,4,2,0,13,prototüüp; stalin; nõukogude; masnikova; varvara; propagandafilm
-3,1,3,0,0,3,4,2,0,13,prototüüp; stalin; nõukogude; masnikova; varvara; propagandafilm
-3,1,3,0,0,4,3,2,0,13,prototüüp; stalin; nõukogude; masnikova; varvara; propagandafilm
-1,1,3,0,0,0,3,2,0,13,nõukogude; masnikova; varvara; propagandafilm
-1,0,3,1,0,1,2,3,0,13,chapaev; stalin; prototüüp; nõukogude; masnikova; varvara; propagandafilm
-0,1,3,1,0,1,3,2,0,13,nõukogude; masnikova; chapaev; stalin; prototüüp; propagandafilm
-0,1,2,0,0,1,3,3,0,13,prototüüp; nõukogude; masnikova; chapaev; stalin; propagandafilm
-1,2,2,0,0,1,2,3,0,13,masnikova; chapaev; varvara; stalin; prototüüp; propagandafilm
+3,1,2,0,0,4,2,0,0,13,film; masnikova; prototüüp; stalin; varvara; nõukogude; propagandafilm
+3,1,2,0,0,4,2,0,0,13,film; masnikova; prototüüp; stalin; varvara; nõukogude; propagandafilm
+3,1,2,0,0,4,2,0,0,13,film; masnikova; prototüüp; stalin; varvara; nõukogude; propagandafilm
+3,1,1,0,0,4,2,0,0,13,masnikova; prototüüp; stalin; varvara; nõukogude; propagandafilm
+3,1,3,0,0,4,2,0,0,13,masnikova; prototüüp; stalin; varvara; nõukogude; propagandafilm
+3,1,3,0,0,3,2,0,0,13,varvara; nõukogude; propagandafilm; masnikova; prototüüp
+1,1,3,0,0,3,2,0,0,13,nõukogude; varvara; propagandafilm; masnikova
+1,0,3,1,0,2,3,0,0,13,nõukogude; varvara; propagandafilm; masnikova; prototüüp; chapaev
+0,1,3,1,0,3,2,0,0,13,nõukogude; propagandafilm; masnikova; stalin; prototüüp; chapaev
+0,1,2,0,0,3,3,0,0,13,nõukogude; propagandafilm; masnikova; stalin; prototüüp; chapaev
+1,2,2,0,0,2,3,0,0,13,varvara; propagandafilm; masnikova; stalin; prototüüp; chapaev

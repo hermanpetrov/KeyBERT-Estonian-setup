@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,2,1,0,15,euroopa; liit
-0,0,1,0,0,1,2,1,0,15,euroopa; liit
-0,0,1,0,0,1,2,1,0,15,euroopa; liit
-0,0,1,0,0,1,2,1,0,15,euroopa; liit
-0,0,2,0,0,1,2,1,0,15,liit; euroopa; kriis
-0,0,1,0,0,1,2,1,0,15,euroopa; kriis; liit
-0,0,1,0,0,0,2,1,0,15,euroopa; kriis; liit
+0,0,1,0,0,1,2,1,0,15,liit; euroopa
+0,0,1,0,0,1,2,1,0,15,liit; euroopa
+0,0,1,0,0,1,2,1,0,15,liit; euroopa
+0,0,1,0,0,1,2,1,0,15,liit; euroopa
+0,0,2,0,0,1,2,1,0,15,kriis; liit; euroopa
+0,0,1,0,0,1,2,1,0,15,kriis; liit; euroopa
+0,0,1,0,0,0,2,1,0,15,kriis; liit; euroopa
 0,0,0,0,0,1,1,1,0,15,liit
-0,0,0,0,0,0,1,1,0,15,erakond; liit
-1,0,1,0,0,0,2,0,0,15,erakond; tartu; kriis; liit
-0,0,0,0,0,0,1,0,0,15,erakond
+0,0,0,0,0,0,1,2,0,15,erakond; miinimumpalk; liit
+1,0,1,0,0,0,2,1,0,15,miinimumpalk; erakond; kriis; tartu; liit
+0,0,0,0,0,0,1,1,0,15,erakond; miinimumpalk

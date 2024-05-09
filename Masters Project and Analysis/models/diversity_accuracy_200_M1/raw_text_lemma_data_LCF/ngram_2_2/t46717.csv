@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,3,2,3,0,5,5,4,6,17,festival; paavo; riiklik; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-2,3,3,3,0,6,5,5,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-4,3,3,3,0,7,6,5,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-4,4,4,3,1,8,6,6,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-4,4,4,3,1,8,8,7,7,17,festival; paavo; riiklik; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-4,5,5,3,1,9,7,7,7,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-4,4,8,7,3,8,5,8,4,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-3,5,8,8,5,6,6,6,3,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-2,3,7,8,7,4,5,7,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-3,6,7,8,6,1,6,5,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
-2,6,9,8,6,2,4,6,1,17,festival; paavo; kuu; annika; pärt; kaljuste; tõnu; akustika; arvo; helsingi
+5,6,4,6,0,8,9,7,9,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; akustika; linnaorkester; arvo
+5,6,6,6,0,9,9,8,10,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; akustika; linnaorkester; arvo; annika
+7,6,6,6,0,11,10,9,10,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; akustika; linnaorkester; arvo; annika
+7,7,7,6,1,12,10,10,10,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; akustika; linnaorkester; arvo; annika
+7,7,7,6,1,12,12,11,10,17,riiklik; sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; akustika; linnaorkester; arvo; annika
+6,8,8,7,1,13,11,10,10,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; linnaorkester; arvo; annika
+6,6,11,9,3,11,9,11,7,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; linnaorkester; arvo; annika
+5,7,11,10,5,8,8,9,5,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; arvo; annika
+4,5,8,11,7,6,5,10,3,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; linnaorkester; arvo; annika
+5,7,10,10,7,4,6,7,2,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; linnaorkester; arvo; annika
+4,8,11,10,8,4,4,8,2,17,sümfooniaorkester; kontserdisaal; läänemeri; paavo; festival; tõnu; kaljuste; helsingi; pärt; kuu; akustika; linnaorkester; arvo; annika

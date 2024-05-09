@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,1,1,1,1,1,0,0,19,salme; kosmosesüstik; kreeka; euroopa; rudolf
-1,2,1,1,1,1,1,0,0,19,salme; kosmosesüstik; kreeka; euroopa; rudolf
-1,2,1,1,1,1,1,0,0,19,salme; kosmosesüstik; kreeka; euroopa; rudolf
-1,2,1,1,1,1,1,0,0,19,salme; kosmosesüstik; kreeka; euroopa; rudolf
-1,2,0,1,1,1,1,0,0,19,salme; kreeka; euroopa; rudolf
-1,2,0,2,1,1,1,0,0,19,salme; bulgaaria; kreeka; euroopa; rudolf
-1,1,1,0,1,2,1,1,0,19,salme; liit; kreeka; euroopa; rudolf
-0,1,1,1,1,3,3,0,0,19,festival; salme; liit; kreeka; euroopa
-3,2,0,1,1,3,4,0,0,19,elanikkond; salme; bulgaaria; liit; kreeka; euroopa
-3,1,1,2,2,3,3,0,0,19,elanikkond; salme; pärimusmuusika; bulgaaria; liit; kreeka; euroopa
-0,1,2,2,2,3,2,0,0,19,liit; salme; pärimusmuusika; muinaslaev; kreeka; euroopa
+1,2,1,1,1,1,1,0,0,19,kreeka; euroopa; salme; rudolf; kosmosesüstik
+1,2,1,1,1,1,1,0,0,19,kreeka; euroopa; salme; rudolf; kosmosesüstik
+1,2,1,1,1,1,1,0,0,19,kreeka; euroopa; salme; rudolf; kosmosesüstik
+1,2,1,1,1,1,1,0,0,19,kreeka; euroopa; salme; rudolf; kosmosesüstik
+1,2,0,1,1,1,1,0,0,19,kreeka; euroopa; salme; rudolf
+1,2,0,2,1,1,1,0,0,19,euroopa; kreeka; salme; rudolf; bulgaaria
+1,1,1,0,1,2,1,1,0,19,euroopa; kreeka; salme; rudolf; liit
+0,1,1,1,1,3,3,0,0,19,liit; euroopa; kreeka; salme; festival
+3,2,0,1,1,3,4,0,0,19,euroopa; salme; kreeka; bulgaaria; liit; elanikkond
+3,1,1,2,2,3,3,0,0,19,euroopa; salme; pärimusmuusika; kreeka; bulgaaria; liit; elanikkond
+0,1,2,2,2,3,2,0,0,19,muinaslaev; kreeka; euroopa; salme; pärimusmuusika; liit

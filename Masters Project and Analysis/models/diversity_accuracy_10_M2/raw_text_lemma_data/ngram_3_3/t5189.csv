@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-2,0,1,1,0,1,1,0,1,15,aasta; laidoner; keedus
-1,0,1,1,0,1,1,0,1,15,aasta; keedus; gruusia
-2,1,1,0,0,1,1,0,1,15,aasta; sulev; keedus
-2,0,0,2,0,0,1,1,1,15,aasta; laidoner; keedus
-1,0,2,1,0,0,1,1,1,15,aasta; laidoner; muuseum
-0,1,2,1,0,0,1,1,1,15,aasta; sulev
+3,1,2,2,0,3,3,1,1,15,keedus; laidoner; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; filmiajakirjanik
+3,1,2,2,0,3,3,1,1,15,keedus; laidoner; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; filmiajakirjanik
+3,1,2,2,0,3,3,1,1,15,keedus; laidoner; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; filmiajakirjanik
+3,1,2,2,0,3,3,1,1,15,keedus; laidoner; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; filmiajakirjanik
+3,0,2,2,0,3,3,1,1,15,keedus; laidoner; aasta; rahvusvaheline; sundüürnik; konkurentsivõime; filmiajakirjanik
+3,0,1,2,0,3,3,2,1,15,keedus; laidoner; rahvusvaheline; aasta; sundüürnik; konkurentsivõime
+3,1,3,2,0,3,3,1,1,15,keedus; gruusia; aasta; rahvusvaheline; konkurentsivõime; filmiajakirjanik
+4,2,2,0,0,3,3,1,1,15,keedus; sulev; rahvusvaheline; aasta; konkurentsivõime; filmiajakirjanik
+3,1,0,2,0,2,3,2,1,15,pakendiorganisatsioon; konkurentsivõime; keedus; laidoner; rahvusvaheline; aasta
+2,0,3,1,0,2,3,2,1,15,pakendiorganisatsioon; laidoner; rahvusvaheline; aasta; assotsiatsioonilepe; konkurentsivõime; filmiajakirjanik; muuseum
+2,2,3,1,0,2,2,2,1,15,pakendiorganisatsioon; konkurentsivõime; assotsiatsioonilepe; aasta; sulev; rahvusvaheline

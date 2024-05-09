@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,8,7,6,3,5,7,9,5,12,rütmika; muusika; eikellegimaa; nigeeria; popmuusika; kambja; ansambel; rahvamuusika; lääne-aafrika
-5,8,7,6,3,5,7,9,5,12,rütmika; muusika; eikellegimaa; nigeeria; popmuusika; kambja; ansambel; rahvamuusika; lääne-aafrika
-5,8,7,6,3,5,9,9,5,12,rütmika; muusika; eikellegimaa; nigeeria; popmuusika; kambja; ansambel; rahvamuusika; lääne-aafrika
-5,8,8,5,2,5,8,9,5,12,rütmika; muusika; eikellegimaa; kambja; ansambel; lääne-aafrika; nigeeria; popmuusika; rahvamuusika; prantsuse
-5,7,8,5,1,5,8,9,5,12,rütmika; muusika; eikellegimaa; kambja; ansambel; lääne-aafrika; nigeeria; popmuusika; rahvamuusika; prantsuse
-3,7,9,5,2,6,6,9,6,12,rütmika; muusika; eikellegimaa; kambja; ansambel; lääne-aafrika; nigeeria; popmuusika; rahvamuusika; prantsuse
-4,6,8,3,4,7,4,9,6,12,rütmika; muusika; eikellegimaa; kambja; ansambel; lääne-aafrika; nigeeria; popmuusika; rahvamuusika; prantsuse
-5,5,6,4,5,5,3,10,6,12,rütmika; muusika; eikellegimaa; kambja; ansambel; lääne-aafrika; nigeeria; popmuusika; rahvamuusika; prantsuse
-5,4,4,5,5,4,3,6,5,12,rütmika; muusika; nigeeria; eikellegimaa; popmuusika; kambja; ansambel; rahvamuusika; prantsuse; lääne-aafrika
-3,5,4,5,5,5,3,6,5,12,rütmika; muusika; nigeeria; eikellegimaa; popmuusika; kambja; ansambel; rahvamuusika; prantsuse; lääne-aafrika
-3,5,4,5,5,3,3,4,6,12,rütmika; muusika; eikellegimaa; nigeeria; popmuusika; kambja; ansambel; rahvamuusika; prantsuse; lääne-aafrika
+5,8,7,6,3,7,9,5,0,12,kambja; rahvamuusika; popmuusika; muusika; lääne-aafrika; eikellegimaa; nigeeria; ansambel; rütmika
+5,8,7,6,3,7,9,5,0,12,kambja; rahvamuusika; popmuusika; muusika; lääne-aafrika; eikellegimaa; nigeeria; ansambel; rütmika
+5,8,7,6,3,9,9,5,0,12,kambja; rahvamuusika; popmuusika; muusika; lääne-aafrika; eikellegimaa; nigeeria; ansambel; rütmika
+5,8,8,5,2,8,9,5,0,12,kambja; rahvamuusika; popmuusika; nigeeria; prantsuse; ansambel; muusika; lääne-aafrika; eikellegimaa; rütmika
+5,7,8,5,1,8,9,5,0,12,kambja; rahvamuusika; popmuusika; nigeeria; prantsuse; ansambel; muusika; lääne-aafrika; eikellegimaa; rütmika
+3,7,9,5,2,6,9,6,0,12,kambja; rahvamuusika; popmuusika; nigeeria; prantsuse; ansambel; muusika; eikellegimaa; lääne-aafrika; rütmika
+4,6,8,3,4,4,9,6,0,12,kambja; rahvamuusika; popmuusika; nigeeria; prantsuse; ansambel; muusika; eikellegimaa; lääne-aafrika; rütmika
+5,5,6,4,5,3,10,6,0,12,kambja; rahvamuusika; popmuusika; nigeeria; prantsuse; ansambel; muusika; lääne-aafrika; eikellegimaa; rütmika
+5,4,4,5,5,3,6,5,0,12,kambja; rahvamuusika; ansambel; muusika; lääne-aafrika; nigeeria; popmuusika; rütmika; prantsuse; eikellegimaa
+3,5,4,5,5,3,6,5,0,12,kambja; rahvamuusika; ansambel; muusika; nigeeria; lääne-aafrika; popmuusika; rütmika; prantsuse; eikellegimaa
+3,5,4,5,5,3,4,6,0,12,kambja; rahvamuusika; ansambel; muusika; lääne-aafrika; popmuusika; eikellegimaa; rütmika; prantsuse; nigeeria

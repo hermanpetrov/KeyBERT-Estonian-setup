@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-2,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; aeg; internet; port; surfaja
-3,1,3,1,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; port; internet; surfaja
-3,1,3,2,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; port; internet; surfaja
-3,1,3,2,3,5,4,3,3,13,tehnoloogia; kristjan; uudis; port; internet; surfaja
-3,1,3,2,4,5,4,4,3,13,tehnoloogia; kristjan; uudis; port; internet; aeg; surfaja
-3,3,4,2,4,5,4,3,3,13,tehnoloogia; kristjan; uudis; port; internet; aeg; surfaja
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+2,1,3,1,3,4,3,3,0,13,aeg; port; surfaja; uudis; kristjan; internet; tehnoloogia
+3,1,3,1,3,4,3,3,0,13,port; surfaja; kristjan; uudis; internet; tehnoloogia
+3,1,3,2,3,4,3,3,0,13,port; surfaja; kristjan; uudis; internet; tehnoloogia
+3,1,3,2,3,4,3,3,0,13,port; surfaja; kristjan; uudis; internet; tehnoloogia
+3,1,3,2,4,4,4,3,0,13,aeg; port; surfaja; kristjan; uudis; internet; tehnoloogia
+3,3,4,2,4,4,3,3,0,13,aeg; port; surfaja; kristjan; uudis; internet; tehnoloogia

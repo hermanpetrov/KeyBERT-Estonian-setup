@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,7,2,5,5,5,5,5,6,11,pärnu; vagun; laager; maha; jaam; laskma; ohvitser
-5,7,4,5,5,5,5,5,6,11,pärnu; vagun; laager; maha; jaam; laskma; ohvitser
-5,7,5,5,5,6,5,7,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-5,7,5,5,5,6,5,7,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-5,7,6,6,6,6,5,7,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-5,7,5,5,6,7,5,7,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-5,7,6,6,6,5,5,8,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-6,7,5,7,6,6,5,8,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-6,7,6,6,6,7,5,8,7,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-6,7,7,6,6,7,6,7,7,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
-6,7,7,6,6,7,6,7,6,11,pärnu; vagun; laager; maha; jaam; laskma; küüditama; ohvitser
+5,8,3,6,6,5,5,6,8,11,laskma; ohvitser; punaarmee; jaam; sundasumine; vagun; pärnu; maha; laager
+6,8,5,6,6,5,5,6,8,11,laskma; ohvitser; punaarmee; jaam; sundasumine; vagun; pärnu; maha; laager
+6,8,6,6,6,6,5,8,8,11,laskma; ohvitser; punaarmee; jaam; küüditama; sundasumine; vagun; pärnu; maha; laager
+5,8,6,6,6,7,5,8,8,11,laskma; ohvitser; punaarmee; jaam; küüditama; sundasumine; vagun; pärnu; maha; laager
+5,8,7,7,7,7,6,8,8,11,laskma; ohvitser; punaarmee; jaam; küüditama; sundasumine; vagun; pärnu; maha; laager
+6,7,6,6,6,9,6,8,8,11,laskma; ohvitser; punaarmee; jaam; küüditama; sundasumine; vagun; pärnu; maha; laager
+6,7,7,6,6,6,6,9,8,11,punaarmee; vagun; pärnu; laskma; ohvitser; küüditama; jaam; sundasumine; maha; laager
+8,7,7,8,6,7,6,9,8,11,punaarmee; vagun; pärnu; laskma; ohvitser; küüditama; jaam; sundasumine; maha; laager
+8,7,8,7,6,9,7,9,9,11,punaarmee; vagun; pärnu; laskma; ohvitser; küüditama; jaam; sundasumine; maha; laager
+8,8,7,7,7,8,7,8,9,11,punaarmee; vagun; pärnu; laskma; ohvitser; jaam; küüditama; sundasumine; maha; laager
+7,7,7,7,7,8,7,8,7,11,laskma; ohvitser; punaarmee; jaam; küüditama; sundasumine; vagun; pärnu; maha; laager

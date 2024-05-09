@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,2,1,1,5,6,1,5,17,külm; bismarck; muusika; von; hitler; otto; areng; adolf; sõda; berliin
-2,4,4,1,1,5,7,2,5,17,külm; bismarck; muusika; von; hitler; otto; areng; adolf; sõda; berliin
-2,4,3,1,2,6,6,2,5,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
-3,3,4,1,3,7,6,2,5,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
-2,3,5,0,3,7,6,3,6,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
-2,2,6,2,4,6,3,3,7,17,külm; bismarck; muusika; von; otto; areng; adolf; reibas; hitler; sõda; berliin
-1,3,3,2,4,5,5,3,7,17,külm; bismarck; muusika; von; hitler; otto; areng; reibas; sõda; berliin
-0,2,5,3,4,4,4,3,7,17,külm; bismarck; muusika; von; otto; areng; adolf; reibas; hitler; sõda; berliin
-0,2,5,2,3,4,3,3,6,17,külm; bismarck; muusika; von; otto; areng; adolf; hitler; sõda; berliin
-1,2,2,3,3,2,2,2,3,17,külm; bismarck; muusika; von; otto; areng; reibas; hitler
-1,1,2,3,3,2,3,2,2,17,külm; bismarck; von; otto; areng; reibas; hitler
+7,4,3,2,1,9,9,3,6,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+7,4,5,2,1,9,10,5,6,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+7,4,4,3,2,10,10,6,6,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+8,3,5,3,3,11,10,7,6,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+7,3,7,2,3,10,10,8,7,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+6,2,9,4,4,8,6,8,8,17,natsionaalsotsialistlik; otto; bismarck; sõda; raadiosaade; reibas; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+4,3,6,4,4,7,8,9,7,17,natsionaalsotsialistlik; otto; bismarck; sõda; raadiosaade; reibas; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; külm; hitler; von
+2,3,8,6,5,4,6,7,7,17,natsionaalsotsialistlik; otto; bismarck; raadiosaade; sõda; reibas; berliin; areng; valgustusajastu; saksamaa; börsikrahh; muusika; adolf; külm; hitler; von
+2,3,9,5,4,4,4,5,7,17,natsionaalsotsialistlik; otto; bismarck; sõda; berliin; areng; valgustusajastu; saksamaa; üliõpilasrahutus; börsikrahh; muusika; adolf; külm; hitler; von
+2,3,6,4,4,3,5,6,4,17,areng; valgustusajastu; natsionaalsotsialistlik; otto; üliõpilasrahutus; bismarck; börsikrahh; raadiosaade; muusika; külm; hitler; von; reibas
+2,2,6,4,4,3,4,5,3,17,areng; valgustusajastu; natsionaalsotsialistlik; otto; üliõpilasrahutus; bismarck; börsikrahh; külm; hitler; von; reibas

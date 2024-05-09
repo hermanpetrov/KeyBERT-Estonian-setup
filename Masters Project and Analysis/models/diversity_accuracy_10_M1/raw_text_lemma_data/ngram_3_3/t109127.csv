@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,4,1,2,0,0,0,1,2,17,luuletaja; antoloogia; alver; gustav; paul-eerik; suits; bett; rummo
-2,3,1,0,0,0,0,1,2,17,mäger; paul-eerik; bett; luuletaja; rummo; antoloogia; alver
-4,3,1,1,0,1,1,2,2,17,mäger; paul-eerik; bett; luuletaja; eesti; rummo; antoloogia; alver
-3,2,0,1,0,1,1,4,2,17,karl; mäger; luuletaja; muru; antoloogia; alver; paul-eerik; bett; rummo
-5,1,1,2,1,1,0,3,2,17,karl; mäger; luuletaja; muru; antoloogia; alver; paul-eerik; bett; rummo
-6,0,0,2,1,1,0,3,2,17,karl; mäger; eesti; muru; antoloogia; alver; mart; paul-eerik; bett; rummo
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,4,1,2,0,1,1,2,2,17,luuletaja; rummo; alver; antoloogia; bett; gustav; luulealbum; suits; paul-eerik
+2,3,1,0,0,1,1,2,2,17,luuletaja; rummo; alver; luulealbum; mäger; antoloogia; paul-eerik; bett
+4,3,1,1,0,2,2,3,2,17,luuletaja; rummo; alver; eesti; mäger; antoloogia; bett; luulealbum; paul-eerik
+3,2,0,2,0,2,2,5,2,17,luuletaja; rummo; alver; mäger; antoloogia; paul-eerik; bett; muru; luulealbum; karl
+5,1,2,2,1,2,1,4,2,17,luuletaja; rummo; alver; mäger; antoloogia; bett; muru; luulealbum; karl; paul-eerik
+6,0,1,2,1,2,1,4,2,17,rummo; alver; eesti; mäger; antoloogia; bett; muru; mart; luulealbum; karl; paul-eerik

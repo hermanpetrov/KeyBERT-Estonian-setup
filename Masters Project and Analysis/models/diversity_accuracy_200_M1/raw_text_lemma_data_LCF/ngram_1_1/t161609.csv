@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,5,2,1,0,3,2,4,11,viirus; kristjan; epideemia; informatsioon; port
-4,4,5,2,1,0,3,2,4,11,viirus; kristjan; epideemia; informatsioon; port
-4,4,4,2,3,2,3,3,4,11,viirus; kristjan; epideemia; informatsioon; port
-4,4,4,2,3,3,3,3,4,11,viirus; kristjan; epideemia; informatsioon; port
-4,4,4,2,3,3,4,4,4,11,viirus; kristjan; epideemia; informatsioon; port
-3,5,4,2,3,4,4,4,3,11,viirus; kristjan; epideemia; informatsioon; port
-1,4,5,5,3,5,5,4,3,11,viirus; kristjan; epideemia; informatsioon; port
-2,5,5,5,4,5,5,4,3,11,viirus; kristjan; epideemia; informatsioon; port
-2,4,5,5,4,4,4,4,2,11,viirus; kristjan; epideemia; informatsioon; port
-2,5,4,5,4,4,5,4,2,11,viirus; kristjan; epideemia; informatsioon; port
-2,4,4,4,3,4,4,5,2,11,viirus; kristjan; epideemia; informatsioon; port
+8,7,8,6,3,2,6,6,5,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+8,7,8,6,3,2,6,6,5,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+8,7,7,6,5,5,6,7,5,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+8,7,7,6,6,6,6,7,5,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+8,8,6,6,5,6,8,8,5,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+7,9,6,6,5,7,8,8,4,11,epideemia; port; sihtrühm; viirus; kriisivalmidus; kuritegevus; sotsiaalmeedia; kristjan; informatsioon
+4,8,7,7,5,8,9,8,4,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+5,9,7,8,6,8,8,7,4,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+4,8,7,8,6,6,7,7,3,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+4,9,6,8,6,6,9,7,3,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus
+3,8,6,7,5,6,8,9,4,11,epideemia; kriisivalmidus; kuritegevus; port; sotsiaalmeedia; kristjan; sihtrühm; informatsioon; viirus

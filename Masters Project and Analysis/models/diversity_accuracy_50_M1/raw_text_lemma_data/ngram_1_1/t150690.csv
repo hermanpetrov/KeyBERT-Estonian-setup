@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
-0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
-0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
-0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium
-0,0,2,0,0,2,2,3,1,13,keel; eesti; ministeerium; piret
-0,0,2,0,0,1,2,1,1,13,keel; eesti; piret
-0,0,1,0,0,2,2,0,1,13,reimand; eesti; piret
-0,0,2,0,0,2,2,1,1,13,reimand; indrek; keel; eesti; piret
-0,1,2,0,0,1,2,0,1,13,reimand; indrek; eesti; ministeerium; piret
-0,1,2,0,0,1,2,0,1,13,reimand; indrek; eesti; ministeerium; piret
-0,2,4,0,0,1,2,0,1,13,reimand; indrek; kriivan; palk; eesti; ministeerium; piret
+3,1,5,1,0,3,5,5,2,13,rahvusvahelisus; eesti; arengukava; ministeerium; keelepoliitika; keel; koolisüsteem
+3,1,5,1,0,3,5,5,2,13,rahvusvahelisus; eesti; arengukava; ministeerium; keelepoliitika; keel; koolisüsteem
+3,1,5,1,0,3,5,5,2,13,rahvusvahelisus; eesti; arengukava; ministeerium; keelepoliitika; keel; koolisüsteem
+3,1,5,1,0,3,5,5,2,13,rahvusvahelisus; eesti; arengukava; ministeerium; keelepoliitika; keel; koolisüsteem
+3,1,5,1,0,3,4,5,2,13,rahvusvahelisus; piret; eesti; arengukava; ministeerium; keelepoliitika; keel; koolisüsteem
+3,1,4,1,0,2,4,3,2,13,rahvusvahelisus; piret; eesti; keelepoliitika; keel; koolisüsteem; arengukava
+2,1,3,1,0,2,4,0,2,13,rahvusvahelisus; piret; eesti; reimand; koolisüsteem; arengukava
+2,1,5,1,0,2,4,2,2,13,rahvusvahelisus; piret; eesti; koolisüsteem; reimand; keel; indrek; arengukava
+2,2,4,0,0,1,4,1,2,13,rahvusvahelisus; piret; ministeerium; eesti; koolisüsteem; reimand; indrek; arengukava
+0,2,4,0,0,1,3,0,2,13,rahvusvahelisus; piret; ministeerium; eesti; reimand; indrek; koolisüsteem
+1,2,4,0,0,1,3,1,2,13,rahvusvahelisus; piret; ministeerium; eesti; kriivan; arengukava; palk; reimand; indrek; koolisüsteem

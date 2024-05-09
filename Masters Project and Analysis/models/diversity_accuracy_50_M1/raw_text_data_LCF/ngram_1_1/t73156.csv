@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,1,0,0,1,1,12,ameerika; esimene; one
-0,0,1,0,1,0,0,1,1,12,ameerika; esimene; one
-0,0,1,0,1,0,0,1,1,12,ameerika; esimene; one
-0,0,1,0,1,0,0,1,1,12,ameerika; esimene; one
-0,0,1,0,1,0,0,1,1,12,ameerika; esimene; one
-0,0,0,0,1,0,0,0,1,12,esimene; one
-0,0,0,0,1,1,0,0,1,12,esimene; one
-0,1,0,1,0,1,0,1,1,12,ameerika; one; edetabel; euroopa
-0,1,1,2,0,2,0,1,2,12,ameerika; andres; edetabel; hitt; lugu; jõesaar; one; euroopa
-0,1,2,2,2,2,0,1,2,12,ameerika; andres; edetabel; hitt; lugu; jõesaar; one; euroopa
-0,1,1,1,2,2,0,2,2,12,ameerika; andres; hitt; jõesaar; one; euroopa
+0,0,1,0,1,0,1,1,0,12,one; ameerika; esimene
+0,0,1,0,1,0,1,1,0,12,one; ameerika; esimene
+0,0,1,0,1,0,1,1,0,12,one; ameerika; esimene
+0,0,1,0,1,0,1,1,0,12,one; ameerika; esimene
+0,0,1,0,1,0,1,1,0,12,one; ameerika; esimene
+0,0,0,0,1,0,0,1,0,12,one; esimene
+0,0,0,0,1,0,0,1,0,12,one; esimene
+0,1,0,1,0,0,1,1,0,12,one; ameerika; edetabel; euroopa
+0,1,1,2,0,0,1,2,0,12,one; ameerika; euroopa; edetabel; andres; lugu; jõesaar
+0,1,2,2,2,0,1,2,0,12,one; hitt; edetabel; andres; jõesaar; ameerika; euroopa; lugu
+0,1,1,1,2,0,2,2,0,12,hitt; one; euroopa; jõesaar; andres; ameerika

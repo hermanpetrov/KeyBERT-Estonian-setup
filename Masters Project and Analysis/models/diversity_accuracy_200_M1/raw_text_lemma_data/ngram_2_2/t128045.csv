@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,5,2,3,2,4,4,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-3,5,3,3,2,4,4,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-3,5,4,3,2,4,4,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-3,5,4,3,2,4,4,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-3,5,4,4,2,4,3,4,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-5,5,4,4,2,4,3,6,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-4,6,5,3,2,4,3,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-4,5,3,3,3,3,3,4,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-5,6,4,3,3,3,2,5,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-4,6,3,3,3,3,3,3,3,12,pidustus; budism; tantsija; trumm; panteon; birma
-4,6,4,3,3,3,2,3,2,12,pidustus; budism; tantsija; trumm; panteon; birma
+5,7,3,6,3,5,6,7,4,12,nukuteater; tantsija; muusikakultuur; budism; pidustus; panteon; birma; teatrietendus; rändnäitleja; trumm
+6,7,4,6,3,6,6,7,4,12,loodusjõud; nukuteater; tantsija; muusikakultuur; budism; pidustus; panteon; birma; teatrietendus; rändnäitleja; trumm
+6,7,5,6,3,6,6,7,4,12,loodusjõud; nukuteater; tantsija; muusikakultuur; budism; pidustus; panteon; birma; teatrietendus; rändnäitleja; trumm
+6,9,5,6,3,6,6,7,4,12,loodusjõud; nukuteater; tantsija; muusikakultuur; budism; pidustus; panteon; birma; teatrietendus; rändnäitleja; trumm
+7,9,6,7,3,6,5,7,4,12,loodusjõud; nukuteater; budism; rändnäitleja; tantsija; muusikakultuur; pidustus; panteon; birma; teatrietendus; trumm
+8,9,6,6,3,7,5,9,4,12,loodusjõud; nukuteater; budism; rändnäitleja; tantsija; muusikakultuur; pidustus; panteon; birma; teatrietendus; trumm
+6,8,7,4,3,5,6,8,4,12,loodusjõud; nukuteater; tantsija; pidustus; budism; muusikakultuur; panteon; birma; rändnäitleja; trumm
+6,8,5,4,4,5,6,8,4,12,loodusjõud; nukuteater; budism; rändnäitleja; tantsija; pidustus; muusikakultuur; panteon; birma; teatrietendus; trumm
+5,8,8,5,4,4,5,7,4,12,loodusjõud; tantsija; nukuteater; pidustus; budism; muusikakultuur; panteon; birma; teatrietendus; rändnäitleja; trumm
+4,8,6,5,4,4,6,6,4,12,loodusjõud; tantsija; nukuteater; pidustus; budism; muusikakultuur; panteon; birma; rändnäitleja; trumm
+4,7,7,5,5,5,4,5,3,12,loodusjõud; tantsija; nukuteater; pidustus; budism; muusikakultuur; panteon; birma; teatrietendus; rändnäitleja; trumm

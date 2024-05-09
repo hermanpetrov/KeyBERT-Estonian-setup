@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,7,2,2,2,1,1,2,3,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
-5,7,2,2,2,1,1,2,3,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
-5,7,2,2,2,1,1,2,3,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
-5,7,3,2,2,3,2,2,3,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
-5,7,4,4,2,3,2,2,3,12,juust; genf; mägi; šveits; cern; keel; kanton; järv
-6,7,5,4,4,4,4,3,3,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-5,7,5,6,5,4,5,4,3,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-4,5,6,7,6,6,4,5,3,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-3,6,7,7,7,4,4,6,4,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-2,5,4,7,6,4,4,8,4,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
-2,5,6,6,6,4,6,7,5,12,juust; genf; mägi; šveits; cern; keel; kanton; suusatamine; järv
+7,8,3,3,2,1,1,2,3,12,juust; genf; mägi; rahvahääletus; keel; neutraliteet; maksusüsteem; kanton; järv; šveits; cern
+7,9,3,3,2,1,1,2,3,12,juust; genf; mägi; kanton; järv; cern; rahvahääletus; keel; neutraliteet; maksusüsteem; šveits
+7,9,3,3,2,1,1,2,3,12,juust; genf; mägi; kanton; järv; cern; rahvahääletus; keel; neutraliteet; maksusüsteem; šveits
+7,9,4,4,2,3,2,2,3,12,juust; genf; mägi; kanton; järv; cern; rahvahääletus; keel; neutraliteet; maksusüsteem; šveits
+6,9,6,6,2,3,2,3,3,12,juust; genf; mägi; rahvahääletus; keel; maksusüsteem; neutraliteet; kanton; järv; šveits; cern
+7,8,6,6,4,5,4,4,3,12,juust; genf; mägi; rahvahääletus; keel; maksusüsteem; suusatamine; kanton; järv; šveits; cern
+7,8,7,8,5,5,7,6,3,12,juust; genf; mägi; suusatamine; kanton; järv; cern; rahvahääletus; maksusüsteem; keel; neutraliteet; šveits
+5,5,8,9,6,8,7,7,3,12,juust; genf; mägi; suusatamine; kanton; järv; cern; rahvahääletus; maksusüsteem; keel; neutraliteet; šveits
+4,7,9,7,8,5,6,8,4,12,juust; genf; mägi; suusatamine; kanton; järv; cern; rahvahääletus; maksusüsteem; keel; neutraliteet; šveits
+3,5,7,9,6,7,5,10,4,12,juust; genf; mägi; suusatamine; kanton; järv; cern; rahvahääletus; maksusüsteem; keel; neutraliteet; šveits
+3,6,7,8,6,6,8,7,5,12,juust; genf; mägi; suusatamine; kanton; järv; cern; rahvahääletus; maksusüsteem; keel; neutraliteet; šveits

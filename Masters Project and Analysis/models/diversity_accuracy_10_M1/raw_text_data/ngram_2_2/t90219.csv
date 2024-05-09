@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,0,0,1,0,0,0,0,12,kirik; urmas; probleem
-2,0,0,0,1,0,0,0,0,12,kirik; urmas; probleem
-2,0,0,0,1,0,0,0,0,12,kirik; urmas; probleem
-2,0,0,0,1,0,0,0,0,12,kirik; urmas; probleem
-2,0,0,0,1,0,0,0,0,12,kirik; urmas; probleem
-1,0,1,0,1,0,0,0,0,12,kirik; viilma; probleem
-0,0,1,1,1,0,1,0,0,12,kirik; viilma; probleem
-0,0,0,1,1,1,1,0,0,12,kirik; urmas; probleem
+2,0,0,0,1,0,0,0,0,12,probleem; kirik; urmas
+2,0,0,0,1,0,0,0,0,12,probleem; kirik; urmas
+2,0,0,0,1,0,0,0,0,12,probleem; kirik; urmas
+2,0,0,0,1,0,0,0,0,12,probleem; kirik; urmas
+2,0,0,0,1,0,0,0,0,12,probleem; kirik; urmas
+1,0,1,0,1,0,0,0,0,12,viilma; kirik; probleem
+0,0,1,1,1,0,1,0,0,12,viilma; kirik; probleem
+0,0,0,1,1,1,1,0,0,12,probleem; kirik; urmas
 0,0,1,0,0,1,0,1,0,12,kirik; probleem
 0,1,0,0,0,0,0,1,0,12,kirik; probleem
-0,1,1,0,0,1,0,1,0,12,kirik; viilma
+0,1,1,0,0,1,0,1,0,12,viilma; kirik

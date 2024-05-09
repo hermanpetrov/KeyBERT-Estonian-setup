@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,7,3,3,5,3,1,3,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,7,4,3,6,3,1,3,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,7,5,3,6,3,2,4,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,7,5,3,6,3,2,4,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,7,5,4,5,5,2,3,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,7,3,5,5,6,3,5,7,15,ameerika; eric; pik; mill; b; rakse; edetab; power; singel; one; euroopa
-2,6,4,4,6,5,3,5,7,15,ameerika; eric; mill; b; edetab; power; singel; one; euroopa
-2,7,5,6,7,5,3,6,5,15,ameerika; eric; pik; mill; b; edetab; power; singel; one; euroopa
-2,4,7,6,6,5,5,6,6,15,ameerika; eric; pik; mill; b; singel; power; edetab; one; euroopa
-3,4,6,7,6,5,4,5,7,15,ameerika; eric; pik; mill; b; rakse; singel; power; edetab; one; euroopa
-3,4,6,7,6,5,3,4,5,15,ameerika; eric; pik; mill; b; singel; power; edetab; one; euroopa
+2,7,3,3,5,3,1,3,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,7,4,3,6,3,1,3,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,7,5,3,6,3,2,4,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,7,5,3,6,3,2,4,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,7,5,4,5,5,2,3,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,7,3,5,5,6,3,5,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+2,6,4,4,6,5,3,5,7,15,b; one; power; singel; ameerika; mill; eric; euroopa; edetab
+2,7,5,6,7,5,3,6,5,15,b; one; pik; power; singel; ameerika; mill; eric; euroopa; edetab
+2,4,7,6,6,5,5,6,6,15,b; one; pik; power; singel; ameerika; mill; eric; euroopa; edetab
+3,4,6,7,6,5,4,5,7,15,b; one; pik; power; singel; ameerika; rakse; mill; eric; euroopa; edetab
+3,4,6,7,6,5,3,4,5,15,b; one; pik; power; singel; ameerika; mill; eric; euroopa; edetab

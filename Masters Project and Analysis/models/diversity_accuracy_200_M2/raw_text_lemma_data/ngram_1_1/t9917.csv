@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,1,0,0,1,1,1,1,11,aasta; lill
-0,2,1,0,0,1,1,1,2,11,aasta; lill
-0,2,1,0,0,0,1,1,2,11,aasta; lill
-0,2,1,0,0,0,1,1,2,11,aasta; lill
-0,2,0,0,1,0,1,1,2,11,aasta; lill
-0,2,0,0,1,0,2,1,2,11,aasta; lill
-0,2,0,0,1,0,1,1,2,11,aasta; lill
-1,2,0,0,1,0,1,1,2,11,aasta; lill
-1,1,1,0,1,0,1,0,2,11,aasta; lill
-1,1,0,1,1,0,1,1,1,11,aasta; lill
-1,1,0,1,1,0,1,1,1,11,aasta; lill
+6,2,3,2,1,3,4,4,3,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,2,3,2,1,3,5,4,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,2,4,2,1,2,5,4,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,2,3,2,1,2,5,5,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+6,2,1,1,2,4,4,5,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; põllumees; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+4,2,3,2,1,1,4,4,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; koduaeg; köögivili; maaleht; olümpiakomitee
+5,2,2,2,2,3,2,4,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; koduaeg; köögivili; maaelu; maaleht; olümpiakomitee
+4,3,1,3,2,2,4,2,4,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; koduaeg; köögivili; maaleht; olümpiakomitee
+3,3,2,4,3,2,2,2,4,11,ettevõtlus; lill; tervisesport; aasta; põllumees; koduaeg; köögivili; maaleht; olümpiakomitee
+5,3,3,4,3,1,2,2,3,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; koduaeg; köögivili; maaleht; olümpiakomitee
+4,3,2,4,3,2,3,2,3,11,ettevõtlus; lill; liikumisharrastus; tervisesport; aasta; koduaeg; köögivili; maaleht; olümpiakomitee

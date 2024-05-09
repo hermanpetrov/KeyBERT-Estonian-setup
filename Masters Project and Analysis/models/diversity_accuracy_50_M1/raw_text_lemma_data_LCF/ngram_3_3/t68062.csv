@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,2,4,1,2,2,6,1,13,masing; hoiatus; soldat; hanso; viktor; auto; elmar; isa
-1,2,2,4,1,2,2,6,1,13,masing; hoiatus; soldat; hanso; viktor; auto; elmar; isa
-1,2,2,4,1,2,2,6,1,13,masing; hoiatus; soldat; hanso; viktor; auto; elmar; isa
-1,2,3,4,1,2,2,6,1,13,masing; hoiatus; soldat; hanso; viktor; auto; elmar; isa
-1,1,3,4,1,4,2,6,1,13,masing; soldat; hanso; viktor; auto; elmar; isa
-1,1,3,4,1,4,3,6,1,13,masing; soldat; hanso; viktor; auto; elmar; isa
-3,2,3,4,2,5,2,5,1,13,mors; masing; hanso; soldat; auto; viktor; isa; elmar
-2,3,2,3,2,4,6,4,1,13,masing; hanso; soldat; auto; viktor; isa; elmar
-2,3,3,3,0,6,6,4,1,13,mors; masing; soldat; hanso; auto; viktor; isa; elmar
-3,3,3,0,0,5,6,3,1,13,masing; hoiatus; hanso; viktor; soldat; auto; elmar; isa; granaat
-3,7,4,2,1,5,5,3,2,13,masing; hoiatus; hanso; soldat; viktor; auto; elmar; isa
+2,4,3,5,3,5,5,8,2,13,soldat; julgeolek; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso
+2,4,3,5,3,5,5,8,2,13,soldat; julgeolek; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso
+2,4,3,5,3,5,5,8,2,13,soldat; julgeolek; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso
+2,4,4,5,3,5,5,8,2,13,soldat; julgeolek; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso
+2,3,4,5,3,7,5,9,2,13,julgeolek; metsavend; viktor; ülekuulamine; isa; auto; soldat; masing; elmar; hanso
+3,2,4,5,3,7,6,8,2,13,soldat; julgeolek; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso
+4,4,4,6,4,7,4,8,2,13,julgeolek; metsavend; viktor; ülekuulamine; isa; auto; soldat; masing; elmar; mors; hanso
+2,3,4,4,4,5,8,6,2,13,soldat; masing; julgeolek; metsavend; viktor; elmar; ülekuulamine; isa; auto; hanso
+3,3,4,4,2,8,8,6,2,13,julgeolek; metsavend; viktor; ülekuulamine; isa; auto; soldat; masing; elmar; mors; hanso
+5,4,4,0,0,6,9,4,2,13,julgeolek; metsavend; viktor; ülekuulamine; isa; auto; granaat; masing; soldat; elmar; hoiatus; hanso
+5,9,5,2,1,6,7,4,3,13,julgeolek; soldat; masing; metsavend; viktor; elmar; ülekuulamine; isa; auto; hoiatus; hanso

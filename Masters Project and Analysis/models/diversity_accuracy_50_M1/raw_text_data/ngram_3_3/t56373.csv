@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,0,3,1,1,1,0,2,1,12,ants; pulmapidu; praalimine; kriivan; soust; hein; sõda
-3,0,3,1,1,1,0,2,1,12,ants; pulmapidu; praalimine; kriivan; soust; hein; sõda
-3,0,3,1,1,1,0,2,1,12,ants; pulmapidu; praalimine; kriivan; soust; hein; sõda
-3,0,3,1,1,1,0,2,1,12,ants; pulmapidu; praalimine; kriivan; soust; hein; sõda
-3,0,3,1,1,2,0,2,1,12,ants; pulmapidu; praalimine; kriivan; soust; hein; talupoeg; sõda
-2,0,4,1,1,2,2,2,1,12,ants; praalimine; kriivan; talupoeg; soust; pulmapidu; hein; piret; sõda
-0,0,4,1,2,1,2,4,1,12,ants; praalimine; kriivan; soust; pulmapidu; metsloom; hein; piret; sõda
-0,1,4,1,2,3,0,3,1,12,ants; praalimine; soust; hein; pulmapidu; metsloom; sõda; piret
-3,0,4,1,2,2,3,3,1,12,ants; praalimine; kriivan; talupoeg; soust; pulmapidu; metsloom; hein; piret; sõda
-3,0,4,1,4,0,3,0,2,12,ants; praalimine; kriivan; soust; pulmapidu; metsloom; hein; piret; sõda
-2,0,3,0,6,1,2,0,1,12,ants; kriivan; soust; pulmapidu; metsloom; hein; piret; sõda
+3,0,3,1,1,1,0,2,1,12,soust; ants; pulmapidu; kriivan; praalimine; sõda; hein
+3,0,3,1,1,1,0,2,1,12,soust; ants; pulmapidu; kriivan; praalimine; sõda; hein
+3,0,3,1,1,1,0,2,1,12,soust; ants; pulmapidu; kriivan; praalimine; sõda; hein
+3,0,3,1,1,1,0,2,1,12,soust; ants; pulmapidu; kriivan; praalimine; sõda; hein
+3,0,3,1,1,2,0,2,1,12,talupoeg; soust; ants; pulmapidu; kriivan; praalimine; sõda; hein
+2,0,4,1,1,2,2,2,1,12,piret; kriivan; pulmapidu; praalimine; sõda; soust; talupoeg; ants; hein
+0,0,4,1,2,1,2,4,1,12,piret; kriivan; pulmapidu; praalimine; sõda; soust; ants; metsloom; hein
+0,1,4,1,2,3,0,3,1,12,piret; pulmapidu; praalimine; sõda; soust; ants; metsloom; hein
+3,0,4,1,2,2,3,3,1,12,piret; kriivan; pulmapidu; praalimine; sõda; talupoeg; soust; ants; metsloom; hein
+3,0,4,1,4,0,3,0,2,12,piret; kriivan; pulmapidu; praalimine; sõda; soust; ants; metsloom; hein
+2,0,3,0,6,1,2,0,1,12,piret; kriivan; pulmapidu; sõda; soust; ants; metsloom; hein

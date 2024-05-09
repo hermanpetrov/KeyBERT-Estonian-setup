@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,2,1,0,13,keel; euroopa; inglise
-0,0,2,0,0,2,2,1,0,13,keel; euroopa; inglise
-0,0,2,0,0,2,2,1,0,13,keel; euroopa; inglise
-0,0,3,0,0,2,2,1,0,13,inglise; keel; euroopa
-0,0,3,0,0,2,2,1,0,13,inglise; keel; euroopa
-0,0,2,0,0,2,2,1,0,13,inglise; keel; euroopa
-0,0,1,0,0,1,0,0,0,13,euroopa; inglise
-0,0,1,0,0,1,0,0,0,13,euroopa; inglise
-0,0,1,1,0,1,0,0,0,13,euroopa; inglise
-0,0,1,0,0,0,0,0,0,13,euroopa
-0,1,1,1,0,0,0,0,0,13,euroopa
+5,0,7,2,0,10,10,8,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,7,2,0,10,10,8,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,7,2,0,10,10,8,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,6,2,0,10,10,8,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keel; keelterikas; keeleõpe; keeleoskus
+5,0,6,2,0,10,10,8,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keelterikas; keel; keeleõpe; keeleoskus
+5,0,4,2,0,9,10,6,1,13,haridussüsteem; võõrkeel; riigikeel; euroopa; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; keel; keelterikas; keeleõpe; keeleoskus
+3,0,4,1,0,5,6,3,1,13,haridussüsteem; võõrkeel; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; riigikeel; euroopa; keeleõpe
+3,0,2,1,1,2,3,1,1,13,haridussüsteem; mitmekeelsus; kolmkeelsus; inglise; keelepoliitika; raamdokument; riigikeel; euroopa
+5,0,2,1,1,1,2,0,1,13,haridussüsteem; võõrkeel; kolmkeelsus; inglise; keelepoliitika; keelterikas; raamdokument; euroopa
+2,0,2,1,0,0,1,0,1,13,võõrkeel; haridussüsteem; raamdokument; riigikeel; euroopa
+2,1,2,1,0,0,1,0,1,13,võõrkeel; keelepoliitika; haridussüsteem; raamdokument; euroopa

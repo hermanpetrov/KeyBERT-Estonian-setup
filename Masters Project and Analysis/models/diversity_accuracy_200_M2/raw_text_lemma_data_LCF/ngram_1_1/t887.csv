@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,5,5,3,7,4,3,4,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-8,5,5,3,7,4,3,4,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-8,5,6,3,7,4,3,4,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-8,5,6,4,7,6,6,4,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-7,4,7,4,8,8,7,6,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-5,3,8,4,8,7,8,7,4,11,stuudio; m; šokolaad; raadio; lugu; album; ansambel; agent; plaat; queen
-5,3,9,6,8,6,6,9,5,11,m; lugu; ansambel; agent; album; stuudio; šokolaad; raadio; plaat; queen
-4,3,7,6,8,6,7,9,5,11,m; lugu; ansambel; agent; album; stuudio; šokolaad; raadio; plaat; queen
-4,2,8,7,8,6,8,9,4,11,m; lugu; ansambel; agent; album; stuudio; šokolaad; raadio; plaat; queen
-2,2,8,6,8,6,8,8,5,11,stuudio; m; queen; šokolaad; raadio; lugu; ansambel; agent; plaat; album
-2,4,8,6,7,6,7,7,3,11,stuudio; m; queen; šokolaad; raadio; lugu; ansambel; agent; plaat; album
+8,5,5,3,7,4,3,4,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+8,5,5,3,7,4,3,4,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+8,5,6,3,7,4,3,4,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+8,5,6,4,7,6,6,4,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+7,4,7,4,8,8,7,6,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+5,3,8,4,8,7,8,7,4,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+5,3,9,6,8,6,6,9,5,11,agent; šokolaad; stuudio; m; plaat; raadio; ansambel; album; lugu; queen
+4,3,7,6,8,6,7,9,5,11,agent; šokolaad; stuudio; m; plaat; raadio; ansambel; album; lugu; queen
+4,2,8,7,8,6,8,9,4,11,agent; šokolaad; stuudio; m; plaat; raadio; ansambel; album; lugu; queen
+2,2,8,6,8,6,8,8,5,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen
+2,4,8,6,7,6,7,7,3,11,plaat; agent; raadio; ansambel; album; šokolaad; stuudio; m; lugu; queen

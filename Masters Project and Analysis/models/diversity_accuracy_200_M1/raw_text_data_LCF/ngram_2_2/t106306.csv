@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,2,5,2,2,4,4,5,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-6,3,5,3,2,4,4,5,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-6,3,5,3,2,4,4,6,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-4,2,4,3,2,5,4,6,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-3,2,5,3,2,4,5,5,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-1,2,5,2,2,5,4,5,2,13,sobak; kristi; kreeka; idamurderaamat; jüri; tööjõupuudus
-2,3,5,3,2,6,4,5,2,13,sobak; kristi; kreeka; idamurderaamat; jüri; tööjõupuudus
-3,2,4,3,2,6,3,6,2,13,sobak; kristi; idamurderaamat; jüri; tööjõupuudus; kreeka
-3,3,5,3,4,4,3,5,2,13,sobak; kristi; kreeka; idamurderaamat; jüri; tööjõupuudus
-2,3,5,3,4,4,3,6,2,13,sobak; kristi; kreeka; idamurderaamat; jüri; tööjõupuudus
-2,2,5,3,4,3,3,4,4,13,sobak; kristi; kreeka; idamurderaamat; jüri; tööjõupuudus
+6,2,5,2,2,4,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+6,3,5,3,2,4,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+6,3,5,3,2,4,6,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+4,2,4,3,2,4,6,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+3,2,5,3,2,5,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+1,2,5,2,2,4,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+2,3,5,3,2,4,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+3,2,4,3,2,3,6,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+3,3,5,3,4,3,5,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+2,3,5,3,4,3,6,2,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi
+2,2,5,3,4,3,4,4,0,13,jüri; sobak; idamurderaamat; kreeka; tööjõupuudus; kristi

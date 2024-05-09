@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,2,1,0,14,teater; tammsaare; klassika
-0,1,1,0,0,1,2,1,0,14,teater; tammsaare; klassika
-0,1,1,0,0,1,2,1,0,14,teater; tammsaare; klassika
-0,1,1,0,0,1,2,1,0,14,teater; tammsaare; klassika
-0,0,1,0,0,1,2,1,0,14,teater; tammsaare; elmo; klassika
-0,1,2,0,0,0,2,1,0,14,tammsaare; elmo; klassika; teater
-1,1,2,0,0,2,2,1,0,14,tammsaare; elmo; kontsert; kärner; klassika; teater
-0,1,1,0,0,1,1,1,0,14,tammsaare; elmo; klassika
-1,1,1,1,0,2,2,0,0,14,tammsaare; revolutsionäär; stoppard; elmo; klassika; utoopia
-1,0,2,1,0,2,2,0,0,14,tammsaare; revolutsionäär; stoppard; elmo; utoopia
-0,0,2,0,0,2,1,1,0,14,tammsaare; utoopia; elmo; nüganen
+0,1,1,0,0,2,1,0,0,14,tammsaare; teater; klassika
+0,1,1,0,0,2,1,0,0,14,tammsaare; teater; klassika
+0,1,1,0,0,2,1,0,0,14,tammsaare; teater; klassika
+0,1,1,0,0,2,1,0,0,14,tammsaare; teater; klassika
+0,0,1,0,0,2,1,0,0,14,elmo; tammsaare; teater; klassika
+0,1,2,0,0,2,1,0,0,14,elmo; tammsaare; teater; klassika
+1,1,2,0,0,2,1,0,0,14,kärner; elmo; tammsaare; teater; klassika
+0,1,1,0,0,1,1,0,0,14,elmo; tammsaare; klassika
+1,1,1,1,0,2,0,0,0,14,revolutsionäär; stoppard; utoopia; elmo; tammsaare; klassika
+1,0,2,1,0,2,0,0,0,14,revolutsionäär; stoppard; utoopia; elmo; tammsaare
+0,0,2,0,0,1,1,0,0,14,utoopia; elmo; nüganen; tammsaare

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,1,0,2,2,3,0,11,mereriik; eesti; meremees
-0,0,3,1,0,2,2,3,0,11,mereriik; eesti; meremees
-0,0,3,1,0,2,2,3,0,11,mereriik; eesti; meremees
-0,0,3,1,0,2,2,3,0,11,mereriik; eesti; meremees
-0,0,3,1,0,2,2,3,0,11,mereriik; eesti; meremees
-0,0,3,1,0,2,2,4,0,11,mereriik; meri; eesti; meremees
-0,0,2,1,0,1,2,4,0,11,meremees; meri; mereriik; eesti; mereakadeemia
-1,0,3,0,0,0,3,3,0,11,mereriik; meremees; meri; eesti; mereakadeemia
-1,0,2,0,0,0,2,3,0,11,meri; eesti; mereriik; järvelaid; peeter
-0,0,4,0,0,0,2,4,0,11,mereriik; eesti; meri; mereakadeemia; peeter; järvelaid
-0,1,0,0,0,0,2,3,0,11,järvelaid; mereriik; eesti; mereakadeemia; peeter
+0,0,3,1,0,2,3,0,0,11,mereriik; meremees; eesti
+0,0,3,1,0,2,3,0,0,11,mereriik; meremees; eesti
+0,0,3,1,0,2,3,0,0,11,mereriik; meremees; eesti
+0,0,3,1,0,2,3,0,0,11,mereriik; meremees; eesti
+0,0,3,1,0,2,3,0,0,11,mereriik; meremees; eesti
+0,0,3,1,0,2,4,0,0,11,mereriik; meri; meremees; eesti
+0,0,2,1,0,2,4,0,0,11,mereriik; meremees; meri; eesti; mereakadeemia
+1,0,3,0,0,3,3,0,0,11,mereriik; meremees; meri; eesti; mereakadeemia
+1,0,2,0,0,2,3,0,0,11,mereriik; peeter; meri; eesti; järvelaid
+0,0,4,0,0,2,4,0,0,11,mereriik; peeter; meri; eesti; järvelaid; mereakadeemia
+0,1,0,0,0,2,3,0,0,11,mereriik; peeter; eesti; järvelaid; mereakadeemia

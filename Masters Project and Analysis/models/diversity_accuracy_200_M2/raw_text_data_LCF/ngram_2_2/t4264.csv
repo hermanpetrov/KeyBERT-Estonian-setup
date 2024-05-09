@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-8,10,8,7,1,5,5,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-8,9,9,7,1,5,6,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-8,10,9,7,2,5,6,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-8,9,9,7,2,6,6,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-9,10,9,7,2,6,8,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-9,10,8,7,2,5,7,9,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-7,10,8,5,3,4,5,10,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-3,9,9,7,6,4,8,8,3,13,tallinna; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; liibanon; ukraina
-5,9,8,6,7,5,6,6,4,13,tallinna; liibanon; tootmisliin; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; ukraina
-5,9,7,6,7,5,4,7,4,13,tallinna; tootmisliin; liibanon; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; ukraina
-4,9,8,6,8,6,4,6,4,13,tallinna; tootmisliin; liibanon; lossipäevad; viikingipäevad; kärkna; alatskivi; erna; kuuba; ukraina
+8,10,8,7,1,5,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+8,9,9,7,1,6,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+8,10,9,7,2,6,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+8,9,9,7,2,6,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+9,10,9,7,2,8,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+9,10,8,7,2,7,9,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+7,10,8,5,3,5,10,3,0,13,tootmisliin; ukraina; alatskivi; erna; lossipäevad; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+3,9,9,7,6,8,8,3,0,13,tootmisliin; ukraina; lossipäevad; erna; alatskivi; viikingipäevad; tallinna; liibanon; kuuba; kärkna
+5,9,8,6,7,6,6,4,0,13,tootmisliin; ukraina; liibanon; kuuba; alatskivi; erna; lossipäevad; kärkna; viikingipäevad; tallinna
+5,9,7,6,7,4,7,4,0,13,tootmisliin; ukraina; liibanon; kuuba; alatskivi; erna; lossipäevad; kärkna; viikingipäevad; tallinna
+4,9,8,6,8,4,6,4,0,13,tootmisliin; ukraina; liibanon; kuuba; alatskivi; erna; lossipäevad; kärkna; viikingipäevad; tallinna

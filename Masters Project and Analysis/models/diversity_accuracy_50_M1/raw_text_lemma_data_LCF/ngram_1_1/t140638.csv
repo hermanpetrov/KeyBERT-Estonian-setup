@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,2,3,5,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,3,5,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,3,5,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,3,5,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,3,5,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,4,6,1,1,14,ema; katariina; eva; hinrik; redel; poiss; kohvik; kadri; dieet; hernes; ronimine; koldits
-1,1,3,1,2,4,8,1,1,14,ema; katariina; eva; redel; koldits; katus; hinrik; poiss; kohvik; kadri; dieet; hernes; ronimine
-1,0,3,0,2,4,8,1,1,14,katus; ema; katariina; eva; hinrik; redel; kohvik; kadri; dieet; hernes; koldits
-1,0,4,1,2,4,6,1,2,14,katus; ema; katariina; eva; hinrik; redel; kohvik; dieet; hernes; koldits
-1,0,5,2,3,4,7,2,4,14,katus; ema; katariina; eva; hinrik; redel; kohvik; kadri; dieet; hernes; koldits
-1,0,5,2,1,4,7,2,3,14,katus; ema; katariina; eva; hinrik; redel; kohvik; kadri; hernes; koldits
+1,1,3,1,2,3,5,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,3,5,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,3,5,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,3,5,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,3,5,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,4,6,1,1,14,hinrik; eva; katariina; koldits; redel; ronimine; dieet; hernes; ema; kadri; poiss; kohvik
+1,1,3,1,2,4,8,1,1,14,eva; dieet; ronimine; katus; ema; kohvik; hinrik; katariina; koldits; redel; hernes; kadri; poiss
+1,0,3,0,2,4,8,1,1,14,hinrik; eva; katariina; koldits; redel; dieet; hernes; katus; ema; kadri; kohvik
+1,0,4,1,2,4,6,1,2,14,hinrik; eva; katariina; koldits; hernes; redel; dieet; katus; ema; kohvik
+1,0,5,2,3,4,7,2,4,14,hinrik; eva; katariina; koldits; hernes; redel; dieet; katus; kadri; ema; kohvik
+1,0,5,2,1,4,7,2,3,14,hinrik; eva; katariina; koldits; hernes; redel; katus; kadri; ema; kohvik

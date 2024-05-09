@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,1,0,0,1,2,1,1,14,püha; uskumus; rituaalne
-0,1,1,0,0,1,2,1,1,14,püha; uskumus; rituaalne
-0,1,1,0,0,1,2,1,1,14,püha; uskumus; rituaalne
-0,1,1,0,0,1,2,1,1,14,püha; uskumus; rituaalne
-0,1,1,0,0,1,2,1,1,14,muna; uskumus; püha; rituaalne
-0,1,1,0,0,1,2,1,1,14,kinkimine; uskumus; püha; rituaalne
-0,3,1,0,0,1,2,1,1,14,kinkimine; muna; püha; sümbol
-1,2,3,0,0,1,3,2,1,14,kinkimine; muna; püha; uskumus; folklor; marju; rituaalne
-1,2,2,0,0,2,3,1,1,14,uskumus; folklor; püha; marju; rituaalne; sümbol
-0,1,1,1,0,1,0,2,1,14,uskumus; folklor; püha; liikuv
-0,0,1,1,0,1,1,2,1,14,uskumus; folklor; püha; marju
+0,1,1,0,0,1,2,2,1,14,püha; uskumus; rituaalne; nelipüha
+0,1,1,0,0,1,2,2,1,14,püha; uskumus; rituaalne; nelipüha
+0,1,1,0,0,1,2,2,1,14,püha; uskumus; rituaalne; nelipüha
+0,1,1,0,0,1,2,2,1,14,püha; uskumus; rituaalne; nelipüha
+0,1,1,0,0,1,2,2,1,14,püha; uskumus; rituaalne; nelipüha; muna
+0,1,1,0,0,2,2,2,1,14,uskumus; püha; nelipüha; kinkimine; rituaalne
+0,3,1,0,0,2,3,2,1,14,püha; sümbol; nelipüha; kinkimine; muna
+1,2,4,1,0,2,3,3,1,14,folklor; püha; uskumus; rituaalne; muna; viljakusjumalus; marju; nelipüha; kinkimine
+1,3,2,0,0,2,4,1,1,14,folklor; püha; sümbol; kõivupuu; uskumus; rituaalne; marju; nelipüha
+0,1,1,1,0,1,1,2,1,14,viljakusjumalus; folklor; püha; uskumus; liikuv
+0,0,1,1,0,1,1,2,1,14,marju; folklor; püha; uskumus

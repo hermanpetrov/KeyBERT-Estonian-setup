@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,2,0,2,2,1,0,14,tikand; kollektsioon; eesti; berliin
-0,1,0,2,0,2,2,1,0,14,tikand; kollektsioon; eesti; berliin
-0,1,0,2,0,2,2,1,0,14,tikand; kollektsioon; eesti; berliin
-0,1,0,2,0,2,2,1,0,14,tikand; kollektsioon; eesti; berliin
-0,1,0,2,0,2,2,1,0,14,tikand; kollektsioon; eesti; berliin
-0,1,1,2,0,2,3,1,0,14,disainer; lill; kollektsioon; eesti; berliin
-1,1,2,2,0,2,3,2,0,14,disainer; lill; kollektsioon; eesti; berliin
-1,2,1,2,0,2,3,2,0,14,disainer; inspiratsioon; lill; eesti; berliin
-1,2,2,0,0,2,3,3,0,14,disainer; inspiratsioon; lill; kollektsioon; eesti; berliin
-1,2,3,0,0,3,2,2,0,14,disainer; privileeg; lill; eesti; kollektsioon; berliin
-1,2,0,1,0,2,2,4,0,14,disainer; lill; kollektsioon; eesti; berliin
+0,2,1,4,0,2,2,2,0,14,berliin; tikand; eesti; moekunstnik; moenäda; kollektsioon
+0,2,1,4,0,2,2,2,0,14,berliin; tikand; eesti; moekunstnik; moenäda; kollektsioon
+0,2,1,4,0,2,2,2,0,14,berliin; tikand; eesti; moekunstnik; moenäda; kollektsioon
+0,2,1,4,0,2,2,2,0,14,berliin; tikand; eesti; moekunstnik; moenäda; kollektsioon
+0,2,1,4,0,2,2,2,0,14,berliin; tikand; eesti; moekunstnik; moenäda; kollektsioon
+0,2,2,4,0,3,3,2,0,14,berliin; lill; eesti; moekunstnik; moenäda; kollektsioon; disainer
+1,2,3,4,0,3,3,3,0,14,lill; berliin; eesti; moekunstnik; moenäda; disainer; kollektsioon
+2,3,2,4,0,3,3,3,0,14,suursponsor; berliin; lill; eesti; moekunstnik; moenäda; inspiratsioon; disainer
+1,3,3,2,0,3,4,4,0,14,lill; berliin; eesti; moekunstnik; moenäda; inspiratsioon; disainer; kollektsioon
+1,2,4,1,0,3,2,3,0,14,lill; berliin; eesti; moekunstnik; privileeg; moenäda; kollektsioon; disainer
+1,2,1,2,0,2,3,5,0,14,berliin; lill; eesti; moekunstnik; moenäda; kollektsioon; disainer

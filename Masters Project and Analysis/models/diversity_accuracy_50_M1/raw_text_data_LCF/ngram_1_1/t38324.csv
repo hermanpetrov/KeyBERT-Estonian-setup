@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,1,2,2,2,0,15,tegevus; viires; ants; etnoloog; ilmar; mälestuste
-0,0,3,0,1,2,2,2,0,15,tegevus; viires; ants; etnoloog; ilmar; mälestuste
-0,0,2,0,1,2,2,2,0,15,tegevus; viires; ants; etnoloog; ilmar; mälestuste
-0,0,3,0,1,2,2,2,0,15,tegevus; viires; ants; teaduslik; etnoloog; ilmar; mälestuste
-0,0,3,0,1,1,2,1,0,15,tegevus; viires; ants; teaduslik; etnoloog; ilmar
-0,0,3,0,1,1,2,1,0,15,tegevus; viires; ants; teaduslik; etnoloog; ilmar
-0,0,2,0,1,1,2,1,0,15,tegevus; ants; teaduslik; ilmar
-0,0,2,0,0,1,2,1,0,15,ants; teaduslik; ilmar
-0,0,2,0,0,1,2,2,0,15,ants; teaduslik; ilmar
-0,0,3,1,0,1,2,1,0,15,ants; viires; naine; teaduslik; ilmar; mälestuste
-1,0,3,0,0,1,2,2,0,15,ants; viires; teaduslik; ilmar
+0,0,3,0,1,2,2,0,0,15,viires; ants; mälestuste; ilmar; tegevus; etnoloog
+0,0,3,0,1,2,2,0,0,15,viires; ants; mälestuste; ilmar; tegevus; etnoloog
+0,0,2,0,1,2,2,0,0,15,viires; ants; mälestuste; ilmar; tegevus; etnoloog
+0,0,3,0,1,2,2,0,0,15,ants; viires; teaduslik; mälestuste; ilmar; tegevus; etnoloog
+0,0,3,0,1,2,1,0,0,15,ants; viires; teaduslik; ilmar; tegevus; etnoloog
+0,0,3,0,1,2,1,0,0,15,ants; viires; teaduslik; ilmar; tegevus; etnoloog
+0,0,2,0,1,2,1,0,0,15,teaduslik; ilmar; tegevus; ants
+0,0,2,0,0,2,1,0,0,15,ilmar; ants; teaduslik
+0,0,2,0,0,2,2,0,0,15,ants; ilmar; teaduslik
+0,0,3,1,0,2,1,0,0,15,viires; mälestuste; naine; ilmar; teaduslik; ants
+1,0,3,0,0,2,2,0,0,15,viires; teaduslik; ilmar; ants

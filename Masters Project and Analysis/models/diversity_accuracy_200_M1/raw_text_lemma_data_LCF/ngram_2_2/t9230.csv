@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,6,4,7,4,8,5,7,6,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-6,5,5,7,4,8,5,7,6,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-6,5,7,7,4,8,6,7,6,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-7,4,8,7,5,8,6,7,6,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-5,5,9,7,5,8,6,8,5,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-7,6,9,8,5,10,8,8,5,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
-6,7,7,8,8,8,7,8,5,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; hunt; rootsi; kari; murdmine; marko; alfa
-7,6,8,10,9,8,8,7,7,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; hunt; rootsi; kari; murdmine; marko; alfa
-7,9,7,8,7,9,8,8,6,15,kutsikas; ulg; territoorium; ilmar; kari; hunt; alam-pedja; rootsi; murdmine; marko; alfa
-5,9,8,9,10,7,8,11,7,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; hunt; rootsi; kari; murdmine; marko; alfa
-8,7,8,9,9,7,8,9,7,15,kutsikas; ulg; territoorium; ilmar; alam-pedja; rootsi; hunt; kari; murdmine; marko; alfa
+6,7,6,9,5,10,7,9,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; ulg; hunt; kari; alam-pedja; marko; alfa
+6,6,7,9,5,10,7,9,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; ulg; hunt; kari; alam-pedja; marko; alfa
+6,6,9,9,5,10,8,9,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; ulg; hunt; kari; alam-pedja; marko; alfa
+7,5,10,9,5,10,8,9,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; ulg; hunt; kari; alam-pedja; marko; alfa
+5,6,11,9,5,10,8,10,6,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; marko; kutsikas; hunt; ulg; kari; alam-pedja; territoorium; alfa
+7,7,11,10,5,12,9,10,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; marko; kutsikas; hunt; ulg; kari; alam-pedja; territoorium; alfa
+6,8,9,10,9,10,8,10,7,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; hunt; ulg; kari; alam-pedja; marko; alfa
+7,8,10,11,11,9,10,9,8,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; marko; kutsikas; hunt; ulg; kari; alam-pedja; territoorium; alfa
+8,11,9,10,9,10,9,10,8,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; marko; kutsikas; hunt; ulg; kari; alam-pedja; territoorium; alfa
+5,11,10,10,12,7,9,13,9,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; hunt; ulg; kari; alam-pedja; marko; alfa
+9,9,10,10,11,8,9,11,9,15,rootsi; jahimees; murdmine; ilmar; looduskaitseala; territoorium; kutsikas; hunt; ulg; kari; alam-pedja; marko; alfa

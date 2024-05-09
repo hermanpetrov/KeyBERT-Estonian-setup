@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,4,3,0,0,1,5,0,5,14,august; friedebert; hermann; karl; johannes; küsimus; armas; keel; tuglas; hellitus
-3,4,3,0,1,2,5,0,5,14,august; friedebert; hermann; karl; johannes; küsimus; armas; keel; tuglas; hellitus
-3,4,5,1,1,2,6,0,5,14,august; friedebert; hermann; karl; johannes; küsimus; armas; keel; tuglas; hellitus
-3,4,6,1,1,2,6,0,5,14,august; friedebert; hermann; karl; johannes; küsimus; armas; keel; tuglas; hellitus
-2,4,6,1,2,3,7,0,5,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; armas; keel; tuglas; hellitus
-1,4,6,1,2,2,4,1,4,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; armas; tuglas; hellitus
-3,5,7,3,4,2,4,3,4,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; armas; raud; tuglas; hellitus
-4,3,6,4,4,3,4,6,4,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; keel; armas; raud; tuglas; hellitus
-4,2,6,4,5,5,4,4,5,14,august; hermann; karl; friedebert; johannes; küsimus; salonen; keel; armas; raud; tuglas; hellitus
-4,1,4,4,5,4,3,4,3,14,august; friedebert; karl; hermann; johannes; küsimus; salonen; keel; armas; raud; tuglas; hellitus
-3,1,6,4,5,4,3,6,2,14,august; friedebert; hermann; johannes; küsimus; salonen; keel; armas; raud; tuglas; hellitus
+4,5,3,1,0,3,7,1,5,14,murdekeel; küsimus; tuglas; hellitus; friedebert; johannes; kantseleikeel; armas; august; keel; karl; hermann
+4,5,3,1,1,4,7,1,5,14,murdekeel; küsimus; tuglas; hellitus; friedebert; johannes; kantseleikeel; armas; august; keel; karl; hermann
+4,5,5,2,1,4,8,1,5,14,friedebert; johannes; karl; tuglas; murdekeel; küsimus; hellitus; kantseleikeel; armas; august; keel; hermann
+4,5,6,2,1,4,8,1,5,14,friedebert; johannes; karl; tuglas; murdekeel; küsimus; hellitus; kantseleikeel; armas; august; keel; hermann
+3,5,6,2,2,5,8,1,5,14,salonen; friedebert; johannes; karl; tuglas; murdekeel; küsimus; hellitus; kantseleikeel; armas; august; keel; hermann
+1,5,6,2,2,4,6,1,4,14,murdekeel; salonen; küsimus; tuglas; hellitus; friedebert; johannes; kantseleikeel; armas; august; karl; hermann
+4,5,7,3,4,3,4,3,4,14,murdekeel; salonen; küsimus; tuglas; hellitus; friedebert; kantseleikeel; johannes; armas; august; karl; raud; hermann
+5,3,7,4,4,3,4,6,4,14,salonen; küsimus; tuglas; hellitus; hermann; friedebert; johannes; kantseleikeel; armas; august; keel; raud; karl
+5,2,7,4,5,5,4,4,5,14,salonen; küsimus; tuglas; hellitus; hermann; friedebert; johannes; kantseleikeel; armas; august; keel; raud; karl
+5,1,5,4,5,4,3,4,3,14,salonen; küsimus; tuglas; hellitus; hermann; friedebert; kantseleikeel; armas; johannes; august; keel; raud; karl
+4,2,8,4,5,4,3,6,2,14,salonen; friedebert; johannes; raud; tuglas; murdekeel; küsimus; hellitus; kantseleikeel; armas; august; keel; hermann

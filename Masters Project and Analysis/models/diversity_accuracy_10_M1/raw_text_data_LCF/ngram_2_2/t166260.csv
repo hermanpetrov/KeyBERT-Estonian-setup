@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,0,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,2,1,13,johannes; püha; jumal; neitsi
-2,0,1,0,0,2,0,2,1,13,johannes; püha; jumal; neitsi
-1,0,1,0,0,2,0,2,1,13,johannes; püha; neitsi
-0,0,1,1,0,2,0,2,1,13,issand; püha; neitsi
-0,0,1,2,1,2,0,3,1,13,paavst; issand; johannes; püha; kolmas; neitsi
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,0,1,0,13,jumal; johannes; püha
+2,0,1,0,0,0,2,1,0,13,neitsi; püha; jumal; johannes
+2,0,1,0,0,0,2,1,0,13,neitsi; püha; jumal; johannes
+1,0,1,0,0,0,2,1,0,13,johannes; neitsi; püha
+0,0,1,1,0,0,2,1,0,13,neitsi; issand; püha
+0,0,1,2,1,0,3,1,0,13,paavst; issand; neitsi; püha; johannes; kolmas

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,5,3,4,5,1,1,2,5,19,amet; deckarty; washington; programm; luik; edendus; kool; tervis; lahkumine; balti; trump; president
-4,5,3,4,5,1,1,2,5,19,amet; deckarty; washington; programm; luik; edendus; kool; tervis; lahkumine; balti; trump; president
-4,5,2,4,5,1,1,2,5,19,amet; deckarty; washington; programm; luik; edendus; kool; tervis; lahkumine; balti; trump; president
-4,5,3,4,5,1,1,2,5,19,amet; deckarty; washington; programm; luik; edendus; kool; tervis; lahkumine; balti; trump; president
-4,5,4,4,5,1,1,3,5,19,amet; deckarty; washington; programm; luik; edendus; kool; tervis; lahkumine; balti; trump; president
-5,6,4,4,5,3,1,4,5,19,amet; deckarty; washington; programm; luik; edendus; tervis; kool; lahkumine; balti; trump; president
-5,5,1,5,5,3,2,4,5,19,amet; deckarty; washington; programm; edendus; jüri; tervis; kool; lahkumine; balti; trump; president
-5,4,3,5,4,4,3,4,5,19,amet; deckarty; washington; programm; luik; kool; tervis; balti; lahkumine; trump; president
-4,3,2,7,4,5,4,5,5,19,amet; washington; programm; deckarty; luik; jüri; tervis; kool; balti; lahkumine; trump; president
-5,2,4,8,5,4,4,5,5,19,amet; washington; programm; deckarty; luik; edendus; jüri; kool; tervis; balti; lahkumine; trump; president
-4,2,2,7,6,4,6,5,6,19,amet; washington; programm; deckarty; luik; edendus; jüri; tervis; kool; balti; lahkumine; trump; president
+4,6,3,4,5,1,1,2,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+4,6,3,4,5,1,1,2,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+4,6,2,4,5,1,1,2,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+4,6,3,4,5,1,1,2,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+4,6,4,4,5,1,1,3,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+5,7,4,4,5,3,1,4,6,19,lahkumine; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+6,6,1,5,5,3,2,4,6,19,lahkumine; jüri; programm; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+5,5,4,6,4,4,3,4,6,19,washington; kultuuripealinn; lahkumine; president; programm; luik; kool; deckarty; balti; trump; tervis; amet
+4,3,3,8,4,5,4,5,6,19,lahkumine; jüri; programm; luik; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+5,2,5,9,5,4,4,5,6,19,lahkumine; jüri; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet
+4,2,3,8,6,4,6,5,7,19,lahkumine; jüri; programm; luik; edendus; tervis; washington; kultuuripealinn; president; kool; deckarty; balti; trump; amet

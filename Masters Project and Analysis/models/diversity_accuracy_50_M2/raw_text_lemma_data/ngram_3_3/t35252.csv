@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,5,3,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,5,3,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,5,3,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,6,4,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,6,4,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,4,4,4,2,3,2,3,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-6,4,2,2,1,2,1,4,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-4,4,3,3,1,2,3,5,3,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine
-4,4,3,1,1,4,2,4,3,16,selts; karl; jannsen; kõrber; eesti; keel; ärkamine; rahvuslik
-5,4,4,3,1,4,1,4,5,16,karl; jannsen; kõrber; eesti; keel; selts; ärkamine; rahvuslik
-5,4,2,4,1,2,2,4,5,16,karl; jannsen; kõrber; eesti; keel; selts; rahvuslik
+7,6,4,7,3,4,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; karl
+7,6,4,7,3,4,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; karl
+7,6,4,7,3,4,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; karl
+7,7,5,7,3,4,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; karl
+7,8,5,7,3,3,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; baltisakslus; karl
+9,6,5,7,3,4,3,6,5,16,selts; eesti; rahvuslik; koorilaul; põllumees; kõrber; postimees; keel; jannsen; ärkamine; baltisakslus; karl
+6,7,3,5,2,2,1,8,5,16,selts; põllumees; ärkamine; baltisakslus; karl; eesti; rahvuslik; koorilaul; kõrber; üldlaulupidu; postimees; keel; jannsen
+5,6,3,4,2,4,4,9,5,16,selts; põllumees; ärkamine; baltisakslus; karl; eesti; koorilaul; kõrber; üldlaulupidu; postimees; keel; jannsen
+5,5,3,4,1,5,4,8,5,16,selts; põllumees; ärkamine; karl; eesti; rahvuslik; koorilaul; üldlaulupidu; kõrber; postimees; keel; jannsen
+6,5,6,6,1,5,3,8,7,16,selts; põllumees; ärkamine; baltisakslus; karl; eesti; rahvuslik; koorilaul; kõrber; üldlaulupidu; keel; postimees; jannsen
+5,5,3,8,2,3,2,8,7,16,selts; põllumees; baltisakslus; karl; eesti; rahvuslik; koorilaul; kõrber; üldlaulupidu; keel; postimees; jannsen

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,2,0,2,1,1,2,0,17,levimuusika; transpordilennuk; uno; bob; laul
-1,1,2,0,2,1,1,2,0,17,levimuusika; transpordilennuk; uno; bob; laul
-1,1,1,0,2,1,1,2,0,17,levimuusika; transpordilennuk; uno; bob; laul
-1,1,2,0,2,1,1,2,0,17,levimuusika; transpordilennuk; uno; nsv; bob; laul
-1,1,2,0,2,1,1,2,0,17,levimuusika; transpordilennuk; uno; nsv; bob; laul
-1,1,2,0,2,0,0,2,0,17,levimuusika; transpordilennuk; uno; nsv; bob; laul
-0,1,2,0,2,0,0,1,0,17,uno; transpordilennuk; nsv; bob; laul
-1,1,2,0,2,0,1,1,0,17,levimuusika; transpordilennuk; uno; nsv; bob; laul
-0,1,2,0,1,0,1,1,0,17,bob; laul; nsv; kikerpuu; aasta
-0,1,2,0,1,1,1,1,0,17,petrov; laul; nsv; andrei; bob; aasta
-0,0,2,1,2,2,1,0,0,17,uno; petrov; nsv; andrei; bob
+1,1,2,0,2,1,1,2,0,17,uno; transpordilennuk; levimuusika; laul; bob
+1,1,2,0,2,1,1,2,0,17,uno; transpordilennuk; levimuusika; laul; bob
+1,1,1,0,2,1,1,2,0,17,uno; transpordilennuk; levimuusika; laul; bob
+1,1,2,0,2,1,1,2,0,17,uno; nsv; transpordilennuk; levimuusika; laul; bob
+1,1,2,0,2,1,1,2,0,17,uno; nsv; transpordilennuk; levimuusika; laul; bob
+1,1,2,0,2,0,0,2,0,17,uno; nsv; transpordilennuk; levimuusika; laul; bob
+0,1,2,0,2,0,0,1,0,17,uno; nsv; transpordilennuk; laul; bob
+1,1,2,0,2,0,1,1,0,17,uno; nsv; transpordilennuk; levimuusika; laul; bob
+0,1,2,0,1,0,1,1,0,17,nsv; kikerpuu; aasta; laul; bob
+0,1,2,0,1,1,1,1,0,17,nsv; andrei; petrov; aasta; laul; bob
+0,0,2,1,2,2,1,0,0,17,uno; nsv; andrei; petrov; bob

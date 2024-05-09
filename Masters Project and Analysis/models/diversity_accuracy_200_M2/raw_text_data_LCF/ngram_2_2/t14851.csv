@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,6,2,0,2,2,6,4,12,akadeemia; lapsepõlv; füüsika; elustrateegia; hüpotees; gustav; naan; teaduste; sõda
-6,5,6,2,0,2,2,6,4,12,akadeemia; lapsepõlv; füüsika; elustrateegia; hüpotees; gustav; naan; teaduste; sõda
-6,5,6,2,0,2,2,6,4,12,akadeemia; lapsepõlv; füüsika; elustrateegia; hüpotees; gustav; naan; teaduste; sõda
-6,5,6,2,0,2,2,5,4,12,akadeemia; lapsepõlv; füüsika; elustrateegia; hüpotees; gustav; naan; teaduste; sõda
-5,4,5,3,0,4,4,5,4,12,akadeemia; lapsepõlv; elustrateegia; füüsika; hüpotees; gustav; naan; teaduste; sõda
-5,3,5,4,1,4,4,6,4,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-2,2,5,6,2,5,4,6,4,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-2,2,5,3,3,5,3,6,4,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; teaduste; sõda
-2,2,5,3,5,4,5,5,4,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; teaduste; sõda
-2,2,5,2,5,4,5,8,4,12,akadeemia; lapsepõlv; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
-2,2,6,2,5,3,5,7,2,12,akadeemia; elustrateegia; gustav; hüpotees; naan; füüsika; teaduste; sõda
+5,4,6,2,0,2,6,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+6,5,6,2,0,2,6,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+6,5,6,2,0,2,6,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+6,5,6,2,0,2,5,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+5,4,5,3,0,4,5,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; sõda; teaduste; gustav; elustrateegia
+5,3,5,4,1,4,6,4,0,12,füüsika; naan; hüpotees; akadeemia; lapsepõlv; teaduste; sõda; gustav; elustrateegia
+2,2,5,6,2,4,6,4,0,12,füüsika; naan; hüpotees; akadeemia; teaduste; sõda; gustav; elustrateegia
+2,2,5,3,3,3,6,4,0,12,akadeemia; naan; teaduste; sõda; gustav; elustrateegia
+2,2,5,3,5,5,5,4,0,12,akadeemia; naan; hüpotees; teaduste; sõda; gustav; elustrateegia
+2,2,5,2,5,5,8,4,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav; elustrateegia
+2,2,6,2,5,5,7,2,0,12,füüsika; akadeemia; naan; hüpotees; teaduste; sõda; gustav; elustrateegia

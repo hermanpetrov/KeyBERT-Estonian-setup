@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,5,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-1,1,4,3,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-0,1,4,2,0,2,2,3,1,12,facebook; trahv; port; börs; karistus; miljon; liit; euroopa
-3,1,5,6,0,3,3,3,1,12,facebook; kristjan; trahv; port; karistus; miljon; liit; euroopa
-0,2,5,3,0,3,4,3,1,12,facebook; trahv; port; karistus; miljon; liit; euroopa
-0,2,7,3,0,3,4,3,1,12,facebook; kristjan; trahv; port; börs; karistus; miljon; liit; euroopa
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,5,3,0,3,2,3,1,12,trahv; karistus; port; facebook; börs; euroopa; majandusliit; miljon; liit
+1,1,4,3,0,3,2,3,1,12,trahv; karistus; port; börs; facebook; euroopa; majandusliit; miljon; liit
+0,1,4,2,0,2,3,3,1,12,trahv; karistus; port; börs; facebook; euroopa; majandusliit; miljon; liit
+3,1,5,6,0,4,4,3,1,12,trahv; karistus; port; facebook; kristjan; euroopa; majandusliit; miljon; liit
+0,2,5,3,0,4,5,3,1,12,trahv; karistus; port; facebook; euroopa; majandusliit; miljon; liit
+0,2,7,3,0,4,5,3,1,12,trahv; karistus; port; börs; facebook; kristjan; euroopa; majandusliit; miljon; liit

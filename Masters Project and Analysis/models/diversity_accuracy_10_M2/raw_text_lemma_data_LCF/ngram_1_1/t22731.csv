@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,1,0,14,salajane; näitus
-0,0,1,0,0,1,1,1,0,14,salajane; näitus
-0,0,1,0,0,1,1,1,0,14,salajane; näitus
-0,0,1,0,0,1,1,1,0,14,salajane; näitus
+0,0,1,0,0,1,1,1,0,14,näitus; salajane
+0,0,1,0,0,1,1,1,0,14,näitus; salajane
+0,0,1,0,0,1,1,1,0,14,näitus; salajane
+0,0,1,0,0,1,1,1,0,14,näitus; salajane
 0,0,0,0,0,1,1,1,0,14,näitus
 0,0,0,0,0,0,1,0,0,14,näitus
 0,0,0,0,0,0,0,0,0,14,
 0,0,0,0,0,0,0,1,0,14,näitus
-0,1,0,0,0,0,0,0,0,14,aed
-0,1,0,1,0,0,0,0,0,14,aed; akvarell
-0,1,0,1,0,0,0,0,0,14,aed; akvarell
+0,1,0,0,0,0,1,0,0,14,infotankist; aed
+0,1,0,1,0,0,1,0,0,14,infotankist; akvarell; aed
+0,1,0,1,0,0,1,0,0,14,infotankist; akvarell; aed

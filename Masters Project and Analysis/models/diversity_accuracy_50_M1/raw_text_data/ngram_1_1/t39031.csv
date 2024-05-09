@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,3,0,0,1,1,13,uno; habe; eesti; loop; mees
-0,0,0,0,3,0,0,1,1,13,uno; habe; eesti; loop; mees
-0,0,0,0,3,0,0,1,1,13,uno; habe; eesti; loop; mees
-0,1,0,0,3,0,0,1,1,13,uno; sümpaatne; habe; eesti; loop; mees
-0,1,0,0,3,0,0,1,1,13,uno; sümpaatne; habe; eesti; loop; mees
-0,0,0,0,3,0,0,1,1,13,uno; habe; eesti; loop; mees
-0,0,0,0,3,0,0,1,1,13,uno; habe; eesti; loop; mees
-0,0,0,0,2,0,0,1,1,13,uno; eesti; loop; mees
-0,0,0,0,1,0,0,0,1,13,eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
-0,0,0,0,1,0,0,0,1,13,eesti; loop
+0,0,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop
+0,0,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop
+0,0,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop
+0,1,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop; sümpaatne
+0,1,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop; sümpaatne
+0,0,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop
+0,0,0,0,3,0,0,1,1,13,uno; mees; habe; eesti; loop
+0,0,0,0,2,0,0,1,1,13,loop; uno; mees; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti
+0,0,0,0,1,0,0,0,1,13,loop; eesti

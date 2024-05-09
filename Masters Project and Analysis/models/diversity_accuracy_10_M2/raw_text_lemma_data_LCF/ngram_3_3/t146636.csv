@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,1,1,0,0,1,1,0,2,13,mõõdukus; kõrkus
-0,1,1,0,0,1,2,0,2,13,mõõdukus; aegunud; kõrkus
-0,0,1,0,0,1,2,0,2,13,mõõdukus; aegunud; kõrkus
-0,0,1,0,0,1,1,0,2,13,mõõdukus; aegunud; kõrkus
-1,0,1,0,0,1,1,0,2,13,kõrkus; mõõdukus; aegunud
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,1,2,0,0,1,1,1,2,13,käegalöömine; surmapate; kõrkus; mõõdukus
+0,2,2,0,0,1,1,2,2,13,käegalöömine; enesehinnang; surmapate; kõrkus; mõõdukus
+2,2,2,0,0,1,2,2,2,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; mõõdukus; enesehinnang; aegunud
+3,1,2,0,0,1,2,2,2,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; mõõdukus; enesehinnang; aegunud
+3,1,2,0,0,1,1,0,2,13,käegalöömine; mõõdukus; surmapate; kõrkus; loomupärane; hüpertroofia; aegunud
+4,1,2,0,0,1,1,2,2,13,käegalöömine; surmapate; kõrkus; loomupärane; hüpertroofia; mõõdukus; enesehinnang; aegunud

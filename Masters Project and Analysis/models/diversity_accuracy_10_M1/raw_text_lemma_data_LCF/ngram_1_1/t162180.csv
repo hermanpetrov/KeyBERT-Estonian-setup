@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,0,0,1,3,1,13,vene; hainsalu; tartu; luule; kirjutama
-0,0,0,0,0,0,1,3,1,13,vene; hainsalu; tartu; luule; kirjutama
-0,0,0,0,0,0,1,3,1,13,vene; hainsalu; tartu; luule; kirjutama
-0,0,0,0,0,0,1,3,1,13,vene; hainsalu; tartu; luule; kirjutama
-0,0,0,0,0,0,1,3,1,13,vene; hainsalu; tartu; luule; kirjutama
-0,0,0,0,0,1,1,2,1,13,vene; hainsalu; tartu; luule
-0,0,0,0,0,0,1,1,1,13,vene; hainsalu; tartu
-0,0,0,0,0,1,1,1,1,13,vene; hainsalu; tartu
-0,0,0,0,0,1,1,1,1,13,vene; hainsalu; tartu
+0,0,0,1,0,0,1,3,1,13,vene; kirjutama; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,0,1,3,1,13,vene; kirjutama; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,0,1,3,1,13,vene; kirjutama; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,0,1,3,1,13,vene; kirjutama; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,0,1,3,1,13,vene; kirjutama; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,1,1,2,1,13,vene; hainsalu; üheksavägine; luule; tartu
+0,0,0,1,0,0,1,1,1,13,hainsalu; üheksavägine; vene; tartu
+0,0,0,0,0,1,1,1,1,13,hainsalu; vene; tartu
+0,0,0,0,0,1,1,1,1,13,hainsalu; vene; tartu
 0,0,0,0,0,1,0,0,0,13,tartu
 0,0,0,0,0,2,0,0,0,13,vene; tartu

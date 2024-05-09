@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,3,5,2,2,1,2,4,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-6,2,4,2,2,1,2,3,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-5,2,4,2,2,1,2,3,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-4,2,4,2,2,2,2,3,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-4,3,3,2,3,2,2,3,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-3,2,2,1,3,3,2,2,1,10,loosung; toimetus; raadio; režissöör; kirjandus; film; televisioon; saade
-3,2,3,4,5,4,2,3,1,10,loosung; toimetus; raadio; režissöör; film; kirjandus; televisioon; saade
-1,2,1,3,3,2,2,3,2,10,loosung; raadio; režissöör; kirjandus; film; televisioon; saade
-1,2,2,4,3,3,2,3,2,10,loosung; raadio; režissöör; kirjandus; film; televisioon; saade
-1,3,2,4,3,4,2,3,2,10,loosung; raadio; režissöör; kirjandus; film; televisioon; saade
-0,2,2,4,4,3,3,3,2,10,loosung; raadio; režissöör; kirjandus; film; televisioon; saade
+6,3,5,2,2,2,4,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+6,2,4,2,2,2,3,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+5,2,4,2,2,2,3,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+4,2,4,2,2,2,3,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+4,3,3,2,3,2,3,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+3,2,2,1,3,2,2,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; kirjandus; televisioon
+3,2,3,4,5,2,3,1,0,10,film; loosung; toimetus; saade; režissöör; raadio; televisioon
+1,2,1,3,3,2,3,2,0,10,film; loosung; saade; režissöör; raadio; kirjandus; televisioon
+1,2,2,4,3,2,3,2,0,10,film; loosung; saade; režissöör; raadio; kirjandus; televisioon
+1,3,2,4,3,2,3,2,0,10,film; loosung; saade; režissöör; raadio; kirjandus; televisioon
+0,2,2,4,4,3,3,2,0,10,film; loosung; saade; režissöör; raadio; kirjandus; televisioon

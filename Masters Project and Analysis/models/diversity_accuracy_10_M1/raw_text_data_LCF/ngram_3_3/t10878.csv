@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,1,0,0,0,0,0,1,2,11,ants; arvamus; täiskasvanu; enesetunnetus; tooming
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-2,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-2,1,0,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
-3,1,1,0,0,0,0,1,1,11,ants; täiskasvanu; tooming; enesetunnetus
+3,1,0,0,0,0,1,2,0,11,arvamus; täiskasvanu; ants; tooming; enesetunnetus
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+2,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+2,1,0,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants
+3,1,1,0,0,0,1,1,0,11,tooming; enesetunnetus; täiskasvanu; ants

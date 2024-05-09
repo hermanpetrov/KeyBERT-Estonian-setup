@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,11,9,9,9,12,12,11,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-10,11,9,9,10,12,11,11,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-11,11,8,9,11,12,11,12,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-10,11,10,9,12,12,11,12,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-10,11,11,9,12,12,11,11,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-11,11,10,9,12,11,11,12,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-12,11,11,10,12,11,10,10,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-12,10,10,12,12,11,10,10,9,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-11,11,9,12,12,11,10,10,11,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-10,10,10,12,12,11,10,9,12,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
-10,10,11,12,12,10,9,10,12,20,kristuse; johannes; peetruse; patriarh; konstantinoopoli; kolmas; gregorius; sostumus; basiilika; jumala; neitsi; efesose
+10,11,9,9,9,12,11,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+10,11,9,9,10,11,11,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+11,11,8,9,11,11,12,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+10,11,10,9,12,11,12,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+10,11,11,9,12,11,11,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+11,11,10,9,12,11,12,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+12,11,11,10,12,10,10,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+12,10,10,12,12,10,10,9,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+11,11,9,12,12,10,10,11,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+10,10,10,12,12,10,9,12,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse
+10,10,11,12,12,9,10,12,0,20,konstantinoopoli; neitsi; johannes; basiilika; sostumus; efesose; gregorius; patriarh; kristuse; jumala; kolmas; peetruse

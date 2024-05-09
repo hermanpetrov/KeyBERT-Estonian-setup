@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,2,2,2,3,3,4,3,12,peeter; sadam; kapten; admiral
-4,4,2,3,2,3,3,4,3,12,peeter; sadam; kapten; admiral
-4,4,3,3,2,3,4,4,2,12,peeter; sadam; kapten; admiral
-4,4,4,3,2,3,4,4,3,12,peeter; sadam; kapten; admiral
-4,4,4,3,2,4,4,4,3,12,peeter; sadam; kapten; admiral
-3,4,4,4,3,4,4,4,3,12,sadam; kapten; admiral; peeter
-4,3,4,4,3,4,3,4,2,12,sadam; kapten; admiral; peeter
-4,4,4,4,3,3,3,4,2,12,peeter; sadam; kapten; admiral
-4,4,4,3,3,3,3,4,3,12,peeter; sadam; kapten; admiral
-4,3,4,3,3,3,3,4,4,12,sadam; kapten; admiral; peeter
-4,3,3,3,2,3,3,4,4,12,sadam; kapten; admiral; peeter
+8,9,6,5,4,8,7,9,5,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+8,9,6,6,4,8,7,9,5,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+8,9,7,6,4,9,9,9,4,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+8,9,7,6,4,8,9,9,5,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; sadam; merekultuur
+8,9,9,7,4,9,9,9,5,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; sadam; merekultuur
+8,9,10,8,6,9,10,9,5,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+8,8,9,9,6,9,8,8,4,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+9,8,8,9,6,7,7,6,4,12,admiral; mereakadeemia; kapten; merekultuur; mereriik; peeter; meremees; piirivalve; mereparaad; sadam
+7,7,9,6,6,8,8,6,5,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; sadam; merekultuur
+7,6,8,7,5,7,7,6,6,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur
+7,8,8,8,6,7,7,5,6,12,admiral; mereriik; peeter; meremees; mereakadeemia; piirivalve; kapten; mereparaad; sadam; merekultuur

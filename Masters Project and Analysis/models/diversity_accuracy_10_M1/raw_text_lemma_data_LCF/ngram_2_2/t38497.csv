@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,3,0,0,4,2,2,1,14,soome; keel; õppimine; eesti
-0,0,3,0,0,4,2,2,1,14,soome; keel; õppimine; eesti
-0,0,3,0,0,4,2,2,1,14,soome; keel; õppimine; eesti
-0,0,3,0,0,4,2,2,1,14,soome; keel; õppimine; eesti
-0,0,3,0,0,4,2,2,1,14,soome; keel; õppimine; eesti
-0,0,2,0,0,4,2,1,1,14,soome; keel; õppimine; eesti
-2,1,2,1,0,2,3,1,1,14,laen; soome; johannes; keel; eesti
-0,1,2,0,0,2,2,1,1,14,keel; soome; eesti
-1,1,2,1,0,2,2,1,1,14,soome; keel; eesti
-0,1,1,2,0,2,4,2,2,14,soome; mika; johannes; keel; eesti
-0,0,2,1,0,1,2,2,1,14,soome; mika; keel; eesti
+0,0,3,0,0,4,2,3,1,14,õppimine; keel; soome; eesti; keelevõistlus
+0,0,3,0,0,4,2,3,1,14,õppimine; keel; soome; eesti; keelevõistlus
+0,0,3,0,0,4,2,3,1,14,õppimine; keel; soome; eesti; keelevõistlus
+0,0,3,0,0,4,2,3,1,14,õppimine; keel; soome; eesti; keelevõistlus
+0,0,3,0,0,4,2,3,1,14,õppimine; keel; soome; eesti; keelevõistlus
+0,0,2,0,0,4,2,1,1,14,õppimine; keel; soome; eesti
+2,1,2,1,0,2,3,2,1,14,keel; soome; eesti; johannes; laen; sõnavõistlus
+0,1,2,0,0,4,2,1,1,14,keel; soome; eesti; keelevõistlus; sõnavõistlus
+3,1,2,1,0,2,2,2,1,14,keel; soome; eesti; keelevõistlus; sõnavõistlus
+0,1,1,2,0,2,5,2,2,14,soome; eesti; johannes; mika; sõnavõistlus; keel
+0,0,2,1,0,2,2,2,1,14,keel; soome; eesti; mika; sõnavõistlus

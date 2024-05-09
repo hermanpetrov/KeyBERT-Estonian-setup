@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,0,1,0,0,0,0,16,prints
-0,0,0,0,1,0,0,0,0,16,prints
-0,0,0,0,1,0,0,0,0,16,prints
-0,0,0,0,1,0,0,0,0,16,prints
-0,0,1,0,1,0,0,0,0,16,heinrich; prints
-0,0,1,0,1,0,0,0,0,16,heinrich; prints
-0,0,1,0,1,0,0,0,0,16,heinrich; prints
-0,0,1,0,1,0,1,0,0,16,heinrich; pille-riin; prints
-0,0,0,0,1,0,1,0,0,16,pille-riin; prints
-0,0,1,0,1,0,1,1,0,16,heinrich; pille-riin; prints
-0,0,2,0,1,0,1,1,0,16,heinrich; pille-riin; prints
+0,0,1,0,1,1,0,1,0,16,prints; lastekirjandus; luuleruum
+0,0,1,0,1,1,0,1,0,16,prints; lastekirjandus; luuleruum
+0,0,1,0,1,1,0,1,0,16,prints; lastekirjandus; luuleruum
+0,0,1,0,1,1,0,1,0,16,prints; lastekirjandus; luuleruum
+0,0,2,0,1,1,0,1,0,16,prints; heinrich; lastekirjandus; luuleruum
+0,0,2,0,1,1,0,0,0,16,prints; lastekirjandus; heinrich; luuleruum
+0,0,2,0,1,0,0,1,0,16,prints; lastekirjandus; heinrich; luuleruum
+0,0,2,0,1,0,1,1,0,16,prints; heinrich; pille-riin; lastekirjandus; luuleruum
+0,0,1,0,1,0,1,0,0,16,prints; lastekirjandus; pille-riin
+1,1,2,0,1,0,1,2,0,16,prints; heinrich; pille-riin; mooramees; lastekirjandus; luuleruum
+0,1,3,0,1,0,1,1,0,16,prints; heinrich; pille-riin; lastekirjandus

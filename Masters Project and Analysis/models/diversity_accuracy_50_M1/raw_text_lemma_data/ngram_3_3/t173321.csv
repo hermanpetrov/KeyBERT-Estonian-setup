@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,3,4,4,2,3,2,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,3,4,4,2,3,2,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,3,4,4,2,3,2,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,3,4,4,2,3,2,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,3,5,4,2,3,2,4,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,3,6,4,2,4,2,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-6,4,5,4,2,4,3,2,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-6,4,6,6,2,5,3,3,4,13,uno; sügavus; akadeemia; eesti; vesi; buldooser; toru; pauts; ekskavaator
-7,4,7,5,5,7,3,3,4,13,uno; sügavus; akadeemia; eesti; buldooser; vesi; toru; pauts; ekskavaator
-5,5,5,5,5,6,4,5,5,13,uno; sügavus; akadeemia; eesti; vesi; buldooser; toru; pauts; ekskavaator
-5,6,8,6,4,5,4,6,4,13,uno; sügavus; akadeemia; eesti; vesi; buldooser; toru; pauts; ekskavaator
+7,5,5,6,2,4,3,5,5,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+7,5,5,6,2,4,3,5,5,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+7,5,5,6,2,4,3,5,5,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+7,5,5,6,2,4,3,5,5,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+7,5,6,6,2,4,3,6,4,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+7,5,7,6,2,5,3,6,4,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; põllumaa; sügavus; ekskavaator; põllumajandus
+8,6,7,5,2,5,4,4,4,13,saepuru; uno; eesti; buldooser; akadeemia; vesi; toru; pauts; sügavus; põllumaa; ekskavaator; põllumajandus
+9,6,8,7,2,6,5,5,4,13,saepuru; akadeemia; toru; põllumaa; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator; põllumajandus
+9,5,9,6,5,8,5,5,4,13,saepuru; akadeemia; toru; põllumaa; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator; põllumajandus
+7,6,7,6,5,7,6,8,5,13,saepuru; akadeemia; toru; põllumaa; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator; põllumajandus
+7,8,10,7,4,6,6,9,4,13,saepuru; akadeemia; toru; põllumaa; uno; eesti; buldooser; vesi; pauts; sügavus; ekskavaator; põllumajandus

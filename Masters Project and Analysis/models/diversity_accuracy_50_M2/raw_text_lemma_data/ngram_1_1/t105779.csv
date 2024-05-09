@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,1,1,1,2,0,1,0,11,esinemine; varietee; toimetus; raadio
-1,0,1,1,1,2,0,1,0,11,esinemine; varietee; toimetus; raadio
-1,0,1,1,1,2,0,1,0,11,esinemine; varietee; toimetus; raadio
-1,0,1,1,1,2,0,1,0,11,esinemine; varietee; toimetus; raadio
-1,0,0,1,1,1,0,1,0,11,varietee; toimetus; raadio
-1,0,0,1,1,1,0,0,0,11,varietee; toimetus; raadio
-1,0,0,1,1,0,0,0,0,11,varietee; toimetus; raadio
-1,0,0,0,1,0,0,0,0,11,varietee; toimetus
-1,0,0,1,0,0,0,0,0,11,varietee
-1,1,0,1,0,1,0,1,0,11,esinemine; varietee; raadio
-1,1,0,1,0,1,0,0,1,11,viktoriin; esinemine; varietee; raadio
+1,0,4,2,1,5,4,5,0,11,esinemine; kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+1,0,4,2,1,5,4,5,0,11,esinemine; kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+1,0,4,2,1,5,4,5,0,11,esinemine; kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+1,0,4,2,1,5,4,5,0,11,esinemine; kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+1,0,3,2,1,5,4,5,0,11,kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; raadio; haapsalu; estraadiorkester
+1,0,1,2,1,4,4,5,0,11,kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,0,1,2,1,3,2,5,0,11,kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; raadio; muusikasaade; haapsalu; estraadiorkester
+1,1,1,2,1,0,3,2,0,11,kalurikolhoos; naisansambel; toimetus; varietee; meesansambel; muusikasaade; estraadiorkester
+3,0,2,1,0,0,3,2,0,11,muusikasaade; kalurikolhoos; haapsalu; naisansambel; varietee; meesansambel; estraadiorkester
+4,2,1,1,0,1,3,3,0,11,esinemine; kalurikolhoos; naisansambel; varietee; meesansambel; muusikasaade; raadio; estraadiorkester
+4,2,1,1,0,1,3,1,1,11,esinemine; kalurikolhoos; naisansambel; viktoriin; varietee; meesansambel; muusikasaade; raadio; estraadiorkester

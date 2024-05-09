@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,1,1,2,1,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,1,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,1,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,1,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,2,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,2,1,1,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,1,2,2,1,0,0,12,ink; amazona; vihm; linn; kaupo
-1,1,1,0,2,2,0,0,0,12,ink; amazona; vihm; linn
-2,1,1,1,2,1,0,0,0,12,ink; amazona; vihm; linn; surnu
-1,0,1,1,2,2,0,0,0,12,ink; amazona; vihm; linn; surnu
-1,0,1,2,0,1,0,0,1,12,amazona; surnu; linn
+2,1,1,1,2,1,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,1,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,1,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,1,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,2,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,2,1,1,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,1,1,2,2,1,0,0,12,põllukultuur; ink; kaupo; amazona; vihm; linn
+2,1,2,0,2,2,0,0,0,12,põllukultuur; ink; amazona; vihm; linn
+3,2,2,1,2,1,0,0,0,12,põllukultuur; ink; surnu; amazona; vihm; linn
+2,1,2,1,2,2,0,0,0,12,põllukultuur; ink; surnu; amazona; vihm; linn
+2,1,1,2,0,2,0,1,1,12,põllukultuur; surnu; amazona; salapärane; linn

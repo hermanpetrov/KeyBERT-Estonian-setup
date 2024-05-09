@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
-0,1,2,0,0,2,1,2,3,17,mart; paul-eerik; luuletaja; eesti; antoloogia; alver
-0,1,2,0,0,2,1,2,3,17,mart; paul-eerik; luuletaja; eesti; antoloogia; alver
-0,1,2,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
-0,1,3,0,0,2,1,2,4,17,mart; paul-eerik; mäger; luuletaja; eesti; muru; antoloogia; alver
-0,1,2,0,0,1,1,1,3,17,paul-eerik; mäger; luuletaja; eesti; muru; antoloogia; alver
-0,1,0,0,0,1,1,2,3,17,paul-eerik; mäger; luuletaja; eesti; antoloogia
-0,1,1,1,0,1,2,2,3,17,paul-eerik; mäger; luuletaja; eesti; antoloogia; alver
-1,1,1,2,0,1,0,1,3,17,karl; suits; paul-eerik; mäger; luuletaja; eesti; antoloogia
-2,2,1,2,0,1,0,1,4,17,karl; mäger; luuletaja; eesti; muru; antoloogia; paul-eerik; suits; bett
-3,1,1,1,1,0,0,1,3,17,gustav; paul-eerik; suits; karl; eesti; muru; antoloogia
+0,1,3,0,0,3,2,3,4,17,luuletaja; alver; eesti; luulealbum; mart; mäger; antoloogia; paul-eerik
+0,1,3,0,0,3,2,3,3,17,luuletaja; alver; eesti; luulealbum; mart; antoloogia; paul-eerik
+0,1,3,0,0,3,2,3,3,17,luuletaja; alver; eesti; luulealbum; mart; antoloogia; paul-eerik
+0,1,3,0,0,3,2,3,4,17,luuletaja; alver; eesti; luulealbum; mart; mäger; antoloogia; paul-eerik
+0,1,4,0,0,3,2,3,4,17,luuletaja; alver; eesti; mäger; antoloogia; muru; mart; luulealbum; paul-eerik
+0,1,3,0,0,2,2,2,3,17,luuletaja; muru; alver; eesti; luulealbum; mäger; antoloogia; paul-eerik
+0,1,1,1,0,2,2,3,3,17,luuletaja; eesti; luulealbum; mäger; antoloogia; paul-eerik
+0,1,1,2,0,2,3,3,3,17,luuletaja; alver; eesti; mäger; antoloogia; luulealbum; paul-eerik
+1,1,1,3,0,2,1,2,3,17,luuletaja; eesti; mäger; antoloogia; luulealbum; karl; suits; paul-eerik
+2,2,1,3,0,2,1,2,4,17,luuletaja; eesti; mäger; antoloogia; bett; muru; luulealbum; karl; suits; paul-eerik
+4,1,1,1,1,1,1,2,3,17,eesti; antoloogia; muru; gustav; luulealbum; karl; suits; paul-eerik

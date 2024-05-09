@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,0,1,0,0,0,0,0,0,19,tants
 0,0,1,0,0,0,0,0,0,19,tants
 0,0,1,0,0,0,1,0,0,19,tants
-0,0,0,0,0,1,1,0,0,19,tants; mood
-0,0,0,0,0,1,1,1,0,19,tants; anatoomikum; mood
-0,0,1,0,0,1,1,1,0,19,kunstikool; tants; mood
+0,0,0,0,0,1,1,0,0,19,mood; tants
+0,0,0,0,0,1,1,1,0,19,mood; anatoomikum; tants
+0,0,1,0,0,1,1,1,0,19,mood; kunstikool; tants

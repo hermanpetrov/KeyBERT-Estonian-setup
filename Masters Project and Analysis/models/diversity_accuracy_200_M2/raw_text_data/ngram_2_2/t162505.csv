@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,10,9,8,7,7,8,9,10,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-10,10,9,8,8,9,8,9,10,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-10,10,10,8,8,9,8,10,10,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-10,10,10,8,8,9,9,10,10,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-10,10,10,9,8,10,10,10,10,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-8,10,10,9,6,10,10,10,9,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-8,10,10,9,6,10,10,10,7,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-9,10,10,9,7,9,10,10,7,13,kreutzwald; väljakutse; teema-aasta; rahvapärimus; identiteet; lugemise; eesti; rahvakultuuri; rahvajutt; seminar
-8,9,10,9,7,10,10,10,7,13,kreutzwald; väljakutse; teema-aasta; rahvajutt; rahvapärimus; lugemise; eesti; rahvakultuuri; identiteet; seminar
-8,8,10,9,9,10,10,9,9,13,kreutzwald; väljakutse; teema-aasta; rahvajutt; rahvapärimus; lugemise; eesti; rahvakultuuri; identiteet; seminar
-8,8,10,10,9,10,10,9,10,13,kreutzwald; väljakutse; teema-aasta; rahvajutt; rahvapärimus; lugemise; eesti; rahvakultuuri; identiteet; seminar
+10,10,9,8,7,7,8,9,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+10,10,9,8,8,9,8,9,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+10,10,10,8,8,9,8,10,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+10,10,10,8,8,9,9,10,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+10,10,10,9,8,10,10,10,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+8,10,10,9,6,10,10,10,9,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+8,10,10,9,6,10,10,10,7,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+9,10,10,9,7,9,10,10,7,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+8,9,10,9,7,10,10,10,7,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+8,8,10,9,9,10,10,9,9,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt
+8,8,10,10,9,10,10,9,10,13,kreutzwald; rahvakultuuri; teema-aasta; lugemise; seminar; rahvapärimus; eesti; väljakutse; identiteet; rahvajutt

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,1,0,0,0,0,2,15,politsei; eesti; geiaktivine
-0,1,0,1,0,0,0,0,2,15,politsei; eesti; geiaktivine
-0,1,0,1,0,0,0,0,2,15,politsei; eesti; geiaktivine
-0,1,1,1,0,0,0,0,1,15,ühiskond; eesti; geiaktivine
-0,1,0,1,0,0,0,0,2,15,politsei; eesti; geiaktivine
-0,1,0,1,0,0,0,0,2,15,politsei; eesti; geiaktivine
-0,1,0,0,0,1,0,1,2,15,mets; reimo; politsei; eesti; geiaktivine
-0,0,0,0,0,0,0,1,2,15,politsei; eesti; reimo
-0,0,0,0,0,1,0,0,1,15,mets; eesti
-0,0,0,1,0,1,1,1,1,15,jurist; mets; eesti
-0,0,0,1,0,0,2,1,1,15,jurist; mets; eesti; reimo
+1,1,1,1,0,0,0,0,2,15,politsei; eesti; perekonnaõigus; geiaktivine; ööklubi
+1,1,1,1,0,0,0,0,2,15,politsei; eesti; perekonnaõigus; geiaktivine; ööklubi
+1,1,1,1,0,0,0,0,2,15,politsei; eesti; perekonnaõigus; geiaktivine; ööklubi
+1,1,2,1,0,0,0,0,1,15,eesti; perekonnaõigus; geiaktivine; ööklubi; ühiskond
+1,1,0,1,0,0,0,0,2,15,politsei; geiaktivine; eesti; perekonnaõigus
+1,1,0,1,0,0,0,0,2,15,politsei; geiaktivine; eesti; perekonnaõigus
+0,1,2,1,0,1,0,2,2,15,politsei; eesti; perekonnaõigus; mets; reimo; geiaktivine; ööklubi
+0,0,1,0,0,1,0,1,2,15,eesti; reimo; politsei; ööklubi
+0,0,2,0,0,1,1,1,1,15,mets; eesti; ööklubi; perekonnaõigus
+0,0,1,1,0,1,2,1,1,15,eesti; mets; ööklubi; jurist
+0,0,1,1,0,0,3,2,2,15,abielu; eesti; mets; demokraatia; reimo; ööklubi; jurist

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-4,4,3,4,3,2,2,4,2,11,kvaliteet; hapnik; vesi; raud
-4,4,3,4,3,2,2,3,2,11,kvaliteet; hapnik; vesi; raud
-4,4,3,4,4,3,2,3,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,3,2,3,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,3,3,3,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,3,3,4,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,3,3,4,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,4,4,4,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,3,4,4,4,2,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,4,4,4,4,3,11,kvaliteet; hapnik; vesi; raud
-4,4,4,4,3,4,4,4,3,11,kvaliteet; hapnik; vesi; raud
+9,8,6,9,6,4,5,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+9,8,6,9,6,4,5,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+9,8,6,9,6,5,5,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+9,9,9,9,6,7,6,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+9,10,8,9,6,8,9,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+8,9,8,9,6,8,7,7,4,11,veetöötlusjaam; veevärk; vesi; põhjaveekompleks; hapnik; veevarustussüsteem; joogiveemäärus; raud; tervisehäire; kvaliteet
+8,8,7,8,6,7,7,8,4,11,veetöötlusjaam; veevärk; vesi; põhjaveekompleks; hapnik; joogiveemäärus; raud; tervisehäire; kvaliteet
+7,7,8,9,4,9,10,8,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+7,7,9,9,4,7,7,9,4,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+8,8,9,9,6,7,7,9,5,11,veetöötlusjaam; tervisehäire; hapnik; veevarustussüsteem; raud; veevärk; vesi; joogiveemäärus; põhjaveekompleks; kvaliteet
+8,9,8,9,5,7,6,8,5,11,veetöötlusjaam; veevärk; vesi; põhjaveekompleks; hapnik; veevarustussüsteem; joogiveemäärus; raud; tervisehäire; kvaliteet

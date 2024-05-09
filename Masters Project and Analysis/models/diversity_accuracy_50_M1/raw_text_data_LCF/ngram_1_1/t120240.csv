@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,2,0,1,1,2,1,11,kodukohvik; turismitalu; pidu
-2,1,1,2,0,1,1,2,1,11,kodukohvik; turismitalu; pidu
-2,1,1,2,0,1,1,2,0,11,kodukohvik; turismitalu; pidu
-2,1,1,2,0,1,1,2,0,11,kodukohvik; turismitalu; pidu
-2,1,1,2,0,1,1,2,0,11,kodukohvik; turismitalu; pidu
-2,1,1,2,0,0,1,2,0,11,kodukohvik; turismitalu; pidu
-2,1,1,1,0,1,1,3,0,11,mulgi; kodukohvik; turismitalu; ilves; pidu
-2,1,0,2,0,0,1,1,1,11,kristi; kodukohvik; turismitalu; ilves; pidu
-2,1,0,2,0,0,1,1,1,11,kristi; kodukohvik; turismitalu; ilves; pidu
-2,1,1,0,0,0,1,1,1,11,kodukohvik; turismitalu; ilves; pidu
-1,1,1,0,0,0,1,1,1,11,turismitalu; pidu; ilves
+2,1,1,2,0,1,2,1,0,11,kodukohvik; pidu; turismitalu
+2,1,1,2,0,1,2,1,0,11,kodukohvik; pidu; turismitalu
+2,1,1,2,0,1,2,0,0,11,kodukohvik; pidu; turismitalu
+2,1,1,2,0,1,2,0,0,11,kodukohvik; pidu; turismitalu
+2,1,1,2,0,1,2,0,0,11,kodukohvik; pidu; turismitalu
+2,1,1,2,0,1,2,0,0,11,kodukohvik; pidu; turismitalu
+2,1,1,1,0,1,3,0,0,11,kodukohvik; ilves; pidu; mulgi; turismitalu
+2,1,0,2,0,1,1,1,0,11,kodukohvik; ilves; pidu; kristi; turismitalu
+2,1,0,2,0,1,1,1,0,11,kodukohvik; ilves; pidu; kristi; turismitalu
+2,1,1,0,0,1,1,1,0,11,kodukohvik; ilves; pidu; turismitalu
+1,1,1,0,0,1,1,1,0,11,pidu; ilves; turismitalu

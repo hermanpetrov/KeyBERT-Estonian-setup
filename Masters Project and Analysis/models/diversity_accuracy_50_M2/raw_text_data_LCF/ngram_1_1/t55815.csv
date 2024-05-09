@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,1,0,1,0,13,esselink; elizabeth
-0,0,2,0,0,1,0,1,0,13,esselink; elizabeth
-0,0,2,0,0,1,0,1,0,13,esselink; elizabeth
-0,0,2,0,0,1,0,1,0,13,esselink; elizabeth
-0,0,1,0,0,2,0,2,0,13,esselink; elizabeth; süntesaator
-0,0,1,0,0,2,0,2,0,13,esselink; elizabeth; süntesaator
-0,0,1,0,0,2,1,1,0,13,esselink; elizabeth
-1,0,0,0,0,2,1,1,1,13,esselink; elizabeth
-1,0,0,0,0,1,1,1,1,13,esselink; elizabeth; süntesaator
-1,0,1,0,0,1,1,0,1,13,esselink; solex; elizabeth
-1,0,1,0,0,1,1,0,1,13,esselink; solex; elizabeth
+0,0,2,0,0,0,1,0,0,13,elizabeth; esselink
+0,0,2,0,0,0,1,0,0,13,elizabeth; esselink
+0,0,2,0,0,0,1,0,0,13,elizabeth; esselink
+0,0,2,0,0,0,1,0,0,13,elizabeth; esselink
+0,0,1,0,0,0,2,0,0,13,esselink; süntesaator
+0,0,1,0,0,0,2,0,0,13,esselink; süntesaator
+0,0,1,0,0,1,1,0,0,13,esselink
+1,0,0,0,0,1,1,1,0,13,elizabeth; esselink
+1,0,0,0,0,1,1,1,0,13,elizabeth; esselink; süntesaator
+1,0,1,0,0,1,0,1,0,13,elizabeth; solex; esselink
+1,0,1,0,0,1,0,1,0,13,elizabeth; solex; esselink

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,7,7,4,4,6,5,8,12,kirik; piiskopkond; ülikool; ordu; toomhärra; vaimulik; katoliku; liivimaa; tartu; euroopa
-5,5,7,7,4,4,6,5,8,12,kirik; piiskopkond; ülikool; ordu; toomhärra; vaimulik; katoliku; liivimaa; tartu; euroopa
-7,5,7,7,4,4,6,6,8,12,kirik; piiskopkond; ülikool; ordu; euroopa; toomhärra; vaimulik; liivimaa; tartu; katoliku
-7,4,8,7,4,4,6,7,7,12,kirik; piiskopkond; ülikool; ordu; euroopa; toomhärra; vaimulik; liivimaa; tartu; katoliku
-5,5,8,8,5,4,8,8,8,12,kirik; piiskopkond; ülikool; ordu; toomhärra; vaimulik; katoliku; liivimaa; tartu; euroopa
-6,5,8,7,5,3,5,6,8,12,kirik; piiskopkond; ülikool; ordu; vaimulik; toomhärra; katoliku; liivimaa; tartu; euroopa
-4,4,6,7,5,4,5,7,8,12,kirik; piiskopkond; ülikool; ordu; euroopa; vaimulik; toomhärra; liivimaa; tartu; katoliku
-2,6,5,8,7,4,3,8,9,12,piiskopkond; ülikool; toomhärra; katoliku; liivimaa; kirik; ordu; vaimulik; tartu; euroopa
-4,6,5,8,8,5,2,8,8,12,kirik; piiskopkond; ülikool; ordu; euroopa; vaimulik; toomhärra; liivimaa; tartu; katoliku
-4,7,6,8,8,4,6,4,7,12,kirik; piiskopkond; ülikool; ordu; euroopa; vaimulik; toomhärra; liivimaa; tartu; katoliku
-4,8,5,8,8,3,4,4,7,12,kirik; piiskopkond; ülikool; ordu; euroopa; vaimulik; toomhärra; liivimaa; tartu; katoliku
+5,5,7,7,4,6,5,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+5,5,7,7,4,6,5,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+7,5,7,7,4,6,6,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+7,4,8,7,4,6,7,7,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+5,5,8,8,5,8,8,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+6,5,8,7,5,5,6,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+4,4,6,7,5,5,7,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+2,6,5,8,7,3,8,9,0,12,ülikool; liivimaa; tartu; katoliku; euroopa; toomhärra; vaimulik; kirik; piiskopkond; ordu
+4,6,5,8,8,2,8,8,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+4,7,6,8,8,6,4,7,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa
+4,8,5,8,8,4,4,7,0,12,toomhärra; vaimulik; kirik; ülikool; liivimaa; tartu; piiskopkond; ordu; katoliku; euroopa

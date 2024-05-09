@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,1,0,1,1,1,0,11,mägine; šveits
-2,1,1,1,0,1,1,1,1,11,mägine; šveits
-2,1,1,1,0,1,1,1,2,11,mägine; šveits; maksusüsteem
-2,1,1,1,0,1,1,1,2,11,mägine; šveits; maksusüsteem
-2,1,1,1,0,1,1,1,2,11,mägine; šveits; maksusüsteem
-4,1,2,1,0,1,1,1,2,11,šveits; mägine; maksusüsteem; järv; genf
-1,2,2,1,0,1,1,3,2,11,šveits; neutraliteet; juust; maksusüsteem; genf
-1,1,0,1,0,1,1,1,2,11,šveits; neutraliteet; maksusüsteem; mägine; rahvahääletus; genf
-0,2,1,0,1,0,0,1,2,11,šveits; mägine; maksusüsteem; genf; tunnel
-1,1,1,0,1,0,0,0,2,11,šveits; juust; maksusüsteem; genf; tunnel
-0,2,1,0,1,0,0,0,2,11,šveits; mägine; maksusüsteem; suusatamine; tunnel
+2,1,1,1,0,1,1,1,0,11,šveits; mägine
+2,1,1,1,0,1,1,1,1,11,šveits; mägine
+2,1,1,1,0,1,1,1,2,11,maksusüsteem; šveits; mägine
+2,1,1,1,0,1,1,1,2,11,maksusüsteem; šveits; mägine
+2,1,1,1,0,1,1,1,2,11,maksusüsteem; šveits; mägine
+4,1,2,1,0,1,1,1,2,11,genf; maksusüsteem; järv; šveits; mägine
+1,2,2,1,0,1,1,3,2,11,juust; genf; maksusüsteem; neutraliteet; šveits
+1,1,0,1,0,1,1,1,2,11,genf; neutraliteet; maksusüsteem; šveits; mägine; rahvahääletus
+0,2,1,0,1,0,0,1,2,11,genf; maksusüsteem; šveits; mägine; tunnel
+1,1,1,0,1,0,0,0,2,11,juust; maksusüsteem; genf; šveits; tunnel
+0,2,1,0,1,0,0,0,2,11,maksusüsteem; suusatamine; šveits; mägine; tunnel

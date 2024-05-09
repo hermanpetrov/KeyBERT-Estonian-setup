@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,1,1,0,0,0,0,11,õlu; jaanitul
-0,0,0,0,1,0,0,0,0,11,õlu
-0,0,0,0,1,0,0,1,0,11,õlu; jaanitul
-0,1,0,0,1,0,0,1,0,11,loodus; jaanitul; õlu
-0,0,0,0,1,0,0,1,0,11,õlu; jaanitul
-1,0,0,0,0,0,0,0,0,11,kägu
+0,1,0,2,1,0,0,1,1,11,jaanipäev; õlu; jaanitul
+0,1,0,2,1,0,0,1,1,11,jaanipäev; õlu; jaanitul
+0,1,0,2,1,0,0,1,1,11,jaanipäev; õlu; jaanitul
+0,1,0,2,1,0,0,1,1,11,jaanipäev; õlu; jaanitul
+0,1,0,2,1,0,0,1,1,11,jaanipäev; õlu; jaanitul
+0,1,0,2,1,0,0,2,1,11,õlu; jaanipidu; jaanipäev; jaanitul
+0,1,0,0,1,1,0,2,1,11,jaanipäev; õlu; jaanipidu
+0,1,0,1,1,0,0,3,1,11,õlu; jaanipidu; jaanipäev; jaanitul
+0,2,2,0,1,0,0,3,1,11,õlu; loodus; jaanipidu; jaanipäev; jaanitul; saaremaa
+0,1,0,0,1,0,0,3,1,11,õlu; jaanipidu; jaanipäev; jaanitul
+1,1,0,0,0,0,0,2,1,11,jaanipäev; kägu; jaanipidu

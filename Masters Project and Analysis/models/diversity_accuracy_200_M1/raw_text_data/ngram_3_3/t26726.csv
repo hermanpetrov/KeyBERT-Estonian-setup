@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,5,5,7,3,9,9,7,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-5,5,6,7,3,9,9,8,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-5,6,5,7,3,9,9,9,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-5,6,7,8,5,9,9,11,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-6,7,8,9,6,10,8,11,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-8,6,7,8,8,11,9,11,7,16,august; olesk; tragöödia; mart; peeter; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-8,5,8,9,8,10,6,9,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-8,4,7,10,9,9,5,7,7,16,august; olesk; tragöödia; peeter; mart; kirjandus; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-6,8,7,8,9,7,8,7,9,16,august; olesk; tragöödia; peeter; mart; kirjandus; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-6,6,10,8,9,7,7,5,10,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
-4,7,10,8,9,5,6,7,9,16,august; olesk; tragöödia; peeter; mart; kirjandus; ummelas; komöödia; ärkamisaeg; eesti; kitzberg; vilde
+5,5,5,7,3,9,9,7,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+5,5,6,7,3,9,9,8,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+5,6,5,7,3,9,9,9,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+5,6,7,8,5,9,9,11,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+6,7,8,9,6,10,8,11,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+8,6,7,8,8,11,9,11,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+8,5,8,9,8,10,6,9,7,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+8,4,7,10,9,9,5,7,7,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+6,8,7,8,9,7,8,7,9,16,olesk; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+6,6,10,8,9,7,7,5,10,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia
+4,7,10,8,9,5,6,7,9,16,olesk; ummelas; ärkamisaeg; mart; kirjandus; peeter; eesti; kitzberg; komöödia; august; vilde; tragöödia

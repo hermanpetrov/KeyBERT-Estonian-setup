@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,0,2,1,14,tehnoloogia; poliitik; kommentaar
-0,1,0,0,0,1,1,3,1,14,tehnoloogia; kodanik; poliitik; kommentaar
-0,1,1,0,0,1,0,3,1,14,kommentaar; tehnoloogia; poliitik; kodanik
-0,1,3,0,0,2,0,2,1,14,kommentaar; tehnoloogia; poliitik; kodanik
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,2,0,1,0,3,2,14,seadusalgatus; internetiteenus; jälitamisreegel; lasteporno; poliitik; vanglakaristus; tehnoloogia; kommentaar
+1,3,0,3,0,1,0,3,2,14,lasteporno; vanglakaristus; kommentaar; seadusalgatus; internetiteenus; jälitamisreegel; tehnoloogia; poliitik
+1,3,0,1,0,2,1,4,2,14,vanglakaristus; kommentaar; seadusalgatus; internetiteenus; kodanik; jälitamisreegel; tehnoloogia; poliitik
+1,3,1,2,0,2,0,5,2,14,lasteporno; vanglakaristus; kommentaar; seadusalgatus; internetiteenus; kodanik; jälitamisreegel; tehnoloogia; poliitik
+1,2,3,2,0,3,0,3,3,14,lasteporno; vanglakaristus; kommentaar; seadusalgatus; kodanik; internetiteenus; jälitamisreegel; tehnoloogia; poliitik

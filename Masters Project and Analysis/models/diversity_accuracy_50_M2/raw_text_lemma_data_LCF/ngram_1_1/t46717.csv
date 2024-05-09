@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,0,2,0,0,2,1,2,2,16,kontsert; akustika; tõnu; eesti; riiklik
-0,0,2,0,0,2,1,2,2,16,kontsert; akustika; tõnu; eesti; riiklik
-0,0,2,0,0,2,1,2,2,16,kontsert; akustika; tõnu; eesti; riiklik
-0,0,1,0,0,2,1,2,2,16,kontsert; akustika; tõnu; eesti; riiklik
-0,0,1,0,0,2,1,2,2,16,kontsert; akustika; tõnu; eesti; riiklik
-0,0,2,0,0,2,2,2,2,16,festival; kontsert; akustika; tõnu; eesti; riiklik
-0,0,2,0,0,2,2,1,2,16,festival; kontsert; riiklik; eesti; tõnu; akustika
-0,0,3,0,0,2,1,0,1,16,festival; kontsert; akustika; eesti
-0,0,2,1,0,1,2,1,2,16,festival; kontsert; akustika; eesti
-0,0,2,1,0,1,1,1,1,16,festival; paavo; kontsert; akustika; eesti
-0,0,2,0,0,1,0,1,1,16,festival; eesti; akustika; kontsert
+0,0,3,0,0,3,3,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; tõnu
+0,0,3,0,0,3,3,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; tõnu
+0,0,3,0,0,3,3,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; tõnu
+0,0,1,0,0,3,3,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; tõnu
+0,0,1,0,0,2,3,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; tõnu
+0,0,2,0,0,2,5,3,3,16,eesti; riiklik; sümfooniaorkester; kontsert; kontserdisaal; läänemeri; akustika; festival; tõnu
+0,0,2,0,0,4,3,2,3,16,eesti; riiklik; sümfooniaorkester; kontsert; läänemeri; akustika; festival; tõnu
+0,0,4,0,0,3,2,0,3,16,eesti; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival; kontsert
+0,0,3,1,0,2,2,1,4,16,eesti; sümfooniaorkester; kontserdisaal; läänemeri; akustika; festival; kontsert
+1,0,3,1,0,1,1,2,3,16,eesti; sümfooniaorkester; kontserdisaal; läänemeri; paavo; akustika; festival; kontsert
+1,0,2,0,0,2,0,1,1,16,läänemeri; eesti; akustika; festival; kontsert

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,1,0,0,0,0,0,0,0,19,stuart; rahvuslik
-1,2,0,0,0,0,0,2,0,19,marie; stuart; stewart
-2,0,0,0,0,0,0,3,0,19,marie; stuart; stewart; sõda; robert
-1,2,0,0,0,0,0,0,1,19,marie; kilt; stewart; rahvuslik
-2,3,0,2,0,0,0,1,1,19,margaret; marie; kilt; stewart; stuart; rahvuslik; püha; robert
-1,3,0,2,1,0,0,0,1,19,margaret; marie; stuart; stewart; kroon; püha; rahvuslik
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+2,2,1,1,0,0,1,1,1,19,stuart; rahvuslik; šotimaa
+1,3,1,1,0,0,1,3,1,19,marie; šotimaa; stuart; stewart
+2,0,1,0,0,1,0,4,1,19,marie; robert; kindlusloss; sõda; šotimaa; stuart; stewart
+1,2,1,0,0,0,0,1,2,19,marie; kilt; šotimaa; rahvuslik; stewart
+2,4,1,2,0,1,0,2,2,19,margaret; kilt; marie; robert; püha; rahvuslik; šotimaa; stuart; stewart
+1,3,1,2,1,0,1,1,1,19,margaret; marie; šotimaa; püha; stuart; rahvuslik; kroon; stewart

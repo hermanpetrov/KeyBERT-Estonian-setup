@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,8,6,5,2,6,5,8,6,11,mereriik; eesti; meri; mereakadeemia; meremees; peeter; hierarhia; traditsioon; merekaru; järvelaid
-9,8,6,5,2,6,5,8,6,11,mereriik; eesti; meri; mereakadeemia; meremees; peeter; hierarhia; traditsioon; merekaru; järvelaid
-8,8,8,5,2,7,5,8,7,11,meri; eesti; mereriik; mereakadeemia; meremees; peeter; hierarhia; traditsioon; merekaru; järvelaid
-8,8,8,5,3,8,7,9,7,11,meri; mereriik; peeter; eesti; mereakadeemia; meremees; hierarhia; traditsioon; merekaru; järvelaid
-5,6,7,5,3,8,7,8,7,11,mereriik; eesti; meri; meremees; mereakadeemia; peeter; traditsioon; merekaru; järvelaid
-5,8,9,5,3,8,7,8,7,11,mereriik; eesti; meri; mereakadeemia; meremees; peeter; hierarhia; traditsioon; merekaru; järvelaid
-7,9,7,7,4,5,8,8,7,11,meri; mereriik; peeter; eesti; meremees; mereakadeemia; hierarhia; traditsioon; merekaru; järvelaid
-7,5,6,5,4,3,7,7,8,11,mereriik; eesti; meri; mereakadeemia; meremees; peeter; hierarhia; merekaru; järvelaid
-5,4,5,6,6,6,4,8,8,11,meri; eesti; mereriik; mereakadeemia; peeter; meremees; hierarhia; traditsioon; merekaru; järvelaid
-5,5,7,7,6,4,3,6,9,11,meri; eesti; mereriik; mereakadeemia; peeter; meremees; hierarhia; merekaru; järvelaid
-6,5,3,7,6,4,2,7,9,11,meri; mereriik; peeter; eesti; mereakadeemia; meremees; hierarhia; traditsioon; merekaru; järvelaid
+9,8,6,5,2,6,5,8,6,11,mereriik; peeter; meremees; meri; traditsioon; eesti; hierarhia; merekaru; järvelaid; mereakadeemia
+9,8,6,5,2,6,5,8,6,11,mereriik; peeter; meremees; meri; traditsioon; eesti; hierarhia; merekaru; järvelaid; mereakadeemia
+8,8,8,5,2,7,5,8,7,11,mereriik; hierarhia; meremees; meri; traditsioon; eesti; peeter; merekaru; järvelaid; mereakadeemia
+8,8,8,5,3,8,7,9,7,11,hierarhia; meri; merekaru; järvelaid; mereakadeemia; mereriik; peeter; meremees; traditsioon; eesti
+5,6,7,5,3,8,7,8,7,11,mereriik; peeter; meremees; meri; eesti; traditsioon; merekaru; järvelaid; mereakadeemia
+5,8,9,5,3,8,7,8,7,11,mereriik; hierarhia; meremees; meri; eesti; peeter; traditsioon; merekaru; järvelaid; mereakadeemia
+7,9,7,7,4,5,8,8,7,11,hierarhia; meri; merekaru; järvelaid; mereakadeemia; mereriik; peeter; meremees; eesti; traditsioon
+7,5,6,5,4,3,7,7,8,11,mereriik; peeter; meremees; meri; eesti; hierarhia; merekaru; järvelaid; mereakadeemia
+5,4,5,6,6,6,4,8,8,11,mereriik; peeter; meri; meremees; eesti; hierarhia; traditsioon; merekaru; järvelaid; mereakadeemia
+5,5,7,7,6,4,3,6,9,11,mereriik; peeter; meri; meremees; eesti; hierarhia; merekaru; järvelaid; mereakadeemia
+6,5,3,7,6,4,2,7,9,11,hierarhia; meri; merekaru; järvelaid; mereakadeemia; mereriik; peeter; meremees; eesti; traditsioon

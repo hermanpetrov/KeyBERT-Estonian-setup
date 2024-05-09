@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,1,0,1,1,12,ujumine; triatlon; sport; ain; jooksma
-0,1,2,0,0,1,0,1,1,12,ujumine; triatlon; sport; ain; jooksma
-0,1,2,0,0,1,0,1,0,12,ujumine; triatlon; sport; ain
-0,1,2,0,0,1,0,1,0,12,ujumine; triatlon; sport; ain
-0,1,1,0,0,1,0,1,0,12,ujumine; triatlon; ain
-0,0,1,0,0,1,0,1,0,12,triatlon; ain
-0,1,1,0,0,0,1,1,0,12,ujumine; triatlon
-1,0,1,0,0,1,0,2,0,12,triatlon; sport; ain
+0,1,2,0,0,1,0,1,1,12,ain; ujumine; jooksma; sport; triatlon
+0,1,2,0,0,1,0,1,1,12,ain; ujumine; jooksma; sport; triatlon
+0,1,2,0,0,1,0,1,0,12,ain; ujumine; sport; triatlon
+0,1,2,0,0,1,0,1,0,12,ain; ujumine; sport; triatlon
+0,1,1,0,0,1,0,1,0,12,ain; ujumine; triatlon
+0,0,1,0,0,1,0,1,0,12,ain; triatlon
+0,1,1,0,0,0,1,2,0,12,ujumine; täispikk; triatlon
+1,0,1,0,0,1,0,2,0,12,ain; triatlon; sport
 1,1,0,0,1,0,0,1,0,12,triatlon; sport
-1,0,0,1,2,0,1,0,0,12,triatlon; sport; ain
-1,0,0,2,2,0,1,0,1,12,triatlon; sport; kilomeeter; ain; üheksa
+1,0,0,1,2,0,1,1,0,12,ain; täispikk; triatlon; sport
+1,0,0,2,2,0,1,0,1,12,ain; üheksa; sport; kilomeeter; triatlon

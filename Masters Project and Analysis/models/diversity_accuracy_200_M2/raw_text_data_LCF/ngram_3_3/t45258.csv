@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-13,11,11,11,3,6,4,6,6,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-13,10,11,11,3,7,4,6,6,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-14,9,11,11,3,6,4,7,7,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-14,8,13,11,4,6,6,9,7,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-14,8,12,12,6,7,7,10,6,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-12,9,13,10,6,8,7,8,8,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-8,10,11,11,8,9,9,11,7,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-7,8,11,11,9,9,9,9,7,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-7,8,11,11,9,9,10,8,9,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-5,6,10,11,10,9,10,12,10,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
-7,8,11,11,11,9,10,11,10,19,elanikkond; usa; salme; kosmosesüstik; muinaslaev; kreeka; festival; taali; pärimusmuusika; mesila; bulgaaria; liit; euroopa; rudolf
+13,11,11,11,3,4,6,6,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; festival; liit; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+13,10,11,11,3,4,6,6,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; festival; liit; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+14,9,11,11,3,4,7,7,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; liit; festival; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+14,8,13,11,4,6,9,7,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; liit; festival; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+14,8,12,12,6,7,10,6,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; liit; festival; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+12,9,13,10,6,7,8,8,0,19,salme; rudolf; taali; kosmosesüstik; mesila; euroopa; kreeka; liit; festival; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+8,10,11,11,8,9,11,7,0,19,salme; rudolf; taali; kosmosesüstik; mesila; euroopa; kreeka; elanikkond; festival; liit; pärimusmuusika; muinaslaev; bulgaaria; usa
+7,8,11,11,9,9,9,7,0,19,salme; taali; kosmosesüstik; mesila; euroopa; kreeka; liit; festival; pärimusmuusika; usa; muinaslaev; bulgaaria; elanikkond
+7,8,11,11,9,10,8,9,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; elanikkond; liit; festival; pärimusmuusika; muinaslaev; bulgaaria; usa
+5,6,10,11,10,10,12,10,0,19,salme; rudolf; taali; kosmosesüstik; mesila; kreeka; euroopa; elanikkond; liit; festival; pärimusmuusika; muinaslaev; bulgaaria; usa
+7,8,11,11,11,10,11,10,0,19,salme; rudolf; taali; kosmosesüstik; mesila; euroopa; kreeka; elanikkond; festival; liit; pärimusmuusika; muinaslaev; bulgaaria; usa

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-9,10,5,5,9,5,4,6,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; holland; the; raadio; dragons; soonik
-9,10,5,5,9,5,4,6,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; holland; the; raadio; dragons; soonik
-9,9,5,5,9,5,4,6,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; holland; the; raadio; dragons; soonik
-9,9,6,5,9,5,4,6,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; holland; the; raadio; dragons; soonik
-9,9,6,5,9,5,4,5,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; holland; the; raadio; dragons; soonik
-10,9,6,5,9,5,4,5,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
-12,10,4,7,9,5,3,5,3,21,alter; two; sigrid; and; erki; pärnoja; ewert; meisterjaan; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
-9,13,4,4,11,4,4,5,3,21,alter; two; sigrid; erki; and; pärnoja; ewert; roll; meisterjaan; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
-7,10,4,7,11,3,3,5,3,21,alter; two; sigrid; erki; and; pärnoja; ewert; roll; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
-8,6,11,5,11,4,2,5,4,21,alter; two; sigrid; erki; and; pärnoja; ewert; roll; meisterjaan; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
-5,4,7,5,10,5,4,5,5,21,alter; two; sigrid; and; pärnoja; ewert; roll; meisterjaan; kaks; festival; eurosonic; rock; holland; the; raadio; dragons; soonik
+9,10,5,5,9,5,4,6,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+9,10,5,5,9,5,4,6,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+9,9,5,5,9,5,4,6,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+9,9,6,5,9,5,4,6,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+9,9,6,5,9,5,4,5,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+10,9,6,5,9,5,4,5,3,21,meisterjaan; pärnoja; alter; dragons; and; two; festival; rock; erki; raadio; sigrid; eurosonic; the; ewert; kaks; holland; soonik
+12,10,4,7,9,5,3,5,3,21,meisterjaan; pärnoja; alter; dragons; and; two; festival; rock; erki; raadio; sigrid; eurosonic; the; ewert; kaks; holland; soonik
+9,13,4,4,11,4,4,5,3,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; roll; rock; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+7,10,4,7,11,3,3,5,3,21,pärnoja; alter; holland; dragons; and; two; festival; roll; rock; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+8,6,11,5,11,4,2,5,4,21,meisterjaan; pärnoja; alter; holland; dragons; and; two; festival; roll; rock; raadio; sigrid; eurosonic; the; ewert; kaks; erki; soonik
+5,4,7,5,10,5,4,5,5,21,meisterjaan; pärnoja; alter; dragons; and; two; festival; roll; rock; raadio; sigrid; eurosonic; the; ewert; kaks; holland; soonik

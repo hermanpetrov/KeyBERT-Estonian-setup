@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,6,5,5,4,3,8,8,4,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-5,6,5,5,4,4,7,9,4,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-5,6,5,5,4,4,7,9,3,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-5,7,5,6,5,5,7,8,3,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-5,5,5,6,5,9,7,8,3,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-4,7,5,5,5,7,7,8,3,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-8,7,5,8,5,5,7,8,4,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; kunst; elken; jaan; maal
-4,5,5,6,5,6,5,5,4,14,aiad; ränder; elken; sotsia; salajased; jaan; maal; biotehnoloogia; infotankistid; näitus; akvarell
-3,5,9,6,8,6,7,6,3,14,aiad; ränder; sotsia; salajased; biotehnoloogia; infotankistid; näitus; akvarell; elken; jaan; maal
-4,6,7,5,6,3,5,5,4,14,aiad; ränder; elken; sotsia; salajased; jaan; maal; biotehnoloogia; infotankistid; näitus; akvarell
-3,6,7,5,6,2,4,3,5,14,kunst; aiad; ränder; elken; sotsia; salajased; jaan; maal; biotehnoloogia; infotankistid; näitus; akvarell
+5,6,5,5,4,3,8,8,4,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+5,6,5,5,4,4,7,9,4,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+5,6,5,5,4,4,7,9,3,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+5,7,5,6,5,5,7,8,3,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+5,5,5,6,5,9,7,8,3,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+4,7,5,5,5,7,7,8,3,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+8,7,5,8,5,5,7,8,4,14,akvarell; sotsia; elken; kunst; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+4,5,5,6,5,6,5,5,4,14,akvarell; sotsia; infotankistid; salajased; aiad; elken; jaan; maal; biotehnoloogia; ränder; näitus
+3,5,9,6,8,6,7,6,3,14,akvarell; sotsia; elken; maal; biotehnoloogia; näitus; infotankistid; salajased; aiad; jaan; ränder
+4,6,7,5,6,3,5,5,4,14,akvarell; sotsia; infotankistid; elken; aiad; salajased; jaan; ränder; biotehnoloogia; maal; näitus
+3,6,7,5,6,2,4,3,5,14,akvarell; sotsia; infotankistid; elken; aiad; salajased; jaan; kunst; maal; biotehnoloogia; ränder; näitus

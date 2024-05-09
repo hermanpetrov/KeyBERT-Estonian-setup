@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,0,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,2,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,3,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,2,1,2,2,2,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,3,1,2,3,0,11,sündmus; kreutzwald; jakobson; eesti; inimene
-1,0,4,0,3,1,2,3,0,11,sündmus; kreutzwald; jakobson; eesti; inimene
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,2,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,6,1,2,2,4,4,2,11,jakobson; kreutzwald; rahvajutt; eesti; rahvakultuur; inimene; sündmus
+2,0,5,1,2,2,4,5,2,11,jakobson; kreutzwald; eesti; rahvakultuur; inimene; sündmus; rahvajutt
+2,0,5,1,2,2,4,4,2,11,jakobson; kreutzwald; eesti; rahvakultuur; inimene; sündmus; rahvajutt
+2,0,5,1,3,2,4,5,0,11,jakobson; kreutzwald; eesti; rahvakultuur; inimene; sündmus; rahvajutt
+2,0,5,2,3,2,4,4,0,11,jakobson; kreutzwald; eesti; rahvakultuur; inimene; sündmus; rahvajutt

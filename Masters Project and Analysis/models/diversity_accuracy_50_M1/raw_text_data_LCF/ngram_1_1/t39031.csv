@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,0,0,2,0,0,1,1,13,enno; uno; habe; eesti; mees
-0,1,0,0,2,0,0,1,1,13,enno; uno; habe; eesti; mees
-0,1,0,0,2,0,0,1,1,13,enno; uno; habe; eesti; mees
-0,1,0,0,2,0,0,1,1,13,enno; uno; habe; eesti; mees
-0,1,0,0,2,0,0,1,1,13,enno; uno; habe; eesti; mees
-0,0,0,0,2,0,0,1,1,13,habe; uno; eesti; mees
-0,0,0,0,1,0,0,1,1,13,uno; eesti; mees
-0,0,1,0,0,0,0,0,1,13,eesti; austraalia
-0,0,1,1,0,0,0,0,1,13,eesti; austraalia
-0,1,0,2,1,0,0,1,1,13,enno; uno; habe; eesti; loop; austraalia
-0,0,1,1,1,0,0,1,1,13,enno; eesti; loop; austraalia
+0,1,0,0,2,0,1,1,0,13,uno; mees; habe; eesti; enno
+0,1,0,0,2,0,1,1,0,13,uno; mees; habe; eesti; enno
+0,1,0,0,2,0,1,1,0,13,uno; mees; habe; eesti; enno
+0,1,0,0,2,0,1,1,0,13,uno; mees; habe; eesti; enno
+0,1,0,0,2,0,1,1,0,13,uno; mees; habe; eesti; enno
+0,0,0,0,2,0,1,1,0,13,uno; mees; habe; eesti
+0,0,0,0,1,0,1,1,0,13,uno; mees; eesti
+0,0,1,0,0,0,0,1,0,13,austraalia; eesti
+0,0,1,1,0,0,0,1,0,13,austraalia; eesti
+0,1,0,2,1,0,1,1,0,13,uno; austraalia; habe; eesti; loop; enno
+0,0,1,1,1,0,1,1,0,13,loop; austraalia; eesti; enno

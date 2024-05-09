@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,0,4,0,3,2,4,2,1,25,torseless; esimene; remark; sõja; realism; ferdinand; maailmasõda; sõjaromaan; erich
-2,0,4,0,3,2,4,2,1,25,torseless; esimene; remark; sõja; realism; ferdinand; maailmasõda; sõjaromaan; erich
-2,0,3,0,3,2,4,2,1,25,torseless; esimene; remark; sõja; realism; ferdinand; maailmasõda; sõjaromaan; erich
-2,0,3,0,3,2,4,2,1,25,torseless; esimene; remark; sõja; realism; ferdinand; maailmasõda; sõjaromaan; erich
-2,1,3,0,3,2,4,1,1,25,torseless; esimene; ludwig; remark; sõja; realism; ferdinand; maailmasõda; sõjaromaan; erich
-1,1,3,0,3,1,2,0,1,25,torseless; esimene; ludwig; remark; realism; maailmasõda; ferdinand; sõjaromaan; erich
-1,1,2,0,3,1,1,0,1,25,ludwig; remark; realism; ferdinand; torseless; esimene; erich
-0,1,1,0,3,1,2,0,0,25,ludwig; remark; realism; ferdinand; roland; torseless; erich
-1,1,1,0,3,1,2,0,1,25,ludwig; remark; realism; ferdinand; roland; torseless; maria; erich
-1,2,1,0,3,1,1,0,1,25,ludwig; remark; realism; ferdinand; torseless; maria; erich
-2,1,0,0,4,1,1,0,0,25,ludwig; remark; uus; realism; ferdinand; torseless
+2,0,4,0,3,4,2,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; sõja; esimene; remark; maailmasõda
+2,0,4,0,3,4,2,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; sõja; esimene; remark; maailmasõda
+2,0,3,0,3,4,2,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; sõja; esimene; remark; maailmasõda
+2,0,3,0,3,4,2,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; sõja; esimene; remark; maailmasõda
+2,1,3,0,3,4,1,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; sõja; ludwig; esimene; remark; maailmasõda
+1,1,3,0,3,2,0,1,0,25,realism; erich; torseless; sõjaromaan; ferdinand; esimene; ludwig; remark; maailmasõda
+1,1,2,0,3,1,0,1,0,25,esimene; ludwig; realism; erich; remark; torseless; ferdinand
+0,1,1,0,3,2,0,0,0,25,ludwig; realism; erich; remark; torseless; ferdinand; roland
+1,1,1,0,3,2,0,1,0,25,maria; ludwig; realism; erich; remark; torseless; ferdinand; roland
+1,2,1,0,3,1,0,1,0,25,maria; ludwig; realism; erich; remark; torseless; ferdinand
+2,1,0,0,4,1,0,0,0,25,ludwig; realism; remark; torseless; ferdinand; uus

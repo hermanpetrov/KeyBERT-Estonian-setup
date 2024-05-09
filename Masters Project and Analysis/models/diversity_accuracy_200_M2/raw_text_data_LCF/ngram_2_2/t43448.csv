@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-10,6,7,6,3,5,4,6,5,15,lübeck; ekspositsioon; kaupmees; tõnis; rõdu; ivar; kelder; muusikute; ajaloomuuseum; suurgildi; leimus; hoone
-10,6,8,6,4,5,4,6,5,15,lübeck; ekspositsioon; kaupmees; tõnis; rõdu; ivar; kelder; muusikute; ajaloomuuseum; suurgildi; leimus; hoone
-9,6,8,5,4,5,5,6,5,15,lübeck; ekspositsioon; kaupmees; tõnis; rõdu; ivar; kelder; muusikute; ajaloomuuseum; suurgildi; leimus; hoone
-9,6,9,6,3,6,5,7,5,15,lübeck; rõdu; kelder; muusikute; ajaloomuuseum; suurgildi; ekspositsioon; kaupmees; tõnis; ivar; leimus; hoone
-6,6,9,5,5,7,6,8,5,15,lübeck; rõdu; kelder; muusikute; ajaloomuuseum; suurgildi; ekspositsioon; kaupmees; tõnis; ivar; leimus; hoone
-7,6,9,4,6,5,6,8,5,15,lübeck; ekspositsioon; tõnis; rõdu; ivar; muusikute; kelder; ajaloomuuseum; suurgildi; leimus; hoone
-6,4,8,5,5,7,6,7,5,15,lübeck; ekspositsioon; tõnis; rõdu; ivar; muusikute; kelder; suurgildi; leimus; ajaloomuuseum; hoone
-6,7,8,6,5,5,4,7,5,15,lübeck; rõdu; kelder; muusikute; suurgildi; ajaloomuuseum; ekspositsioon; kaupmees; tõnis; ivar; leimus; hoone
-6,6,6,9,6,5,4,7,4,15,lübeck; rõdu; muusikute; kelder; suurgildi; ajaloomuuseum; ekspositsioon; kaupmees; tõnis; ivar; leimus; hoone
-6,5,6,7,8,6,8,4,6,15,lübeck; rõdu; kelder; muusikute; ajaloomuuseum; suurgildi; ekspositsioon; kaupmees; tõnis; ivar; leimus; hoone
-6,3,5,7,7,5,5,4,6,15,lübeck; ekspositsioon; kaupmees; tõnis; rõdu; ivar; muusikute; kelder; ajaloomuuseum; leimus; suurgildi; hoone
+10,6,7,6,3,4,6,5,0,15,lübeck; kelder; ivar; rõdu; kaupmees; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+10,6,8,6,4,4,6,5,0,15,lübeck; kelder; ivar; rõdu; kaupmees; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+9,6,8,5,4,5,6,5,0,15,lübeck; kelder; ivar; rõdu; kaupmees; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+9,6,9,6,3,5,7,5,0,15,lübeck; rõdu; leimus; ekspositsioon; ajaloomuuseum; kelder; ivar; kaupmees; muusikute; suurgildi; tõnis; hoone
+6,6,9,5,5,6,8,5,0,15,lübeck; rõdu; leimus; ekspositsioon; ajaloomuuseum; kelder; ivar; kaupmees; muusikute; suurgildi; tõnis; hoone
+7,6,9,4,6,6,8,5,0,15,lübeck; kelder; ivar; rõdu; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+6,4,8,5,5,6,7,5,0,15,lübeck; kelder; rõdu; ivar; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum
+6,7,8,6,5,4,7,5,0,15,lübeck; rõdu; leimus; ekspositsioon; ajaloomuuseum; kelder; ivar; kaupmees; muusikute; suurgildi; tõnis; hoone
+6,6,6,9,6,4,7,4,0,15,lübeck; rõdu; leimus; ekspositsioon; ajaloomuuseum; kelder; ivar; kaupmees; muusikute; suurgildi; tõnis; hoone
+6,5,6,7,8,8,4,6,0,15,lübeck; rõdu; leimus; ekspositsioon; ajaloomuuseum; kelder; ivar; kaupmees; muusikute; suurgildi; tõnis; hoone
+6,3,5,7,7,5,4,6,0,15,lübeck; kelder; rõdu; ivar; kaupmees; muusikute; leimus; suurgildi; ekspositsioon; tõnis; hoone; ajaloomuuseum

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-2,1,0,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-2,1,0,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-2,1,0,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-2,1,1,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-2,1,1,0,2,2,1,2,0,16,edinburgh; loss; šotimaa; mägismaa; esimene
-0,3,1,0,2,1,0,1,0,16,henry; šotimaa; loss; esimene; elizabeth
-3,3,0,0,2,1,0,1,1,16,henry; loss; šotimaa; esimene; elizabeth
-0,2,1,0,2,0,1,1,0,16,edinburgh; šotimaa; loss; bob; esimene; elizabeth
-1,1,1,0,2,1,0,2,0,16,šotimaa; loss; bob; esimene; elizabeth
-1,1,0,0,0,0,0,2,1,16,bob; esimene; šotimaa
+2,1,0,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+2,1,0,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+2,1,0,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+2,1,0,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+2,1,1,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+2,1,1,0,2,2,1,2,0,16,šotimaa; loss; esimene; mägismaa; edinburgh
+0,3,1,0,2,1,0,1,0,16,šotimaa; elizabeth; loss; esimene; henry
+3,3,0,0,2,1,0,1,1,16,šotimaa; elizabeth; loss; esimene; henry
+0,2,1,0,2,0,1,1,0,16,šotimaa; elizabeth; loss; esimene; edinburgh; bob
+1,1,1,0,2,1,0,2,0,16,šotimaa; elizabeth; esimene; loss; bob
+1,1,0,0,0,0,0,2,1,16,šotimaa; esimene; bob

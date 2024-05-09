@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,1,1,0,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-2,1,0,1,1,0,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-2,1,0,1,1,0,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-2,1,0,1,1,0,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-2,1,0,1,1,0,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-3,1,0,1,1,1,1,1,0,14,friedrich; wilhelm; monumentalism; berliin
-1,3,0,2,1,1,1,1,0,14,brandenburg; müür; monumentalism; berliin
-1,2,0,1,0,0,1,2,0,14,brandenburg; bismarck; berliin
-1,1,0,1,1,1,1,3,0,14,bismarck; friedrich; monumentalism; berliin
-3,1,0,1,1,1,0,2,0,14,brandenburg; bismarck; müür; friedrich; berliin
-1,1,1,2,1,0,1,2,0,14,müür; friedrich; wilhelm; berliin
+2,2,1,2,1,1,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+2,2,1,2,1,1,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+2,2,1,2,1,1,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+2,2,1,2,1,1,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+2,2,1,2,1,1,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+3,2,1,2,1,2,2,1,0,14,berliin; monumentalism; saksamaa; wilhelm; friedrich
+1,4,1,2,1,2,2,3,0,14,berliin; brandenburg; müür; monumentalism; saksamaa; maailmasõda
+1,3,1,1,0,1,3,3,0,14,berliin; brandenburg; saksamaa; maailmasõda; bismarck
+1,1,0,1,1,2,2,5,0,14,berliin; monumentalism; saksamaa; friedrich; maailmasõda; bismarck
+3,1,0,1,1,1,1,4,0,14,berliin; brandenburg; saksamaa; friedrich; bismarck; müür; maailmasõda
+1,1,1,2,1,0,2,4,0,14,berliin; saksamaa; wilhelm; friedrich; müür; maailmasõda

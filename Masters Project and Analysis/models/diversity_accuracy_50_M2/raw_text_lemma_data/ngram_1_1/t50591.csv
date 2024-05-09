@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,2,5,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,5,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,5,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,4,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,4,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,3,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,3,1,1,1,0,2,2,12,uusorg; margo; võistlus; jooksma; distants; ulrich
-1,2,3,0,1,1,1,2,2,12,uusorg; margo; võistlus; distants; ulrich
-1,2,2,0,1,0,1,1,2,12,uusorg; margo; võistlus; distants; ulrich
-1,2,2,1,1,2,1,2,2,12,uusorg; margo; võistlus; distants; ulrich
-1,2,2,1,1,1,1,1,2,12,uusorg; margo; võistlus; distants; ulrich; strateegia
+3,2,6,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,6,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,6,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,5,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,5,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,3,2,1,2,1,5,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,3,2,1,2,1,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; jooksma; ulrich; lauskmaa; distants; uusorg
+3,2,3,1,1,2,2,4,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; lauskmaa; ulrich; distants; uusorg
+3,2,2,1,1,0,1,3,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; lauskmaa; ulrich; distants; uusorg
+3,2,2,2,1,2,2,3,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; ulrich; distants; uusorg
+3,2,2,2,1,1,2,3,2,12,margo; veetakistus; võistlus; naisekandmine; maailmameister; lauskmaa; ulrich; distants; strateegia; uusorg

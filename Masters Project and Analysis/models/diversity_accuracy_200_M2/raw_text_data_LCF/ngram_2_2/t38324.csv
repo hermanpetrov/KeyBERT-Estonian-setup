@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,8,3,6,1,6,7,7,4,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-3,8,4,6,1,8,7,8,4,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-4,8,3,6,1,8,7,8,3,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-2,8,2,6,2,8,7,8,3,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-2,8,2,6,2,8,6,7,3,13,juhansoni; rahva; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-4,6,3,5,4,4,3,7,3,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; maapagu
-5,5,4,5,5,5,5,5,3,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-5,7,5,4,4,7,6,7,3,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-5,6,4,4,6,7,3,6,2,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; etnoloog; maapagu
-5,6,7,5,6,7,3,6,5,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
-6,6,6,3,6,6,3,6,4,13,juhansoni; rahva; reisid; ilmar; soome; talve; rootsi; ekspeditsioon; etnoloog; maapagu
+3,8,3,6,1,7,7,4,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+3,8,4,6,1,7,8,4,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+4,8,3,6,1,7,8,3,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+2,8,2,6,2,7,8,3,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+2,8,2,6,2,6,7,3,0,13,rootsi; juhansoni; soome; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+4,6,3,5,4,3,7,3,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; ekspeditsioon; maapagu; rahva
+5,5,4,5,5,5,5,3,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+5,7,5,4,4,6,7,3,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+5,6,4,4,6,3,6,2,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; maapagu; rahva
+5,6,7,5,6,3,6,5,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva
+6,6,6,3,6,3,6,4,0,13,rootsi; juhansoni; soome; reisid; ilmar; talve; etnoloog; ekspeditsioon; maapagu; rahva

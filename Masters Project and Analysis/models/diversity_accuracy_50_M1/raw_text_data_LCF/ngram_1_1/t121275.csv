@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,0,0,0,0,1,1,0,3,13,vene; jõud; muusika; sonaat
-1,0,0,0,0,1,1,0,3,13,vene; jõud; muusika; sonaat
-1,0,0,0,0,1,1,0,3,13,vene; jõud; muusika; sonaat
-1,0,1,0,0,1,1,0,3,13,vene; jõud; muusika; sonaat
-1,0,0,0,0,1,1,0,3,13,vene; jõud; muusika; sonaat
-1,1,0,0,0,0,0,0,3,13,vene; jõud; muusika; sonaat
-0,0,0,0,0,1,0,0,3,13,vene; sonaat; jõud; muusika
-0,0,0,0,0,1,0,1,3,13,vene; rumessen; jõud; muusika; sonaat
-0,0,0,0,0,1,1,1,3,13,vene; rumessen; jõud; muusika; sonaat
-1,0,0,0,0,1,1,1,2,13,jõud; sonaat; rumessen; muusika
-1,0,1,0,0,0,1,1,2,13,vene; rumessen; jõud; muusika; sonaat
+1,0,0,0,0,1,0,3,0,13,sonaat; muusika; vene; jõud
+1,0,0,0,0,1,0,3,0,13,sonaat; muusika; vene; jõud
+1,0,0,0,0,1,0,3,0,13,sonaat; muusika; vene; jõud
+1,0,1,0,0,1,0,3,0,13,sonaat; muusika; vene; jõud
+1,0,0,0,0,1,0,3,0,13,sonaat; muusika; vene; jõud
+1,1,0,0,0,0,0,3,0,13,sonaat; muusika; vene; jõud
+0,0,0,0,0,0,0,3,0,13,muusika; vene; jõud
+0,0,0,0,0,0,1,3,0,13,vene; sonaat; muusika; jõud
+0,0,0,0,0,1,1,3,0,13,vene; sonaat; muusika; jõud
+1,0,0,0,0,1,1,2,0,13,sonaat; muusika; rumessen; jõud
+1,0,1,0,0,1,1,2,0,13,sonaat; muusika; vene; rumessen; jõud

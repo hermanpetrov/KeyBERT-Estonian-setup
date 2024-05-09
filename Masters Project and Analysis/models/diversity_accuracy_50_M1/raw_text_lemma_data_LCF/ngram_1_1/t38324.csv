@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,3,1,1,1,3,1,0,15,talv; töö; raamat; mälestus; tegevus; ants; teaduslik; ilmar; põgenema; etnoloog
-1,1,2,1,1,2,2,1,0,15,talv; raamat; mälestus; tegevus; ants; ilmar; põgenema; etnoloog
-1,1,3,1,1,2,2,2,0,15,talv; tegevus; mälestus; ants; teaduslik; ilmar; põgenema; viires; etnoloog
-1,0,3,1,1,2,5,3,0,15,talv; tegevus; mälestus; ants; raamat; teaduslik; ilmar; põgenema; viires; etnoloog
-0,0,1,0,0,2,3,2,1,15,põgenema; talv; ants; raamat; etnoloog; ilmar
-0,0,1,0,0,1,2,1,1,15,põgenema; ants; ilmar
-0,0,2,1,0,2,2,1,1,15,põgenema; töö; ants; mälestus; teaduslik; ilmar
-0,0,2,2,0,2,2,1,1,15,põgenema; töö; raamat; mälestus; ants; teaduslik; ilmar
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,1,3,1,0,15,mälestus; põgenema; teaduslik; töö; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,2,1,1,2,2,1,0,15,mälestus; põgenema; ilmar; tegevus; etnoloog; raamat; ants; talv
+1,1,3,1,1,2,2,2,0,15,mälestus; viires; põgenema; teaduslik; ilmar; tegevus; etnoloog; ants; talv
+1,0,3,1,1,2,5,3,0,15,mälestus; viires; põgenema; teaduslik; ilmar; tegevus; etnoloog; raamat; ants; talv
+0,0,1,0,0,2,3,2,1,15,raamat; põgenema; ants; talv; ilmar; etnoloog
+0,0,1,0,0,1,2,1,1,15,ilmar; põgenema; ants
+0,0,2,1,0,2,2,1,1,15,mälestus; põgenema; teaduslik; töö; ilmar; ants
+0,0,2,2,0,2,2,1,1,15,mälestus; raamat; põgenema; teaduslik; töö; ilmar; ants

@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,2,2,1,0,1,1,3,0,13,ema; laps; isa; amanda; piret
-0,2,2,1,0,1,1,3,0,13,ema; laps; isa; amanda; piret
-0,2,2,1,0,1,1,3,0,13,ema; laps; isa; amanda; piret
-0,2,2,1,0,1,1,3,0,13,ema; laps; isa; amanda; piret
-0,2,2,1,0,1,1,4,0,13,ema; laps; amanda; isa; piret
-0,2,2,1,0,1,1,3,0,13,ema; isa; amanda
-1,0,1,0,0,1,2,2,0,13,ema; õde; isa; amanda
-1,1,0,0,0,2,2,2,0,13,ema; õde; isa; amanda; lapsepõlv
-0,0,1,0,0,2,2,2,0,13,ema; õde; isa; amanda
-0,1,3,0,0,3,0,0,1,13,ema; laps; õde; isa; amanda; piret
-0,0,0,1,0,1,1,0,1,13,õde; ema; isa
+0,2,2,1,0,1,1,3,0,13,isa; laps; piret; amanda; ema
+0,2,2,1,0,1,1,3,0,13,isa; laps; piret; amanda; ema
+0,2,2,1,0,1,1,3,0,13,isa; laps; piret; amanda; ema
+0,2,2,1,0,1,1,3,0,13,isa; laps; piret; amanda; ema
+0,2,2,1,0,1,1,4,0,13,laps; piret; isa; amanda; ema
+0,2,2,1,0,1,1,3,0,13,isa; amanda; ema
+1,0,1,0,0,1,2,2,0,13,isa; amanda; õde; ema
+1,1,0,0,0,2,2,2,0,13,isa; amanda; õde; ema; lapsepõlv
+0,0,1,0,0,2,2,2,0,13,isa; amanda; õde; ema
+0,1,3,0,0,3,0,0,1,13,laps; piret; isa; amanda; õde; ema
+0,0,0,1,0,1,1,0,1,13,isa; õde; ema

@@ -4,9 +4,9 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,0,0,0,0,12,kriivan
 0,1,0,0,0,0,0,0,0,12,kriivan
 0,1,0,0,0,0,0,0,0,12,kriivan
-0,2,1,0,0,0,0,0,0,12,kriivan; soust; sõda
-0,2,1,0,0,0,0,0,0,12,kriivan; soust; sõda
-0,0,2,1,0,1,0,0,0,12,pulmapidu; ants; hein; sõda
+0,2,1,0,0,0,0,0,0,12,sõda; kriivan; soust
+0,2,1,0,0,0,0,0,0,12,sõda; kriivan; soust
+0,0,2,1,0,0,0,0,0,12,sõda; ants; hein
 0,0,2,0,0,0,0,0,0,12,ants; hein
-0,0,3,0,0,0,0,0,0,12,sõda; hein; ants
-0,0,4,0,0,0,0,0,0,12,kriivan; ants; hein; piret
+0,0,3,0,0,0,0,0,0,12,hein; ants; sõda
+0,0,4,0,0,0,0,0,0,12,kriivan; piret; ants; hein

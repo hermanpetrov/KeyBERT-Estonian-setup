@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-3,3,0,1,0,3,2,4,1,14,abielu; mets; võimude; reimo; geiaktivist; jurist; urmas
-3,3,0,1,0,3,2,4,1,14,abielu; mets; võimude; reimo; geiaktivist; jurist; urmas
-3,3,0,1,0,3,2,4,1,14,abielu; mets; võimude; reimo; geiaktivist; jurist; urmas
-2,3,0,1,0,3,2,4,1,14,abielu; mets; võimude; reimo; geiaktivist; jurist; urmas
-3,3,2,1,0,3,2,5,1,14,abielu; mets; võimude; reimo; geiaktivist; vaino; jurist; urmas
-4,3,3,1,0,3,2,5,1,14,abielu; mets; võimude; reimo; geiaktivist; vaino; jurist; urmas
-1,0,2,3,0,2,2,4,2,14,mets; võimude; reimo; vaino; ühiskond; jurist; urmas
-0,1,3,2,0,3,1,5,0,14,abielu; mets; kirik; reimo; vaino; ühiskond; jurist; urmas
-0,0,3,2,0,3,1,6,0,14,abielu; mets; reimo; vaino; ühiskond; jurist; urmas
-0,0,1,0,0,2,2,4,1,14,abielu; mets; jurist; ühiskond; reimo; geiaktivist; urmas
-0,0,3,1,2,2,3,5,0,14,abielu; mets; kirik; reimo; geiaktivist; vaino; jurist; urmas
+3,3,0,1,0,2,4,1,0,14,geiaktivist; urmas; reimo; võimude; jurist; abielu; mets
+3,3,0,1,0,2,4,1,0,14,geiaktivist; urmas; reimo; võimude; jurist; abielu; mets
+3,3,0,1,0,2,4,1,0,14,geiaktivist; urmas; reimo; võimude; jurist; abielu; mets
+2,3,0,1,0,2,4,1,0,14,abielu; geiaktivist; urmas; mets; reimo; võimude; jurist
+3,3,2,1,0,2,5,1,0,14,geiaktivist; urmas; reimo; võimude; jurist; abielu; vaino; mets
+4,3,3,1,0,2,5,1,0,14,geiaktivist; urmas; reimo; võimude; jurist; abielu; vaino; mets
+1,0,2,3,0,2,4,2,0,14,urmas; reimo; võimude; jurist; ühiskond; vaino; mets
+0,1,3,2,0,1,5,0,0,14,kirik; urmas; reimo; jurist; ühiskond; abielu; vaino; mets
+0,0,3,2,0,1,6,0,0,14,urmas; reimo; jurist; ühiskond; abielu; vaino; mets
+0,0,1,0,0,2,4,1,0,14,abielu; geiaktivist; urmas; mets; reimo; jurist; ühiskond
+0,0,3,1,2,3,5,0,0,14,geiaktivist; kirik; urmas; reimo; jurist; abielu; vaino; mets

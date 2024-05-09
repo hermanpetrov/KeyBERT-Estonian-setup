@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-2,1,0,0,0,2,2,0,0,15,kuuekümnendad; kuumad; biitlid; mccartney; lennon
-1,0,0,1,0,2,2,2,0,15,kuuekümnendad; george; kuumad
-0,0,0,0,0,2,2,2,0,15,kuuekümnendad; maania; kuumad
-1,1,2,0,0,3,2,4,0,15,harrison; kuumad; kuuekümnendad; maania; biitlid; epstein
-0,0,2,0,0,3,2,4,0,15,kuuekümnendad; maania; kuumad; epstein
-0,0,0,1,0,2,2,4,0,15,kuuekümnendad; george; kuumad; biitlid; epstein
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+2,1,0,0,0,2,0,0,0,15,biitlid; mccartney; lennon; kuuekümnendad; kuumad
+1,0,0,1,0,2,2,0,0,15,kuumad; kuuekümnendad; george
+0,0,0,0,0,2,2,0,0,15,maania; kuumad; kuuekümnendad
+1,1,2,0,0,2,4,0,0,15,biitlid; maania; kuumad; kuuekümnendad; epstein; harrison
+0,0,2,0,0,2,4,0,0,15,maania; kuuekümnendad; epstein; kuumad
+0,0,0,1,0,2,4,0,0,15,biitlid; kuumad; kuuekümnendad; epstein; george

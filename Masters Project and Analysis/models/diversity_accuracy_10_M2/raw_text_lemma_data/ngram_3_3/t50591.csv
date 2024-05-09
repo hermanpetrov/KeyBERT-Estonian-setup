@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,1,1,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-2,2,2,2,0,0,0,1,0,12,uusorg; võistlus; ulrich
-1,1,2,1,0,0,0,1,0,12,võistlus; ulrich
-2,1,2,0,0,0,0,1,0,12,võistlus; ulrich; strateegia
-3,1,2,1,0,0,0,1,0,12,uusorg; võistlus; ulrich; strateegia
-1,1,1,2,0,1,0,0,0,12,võistlus; ulrich; strateegia
+2,3,3,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,3,3,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,3,3,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,3,3,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,3,3,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,3,2,2,0,0,0,3,0,12,naisekandmine; maailmameister; ulrich; uusorg; võistlus
+2,4,4,2,0,0,0,3,0,12,võistlus; naisekandmine; maailmameister; ulrich; uusorg
+1,2,4,1,0,1,0,3,0,12,naisekandmine; maailmameister; ulrich; võistlus
+2,2,4,1,0,0,2,2,0,12,naisekandmine; maailmameister; ulrich; strateegia; võistlus
+3,1,4,1,0,1,1,2,0,12,võistlus; naisekandmine; maailmameister; ulrich; strateegia; uusorg
+1,2,3,2,0,2,2,1,0,12,naisekandmine; maailmameister; ulrich; strateegia; võistlus

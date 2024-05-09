@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-6,4,4,2,6,2,5,5,3,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-6,6,5,2,6,2,5,5,3,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-6,6,5,2,6,2,5,5,5,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-6,6,5,3,5,2,5,5,5,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-6,6,4,3,5,5,6,5,5,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-5,6,5,3,7,4,6,5,5,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; piret; sõda
-6,7,5,5,7,7,7,6,5,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; sõda; piret
-3,6,6,5,7,6,7,7,7,12,kirik; suu; ants; praalimine; mets-loom; kriivan; hein; sõda; piret
-6,5,5,5,7,5,7,8,5,12,kirik; suu; ants; mets-loom; praalimine; kriivan; hein; piret; sõda
-3,4,5,5,7,5,5,5,5,12,mets-loom; kirik; ants; suu; praalimine; kriivan; hein; sõda; piret
-5,6,7,6,6,6,4,5,5,12,kirik; mets-loom; ants; suu; praalimine; kriivan; hein; piret; sõda
+7,6,5,3,8,4,7,6,4,12,piret; kriivan; kirik; pulmapidu; suu; praalimine; sõda; mets-loom; talupoeg; ants; hein
+7,8,7,3,8,4,7,6,4,12,piret; kriivan; kirik; pulmapidu; suu; praalimine; sõda; mets-loom; talupoeg; ants; hein
+8,8,7,3,7,4,7,7,6,12,piret; kriivan; kirik; pulmapidu; suu; praalimine; sõda; mets-loom; talupoeg; ants; hein
+8,8,7,4,6,4,7,7,6,12,piret; kriivan; kirik; pulmapidu; suu; praalimine; sõda; mets-loom; talupoeg; ants; hein
+8,8,5,4,6,7,8,7,6,12,praalimine; suu; sõda; talupoeg; ants; piret; kriivan; kirik; pulmapidu; mets-loom; hein
+7,8,6,4,8,6,7,7,6,12,piret; kirik; kriivan; pulmapidu; suu; praalimine; sõda; mets-loom; talupoeg; ants; hein
+8,9,6,7,8,8,9,8,6,12,praalimine; suu; sõda; talupoeg; ants; piret; kirik; kriivan; pulmapidu; mets-loom; hein
+5,8,8,7,8,7,9,9,9,12,praalimine; suu; sõda; talupoeg; ants; piret; kriivan; kirik; pulmapidu; mets-loom; hein
+8,7,7,7,8,6,9,10,7,12,praalimine; suu; sõda; talupoeg; ants; piret; kriivan; kirik; pulmapidu; mets-loom; hein
+5,6,7,7,9,6,7,7,7,12,praalimine; suu; sõda; talupoeg; ants; piret; kriivan; kirik; pulmapidu; mets-loom; hein
+7,8,9,8,8,7,6,7,7,12,praalimine; suu; sõda; talupoeg; ants; piret; kriivan; kirik; pulmapidu; mets-loom; hein

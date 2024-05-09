@@ -7,6 +7,6 @@ EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_mult
 0,1,0,0,0,1,1,0,0,15,saul; varietee
 0,1,0,1,0,1,0,0,0,15,selberg; saul; varietee
 0,1,0,1,0,1,0,0,0,15,saul; estraadiorkester; varietee
-0,1,0,1,0,1,2,0,0,15,estraadiorkester; varietee; edgar
-1,0,0,0,0,0,2,1,0,15,selberg; estraadiorkester; edgar; peeter
-1,0,0,0,0,0,1,0,0,15,selberg; edgar
+0,1,0,1,0,1,2,0,0,15,edgar; estraadiorkester; varietee
+1,0,0,0,0,0,2,1,0,15,edgar; peeter; estraadiorkester; selberg
+1,0,0,0,0,0,1,0,0,15,edgar; selberg

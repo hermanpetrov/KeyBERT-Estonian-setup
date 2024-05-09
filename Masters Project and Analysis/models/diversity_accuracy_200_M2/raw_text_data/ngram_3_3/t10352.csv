@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-5,4,2,1,4,1,1,1,3,12,nappus; ressursside; nälg; konkurents; ökoloogiline; rahvaarv; sõda
-4,4,2,1,5,1,1,1,3,12,nappus; ressursside; nälg; konkurents; ökoloogiline; rahvaarv; sõda
-4,3,2,1,5,1,1,1,2,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-4,3,2,1,5,1,2,1,2,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,3,2,2,4,1,2,1,2,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,3,2,3,3,3,2,1,2,12,ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-4,2,2,2,2,2,3,2,2,12,nappus; ressursside; nälg; konkurents; ökoloogiline; rahvaarv; sõda
-3,4,4,2,4,3,2,0,2,12,nappus; ressursside; nälg; konkurents; ökoloogiline; rahvaarv; sõda
-3,3,2,3,3,4,2,2,3,12,nappus; ressursside; ökoloogiline; rahvaarv; konkurents; sõda
-4,1,2,3,4,3,3,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
-3,2,4,3,2,4,4,1,3,12,nappus; ressursside; nälg; ökoloogiline; rahvaarv; konkurents; sõda
+5,4,2,1,4,1,1,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,4,2,1,5,1,1,1,3,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+4,3,2,1,5,1,1,1,2,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,3,2,1,5,1,2,1,2,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+3,3,2,2,4,1,2,1,2,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+3,3,2,3,3,3,2,1,2,12,rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline
+4,2,2,2,2,2,3,2,2,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+3,4,4,2,4,3,2,0,2,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+3,3,2,3,3,4,2,2,3,12,nappus; rahvaarv; sõda; konkurents; ressursside; ökoloogiline
+4,1,2,3,4,3,3,1,3,12,nappus; rahvaarv; nälg; sõda; konkurents; ressursside; ökoloogiline
+3,2,4,3,2,4,4,1,3,12,nappus; rahvaarv; sõda; nälg; konkurents; ressursside; ökoloogiline

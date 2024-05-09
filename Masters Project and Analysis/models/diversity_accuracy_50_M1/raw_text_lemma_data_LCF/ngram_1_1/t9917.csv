@@ -1,12 +1,12 @@
 EstBERT,est-roberta,LaBSE,bertMulti,distilbertMulti,MiniLM_multi,MiniLM-L12_multi,multi_e5,xml_roberta,expected_amount,words
-0,1,2,0,0,0,1,1,0,19,aasta; sulev
-0,1,2,0,0,0,1,1,1,19,aasta; sulev; riina
-0,1,2,0,0,0,1,1,1,19,aasta; sulev; riina
-0,1,2,0,0,0,1,1,1,19,aasta; sulev; riina
-0,1,1,0,0,0,1,1,1,19,aasta; sulev; riina
-0,1,1,0,0,1,1,1,1,19,aasta; sulev; riina
-0,1,1,0,0,0,0,2,1,19,eesti; aasta; sulev; riina
-0,1,1,0,0,2,0,0,1,19,aasta; sulev; riina
-0,1,2,0,0,2,0,5,1,19,dekoratiivne; riina; eesti; aasta; autoriteet; heino; sulev
-0,1,2,1,0,2,0,4,1,19,dekoratiivne; riina; eesti; aasta; autoriteet; heino; sulev
-0,1,2,3,0,1,0,2,1,19,dekoratiivne; riina; autoriteet; eesti; heino; aasta; sulev
+3,1,4,1,0,1,3,2,0,19,võistlussport; sulev; tervisesport; aasta; põllumees; olümpiakomitee
+3,1,4,1,0,1,3,2,1,19,võistlussport; sulev; tervisesport; aasta; põllumees; riina; olümpiakomitee
+3,1,4,1,0,1,3,2,1,19,võistlussport; sulev; tervisesport; aasta; põllumees; riina; olümpiakomitee
+3,1,4,1,0,1,3,2,1,19,võistlussport; sulev; tervisesport; aasta; põllumees; riina; olümpiakomitee
+3,1,1,1,0,1,3,2,1,19,võistlussport; sulev; tervisesport; aasta; põllumees; riina; olümpiakomitee
+3,1,2,1,0,1,2,2,1,19,tammsaar; lättemäe; riina; võistlussport; sulev; tervisesport; aasta; olümpiakomitee
+3,1,2,1,0,0,1,3,1,19,tammsaar; lättemäe; eesti; võistlussport; sulev; tervisesport; aasta; riina; olümpiakomitee
+2,2,3,0,0,2,1,1,1,19,tammsaar; lättemäe; võistlussport; sulev; aasta; põllumees; riina; olümpiakomitee
+3,2,3,0,0,2,0,7,1,19,tammsaar; lättemäe; eesti; võistlussport; sulev; köögiviljaad; aasta; riina; autoriteet; dekoratiivne; heino; olümpiakomitee
+2,3,3,3,0,2,0,5,1,19,tammsaar; eesti; võistlussport; sulev; köögiviljaad; tervisesport; aasta; riina; autoriteet; dekoratiivne; laiapea; heino; olümpiakomitee
+3,3,3,4,0,2,0,2,1,19,tammsaar; lättemäe; eesti; võistlussport; sulev; köögiviljaad; tervisesport; aasta; autoriteet; riina; dekoratiivne; heino; olümpiakomitee
